@@ -1,5 +1,7 @@
 # BET PRO
 
+**Aplicatia:** https://betpro-laamkrsjryitxjuadqeyn2.streamlit.app/
+
 Bot de analiza pentru pariuri pe fotbal. In fiecare dimineata GitHub ruleaza botul singur:
 
 1. verifica pariurile de ieri (rezultat, profit, cota de la start = CLV);
