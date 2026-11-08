@@ -41,16 +41,19 @@ def value_picks(matches: list):
             p, pb, pr, src = b
             o, book, book_id = best
             edge = p * o - 1
-            if edge >= config.EDGE_MIN:
+            if edge >= config.EDGE_MIN and (src == "Pinnacle" or int(src.split()[0]) >= config.MIN_BOOKS):
+                # botul si piata nu trebuie sa fie foarte departe unul de altul
+                far = abs(pb - pr) > config.MAX_GAP or pb > pr * config.MAX_RATIO
                 cands.append(dict(match=m, mk=mk, p=p, p_bot=pb, p_ref=pr, src=src, odds=o, book=book,
-                                  book_id=book_id, edge=edge))
-        ok = [c for c in cands if c["edge"] <= config.EDGE_MAX]
-        bad = [c for c in cands if c["edge"] > config.EDGE_MAX]
+                                  book_id=book_id, edge=edge, kelly=edge / (o - 1), far=far))
+        ok = [c for c in cands if c["edge"] <= config.EDGE_MAX and not c["far"]
+              and c["p"] >= config.VALUE_MIN_P and c["odds"] <= config.VALUE_MAX_ODDS]
+        bad = [c for c in cands if c["edge"] > config.EDGE_MAX or c["far"]]
         if ok:
-            main.append(max(ok, key=lambda c: c["edge"]))
+            main.append(max(ok, key=lambda c: c["kelly"]))   # Kelly: prefera cote mai mici la acelasi avantaj
         if bad:
             suspect.append(max(bad, key=lambda c: c["edge"]))
-    main.sort(key=lambda c: -c["edge"])
+    main.sort(key=lambda c: -c["kelly"])
     main = sorted(main[:20], key=lambda c: (c["match"]["kickoff"], c["match"]["name"]))
     suspect.sort(key=lambda c: -c["edge"])
     return main, suspect[:10]

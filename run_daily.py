@@ -25,7 +25,9 @@ def kickoff(iso: str) -> str:
 
 def analyse(api, today: str, log: list):
     fixtures = api.response("/fixtures", date=today, timezone=config.TZ)
+    now = dt.datetime.now(dt.timezone.utc).timestamp()
     fixtures = [f for f in fixtures if f["fixture"]["status"]["short"] in ("NS", "TBD")
+                and (f["fixture"].get("timestamp") or 0) > now
                 and not any(w in f["league"]["name"].lower() for w in config.SKIP_LEAGUE_WORDS)]
     log.append(f"{len(fixtures)} meciuri neincepute azi")
     odds = odds_for_date(api, today)
@@ -43,7 +45,7 @@ def analyse(api, today: str, log: list):
         except Exception as ex:
             log.append(f"liga {lid}: {ex}")
             continue
-        if len(hist) < 30:
+        if len(hist) < config.MIN_LEAGUE_GAMES:
             continue
         lm = LeagueModel(hist)
         used = False

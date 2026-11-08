@@ -28,6 +28,12 @@ W_MARKET = float(os.environ.get("W_MARKET", "0.5"))   # cat conteaza sansa casei
 EDGE_MIN = 0.03
 EDGE_MAX = 0.15
 SURE_MIN = 0.75
+VALUE_MIN_P = 0.25      # fara loterii: la value doar sanse de minim 25%
+VALUE_MAX_ODDS = 5.0
+MAX_GAP = 0.12          # daca botul e cu peste 12 puncte peste piata -> suspect
+MAX_RATIO = 1.6         # sau de 1.6 ori peste piata -> suspect
+MIN_BOOKS = 3           # fara Pinnacle, sansa corecta vine din minim 3 case
+MIN_LEAGUE_GAMES = 80   # liga trebuie sa aiba destul istoric
 TARGETS = [2, 3.5, 5, 7.5, 10, 15, 20]
 
 # ligi sarite (amicale etc.)

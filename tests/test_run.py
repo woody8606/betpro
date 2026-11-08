@@ -47,7 +47,7 @@ def season_games(lid, season, start_id, strength):
 random.seed(2)
 STR = {t: (rng.uniform(0.6, 1.5), rng.uniform(0.6, 1.5)) for lid in (1, 2) for t in range(lid * 100, lid * 100 + 16)}
 HIST = {(lid, s): season_games(lid, s, lid * 100000 + (s - 2024) * 10000, STR) for lid in (1, 2) for s in (2025, 2026)}
-TODAY = [fx(900000 + lid * 100 + i, 0, lid, 2026, lid * 100 + i, lid * 100 + i + 8, status="NS") for lid in (1, 2) for i in range(8)]
+TODAY = [fx(900000 + lid * 100 + i, 4102444800, lid, 2026, lid * 100 + i, lid * 100 + i + 8, status="NS") for lid in (1, 2) for i in range(8)]
 
 
 def book(name, bid, margin, noise):
@@ -98,7 +98,7 @@ class FakeApi:
             out = []
             for f in TODAY:
                 if f["fixture"]["id"] in ids:
-                    g = fx(f["fixture"]["id"], 0, 1, 2026, 1, 2, (2, 1, 1, 0))
+                    g = fx(f["fixture"]["id"], 1, 1, 2026, 1, 2, (2, 1, 1, 0))
                     out.append(g)
             return out
         if path == "/odds" and "fixture" in kw:
