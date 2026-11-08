@@ -116,6 +116,45 @@ def tickets(matches: list):
     return out
 
 
+def build_ticket(matches: list, target: float, max_legs: int = 8, markets=None, min_p: float = 0.5):
+    """Biletul cel mai bun pentru o cota dorita, din meciurile date (un meci o singura data)."""
+    markets = markets or TICKET_MARKETS
+    cand = []
+    for m in matches:
+        lst = []
+        for mk in markets:
+            b = blend(m, mk)
+            best = (m.get("odds") or {}).get("best", {}).get(mk)
+            if not b or not best:
+                continue
+            p, o = b[0], best[0]
+            if min_p <= p < 0.97 and p * o >= 0.99:
+                lst.append(dict(match=m, mk=mk, p=p, odds=o, book=best[1], book_id=best[2], edge=p * o - 1))
+        if lst:
+            cand.append(lst)
+    best_t = None
+    for k in range(1, max_legs + 1):
+        r = target ** (1 / k)
+        if r < 1.15:
+            break
+        scored = []
+        for lst in cand:
+            c = min(lst, key=lambda c: abs(math.log(c["odds"]) - math.log(r)) - 0.5 * c["edge"])
+            scored.append((abs(math.log(c["odds"]) - math.log(r)) - 0.5 * c["edge"] - 0.2 * c["p"], c))
+        if len(scored) < k:
+            break
+        scored.sort(key=lambda x: x[0])
+        legs = [c for _, c in scored[:k]]
+        tot = math.prod(c["odds"] for c in legs)
+        if 0.8 * target <= tot <= 1.35 * target:
+            pr = math.prod(c["p"] for c in legs)
+            t = dict(target=target, legs=sorted(legs, key=lambda c: c["match"]["kickoff"]), odds=tot, p=pr,
+                     fair=1 / pr, edge=pr * tot - 1)
+            if best_t is None or t["p"] * t["odds"] > best_t["p"] * best_t["odds"]:
+                best_t = t
+    return best_t
+
+
 def bombs(matches: list, n: int = 3):
     """HT/FT si scor corect cu sansa cea mai mare, unde cota e peste cota corecta."""
     res = {"HTFT": [], "CS": []}
