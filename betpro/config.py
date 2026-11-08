@@ -10,9 +10,9 @@ REPORTS = ROOT / "reports"
 API_KEY = os.environ.get("API_FOOTBALL_KEY", "").strip()
 TZ = "Europe/London"
 
-# casele la care se poate juca din UK (numele exact cum le da API-Football, fara majuscule)
+# casa (sau casele) la care joci; cotele din email sunt doar de aici. Mai multe: "Betfair,Bet365"
 PLAYABLE_BOOKS = [b.strip().lower() for b in os.environ.get(
-    "BOOKS", "Bet365,William Hill,Betfair,Unibet,888Sport,Betway,Bwin,Paddy Power,Ladbrokes,Coral,Sky Bet,Betfred"
+    "BOOKS", "Betfair"
 ).split(",") if b.strip()]
 REFERENCE_BOOK = "pinnacle"   # arbitrul: cea mai precisa casa (nu se poate juca din UK)
 
