@@ -1,0 +1,37 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1642344,1790514000,20059,6315,Panthouriakos,Panargiakos,0,0,0,0
+1642345,1790514000,24876,24874,Miltiadis Pyrgos,Loutraki,1,0,0,0
+1642342,1790514000,26586,12408,Pelopas Kiatou,Asteras Vlachioti,3,2,2,0
+1642343,1790514000,28459,15482,Panthyreatikos,Iraklis Xylokastro,0,2,0,1
+1642346,1790514000,28460,6307,Ermis Kiveriou,Korinthos,2,2,1,1
+1642347,1790514000,28462,28458,Asteras Amaliadas,Telos Agras,2,1,0,0
+1642348,1791032400,12408,6315,Asteras Vlachioti,Panargiakos,1,1,1,0
+1642350,1791032400,15482,28462,Iraklis Xylokastro,Asteras Amaliadas,4,2,2,2
+1642352,1791032400,24874,26586,Loutraki,Pelopas Kiatou,2,0,1,0
+1642353,1791032400,28458,20059,Telos Agras,Panthouriakos,1,2,1,1
+1642349,1791032400,28460,28459,Ermis Kiveriou,Panthyreatikos,3,1,1,0
+1642351,1791118800,6307,24876,Korinthos,Miltiadis Pyrgos,3,1,1,0
+1642356,1791723600,6315,24874,Panargiakos,Loutraki,1,1,0,1
+1642354,1791723600,12408,28458,Asteras Vlachioti,Telos Agras,1,1,1,0
+1642357,1791723600,20059,15482,Panthouriakos,Iraklis Xylokastro,1,1,1,1
+1642355,1791723600,24876,28460,Miltiadis Pyrgos,Ermis Kiveriou,3,2,1,1
+1642359,1791723600,26586,6307,Pelopas Kiatou,Korinthos,2,1,1,1
+1642358,1791723600,28459,28462,Panthyreatikos,Asteras Amaliadas,0,0,0,0
+1642363,1792328400,6307,6315,Korinthos,Panargiakos,1,1,0,0
+1642362,1792328400,15482,12408,Iraklis Xylokastro,Asteras Vlachioti,3,1,1,0
+1642364,1792328400,24874,28458,Loutraki,Telos Agras,1,0,0,0
+1642365,1792328400,24876,28459,Miltiadis Pyrgos,Panthyreatikos,3,1,1,1
+1642361,1792328400,28460,26586,Ermis Kiveriou,Pelopas Kiatou,0,4,0,1
+1642360,1792328400,28462,20059,Asteras Amaliadas,Panthouriakos,3,1,2,1
+1642368,1792843200,6315,28460,Panargiakos,Ermis Kiveriou,0,0,0,0
+1642366,1792843200,12408,28462,Asteras Vlachioti,Asteras Amaliadas,1,1,0,0
+1642370,1792843200,26586,24876,Pelopas Kiatou,Miltiadis Pyrgos,1,1,1,0
+1642371,1792843200,28458,6307,Telos Agras,Korinthos,3,0,2,0
+1642369,1792843200,28459,20059,Panthyreatikos,Panthouriakos,2,1,1,0
+1642367,1792933200,24874,15482,Loutraki,Iraklis Xylokastro,2,1,1,0
+1642374,1793538000,15482,6307,Iraklis Xylokastro,Korinthos,2,1,1,1
+1642376,1793538000,20059,12408,Panthouriakos,Asteras Vlachioti,4,0,1,0
+1642375,1793538000,24876,6315,Miltiadis Pyrgos,Panargiakos,1,1,0,0
+1642377,1793538000,26586,28459,Pelopas Kiatou,Panthyreatikos,3,0,1,0
+1642373,1793538000,28460,28458,Ermis Kiveriou,Telos Agras,1,0,1,0
+1642372,1793538000,28462,24874,Asteras Amaliadas,Loutraki,0,1,0,0

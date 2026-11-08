@@ -1,0 +1,208 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1505353,1769814000,2323,2329,Universidad de Chile,A. Italiano,0,0,0,0
+1505351,1769871600,16730,2315,Deportes Limache,Colo Colo,3,1,3,0
+1505354,1769884200,2324,2330,Universidad de Concepcion,Coquimbo Unido,1,0,0,0
+1505347,1769893200,2331,2328,Cobresal,Huachipato,1,0,1,0
+1505350,1769979600,2341,2994,D. La Serena,U. Catolica,2,2,2,1
+1505352,1769988600,2318,2337,Palestino,Nublense,1,1,1,0
+1505348,1770075000,2320,5635,O'Higgins,Concepción,2,1,1,0
+1505355,1770418800,2329,2324,A. Italiano,Universidad de Concepcion,3,0,2,0
+1505357,1770476400,2330,2318,Coquimbo Unido,Palestino,3,1,2,0
+1505360,1770498000,2320,2341,O'Higgins,D. La Serena,1,0,0,0
+1505356,1770507000,2315,2325,Colo Colo,Everton de Vina,2,0,0,0
+1505358,1770562800,2328,2323,Huachipato,Universidad de Chile,2,1,1,1
+1505359,1770584400,2337,16730,Nublense,Deportes Limache,1,1,0,1
+1505361,1770593400,2994,5635,U. Catolica,Concepción,2,0,0,0
+1505365,1771016400,2325,2328,Everton de Vina,Huachipato,0,3,0,0
+1505369,1771025400,2318,2323,Palestino,Universidad de Chile,0,0,0,0
+1505366,1771081200,2341,2330,D. La Serena,Coquimbo Unido,0,1,0,0
+1505367,1771102800,16730,2320,Deportes Limache,O'Higgins,2,1,1,1
+1505363,1771111800,2331,2994,Cobresal,U. Catolica,3,2,2,1
+1505370,1771167600,2324,5635,Universidad de Concepcion,Concepción,2,1,0,1
+1505368,1771189200,2337,2329,Nublense,A. Italiano,1,0,1,0
+1505364,1771198200,2315,2326,Colo Colo,Union La Calera,1,0,0,0
+1505378,1771621200,2326,2337,Union La Calera,Nublense,0,1,0,0
+1505372,1771630200,5635,2331,Concepción,Cobresal,1,1,0,0
+1505373,1771686000,2328,2318,Huachipato,Palestino,2,1,0,1
+1505375,1771707600,2320,2315,O'Higgins,Colo Colo,0,1,0,0
+1505376,1771716600,2994,2330,U. Catolica,Coquimbo Unido,3,1,1,1
+1505374,1771772400,2341,2324,D. La Serena,Universidad de Concepcion,1,1,1,1
+1505371,1771794000,2329,2325,A. Italiano,Everton de Vina,1,0,0,0
+1505377,1771803000,2323,16730,Universidad de Chile,Deportes Limache,2,2,1,1
+1505379,1772226000,2331,2341,Cobresal,D. La Serena,0,1,0,1
+1505386,1772235000,2326,2329,Union La Calera,A. Italiano,3,0,1,0
+1505381,1772290800,2330,5635,Coquimbo Unido,Concepción,0,1,0,1
+1505382,1772312400,16730,2328,Deportes Limache,Huachipato,3,0,1,0
+1505384,1772321400,2318,2320,Palestino,O'Higgins,4,2,1,1
+1505385,1772377200,2324,2325,Universidad de Concepcion,Everton de Vina,0,3,0,2
+1505380,1772398800,2315,2323,Colo Colo,Universidad de Chile,0,1,0,0
+1505383,1772407800,2337,2994,Nublense,U. Catolica,1,2,1,1
+1505391,1772830800,2341,2326,D. La Serena,Union La Calera,3,0,2,0
+1505388,1772839800,5635,2337,Concepción,Nublense,0,2,0,1
+1505389,1772895600,2325,16730,Everton de Vina,Deportes Limache,1,0,0,0
+1505390,1772895600,2328,2330,Huachipato,Coquimbo Unido,1,3,0,1
+1505387,1772917200,2329,2315,A. Italiano,Colo Colo,0,1,0,1
+1505392,1772926200,2320,2994,O'Higgins,U. Catolica,1,0,1,0
+1505393,1773012600,2318,2331,Palestino,Cobresal,4,2,1,0
+1505394,1773097200,2323,2324,Universidad de Chile,Universidad de Concepcion,1,1,0,1
+1505395,1773442800,2329,5635,A. Italiano,Concepción,3,0,3,0
+1505398,1773522000,2330,2323,Coquimbo Unido,Universidad de Chile,0,1,0,0
+1505400,1773531000,2994,2325,U. Catolica,Everton de Vina,2,2,1,2
+1505401,1773586800,2324,2318,Universidad de Concepcion,Palestino,1,0,0,0
+1505396,1773608400,2331,16730,Cobresal,Deportes Limache,2,5,0,3
+1505399,1773617400,2337,2341,Nublense,D. La Serena,2,2,1,0
+1505402,1773694800,2326,2320,Union La Calera,O'Higgins,3,3,0,2
+1505397,1773703800,2315,2328,Colo Colo,Huachipato,2,0,1,0
+1505409,1775163600,2994,2318,U. Catolica,Palestino,6,1,2,1
+1505403,1775248200,2330,2331,Coquimbo Unido,Cobresal,3,2,1,0
+1505408,1775257200,2320,2329,O'Higgins,A. Italiano,2,1,1,1
+1505407,1775334600,16730,2326,Deportes Limache,Union La Calera,4,0,1,0
+1505405,1775343600,2325,2337,Everton de Vina,Nublense,0,0,0,0
+1505404,1775417400,5635,2315,Concepción,Colo Colo,0,1,0,0
+1505410,1775426400,2323,2341,Universidad de Chile,D. La Serena,4,0,0,0
+1505406,1775520000,2328,2324,Huachipato,Universidad de Concepcion,5,1,1,1
+1505415,1775865600,2320,2328,O'Higgins,Huachipato,0,2,0,1
+1505413,1775934000,2341,2325,D. La Serena,Everton de Vina,1,0,1,0
+1505411,1775943000,2329,2994,A. Italiano,U. Catolica,3,4,2,3
+1505416,1775952000,2318,16730,Palestino,Deportes Limache,1,0,0,0
+1505414,1776029400,2337,2323,Nublense,Universidad de Chile,1,0,0,0
+1505417,1776038400,2324,2331,Universidad de Concepcion,Cobresal,1,0,1,0
+1505418,1776124800,2326,5635,Union La Calera,Concepción,1,0,0,0
+1505425,1776470400,16730,2324,Deportes Limache,Universidad de Concepcion,3,0,1,0
+1505423,1776547800,2325,2323,Everton de Vina,Universidad de Chile,0,0,0,0
+1505422,1776556800,5635,2341,Concepción,D. La Serena,3,3,1,3
+1505421,1776616200,2330,2337,Coquimbo Unido,Nublense,1,1,1,0
+1505419,1776627000,2331,2320,Cobresal,O'Higgins,2,3,1,0
+1505420,1776637800,2315,2318,Colo Colo,Palestino,0,1,0,1
+1505424,1776645900,2328,2329,Huachipato,A. Italiano,3,2,0,1
+1505426,1776731400,2994,2326,U. Catolica,Union La Calera,1,2,1,0
+1505431,1776988800,2318,5635,Palestino,Concepción,0,1,0,1
+1505434,1777068000,2326,2330,Union La Calera,Coquimbo Unido,1,2,0,0
+1505427,1777077000,2329,16730,A. Italiano,Deportes Limache,2,2,1,1
+1505430,1777143600,2337,2320,Nublense,O'Higgins,0,2,0,2
+1505432,1777154400,2323,2994,Universidad de Chile,U. Catolica,1,0,1,0
+1505429,1777221000,2341,2328,D. La Serena,Huachipato,0,0,0,0
+1505433,1777230000,2324,2315,Universidad de Concepcion,Colo Colo,1,2,0,1
+1505428,1777239000,2325,2331,Everton de Vina,Cobresal,3,1,2,1
+1505412,1777843800,2315,2330,Colo Colo,Coquimbo Unido,3,1,1,0
+1505442,1778889600,2318,2341,Palestino,D. La Serena,5,1,3,0
+1505437,1778889600,2330,2329,Coquimbo Unido,A. Italiano,3,0,2,0
+1505441,1778967000,2320,2324,O'Higgins,Universidad de Concepcion,0,1,0,1
+1505440,1778976000,16730,2994,Deportes Limache,U. Catolica,0,2,0,2
+1505439,1779035400,2328,2326,Huachipato,Union La Calera,3,1,0,1
+1505435,1779044400,2331,2323,Cobresal,Universidad de Chile,1,0,0,0
+1505436,1779053400,2315,2337,Colo Colo,Nublense,6,2,2,1
+1505438,1779062400,5635,2325,Concepción,Everton de Vina,0,2,0,0
+1505445,1779476400,2325,2330,Everton de Vina,Coquimbo Unido,1,1,0,0
+1505443,1779553800,2329,2331,A. Italiano,Cobresal,2,1,1,1
+1505447,1779562800,2337,2324,Nublense,Universidad de Concepcion,2,2,2,0
+1505450,1779580800,2326,2318,Union La Calera,Palestino,1,2,1,2
+1505444,1779640200,5635,2328,Concepción,Huachipato,2,0,1,0
+1505446,1779649200,2341,16730,D. La Serena,Deportes Limache,4,1,1,0
+1505448,1779660000,2994,2315,U. Catolica,Colo Colo,1,2,1,2
+1505451,1780092000,2331,2337,Cobresal,Nublense,0,1,0,1
+1505458,1780101000,2324,2326,Universidad de Concepcion,Union La Calera,0,0,0,0
+1505453,1780167600,2341,2315,D. La Serena,Colo Colo,2,4,1,1
+1505457,1780176600,2323,5635,Universidad de Chile,Concepción,2,1,1,0
+1505454,1780245000,16730,2330,Deportes Limache,Coquimbo Unido,2,3,1,1
+1505452,1780254000,2328,2994,Huachipato,U. Catolica,0,3,0,0
+1505455,1780263000,2320,2325,O'Higgins,Everton de Vina,2,3,1,2
+1505456,1780272000,2318,2329,Palestino,A. Italiano,0,0,0,0
+1505459,1781308800,2329,2341,A. Italiano,D. La Serena,1,1,0,0
+1505461,1781368200,2330,2320,Coquimbo Unido,O'Higgins,0,0,0,0
+1505463,1781377200,2325,2318,Everton de Vina,Palestino,1,2,0,2
+1505460,1781386200,2315,2331,Colo Colo,Cobresal,3,0,3,0
+1505464,1781395200,2337,2328,Nublense,Huachipato,2,2,1,2
+1505462,1781454600,5635,16730,Concepción,Deportes Limache,3,2,1,0
+1505466,1781463600,2326,2323,Union La Calera,Universidad de Chile,2,2,1,2
+1505465,1781472600,2994,2324,U. Catolica,Universidad de Concepcion,5,1,2,1
+1505449,1781827200,2323,2320,Universidad de Chile,O'Higgins,2,0,1,0
+1505468,1784939400,2315,16730,Colo Colo,Deportes Limache,3,1,0,0
+1505470,1785015000,2328,2331,Huachipato,Cobresal,3,3,1,0
+1505473,1785024000,2994,2341,U. Catolica,D. La Serena,3,3,2,0
+1505471,1785092400,2337,2318,Nublense,Palestino,2,0,2,0
+1505467,1785101400,2329,2323,A. Italiano,Universidad de Chile,1,2,0,1
+1505472,1785112200,5635,2320,Concepción,O'Higgins,2,0,1,0
+1505474,1785193200,2326,2325,Union La Calera,Everton de Vina,1,1,0,0
+1505482,1785542400,2324,2329,Universidad de Concepcion,A. Italiano,0,1,0,1
+1505475,1785601800,2331,2326,Cobresal,Union La Calera,4,0,1,0
+1505477,1785610800,2325,2315,Everton de Vina,Colo Colo,3,4,2,2
+1505480,1785619800,2318,2330,Palestino,Coquimbo Unido,2,1,1,1
+1505476,1785688200,5635,2994,Concepción,U. Catolica,3,0,2,0
+1505478,1785697200,2341,2320,D. La Serena,O'Higgins,1,2,1,0
+1505481,1785706200,2323,2328,Universidad de Chile,Huachipato,2,0,0,0
+1505488,1786149000,2994,2331,U. Catolica,Cobresal,2,0,0,0
+1505486,1786215600,2328,2325,Huachipato,Everton de Vina,1,4,1,3
+1505484,1786224600,2330,2341,Coquimbo Unido,D. La Serena,1,1,0,0
+1505485,1786293000,5635,2324,Concepción,Universidad de Concepcion,1,0,1,0
+1505487,1786302000,2320,16730,O'Higgins,Deportes Limache,1,3,0,2
+1505490,1786311000,2326,2315,Union La Calera,Colo Colo,1,2,1,0
+1505489,1786320000,2323,2318,Universidad de Chile,Palestino,2,1,2,0
+1505483,1786406400,2329,2337,A. Italiano,Nublense,2,2,1,1
+1505498,1786748400,2324,2341,Universidad de Concepcion,D. La Serena,0,2,0,1
+1505495,1786829400,16730,2323,Deportes Limache,Universidad de Chile,1,3,1,1
+1505494,1786838400,2325,2329,Everton de Vina,A. Italiano,1,1,0,1
+1505496,1786897800,2337,2326,Nublense,Union La Calera,2,1,2,0
+1505491,1786906800,2331,5635,Cobresal,Concepción,0,2,0,1
+1505492,1786915800,2315,2320,Colo Colo,O'Higgins,2,2,0,0
+1505497,1787013000,2318,2328,Palestino,Huachipato,5,1,1,1
+1505499,1787358600,2329,2326,A. Italiano,Union La Calera,0,0,0,0
+1505502,1787434200,2328,16730,Huachipato,Deportes Limache,1,3,0,3
+1505505,1787443200,2994,2337,U. Catolica,Nublense,1,2,0,0
+1505503,1787500800,2341,2331,D. La Serena,Cobresal,3,3,1,1
+1505500,1787500800,5635,2330,Concepción,Coquimbo Unido,1,1,0,1
+1505506,1787511600,2323,2315,Universidad de Chile,Colo Colo,1,2,1,1
+1505504,1787526000,2320,2318,O'Higgins,Palestino,0,1,0,0
+1505501,1787614200,2325,2324,Everton de Vina,Universidad de Concepcion,3,1,3,1
+1505493,1787781600,2330,2994,Coquimbo Unido,U. Catolica,1,2,1,0
+1505507,1787956200,2331,2318,Cobresal,Palestino,2,0,1,0
+1505510,1788039000,16730,2325,Deportes Limache,Everton de Vina,0,3,0,2
+1505511,1788048000,2337,5635,Nublense,Concepción,0,1,0,1
+1505513,1788116400,2324,2323,Universidad de Concepcion,Universidad de Chile,2,1,2,0
+1505508,1788125400,2315,2329,Colo Colo,A. Italiano,5,1,2,1
+1505514,1788214500,2326,2341,Union La Calera,D. La Serena,0,1,0,1
+1505512,1788223500,2994,2320,U. Catolica,O'Higgins,3,2,2,1
+1505469,1788386400,2330,2324,Coquimbo Unido,Universidad de Concepcion,1,0,0,0
+1505479,1788395400,16730,2337,Deportes Limache,Nublense,2,0,0,0
+1505515,1788568200,5635,2329,Concepción,A. Italiano,0,1,0,1
+1505516,1788643800,2325,2994,Everton de Vina,U. Catolica,0,1,0,1
+1505522,1788652800,2323,2330,Universidad de Chile,Coquimbo Unido,4,2,0,0
+1505518,1788708600,2341,2337,D. La Serena,Nublense,2,1,1,1
+1505520,1788716700,2320,2326,O'Higgins,Union La Calera,2,1,2,0
+1505517,1788724800,2328,2315,Huachipato,Colo Colo,0,0,0,0
+1505521,1788733800,2318,2324,Palestino,Universidad de Concepcion,2,1,0,1
+1505519,1788822000,16730,2331,Deportes Limache,Cobresal,3,0,1,0
+1505527,1789227000,2337,2325,Nublense,Everton de Vina,1,3,0,1
+1505524,1789236000,2331,2330,Cobresal,Coquimbo Unido,3,2,1,1
+1505528,1789254000,2318,2994,Palestino,U. Catolica,2,3,1,2
+1505526,1789322400,2341,2323,D. La Serena,Universidad de Chile,0,3,0,0
+1505525,1789331400,2315,5635,Colo Colo,Concepción,1,1,0,1
+1505523,1789340400,2329,2320,A. Italiano,O'Higgins,1,0,1,0
+1505530,1789428600,2326,16730,Union La Calera,Deportes Limache,1,0,1,0
+1505529,1790982000,2324,2328,Universidad de Concepcion,Huachipato,0,2,0,1
+1505531,1791655200,2331,2324,Cobresal,Universidad de Concepcion,1,1,0,0
+1505535,1791664200,2328,2320,Huachipato,O'Higgins,2,0,1,0
+1505534,1791732600,2325,2341,Everton de Vina,D. La Serena,3,2,1,1
+1505532,1791741600,2330,2315,Coquimbo Unido,Colo Colo,5,2,3,1
+1505533,1791750600,5635,2326,Concepción,Union La Calera,1,1,0,0
+1505536,1791759600,16730,2318,Deportes Limache,Palestino,2,2,1,0
+1505538,1791835200,2323,2337,Universidad de Chile,Nublense,6,0,2,0
+1505539,1792796400,2329,2328,A. Italiano,Huachipato,1,1,1,1
+1505540,1792855800,2341,5635,D. La Serena,Concepción,3,1,2,1
+1505542,1792882800,2320,2331,O'Higgins,Cobresal,1,1,1,0
+1505541,1792942200,2337,2330,Nublense,Coquimbo Unido,2,1,1,1
+1505546,1792951200,2326,2994,Union La Calera,U. Catolica,3,1,1,1
+1505543,1792960200,2318,2315,Palestino,Colo Colo,1,1,0,1
+1505545,1792969200,2324,16730,Universidad de Concepcion,Deportes Limache,0,1,0,1
+1505544,1793048400,2323,2325,Universidad de Chile,Everton de Vina,4,1,2,0
+1505537,1793230200,2994,2329,U. Catolica,A. Italiano,1,1,1,0
+1505548,1793397600,2315,2324,Colo Colo,Universidad de Concepcion,6,1,5,0
+1505549,1793397600,2330,2326,Coquimbo Unido,Union La Calera,1,0,0,0
+1505553,1793480400,2320,2337,O'Higgins,Nublense,1,0,1,0
+1505551,1793545200,2328,2341,Huachipato,D. La Serena,0,0,0,0
+1505554,1793547000,2994,2323,U. Catolica,Universidad de Chile,1,0,1,0
+1505547,1793556000,2331,2325,Cobresal,Everton de Vina,2,2,0,0
+1505552,1793653200,16730,2329,Deportes Limache,A. Italiano,2,0,1,0
+1505550,1793662200,5635,2318,Concepción,Palestino,1,0,1,0
+1505557,1794074400,2341,2318,D. La Serena,Palestino,1,0,0,0
+1505556,1794083400,2325,5635,Everton de Vina,Concepción,0,2,0,0

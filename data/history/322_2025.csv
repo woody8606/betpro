@@ -1,0 +1,284 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1444633,1756065600,3442,3441,Mount Pleasant Academy,Montego Bay United,2,2,1,0
+1444630,1756065600,20597,3445,Chapelton,Tivoli Gardens,2,1,1,1
+1452016,1756065600,22606,26495,Treasure Beach,Spanish Town Police,2,0,0,0
+1444632,1756069200,6407,3447,Molynes United,Waterhouse,0,2,0,1
+1444629,1756078200,3437,3439,Cavalier,Harbour View,0,0,0,0
+1444631,1756159200,3438,3443,Dunbeholden,Portmore United,0,2,0,0
+1447006,1756168200,25020,3436,Racing United,Arnett Gardens,5,1,4,0
+1449158,1756670400,3439,20597,Harbour View,Chapelton,0,2,0,1
+1449159,1756670400,26495,3438,Spanish Town Police,Dunbeholden,0,1,0,0
+1449162,1756674000,3447,25020,Waterhouse,Racing United,1,2,0,1
+1449160,1756679400,3443,3445,Portmore United,Tivoli Gardens,0,0,0,0
+1449718,1756760400,3436,3437,Arnett Gardens,Cavalier,2,3,1,3
+1449161,1756764000,3442,6407,Mount Pleasant Academy,Molynes United,1,1,0,0
+1449163,1756773000,3441,22606,Montego Bay United,Treasure Beach,3,1,1,0
+1449167,1757275200,3438,3441,Dunbeholden,Montego Bay United,1,2,0,0
+1449164,1757275200,3439,3436,Harbour View,Arnett Gardens,2,5,1,1
+1449721,1757275200,20597,3443,Chapelton,Portmore United,3,2,1,1
+1449165,1757275200,22606,6407,Treasure Beach,Molynes United,2,2,0,0
+1449166,1757368800,3445,26495,Tivoli Gardens,Spanish Town Police,2,1,2,0
+1449720,1757377800,3437,3447,Cavalier,Waterhouse,0,1,0,1
+1449171,1757872800,26495,3443,Spanish Town Police,Portmore United,0,1,0,0
+1449172,1757880000,3436,20597,Arnett Gardens,Chapelton,1,0,0,0
+1449169,1757880000,22606,25020,Treasure Beach,Racing United,2,4,0,0
+1449722,1757881800,3442,3437,Mount Pleasant Academy,Cavalier,2,1,0,1
+1449168,1757894400,3441,3445,Montego Bay United,Tivoli Gardens,3,1,3,0
+1449170,1757973600,6407,3438,Molynes United,Dunbeholden,0,2,0,1
+1449173,1757982600,3447,3439,Waterhouse,Harbour View,1,2,1,0
+1467556,1758484800,3438,25020,Dunbeholden,Racing United,0,0,0,0
+1467560,1758484800,3445,6407,Tivoli Gardens,Molynes United,1,1,0,0
+1467562,1758486600,3437,22606,Cavalier,Treasure Beach,2,1,1,1
+1467561,1758493800,3443,3441,Portmore United,Montego Bay United,2,0,1,0
+1467558,1758578400,20597,26495,Chapelton,Spanish Town Police,0,0,0,0
+1467559,1758587400,3436,3447,Arnett Gardens,Waterhouse,2,1,0,0
+1467565,1759089600,25020,3445,Racing United,Tivoli Gardens,0,0,0,0
+1467567,1759095000,22606,3439,Treasure Beach,Harbour View,1,1,1,1
+1467563,1759104000,3441,26495,Montego Bay United,Spanish Town Police,4,0,2,0
+1467569,1759183200,6407,3443,Molynes United,Portmore United,0,0,0,0
+1467568,1759192200,3447,20597,Waterhouse,Chapelton,3,0,1,0
+1467575,1759694400,3443,25020,Portmore United,Racing United,0,0,0,0
+1467570,1759694400,3445,3437,Tivoli Gardens,Cavalier,0,2,0,0
+1467574,1759694400,20597,3441,Chapelton,Montego Bay United,1,2,1,1
+1467573,1759694400,26495,6407,Spanish Town Police,Molynes United,2,2,2,0
+1467572,1759703400,3447,3442,Waterhouse,Mount Pleasant Academy,1,1,1,1
+1467576,1759788000,3439,3438,Harbour View,Dunbeholden,1,0,1,0
+1467571,1759797000,3436,22606,Arnett Gardens,Treasure Beach,0,1,0,0
+1467581,1760299200,3442,20597,Mount Pleasant Academy,Chapelton,3,1,2,1
+1467577,1760299200,3445,3439,Tivoli Gardens,Harbour View,2,1,1,1
+1467580,1760299200,6407,3441,Molynes United,Montego Bay United,0,2,0,1
+1467583,1760299200,22606,3447,Treasure Beach,Waterhouse,0,0,0,0
+1467582,1760299200,25020,26495,Racing United,Spanish Town Police,3,0,0,0
+1467578,1760308200,3437,3443,Cavalier,Portmore United,2,4,2,3
+1467584,1760904000,26495,3437,Spanish Town Police,Cavalier,0,3,0,0
+1467589,1760913000,3447,3438,Waterhouse,Dunbeholden,0,0,0,0
+1467590,1760918400,3441,25020,Montego Bay United,Racing United,3,1,3,0
+1467586,1760997600,3443,3439,Portmore United,Harbour View,4,1,1,1
+1467585,1761006600,3436,3445,Arnett Gardens,Tivoli Gardens,1,2,0,1
+1467594,1765137600,3438,3442,Dunbeholden,Mount Pleasant Academy,0,0,0,0
+1467592,1765137600,3439,26495,Harbour View,Spanish Town Police,5,2,4,0
+1467591,1765137600,3443,3436,Portmore United,Arnett Gardens,1,0,1,0
+1467595,1765137600,25020,6407,Racing United,Molynes United,3,2,2,2
+1467597,1765231200,3437,3441,Cavalier,Montego Bay United,3,0,1,0
+1467593,1765240200,3445,3447,Tivoli Gardens,Waterhouse,2,1,1,0
+1467601,1765396800,20597,25020,Chapelton,Racing United,0,0,0,0
+1467600,1765396800,26495,3436,Spanish Town Police,Arnett Gardens,2,10,0,4
+1467598,1765483200,3441,3439,Montego Bay United,Harbour View,4,4,3,1
+1467604,1765483200,3442,3445,Mount Pleasant Academy,Tivoli Gardens,5,0,2,0
+1467603,1765490400,6407,3437,Molynes United,Cavalier,1,0,0,0
+1467599,1765499400,3447,3443,Waterhouse,Portmore United,1,2,1,2
+1467610,1765742400,3438,20597,Dunbeholden,Chapelton,0,0,0,0
+1467609,1765742400,3439,6407,Harbour View,Molynes United,0,0,0,0
+1467611,1765742400,3443,3442,Portmore United,Mount Pleasant Academy,0,2,0,2
+1467607,1765747800,3437,25020,Cavalier,Racing United,1,4,0,2
+1467605,1765836000,26495,3447,Spanish Town Police,Waterhouse,2,1,0,0
+1467606,1765845000,3436,3441,Arnett Gardens,Montego Bay United,0,1,0,0
+1449719,1766001600,25020,3442,Racing United,Mount Pleasant Academy,1,0,0,0
+1467617,1766347200,3438,3445,Dunbeholden,Tivoli Gardens,1,0,0,0
+1467618,1766347200,3441,3447,Montego Bay United,Waterhouse,0,1,0,1
+1467614,1766347200,3442,26495,Mount Pleasant Academy,Spanish Town Police,5,0,1,0
+1467612,1766347200,20597,3437,Chapelton,Cavalier,0,3,0,1
+1467613,1766347200,22606,3443,Treasure Beach,Portmore United,2,0,0,0
+1467615,1766347200,25020,3439,Racing United,Harbour View,0,0,0,0
+1467616,1766356200,6407,3436,Molynes United,Arnett Gardens,3,1,3,0
+1498945,1766952000,3439,3437,Harbour View,Cavalier,0,1,0,0
+1498946,1766952000,3441,3442,Montego Bay United,Mount Pleasant Academy,0,1,0,0
+1498947,1766952000,3443,3438,Portmore United,Dunbeholden,0,0,0,0
+1498948,1766955600,26495,22606,Spanish Town Police,Treasure Beach,1,0,0,0
+1498949,1766964600,3447,6407,Waterhouse,Molynes United,0,2,0,1
+1498950,1767038400,3445,20597,Tivoli Gardens,Chapelton,2,0,1,0
+1498951,1767054600,3436,25020,Arnett Gardens,Racing United,1,1,0,0
+1467596,1767297600,22606,20597,Treasure Beach,Chapelton,0,1,0,0
+1501255,1767556800,20597,3439,Chapelton,Harbour View,2,1,1,0
+1501258,1767556800,22606,3441,Treasure Beach,Montego Bay United,1,2,1,2
+1501257,1767556800,25020,3447,Racing United,Waterhouse,0,0,0,0
+1501259,1767565800,6407,3442,Molynes United,Mount Pleasant Academy,0,0,0,0
+1501260,1767643200,3445,3443,Tivoli Gardens,Portmore United,2,2,1,1
+1501261,1767659400,3437,3436,Cavalier,Arnett Gardens,0,3,0,1
+1467602,1767816000,22606,3438,Treasure Beach,Dunbeholden,0,4,0,1
+1501263,1768161600,3441,3438,Montego Bay United,Dunbeholden,1,0,0,0
+1501264,1768161600,3442,25020,Mount Pleasant Academy,Racing United,1,1,0,0
+1501265,1768161600,3443,20597,Portmore United,Chapelton,0,0,0,0
+1501262,1768168800,6407,22606,Molynes United,Treasure Beach,1,2,1,2
+1501266,1768177800,3447,3437,Waterhouse,Cavalier,0,0,0,0
+1501267,1768248000,26495,3445,Spanish Town Police,Tivoli Gardens,0,1,0,0
+1501268,1768264200,3436,3439,Arnett Gardens,Harbour View,2,0,2,0
+1501271,1768420800,3438,6407,Dunbeholden,Molynes United,1,1,0,0
+1501274,1768420800,25020,22606,Racing United,Treasure Beach,4,1,0,0
+1501272,1768507200,3439,3447,Harbour View,Waterhouse,1,1,0,0
+1501273,1768507200,3443,26495,Portmore United,Spanish Town Police,4,0,0,0
+1501275,1768507200,3445,3441,Tivoli Gardens,Montego Bay United,0,1,0,0
+1501270,1768521600,20597,3436,Chapelton,Arnett Gardens,3,0,2,0
+1501277,1768766400,3441,3443,Montego Bay United,Portmore United,0,0,0,0
+1501279,1768766400,25020,3438,Racing United,Dunbeholden,1,1,0,1
+1501280,1768766400,26495,20597,Spanish Town Police,Chapelton,0,1,0,1
+1501276,1768860000,6407,3445,Molynes United,Tivoli Gardens,3,2,1,1
+1501282,1768869000,3447,3436,Waterhouse,Arnett Gardens,0,1,0,0
+1501539,1769025600,26495,3441,Spanish Town Police,Montego Bay United,0,5,0,2
+1501535,1769029200,3437,3438,Cavalier,Dunbeholden,5,1,1,0
+1501537,1769112000,3439,22606,Harbour View,Treasure Beach,3,4,3,0
+1501538,1769112000,3443,6407,Portmore United,Molynes United,1,1,0,0
+1501540,1769112000,3445,25020,Tivoli Gardens,Racing United,0,0,0,0
+1501536,1769112000,20597,3447,Chapelton,Waterhouse,0,1,0,1
+1501534,1769126400,3436,3442,Arnett Gardens,Mount Pleasant Academy,0,1,0,1
+1501546,1769371200,3438,3439,Dunbeholden,Harbour View,4,2,3,0
+1501542,1769371200,3441,20597,Montego Bay United,Chapelton,2,0,1,0
+1501543,1769371200,3442,3447,Mount Pleasant Academy,Waterhouse,0,1,0,1
+1501541,1769371200,6407,26495,Molynes United,Spanish Town Police,1,1,1,1
+1501544,1769371200,22606,3436,Treasure Beach,Arnett Gardens,1,1,1,1
+1501547,1769371200,25020,3443,Racing United,Portmore United,1,1,1,0
+1501545,1769380200,3437,3445,Cavalier,Tivoli Gardens,1,2,0,0
+1467608,1769630400,3445,22606,Tivoli Gardens,Treasure Beach,0,0,0,0
+1467564,1769716800,3438,3437,Dunbeholden,Cavalier,1,0,0,0
+1467566,1769716800,3442,3436,Mount Pleasant Academy,Arnett Gardens,1,0,0,0
+1501549,1769976000,3439,3445,Harbour View,Tivoli Gardens,2,2,1,2
+1501550,1769976000,3441,6407,Montego Bay United,Molynes United,3,0,1,0
+1501551,1769976000,3443,3437,Portmore United,Cavalier,1,0,0,0
+1501548,1769976000,20597,3442,Chapelton,Mount Pleasant Academy,0,2,0,1
+1501552,1769976000,26495,25020,Spanish Town Police,Racing United,1,3,1,0
+1501553,1769990400,3447,22606,Waterhouse,Treasure Beach,1,0,0,0
+1501554,1770078600,3436,3438,Arnett Gardens,Dunbeholden,1,0,0,0
+1501269,1770238800,3437,3442,Cavalier,Mount Pleasant Academy,0,1,0,1
+1501256,1770321600,3438,26495,Dunbeholden,Spanish Town Police,0,2,0,1
+1501556,1770580800,3438,3447,Dunbeholden,Waterhouse,1,2,1,0
+1501557,1770580800,3439,3443,Harbour View,Portmore United,1,2,0,1
+1501561,1770580800,3445,3436,Tivoli Gardens,Arnett Gardens,0,2,0,1
+1501558,1770580800,6407,20597,Molynes United,Chapelton,0,0,0,0
+1501559,1770580800,22606,3442,Treasure Beach,Mount Pleasant Academy,0,0,0,0
+1501560,1770580800,25020,3441,Racing United,Montego Bay United,1,1,1,1
+1501555,1770670800,3437,26495,Cavalier,Spanish Town Police,5,0,0,0
+1467588,1770840000,3442,22606,Mount Pleasant Academy,Treasure Beach,0,0,0,0
+1467587,1770840000,20597,6407,Chapelton,Molynes United,1,0,0,0
+1467579,1770926400,3438,3436,Dunbeholden,Arnett Gardens,1,1,0,1
+1501564,1771187400,3441,3437,Montego Bay United,Cavalier,1,0,0,0
+1501565,1771187400,3442,3438,Mount Pleasant Academy,Dunbeholden,4,0,2,0
+1501563,1771187400,6407,25020,Molynes United,Racing United,0,1,0,0
+1501562,1771187400,20597,22606,Chapelton,Treasure Beach,2,0,0,0
+1501567,1771187400,26495,3439,Spanish Town Police,Harbour View,1,0,0,0
+1501566,1771200000,3447,3445,Waterhouse,Tivoli Gardens,1,1,1,1
+1501568,1771288200,3436,3443,Arnett Gardens,Portmore United,0,2,0,0
+1501278,1771533000,3439,3442,Harbour View,Mount Pleasant Academy,1,0,1,0
+1501570,1771792200,3438,22606,Dunbeholden,Treasure Beach,4,2,2,1
+1501572,1771792200,3439,3441,Harbour View,Montego Bay United,2,2,2,1
+1501574,1771884000,25020,20597,Racing United,Chapelton,2,0,1,0
+1501575,1771893000,3436,26495,Arnett Gardens,Spanish Town Police,1,2,0,1
+1467557,1772051400,3442,3439,Mount Pleasant Academy,Harbour View,4,1,1,0
+1501281,1772051400,22606,3437,Treasure Beach,Cavalier,1,1,1,0
+1501577,1772397000,3441,3436,Montego Bay United,Arnett Gardens,1,1,1,0
+1501576,1772397000,20597,3438,Chapelton,Dunbeholden,0,1,0,1
+1501579,1772397000,22606,3445,Treasure Beach,Tivoli Gardens,4,2,3,1
+1501580,1772397000,25020,3437,Racing United,Cavalier,0,1,0,1
+1501578,1772409600,3442,3443,Mount Pleasant Academy,Portmore United,1,1,1,0
+1501581,1772488800,6407,3439,Molynes United,Harbour View,2,2,2,1
+1501582,1772497800,3447,26495,Waterhouse,Spanish Town Police,3,0,1,0
+1501571,1772656200,3445,3442,Tivoli Gardens,Mount Pleasant Academy,1,1,0,1
+1501573,1772742600,3443,3447,Portmore United,Waterhouse,0,1,0,1
+1501569,1772744400,3437,6407,Cavalier,Molynes United,2,1,0,0
+1501585,1773001800,3443,22606,Portmore United,Treasure Beach,1,1,1,0
+1501586,1773001800,3445,3438,Tivoli Gardens,Dunbeholden,2,1,2,1
+1501587,1773003600,3437,20597,Cavalier,Chapelton,1,0,0,0
+1501583,1773014400,3436,6407,Arnett Gardens,Molynes United,0,0,0,0
+1501584,1773088200,3439,25020,Harbour View,Racing United,0,3,0,1
+1501589,1773102600,3447,3441,Waterhouse,Montego Bay United,1,0,1,0
+1531842,1773606600,3443,3439,Portmore United,Harbour View,4,2,2,0
+1531840,1773606600,20597,3438,Chapelton,Dunbeholden,2,0,1,0
+1531843,1773606600,22606,3437,Treasure Beach,Cavalier,0,1,0,0
+1531845,1773606600,26495,3445,Spanish Town Police,Tivoli Gardens,0,0,0,0
+1531841,1773619200,3442,6407,Mount Pleasant Academy,Molynes United,2,0,0,0
+1531844,1773619200,3447,3441,Waterhouse,Montego Bay United,0,4,0,1
+1531846,1773707400,3436,25020,Arnett Gardens,Racing United,4,0,3,0
+1533540,1773865800,3441,3438,Montego Bay United,Dunbeholden,4,3,1,0
+1533539,1773865800,6407,3447,Molynes United,Waterhouse,0,4,0,2
+1533541,1773865800,22606,3443,Treasure Beach,Portmore United,2,2,1,1
+1533542,1773952200,3439,26495,Harbour View,Spanish Town Police,3,0,0,0
+1533544,1773952200,3445,3436,Tivoli Gardens,Arnett Gardens,0,2,0,0
+1533543,1773952200,25020,20597,Racing United,Chapelton,3,0,1,0
+1533546,1774211400,3438,6407,Dunbeholden,Molynes United,1,0,1,0
+1533545,1774211400,20597,3441,Chapelton,Montego Bay United,3,1,0,0
+1533547,1774211400,25020,3445,Racing United,Tivoli Gardens,0,0,0,0
+1533549,1774220400,3447,3437,Waterhouse,Cavalier,2,1,0,1
+1533548,1774224000,3436,3439,Arnett Gardens,Harbour View,0,1,0,1
+1533550,1774303200,26495,22606,Spanish Town Police,Treasure Beach,0,0,0,0
+1533551,1774312200,3442,3443,Mount Pleasant Academy,Portmore United,4,1,0,0
+1533552,1774470600,3439,25020,Harbour View,Racing United,2,2,1,1
+1533554,1774470600,3445,20597,Tivoli Gardens,Chapelton,0,1,0,0
+1533553,1774470600,6407,3441,Molynes United,Montego Bay United,1,1,0,0
+1533556,1774557000,3443,3447,Portmore United,Waterhouse,2,1,1,1
+1533557,1774557000,22606,3436,Treasure Beach,Arnett Gardens,0,0,0,0
+1533558,1774558800,3437,3438,Cavalier,Dunbeholden,0,2,0,0
+1533555,1774569600,3442,26495,Mount Pleasant Academy,Spanish Town Police,4,0,1,0
+1533560,1774816200,3438,3443,Dunbeholden,Portmore United,2,1,1,0
+1533561,1774816200,3441,3437,Montego Bay United,Cavalier,3,1,1,0
+1533562,1774816200,3445,3439,Tivoli Gardens,Harbour View,3,2,2,2
+1533559,1774816200,20597,6407,Chapelton,Molynes United,2,2,2,0
+1533564,1774908000,25020,22606,Racing United,Treasure Beach,0,0,0,0
+1533563,1774911600,3447,26495,Waterhouse,Spanish Town Police,5,1,2,0
+1533565,1774917000,3436,3442,Arnett Gardens,Mount Pleasant Academy,1,1,0,0
+1501588,1775161800,26495,3442,Spanish Town Police,Mount Pleasant Academy,1,0,1,0
+1533566,1775421000,3439,20597,Harbour View,Chapelton,1,1,0,1
+1533570,1775421000,3443,3441,Portmore United,Montego Bay United,2,2,0,1
+1533568,1775422800,3437,6407,Cavalier,Molynes United,2,0,0,0
+1533567,1775422800,26495,3438,Spanish Town Police,Dunbeholden,4,1,2,1
+1533572,1775431800,3447,3436,Waterhouse,Arnett Gardens,1,1,0,0
+1533569,1775433600,3442,25020,Mount Pleasant Academy,Racing United,0,0,0,0
+1540035,1775768400,3437,3442,Cavalier,Mount Pleasant Academy,1,3,1,0
+1535787,1776025800,3436,3438,Arnett Gardens,Dunbeholden,1,2,0,0
+1535792,1776025800,3439,22606,Harbour View,Treasure Beach,2,1,1,1
+1535789,1776025800,3441,26495,Montego Bay United,Spanish Town Police,6,0,3,0
+1535790,1776025800,3442,3445,Mount Pleasant Academy,Tivoli Gardens,0,1,0,0
+1535788,1776025800,6407,3443,Molynes United,Portmore United,0,1,0,1
+1540265,1776025800,20597,3437,Chapelton,Cavalier,1,4,1,2
+1535791,1776025800,25020,3447,Racing United,Waterhouse,0,1,0,0
+1535793,1776285000,3437,3443,Cavalier,Portmore United,0,0,0,0
+1535794,1776285000,6407,26495,Molynes United,Spanish Town Police,9,0,2,0
+1540266,1776285000,22606,20597,Treasure Beach,Chapelton,0,3,0,2
+1535795,1776285000,25020,3438,Racing United,Dunbeholden,0,0,0,0
+1535796,1776297600,3436,3441,Arnett Gardens,Montego Bay United,1,0,1,0
+1535797,1776297600,3439,3442,Harbour View,Mount Pleasant Academy,1,1,1,0
+1535798,1776297600,3447,3445,Waterhouse,Tivoli Gardens,1,0,1,0
+1535801,1776630600,3439,3447,Harbour View,Waterhouse,0,1,0,0
+1535802,1776630600,3441,25020,Montego Bay United,Racing United,4,1,3,0
+1535800,1776630600,3445,3438,Tivoli Gardens,Dunbeholden,2,0,0,0
+1535799,1776630600,6407,3436,Molynes United,Arnett Gardens,3,0,2,0
+1541557,1776630600,20597,3443,Chapelton,Portmore United,0,2,0,1
+1535804,1776630600,22606,3442,Treasure Beach,Mount Pleasant Academy,2,2,1,0
+1535803,1776718800,3437,26495,Cavalier,Spanish Town Police,3,0,1,0
+1542185,1776889800,3441,3445,Montego Bay United,Tivoli Gardens,5,1,3,1
+1542186,1776889800,25020,6407,Racing United,Molynes United,1,2,0,0
+1542187,1776976200,26495,3443,Spanish Town Police,Portmore United,0,1,0,0
+1542188,1776979800,3438,3439,Dunbeholden,Harbour View,4,0,2,0
+1542189,1776988800,3436,3437,Arnett Gardens,Cavalier,2,1,1,0
+1542190,1776988800,3442,20597,Mount Pleasant Academy,Chapelton,5,2,2,2
+1542191,1776988800,3447,22606,Waterhouse,Treasure Beach,1,2,0,1
+1542745,1777235400,3439,3441,Harbour View,Montego Bay United,4,3,3,0
+1542746,1777235400,3443,3436,Portmore United,Arnett Gardens,1,2,0,2
+1542744,1777235400,20597,26495,Chapelton,Spanish Town Police,6,2,5,0
+1542747,1777235400,22606,3438,Treasure Beach,Dunbeholden,1,0,1,0
+1542748,1777237200,3437,25020,Cavalier,Racing United,2,0,0,0
+1542749,1777327200,6407,3445,Molynes United,Tivoli Gardens,2,0,1,0
+1542750,1777336200,3442,3447,Mount Pleasant Academy,Waterhouse,2,1,1,0
+1533571,1777579200,22606,3445,Treasure Beach,Tivoli Gardens,4,2,2,1
+1542751,1777840200,3436,26495,Arnett Gardens,Spanish Town Police,6,0,5,0
+1542752,1777840200,3438,3442,Dunbeholden,Mount Pleasant Academy,0,5,0,1
+1542754,1777840200,3441,22606,Montego Bay United,Treasure Beach,0,2,0,0
+1542756,1777840200,3445,3437,Tivoli Gardens,Cavalier,0,2,0,0
+1542757,1777840200,3447,20597,Waterhouse,Chapelton,3,0,1,0
+1542753,1777840200,6407,3439,Molynes United,Harbour View,0,1,0,0
+1542755,1777840200,25020,3443,Racing United,Portmore United,1,1,0,1
+1542758,1778099400,3437,3439,Cavalier,Harbour View,2,1,0,1
+1542760,1778099400,3442,3441,Mount Pleasant Academy,Montego Bay United,2,1,2,1
+1542761,1778099400,3443,3445,Portmore United,Tivoli Gardens,3,0,2,0
+1542764,1778099400,3447,3438,Waterhouse,Dunbeholden,4,0,2,0
+1542759,1778099400,20597,3436,Chapelton,Arnett Gardens,2,7,0,5
+1542763,1778099400,22606,6407,Treasure Beach,Molynes United,0,2,0,0
+1542762,1778099400,26495,25020,Spanish Town Police,Racing United,0,4,0,1
+1544560,1778450400,25020,3443,Racing United,Portmore United,3,3,0,2
+1544561,1778459400,3437,3447,Cavalier,Waterhouse,2,2,1,2
+1544562,1778713200,3447,3437,Waterhouse,Cavalier,0,2,0,1
+1544563,1778724000,3443,25020,Portmore United,Racing United,2,0,0,0
+1545145,1779055200,3437,3441,Cavalier,Montego Bay United,0,1,0,0
+1545146,1779064500,3443,3442,Portmore United,Mount Pleasant Academy,0,1,0,0
+1545147,1779318000,3442,3443,Mount Pleasant Academy,Portmore United,1,2,0,2
+1545148,1779328800,3441,3437,Montego Bay United,Cavalier,0,2,0,0
+1545770,1779660000,3441,3442,Montego Bay United,Mount Pleasant Academy,2,3,0,1
+1545771,1779670800,3437,3443,Cavalier,Portmore United,2,2,2,1

@@ -1,0 +1,291 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1410767,1754128800,6954,17401,SKRA Częstochowa,Carina Gubin,3,3,1.0,1.0
+1410766,1754128800,22910,6963,Sparta Katowice,Zagłębie Lubin II,3,3,1.0,0.0
+1410773,1754132400,21658,16259,Starowice Dolne,Goczałkowice Zdrój,2,3,1.0,1.0
+1410772,1754146800,17402,9132,Karkonosze Jelenia Góra,Górnik Polkowice,1,2,1.0,1.0
+1410771,1754146800,26183,16263,Słowianin,Warta Gorzów,2,2,1.0,0.0
+1410768,1754150400,14143,12806,Lechia Zielona Góra,Kluczbork,1,1,0.0,1.0
+1410774,1754154000,14145,12815,Polonia Nysa,Miedź Legnica II,4,0,2.0,0.0
+1410770,1754226000,12776,14267,Górnik Zabrze II,Pawłowice Śląskie,3,0,2.0,0.0
+1410769,1754229600,26182,12901,Stal Jasień,Ślęza Wrocław,0,2,0.0,1.0
+1410775,1754668800,9132,14145,Górnik Polkowice,Polonia Nysa,1,0,0.0,0.0
+1410776,1754733600,6963,26182,Zagłębie Lubin II,Stal Jasień,7,2,5.0,2.0
+1410781,1754733600,12815,6954,Miedź Legnica II,SKRA Częstochowa,2,2,1.0,2.0
+1410777,1754737200,16259,14143,Goczałkowice Zdrój,Lechia Zielona Góra,0,1,0.0,1.0
+1410780,1754744400,14267,26183,Pawłowice Śląskie,Słowianin,2,0,0.0,0.0
+1410778,1754748000,12901,21658,Ślęza Wrocław,Starowice Dolne,0,1,0.0,0.0
+1410782,1754751600,12806,17402,Kluczbork,Karkonosze Jelenia Góra,6,3,2.0,2.0
+1427377,1754751600,16263,22910,Warta Gorzów,Sparta Katowice,0,2,0.0,2.0
+1410779,1754751600,17401,12776,Carina Gubin,Górnik Zabrze II,1,2,1.0,0.0
+1410789,1755266400,26183,12815,Słowianin,Miedź Legnica II,3,0,2.0,0.0
+1410786,1755277200,14145,16259,Polonia Nysa,Goczałkowice Zdrój,1,0,0.0,0.0
+1410784,1755338400,6963,14267,Zagłębie Lubin II,Pawłowice Śląskie,2,1,0.0,1.0
+1410790,1755338400,12776,12806,Górnik Zabrze II,Kluczbork,0,1,0.0,0.0
+1410783,1755338400,22910,17401,Sparta Katowice,Carina Gubin,1,1,1.0,0.0
+1410791,1755342000,21658,9132,Starowice Dolne,Górnik Polkowice,0,2,0.0,1.0
+1410787,1755345600,6954,16263,SKRA Częstochowa,Warta Gorzów,1,3,1.0,1.0
+1410785,1755356400,17402,12901,Karkonosze Jelenia Góra,Ślęza Wrocław,1,1,1.0,0.0
+1410788,1755435600,26182,14143,Stal Jasień,Lechia Zielona Góra,1,2,1.0,0.0
+1410798,1755869400,12901,14145,Ślęza Wrocław,Polonia Nysa,2,1,1.0,0.0
+1410796,1755871200,12815,22910,Miedź Legnica II,Sparta Katowice,2,3,2.0,1.0
+1410797,1755878400,9132,6963,Górnik Polkowice,Zagłębie Lubin II,3,1,1.0,1.0
+1410792,1755946800,16259,26183,Goczałkowice Zdrój,Słowianin,1,1,0.0,1.0
+1410794,1755946800,21658,12776,Starowice Dolne,Górnik Zabrze II,0,4,0.0,2.0
+1410800,1755957600,17401,17402,Carina Gubin,Karkonosze Jelenia Góra,1,2,1.0,0.0
+1410799,1755961200,14143,16263,Lechia Zielona Góra,Warta Gorzów,3,0,1.0,0.0
+1410795,1755961200,14267,26182,Pawłowice Śląskie,Stal Jasień,1,2,1.0,1.0
+1410793,1756047600,12806,6954,Kluczbork,SKRA Częstochowa,1,1,0.0,0.0
+1410808,1756292400,12776,12901,Górnik Zabrze II,Ślęza Wrocław,4,2,1.0,0.0
+1410803,1756303200,6963,14143,Zagłębie Lubin II,Lechia Zielona Góra,1,5,0.0,0.0
+1410809,1756303200,22910,9132,Sparta Katowice,Górnik Polkowice,2,0,0.0,0.0
+1410806,1756306800,6954,17402,SKRA Częstochowa,Karkonosze Jelenia Góra,2,0,2.0,0.0
+1410805,1756306800,14267,16259,Pawłowice Śląskie,Goczałkowice Zdrój,2,2,1.0,2.0
+1410804,1756306800,16263,17401,Warta Gorzów,Carina Gubin,1,1,0.0,1.0
+1410802,1756306800,26182,12815,Stal Jasień,Miedź Legnica II,1,2,1.0,1.0
+1410807,1756306800,26183,12806,Słowianin,Kluczbork,2,1,1.0,1.0
+1410801,1756314000,14145,21658,Polonia Nysa,Starowice Dolne,0,0,0.0,0.0
+1410811,1756551600,16259,26182,Goczałkowice Zdrój,Stal Jasień,5,1,1.0,1.0
+1410816,1756551600,21658,14267,Starowice Dolne,Pawłowice Śląskie,1,0,1.0,0.0
+1410818,1756560600,12901,22910,Ślęza Wrocław,Sparta Katowice,0,1,0.0,1.0
+1410817,1756562400,17401,12815,Carina Gubin,Miedź Legnica II,3,2,2.0,1.0
+1410810,1756566000,14143,6954,Lechia Zielona Góra,SKRA Częstochowa,1,1,1.0,0.0
+1410814,1756634400,12776,14145,Górnik Zabrze II,Polonia Nysa,2,2,1.0,0.0
+1410812,1756652400,9132,26183,Górnik Polkowice,Słowianin,3,2,0.0,1.0
+1410813,1756652400,12806,6963,Kluczbork,Zagłębie Lubin II,1,2,1.0,1.0
+1410815,1756652400,17402,16263,Karkonosze Jelenia Góra,Warta Gorzów,2,1,1.0,0.0
+1410827,1757077200,6963,6954,Zagłębie Lubin II,SKRA Częstochowa,3,4,1.0,2.0
+1410822,1757080800,12815,9132,Miedź Legnica II,Górnik Polkowice,0,1,0.0,0.0
+1410825,1757091600,14145,12806,Polonia Nysa,Kluczbork,1,0,0.0,0.0
+1410823,1757152800,22910,16259,Sparta Katowice,Goczałkowice Zdrój,0,0,0.0,0.0
+1410820,1757161800,26183,12776,Słowianin,Górnik Zabrze II,3,2,1.0,1.0
+1410821,1757163600,14267,17401,Pawłowice Śląskie,Carina Gubin,0,2,0.0,1.0
+1410826,1757167200,16263,21658,Warta Gorzów,Starowice Dolne,1,1,0.0,0.0
+1410824,1757170800,14143,12901,Lechia Zielona Góra,Ślęza Wrocław,5,0,3.0,0.0
+1410819,1757250000,26182,17402,Stal Jasień,Karkonosze Jelenia Góra,3,2,2.0,2.0
+1410835,1757685600,9132,16263,Górnik Polkowice,Warta Gorzów,2,2,1.0,0.0
+1410831,1757692800,17402,6963,Karkonosze Jelenia Góra,Zagłębie Lubin II,2,2,1.0,1.0
+1410829,1757696400,14145,26182,Polonia Nysa,Stal Jasień,5,1,3.0,0.0
+1410832,1757761200,12776,22910,Górnik Zabrze II,Sparta Katowice,0,2,0.0,0.0
+1410830,1757761200,16259,12901,Goczałkowice Zdrój,Ślęza Wrocław,4,0,1.0,0.0
+1410834,1757761200,21658,26183,Starowice Dolne,Słowianin,1,2,0.0,2.0
+1410836,1757770200,6954,14267,SKRA Częstochowa,Pawłowice Śląskie,0,0,0.0,0.0
+1410828,1757772000,17401,14143,Carina Gubin,Lechia Zielona Góra,2,1,2.0,0.0
+1410833,1757775600,12806,12815,Kluczbork,Miedź Legnica II,3,1,1.0,1.0
+1410839,1758290400,9132,6954,Górnik Polkowice,SKRA Częstochowa,4,1,1.0,1.0
+1410840,1758290400,12815,16259,Miedź Legnica II,Goczałkowice Zdrój,1,3,0.0,2.0
+1410842,1758362400,6963,14145,Zagłębie Lubin II,Polonia Nysa,5,2,3.0,1.0
+1410844,1758362400,22910,12806,Sparta Katowice,Kluczbork,1,0,1.0,0.0
+1410838,1758373200,26183,14143,Słowianin,Lechia Zielona Góra,1,5,0.0,4.0
+1410837,1758375000,12901,17401,Ślęza Wrocław,Carina Gubin,2,2,1.0,2.0
+1410843,1758376800,14267,17402,Pawłowice Śląskie,Karkonosze Jelenia Góra,3,1,2.0,1.0
+1410841,1758376800,16263,12776,Warta Gorzów,Górnik Zabrze II,2,1,1.0,0.0
+1410845,1758459600,26182,21658,Stal Jasień,Starowice Dolne,2,2,0.0,1.0
+1410853,1758906000,14145,14267,Polonia Nysa,Pawłowice Śląskie,1,1,1.0,0.0
+1410851,1758970800,16259,9132,Goczałkowice Zdrój,Górnik Polkowice,0,0,0.0,0.0
+1410847,1758974400,17401,26183,Carina Gubin,Słowianin,1,1,1.0,1.0
+1410846,1758979800,6954,26182,SKRA Częstochowa,Stal Jasień,6,2,2.0,1.0
+1410850,1758981600,12806,21658,Kluczbork,Starowice Dolne,4,0,3.0,0.0
+1410849,1758981600,16263,12901,Warta Gorzów,Ślęza Wrocław,4,1,3.0,0.0
+1410848,1758985200,17402,22910,Karkonosze Jelenia Góra,Sparta Katowice,1,0,1.0,0.0
+1410854,1758995820,14143,12815,Lechia Zielona Góra,Miedź Legnica II,0,0,0.0,0.0
+1410852,1759060800,12776,6963,Górnik Zabrze II,Zagłębie Lubin II,1,1,0.0,0.0
+1410862,1759498200,12901,6963,Ślęza Wrocław,Zagłębie Lubin II,0,1,0.0,0.0
+1410861,1759500000,12815,17402,Miedź Legnica II,Karkonosze Jelenia Góra,2,2,0.0,1.0
+1410863,1759572000,22910,14143,Sparta Katowice,Lechia Zielona Góra,0,0,0.0,0.0
+1410858,1759572000,26183,14145,Słowianin,Polonia Nysa,2,4,0.0,3.0
+1410860,1759575600,16259,16263,Goczałkowice Zdrój,Warta Gorzów,2,1,2.0,0.0
+1410855,1759575600,21658,6954,Starowice Dolne,SKRA Częstochowa,1,4,0.0,3.0
+1410857,1759582800,9132,17401,Górnik Polkowice,Carina Gubin,2,2,0.0,2.0
+1410859,1759586400,14267,12806,Pawłowice Śląskie,Kluczbork,1,3,1.0,0.0
+1410856,1759669200,26182,12776,Stal Jasień,Górnik Zabrze II,0,3,0.0,1.0
+1410871,1760101200,6963,26183,Zagłębie Lubin II,Słowianin,2,1,1.0,1.0
+1410872,1760113800,14143,12776,Lechia Zielona Góra,Górnik Zabrze II,3,0,2.0,0.0
+1410865,1760176800,22910,14267,Sparta Katowice,Pawłowice Śląskie,3,2,2.0,1.0
+1410869,1760184000,16263,12815,Warta Gorzów,Miedź Legnica II,1,0,1.0,0.0
+1410867,1760187600,6954,14145,SKRA Częstochowa,Polonia Nysa,2,2,1.0,0.0
+1410868,1760187600,12806,26182,Kluczbork,Stal Jasień,1,0,0.0,0.0
+1410864,1760187600,12901,9132,Ślęza Wrocław,Górnik Polkowice,0,5,0.0,0.0
+1410870,1760187600,17401,16259,Carina Gubin,Goczałkowice Zdrój,1,2,1.0,1.0
+1410866,1760194800,17402,21658,Karkonosze Jelenia Góra,Starowice Dolne,1,0,0.0,0.0
+1410880,1760709600,14145,16263,Polonia Nysa,Warta Gorzów,1,1,1.0,0.0
+1410881,1760781600,12815,12901,Miedź Legnica II,Ślęza Wrocław,1,2,1.0,0.0
+1410876,1760785200,16259,17402,Goczałkowice Zdrój,Karkonosze Jelenia Góra,1,0,0.0,0.0
+1410877,1760785200,21658,6963,Starowice Dolne,Zagłębie Lubin II,1,3,0.0,2.0
+1410878,1760790600,14267,14143,Pawłowice Śląskie,Lechia Zielona Góra,0,4,0.0,2.0
+1410873,1760792400,12806,17401,Kluczbork,Carina Gubin,1,2,1.0,1.0
+1410875,1760792400,26183,22910,Słowianin,Sparta Katowice,0,1,0.0,0.0
+1410879,1760878800,12776,6954,Górnik Zabrze II,SKRA Częstochowa,1,2,1.0,1.0
+1410874,1760878800,26182,9132,Stal Jasień,Górnik Polkowice,0,3,0.0,0.0
+1410887,1761303600,16259,12806,Goczałkowice Zdrój,Kluczbork,2,1,1.0,1.0
+1410885,1761310800,12815,12776,Miedź Legnica II,Górnik Zabrze II,2,1,1.0,1.0
+1410883,1761310800,12901,6954,Ślęza Wrocław,SKRA Częstochowa,1,2,1.0,1.0
+1410882,1761310800,17401,6963,Carina Gubin,Zagłębie Lubin II,1,0,0.0,0.0
+1410890,1761386400,22910,21658,Sparta Katowice,Starowice Dolne,2,1,1.0,1.0
+1410889,1761390000,16263,26182,Warta Gorzów,Stal Jasień,3,2,1.0,0.0
+1410884,1761404400,17402,26183,Karkonosze Jelenia Góra,Słowianin,4,1,1.0,0.0
+1410888,1761408000,14143,14145,Lechia Zielona Góra,Polonia Nysa,1,1,1.0,0.0
+1410886,1761480000,9132,14267,Górnik Polkowice,Pawłowice Śląskie,1,0,0.0,0.0
+1410897,1761908400,6963,16263,Zagłębie Lubin II,Warta Gorzów,3,0,0.0,0.0
+1410893,1761908400,12776,16259,Górnik Zabrze II,Goczałkowice Zdrój,1,1,1.0,1.0
+1410892,1761912000,21658,14143,Starowice Dolne,Lechia Zielona Góra,0,7,0.0,4.0
+1410895,1761915600,14267,12815,Pawłowice Śląskie,Miedź Legnica II,3,1,1.0,1.0
+1410891,1761915600,26182,17401,Stal Jasień,Carina Gubin,1,2,1.0,1.0
+1410898,1761915600,26183,12901,Słowianin,Ślęza Wrocław,1,1,0.0,0.0
+1410894,1761917400,6954,22910,SKRA Częstochowa,Sparta Katowice,1,2,0.0,0.0
+1410899,1761926400,12806,9132,Kluczbork,Górnik Polkowice,2,0,1.0,0.0
+1410896,1761933600,14145,17402,Polonia Nysa,Karkonosze Jelenia Góra,0,4,0.0,1.0
+1410907,1762520400,12815,6963,Miedź Legnica II,Zagłębie Lubin II,5,5,0.0,2.0
+1410905,1762520400,12901,14267,Ślęza Wrocław,Pawłowice Śląskie,5,0,4.0,0.0
+1410903,1762599600,22910,14145,Sparta Katowice,Polonia Nysa,1,1,1.0,0.0
+1410906,1762603200,9132,12776,Górnik Polkowice,Górnik Zabrze II,2,1,1.0,0.0
+1410902,1762603200,16259,6954,Goczałkowice Zdrój,SKRA Częstochowa,1,1,1.0,1.0
+1410908,1762603200,16263,12806,Warta Gorzów,Kluczbork,1,2,1.0,0.0
+1410904,1762606800,17401,21658,Carina Gubin,Starowice Dolne,1,3,0.0,2.0
+1410901,1762617600,17402,14143,Karkonosze Jelenia Góra,Lechia Zielona Góra,1,2,0.0,1.0
+1410910,1763121600,6963,16259,Zagłębie Lubin II,Goczałkowice Zdrój,5,0,1.0,0.0
+1410916,1763139600,14145,17401,Polonia Nysa,Carina Gubin,2,2,1.0,0.0
+1410913,1763204400,12776,17402,Górnik Zabrze II,Karkonosze Jelenia Góra,1,2,1.0,1.0
+1485752,1763208000,12901,12806,Ślęza Wrocław,Kluczbork,2,0,2.0,0.0
+1410914,1763208000,14267,16263,Pawłowice Śląskie,Warta Gorzów,0,1,0.0,0.0
+1410912,1763208000,21658,12815,Starowice Dolne,Miedź Legnica II,0,1,0.0,0.0
+1410911,1763218800,6954,26183,SKRA Częstochowa,Słowianin,2,1,2.0,0.0
+1410917,1763222400,14143,9132,Lechia Zielona Góra,Górnik Polkowice,5,0,1.0,0.0
+1410915,1763294400,26182,22910,Stal Jasień,Sparta Katowice,1,4,0.0,2.0
+1410923,1763722800,6963,22910,Zagłębie Lubin II,Sparta Katowice,2,0,1.0,0.0
+1410920,1763726400,14267,12776,Pawłowice Śląskie,Górnik Zabrze II,1,3,1.0,1.0
+1410924,1763809200,12815,14145,Miedź Legnica II,Polonia Nysa,7,2,1.0,0.0
+1410925,1763812800,12901,26182,Ślęza Wrocław,Stal Jasień,4,2,1.0,1.0
+1410922,1763812800,16259,21658,Goczałkowice Zdrój,Starowice Dolne,2,2,1.0,0.0
+1410919,1763812800,17401,6954,Carina Gubin,SKRA Częstochowa,1,0,1.0,0.0
+1410918,1763823600,12806,14143,Kluczbork,Lechia Zielona Góra,1,1,1.0,1.0
+1410930,1764414000,12776,17401,Górnik Zabrze II,Carina Gubin,6,0,4.0,0.0
+1410933,1764414000,22910,16263,Sparta Katowice,Warta Gorzów,3,4,1.0,1.0
+1410934,1764417600,26183,14267,Słowianin,Pawłowice Śląskie,1,2,1.0,1.0
+1410941,1772199000,12901,17402,Ślęza Wrocław,Karkonosze Jelenia Góra,1,0,0.0,0.0
+1410936,1772202600,9132,21658,Górnik Polkowice,Starowice Dolne,2,0,1.0,0.0
+1410942,1772276400,12815,26183,Miedź Legnica II,Słowianin,1,2,0.0,0.0
+1410940,1772280000,16259,14145,Goczałkowice Zdrój,Polonia Nysa,1,2,0.0,1.0
+1410943,1772283600,16263,6954,Warta Gorzów,SKRA Częstochowa,5,0,2.0,0.0
+1410939,1772294400,12806,12776,Kluczbork,Górnik Zabrze II,2,2,0.0,2.0
+1410948,1772802000,12776,21658,Górnik Zabrze II,Starowice Dolne,7,0,3.0,0.0
+1410950,1772816400,14145,12901,Polonia Nysa,Ślęza Wrocław,1,3,1.0,2.0
+1410945,1772881200,22910,12815,Sparta Katowice,Miedź Legnica II,2,2,0.0,0.0
+1410952,1772884800,26183,16259,Słowianin,Goczałkowice Zdrój,0,1,0.0,1.0
+1410951,1772888400,16263,14143,Warta Gorzów,Lechia Zielona Góra,1,3,0.0,1.0
+1410947,1772895600,6954,12806,SKRA Częstochowa,Kluczbork,5,4,3.0,1.0
+1410949,1772967600,6963,9132,Zagłębie Lubin II,Górnik Polkowice,0,2,0.0,0.0
+1480382,1773410400,12901,12776,Ślęza Wrocław,Górnik Zabrze II,2,1,2.0,0.0
+1410961,1773412200,9132,22910,Górnik Polkowice,Sparta Katowice,0,4,0.0,0.0
+1410954,1773421200,17402,6954,Karkonosze Jelenia Góra,SKRA Częstochowa,2,2,1.0,0.0
+1410956,1773489600,16259,14267,Goczałkowice Zdrój,Pawłowice Śląskie,3,0,1.0,0.0
+1410955,1773489600,21658,14145,Starowice Dolne,Polonia Nysa,1,0,1.0,0.0
+1410958,1773496800,17401,16263,Carina Gubin,Warta Gorzów,1,3,1.0,1.0
+1410960,1773507600,14143,6963,Lechia Zielona Góra,Zagłębie Lubin II,0,0,0.0,0.0
+1410957,1773583200,12806,26183,Kluczbork,Słowianin,1,1,1.0,1.0
+1410926,1773759600,9132,17402,Górnik Polkowice,Karkonosze Jelenia Góra,1,1,1.0,0.0
+1410937,1773835200,14267,6963,Pawłowice Śląskie,Zagłębie Lubin II,0,4,0.0,1.0
+1410944,1773838800,17401,22910,Carina Gubin,Sparta Katowice,1,1,0.0,0.0
+1410921,1773842400,16263,26183,Warta Gorzów,Słowianin,1,2,1.0,0.0
+1410928,1773846000,21658,12901,Starowice Dolne,Ślęza Wrocław,2,2,2.0,2.0
+1410968,1774026000,14145,12776,Polonia Nysa,Górnik Zabrze II,1,2,0.0,2.0
+1410969,1774027800,6954,14143,SKRA Częstochowa,Lechia Zielona Góra,2,1,1.0,1.0
+1410970,1774090800,22910,12901,Sparta Katowice,Ślęza Wrocław,0,1,0.0,0.0
+1410967,1774094400,12815,17401,Miedź Legnica II,Carina Gubin,3,1,1.0,1.0
+1410964,1774094400,14267,21658,Pawłowice Śląskie,Starowice Dolne,1,3,0.0,1.0
+1410965,1774101600,16263,17402,Warta Gorzów,Karkonosze Jelenia Góra,3,1,1.0,0.0
+1410963,1774101600,26183,9132,Słowianin,Górnik Polkowice,2,1,0.0,0.0
+1410962,1774186200,6963,12806,Zagłębie Lubin II,Kluczbork,3,2,2.0,0.0
+1410929,1774458000,6954,12815,SKRA Częstochowa,Miedź Legnica II,1,0,1.0,0.0
+1410978,1774630800,12806,14145,Kluczbork,Polonia Nysa,1,1,1.0,1.0
+1410979,1774699200,16259,22910,Goczałkowice Zdrój,Sparta Katowice,1,0,1.0,0.0
+1410977,1774702800,9132,12815,Górnik Polkowice,Miedź Legnica II,3,3,1.0,0.0
+1410975,1774702800,12776,26183,Górnik Zabrze II,Słowianin,2,2,1.0,1.0
+1410972,1774702800,21658,16263,Starowice Dolne,Warta Gorzów,1,2,0.0,1.0
+1410973,1774710000,6954,6963,SKRA Częstochowa,Zagłębie Lubin II,3,0,1.0,0.0
+1410974,1774710000,17401,14267,Carina Gubin,Pawłowice Śląskie,1,0,0.0,0.0
+1410976,1774791000,12901,14143,Ślęza Wrocław,Lechia Zielona Góra,0,0,0.0,0.0
+1410931,1775059200,17402,12806,Karkonosze Jelenia Góra,Kluczbork,1,4,0.0,2.0
+1410935,1775062800,14143,16259,Lechia Zielona Góra,Goczałkowice Zdrój,5,0,2.0,0.0
+1410932,1775062800,14145,9132,Polonia Nysa,Górnik Polkowice,1,2,0.0,1.0
+1410981,1775124000,22910,12776,Sparta Katowice,Górnik Zabrze II,1,2,0.0,0.0
+1410982,1775296800,6963,17402,Zagłębie Lubin II,Karkonosze Jelenia Góra,1,1,0.0,0.0
+1410987,1775296800,12815,12806,Miedź Legnica II,Kluczbork,3,1,1.0,0.0
+1410986,1775300400,14267,6954,Pawłowice Śląskie,SKRA Częstochowa,2,3,2.0,1.0
+1410984,1775307600,26183,21658,Słowianin,Starowice Dolne,0,0,0.0,0.0
+1410985,1775309400,12901,16259,Ślęza Wrocław,Goczałkowice Zdrój,2,1,2.0,1.0
+1410983,1775311200,16263,9132,Warta Gorzów,Górnik Polkowice,1,1,1.0,1.0
+1410988,1775323800,14143,17401,Lechia Zielona Góra,Carina Gubin,0,0,0.0,0.0
+1410997,1775822400,12776,16263,Górnik Zabrze II,Warta Gorzów,3,1,2.0,0.0
+1410992,1775829600,17401,12901,Carina Gubin,Ślęza Wrocław,1,1,0.0,0.0
+1410990,1775836800,17402,14267,Karkonosze Jelenia Góra,Pawłowice Śląskie,1,1,0.0,1.0
+1410994,1775840400,14145,6963,Polonia Nysa,Zagłębie Lubin II,2,4,1.0,3.0
+1410989,1775901600,16259,12815,Goczałkowice Zdrój,Miedź Legnica II,1,2,0.0,0.0
+1410993,1775916000,6954,9132,SKRA Częstochowa,Górnik Polkowice,0,3,0.0,2.0
+1410996,1775919600,12806,22910,Kluczbork,Sparta Katowice,3,1,2.0,1.0
+1410995,1775928600,14143,26183,Lechia Zielona Góra,Słowianin,1,2,1.0,2.0
+1410953,1776182400,17402,17401,Karkonosze Jelenia Góra,Carina Gubin,3,2,1.0,2.0
+1411005,1776432600,12901,16263,Ślęza Wrocław,Warta Gorzów,0,0,0.0,0.0
+1411000,1776438000,9132,16259,Górnik Polkowice,Goczałkowice Zdrój,0,0,0.0,0.0
+1411002,1776438000,21658,12806,Starowice Dolne,Kluczbork,0,4,0.0,2.0
+1410999,1776506400,6963,12776,Zagłębie Lubin II,Górnik Zabrze II,0,5,0.0,1.0
+1411006,1776506400,12815,14143,Miedź Legnica II,Lechia Zielona Góra,0,2,0.0,1.0
+1411003,1776506400,22910,17402,Sparta Katowice,Karkonosze Jelenia Góra,3,1,1.0,0.0
+1410998,1776517200,26183,17401,Słowianin,Carina Gubin,1,0,0.0,0.0
+1411001,1776524400,14267,14145,Pawłowice Śląskie,Polonia Nysa,0,3,0.0,0.0
+1411004,1776528000,26182,6954,Stal Jasień,SKRA Częstochowa,0,3,,
+1411012,1777111200,6963,12901,Zagłębie Lubin II,Ślęza Wrocław,2,1,1.0,1.0
+1411013,1777122000,6954,21658,SKRA Częstochowa,Starowice Dolne,3,2,1.0,0.0
+1411007,1777125600,16263,16259,Warta Gorzów,Goczałkowice Zdrój,1,2,0.0,0.0
+1411014,1777129200,12806,14267,Kluczbork,Pawłowice Śląskie,2,0,1.0,0.0
+1411009,1777129200,17401,9132,Carina Gubin,Górnik Polkowice,1,2,0.0,1.0
+1411015,1777129200,17402,12815,Karkonosze Jelenia Góra,Miedź Legnica II,1,1,0.0,1.0
+1411010,1777140000,14143,22910,Lechia Zielona Góra,Sparta Katowice,0,0,0.0,0.0
+1411011,1777197600,14145,26183,Polonia Nysa,Słowianin,0,0,0.0,0.0
+1411016,1777474800,14267,22910,Pawłowice Śląskie,Sparta Katowice,0,1,0.0,1.0
+1411020,1777629600,9132,12901,Górnik Polkowice,Ślęza Wrocław,2,1,1.0,1.0
+1411018,1777629600,16259,17401,Goczałkowice Zdrój,Carina Gubin,1,2,0.0,1.0
+1411024,1777633200,21658,17402,Starowice Dolne,Karkonosze Jelenia Góra,1,6,0.0,4.0
+1411019,1777636800,12815,16263,Miedź Legnica II,Warta Gorzów,2,0,2.0,0.0
+1411021,1777636800,26183,6963,Słowianin,Zagłębie Lubin II,2,1,2.0,1.0
+1411022,1777640400,12776,14143,Górnik Zabrze II,Lechia Zielona Góra,0,2,0.0,1.0
+1411023,1777644000,14145,6954,Polonia Nysa,SKRA Częstochowa,2,3,0.0,1.0
+1411033,1778234400,6963,21658,Zagłębie Lubin II,Starowice Dolne,5,0,2.0,0.0
+1411027,1778247000,12901,12815,Ślęza Wrocław,Miedź Legnica II,3,2,1.0,1.0
+1411030,1778248800,17402,16259,Karkonosze Jelenia Góra,Goczałkowice Zdrój,0,1,0.0,0.0
+1411029,1778320800,22910,26183,Sparta Katowice,Słowianin,1,0,0.0,0.0
+1411025,1778335200,6954,12776,SKRA Częstochowa,Górnik Zabrze II,1,2,0.0,2.0
+1411031,1778338800,16263,14145,Warta Gorzów,Polonia Nysa,1,0,1.0,0.0
+1411026,1778338800,17401,12806,Carina Gubin,Kluczbork,1,1,1.0,0.0
+1411028,1778349600,14143,14267,Lechia Zielona Góra,Pawłowice Śląskie,1,0,0.0,0.0
+1411042,1778598000,6963,17401,Zagłębie Lubin II,Carina Gubin,1,4,1.0,1.0
+1411034,1778673600,12776,12815,Górnik Zabrze II,Miedź Legnica II,0,1,0.0,1.0
+1411039,1778684400,12806,16259,Kluczbork,Goczałkowice Zdrój,3,0,0.0,0.0
+1411038,1778684400,14267,9132,Pawłowice Śląskie,Górnik Polkowice,0,7,0.0,3.0
+1411041,1778684400,21658,22910,Starowice Dolne,Sparta Katowice,2,1,1.0,0.0
+1411037,1778688000,6954,12901,SKRA Częstochowa,Ślęza Wrocław,2,1,1.0,0.0
+1411036,1778688000,14145,14143,Polonia Nysa,Lechia Zielona Góra,0,1,0.0,1.0
+1411040,1778688000,26183,17402,Słowianin,Karkonosze Jelenia Góra,2,2,1.0,2.0
+1411044,1778857200,16263,6963,Warta Gorzów,Zagłębie Lubin II,1,2,0.0,0.0
+1411046,1778925600,12901,26183,Ślęza Wrocław,Słowianin,2,0,1.0,0.0
+1411045,1778925600,16259,12776,Goczałkowice Zdrój,Górnik Zabrze II,2,2,1.0,1.0
+1411047,1778925600,22910,6954,Sparta Katowice,SKRA Częstochowa,1,0,0.0,0.0
+1411043,1778929200,12815,14267,Miedź Legnica II,Pawłowice Śląskie,6,0,5.0,0.0
+1411050,1778954400,14143,21658,Lechia Zielona Góra,Starowice Dolne,5,1,2.0,1.0
+1411049,1779012000,9132,12806,Górnik Polkowice,Kluczbork,3,1,1.0,0.0
+1411048,1779012000,17402,14145,Karkonosze Jelenia Góra,Polonia Nysa,3,1,1.0,0.0
+1411053,1779444000,6963,12815,Zagłębie Lubin II,Miedź Legnica II,1,3,0.0,1.0
+1411054,1779444000,12776,9132,Górnik Zabrze II,Górnik Polkowice,6,0,2.0,0.0
+1411057,1779469200,6954,16259,SKRA Częstochowa,Goczałkowice Zdrój,4,0,4.0,0.0
+1411056,1779541200,21658,17401,Starowice Dolne,Carina Gubin,0,2,0.0,0.0
+1411055,1779548400,12806,16263,Kluczbork,Warta Gorzów,0,1,0.0,0.0
+1411052,1779548400,14267,12901,Pawłowice Śląskie,Ślęza Wrocław,2,4,0.0,1.0
+1411059,1779559200,14143,17402,Lechia Zielona Góra,Karkonosze Jelenia Góra,4,0,0.0,0.0
+1411058,1779642000,14145,22910,Polonia Nysa,Sparta Katowice,2,3,1.0,1.0
+1487982,1780070400,12806,12901,Kluczbork,Ślęza Wrocław,6,0,2.0,0.0
+1411066,1780146000,16263,14267,Warta Gorzów,Pawłowice Śląskie,2,0,2.0,0.0
+1411067,1780146000,17401,14145,Carina Gubin,Polonia Nysa,1,2,0.0,2.0
+1411068,1780149600,16259,6963,Goczałkowice Zdrój,Zagłębie Lubin II,3,2,3.0,1.0
+1411064,1780153200,9132,14143,Górnik Polkowice,Lechia Zielona Góra,1,2,0.0,0.0
+1411063,1780153200,12815,21658,Miedź Legnica II,Starowice Dolne,2,1,1.0,1.0
+1411065,1780153200,17402,12776,Karkonosze Jelenia Góra,Górnik Zabrze II,2,0,1.0,0.0
+1411069,1780153200,26183,6954,Słowianin,SKRA Częstochowa,2,1,2.0,0.0

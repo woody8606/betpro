@@ -1,0 +1,513 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1530193,1774051200,1953,1961,Sarmiento Resistencia,Juventud Antoniana,1,3,1,1
+1530195,1774051200,1966,21040,Sportivo Belgrano,9 de Julio Rafaela,3,0,2,0
+1530180,1774051200,21043,1949,Atenas,Cipolletti,3,1,1,0
+1530192,1774053000,21042,3947,San Martín Mendoza,Juventud Unida Univ.,0,0,0,0
+1530182,1774134000,25757,27574,Costa Brava,Fundacion Amigos,3,0,1,0
+1530194,1774202400,1941,3972,Sol de Mayo,Germinal de Rawson,1,1,1,0
+1530190,1774206000,443,1962,Olimpo Bahia Blanca,Alvarado,2,0,0,0
+1530186,1774206000,472,475,Guillermo Brown,Santamarina,2,2,1,1
+1530188,1774206000,1960,27571,Independiente De Chivilcoy,Atletico Escobar,2,1,1,1
+1530183,1774206000,2426,3945,Defensores de Belgrano VR,Gimnasia Concepción,2,1,2,1
+1530189,1774206000,3975,1938,Kimberley Mar del Plata,Villa Mitre,1,0,0,0
+1530185,1774206000,21041,1950,El Linqueño,Sportivo Las Parejas,1,0,1,0
+1530196,1774206000,27573,25756,Tucuman Central,Bartolomé Mitre,1,0,0,0
+1530191,1774207800,1935,27572,San Martin Formosa,Defensores de Vilelas,2,1,1,0
+1530187,1774208700,2428,18764,Huracan Las Heras,Argentino Monte Maíz,0,0,0,0
+1530181,1774209600,467,23255,Boca Unidos,Sarmiento de La Banda,3,1,1,1
+1530184,1774211400,789,25758,Douglas Haig,Gimnasia Chivilcoy,2,1,1,0
+1530209,1774659600,1961,3982,Juventud Antoniana,Sol de América,2,1,1,1
+1530206,1774706400,27574,1959,Fundacion Amigos,Deportivo Rincon,2,2,1,0
+1530205,1774724400,27572,27573,Defensores de Vilelas,Tucuman Central,1,0,1,0
+1530210,1774726200,3947,2428,Juventud Unida Univ.,Huracan Las Heras,2,0,0,0
+1530211,1774735200,475,1941,Santamarina,Sol de Mayo,0,2,0,2
+1530197,1774792800,21040,1960,9 de Julio Rafaela,Independiente De Chivilcoy,3,2,2,0
+1530207,1774807200,3972,3975,Germinal de Rawson,Kimberley Mar del Plata,0,0,0,0
+1530203,1774809000,1949,21042,Cipolletti,San Martín Mendoza,3,0,2,0
+1530198,1774809000,1962,472,Alvarado,Guillermo Brown,2,0,2,0
+1530202,1774809000,25758,1966,Gimnasia Chivilcoy,Sportivo Belgrano,0,0,0,0
+1530213,1774810800,1938,8399,Villa Mitre,Circulo Deportivo,2,0,0,0
+1530204,1774810800,2426,21041,Defensores de Belgrano VR,El Linqueño,3,1,2,0
+1530199,1774810800,18764,25757,Argentino Monte Maíz,Costa Brava,0,0,0,0
+1530208,1774812600,3945,789,Gimnasia Concepción,Douglas Haig,1,3,0,2
+1530201,1774812600,25756,467,Bartolomé Mitre,Boca Unidos,1,0,0,0
+1530212,1774818000,23255,1953,Sarmiento de La Banda,Sarmiento Resistencia,1,1,1,0
+1530200,1774897200,27571,1950,Atletico Escobar,Sportivo Las Parejas,1,1,1,0
+1530227,1775241000,1941,1962,Sol de Mayo,Alvarado,0,0,0,0
+1530215,1775327400,8399,3972,Circulo Deportivo,Germinal de Rawson,2,1,2,0
+1530214,1775332800,467,27572,Boca Unidos,Defensores de Vilelas,2,4,1,2
+1530216,1775336400,25757,3947,Costa Brava,Juventud Unida Univ.,1,1,1,1
+1530220,1775413800,472,443,Guillermo Brown,Olimpo Bahia Blanca,0,2,0,2
+1530223,1775413800,3975,475,Kimberley Mar del Plata,Santamarina,0,0,0,0
+1530229,1775415600,1950,21040,Sportivo Las Parejas,9 de Julio Rafaela,1,1,0,0
+1530217,1775415600,1959,18764,Deportivo Rincon,Argentino Monte Maíz,2,0,1,0
+1530222,1775415600,1960,25758,Independiente De Chivilcoy,Gimnasia Chivilcoy,3,0,2,0
+1530219,1775415600,21041,27571,El Linqueño,Atletico Escobar,2,1,1,1
+1530230,1775415600,27573,1935,Tucuman Central,San Martin Formosa,2,0,1,0
+1530221,1775416500,2428,1949,Huracan Las Heras,Cipolletti,1,1,0,1
+1530226,1775417400,3982,23255,Sol de América,Sarmiento de La Banda,1,0,0,0
+1530224,1775419200,21042,21043,San Martín Mendoza,Atenas,1,0,0,0
+1530218,1775421000,789,2426,Douglas Haig,Defensores de Belgrano VR,3,2,1,1
+1530225,1775422800,1953,25756,Sarmiento Resistencia,Bartolomé Mitre,0,0,0,0
+1530228,1775431800,1966,3945,Sportivo Belgrano,Gimnasia Concepción,0,0,0,0
+1530232,1775932200,1962,3975,Alvarado,Kimberley Mar del Plata,0,0,0,0
+1530234,1775935800,25756,3982,Bartolomé Mitre,Sol de América,0,0,0,0
+1530246,1775943000,475,8399,Santamarina,Circulo Deportivo,4,0,2,0
+1530242,1775944800,3945,1960,Gimnasia Concepción,Independiente De Chivilcoy,0,1,0,1
+1530241,1776016800,3972,1938,Germinal de Rawson,Villa Mitre,1,0,0,0
+1530244,1776018600,443,1941,Olimpo Bahia Blanca,Sol de Mayo,1,0,1,0
+1530237,1776018600,1949,25757,Cipolletti,Costa Brava,1,1,1,1
+1530243,1776018600,3947,1959,Juventud Unida Univ.,Deportivo Rincon,0,0,0,0
+1530238,1776020400,2426,1966,Defensores de Belgrano VR,Sportivo Belgrano,1,1,0,0
+1530233,1776020400,18764,27574,Argentino Monte Maíz,Fundacion Amigos,0,0,0,0
+1530236,1776020400,25758,1950,Gimnasia Chivilcoy,Sportivo Las Parejas,1,0,0,0
+1530240,1776022200,789,21041,Douglas Haig,El Linqueño,1,0,0,0
+1530235,1776022200,21043,2428,Atenas,Huracan Las Heras,0,0,0,0
+1530231,1776024000,21040,27571,9 de Julio Rafaela,Atletico Escobar,4,1,0,0
+1530245,1776029400,1935,467,San Martin Formosa,Boca Unidos,1,1,1,0
+1530247,1776031200,23255,1961,Sarmiento de La Banda,Juventud Antoniana,0,0,0,0
+1530239,1776123000,27572,1953,Defensores de Vilelas,Sarmiento Resistencia,2,2,2,0
+1530248,1776362400,27571,25758,Atletico Escobar,Gimnasia Chivilcoy,0,2,0,1
+1530262,1776468900,1966,789,Sportivo Belgrano,Douglas Haig,0,1,0,1
+1530257,1776474000,1961,25756,Juventud Antoniana,Bartolomé Mitre,1,2,0,1
+1530250,1776535200,8399,1962,Circulo Deportivo,Alvarado,0,1,0,1
+1530256,1776537000,1960,2426,Independiente De Chivilcoy,Defensores de Belgrano VR,1,1,0,1
+1530258,1776537000,3975,443,Kimberley Mar del Plata,Olimpo Bahia Blanca,0,1,0,0
+1530259,1776538800,1953,1935,Sarmiento Resistencia,San Martin Formosa,1,1,0,1
+1530252,1776538800,1959,1949,Deportivo Rincon,Cipolletti,1,2,1,2
+1530260,1776540600,3982,27572,Sol de América,Defensores de Vilelas,2,1,1,0
+1530249,1776607200,467,27573,Boca Unidos,Tucuman Central,3,1,2,0
+1530261,1776607200,1941,472,Sol de Mayo,Guillermo Brown,1,0,1,0
+1530254,1776607200,27574,3947,Fundacion Amigos,Juventud Unida Univ.,1,3,0,0
+1530263,1776614400,1950,3945,Sportivo Las Parejas,Gimnasia Concepción,2,1,1,0
+1530253,1776618000,21041,21040,El Linqueño,9 de Julio Rafaela,0,3,0,1
+1530264,1776621600,1938,475,Villa Mitre,Santamarina,0,0,0,0
+1530255,1776621600,2428,21042,Huracan Las Heras,San Martín Mendoza,1,0,1,0
+1530251,1776637800,25757,21043,Costa Brava,Atenas,0,1,0,1
+1530281,1777143600,27573,1953,Tucuman Central,Sarmiento Resistencia,1,1,1,0
+1530271,1777149000,27572,1961,Defensores de Vilelas,Juventud Antoniana,0,1,0,0
+1530279,1777152600,475,3972,Santamarina,Germinal de Rawson,0,0,0,0
+1530265,1777226400,1962,1938,Alvarado,Villa Mitre,1,1,0,0
+1530274,1777228200,472,3975,Guillermo Brown,Kimberley Mar del Plata,3,4,1,1
+1530269,1777228200,1949,27574,Cipolletti,Fundacion Amigos,2,1,0,0
+1530273,1777228200,3945,27571,Gimnasia Concepción,Atletico Escobar,1,2,1,2
+1530275,1777228200,3947,18764,Juventud Unida Univ.,Argentino Monte Maíz,1,2,0,1
+1530272,1777230000,789,1960,Douglas Haig,Independiente De Chivilcoy,1,0,1,0
+1530270,1777230000,2426,1950,Defensores de Belgrano VR,Sportivo Las Parejas,2,0,1,0
+1530268,1777230000,25758,21040,Gimnasia Chivilcoy,9 de Julio Rafaela,1,0,0,0
+1530280,1777230600,1966,21041,Sportivo Belgrano,El Linqueño,1,1,1,0
+1530277,1777231800,1935,3982,San Martin Formosa,Sol de América,1,0,0,0
+1530278,1777231800,21042,25757,San Martín Mendoza,Costa Brava,0,0,0,0
+1530266,1777231800,25756,23255,Bartolomé Mitre,Sarmiento de La Banda,0,0,0,0
+1530267,1777240800,21043,1959,Atenas,Deportivo Rincon,3,1,0,1
+1530276,1777312800,443,8399,Olimpo Bahia Blanca,Circulo Deportivo,1,0,1,0
+1530285,1777744800,8399,472,Circulo Deportivo,Guillermo Brown,1,1,0,1
+1530291,1777746600,1960,1966,Independiente De Chivilcoy,Sportivo Belgrano,0,3,0,1
+1530293,1777746600,3975,1941,Kimberley Mar del Plata,Sol de Mayo,0,0,0,0
+1530286,1777746600,25757,2428,Costa Brava,Huracan Las Heras,1,2,1,2
+1530289,1777816800,27574,21043,Fundacion Amigos,Atenas,4,0,1,0
+1530298,1777831200,1938,443,Villa Mitre,Olimpo Bahia Blanca,0,0,0,0
+1530287,1777831200,1959,21042,Deportivo Rincon,San Martín Mendoza,1,0,0,0
+1530284,1777831200,27571,2426,Atletico Escobar,Defensores de Belgrano VR,3,2,0,1
+1530290,1777831800,3972,1962,Germinal de Rawson,Alvarado,1,0,1,0
+1530297,1777834800,1950,789,Sportivo Las Parejas,Douglas Haig,0,0,0,0
+1530295,1777834800,1953,467,Sarmiento Resistencia,Boca Unidos,1,1,0,0
+1530296,1777834800,3982,27573,Sol de América,Tucuman Central,3,0,1,0
+1530283,1777834800,18764,1949,Argentino Monte Maíz,Cipolletti,2,0,2,0
+1530282,1777834800,21040,3945,9 de Julio Rafaela,Gimnasia Concepción,4,1,1,0
+1530288,1777834800,21041,25758,El Linqueño,Gimnasia Chivilcoy,1,1,1,0
+1530294,1777836600,23255,27572,Sarmiento de La Banda,Defensores de Vilelas,1,2,0,1
+1530292,1777838400,1961,1935,Juventud Antoniana,San Martin Formosa,0,3,0,1
+1530309,1778351400,1960,21041,Independiente De Chivilcoy,El Linqueño,1,0,0,0
+1530304,1778369400,27572,25756,Defensores de Vilelas,Bartolomé Mitre,1,3,1,1
+1530307,1778436000,472,1938,Guillermo Brown,Villa Mitre,1,0,1,0
+1530313,1778436000,1941,8399,Sol de Mayo,Circulo Deportivo,0,0,0,0
+1530299,1778436000,1962,475,Alvarado,Santamarina,3,0,3,0
+1530310,1778437800,443,3972,Olimpo Bahia Blanca,Germinal de Rawson,1,0,0,0
+1530302,1778437800,1949,3947,Cipolletti,Juventud Unida Univ.,0,1,0,1
+1530306,1778437800,3945,25758,Gimnasia Concepción,Gimnasia Chivilcoy,1,0,1,0
+1530300,1778437800,21043,18764,Atenas,Argentino Monte Maíz,1,0,1,0
+1530301,1778439600,467,3982,Boca Unidos,Sol de América,0,1,0,1
+1530305,1778439600,789,27571,Douglas Haig,Atletico Escobar,4,1,1,1
+1530314,1778439600,1966,1950,Sportivo Belgrano,Sportivo Las Parejas,2,0,0,0
+1530303,1778439600,2426,21040,Defensores de Belgrano VR,9 de Julio Rafaela,0,0,0,0
+1530308,1778439600,2428,1959,Huracan Las Heras,Deportivo Rincon,1,1,1,0
+1530312,1778439600,21042,27574,San Martín Mendoza,Fundacion Amigos,1,1,0,1
+1530315,1778439600,27573,1961,Tucuman Central,Juventud Antoniana,1,0,0,0
+1530311,1778441400,1935,23255,San Martin Formosa,Sarmiento de La Banda,4,2,1,1
+1530320,1778956200,25758,2426,Gimnasia Chivilcoy,Defensores de Belgrano VR,3,0,2,0
+1530324,1779028200,27574,2428,Fundacion Amigos,Huracan Las Heras,1,0,0,0
+1530332,1779040800,1938,1941,Villa Mitre,Sol de Mayo,2,1,1,0
+1530322,1779040800,1959,25757,Deportivo Rincon,Costa Brava,1,0,1,0
+1530325,1779040800,3972,472,Germinal de Rawson,Guillermo Brown,1,1,0,0
+1530321,1779040800,8399,3975,Circulo Deportivo,Kimberley Mar del Plata,0,1,0,1
+1530323,1779040800,21041,3945,El Linqueño,Gimnasia Concepción,0,0,0,0
+1530326,1779042600,1961,467,Juventud Antoniana,Boca Unidos,0,0,0,0
+1530327,1779042600,3947,21043,Juventud Unida Univ.,Atenas,0,1,0,1
+1530317,1779042600,18764,21042,Argentino Monte Maíz,San Martín Mendoza,4,1,2,0
+1530316,1779042600,21040,789,9 de Julio Rafaela,Douglas Haig,2,0,1,0
+1530318,1779042600,27571,1966,Atletico Escobar,Sportivo Belgrano,1,3,0,1
+1530331,1779044400,1950,1960,Sportivo Las Parejas,Independiente De Chivilcoy,1,0,0,0
+1530330,1779044400,3982,1953,Sol de América,Sarmiento Resistencia,3,0,1,0
+1530319,1779044400,25756,1935,Bartolomé Mitre,San Martin Formosa,2,0,0,0
+1530329,1779046200,23255,27573,Sarmiento de La Banda,Tucuman Central,1,0,0,0
+1530328,1779052200,475,443,Santamarina,Olimpo Bahia Blanca,0,0,0,0
+1530344,1779498000,1961,1953,Juventud Antoniana,Sarmiento Resistencia,2,0,2,0
+1530345,1779561000,3947,21042,Juventud Unida Univ.,San Martín Mendoza,1,1,1,0
+1530335,1779561000,18764,2428,Argentino Monte Maíz,Huracan Las Heras,1,0,1,0
+1530338,1779561000,25758,789,Gimnasia Chivilcoy,Douglas Haig,2,0,1,0
+1530346,1779631200,475,472,Santamarina,Guillermo Brown,0,2,0,0
+1530343,1779631200,3945,2426,Gimnasia Concepción,Defensores de Belgrano VR,1,0,0,0
+1530333,1779631200,21040,1966,9 de Julio Rafaela,Sportivo Belgrano,0,2,0,1
+1530341,1779633000,27574,25757,Fundacion Amigos,Costa Brava,2,0,0,0
+1530334,1779635700,1962,443,Alvarado,Olimpo Bahia Blanca,2,0,0,0
+1530348,1779638400,1950,21041,Sportivo Las Parejas,El Linqueño,1,0,1,0
+1530342,1779645600,3972,1941,Germinal de Rawson,Sol de Mayo,1,0,0,0
+1530339,1779647400,1949,21043,Cipolletti,Atenas,1,0,1,0
+1530336,1779647400,27571,1960,Atletico Escobar,Independiente De Chivilcoy,0,0,0,0
+1530349,1779732000,1938,3975,Villa Mitre,Kimberley Mar del Plata,0,0,0,0
+1530337,1779734700,25756,27573,Bartolomé Mitre,Tucuman Central,1,0,1,0
+1530347,1779735600,23255,467,Sarmiento de La Banda,Boca Unidos,3,0,0,0
+1530340,1779735600,27572,1935,Defensores de Vilelas,San Martin Formosa,2,3,1,0
+1530359,1780165800,3975,3972,Kimberley Mar del Plata,Germinal de Rawson,1,0,1,0
+1530365,1780169400,1950,27571,Sportivo Las Parejas,Atletico Escobar,1,0,1,0
+1530356,1780250400,472,1962,Guillermo Brown,Alvarado,0,0,0,0
+1530363,1780250400,1941,475,Sol de Mayo,Santamarina,3,2,2,1
+1530353,1780250400,1959,27574,Deportivo Rincon,Fundacion Amigos,0,0,0,0
+1530358,1780250400,1960,21040,Independiente De Chivilcoy,9 de Julio Rafaela,2,2,0,1
+1530351,1780250400,8399,1938,Circulo Deportivo,Villa Mitre,0,0,0,0
+1530355,1780250400,21041,2426,El Linqueño,Defensores de Belgrano VR,0,2,0,0
+1530352,1780250400,25757,18764,Costa Brava,Argentino Monte Maíz,2,0,1,0
+1530350,1780252200,467,25756,Boca Unidos,Bartolomé Mitre,2,1,1,1
+1530354,1780252200,789,3945,Douglas Haig,Gimnasia Concepción,0,0,0,0
+1530362,1780253100,3982,1961,Sol de América,Juventud Antoniana,1,0,1,0
+1530361,1780254000,1953,23255,Sarmiento Resistencia,Sarmiento de La Banda,0,1,0,0
+1530364,1780254000,1966,25758,Sportivo Belgrano,Gimnasia Chivilcoy,1,0,0,0
+1530357,1780254000,2428,3947,Huracan Las Heras,Juventud Unida Univ.,1,0,0,0
+1530360,1780254000,21042,1949,San Martín Mendoza,Cipolletti,1,0,0,0
+1530366,1780254000,27573,27572,Tucuman Central,Defensores de Vilelas,2,0,0,0
+1530376,1780770600,27572,467,Defensores de Vilelas,Boca Unidos,2,0,1,0
+1530371,1780771500,25756,1953,Bartolomé Mitre,Sarmiento Resistencia,2,0,0,0
+1530380,1780855200,443,472,Olimpo Bahia Blanca,Guillermo Brown,0,0,0,0
+1530368,1780855200,1962,1941,Alvarado,Sol de Mayo,2,0,1,0
+1530379,1780855200,3947,25757,Juventud Unida Univ.,Costa Brava,0,0,0,0
+1530377,1780855200,3972,8399,Germinal de Rawson,Circulo Deportivo,0,0,0,0
+1530382,1780857000,475,3975,Santamarina,Kimberley Mar del Plata,1,0,0,0
+1530374,1780857000,1949,2428,Cipolletti,Huracan Las Heras,3,0,1,0
+1530375,1780857000,2426,789,Defensores de Belgrano VR,Douglas Haig,1,0,0,0
+1530378,1780857000,3945,1966,Gimnasia Concepción,Sportivo Belgrano,1,0,0,0
+1530369,1780857000,18764,1959,Argentino Monte Maíz,Deportivo Rincon,2,0,0,0
+1530367,1780857000,21040,1950,9 de Julio Rafaela,Sportivo Las Parejas,2,2,1,1
+1530372,1780857000,21043,21042,Atenas,San Martín Mendoza,0,0,0,0
+1530373,1780857000,25758,1960,Gimnasia Chivilcoy,Independiente De Chivilcoy,0,0,0,0
+1530370,1780857000,27571,21041,Atletico Escobar,El Linqueño,1,0,1,0
+1530381,1780860600,1935,27573,San Martin Formosa,Tucuman Central,3,2,0,1
+1530383,1780860600,23255,3982,Sarmiento de La Banda,Sol de América,2,0,2,0
+1530393,1781312400,1961,23255,Juventud Antoniana,Sarmiento de La Banda,0,1,0,0
+1530384,1781373600,27571,21040,Atletico Escobar,9 de Julio Rafaela,2,0,2,0
+1530399,1781379000,1950,25758,Sportivo Las Parejas,Gimnasia Chivilcoy,0,0,0,0
+1530390,1781447400,27574,18764,Fundacion Amigos,Argentino Monte Maíz,2,2,1,1
+1530394,1781458200,3975,1962,Kimberley Mar del Plata,Alvarado,2,2,1,1
+1530400,1781460000,1938,3972,Villa Mitre,Germinal de Rawson,0,0,0,0
+1530397,1781460000,1941,443,Sol de Mayo,Olimpo Bahia Blanca,1,1,0,1
+1530388,1781460000,1959,3947,Deportivo Rincon,Juventud Unida Univ.,2,1,0,0
+1530392,1781460000,1960,3945,Independiente De Chivilcoy,Gimnasia Concepción,0,0,0,0
+1530386,1781460000,8399,475,Circulo Deportivo,Santamarina,0,0,0,0
+1530389,1781460000,21041,789,El Linqueño,Douglas Haig,2,0,1,0
+1530385,1781461800,467,1935,Boca Unidos,San Martin Formosa,3,1,1,0
+1530391,1781461800,2428,21043,Huracan Las Heras,Atenas,1,0,1,0
+1530396,1781462700,3982,25756,Sol de América,Bartolomé Mitre,0,0,0,0
+1530395,1781463600,1953,27572,Sarmiento Resistencia,Defensores de Vilelas,2,0,0,0
+1530387,1781467200,25757,1949,Costa Brava,Cipolletti,1,0,0,0
+1530398,1781557200,1966,2426,Sportivo Belgrano,Defensores de Belgrano VR,1,0,0,0
+1530413,1781978400,443,3975,Olimpo Bahia Blanca,Kimberley Mar del Plata,0,0,0,0
+1530409,1781978400,789,1966,Douglas Haig,Sportivo Belgrano,0,0,0,0
+1530412,1781978400,3947,27574,Juventud Unida Univ.,Fundacion Amigos,0,0,0,0
+1530405,1781978400,25758,27571,Gimnasia Chivilcoy,Atletico Escobar,2,0,1,0
+1530402,1781980200,1962,8399,Alvarado,Circulo Deportivo,1,0,1,0
+1530403,1781981100,25756,1961,Bartolomé Mitre,Juventud Antoniana,0,0,0,0
+1530416,1781989200,475,1938,Santamarina,Villa Mitre,0,2,0,0
+1530415,1781998200,21042,2428,San Martín Mendoza,Huracan Las Heras,3,1,1,0
+1530411,1782064800,472,1941,Guillermo Brown,Sol de Mayo,0,1,0,1
+1530406,1782066600,1949,1959,Cipolletti,Deportivo Rincon,2,1,1,1
+1530407,1782066600,2426,1960,Defensores de Belgrano VR,Independiente De Chivilcoy,2,0,1,0
+1530408,1782066600,27572,3982,Defensores de Vilelas,Sol de América,2,1,0,1
+1530414,1782068400,1935,1953,San Martin Formosa,Sarmiento Resistencia,3,0,2,0
+1530410,1782068400,3945,1950,Gimnasia Concepción,Sportivo Las Parejas,0,1,0,1
+1530417,1782068400,27573,467,Tucuman Central,Boca Unidos,2,0,2,0
+1530404,1782070200,21043,25757,Atenas,Costa Brava,1,1,1,1
+1530401,1782170100,21040,21041,9 de Julio Rafaela,El Linqueño,3,2,2,1
+1530425,1782570600,27574,1949,Fundacion Amigos,Cipolletti,0,0,0,0
+1530423,1782585000,1959,21043,Deportivo Rincon,Atenas,0,1,0,0
+1530419,1782585000,18764,3947,Argentino Monte Maíz,Juventud Unida Univ.,0,0,0,0
+1530433,1782588600,1950,2426,Sportivo Las Parejas,Defensores de Belgrano VR,1,1,1,1
+1530434,1782669600,1938,1962,Villa Mitre,Alvarado,1,0,1,0
+1530427,1782669600,1960,789,Independiente De Chivilcoy,Douglas Haig,0,4,0,2
+1530426,1782669600,3972,475,Germinal de Rawson,Santamarina,1,0,1,0
+1530429,1782669600,3975,472,Kimberley Mar del Plata,Guillermo Brown,3,0,1,0
+1530432,1782669600,3982,1935,Sol de América,San Martin Formosa,1,2,0,1
+1530421,1782669600,8399,443,Circulo Deportivo,Olimpo Bahia Blanca,1,1,0,0
+1530424,1782669600,21041,1966,El Linqueño,Sportivo Belgrano,1,1,0,1
+1530428,1782671400,1961,27572,Juventud Antoniana,Defensores de Vilelas,4,0,3,0
+1530422,1782671400,25757,21042,Costa Brava,San Martín Mendoza,2,1,1,0
+1530420,1782671400,27571,3945,Atletico Escobar,Gimnasia Concepción,2,1,1,0
+1530431,1782673200,1953,27573,Sarmiento Resistencia,Tucuman Central,1,0,0,0
+1530418,1782673200,21040,25758,9 de Julio Rafaela,Gimnasia Chivilcoy,2,1,1,0
+1530430,1782673200,23255,25756,Sarmiento de La Banda,Bartolomé Mitre,1,0,1,0
+1530445,1783189800,2428,25757,Huracan Las Heras,Costa Brava,2,0,0,0
+1530441,1783189800,27572,23255,Defensores de Vilelas,Sarmiento de La Banda,3,0,1,0
+1530435,1783270800,1962,3972,Alvarado,Germinal de Rawson,5,0,4,0
+1530446,1783274400,443,1938,Olimpo Bahia Blanca,Villa Mitre,0,0,0,0
+1530444,1783274400,472,8399,Guillermo Brown,Circulo Deportivo,1,0,1,0
+1530442,1783274400,789,1950,Douglas Haig,Sportivo Las Parejas,0,0,0,0
+1530449,1783274400,1941,3975,Sol de Mayo,Kimberley Mar del Plata,1,2,0,1
+1530443,1783274400,3945,21040,Gimnasia Concepción,9 de Julio Rafaela,3,0,1,0
+1530436,1783274400,21043,27574,Atenas,Fundacion Amigos,1,3,1,3
+1530437,1783276200,467,1953,Boca Unidos,Sarmiento Resistencia,2,0,1,0
+1530439,1783276200,1949,18764,Cipolletti,Argentino Monte Maíz,2,2,2,1
+1530440,1783276200,2426,27571,Defensores de Belgrano VR,Atletico Escobar,1,1,1,0
+1530447,1783278000,1935,1961,San Martin Formosa,Juventud Antoniana,0,0,0,0
+1530450,1783278000,1966,1960,Sportivo Belgrano,Independiente De Chivilcoy,1,1,1,0
+1530448,1783278000,21042,1959,San Martín Mendoza,Deportivo Rincon,1,0,1,0
+1530438,1783278000,25758,21041,Gimnasia Chivilcoy,El Linqueño,1,0,0,0
+1530451,1783278000,27573,3982,Tucuman Central,Sol de América,0,1,0,1
+1530463,1783792800,3947,1949,Juventud Unida Univ.,Cipolletti,0,1,0,0
+1530464,1783794600,475,1962,Santamarina,Alvarado,0,0,0,0
+1530454,1783794600,27571,789,Atletico Escobar,Douglas Haig,2,1,1,0
+1530460,1783866600,27574,21042,Fundacion Amigos,San Martín Mendoza,0,0,0,0
+1530467,1783872000,1950,1966,Sportivo Las Parejas,Sportivo Belgrano,0,0,0,0
+1530468,1783879200,1938,472,Villa Mitre,Guillermo Brown,3,0,1,0
+1530461,1783879200,3972,443,Germinal de Rawson,Olimpo Bahia Blanca,0,1,0,1
+1530466,1783879200,3982,467,Sol de América,Boca Unidos,3,2,0,2
+1530457,1783879200,8399,1941,Circulo Deportivo,Sol de Mayo,3,1,2,0
+1530459,1783879200,21041,1960,El Linqueño,Independiente De Chivilcoy,2,1,1,0
+1530458,1783881000,1959,2428,Deportivo Rincon,Huracan Las Heras,0,1,0,0
+1530462,1783881000,1961,27573,Juventud Antoniana,Tucuman Central,3,1,1,0
+1530455,1783881000,25756,27572,Bartolomé Mitre,Defensores de Vilelas,1,0,0,0
+1530453,1783881900,18764,21043,Argentino Monte Maíz,Atenas,0,0,0,0
+1530465,1783882800,23255,1935,Sarmiento de La Banda,San Martin Formosa,2,0,2,0
+1530456,1783886400,25758,3945,Gimnasia Chivilcoy,Gimnasia Concepción,0,0,0,0
+1530452,1783978200,21040,2426,9 de Julio Rafaela,Defensores de Belgrano VR,1,2,0,1
+1530478,1784916000,3975,8399,Kimberley Mar del Plata,Circulo Deportivo,1,1,0,0
+1530484,1784936100,1966,27571,Sportivo Belgrano,Atletico Escobar,2,2,2,1
+1530472,1785002400,2426,25758,Defensores de Belgrano VR,Gimnasia Chivilcoy,2,2,0,0
+1530471,1785004200,25757,1959,Costa Brava,Deportivo Rincon,0,1,0,0
+1530479,1785088800,443,475,Olimpo Bahia Blanca,Santamarina,2,0,1,0
+1530470,1785088800,467,1961,Boca Unidos,Juventud Antoniana,0,3,0,1
+1530475,1785088800,472,3972,Guillermo Brown,Germinal de Rawson,2,0,1,0
+1530473,1785088800,789,21040,Douglas Haig,9 de Julio Rafaela,2,1,1,0
+1530483,1785088800,1941,1938,Sol de Mayo,Villa Mitre,3,3,1,2
+1530477,1785088800,1960,1950,Independiente De Chivilcoy,Sportivo Las Parejas,1,1,1,0
+1530476,1785088800,2428,27574,Huracan Las Heras,Fundacion Amigos,0,0,0,0
+1530474,1785088800,3945,21041,Gimnasia Concepción,El Linqueño,0,1,0,1
+1530481,1785088800,21042,18764,San Martín Mendoza,Argentino Monte Maíz,1,1,0,1
+1530469,1785088800,21043,3947,Atenas,Juventud Unida Univ.,0,0,0,0
+1530480,1785090600,1935,25756,San Martin Formosa,Bartolomé Mitre,1,0,0,0
+1530482,1785092400,1953,3982,Sarmiento Resistencia,Sol de América,2,1,2,0
+1530485,1785092400,27573,23255,Tucuman Central,Sarmiento de La Banda,1,1,1,0
+1606427,1785609000,27571,467,Atletico Escobar,Boca Unidos,0,3,0,1
+1606357,1785612600,25758,1966,Gimnasia Chivilcoy,Sportivo Belgrano,0,0,0,0
+1606431,1785681000,27574,8399,Fundacion Amigos,Circulo Deportivo,1,0,0,0
+1606361,1785693600,443,1961,Olimpo Bahia Blanca,Juventud Antoniana,0,0,0,0
+1606435,1785693600,1941,475,Sol de Mayo,Santamarina,1,0,0,0
+1606432,1785693600,3972,3947,Germinal de Rawson,Juventud Unida Univ.,2,1,0,0
+1606430,1785693600,21041,1950,El Linqueño,Sportivo Las Parejas,2,0,1,0
+1606358,1785695400,1949,2428,Cipolletti,Huracan Las Heras,1,0,0,0
+1606429,1785695400,1959,472,Deportivo Rincon,Guillermo Brown,2,0,2,0
+1606359,1785695400,2426,25756,Defensores de Belgrano VR,Bartolomé Mitre,1,0,1,0
+1606433,1785695400,3945,27573,Gimnasia Concepción,Tucuman Central,4,0,2,0
+1606356,1785696300,21043,1938,Atenas,Villa Mitre,0,1,0,0
+1606362,1785697200,1935,3982,San Martin Formosa,Sol de América,2,1,1,0
+1606355,1785697200,21040,789,9 de Julio Rafaela,Douglas Haig,0,0,0,0
+1606434,1785699000,21042,25757,San Martín Mendoza,Costa Brava,2,2,2,1
+1606360,1785780000,3975,18764,Kimberley Mar del Plata,Argentino Monte Maíz,1,0,1,0
+1606428,1785781800,27572,1953,Defensores de Vilelas,Sarmiento Resistencia,4,1,1,0
+1606369,1786146300,1966,21040,Sportivo Belgrano,9 de Julio Rafaela,1,1,0,1
+1606367,1786150800,1961,1962,Juventud Antoniana,Alvarado,0,2,0,0
+1606443,1786210200,1950,27572,Sportivo Las Parejas,Defensores de Vilelas,0,0,0,0
+1606440,1786212000,475,21042,Santamarina,San Martín Mendoza,0,1,0,0
+1606365,1786212000,789,1935,Douglas Haig,San Martin Formosa,1,4,0,3
+1606442,1786212000,1941,1959,Sol de Mayo,Deportivo Rincon,2,4,0,1
+1606439,1786212000,3947,27574,Juventud Unida Univ.,Fundacion Amigos,1,0,0,0
+1606437,1786212000,8399,472,Circulo Deportivo,Guillermo Brown,1,0,1,0
+1606363,1786212000,18764,21043,Argentino Monte Maíz,Atenas,1,2,0,1
+1606436,1786213800,467,1960,Boca Unidos,Independiente De Chivilcoy,1,1,0,0
+1606370,1786213800,1938,1949,Villa Mitre,Cipolletti,1,1,1,1
+1606366,1786213800,2428,443,Huracan Las Heras,Olimpo Bahia Blanca,0,1,0,1
+1606364,1786213800,25756,23255,Bartolomé Mitre,Sarmiento de La Banda,1,1,0,0
+1606438,1786213800,25757,3972,Costa Brava,Germinal de Rawson,1,1,0,1
+1606441,1786215600,1953,27571,Sarmiento Resistencia,Atletico Escobar,0,1,0,0
+1606444,1786215600,27573,21041,Tucuman Central,El Linqueño,1,1,1,0
+1606368,1786228200,3982,2426,Sol de América,Defensores de Belgrano VR,1,0,0,0
+1606449,1786545000,27574,25757,Fundacion Amigos,Costa Brava,0,0,0,0
+1606451,1786557600,472,3947,Guillermo Brown,Juventud Unida Univ.,2,1,2,1
+1606447,1786557600,1959,8399,Deportivo Rincon,Circulo Deportivo,0,0,0,0
+1606450,1786557600,3972,475,Germinal de Rawson,Santamarina,5,1,1,1
+1606445,1786557600,27571,1950,Atletico Escobar,Sportivo Las Parejas,0,0,0,0
+1606374,1786559400,1949,18764,Cipolletti,Argentino Monte Maíz,1,0,0,0
+1606452,1786559400,1960,1953,Independiente De Chivilcoy,Sarmiento Resistencia,1,2,1,1
+1606372,1786559400,1962,2428,Alvarado,Huracan Las Heras,1,0,0,0
+1606375,1786559400,2426,789,Defensores de Belgrano VR,Douglas Haig,0,0,0,0
+1606446,1786559400,27572,27573,Defensores de Vilelas,Tucuman Central,4,3,2,1
+1606377,1786561200,1935,1966,San Martin Formosa,Sportivo Belgrano,2,0,1,0
+1606376,1786573800,443,1938,Olimpo Bahia Blanca,Villa Mitre,2,0,0,0
+1606448,1786577400,21041,3945,El Linqueño,Gimnasia Concepción,0,0,0,0
+1606371,1786578300,21040,25758,9 de Julio Rafaela,Gimnasia Chivilcoy,1,0,1,0
+1606373,1786579200,21043,3975,Atenas,Kimberley Mar del Plata,2,1,0,0
+1606453,1786580100,21042,1941,San Martín Mendoza,Sol de Mayo,2,1,2,0
+1606378,1786581000,23255,3982,Sarmiento de La Banda,Sol de América,0,0,0,0
+1606462,1786820400,27573,27571,Tucuman Central,Atletico Escobar,2,3,1,1
+1606454,1786888800,25757,472,Costa Brava,Guillermo Brown,1,0,0,0
+1606381,1786903200,789,23255,Douglas Haig,Sarmiento de La Banda,3,1,0,0
+1606460,1786903200,1941,3972,Sol de Mayo,Germinal de Rawson,1,0,1,0
+1606461,1786903200,1950,1960,Sportivo Las Parejas,Independiente De Chivilcoy,0,0,0,0
+1606456,1786903200,3947,8399,Juventud Unida Univ.,Circulo Deportivo,0,0,0,0
+1606383,1786903200,3975,1949,Kimberley Mar del Plata,Cipolletti,3,1,0,0
+1606379,1786903200,18764,443,Argentino Monte Maíz,Olimpo Bahia Blanca,1,1,0,0
+1606380,1786903200,25758,1935,Gimnasia Chivilcoy,San Martin Formosa,1,1,0,1
+1606386,1786905000,1938,1962,Villa Mitre,Alvarado,0,0,0,0
+1606382,1786905000,2428,1961,Huracan Las Heras,Juventud Antoniana,1,0,0,0
+1606455,1786905000,3945,27572,Gimnasia Concepción,Defensores de Vilelas,2,0,2,0
+1606459,1786906800,1953,467,Sarmiento Resistencia,Boca Unidos,0,3,0,1
+1606457,1786912200,21042,1959,San Martín Mendoza,Deportivo Rincon,1,0,1,0
+1606384,1786917600,3982,25756,Sol de América,Bartolomé Mitre,2,1,2,1
+1606385,1786993200,1966,2426,Sportivo Belgrano,Defensores de Belgrano VR,0,2,0,1
+1606458,1787000400,475,27574,Santamarina,Fundacion Amigos,2,0,0,0
+1606391,1787356800,1961,1938,Juventud Antoniana,Villa Mitre,0,0,0,0
+1606465,1787421600,8399,25757,Circulo Deportivo,Costa Brava,0,1,0,0
+1606468,1787495400,27574,1941,Fundacion Amigos,Sol de Mayo,2,0,1,0
+1606470,1787508000,472,475,Guillermo Brown,Santamarina,1,0,0,0
+1606467,1787508000,1959,3947,Deportivo Rincon,Juventud Unida Univ.,1,0,0,0
+1606469,1787508000,3972,21042,Germinal de Rawson,San Martín Mendoza,0,0,0,0
+1606463,1787508000,27571,3945,Atletico Escobar,Gimnasia Concepción,0,2,0,1
+1606392,1787509800,443,3975,Olimpo Bahia Blanca,Kimberley Mar del Plata,1,0,0,0
+1606389,1787509800,1949,21043,Cipolletti,Atenas,2,2,0,1
+1606471,1787509800,1960,27573,Independiente De Chivilcoy,Tucuman Central,2,0,1,0
+1606387,1787509800,1962,18764,Alvarado,Argentino Monte Maíz,1,1,0,0
+1606390,1787509800,2426,25758,Defensores de Belgrano VR,Gimnasia Chivilcoy,0,1,0,1
+1606466,1787509800,27572,21041,Defensores de Vilelas,El Linqueño,0,0,0,0
+1606464,1787511600,467,1950,Boca Unidos,Sportivo Las Parejas,1,0,1,0
+1606393,1787511600,1935,21040,San Martin Formosa,9 de Julio Rafaela,2,1,2,1
+1606394,1787511600,23255,1966,Sarmiento de La Banda,Sportivo Belgrano,3,0,1,0
+1606388,1787511600,25756,789,Bartolomé Mitre,Douglas Haig,0,3,0,2
+1606480,1788026400,27573,467,Tucuman Central,Boca Unidos,2,2,1,2
+1606476,1788046200,21042,27574,San Martín Mendoza,Fundacion Amigos,0,2,0,2
+1606399,1788112800,789,3982,Douglas Haig,Sol de América,1,2,1,1
+1606478,1788112800,1941,472,Sol de Mayo,Guillermo Brown,0,2,0,1
+1606474,1788112800,3972,1959,Germinal de Rawson,Deportivo Rincon,0,0,0,0
+1606400,1788112800,3975,1962,Kimberley Mar del Plata,Alvarado,0,2,0,0
+1606472,1788112800,25757,3947,Costa Brava,Juventud Unida Univ.,1,2,1,1
+1606402,1788114600,1938,2428,Villa Mitre,Huracan Las Heras,3,0,3,0
+1606475,1788114600,3945,1960,Gimnasia Concepción,Independiente De Chivilcoy,0,0,0,0
+1606473,1788114600,21041,27571,El Linqueño,Atletico Escobar,1,1,0,1
+1606396,1788115500,18764,1961,Argentino Monte Maíz,Juventud Antoniana,1,0,1,0
+1606479,1788116400,1950,1953,Sportivo Las Parejas,Sarmiento Resistencia,3,0,2,0
+1606395,1788116400,21040,2426,9 de Julio Rafaela,Defensores de Belgrano VR,1,0,1,0
+1606398,1788116400,25758,23255,Gimnasia Chivilcoy,Sarmiento de La Banda,1,0,1,0
+1606401,1788116700,1966,25756,Sportivo Belgrano,Bartolomé Mitre,2,0,1,0
+1606397,1788118200,21043,443,Atenas,Olimpo Bahia Blanca,1,0,0,0
+1606477,1788123600,475,8399,Santamarina,Circulo Deportivo,2,1,0,1
+1606407,1788570000,1961,3975,Juventud Antoniana,Kimberley Mar del Plata,0,3,0,2
+1606489,1788634800,1953,27573,Sarmiento Resistencia,Tucuman Central,1,0,0,0
+1606485,1788705000,27574,3972,Fundacion Amigos,Germinal de Rawson,1,1,0,0
+1606486,1788717600,472,21042,Guillermo Brown,San Martín Mendoza,1,1,0,0
+1606484,1788717600,1959,25757,Deportivo Rincon,Costa Brava,1,1,1,1
+1606403,1788717600,1962,21043,Alvarado,Atenas,3,2,0,0
+1606488,1788717600,3947,475,Juventud Unida Univ.,Santamarina,1,0,1,0
+1606483,1788717600,8399,1941,Circulo Deportivo,Sol de Mayo,2,1,1,0
+1606408,1788719400,443,1949,Olimpo Bahia Blanca,Cipolletti,1,1,1,0
+1606406,1788719400,2428,18764,Huracan Las Heras,Argentino Monte Maíz,1,2,0,1
+1606404,1788719400,25756,25758,Bartolomé Mitre,Gimnasia Chivilcoy,0,1,0,0
+1606482,1788721200,467,3945,Boca Unidos,Gimnasia Concepción,1,0,0,0
+1606487,1788721200,1960,21041,Independiente De Chivilcoy,El Linqueño,1,0,1,0
+1606405,1788721200,2426,1935,Defensores de Belgrano VR,San Martin Formosa,1,0,0,0
+1606409,1788721200,23255,21040,Sarmiento de La Banda,9 de Julio Rafaela,1,4,0,3
+1606410,1788732000,3982,1966,Sol de América,Sportivo Belgrano,2,0,1,0
+1606481,1788804000,27571,27572,Atletico Escobar,Defensores de Vilelas,2,1,0,0
+1606414,1789164000,25758,3982,Gimnasia Chivilcoy,Sol de América,2,0,1,0
+1606496,1789308000,475,25757,Santamarina,Costa Brava,1,3,0,0
+1606492,1789309800,27574,1959,Fundacion Amigos,Deportivo Rincon,1,0,1,0
+1606416,1789322400,3975,2428,Kimberley Mar del Plata,Huracan Las Heras,0,0,0,0
+1606498,1789322400,27573,1950,Tucuman Central,Sportivo Las Parejas,0,4,0,1
+1606415,1789324200,1949,1962,Cipolletti,Alvarado,1,0,0,0
+1606494,1789324200,3945,1953,Gimnasia Concepción,Sarmiento Resistencia,1,0,0,0
+1606493,1789324200,3972,472,Germinal de Rawson,Guillermo Brown,1,0,1,0
+1606490,1789324200,27572,1960,Defensores de Vilelas,Independiente De Chivilcoy,2,0,1,0
+1606412,1789325100,18764,1938,Argentino Monte Maíz,Villa Mitre,1,0,0,0
+1606417,1789326000,1935,23255,San Martin Formosa,Sarmiento de La Banda,3,0,3,0
+1606497,1789326000,1941,3947,Sol de Mayo,Juventud Unida Univ.,0,1,0,1
+1606418,1789326000,1966,789,Sportivo Belgrano,Douglas Haig,0,4,0,2
+1606491,1789326000,21041,467,El Linqueño,Boca Unidos,1,0,1,0
+1606495,1789326000,21042,8399,San Martín Mendoza,Circulo Deportivo,2,0,1,0
+1606413,1789327800,21043,1961,Atenas,Juventud Antoniana,3,1,0,1
+1606411,1789329600,21040,25756,9 de Julio Rafaela,Bartolomé Mitre,0,1,0,0
+1606423,1789776000,1961,1949,Juventud Antoniana,Cipolletti,0,2,0,2
+1606499,1789842600,467,27572,Boca Unidos,Defensores de Vilelas,3,3,3,1
+1606507,1789842600,1950,3945,Sportivo Las Parejas,Gimnasia Concepción,1,0,1,0
+1606506,1789842600,1953,21041,Sarmiento Resistencia,El Linqueño,1,3,1,2
+1606504,1789842600,1960,27571,Independiente De Chivilcoy,Atletico Escobar,3,0,1,0
+1606503,1789927200,472,27574,Guillermo Brown,Fundacion Amigos,0,0,0,0
+1606421,1789927200,789,25758,Douglas Haig,Gimnasia Chivilcoy,0,0,0,0
+1606426,1789927200,1938,3975,Villa Mitre,Kimberley Mar del Plata,0,0,0,0
+1606502,1789927200,1959,475,Deportivo Rincon,Santamarina,3,0,1,0
+1606419,1789927200,1962,443,Alvarado,Olimpo Bahia Blanca,1,1,0,0
+1606422,1789927200,2428,21043,Huracan Las Heras,Atenas,1,0,1,0
+1606505,1789927200,3947,21042,Juventud Unida Univ.,San Martín Mendoza,0,0,0,0
+1606425,1789927200,3982,21040,Sol de América,9 de Julio Rafaela,1,1,1,0
+1606500,1789927200,8399,3972,Circulo Deportivo,Germinal de Rawson,2,0,1,0
+1606424,1789927200,23255,2426,Sarmiento de La Banda,Defensores de Belgrano VR,0,2,0,2
+1606420,1789927200,25756,1935,Bartolomé Mitre,San Martin Formosa,0,0,0,0
+1606501,1789927200,25757,1941,Costa Brava,Sol de Mayo,1,0,0,0
+1641890,1790517600,8399,1941,Circulo Deportivo,Sol de Mayo,1,1,1,0
+1641281,1790533800,443,25758,Olimpo Bahia Blanca,Gimnasia Chivilcoy,2,1,0,0
+1641280,1790533800,2426,1962,Defensores de Belgrano VR,Alvarado,2,2,1,2
+1641282,1790546400,3982,1949,Sol de América,Cipolletti,1,0,0,0
+1641279,1790548200,21043,1935,Atenas,San Martin Formosa,0,1,0,0
+1641285,1791122400,1949,3982,Cipolletti,Sol de América,6,1,4,0
+1641283,1791138600,1962,2426,Alvarado,Defensores de Belgrano VR,2,0,0,0
+1641286,1791140400,1935,21043,San Martin Formosa,Atenas,1,1,0,0
+1641284,1791144000,25758,443,Gimnasia Chivilcoy,Olimpo Bahia Blanca,1,2,0,1
+1641293,1791592200,21042,18764,San Martín Mendoza,Argentino Monte Maíz,0,2,0,1
+1641292,1791594000,1961,2428,Juventud Antoniana,Huracan Las Heras,3,0,1,0
+1641289,1791658800,1959,3975,Deportivo Rincon,Kimberley Mar del Plata,0,1,0,0
+1644448,1791658800,27572,25758,Defensores de Vilelas,Gimnasia Chivilcoy,1,1,0,0
+1644449,1791727200,27574,21043,Fundacion Amigos,Atenas,2,0,1,0
+1641288,1791741600,25757,1938,Costa Brava,Villa Mitre,1,1,1,0
+1644456,1791743400,1949,1962,Cipolletti,Alvarado,1,0,0,0
+1644450,1791743400,3947,3982,Juventud Unida Univ.,Sol de América,0,0,0,0
+1641290,1791743400,21041,789,El Linqueño,Douglas Haig,0,0,0,0
+1644457,1791745200,443,1935,Olimpo Bahia Blanca,San Martin Formosa,1,1,0,1
+1641287,1791745200,467,25756,Boca Unidos,Bartolomé Mitre,1,0,0,0
+1644451,1791745200,1950,2426,Sportivo Las Parejas,Defensores de Belgrano VR,1,1,1,1
+1641291,1791745200,3945,21040,Gimnasia Concepción,9 de Julio Rafaela,4,1,2,0
+1641294,1791750600,1966,23255,Sportivo Belgrano,Sarmiento de La Banda,1,1,1,0
+1641300,1792260000,3975,1959,Kimberley Mar del Plata,Deportivo Rincon,2,1,1,1
+1641299,1792261800,2428,1961,Huracan Las Heras,Juventud Antoniana,1,0,1,0
+1644454,1792263600,2426,1950,Defensores de Belgrano VR,Sportivo Las Parejas,0,1,0,0
+1644453,1792270800,25758,27572,Gimnasia Chivilcoy,Defensores de Vilelas,3,3,0,2
+1644455,1792274400,3982,3947,Sol de América,Juventud Unida Univ.,2,2,1,1
+1644452,1792276200,21043,27574,Atenas,Fundacion Amigos,3,1,1,0
+1641297,1792278000,25756,467,Bartolomé Mitre,Boca Unidos,0,1,0,0
+1644459,1792348200,1935,443,San Martin Formosa,Olimpo Bahia Blanca,2,0,2,0
+1644458,1792348200,1962,1949,Alvarado,Cipolletti,0,0,0,0
+1641298,1792350000,789,21041,Douglas Haig,El Linqueño,1,0,0,0
+1641302,1792350000,1938,25757,Villa Mitre,Costa Brava,2,0,0,0
+1641295,1792350000,21040,3945,9 de Julio Rafaela,Gimnasia Concepción,1,0,0,0
+1641296,1792350900,18764,21042,Argentino Monte Maíz,San Martín Mendoza,2,1,1,1
+1641301,1792359000,23255,1966,Sarmiento de La Banda,Sportivo Belgrano,0,0,0,0
+1646745,1792803600,1961,3982,Juventud Antoniana,Sol de América,3,0,2,0
+1646742,1792867500,18764,3975,Argentino Monte Maíz,Kimberley Mar del Plata,0,0,0,0
+1646741,1792951200,1949,1935,Cipolletti,San Martin Formosa,0,2,0,1
+1646747,1792951200,1950,1962,Sportivo Las Parejas,Alvarado,0,1,0,1
+1646743,1792954800,467,25758,Boca Unidos,Gimnasia Chivilcoy,0,0,0,0
+1646748,1792954800,1938,789,Villa Mitre,Douglas Haig,1,0,0,0
+1646744,1792954800,3945,443,Gimnasia Concepción,Olimpo Bahia Blanca,0,0,0,0
+1646746,1792954800,23255,21043,Sarmiento de La Banda,Atenas,3,0,1,0
+1646753,1793469600,3975,18764,Kimberley Mar del Plata,Argentino Monte Maíz,1,1,1,0
+1646752,1793473200,789,1938,Douglas Haig,Villa Mitre,3,0,1,0
+1646751,1793473200,25758,467,Gimnasia Chivilcoy,Boca Unidos,3,0,0,0
+1646754,1793484000,443,3945,Olimpo Bahia Blanca,Gimnasia Concepción,1,0,0,0
+1646755,1793484000,3982,1961,Sol de América,Juventud Antoniana,2,0,1,0
+1646749,1793543400,1962,1950,Alvarado,Sportivo Las Parejas,1,2,0,1
+1646750,1793571300,21043,23255,Atenas,Sarmiento de La Banda,4,2,1,0
+1648323,1794078000,789,25758,Douglas Haig,Gimnasia Chivilcoy,1,0,1,0

@@ -1,0 +1,309 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1381524,1752854400,337,17115,Slask Wroclaw,Wieczysta Kraków,1,1,1,0
+1381521,1752863400,3498,6964,ŁKS Łódź,Znicz Pruszków,1,0,1,0
+1381519,1752928200,14750,6957,Pogoń Grod. Mazowiecki,Stal Rzeszów,2,1,2,0
+1381520,1752939000,6941,12835,Górnik Łęczna,Polonia Bytom,0,3,0,1
+1381526,1752946200,3495,335,Tychy 71,Miedz Legnica,4,3,0,0
+1381525,1753014600,3493,338,Stal Mielec,Wisla Krakow,0,4,0,2
+1381518,1753023600,3483,3488,Chrobry Głogów,Odra Opole,3,0,1,0
+1381522,1753023600,6947,16239,Pogoń Siedlce,Polonia Warszawa,1,1,1,0
+1381523,1753117200,3490,6953,Puszcza Niepołomice,Ruch Chorzów,1,1,0,0
+1381531,1753459200,6964,3493,Znicz Pruszków,Stal Mielec,4,5,1,2
+1381534,1753468200,6957,337,Stal Rzeszów,Slask Wroclaw,2,1,1,1
+1381535,1753534800,338,3498,Wisla Krakow,ŁKS Łódź,5,0,4,0
+1381532,1753543800,3490,14750,Puszcza Niepołomice,Pogoń Grod. Mazowiecki,1,1,1,1
+1381527,1753551000,3483,12835,Chrobry Głogów,Polonia Bytom,0,1,0,1
+1381528,1753610400,17115,6947,Wieczysta Kraków,Pogoń Siedlce,2,1,2,1
+1381533,1753619400,6953,6941,Ruch Chorzów,Górnik Łęczna,2,1,1,0
+1381530,1753628400,16239,3495,Polonia Warszawa,Tychy 71,1,2,1,1
+1381529,1753722000,3488,335,Odra Opole,Miedz Legnica,2,1,2,1
+1381537,1754064000,17115,6964,Wieczysta Kraków,Znicz Pruszków,4,0,1,0
+1381539,1754073000,3498,12835,ŁKS Łódź,Polonia Bytom,5,0,1,0
+1381536,1754137800,14750,335,Pogoń Grod. Mazowiecki,Miedz Legnica,4,0,2,0
+1381542,1754148600,6957,3483,Stal Rzeszów,Chrobry Głogów,2,2,0,1
+1381543,1754155800,3493,16239,Stal Mielec,Polonia Warszawa,1,3,0,2
+1381541,1754224200,337,6953,Slask Wroclaw,Ruch Chorzów,3,1,3,1
+1381540,1754233200,6947,3488,Pogoń Siedlce,Odra Opole,0,1,0,0
+1381538,1754242200,6941,3490,Górnik Łęczna,Puszcza Niepołomice,2,2,2,1
+1381544,1754326800,3495,338,Tychy 71,Wisla Krakow,3,4,1,1
+1381550,1754668800,6953,6947,Ruch Chorzów,Pogoń Siedlce,0,2,0,2
+1381551,1754677800,337,335,Slask Wroclaw,Miedz Legnica,3,1,1,1
+1381545,1754742600,3483,3498,Chrobry Głogów,ŁKS Łódź,2,1,0,0
+1381552,1754753400,3493,6941,Stal Mielec,Górnik Łęczna,1,1,0,1
+1381547,1754760600,12835,6957,Polonia Bytom,Stal Rzeszów,0,1,0,1
+1381553,1754829000,338,14750,Wisla Krakow,Pogoń Grod. Mazowiecki,3,2,3,1
+1381546,1754838000,3488,3495,Odra Opole,Tychy 71,0,0,0,0
+1381548,1754847000,6964,16239,Znicz Pruszków,Polonia Warszawa,1,4,0,1
+1381549,1754931600,3490,17115,Puszcza Niepołomice,Wieczysta Kraków,0,1,0,0
+1381557,1755273600,3498,3493,ŁKS Łódź,Stal Mielec,2,0,1,0
+1381560,1755282600,16239,6953,Polonia Warszawa,Ruch Chorzów,0,0,0,0
+1381556,1755365400,3483,335,Chrobry Głogów,Miedz Legnica,2,2,1,0
+1381561,1755365400,6957,3490,Stal Rzeszów,Puszcza Niepołomice,2,2,1,2
+1381554,1755365400,14750,6964,Pogoń Grod. Mazowiecki,Znicz Pruszków,4,1,3,1
+1381558,1755433800,3488,337,Odra Opole,Slask Wroclaw,1,1,0,0
+1381562,1755442800,3495,6941,Tychy 71,Górnik Łęczna,2,2,2,1
+1381559,1755451800,6947,12835,Pogoń Siedlce,Polonia Bytom,2,0,0,0
+1381565,1755612000,335,3498,Miedz Legnica,ŁKS Łódź,2,1,2,0
+1381567,1755619200,16239,17115,Polonia Warszawa,Wieczysta Kraków,1,6,0,2
+1381568,1755628200,6964,338,Znicz Pruszków,Wisla Krakow,0,7,0,3
+1381563,1755705600,3483,337,Chrobry Głogów,Slask Wroclaw,1,2,0,2
+1381566,1755705600,12835,14750,Polonia Bytom,Pogoń Grod. Mazowiecki,3,0,1,0
+1381570,1755714600,6953,6957,Ruch Chorzów,Stal Rzeszów,4,0,2,0
+1381569,1755797400,3490,3495,Puszcza Niepołomice,Tychy 71,1,2,1,0
+1381571,1755797400,3493,3488,Stal Mielec,Odra Opole,2,1,0,0
+1381564,1755797400,6941,6947,Górnik Łęczna,Pogoń Siedlce,1,1,0,1
+1381574,1755970200,3498,16239,ŁKS Łódź,Polonia Warszawa,2,2,0,2
+1381578,1755970200,6957,335,Stal Rzeszów,Miedz Legnica,1,2,0,0
+1381572,1755970200,14750,3483,Pogoń Grod. Mazowiecki,Chrobry Głogów,1,1,0,0
+1381575,1756029600,3488,6964,Odra Opole,Znicz Pruszków,0,2,0,1
+1381580,1756038600,338,337,Wisla Krakow,Slask Wroclaw,5,0,2,0
+1381577,1756049400,6953,12835,Ruch Chorzów,Polonia Bytom,1,1,0,0
+1381576,1756056600,6947,3490,Pogoń Siedlce,Puszcza Niepołomice,0,0,0,0
+1421941,1756135800,17115,6941,Wieczysta Kraków,Górnik Łęczna,2,2,1,0
+1421942,1756141200,3495,3493,Tychy 71,Stal Mielec,0,1,0,1
+1381588,1756483200,337,3495,Slask Wroclaw,Tychy 71,2,1,0,0
+1381582,1756492200,335,338,Miedz Legnica,Wisla Krakow,2,0,1,0
+1381584,1756557900,12835,17115,Polonia Bytom,Wieczysta Kraków,4,2,3,1
+1381581,1756575000,6941,6957,Górnik Łęczna,Stal Rzeszów,0,4,0,2
+1381586,1756575000,6964,6947,Znicz Pruszków,Pogoń Siedlce,0,1,0,0
+1381585,1756575000,16239,14750,Polonia Warszawa,Pogoń Grod. Mazowiecki,2,1,2,1
+1381589,1756643400,3493,6953,Stal Mielec,Ruch Chorzów,2,2,1,0
+1381583,1756654200,3488,3498,Odra Opole,ŁKS Łódź,1,1,0,0
+1381587,1756661400,3490,3483,Puszcza Niepołomice,Chrobry Głogów,0,0,0,0
+1381597,1757692800,3495,12835,Tychy 71,Polonia Bytom,1,2,1,1
+1381590,1757701800,3483,6947,Chrobry Głogów,Pogoń Siedlce,2,1,0,0
+1381595,1757784600,337,3490,Slask Wroclaw,Puszcza Niepołomice,2,0,0,0
+1381598,1757784600,338,3488,Wisla Krakow,Odra Opole,2,2,1,1
+1381596,1757784600,6957,6964,Stal Rzeszów,Znicz Pruszków,1,0,1,0
+1381593,1757844000,335,16239,Miedz Legnica,Polonia Warszawa,1,1,0,1
+1381594,1757856600,6953,3498,Ruch Chorzów,ŁKS Łódź,2,1,2,0
+1381591,1757863800,14750,6941,Pogoń Grod. Mazowiecki,Górnik Łęczna,3,3,1,2
+1381592,1757955600,17115,3493,Wieczysta Kraków,Stal Mielec,2,0,2,0
+1381601,1758297600,3488,6957,Odra Opole,Stal Rzeszów,2,1,2,1
+1381607,1758306600,3493,14750,Stal Mielec,Pogoń Grod. Mazowiecki,1,2,1,1
+1381602,1758389400,6947,337,Pogoń Siedlce,Slask Wroclaw,2,3,2,1
+1381603,1758389400,12835,335,Polonia Bytom,Miedz Legnica,4,0,3,0
+1381604,1758389400,16239,3490,Polonia Warszawa,Puszcza Niepołomice,1,2,0,2
+1381599,1758457800,6941,338,Górnik Łęczna,Wisla Krakow,1,2,1,0
+1381605,1758468600,6964,3495,Znicz Pruszków,Tychy 71,4,0,2,0
+1381600,1758478500,3498,17115,ŁKS Łódź,Wieczysta Kraków,0,0,0,0
+1381606,1758555900,6953,3483,Ruch Chorzów,Chrobry Głogów,2,1,1,1
+1381613,1758911400,337,16239,Slask Wroclaw,Polonia Warszawa,1,1,1,0
+1381612,1758994200,3490,3488,Puszcza Niepołomice,Odra Opole,1,1,0,0
+1381615,1758994200,3495,6947,Tychy 71,Pogoń Siedlce,1,3,0,1
+1381614,1758994200,6957,3493,Stal Rzeszów,Stal Mielec,3,2,1,0
+1381611,1759053600,335,6964,Miedz Legnica,Znicz Pruszków,2,1,1,1
+1381610,1759062600,17115,6953,Wieczysta Kraków,Ruch Chorzów,4,2,1,1
+1381608,1759073400,3483,6941,Chrobry Głogów,Górnik Łęczna,2,0,0,0
+1381609,1759158000,14750,3498,Pogoń Grod. Mazowiecki,ŁKS Łódź,3,0,2,0
+1381616,1759165200,338,12835,Wisla Krakow,Polonia Bytom,1,0,0,0
+1381555,1759425300,17115,338,Wieczysta Kraków,Wisla Krakow,1,1,1,0
+1381624,1759507200,3493,3483,Stal Mielec,Chrobry Głogów,1,2,0,0
+1381622,1759516200,16239,6957,Polonia Warszawa,Stal Rzeszów,2,3,0,2
+1381620,1759599000,6947,14750,Pogoń Siedlce,Pogoń Grod. Mazowiecki,1,2,1,2
+1381623,1759599000,6964,337,Znicz Pruszków,Slask Wroclaw,2,1,2,0
+1381621,1759599000,12835,3490,Polonia Bytom,Puszcza Niepołomice,1,1,1,1
+1381619,1759658400,3488,17115,Odra Opole,Wieczysta Kraków,2,0,0,0
+1381618,1759667400,3498,3495,ŁKS Łódź,Tychy 71,3,1,1,0
+1381617,1759678200,6941,335,Górnik Łęczna,Miedz Legnica,2,0,0,0
+1381625,1759689000,338,6953,Wisla Krakow,Ruch Chorzów,3,0,1,0
+1381627,1760716800,14750,6953,Pogoń Grod. Mazowiecki,Ruch Chorzów,2,2,1,1
+1381629,1760725800,335,6947,Miedz Legnica,Pogoń Siedlce,2,2,1,2
+1381626,1760808600,3483,16239,Chrobry Głogów,Polonia Warszawa,2,0,0,0
+1381634,1760808600,3495,17115,Tychy 71,Wieczysta Kraków,3,3,1,2
+1381633,1760808600,6957,3498,Stal Rzeszów,ŁKS Łódź,1,4,0,3
+1381630,1760868000,12835,3488,Polonia Bytom,Odra Opole,0,0,0,0
+1381632,1760877000,337,3493,Slask Wroclaw,Stal Mielec,2,1,2,0
+1381628,1760887800,6941,6964,Górnik Łęczna,Znicz Pruszków,1,1,0,0
+1381631,1760979600,3490,338,Puszcza Niepołomice,Wisla Krakow,0,3,0,3
+1381639,1761321600,6964,3490,Znicz Pruszków,Puszcza Niepołomice,0,3,0,1
+1381636,1761330600,3488,6953,Odra Opole,Ruch Chorzów,1,1,0,1
+1381640,1761413400,337,6941,Slask Wroclaw,Górnik Łęczna,3,1,1,0
+1381637,1761413400,6947,3498,Pogoń Siedlce,ŁKS Łódź,3,1,1,1
+1381638,1761413400,16239,12835,Polonia Warszawa,Polonia Bytom,2,1,0,0
+1381642,1761476400,3495,3483,Tychy 71,Chrobry Głogów,0,1,0,1
+1381643,1761485400,338,6957,Wisla Krakow,Stal Rzeszów,2,1,1,0
+1381641,1761494400,3493,335,Stal Mielec,Miedz Legnica,1,2,1,0
+1381635,1761588000,17115,14750,Wieczysta Kraków,Pogoń Grod. Mazowiecki,2,3,2,1
+1381652,1761930000,6941,16239,Górnik Łęczna,Polonia Warszawa,1,2,1,2
+1381650,1761939000,6953,3495,Ruch Chorzów,Tychy 71,2,1,2,0
+1381651,1762081200,6957,6947,Stal Rzeszów,Pogoń Siedlce,1,1,0,0
+1381644,1762090200,3483,338,Chrobry Głogów,Wisla Krakow,0,1,0,1
+1381648,1762099200,12835,6964,Polonia Bytom,Znicz Pruszków,2,0,1,0
+1381646,1762110900,335,17115,Miedz Legnica,Wieczysta Kraków,3,2,1,0
+1381647,1762191900,3498,337,ŁKS Łódź,Slask Wroclaw,2,1,0,0
+1381645,1762191900,14750,3488,Pogoń Grod. Mazowiecki,Odra Opole,2,1,1,1
+1381649,1762358400,3490,3493,Puszcza Niepołomice,Stal Mielec,1,1,1,0
+1381654,1762531200,6953,335,Ruch Chorzów,Miedz Legnica,3,1,2,1
+1381657,1762543800,6964,3483,Znicz Pruszków,Chrobry Głogów,0,2,0,0
+1381661,1762608600,338,16239,Wisla Krakow,Polonia Warszawa,1,2,1,1
+1381659,1762626600,3493,6947,Stal Mielec,Pogoń Siedlce,0,0,0,0
+1381655,1762626600,3498,3490,ŁKS Łódź,Puszcza Niepołomice,0,3,0,1
+1381653,1762626600,17115,6957,Wieczysta Kraków,Stal Rzeszów,1,2,0,0
+1381656,1762686000,3488,6941,Odra Opole,Górnik Łęczna,3,1,1,1
+1381658,1762695000,337,12835,Slask Wroclaw,Polonia Bytom,2,3,0,2
+1381660,1762704000,3495,14750,Tychy 71,Pogoń Grod. Mazowiecki,1,2,1,2
+1381668,1763744400,3490,335,Puszcza Niepołomice,Miedz Legnica,1,3,0,1
+1381663,1763753400,14750,337,Pogoń Grod. Mazowiecki,Slask Wroclaw,2,2,1,2
+1381662,1763836200,3483,17115,Chrobry Głogów,Wieczysta Kraków,1,2,1,2
+1381670,1763836200,6957,3495,Stal Rzeszów,Tychy 71,2,1,1,1
+1381666,1763836200,12835,3493,Polonia Bytom,Stal Mielec,4,1,2,1
+1381669,1763895600,6953,6964,Ruch Chorzów,Znicz Pruszków,1,2,0,1
+1381665,1763904600,6947,338,Pogoń Siedlce,Wisla Krakow,0,0,0,0
+1381664,1763913600,6941,3498,Górnik Łęczna,ŁKS Łódź,1,2,0,1
+1381667,1763922600,16239,3488,Polonia Warszawa,Odra Opole,1,0,0,0
+1381674,1764349200,12835,6941,Polonia Bytom,Górnik Łęczna,2,2,0,1
+1381672,1764358200,335,3495,Miedz Legnica,Tychy 71,6,1,4,1
+1381673,1764441000,3488,3483,Odra Opole,Chrobry Głogów,0,2,0,0
+1381677,1764441000,6953,3490,Ruch Chorzów,Puszcza Niepołomice,2,0,2,0
+1381675,1764441000,16239,6947,Polonia Warszawa,Pogoń Siedlce,2,0,1,0
+1381676,1764500400,6964,3498,Znicz Pruszków,ŁKS Łódź,1,1,1,1
+1381671,1764509400,17115,337,Wieczysta Kraków,Slask Wroclaw,3,3,2,2
+1381679,1764530100,338,3493,Wisla Krakow,Stal Mielec,3,0,3,0
+1381678,1764604800,6957,14750,Stal Rzeszów,Pogoń Grod. Mazowiecki,1,0,1,0
+1381688,1764954000,3495,16239,Tychy 71,Polonia Warszawa,1,1,0,1
+1381682,1765035000,335,3488,Miedz Legnica,Odra Opole,2,1,1,0
+1381684,1765035000,6947,17115,Pogoń Siedlce,Wieczysta Kraków,0,2,0,0
+1381680,1765035000,14750,3490,Pogoń Grod. Mazowiecki,Puszcza Niepołomice,1,1,0,0
+1381687,1765105200,3493,6964,Stal Mielec,Znicz Pruszków,1,2,0,1
+1381683,1765114200,3498,338,ŁKS Łódź,Wisla Krakow,1,1,1,0
+1381685,1765125000,12835,3483,Polonia Bytom,Chrobry Głogów,2,0,2,0
+1381681,1765134900,6941,6953,Górnik Łęczna,Ruch Chorzów,0,1,0,1
+1381686,1765216800,337,6957,Slask Wroclaw,Stal Rzeszów,1,1,1,1
+1381691,1770397200,3488,6947,Odra Opole,Pogoń Siedlce,1,0,1,0
+1381697,1770406200,338,3495,Wisla Krakow,Tychy 71,3,1,2,1
+1381690,1770489000,335,14750,Miedz Legnica,Pogoń Grod. Mazowiecki,1,1,1,1
+1381694,1770489000,6964,17115,Znicz Pruszków,Wieczysta Kraków,2,3,1,3
+1381692,1770489000,12835,3498,Polonia Bytom,ŁKS Łódź,2,3,1,0
+1381693,1770548400,16239,3493,Polonia Warszawa,Stal Mielec,5,2,1,0
+1381696,1770557400,6953,337,Ruch Chorzów,Slask Wroclaw,2,2,1,1
+1381695,1770568200,3490,6941,Puszcza Niepołomice,Górnik Łęczna,2,1,1,0
+1381689,1770661800,3483,6957,Chrobry Głogów,Stal Rzeszów,1,1,1,1
+1381700,1771002000,6941,3493,Górnik Łęczna,Stal Mielec,1,1,0,1
+1381703,1771012800,6947,6953,Pogoń Siedlce,Ruch Chorzów,2,1,0,1
+1381701,1771093800,335,337,Miedz Legnica,Slask Wroclaw,3,1,2,1
+1381702,1771093800,3498,3483,ŁKS Łódź,Chrobry Głogów,1,3,0,2
+1381704,1771093800,16239,6964,Polonia Warszawa,Znicz Pruszków,0,0,0,0
+1381705,1771153200,6957,12835,Stal Rzeszów,Polonia Bytom,3,1,2,0
+1381698,1771162200,14750,338,Pogoń Grod. Mazowiecki,Wisla Krakow,1,1,0,0
+1381699,1771173000,17115,3490,Wieczysta Kraków,Puszcza Niepołomice,3,1,2,1
+1381706,1771264800,3495,3488,Tychy 71,Odra Opole,1,1,0,0
+1381708,1771606800,6941,3495,Górnik Łęczna,Tychy 71,1,0,1,0
+1381715,1771615800,338,17115,Wisla Krakow,Wieczysta Kraków,1,1,1,0
+1381707,1771698600,335,3483,Miedz Legnica,Chrobry Głogów,0,1,0,1
+1381712,1771698600,6953,16239,Ruch Chorzów,Polonia Warszawa,2,3,0,2
+1381710,1771698600,6964,14750,Znicz Pruszków,Pogoń Grod. Mazowiecki,0,0,0,0
+1381711,1771758000,3490,6957,Puszcza Niepołomice,Stal Rzeszów,4,1,0,0
+1381713,1771767000,337,3488,Slask Wroclaw,Odra Opole,3,0,0,0
+1381709,1771777800,12835,6947,Polonia Bytom,Pogoń Siedlce,1,1,1,0
+1381714,1771866000,3493,3498,Stal Mielec,ŁKS Łódź,1,2,1,0
+1477602,1772211600,6947,6941,Pogoń Siedlce,Górnik Łęczna,1,1,0,0
+1477604,1772222400,6957,6953,Stal Rzeszów,Ruch Chorzów,0,1,0,0
+1477603,1772303400,337,3483,Slask Wroclaw,Chrobry Głogów,2,1,2,0
+1477600,1772303400,3498,335,ŁKS Łódź,Miedz Legnica,0,0,0,0
+1477598,1772303400,14750,12835,Pogoń Grod. Mazowiecki,Polonia Bytom,2,1,0,1
+1477605,1772362800,3495,3490,Tychy 71,Puszcza Niepołomice,1,2,1,1
+1477606,1772371800,338,6964,Wisla Krakow,Znicz Pruszków,1,1,0,0
+1477601,1772380800,3488,3493,Odra Opole,Stal Mielec,0,2,0,0
+1477599,1772470800,17115,16239,Wieczysta Kraków,Polonia Warszawa,1,2,0,0
+1381731,1772816400,3490,6947,Puszcza Niepołomice,Pogoń Siedlce,3,0,1,0
+1381733,1772825400,3493,3495,Stal Mielec,Tychy 71,4,0,3,0
+1381727,1772908200,335,6957,Miedz Legnica,Stal Rzeszów,2,1,0,0
+1381725,1772908200,3483,14750,Chrobry Głogów,Pogoń Grod. Mazowiecki,3,0,2,0
+1381726,1772908200,6941,17115,Górnik Łęczna,Wieczysta Kraków,0,3,0,1
+1381730,1772967600,6964,3488,Znicz Pruszków,Odra Opole,2,3,2,0
+1381728,1772976600,12835,6953,Polonia Bytom,Ruch Chorzów,0,1,0,0
+1381729,1773075600,16239,3498,Polonia Warszawa,ŁKS Łódź,0,1,0,1
+1381734,1773421200,3483,3490,Chrobry Głogów,Puszcza Niepołomice,1,2,0,1
+1381742,1773430200,338,335,Wisla Krakow,Miedz Legnica,3,2,1,0
+1381739,1773513000,6953,3493,Ruch Chorzów,Stal Mielec,2,1,1,1
+1381740,1773513000,6957,6941,Stal Rzeszów,Górnik Łęczna,1,1,0,0
+1381735,1773513000,14750,16239,Pogoń Grod. Mazowiecki,Polonia Warszawa,3,2,2,0
+1381738,1773572400,6947,6964,Pogoń Siedlce,Znicz Pruszków,1,0,0,0
+1381741,1773581400,3495,337,Tychy 71,Slask Wroclaw,2,4,0,3
+1381737,1773590400,3498,3488,ŁKS Łódź,Odra Opole,1,1,0,1
+1381749,1774026000,6964,6957,Znicz Pruszków,Stal Rzeszów,2,3,1,3
+1381743,1774035000,6941,14750,Górnik Łęczna,Pogoń Grod. Mazowiecki,3,0,0,0
+1381745,1774098000,3488,338,Odra Opole,Wisla Krakow,1,1,1,1
+1381744,1774099800,3498,6953,ŁKS Łódź,Ruch Chorzów,2,2,1,2
+1381750,1774117800,3490,337,Puszcza Niepołomice,Slask Wroclaw,1,1,0,1
+1381747,1774117800,12835,3495,Polonia Bytom,Tychy 71,1,1,1,0
+1381748,1774117800,16239,335,Polonia Warszawa,Miedz Legnica,1,1,0,0
+1381751,1774186200,3493,17115,Stal Mielec,Wieczysta Kraków,3,1,2,1
+1381746,1774195200,6947,3483,Pogoń Siedlce,Chrobry Głogów,1,2,0,1
+1381757,1775323800,337,6947,Slask Wroclaw,Pogoń Siedlce,1,0,1,0
+1381759,1775323800,3495,6964,Tychy 71,Znicz Pruszków,0,1,0,1
+1381754,1775323800,17115,3498,Wieczysta Kraków,ŁKS Łódź,0,2,0,1
+1381760,1775467800,338,6941,Wisla Krakow,Górnik Łęczna,3,2,3,2
+1381758,1775469600,6957,3488,Stal Rzeszów,Odra Opole,0,1,0,0
+1381756,1775478600,3490,16239,Puszcza Niepołomice,Polonia Warszawa,2,1,0,1
+1381752,1775487600,3483,6953,Chrobry Głogów,Ruch Chorzów,1,1,1,0
+1381753,1775496600,14750,3493,Pogoń Grod. Mazowiecki,Stal Mielec,1,2,0,0
+1381755,1775577600,335,12835,Miedz Legnica,Polonia Bytom,1,1,1,0
+1381766,1775836800,16239,337,Polonia Warszawa,Slask Wroclaw,0,4,0,1
+1381763,1775845800,3488,3490,Odra Opole,Puszcza Niepołomice,1,0,0,0
+1381769,1775928600,3493,6957,Stal Mielec,Stal Rzeszów,3,1,2,1
+1381761,1775928600,6941,3483,Górnik Łęczna,Chrobry Głogów,1,0,0,0
+1381768,1775928600,6953,17115,Ruch Chorzów,Wieczysta Kraków,0,2,0,0
+1381764,1775988000,6947,3495,Pogoń Siedlce,Tychy 71,0,1,0,0
+1381765,1775997000,12835,338,Polonia Bytom,Wisla Krakow,1,1,0,0
+1381767,1776006000,6964,335,Znicz Pruszków,Miedz Legnica,1,2,0,1
+1381770,1776441600,3483,3493,Chrobry Głogów,Stal Mielec,2,1,2,1
+1381777,1776450600,6957,16239,Stal Rzeszów,Polonia Warszawa,0,2,0,0
+1381776,1776510000,337,6964,Slask Wroclaw,Znicz Pruszków,2,2,1,2
+1381774,1776533400,3490,12835,Puszcza Niepołomice,Polonia Bytom,2,1,2,1
+1381778,1776533400,3495,3498,Tychy 71,ŁKS Łódź,3,2,1,0
+1381772,1776533400,17115,3488,Wieczysta Kraków,Odra Opole,0,0,0,0
+1381775,1776601800,6953,338,Ruch Chorzów,Wisla Krakow,1,1,1,0
+1381771,1776610800,14750,6947,Pogoń Grod. Mazowiecki,Pogoń Siedlce,0,2,0,1
+1381773,1776700800,335,6941,Miedz Legnica,Górnik Łęczna,0,2,0,1
+1381736,1776967200,17115,12835,Wieczysta Kraków,Polonia Bytom,4,3,0,2
+1381784,1777046400,6964,6941,Znicz Pruszków,Górnik Łęczna,2,2,2,1
+1381787,1777055400,338,3490,Wisla Krakow,Puszcza Niepołomice,2,2,1,0
+1381780,1777120200,3498,6957,ŁKS Łódź,Stal Rzeszów,2,1,1,1
+1381786,1777138200,3493,337,Stal Mielec,Slask Wroclaw,2,3,2,2
+1381782,1777138200,6947,335,Pogoń Siedlce,Miedz Legnica,2,0,0,0
+1381783,1777138200,16239,3483,Polonia Warszawa,Chrobry Głogów,1,0,0,0
+1381779,1777206600,17115,3495,Wieczysta Kraków,Tychy 71,2,0,1,0
+1381781,1777215600,3488,12835,Odra Opole,Polonia Bytom,0,2,0,0
+1381785,1777305600,6953,14750,Ruch Chorzów,Pogoń Grod. Mazowiecki,2,2,1,1
+1381794,1777651200,3490,6964,Puszcza Niepołomice,Znicz Pruszków,1,0,0,0
+1381790,1777660200,6941,337,Górnik Łęczna,Slask Wroclaw,0,4,0,2
+1381791,1777743000,335,3493,Miedz Legnica,Stal Mielec,1,0,0,0
+1381792,1777743000,3498,6947,ŁKS Łódź,Pogoń Siedlce,4,0,2,0
+1381789,1777743000,14750,17115,Pogoń Grod. Mazowiecki,Wieczysta Kraków,1,4,0,0
+1381795,1777811400,6953,3488,Ruch Chorzów,Odra Opole,2,0,1,0
+1381788,1777820400,3483,3495,Chrobry Głogów,Tychy 71,3,2,1,1
+1381796,1777832100,6957,338,Stal Rzeszów,Wisla Krakow,1,2,1,0
+1381793,1777910400,12835,16239,Polonia Bytom,Polonia Warszawa,3,2,2,1
+1381762,1778169600,3498,14750,ŁKS Łódź,Pogoń Grod. Mazowiecki,3,2,1,1
+1381805,1778266800,338,3483,Wisla Krakow,Chrobry Głogów,2,0,1,0
+1381803,1778347800,3493,3490,Stal Mielec,Puszcza Niepołomice,1,1,1,1
+1381801,1778347800,6964,12835,Znicz Pruszków,Polonia Bytom,1,4,0,1
+1381797,1778347800,17115,335,Wieczysta Kraków,Miedz Legnica,0,1,0,0
+1381800,1778407200,16239,6941,Polonia Warszawa,Górnik Łęczna,2,1,1,0
+1381804,1778416200,3495,6953,Tychy 71,Ruch Chorzów,0,4,0,3
+1381799,1778425200,6947,6957,Pogoń Siedlce,Stal Rzeszów,1,2,0,0
+1381802,1778517000,337,3498,Slask Wroclaw,ŁKS Łódź,2,2,0,1
+1381798,1778517000,3488,14750,Odra Opole,Pogoń Grod. Mazowiecki,3,1,1,0
+1381809,1778860800,6947,3493,Pogoń Siedlce,Stal Mielec,1,3,1,1
+1381811,1778869800,16239,338,Polonia Warszawa,Wisla Krakow,0,1,0,1
+1381806,1778952600,3483,6964,Chrobry Głogów,Znicz Pruszków,3,2,1,1
+1381808,1778952600,6941,3488,Górnik Łęczna,Odra Opole,0,2,0,1
+1381814,1778952600,6957,17115,Stal Rzeszów,Wieczysta Kraków,1,5,1,3
+1381813,1779021000,335,6953,Miedz Legnica,Ruch Chorzów,1,2,0,2
+1381807,1779030000,14750,3495,Pogoń Grod. Mazowiecki,Tychy 71,0,0,0,0
+1381810,1779041700,12835,337,Polonia Bytom,Slask Wroclaw,1,3,1,0
+1381812,1779120000,3490,3498,Puszcza Niepołomice,ŁKS Łódź,1,0,0,0
+1381816,1779633000,335,3490,Miedz Legnica,Puszcza Niepołomice,2,1,1,1
+1381820,1779633000,337,14750,Slask Wroclaw,Pogoń Grod. Mazowiecki,0,0,0,0
+1381823,1779633000,338,6947,Wisla Krakow,Pogoń Siedlce,2,0,1,0
+1381818,1779633000,3488,16239,Odra Opole,Polonia Warszawa,1,2,1,0
+1381821,1779633000,3493,12835,Stal Mielec,Polonia Bytom,4,1,2,0
+1381822,1779633000,3495,6957,Tychy 71,Stal Rzeszów,3,3,1,1
+1381817,1779633000,3498,6941,ŁKS Łódź,Górnik Łęczna,3,1,0,1
+1381819,1779633000,6964,6953,Znicz Pruszków,Ruch Chorzów,3,2,2,1
+1381815,1779633000,17115,3483,Wieczysta Kraków,Chrobry Głogów,1,1,1,1
+1546353,1779982200,3483,3498,Chrobry Głogów,ŁKS Łódź,1,1,0,0
+1546354,1779993000,17115,16239,Wieczysta Kraków,Polonia Warszawa,3,2,2,1
+1547754,1780253100,17115,3483,Wieczysta Kraków,Chrobry Głogów,2,1,1,1

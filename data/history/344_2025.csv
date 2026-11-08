@@ -1,0 +1,243 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1367146,1743188400,17762,3704,Universitario de Vinto,Guabirá,4,2,2,1
+1367147,1743197400,3706,3700,Nacional Potosí,Always Ready,0,1,0,1
+1367148,1743206400,3702,20252,Bolívar,Real Oruro,3,1,1,0
+1367149,1743274800,17743,17760,ABB,San Antonio Bulo Bulo,2,0,1,0
+1367150,1743283800,3705,15702,Jorge Wilstermann,Independiente Petrolero,0,1,0,1
+1367151,1743361200,22266,15708,Gualberto Villarroel SJ,Real Tomayapo,3,1,3,1
+1367152,1743369300,3637,3707,Aurora,Oriente Petrolero,5,1,3,1
+1367153,1743377400,3701,3711,Blooming,The Strongest,3,1,0,1
+1367161,1743724800,3707,17762,Oriente Petrolero,Universitario de Vinto,0,0,0,0
+1367154,1743802200,20252,17743,Real Oruro,ABB,0,1,0,1
+1367155,1743811200,3704,3637,Guabirá,Aurora,5,2,2,1
+1367156,1743879600,17760,3705,San Antonio Bulo Bulo,Jorge Wilstermann,2,0,1,0
+1367157,1743888600,3700,3701,Always Ready,Blooming,2,1,0,0
+1367158,1743897600,15708,3702,Real Tomayapo,Bolívar,2,1,2,0
+1367159,1743966000,15702,22266,Independiente Petrolero,Gualberto Villarroel SJ,0,2,0,0
+1367160,1743974100,3711,3706,The Strongest,Nacional Potosí,2,0,2,0
+1367162,1744398000,17743,15708,ABB,Real Tomayapo,0,0,0,0
+1367163,1744412400,15702,20252,Independiente Petrolero,Real Oruro,0,0,0,0
+1367164,1744484400,17762,3701,Universitario de Vinto,Blooming,1,2,0,1
+1367165,1744493400,3702,3705,Bolívar,Jorge Wilstermann,5,1,2,0
+1367166,1744502400,3637,17760,Aurora,San Antonio Bulo Bulo,2,0,1,0
+1367167,1744570800,22266,3711,Gualberto Villarroel SJ,The Strongest,0,4,0,1
+1367169,1744587000,3707,3700,Oriente Petrolero,Always Ready,1,2,0,1
+1367168,1744666200,3706,3704,Nacional Potosí,Guabirá,3,0,0,0
+1370680,1745002800,17760,3706,San Antonio Bulo Bulo,Nacional Potosí,2,2,0,1
+1370681,1745011800,3711,3637,The Strongest,Aurora,3,2,0,1
+1370682,1745020800,15708,17762,Real Tomayapo,Universitario de Vinto,1,1,1,0
+1370683,1745098200,3700,22266,Always Ready,Gualberto Villarroel SJ,2,0,1,0
+1370684,1745107200,3701,15702,Blooming,Independiente Petrolero,3,1,0,0
+1370685,1745175600,3704,3702,Guabirá,Bolívar,2,4,1,0
+1370686,1745183700,20252,3707,Real Oruro,Oriente Petrolero,1,1,1,0
+1370687,1745191800,3705,17743,Jorge Wilstermann,ABB,0,1,0,0
+1370688,1745618400,3637,20252,Aurora,Real Oruro,2,2,0,2
+1370689,1745627400,3704,15708,Guabirá,Real Tomayapo,1,0,1,0
+1370690,1745694000,22266,17743,Gualberto Villarroel SJ,ABB,1,1,0,0
+1370691,1745703000,3707,17760,Oriente Petrolero,San Antonio Bulo Bulo,1,1,1,0
+1370692,1745712000,15702,3711,Independiente Petrolero,The Strongest,1,1,0,1
+1370693,1745780400,3706,3705,Nacional Potosí,Jorge Wilstermann,1,2,1,0
+1370694,1745788500,17762,3700,Universitario de Vinto,Always Ready,0,7,0,4
+1370695,1745796600,3702,3701,Bolívar,Blooming,5,1,2,1
+1370696,1746212400,17760,15702,San Antonio Bulo Bulo,Independiente Petrolero,4,2,3,1
+1370698,1746307800,3711,3704,The Strongest,Guabirá,5,1,2,0
+1370699,1746316800,15708,3637,Real Tomayapo,Aurora,0,0,0,0
+1370700,1746385200,17743,3702,ABB,Bolívar,0,3,0,2
+1370701,1746393300,3705,3700,Jorge Wilstermann,Always Ready,2,7,1,4
+1370702,1746404100,3701,22266,Blooming,Gualberto Villarroel SJ,5,1,3,1
+1370703,1746471600,20252,17762,Real Oruro,Universitario de Vinto,2,0,1,0
+1370704,1746835200,3701,3705,Blooming,Jorge Wilstermann,3,1,2,0
+1370705,1746903600,17762,17743,Universitario de Vinto,ABB,2,0,1,0
+1370706,1746911700,3704,20252,Guabirá,Real Oruro,3,1,1,1
+1370707,1746921600,15702,3707,Independiente Petrolero,Oriente Petrolero,5,2,3,0
+1370708,1746990000,3700,15708,Always Ready,Real Tomayapo,1,1,0,1
+1370709,1746998100,3711,17760,The Strongest,San Antonio Bulo Bulo,6,3,4,0
+1370710,1747006200,3637,3702,Aurora,Bolívar,0,2,0,1
+1370712,1747422000,17743,3704,ABB,Guabirá,1,1,0,1
+1370713,1747432800,3706,3637,Nacional Potosí,Aurora,3,1,2,0
+1370714,1747441800,15708,15702,Real Tomayapo,Independiente Petrolero,3,3,1,0
+1370715,1747508400,20252,3700,Real Oruro,Always Ready,2,2,1,0
+1370716,1747517400,3705,17762,Jorge Wilstermann,Universitario de Vinto,0,2,0,1
+1370717,1747594800,17760,3701,San Antonio Bulo Bulo,Blooming,2,2,1,1
+1370719,1747611000,3707,3711,Oriente Petrolero,The Strongest,3,2,2,1
+1370720,1748113200,17762,3702,Universitario de Vinto,Bolívar,1,1,0,0
+1370721,1748127600,3701,3706,Blooming,Nacional Potosí,0,0,0,0
+1370722,1748199600,3700,17760,Always Ready,San Antonio Bulo Bulo,5,2,1,1
+1370723,1748207700,22266,20252,Gualberto Villarroel SJ,Real Oruro,0,0,0,0
+1370724,1748215800,3704,3707,Guabirá,Oriente Petrolero,1,3,1,1
+1370725,1748296800,3711,17743,The Strongest,ABB,3,2,2,1
+1370726,1748305800,15702,3637,Independiente Petrolero,Aurora,2,4,0,2
+1370727,1748386800,3705,15708,Jorge Wilstermann,Real Tomayapo,0,0,0,0
+1370711,1748808000,22266,3706,Gualberto Villarroel SJ,Nacional Potosí,1,0,1,0
+1377715,1749417300,3702,22266,Bolívar,Gualberto Villarroel SJ,1,3,1,1
+1378244,1749927600,17760,3704,San Antonio Bulo Bulo,Guabirá,1,1,0,0
+1378245,1749936600,20252,3711,Real Oruro,The Strongest,1,2,1,0
+1378246,1749945600,15708,3701,Real Tomayapo,Blooming,2,2,0,1
+1377780,1749947400,3637,22266,Aurora,Gualberto Villarroel SJ,3,1,1,1
+1378248,1750022100,3702,3700,Bolívar,Always Ready,2,2,1,0
+1377781,1750030200,3707,3705,Oriente Petrolero,Jorge Wilstermann,2,0,1,0
+1378249,1750456800,22266,3704,Gualberto Villarroel SJ,Guabirá,4,1,3,0
+1378250,1750465800,15708,20252,Real Tomayapo,Real Oruro,3,2,1,2
+1378251,1750532400,3700,17743,Always Ready,ABB,5,1,2,0
+1378252,1750541400,17762,17760,Universitario de Vinto,San Antonio Bulo Bulo,1,1,0,0
+1378253,1750550400,15702,3706,Independiente Petrolero,Nacional Potosí,1,1,0,0
+1378254,1750618800,3702,3711,Bolívar,The Strongest,1,2,1,0
+1378255,1750626900,3701,3707,Blooming,Oriente Petrolero,2,1,1,1
+1378256,1750635000,3705,3637,Jorge Wilstermann,Aurora,1,1,0,0
+1378257,1751137200,17760,22266,San Antonio Bulo Bulo,Gualberto Villarroel SJ,2,0,1,0
+1378258,1751146200,3707,15708,Oriente Petrolero,Real Tomayapo,2,1,1,0
+1378259,1751223600,3706,3702,Nacional Potosí,Bolívar,1,1,0,1
+1378260,1751231700,3637,3700,Aurora,Always Ready,1,1,1,1
+1378261,1751239800,3711,17762,The Strongest,Universitario de Vinto,3,2,1,1
+1378262,1751310000,17743,3701,ABB,Blooming,1,1,0,1
+1378263,1751319000,20252,3705,Real Oruro,Jorge Wilstermann,3,1,2,0
+1378264,1751328000,3704,15702,Guabirá,Independiente Petrolero,1,1,0,0
+1378265,1751751000,15708,17760,Real Tomayapo,San Antonio Bulo Bulo,1,1,0,0
+1378266,1751760000,17762,3637,Universitario de Vinto,Aurora,1,2,1,0
+1378267,1751828400,3700,3711,Always Ready,The Strongest,7,2,2,1
+1378268,1751837400,22266,3707,Gualberto Villarroel SJ,Oriente Petrolero,5,1,3,0
+1378269,1751844600,3701,20252,Blooming,Real Oruro,4,2,1,1
+1378270,1751914800,17743,3706,ABB,Nacional Potosí,2,2,1,2
+1378271,1751925600,3702,15702,Bolívar,Independiente Petrolero,4,0,2,0
+1378272,1751932800,3705,3704,Jorge Wilstermann,Guabirá,1,1,1,1
+1378273,1752274800,3704,3700,Guabirá,Always Ready,5,0,3,0
+1378274,1752346800,15702,17762,Independiente Petrolero,Universitario de Vinto,1,1,0,0
+1378275,1752355800,3711,15708,The Strongest,Real Tomayapo,6,0,2,0
+1378277,1752441300,22266,3705,Gualberto Villarroel SJ,Jorge Wilstermann,2,1,1,0
+1378278,1752449400,3707,17743,Oriente Petrolero,ABB,3,3,2,0
+1378279,1752530400,3706,20252,Nacional Potosí,Real Oruro,2,3,2,1
+1378281,1752951600,17743,3637,ABB,Aurora,2,1,2,1
+1378282,1752960600,3702,3707,Bolívar,Oriente Petrolero,1,0,0,0
+1378283,1752969600,17762,22266,Universitario de Vinto,Gualberto Villarroel SJ,4,0,4,0
+1378285,1753038000,20252,17760,Real Oruro,San Antonio Bulo Bulo,0,2,0,0
+1378284,1753046100,3700,15702,Always Ready,Independiente Petrolero,5,0,3,0
+1378286,1753054200,3705,3711,Jorge Wilstermann,The Strongest,1,2,1,1
+1378287,1753138800,3701,3704,Blooming,Guabirá,2,1,1,0
+1378288,1753225200,15708,3706,Real Tomayapo,Nacional Potosí,0,1,0,0
+1378247,1753824600,17743,15702,ABB,Independiente Petrolero,1,2,0,2
+1370697,1753833600,3706,3707,Nacional Potosí,Oriente Petrolero,4,1,2,0
+1405492,1754161200,17760,17743,San Antonio Bulo Bulo,ABB,4,0,2,0
+1405493,1754170200,20252,3702,Real Oruro,Bolívar,3,1,1,0
+1405494,1754179200,15708,22266,Real Tomayapo,Gualberto Villarroel SJ,2,1,2,0
+1405495,1754247600,3704,17762,Guabirá,Universitario de Vinto,3,0,2,0
+1405496,1754255700,3711,3701,The Strongest,Blooming,3,2,1,2
+1405498,1754334000,3707,3637,Oriente Petrolero,Aurora,3,0,0,0
+1405499,1754343000,3700,3706,Always Ready,Nacional Potosí,1,0,1,0
+1378276,1754506800,17760,3702,San Antonio Bulo Bulo,Bolívar,0,1,0,1
+1405500,1754679600,17762,3707,Universitario de Vinto,Oriente Petrolero,2,1,0,1
+1405501,1754690400,17743,20252,ABB,Real Oruro,1,2,0,0
+1405503,1754775000,3706,3711,Nacional Potosí,The Strongest,0,2,0,0
+1405504,1754784000,3702,15708,Bolívar,Real Tomayapo,5,0,2,0
+1405506,1754852400,22266,15702,Gualberto Villarroel SJ,Independiente Petrolero,2,1,2,1
+1405505,1754860500,3701,3700,Blooming,Always Ready,1,0,1,0
+1405507,1754868600,3637,3704,Aurora,Guabirá,0,2,0,0
+1377779,1755036000,3706,17762,Nacional Potosí,Universitario de Vinto,5,1,3,1
+1405502,1755045000,3705,17760,Jorge Wilstermann,San Antonio Bulo Bulo,0,3,0,1
+1378280,1755122400,3637,3701,Aurora,Blooming,4,1,1,1
+1405497,1755732600,15702,3705,Independiente Petrolero,Jorge Wilstermann,2,1,1,0
+1419580,1755889200,3700,3707,Always Ready,Oriente Petrolero,2,0,1,0
+1419587,1755903600,15708,17743,Real Tomayapo,ABB,2,1,0,1
+1419582,1755961200,3711,22266,The Strongest,Gualberto Villarroel SJ,2,1,1,1
+1419581,1755975600,17760,3637,San Antonio Bulo Bulo,Aurora,1,2,0,2
+1419583,1755993600,3704,3706,Guabirá,Nacional Potosí,1,0,0,0
+1419584,1756062000,3701,17762,Blooming,Universitario de Vinto,1,0,0,0
+1419585,1756070100,20252,15702,Real Oruro,Independiente Petrolero,3,4,1,2
+1419586,1756078200,3705,3702,Jorge Wilstermann,Bolívar,2,2,1,2
+1419588,1757703600,17762,15708,Universitario de Vinto,Real Tomayapo,1,0,0,0
+1421521,1757721600,3702,3704,Bolívar,Guabirá,4,0,1,0
+1419589,1757790000,3707,20252,Oriente Petrolero,Real Oruro,3,0,1,0
+1421522,1757799000,3706,17760,Nacional Potosí,San Antonio Bulo Bulo,2,3,0,2
+1421524,1757806200,3637,3711,Aurora,The Strongest,2,1,2,0
+1421523,1757876400,17743,3705,ABB,Jorge Wilstermann,0,0,0,0
+1419591,1757884500,22266,3700,Gualberto Villarroel SJ,Always Ready,0,1,0,1
+1419590,1757979000,15702,3701,Independiente Petrolero,Blooming,3,0,1,0
+1469011,1758049200,17760,3707,San Antonio Bulo Bulo,Oriente Petrolero,1,1,0,0
+1469013,1758067200,20252,3637,Real Oruro,Aurora,5,3,2,1
+1469016,1758135600,17743,22266,ABB,Gualberto Villarroel SJ,0,0,0,0
+1469015,1758146400,3705,3706,Jorge Wilstermann,Nacional Potosí,2,5,0,3
+1469017,1758222000,3700,17762,Always Ready,Universitario de Vinto,5,1,2,0
+1469018,1758322800,3637,15708,Aurora,Real Tomayapo,1,2,0,1
+1469019,1758380400,3702,17743,Bolívar,ABB,3,2,2,0
+1469020,1758394800,3707,3706,Oriente Petrolero,Nacional Potosí,2,2,1,0
+1471119,1758403800,15702,17760,Independiente Petrolero,San Antonio Bulo Bulo,4,2,1,1
+1469021,1758481200,3704,3711,Guabirá,The Strongest,2,1,2,0
+1469022,1758489300,3700,3705,Always Ready,Jorge Wilstermann,2,0,0,0
+1469023,1758497400,22266,3701,Gualberto Villarroel SJ,Blooming,1,4,1,3
+1469024,1758567600,17762,20252,Universitario de Vinto,Real Oruro,2,2,1,0
+1469025,1758654000,3707,15702,Oriente Petrolero,Independiente Petrolero,2,1,1,1
+1469026,1758740400,3706,22266,Nacional Potosí,Gualberto Villarroel SJ,1,2,1,0
+1469027,1758753000,3705,3701,Jorge Wilstermann,Blooming,1,0,1,0
+1469028,1758760200,15708,3700,Real Tomayapo,Always Ready,1,2,1,1
+1469029,1758826800,17760,3711,San Antonio Bulo Bulo,The Strongest,3,4,1,3
+1469030,1758835800,17743,17762,ABB,Universitario de Vinto,2,0,1,0
+1469031,1758844800,20252,3704,Real Oruro,Guabirá,3,6,2,2
+1469032,1758999600,15702,15708,Independiente Petrolero,Real Tomayapo,2,1,0,1
+1469033,1759008600,3637,3706,Aurora,Nacional Potosí,1,2,0,1
+1469034,1759086000,22266,3702,Gualberto Villarroel SJ,Bolívar,0,2,0,1
+1469035,1759094100,17762,3705,Universitario de Vinto,Jorge Wilstermann,1,1,0,0
+1469036,1759102200,3701,17760,Blooming,San Antonio Bulo Bulo,0,3,0,1
+1469037,1759172400,3711,3707,The Strongest,Oriente Petrolero,2,0,1,0
+1469038,1759181400,3700,20252,Always Ready,Real Oruro,4,0,3,0
+1469039,1759190400,3704,17743,Guabirá,ABB,5,1,2,1
+1469012,1760736600,15708,3704,Real Tomayapo,Guabirá,3,2,1,0
+1469014,1760745600,3711,15702,The Strongest,Independiente Petrolero,3,1,1,0
+1469040,1760814000,3701,3702,Blooming,Bolívar,1,2,1,0
+1482498,1762023600,20252,22266,Real Oruro,Gualberto Villarroel SJ,1,1,0,0
+1482499,1762110000,17743,3711,ABB,The Strongest,1,2,1,1
+1482500,1762118100,15708,3705,Real Tomayapo,Jorge Wilstermann,6,1,2,1
+1482501,1762196400,3707,3704,Oriente Petrolero,Guabirá,4,0,1,0
+1482502,1762204500,3702,17762,Bolívar,Universitario de Vinto,3,0,0,0
+1482503,1762212600,3637,15702,Aurora,Independiente Petrolero,2,3,1,0
+1482504,1762282800,17760,3700,San Antonio Bulo Bulo,Always Ready,0,1,0,1
+1482505,1762297200,3706,3701,Nacional Potosí,Blooming,3,0,2,0
+1469287,1762470000,3702,3637,Bolívar,Aurora,6,1,3,1
+1482737,1763760600,22266,3637,Gualberto Villarroel SJ,Aurora,4,1,1,0
+1482738,1763767800,15702,17743,Independiente Petrolero,ABB,2,0,1,0
+1482739,1763838000,3701,15708,Blooming,Real Tomayapo,2,0,0,0
+1482740,1763847000,3711,20252,The Strongest,Real Oruro,2,1,1,0
+1482741,1763856000,3705,3707,Jorge Wilstermann,Oriente Petrolero,3,1,2,1
+1482742,1763924400,3700,3702,Always Ready,Bolívar,1,1,0,0
+1482743,1763932500,17762,3706,Universitario de Vinto,Nacional Potosí,2,2,2,1
+1482744,1763940600,3704,17760,Guabirá,San Antonio Bulo Bulo,1,2,0,0
+1482746,1764367200,20252,15708,Real Oruro,Real Tomayapo,5,2,1,2
+1482748,1764374400,17743,3700,ABB,Always Ready,0,7,0,3
+1482747,1764442800,17760,17762,San Antonio Bulo Bulo,Universitario de Vinto,2,0,1,0
+1482745,1764451800,3704,22266,Guabirá,Gualberto Villarroel SJ,2,1,0,1
+1482749,1764460800,3706,15702,Nacional Potosí,Independiente Petrolero,2,1,0,0
+1482750,1764529200,3707,3701,Oriente Petrolero,Blooming,3,1,2,0
+1482751,1764537300,3711,3702,The Strongest,Bolívar,2,3,1,3
+1482752,1764545400,3637,3705,Aurora,Jorge Wilstermann,1,0,0,0
+1482753,1764711000,22266,17760,Gualberto Villarroel SJ,San Antonio Bulo Bulo,1,5,1,1
+1482754,1764718200,15702,3704,Independiente Petrolero,Guabirá,3,1,1,1
+1482755,1764788400,3701,17743,Blooming,ABB,6,0,4,0
+1482756,1764799200,15708,3707,Real Tomayapo,Oriente Petrolero,1,0,0,0
+1482757,1764806400,3705,20252,Jorge Wilstermann,Real Oruro,3,1,1,0
+1482758,1764874800,3700,3637,Always Ready,Aurora,5,3,2,2
+1482759,1764885600,17762,3711,Universitario de Vinto,The Strongest,0,1,0,1
+1482760,1764892800,3702,3706,Bolívar,Nacional Potosí,5,2,3,1
+1482761,1765047600,3707,22266,Oriente Petrolero,Gualberto Villarroel SJ,0,2,0,0
+1482762,1765056600,20252,3701,Real Oruro,Blooming,10,1,5,1
+1482763,1765065600,3704,3705,Guabirá,Jorge Wilstermann,6,3,1,2
+1482764,1765134000,15702,3702,Independiente Petrolero,Bolívar,1,2,1,1
+1482765,1765142100,3711,3700,The Strongest,Always Ready,2,3,0,3
+1482766,1765152000,3637,17762,Aurora,Universitario de Vinto,2,0,1,0
+1482767,1765220400,17760,15708,San Antonio Bulo Bulo,Real Tomayapo,5,4,2,2
+1482768,1765234800,3706,17743,Nacional Potosí,ABB,2,0,1,0
+1489291,1765321200,3705,22266,Jorge Wilstermann,Gualberto Villarroel SJ,2,2,1,1
+1489292,1765393200,3701,3637,Blooming,Aurora,2,1,0,0
+1489293,1765402200,17762,15702,Universitario de Vinto,Independiente Petrolero,2,3,2,0
+1489294,1765479600,17743,3707,ABB,Oriente Petrolero,5,2,3,0
+1489295,1765488600,20252,3706,Real Oruro,Nacional Potosí,1,2,1,2
+1489296,1765498500,3700,3704,Always Ready,Guabirá,6,0,2,0
+1489297,1765498500,3702,17760,Bolívar,San Antonio Bulo Bulo,5,0,3,0
+1489298,1765498500,15708,3711,Real Tomayapo,The Strongest,1,0,1,0
+1490955,1765661400,22266,17762,Gualberto Villarroel SJ,Universitario de Vinto,5,0,3,0
+1490957,1765738800,3707,3702,Oriente Petrolero,Bolívar,1,3,0,2
+1490958,1765738800,3711,3705,The Strongest,Jorge Wilstermann,6,0,1,0
+1490956,1765738800,15702,3700,Independiente Petrolero,Always Ready,5,2,2,1
+1490959,1765747800,3704,3701,Guabirá,Blooming,1,0,0,0
+1490960,1765747800,3706,15708,Nacional Potosí,Real Tomayapo,1,0,0,0
+1490961,1765825200,17760,20252,San Antonio Bulo Bulo,Real Oruro,5,3,2,2
+1490962,1765839600,3637,17743,Aurora,ABB,3,2,2,0
+1494836,1766347200,26596,17743,CD IN San Juan FC,ABB,3,1,1,0
+1494837,1766516400,17743,26596,ABB,CD IN San Juan FC,2,0,1,0

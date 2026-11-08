@@ -1,0 +1,44 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1467319,1757613600,24809,24806,Desportiva Aracaju,Caninde,4,0,2.0,0.0
+1467318,1757613600,24810,13121,Flamengo SE,Boca Júnior,2,0,1.0,0.0
+1467354,1757700000,26599,13120,Atletico Central,América de Pedrinhas,0,2,0.0,2.0
+1467321,1757786400,24813,22820,Independente Simão Dias,Olímpico SE,0,2,0.0,2.0
+1467320,1757959200,10001,15604,Frei Paulistano,Atlético Gloriense,0,1,0.0,0.0
+1467323,1758391200,13120,10001,América de Pedrinhas,Frei Paulistano,3,3,0.0,0.0
+1467322,1758391200,13121,24813,Boca Júnior,Independente Simão Dias,2,0,0.0,0.0
+1467324,1758391200,22820,24809,Olímpico SE,Desportiva Aracaju,1,1,0.0,0.0
+1467355,1758391200,24806,26599,Caninde,Atletico Central,3,1,2.0,1.0
+1467325,1758393900,15604,24810,Atlético Gloriense,Flamengo SE,2,0,0.0,0.0
+1467326,1758823200,24809,13121,Desportiva Aracaju,Boca Júnior,8,1,3.0,0.0
+1467327,1758823200,24810,24813,Flamengo SE,Independente Simão Dias,3,0,2.0,0.0
+1467356,1758909600,26599,22820,Atletico Central,Olímpico SE,0,2,0.0,0.0
+1467328,1758996000,10001,24806,Frei Paulistano,Caninde,4,1,2.0,0.0
+1467329,1758996000,15604,13120,Atlético Gloriense,América de Pedrinhas,2,0,2.0,0.0
+1467332,1759600800,22820,10001,Olímpico SE,Frei Paulistano,2,0,0.0,0.0
+1467330,1759600800,24806,15604,Caninde,Atlético Gloriense,0,0,0.0,0.0
+1467331,1759600800,24813,24809,Independente Simão Dias,Desportiva Aracaju,0,2,0.0,1.0
+1467333,1759687200,13120,24810,América de Pedrinhas,Flamengo SE,2,1,0.0,0.0
+1467357,1759687200,13121,26599,Boca Júnior,Atletico Central,0,3,0.0,1.0
+1467334,1760032800,24810,24809,Flamengo SE,Desportiva Aracaju,0,1,0.0,0.0
+1467358,1760119200,26599,24813,Atletico Central,Independente Simão Dias,1,1,0.0,0.0
+1467335,1760205600,10001,13121,Frei Paulistano,Boca Júnior,5,1,2.0,0.0
+1467336,1760205600,15604,22820,Atlético Gloriense,Olímpico SE,2,0,0.0,0.0
+1467337,1760292000,13120,24806,América de Pedrinhas,Caninde,0,3,0.0,2.0
+1467341,1760551200,13121,15604,Boca Júnior,Atlético Gloriense,0,3,0.0,3.0
+1467340,1760551200,22820,13120,Olímpico SE,América de Pedrinhas,1,0,0.0,0.0
+1467338,1760551200,24806,24810,Caninde,Flamengo SE,1,0,0.0,0.0
+1467359,1760551200,24809,26599,Desportiva Aracaju,Atletico Central,3,0,2.0,0.0
+1467339,1760551200,24813,10001,Independente Simão Dias,Frei Paulistano,0,3,,
+1467345,1760810400,10001,24809,Frei Paulistano,Desportiva Aracaju,0,1,0.0,0.0
+1467344,1760810400,13120,13121,América de Pedrinhas,Boca Júnior,1,0,0.0,0.0
+1467343,1760810400,15604,24813,Atlético Gloriense,Independente Simão Dias,7,0,4.0,0.0
+1467342,1760810400,24806,22820,Caninde,Olímpico SE,1,7,0.0,0.0
+1467360,1760810400,24810,26599,Flamengo SE,Atletico Central,1,2,1.0,2.0
+1467346,1761415200,22820,24810,Olímpico SE,Flamengo SE,4,1,0.0,0.0
+1467347,1761415200,24813,13120,Independente Simão Dias,América de Pedrinhas,1,1,1.0,0.0
+1467349,1761418800,24809,15604,Desportiva Aracaju,Atlético Gloriense,2,1,1.0,1.0
+1467361,1761501600,26599,10001,Atletico Central,Frei Paulistano,0,1,0.0,0.0
+1467352,1762002000,24810,10001,Flamengo SE,Frei Paulistano,0,4,0.0,1.0
+1467353,1762020000,24813,24806,Independente Simão Dias,Caninde,4,2,1.0,1.0
+1467351,1762106400,24809,13120,Desportiva Aracaju,América de Pedrinhas,4,0,1.0,0.0
+1467362,1762106400,26599,15604,Atletico Central,Atlético Gloriense,0,4,0.0,3.0

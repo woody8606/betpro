@@ -1,0 +1,55 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1639317,1789331400,3438,3437,Dunbeholden,Cavalier,1,2,1,1
+1639318,1789331400,3441,20597,Montego Bay United,Chapelton,2,0,1,0
+1639319,1789331400,3445,3440,Tivoli Gardens,Humble Lions,3,0,2,0
+1639320,1789331400,28416,3442,Tru-Juice,Mount Pleasant Academy,4,0,2,0
+1639321,1789423500,6407,22606,Molynes United,Treasure Beach,3,2,1,2
+1639322,1789434000,25020,3436,Racing United,Arnett Gardens,3,2,2,1
+1639888,1789936200,3441,28416,Montego Bay United,Tru-Juice,0,0,0,0
+1639889,1789936200,3442,25020,Mount Pleasant Academy,Racing United,0,1,0,0
+1639887,1789936200,20597,6407,Chapelton,Molynes United,2,1,1,0
+1639890,1789936200,22606,3445,Treasure Beach,Tivoli Gardens,1,1,1,1
+1639891,1790028300,3440,3447,Humble Lions,Waterhouse,0,5,0,2
+1639892,1790038800,3436,3438,Arnett Gardens,Dunbeholden,3,0,3,0
+1641891,1790541000,3437,3436,Cavalier,Arnett Gardens,3,2,2,1
+1641892,1790541000,3438,3442,Dunbeholden,Mount Pleasant Academy,0,2,0,2
+1641894,1790541000,3443,3440,Portmore United,Humble Lions,4,1,0,0
+1641895,1790541000,3445,20597,Tivoli Gardens,Chapelton,1,1,1,1
+1641893,1790541000,6407,28416,Molynes United,Tru-Juice,0,1,0,0
+1641896,1790546700,25020,3441,Racing United,Montego Bay United,0,1,0,1
+1641897,1790557500,3447,22606,Waterhouse,Treasure Beach,2,0,2,0
+1643261,1791145800,3441,3438,Montego Bay United,Dunbeholden,1,0,1,0
+1643263,1791145800,22606,3440,Treasure Beach,Humble Lions,1,1,1,0
+1643262,1791145800,28416,3445,Tru-Juice,Tivoli Gardens,0,2,0,2
+1643264,1791151200,6407,25020,Molynes United,Racing United,0,6,0,2
+1643265,1791160200,3442,3437,Mount Pleasant Academy,Cavalier,1,1,1,1
+1643424,1791237900,20597,3447,Chapelton,Waterhouse,0,6,0,3
+1643425,1791248400,3436,3443,Arnett Gardens,Portmore United,1,1,1,0
+1644709,1791491400,3443,3447,Portmore United,Waterhouse,1,1,1,1
+1645375,1791748800,3437,3441,Cavalier,Montego Bay United,1,3,0,2
+1645376,1791748800,3438,6407,Dunbeholden,Molynes United,1,0,0,0
+1645377,1791748800,3440,20597,Humble Lions,Chapelton,0,0,0,0
+1645378,1791842700,3445,25020,Tivoli Gardens,Racing United,3,4,2,3
+1645379,1791853200,3447,28416,Waterhouse,Tru-Juice,1,1,0,1
+1646361,1792353600,3441,3436,Montego Bay United,Arnett Gardens,2,2,1,0
+1646362,1792353600,3445,3438,Tivoli Gardens,Dunbeholden,3,0,1,0
+1646360,1792353600,20597,22606,Chapelton,Treasure Beach,1,0,0,0
+1646363,1792353600,28416,3440,Tru-Juice,Humble Lions,4,0,1,0
+1646364,1792447500,6407,3437,Molynes United,Cavalier,1,0,1,0
+1646365,1792458000,25020,3447,Racing United,Waterhouse,0,0,0,0
+1647070,1792958400,3437,3445,Cavalier,Tivoli Gardens,2,1,1,0
+1647071,1792958400,3440,25020,Humble Lions,Racing United,1,2,1,2
+1647072,1792958400,3443,20597,Portmore United,Chapelton,0,0,0,0
+1647073,1792958400,22606,28416,Treasure Beach,Tru-Juice,0,5,0,2
+1647074,1792969200,3447,3438,Waterhouse,Dunbeholden,2,0,1,0
+1647197,1793052300,3436,6407,Arnett Gardens,Molynes United,4,1,2,0
+1647198,1793062800,3442,3441,Mount Pleasant Academy,Montego Bay United,2,1,0,1
+1648240,1793563200,3438,3440,Dunbeholden,Humble Lions,3,0,2,0
+1648241,1793563200,3441,3443,Montego Bay United,Portmore United,2,2,1,1
+1648243,1793563200,3445,3436,Tivoli Gardens,Arnett Gardens,1,1,0,0
+1648242,1793563200,25020,22606,Racing United,Treasure Beach,3,4,2,2
+1648244,1793563200,28416,20597,Tru-Juice,Chapelton,1,0,0,0
+1648245,1793657100,6407,3442,Molynes United,Mount Pleasant Academy,1,2,0,1
+1648246,1793667600,3447,3437,Waterhouse,Cavalier,2,1,1,1
+1648481,1793908800,3443,22606,Portmore United,Treasure Beach,2,0,0,0
+1648482,1793923200,3436,3442,Arnett Gardens,Mount Pleasant Academy,1,1,0,0

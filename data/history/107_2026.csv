@@ -1,0 +1,124 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1558153,1784908800,12835,3496,Polonia Bytom,Warta Poznań,4,3,2,1
+1558151,1784919600,3488,344,Odra Opole,Arka Gdynia,0,1,0,1
+1558149,1784986200,343,14750,Lechia Gdansk,Pogoń Grod. Mazowiecki,0,3,0,1
+1558152,1784986200,6947,3498,Pogoń Siedlce,ŁKS Łódź,1,1,1,0
+1558156,1784986200,6957,3483,Stal Rzeszów,Chrobry Głogów,1,5,0,1
+1558157,1785069000,3487,6953,Nieciecza,Ruch Chorzów,2,0,0,0
+1558155,1785078000,6961,3493,Unia Skierniewice,Stal Mielec,1,2,0,1
+1558154,1785087000,3490,16239,Puszcza Niepołomice,Polonia Warszawa,0,1,0,0
+1558150,1785171600,335,3489,Miedz Legnica,Podbeskidzie,1,1,0,1
+1558162,1785513600,3498,12835,ŁKS Łódź,Polonia Bytom,2,1,2,1
+1558161,1785522600,343,3496,Lechia Gdansk,Warta Poznań,0,3,0,3
+1558158,1785591000,344,6957,Arka Gdynia,Stal Rzeszów,4,0,1,0
+1558163,1785591000,6947,3487,Pogoń Siedlce,Nieciecza,1,2,1,0
+1558164,1785591000,16239,6961,Polonia Warszawa,Unia Skierniewice,3,1,0,1
+1558165,1785673800,6953,335,Ruch Chorzów,Miedz Legnica,0,2,0,0
+1558166,1785682800,3493,3489,Stal Mielec,Podbeskidzie,3,3,3,0
+1558160,1785691800,14750,3490,Pogoń Grod. Mazowiecki,Puszcza Niepołomice,1,0,1,0
+1558159,1785776400,3483,3488,Chrobry Głogów,Odra Opole,0,1,0,1
+1558170,1786118400,12835,6947,Polonia Bytom,Pogoń Siedlce,2,2,0,1
+1558171,1786127400,16239,6953,Polonia Warszawa,Ruch Chorzów,1,1,0,0
+1558167,1786195800,335,14750,Miedz Legnica,Pogoń Grod. Mazowiecki,0,1,0,1
+1558172,1786195800,3490,3488,Puszcza Niepołomice,Odra Opole,3,1,2,1
+1558174,1786195800,3493,6957,Stal Mielec,Stal Rzeszów,1,1,0,0
+1558169,1786212900,3489,343,Podbeskidzie,Lechia Gdansk,2,2,1,1
+1558168,1786278600,3498,3483,ŁKS Łódź,Chrobry Głogów,1,2,1,1
+1558175,1786288500,3487,3496,Nieciecza,Warta Poznań,1,2,0,1
+1558173,1786381200,6961,344,Unia Skierniewice,Arka Gdynia,2,0,2,0
+1558178,1786723200,14750,6957,Pogoń Grod. Mazowiecki,Stal Rzeszów,1,1,0,0
+1558182,1786734000,6953,343,Ruch Chorzów,Lechia Gdansk,1,0,0,0
+1558177,1786800600,3483,3489,Chrobry Głogów,Podbeskidzie,1,1,1,0
+1558180,1786800600,3488,3496,Odra Opole,Warta Poznań,3,1,2,0
+1558181,1786800600,6947,16239,Pogoń Siedlce,Polonia Warszawa,1,0,1,0
+1558179,1786883400,3498,3487,ŁKS Łódź,Nieciecza,2,1,2,0
+1558184,1786892400,3493,12835,Stal Mielec,Polonia Bytom,5,2,2,1
+1558183,1786901400,6961,335,Unia Skierniewice,Miedz Legnica,0,3,0,1
+1558176,1786986000,344,3490,Arka Gdynia,Puszcza Niepołomice,3,0,3,0
+1558193,1787328000,3483,3496,Chrobry Głogów,Warta Poznań,0,1,0,1
+1558185,1787337000,343,6947,Lechia Gdansk,Pogoń Siedlce,1,0,0,0
+1558192,1787405400,3487,16239,Nieciecza,Polonia Warszawa,1,3,0,1
+1558188,1787405400,3489,3488,Podbeskidzie,Odra Opole,1,1,0,1
+1558189,1787405400,12835,14750,Polonia Bytom,Pogoń Grod. Mazowiecki,2,2,2,1
+1558186,1787488200,335,344,Miedz Legnica,Arka Gdynia,2,0,1,0
+1558190,1787497200,3490,6961,Puszcza Niepołomice,Unia Skierniewice,0,1,0,1
+1558187,1787504400,3498,3493,ŁKS Łódź,Stal Mielec,4,0,1,0
+1558191,1787590800,6957,6953,Stal Rzeszów,Ruch Chorzów,0,1,0,1
+1558201,1787932800,6961,6957,Unia Skierniewice,Stal Rzeszów,0,1,0,0
+1558196,1787933700,14750,3487,Pogoń Grod. Mazowiecki,Nieciecza,2,2,1,1
+1558197,1787942700,3488,3498,Odra Opole,ŁKS Łódź,0,0,0,0
+1558200,1788010200,3490,3489,Puszcza Niepołomice,Podbeskidzie,2,0,1,0
+1558198,1788010200,6947,3493,Pogoń Siedlce,Stal Mielec,2,0,2,0
+1558199,1788010200,16239,343,Polonia Warszawa,Lechia Gdansk,2,4,1,1
+1558202,1788085800,335,3496,Miedz Legnica,Warta Poznań,2,1,1,1
+1558194,1788093000,344,12835,Arka Gdynia,Polonia Bytom,1,1,1,0
+1558195,1788102900,3483,6953,Chrobry Głogów,Ruch Chorzów,2,0,1,0
+1558204,1788537600,14750,3496,Pogoń Grod. Mazowiecki,Warta Poznań,1,0,0,0
+1558211,1788548400,3487,343,Nieciecza,Lechia Gdansk,2,1,0,0
+1558205,1788615000,335,3483,Miedz Legnica,Chrobry Głogów,1,1,0,0
+1558210,1788615000,3493,3488,Stal Mielec,Odra Opole,1,1,0,1
+1558209,1788615000,6957,16239,Stal Rzeszów,Polonia Warszawa,2,1,2,0
+1558203,1788697800,344,3498,Arka Gdynia,ŁKS Łódź,1,1,0,0
+1558207,1788706800,12835,3489,Polonia Bytom,Podbeskidzie,0,0,0,0
+1558208,1788800400,6953,6961,Ruch Chorzów,Unia Skierniewice,3,1,1,0
+1558215,1789142400,16239,12835,Polonia Warszawa,Polonia Bytom,2,2,1,0
+1558216,1789152300,3490,3498,Puszcza Niepołomice,ŁKS Łódź,1,2,1,1
+1558212,1789219800,3483,6947,Chrobry Głogów,Pogoń Siedlce,0,0,0,0
+1558220,1789219800,3496,344,Warta Poznań,Arka Gdynia,3,0,1,0
+1558217,1789219800,6953,3489,Ruch Chorzów,Podbeskidzie,3,3,1,1
+1558218,1789293600,6961,14750,Unia Skierniewice,Pogoń Grod. Mazowiecki,3,2,0,1
+1558213,1789302600,343,335,Lechia Gdansk,Miedz Legnica,2,1,1,0
+1558214,1789311600,3488,6957,Odra Opole,Stal Rzeszów,0,1,0,1
+1558219,1789405200,3493,3487,Stal Mielec,Nieciecza,1,2,1,1
+1558229,1789747200,3496,3490,Warta Poznań,Puszcza Niepołomice,3,2,2,2
+1558226,1789757100,12835,6953,Polonia Bytom,Ruch Chorzów,0,0,0,0
+1558222,1789813800,343,3493,Lechia Gdansk,Stal Mielec,7,1,2,1
+1558228,1789824600,3487,3488,Nieciecza,Odra Opole,1,0,1,0
+1558221,1789824600,14750,3498,Pogoń Grod. Mazowiecki,ŁKS Łódź,2,0,1,0
+1558227,1789824600,16239,3483,Polonia Warszawa,Chrobry Głogów,2,0,0,0
+1558223,1789837200,335,6957,Miedz Legnica,Stal Rzeszów,2,3,1,3
+1558225,1789907400,6947,344,Pogoń Siedlce,Arka Gdynia,2,1,1,1
+1558224,1789918200,3489,6961,Podbeskidzie,Unia Skierniewice,1,1,0,0
+1558234,1791570600,3489,6947,Podbeskidzie,Pogoń Siedlce,1,0,1,0
+1558230,1791639000,344,16239,Arka Gdynia,Polonia Warszawa,1,2,1,1
+1558231,1791639000,3483,14750,Chrobry Głogów,Pogoń Grod. Mazowiecki,0,4,0,3
+1558236,1791639000,6961,3487,Unia Skierniewice,Nieciecza,2,2,1,2
+1558238,1791712800,3493,3496,Stal Mielec,Warta Poznań,2,1,2,0
+1558232,1791721800,3498,6953,ŁKS Łódź,Ruch Chorzów,0,2,0,0
+1558235,1791730800,3490,12835,Puszcza Niepołomice,Polonia Bytom,0,1,0,0
+1558233,1791742500,3488,335,Odra Opole,Miedz Legnica,1,0,0,0
+1558237,1791820800,6957,343,Stal Rzeszów,Lechia Gdansk,1,2,0,2
+1558206,1792081800,6947,3490,Pogoń Siedlce,Puszcza Niepołomice,1,3,0,0
+1558247,1792166400,3496,6961,Warta Poznań,Unia Skierniewice,1,0,1,0
+1558245,1792175400,6953,3488,Ruch Chorzów,Odra Opole,3,0,1,0
+1558241,1792243800,335,3493,Miedz Legnica,Stal Mielec,3,0,1,0
+1558244,1792243800,12835,3483,Polonia Bytom,Chrobry Głogów,3,2,3,0
+1558239,1792243800,14750,16239,Pogoń Grod. Mazowiecki,Polonia Warszawa,0,1,0,0
+1558242,1792326600,3498,3489,ŁKS Łódź,Podbeskidzie,1,0,0,0
+1558243,1792335600,6947,6957,Pogoń Siedlce,Stal Rzeszów,3,4,0,3
+1558240,1792348200,343,344,Lechia Gdansk,Arka Gdynia,2,1,1,0
+1558246,1792425600,3487,3490,Nieciecza,Puszcza Niepołomice,2,0,1,0
+1558251,1792771200,16239,335,Polonia Warszawa,Miedz Legnica,1,1,1,1
+1558248,1792848600,344,3487,Arka Gdynia,Nieciecza,3,1,3,0
+1558255,1792848600,3493,3483,Stal Mielec,Chrobry Głogów,0,0,0,0
+1558254,1792848600,6961,12835,Unia Skierniewice,Polonia Bytom,1,2,0,0
+1558252,1792856700,3490,343,Puszcza Niepołomice,Lechia Gdansk,2,1,0,0
+1558249,1792926000,3488,6947,Odra Opole,Pogoń Siedlce,0,1,0,0
+1558253,1792935000,6953,14750,Ruch Chorzów,Pogoń Grod. Mazowiecki,2,0,1,0
+1558250,1792944000,3489,6957,Podbeskidzie,Stal Rzeszów,2,1,0,1
+1558256,1793034000,3496,3498,Warta Poznań,ŁKS Łódź,0,1,0,0
+1558258,1793388600,14750,3493,Pogoń Grod. Mazowiecki,Stal Mielec,0,1,0,1
+1558260,1793457000,335,3487,Miedz Legnica,Nieciecza,1,1,0,1
+1558259,1793457000,343,6961,Lechia Gdansk,Unia Skierniewice,3,2,1,2
+1558262,1793457000,3489,3496,Podbeskidzie,Warta Poznań,1,1,0,1
+1558263,1793638800,12835,3488,Polonia Bytom,Odra Opole,3,0,0,0
+1558261,1793647800,3498,16239,ŁKS Łódź,Polonia Warszawa,1,1,0,0
+1558265,1793647800,6957,3490,Stal Rzeszów,Puszcza Niepołomice,2,2,0,1
+1558257,1793725200,3483,344,Chrobry Głogów,Arka Gdynia,0,0,0,0
+1558264,1793725200,6947,6953,Pogoń Siedlce,Ruch Chorzów,1,1,1,0
+1558271,1793984400,3490,335,Puszcza Niepołomice,Miedz Legnica,1,1,0,1
+1558268,1793993400,3488,6961,Odra Opole,Unia Skierniewice,3,5,1,0
+1558266,1794061800,344,3489,Arka Gdynia,Podbeskidzie,3,1,0,1
+1558273,1794061800,3487,3483,Nieciecza,Chrobry Głogów,2,2,1,0
+1558274,1794061800,3496,16239,Warta Poznań,Polonia Warszawa,0,3,0,2
+1558270,1794136500,12835,343,Polonia Bytom,Lechia Gdansk,1,0,1,0

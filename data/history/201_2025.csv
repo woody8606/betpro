@@ -1,0 +1,245 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1452883,1758985200,970,3459,Chabab Atl. Khenifra,Wydad Fès,1,1,0.0,0.0
+1452881,1758985200,6387,18753,Chabab Mohammédia,Amal Tiznit,3,1,3.0,1.0
+1452885,1758985200,26496,965,Union Sportive Boujaad,Moghreb Tetouan,2,0,1.0,0.0
+1452882,1758992400,3456,15549,Riadi Salmi,Stade Marocain,1,2,1.0,0.0
+1452884,1759071600,3451,17716,El Massira,USM Oujda,1,0,1.0,0.0
+1452886,1759071600,3458,3450,Widad Témara,Chabab Ben Guerir,1,1,0.0,1.0
+1452879,1759078800,979,3455,KAC Kenitra,Raja Beni Mellal,3,1,2.0,1.0
+1452880,1759078800,1075,966,Mouloudia Oujda,Racing de Casablanca,1,1,0.0,1.0
+1477559,1759590000,966,3456,Racing de Casablanca,Riadi Salmi,2,3,,
+1477558,1759590000,3450,979,Chabab Ben Guerir,KAC Kenitra,1,0,1.0,0.0
+1477561,1759590000,3459,3458,Wydad Fès,Widad Témara,2,3,1.0,2.0
+1477560,1759590000,15549,970,Stade Marocain,Chabab Atl. Khenifra,0,0,0.0,0.0
+1477564,1759676400,17716,6387,USM Oujda,Chabab Mohammédia,1,1,0.0,1.0
+1477562,1759676400,18753,3455,Amal Tiznit,Raja Beni Mellal,2,0,1.0,0.0
+1477563,1759676400,26496,1075,Union Sportive Boujaad,Mouloudia Oujda,0,1,0.0,0.0
+1477565,1759683600,965,3451,Moghreb Tetouan,El Massira,1,1,0.0,0.0
+1481211,1760194800,970,966,Chabab Atl. Khenifra,Racing de Casablanca,1,0,0.0,0.0
+1481213,1760194800,3456,3459,Riadi Salmi,Wydad Fès,1,0,0.0,0.0
+1481214,1760194800,3458,965,Widad Témara,Moghreb Tetouan,1,3,0.0,0.0
+1481212,1760194800,6387,3450,Chabab Mohammédia,Chabab Ben Guerir,1,0,0.0,0.0
+1481215,1760281200,3451,26496,El Massira,Union Sportive Boujaad,0,0,0.0,0.0
+1481216,1760281200,3455,17716,Raja Beni Mellal,USM Oujda,0,0,0.0,0.0
+1481217,1760288400,979,18753,KAC Kenitra,Amal Tiznit,2,1,1.0,1.0
+1481218,1760288400,1075,15549,Mouloudia Oujda,Stade Marocain,3,0,1.0,0.0
+1481219,1760799600,3451,970,El Massira,Chabab Atl. Khenifra,3,0,1.0,0.0
+1481221,1760799600,17716,979,USM Oujda,KAC Kenitra,1,1,0.0,1.0
+1481220,1760799600,26496,3456,Union Sportive Boujaad,Riadi Salmi,1,0,1.0,0.0
+1481222,1760806800,965,1075,Moghreb Tetouan,Mouloudia Oujda,1,0,0.0,0.0
+1481224,1760886000,966,3458,Racing de Casablanca,Widad Témara,1,1,0.0,0.0
+1481223,1760886000,3450,3455,Chabab Ben Guerir,Raja Beni Mellal,1,1,0.0,0.0
+1481226,1760886000,3459,6387,Wydad Fès,Chabab Mohammédia,0,1,0.0,1.0
+1481225,1760886000,15549,18753,Stade Marocain,Amal Tiznit,0,1,0.0,1.0
+1482688,1761404400,3455,15549,Raja Beni Mellal,Stade Marocain,0,0,0.0,0.0
+1482687,1761404400,3456,965,Riadi Salmi,Moghreb Tetouan,0,0,0.0,0.0
+1482686,1761404400,18753,17716,Amal Tiznit,USM Oujda,2,0,1.0,0.0
+1482689,1761411600,1075,3451,Mouloudia Oujda,El Massira,1,0,1.0,0.0
+1482691,1761490800,3458,26496,Widad Témara,Union Sportive Boujaad,1,0,1.0,0.0
+1482690,1761490800,6387,966,Chabab Mohammédia,Racing de Casablanca,1,0,0.0,0.0
+1482692,1761498000,970,3450,Chabab Atl. Khenifra,Chabab Ben Guerir,2,0,2.0,0.0
+1482693,1761498000,979,3459,KAC Kenitra,Wydad Fès,0,2,0.0,1.0
+1482694,1762009200,3450,17716,Chabab Ben Guerir,USM Oujda,2,1,1.0,1.0
+1482696,1762009200,3459,18753,Wydad Fès,Amal Tiznit,2,2,,
+1482695,1762009200,15549,979,Stade Marocain,KAC Kenitra,1,1,,
+1482697,1762016400,1075,3456,Mouloudia Oujda,Riadi Salmi,1,1,1.0,0.0
+1482699,1762095600,966,3455,Racing de Casablanca,Raja Beni Mellal,1,0,0.0,0.0
+1482698,1762095600,3451,3458,El Massira,Widad Témara,0,0,0.0,0.0
+1482700,1762095600,26496,970,Union Sportive Boujaad,Chabab Atl. Khenifra,0,0,0.0,0.0
+1482701,1762102800,965,6387,Moghreb Tetouan,Chabab Mohammédia,1,0,1.0,0.0
+1485520,1762610400,3456,3451,Riadi Salmi,El Massira,0,0,0.0,0.0
+1485521,1762610400,3458,1075,Widad Témara,Mouloudia Oujda,2,1,1.0,0.0
+1485522,1762621200,979,966,KAC Kenitra,Racing de Casablanca,3,1,1.0,0.0
+1485524,1762696800,3455,3459,Raja Beni Mellal,Wydad Fès,1,2,1.0,1.0
+1485519,1762696800,6387,26496,Chabab Mohammédia,Union Sportive Boujaad,1,1,0.0,0.0
+1485525,1762696800,17716,15549,USM Oujda,Stade Marocain,0,1,0.0,0.0
+1485523,1762696800,18753,3450,Amal Tiznit,Chabab Ben Guerir,3,1,1.0,0.0
+1485526,1762707600,970,965,Chabab Atl. Khenifra,Moghreb Tetouan,0,1,0.0,0.0
+1485527,1763215200,966,18753,Racing de Casablanca,Amal Tiznit,2,2,2.0,1.0
+1485529,1763215200,3459,17716,Wydad Fès,USM Oujda,2,0,0.0,0.0
+1485528,1763215200,26496,979,Union Sportive Boujaad,KAC Kenitra,1,1,1.0,1.0
+1485530,1763226000,965,3455,Moghreb Tetouan,Raja Beni Mellal,2,0,0.0,0.0
+1485531,1763301600,3451,6387,El Massira,Chabab Mohammédia,1,0,0.0,0.0
+1485532,1763301600,3456,3458,Riadi Salmi,Widad Témara,1,2,0.0,2.0
+1485533,1763301600,15549,3450,Stade Marocain,Chabab Ben Guerir,2,0,1.0,0.0
+1485534,1763312400,1075,970,Mouloudia Oujda,Chabab Atl. Khenifra,1,0,0.0,0.0
+1487219,1763820000,970,3456,Chabab Atl. Khenifra,Riadi Salmi,1,1,0.0,1.0
+1487217,1763820000,3450,3459,Chabab Ben Guerir,Wydad Fès,1,0,1.0,0.0
+1487218,1763820000,3455,26496,Raja Beni Mellal,Union Sportive Boujaad,0,0,0.0,0.0
+1487216,1763820000,18753,3458,Amal Tiznit,Widad Témara,0,0,0.0,0.0
+1487220,1763906400,6387,1075,Chabab Mohammédia,Mouloudia Oujda,2,4,2.0,2.0
+1487221,1763906400,15549,966,Stade Marocain,Racing de Casablanca,1,1,1.0,0.0
+1487222,1763906400,17716,965,USM Oujda,Moghreb Tetouan,3,0,2.0,0.0
+1487223,1763917200,979,3451,KAC Kenitra,El Massira,1,0,0.0,0.0
+1487224,1764424800,3451,3450,El Massira,Chabab Ben Guerir,2,0,0.0,0.0
+1487225,1764424800,3456,6387,Riadi Salmi,Chabab Mohammédia,1,1,1.0,1.0
+1487226,1764424800,3458,970,Widad Témara,Chabab Atl. Khenifra,0,0,0.0,0.0
+1487227,1764435600,1075,3455,Mouloudia Oujda,Raja Beni Mellal,1,1,1.0,1.0
+1487228,1764511200,966,17716,Racing de Casablanca,USM Oujda,0,3,0.0,1.0
+1487230,1764511200,3459,15549,Wydad Fès,Stade Marocain,0,0,0.0,0.0
+1487229,1764511200,26496,18753,Union Sportive Boujaad,Amal Tiznit,1,1,1.0,0.0
+1487231,1764522000,965,979,Moghreb Tetouan,KAC Kenitra,1,1,1.0,0.0
+1489028,1765029600,3455,3456,Raja Beni Mellal,Riadi Salmi,1,2,1.0,2.0
+1489027,1765029600,6387,970,Chabab Mohammédia,Chabab Atl. Khenifra,0,3,0.0,1.0
+1489029,1765029600,17716,1075,USM Oujda,Mouloudia Oujda,0,3,0.0,2.0
+1489026,1765029600,18753,3451,Amal Tiznit,El Massira,1,0,1.0,0.0
+1489030,1765116000,3450,966,Chabab Ben Guerir,Racing de Casablanca,1,0,0.0,0.0
+1489032,1765116000,3459,965,Wydad Fès,Moghreb Tetouan,0,1,0.0,1.0
+1489031,1765116000,15549,26496,Stade Marocain,Union Sportive Boujaad,0,0,0.0,0.0
+1489033,1765126800,979,3458,KAC Kenitra,Widad Témara,1,2,0.0,0.0
+1489034,1769263200,970,3455,Chabab Atl. Khenifra,Raja Beni Mellal,0,0,0.0,0.0
+1489037,1769263200,3451,15549,El Massira,Stade Marocain,1,0,0.0,0.0
+1489036,1769263200,3458,6387,Widad Témara,Chabab Mohammédia,2,1,0.0,0.0
+1489039,1769274000,965,3450,Moghreb Tetouan,Chabab Ben Guerir,2,1,1.0,0.0
+1489035,1769349600,966,3459,Racing de Casablanca,Wydad Fès,0,0,0.0,0.0
+1489040,1769349600,1075,979,Mouloudia Oujda,KAC Kenitra,1,1,0.0,1.0
+1489041,1769349600,3456,18753,Riadi Salmi,Amal Tiznit,1,1,1.0,0.0
+1489038,1769349600,26496,17716,Union Sportive Boujaad,USM Oujda,2,2,2.0,2.0
+1511471,1769868000,979,970,KAC Kenitra,Chabab Atl. Khenifra,1,1,1.0,0.0
+1511472,1769868000,3455,3458,Raja Beni Mellal,Widad Témara,1,1,1.0,0.0
+1511473,1769868000,17716,3456,USM Oujda,Riadi Salmi,3,2,1.0,0.0
+1511470,1769868000,18753,965,Amal Tiznit,Moghreb Tetouan,0,0,0.0,0.0
+1511475,1769954400,966,3451,Racing de Casablanca,El Massira,1,2,1.0,1.0
+1511474,1769954400,3450,1075,Chabab Ben Guerir,Mouloudia Oujda,1,1,1.0,0.0
+1511477,1769954400,3459,26496,Wydad Fès,Union Sportive Boujaad,1,0,1.0,0.0
+1511476,1769954400,15549,6387,Stade Marocain,Chabab Mohammédia,3,0,0.0,0.0
+1516892,1770472800,970,17716,Chabab Atl. Khenifra,USM Oujda,1,2,0.0,1.0
+1516895,1770472800,1075,18753,Mouloudia Oujda,Amal Tiznit,1,1,0.0,0.0
+1516894,1770472800,3456,979,Riadi Salmi,KAC Kenitra,2,2,,
+1516899,1770472800,3458,15549,Widad Témara,Stade Marocain,1,1,1.0,1.0
+1516896,1770472800,26496,3450,Union Sportive Boujaad,Chabab Ben Guerir,2,1,2.0,1.0
+1516898,1770559200,965,966,Moghreb Tetouan,Racing de Casablanca,0,0,0.0,0.0
+1516893,1770559200,3451,3459,El Massira,Wydad Fès,3,2,2.0,1.0
+1516897,1770559200,6387,3455,Chabab Mohammédia,Raja Beni Mellal,1,0,1.0,0.0
+1516901,1771077600,979,6387,KAC Kenitra,Chabab Mohammédia,0,1,0.0,0.0
+1516902,1771077600,3455,3451,Raja Beni Mellal,El Massira,1,0,1.0,0.0
+1516903,1771077600,17716,3458,USM Oujda,Widad Témara,0,0,0.0,0.0
+1516900,1771077600,18753,970,Amal Tiznit,Chabab Atl. Khenifra,0,0,0.0,0.0
+1516905,1771167600,966,26496,Racing de Casablanca,Union Sportive Boujaad,0,2,0.0,0.0
+1516904,1771167600,3450,3456,Chabab Ben Guerir,Riadi Salmi,1,3,0.0,1.0
+1516907,1771167600,3459,1075,Wydad Fès,Mouloudia Oujda,2,2,1.0,0.0
+1516906,1771167600,15549,965,Stade Marocain,Moghreb Tetouan,2,2,1.0,1.0
+1524323,1771686000,966,1075,Racing de Casablanca,Mouloudia Oujda,3,0,2.0,0.0
+1524325,1771686000,17716,3451,USM Oujda,El Massira,1,1,0.0,1.0
+1524326,1771711200,965,26496,Moghreb Tetouan,Union Sportive Boujaad,1,0,1.0,0.0
+1524324,1771711200,3455,979,Raja Beni Mellal,KAC Kenitra,1,0,1.0,0.0
+1524328,1771772400,3450,3458,Chabab Ben Guerir,Widad Témara,1,2,1.0,1.0
+1524329,1771772400,15549,3456,Stade Marocain,Riadi Salmi,1,2,0.0,1.0
+1524327,1771772400,18753,6387,Amal Tiznit,Chabab Mohammédia,1,1,1.0,0.0
+1524330,1771797600,3459,970,Wydad Fès,Chabab Atl. Khenifra,1,0,0.0,0.0
+1524334,1772316000,1075,26496,Mouloudia Oujda,Union Sportive Boujaad,0,3,0.0,0.0
+1524332,1772316000,3455,18753,Raja Beni Mellal,Amal Tiznit,1,1,1.0,0.0
+1524333,1772316000,3458,3459,Widad Témara,Wydad Fès,0,1,0.0,0.0
+1524336,1772377200,979,3450,KAC Kenitra,Chabab Ben Guerir,1,1,0.0,1.0
+1524337,1772402400,970,15549,Chabab Atl. Khenifra,Stade Marocain,1,0,1.0,0.0
+1524335,1772402400,3456,966,Riadi Salmi,Racing de Casablanca,0,0,0.0,0.0
+1524338,1772402400,6387,17716,Chabab Mohammédia,USM Oujda,1,0,0.0,0.0
+1524331,1772550000,3451,965,El Massira,Moghreb Tetouan,0,0,0.0,0.0
+1530055,1772895600,966,970,Racing de Casablanca,Chabab Atl. Khenifra,0,1,0.0,1.0
+1530054,1772895600,3450,6387,Chabab Ben Guerir,Chabab Mohammédia,0,0,0.0,0.0
+1530056,1772895600,15549,1075,Stade Marocain,Mouloudia Oujda,1,3,0.0,2.0
+1530057,1772920800,3459,3456,Wydad Fès,Riadi Salmi,1,2,1.0,1.0
+1530059,1772982000,17716,3455,USM Oujda,Raja Beni Mellal,3,0,1.0,0.0
+1530058,1772982000,18753,979,Amal Tiznit,KAC Kenitra,2,1,0.0,0.0
+1530060,1773007200,965,3458,Moghreb Tetouan,Widad Témara,1,1,0.0,0.0
+1530061,1773007200,26496,3451,Union Sportive Boujaad,El Massira,0,0,0.0,0.0
+1530062,1773500400,979,17716,KAC Kenitra,USM Oujda,0,0,0.0,0.0
+1530063,1773525600,970,3451,Chabab Atl. Khenifra,El Massira,1,0,0.0,0.0
+1530065,1773525600,3456,26496,Riadi Salmi,Union Sportive Boujaad,1,0,1.0,0.0
+1530064,1773525600,6387,3459,Chabab Mohammédia,Wydad Fès,0,3,0.0,1.0
+1530066,1773586800,18753,15549,Amal Tiznit,Stade Marocain,2,0,1.0,0.0
+1530067,1773612000,1075,965,Mouloudia Oujda,Moghreb Tetouan,1,3,0.0,1.0
+1530068,1773612000,3455,3450,Raja Beni Mellal,Chabab Ben Guerir,0,0,0.0,0.0
+1530069,1773612000,3458,966,Widad Témara,Racing de Casablanca,1,0,0.0,0.0
+1537560,1774706400,3450,970,Chabab Ben Guerir,Chabab Atl. Khenifra,4,0,1.0,0.0
+1537561,1774706400,15549,3455,Stade Marocain,Raja Beni Mellal,1,0,0.0,0.0
+1537562,1774706400,26496,3458,Union Sportive Boujaad,Widad Témara,2,2,0.0,1.0
+1537563,1774717200,965,3456,Moghreb Tetouan,Riadi Salmi,0,1,0.0,0.0
+1537565,1774792800,966,6387,Racing de Casablanca,Chabab Mohammédia,2,0,0.0,0.0
+1537564,1774792800,3451,1075,El Massira,Mouloudia Oujda,1,1,0.0,1.0
+1537566,1774792800,17716,18753,USM Oujda,Amal Tiznit,0,0,0.0,0.0
+1537567,1774803600,3459,979,Wydad Fès,KAC Kenitra,2,0,2.0,0.0
+1537569,1775311200,979,15549,KAC Kenitra,Stade Marocain,1,0,0.0,0.0
+1537568,1775311200,6387,965,Chabab Mohammédia,Moghreb Tetouan,1,0,1.0,0.0
+1537570,1775322000,970,26496,Chabab Atl. Khenifra,Union Sportive Boujaad,2,0,1.0,0.0
+1537571,1775322000,3456,1075,Riadi Salmi,Mouloudia Oujda,1,1,1.0,0.0
+1537574,1775397600,3458,3451,Widad Témara,El Massira,1,0,1.0,0.0
+1537573,1775397600,17716,3450,USM Oujda,Chabab Ben Guerir,1,1,1.0,1.0
+1537572,1775397600,18753,3459,Amal Tiznit,Wydad Fès,2,0,1.0,0.0
+1537575,1775408400,3455,966,Raja Beni Mellal,Racing de Casablanca,1,0,1.0,0.0
+1542511,1777129200,3450,18753,Chabab Ben Guerir,Amal Tiznit,1,0,0.0,0.0
+1542513,1777129200,3459,3455,Wydad Fès,Raja Beni Mellal,1,1,1.0,0.0
+1542512,1777129200,26496,6387,Union Sportive Boujaad,Chabab Mohammédia,0,0,0.0,0.0
+1542514,1777136400,1075,3458,Mouloudia Oujda,Widad Témara,0,1,0.0,0.0
+1542516,1777215600,966,979,Racing de Casablanca,KAC Kenitra,0,2,0.0,1.0
+1542515,1777215600,3451,3456,El Massira,Riadi Salmi,3,0,2.0,0.0
+1542517,1777215600,15549,17716,Stade Marocain,USM Oujda,1,0,0.0,0.0
+1542518,1777222800,965,970,Moghreb Tetouan,Chabab Atl. Khenifra,2,1,2.0,1.0
+1543306,1777734000,3455,965,Raja Beni Mellal,Moghreb Tetouan,2,0,0.0,0.0
+1543305,1777734000,6387,3451,Chabab Mohammédia,El Massira,1,3,0.0,1.0
+1543307,1777734000,17716,3459,USM Oujda,Wydad Fès,1,0,0.0,0.0
+1543308,1777741200,970,1075,Chabab Atl. Khenifra,Mouloudia Oujda,4,0,1.0,0.0
+1543311,1777820400,979,26496,KAC Kenitra,Union Sportive Boujaad,2,1,1.0,0.0
+1543310,1777820400,3450,15549,Chabab Ben Guerir,Stade Marocain,1,0,0.0,0.0
+1543312,1777820400,3458,3456,Widad Témara,Riadi Salmi,3,2,1.0,0.0
+1543309,1777820400,18753,966,Amal Tiznit,Racing de Casablanca,2,2,0.0,0.0
+1544322,1778338800,3451,979,El Massira,KAC Kenitra,1,1,1.0,0.0
+1544323,1778338800,3456,970,Riadi Salmi,Chabab Atl. Khenifra,0,1,0.0,1.0
+1544324,1778338800,26496,3455,Union Sportive Boujaad,Raja Beni Mellal,2,1,1.0,0.0
+1544325,1778346000,3459,3450,Wydad Fès,Chabab Ben Guerir,1,1,0.0,1.0
+1544326,1778425200,966,15549,Racing de Casablanca,Stade Marocain,0,1,0.0,0.0
+1544327,1778425200,3458,18753,Widad Témara,Amal Tiznit,1,1,0.0,0.0
+1544328,1778432400,965,17716,Moghreb Tetouan,USM Oujda,2,0,2.0,0.0
+1544329,1778432400,1075,6387,Mouloudia Oujda,Chabab Mohammédia,0,0,0.0,0.0
+1545709,1779548400,979,965,KAC Kenitra,Moghreb Tetouan,2,2,0.0,0.0
+1545707,1779548400,3450,3451,Chabab Ben Guerir,El Massira,0,0,0.0,0.0
+1545710,1779548400,3455,1075,Raja Beni Mellal,Mouloudia Oujda,3,2,2.0,1.0
+1545708,1779548400,6387,3456,Chabab Mohammédia,Riadi Salmi,2,2,1.0,1.0
+1545712,1779634800,15549,3459,Stade Marocain,Wydad Fès,2,0,1.0,0.0
+1545713,1779634800,17716,966,USM Oujda,Racing de Casablanca,3,1,2.0,0.0
+1545711,1779634800,18753,26496,Amal Tiznit,Union Sportive Boujaad,0,0,0.0,0.0
+1545714,1779642000,970,3458,Chabab Atl. Khenifra,Widad Témara,1,1,0.0,0.0
+1548311,1780761600,3456,3455,Riadi Salmi,Raja Beni Mellal,1,1,1.0,0.0
+1548312,1780761600,26496,15549,Union Sportive Boujaad,Stade Marocain,0,1,0.0,1.0
+1548313,1780768800,965,3459,Moghreb Tetouan,Wydad Fès,1,1,1.0,0.0
+1548314,1780768800,1075,17716,Mouloudia Oujda,USM Oujda,2,1,1.0,0.0
+1548316,1780848000,966,3450,Racing de Casablanca,Chabab Ben Guerir,0,1,0.0,1.0
+1548315,1780848000,3451,18753,El Massira,Amal Tiznit,1,1,1.0,1.0
+1548317,1780848000,3458,979,Widad Témara,KAC Kenitra,1,1,1.0,1.0
+1548318,1780851600,970,6387,Chabab Atl. Khenifra,Chabab Mohammédia,1,0,1.0,0.0
+1548319,1781366400,3450,965,Chabab Ben Guerir,Moghreb Tetouan,0,0,0.0,0.0
+1548321,1781366400,3455,970,Raja Beni Mellal,Chabab Atl. Khenifra,0,0,0.0,0.0
+1548322,1781366400,17716,26496,USM Oujda,Union Sportive Boujaad,1,0,1.0,0.0
+1548323,1781373600,3459,966,Wydad Fès,Racing de Casablanca,2,2,1.0,1.0
+1548325,1781452800,979,1075,KAC Kenitra,Mouloudia Oujda,1,0,0.0,0.0
+1548320,1781452800,6387,3458,Chabab Mohammédia,Widad Témara,1,1,0.0,0.0
+1548326,1781452800,15549,3451,Stade Marocain,El Massira,1,0,0.0,0.0
+1548324,1781452800,18753,3456,Amal Tiznit,Riadi Salmi,2,1,0.0,0.0
+1556565,1781967600,965,18753,Moghreb Tetouan,Amal Tiznit,3,1,2.0,0.0
+1556561,1781967600,970,979,Chabab Atl. Khenifra,KAC Kenitra,2,1,1.0,0.0
+1556566,1781967600,1075,3450,Mouloudia Oujda,Chabab Ben Guerir,1,1,0.0,1.0
+1556563,1781967600,3451,966,El Massira,Racing de Casablanca,2,1,2.0,1.0
+1556564,1781967600,3456,17716,Riadi Salmi,USM Oujda,2,0,0.0,0.0
+1556568,1781967600,3458,3455,Widad Témara,Raja Beni Mellal,2,1,2.0,0.0
+1556562,1781967600,6387,15549,Chabab Mohammédia,Stade Marocain,0,1,0.0,1.0
+1556567,1781967600,26496,3459,Union Sportive Boujaad,Wydad Fès,1,1,1.0,1.0
+1556572,1782572400,966,965,Racing de Casablanca,Moghreb Tetouan,0,2,0.0,1.0
+1556571,1782572400,979,3456,KAC Kenitra,Riadi Salmi,1,2,0.0,1.0
+1556570,1782572400,3450,26496,Chabab Ben Guerir,Union Sportive Boujaad,0,0,0.0,0.0
+1556573,1782572400,3455,6387,Raja Beni Mellal,Chabab Mohammédia,2,0,2.0,0.0
+1556576,1782572400,3459,3451,Wydad Fès,El Massira,3,0,1.0,0.0
+1556574,1782572400,15549,3458,Stade Marocain,Widad Témara,0,1,0.0,0.0
+1556575,1782572400,17716,970,USM Oujda,Chabab Atl. Khenifra,1,1,0.0,0.0
+1556569,1782572400,18753,1075,Amal Tiznit,Mouloudia Oujda,1,1,1.0,1.0
+1576128,1783263600,965,15549,Moghreb Tetouan,Stade Marocain,1,0,0.0,0.0
+1576124,1783263600,970,18753,Chabab Atl. Khenifra,Amal Tiznit,0,1,0.0,1.0
+1576129,1783263600,1075,3459,Mouloudia Oujda,Wydad Fès,1,1,0.0,0.0
+1576126,1783263600,3451,3455,El Massira,Raja Beni Mellal,3,1,1.0,1.0
+1576127,1783263600,3456,3450,Riadi Salmi,Chabab Ben Guerir,1,1,0.0,0.0
+1576131,1783263600,3458,17716,Widad Témara,USM Oujda,0,1,0.0,0.0
+1576125,1783263600,6387,979,Chabab Mohammédia,KAC Kenitra,4,3,3.0,0.0
+1576130,1783263600,26496,966,Union Sportive Boujaad,Racing de Casablanca,4,0,1.0,0.0
+1589966,1784397600,967,26496,Rapide Oued ZEM,Union Sportive Boujaad,0,1,0.0,1.0
+1589965,1784397600,18752,979,AS Mansouria,KAC Kenitra,0,0,0.0,0.0
+1589967,1784743200,979,18752,KAC Kenitra,AS Mansouria,2,0,0.0,0.0
+1589968,1784743200,26496,967,Union Sportive Boujaad,Rapide Oued ZEM,4,1,1.0,0.0

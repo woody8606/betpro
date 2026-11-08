@@ -1,0 +1,193 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1392848,1753408800,821,815,Guadalupe FC,CS Herediano,0,0,0,0
+1392847,1753495200,826,820,Municipal Liberia,CS Cartagines,1,0,0,0
+1392849,1753570800,2045,823,Puntarenas FC,San Carlos,1,2,1,0
+1392850,1753576200,819,816,Perez Zeledon,Deportivo Saprissa,0,1,0,0
+1392846,1753660800,2047,822,Sporting San Jose,LD Alajuelense,1,2,0,1
+1392854,1754100000,816,823,Deportivo Saprissa,San Carlos,2,0,1,0
+1392855,1754179200,2047,820,Sporting San Jose,CS Cartagines,0,1,0,0
+1392852,1754186400,815,2045,CS Herediano,Puntarenas FC,2,3,0,2
+1392853,1754254800,826,819,Municipal Liberia,Perez Zeledon,2,2,1,1
+1392851,1754265600,822,821,LD Alajuelense,Guadalupe FC,1,0,0,0
+1392859,1754780400,821,2045,Guadalupe FC,Puntarenas FC,3,2,0,2
+1392858,1754789400,823,826,San Carlos,Municipal Liberia,0,2,0,1
+1392860,1754791200,819,2047,Perez Zeledon,Sporting San Jose,2,1,1,1
+1392857,1754845200,820,816,CS Cartagines,Deportivo Saprissa,3,0,2,0
+1392856,1754866800,822,815,LD Alajuelense,CS Herediano,0,1,0,1
+1392865,1755306000,2047,823,Sporting San Jose,San Carlos,1,1,1,0
+1392864,1755388800,2045,822,Puntarenas FC,LD Alajuelense,0,0,0,0
+1392862,1755396000,815,819,CS Herediano,Perez Zeledon,2,1,1,1
+1392863,1755464400,826,816,Municipal Liberia,Deportivo Saprissa,2,2,2,0
+1392861,1755475200,821,820,Guadalupe FC,CS Cartagines,0,0,0,0
+1392868,1755914400,819,821,Perez Zeledon,Guadalupe FC,4,0,2,0
+1392869,1755990000,2045,826,Puntarenas FC,Municipal Liberia,0,3,0,1
+1392870,1756000800,816,2047,Deportivo Saprissa,Sporting San Jose,4,0,2,0
+1392867,1756080000,823,815,San Carlos,CS Herediano,2,2,2,0
+1392874,1756519200,2047,821,Sporting San Jose,Guadalupe FC,2,0,2,0
+1392873,1756605600,816,822,Deportivo Saprissa,LD Alajuelense,0,1,0,0
+1392871,1756659600,820,2045,CS Cartagines,Puntarenas FC,0,0,0,0
+1392872,1756684800,815,826,CS Herediano,Municipal Liberia,1,0,1,0
+1392875,1756846800,823,819,San Carlos,Perez Zeledon,0,1,0,0
+1392880,1757210400,819,822,Perez Zeledon,LD Alajuelense,2,1,1,0
+1392876,1757286000,826,2047,Municipal Liberia,Sporting San Jose,2,1,1,1
+1392879,1757552400,2045,816,Puntarenas FC,Deportivo Saprissa,3,1,1,0
+1392878,1757556000,820,815,CS Cartagines,CS Herediano,2,0,1,0
+1392877,1757642400,821,823,Guadalupe FC,San Carlos,2,3,0,3
+1392885,1757804400,815,2047,CS Herediano,Sporting San Jose,0,0,0,0
+1392881,1757815200,822,826,LD Alajuelense,Municipal Liberia,2,0,1,0
+1392884,1757869200,816,821,Deportivo Saprissa,Guadalupe FC,3,1,2,0
+1392882,1757883600,819,2045,Perez Zeledon,Puntarenas FC,1,1,1,1
+1392883,1757883600,823,820,San Carlos,CS Cartagines,0,2,0,1
+1392886,1758074400,822,823,LD Alajuelense,San Carlos,2,0,2,0
+1392888,1758146400,821,826,Guadalupe FC,Municipal Liberia,2,2,2,0
+1392890,1758153600,2047,2045,Sporting San Jose,Puntarenas FC,1,1,0,0
+1392889,1758160800,815,816,CS Herediano,Deportivo Saprissa,3,3,2,2
+1392887,1758247200,820,819,CS Cartagines,Perez Zeledon,1,1,1,0
+1392893,1758405600,2045,815,Puntarenas FC,CS Herediano,1,0,0,0
+1392895,1758420000,821,822,Guadalupe FC,LD Alajuelense,0,0,0,0
+1392891,1758488400,820,2047,CS Cartagines,Sporting San Jose,1,0,1,0
+1392892,1758499200,826,823,Municipal Liberia,San Carlos,1,0,1,0
+1392894,1758592800,816,819,Deportivo Saprissa,Perez Zeledon,3,0,2,0
+1392896,1758938400,822,2045,LD Alajuelense,Puntarenas FC,2,2,1,1
+1392897,1759024800,815,821,CS Herediano,Guadalupe FC,0,2,0,1
+1392899,1759096800,816,820,Deportivo Saprissa,CS Cartagines,2,1,1,0
+1392898,1759104000,823,2047,San Carlos,Sporting San Jose,0,3,0,3
+1392900,1759197600,819,826,Perez Zeledon,Municipal Liberia,1,1,0,1
+1392905,1760493600,826,2045,Municipal Liberia,Puntarenas FC,0,0,0,0
+1392903,1760567400,2047,819,Sporting San Jose,Perez Zeledon,0,0,0,0
+1392904,1760578200,823,816,San Carlos,Deportivo Saprissa,0,2,0,0
+1392901,1760580000,820,821,CS Cartagines,Guadalupe FC,1,1,1,0
+1392902,1760666400,815,822,CS Herediano,LD Alajuelense,1,3,0,1
+1392909,1760828400,2045,820,Puntarenas FC,CS Cartagines,1,1,0,0
+1392910,1760835600,819,823,Perez Zeledon,San Carlos,1,3,1,2
+1392908,1760907600,826,815,Municipal Liberia,CS Herediano,1,0,1,0
+1392906,1760918400,822,816,LD Alajuelense,Deportivo Saprissa,2,0,1,0
+1392907,1761012000,821,2047,Guadalupe FC,Sporting San Jose,2,2,1,1
+1392913,1761354000,823,821,San Carlos,Guadalupe FC,1,1,1,0
+1392915,1761436800,2047,826,Sporting San Jose,Municipal Liberia,3,0,1,0
+1392911,1761444000,815,820,CS Herediano,CS Cartagines,2,1,1,0
+1392914,1761498000,816,2045,Deportivo Saprissa,Puntarenas FC,2,1,1,0
+1392912,1761519600,822,819,LD Alajuelense,Perez Zeledon,3,2,1,1
+1392919,1761962400,2047,815,Sporting San Jose,CS Herediano,0,1,0,1
+1392920,1762041600,2045,819,Puntarenas FC,Perez Zeledon,1,2,0,1
+1392918,1762048800,821,816,Guadalupe FC,Deportivo Saprissa,1,3,0,1
+1392917,1762102800,820,823,CS Cartagines,San Carlos,2,1,0,1
+1392916,1762131600,826,822,Municipal Liberia,LD Alajuelense,1,4,0,3
+1392866,1763690400,822,820,LD Alajuelense,CS Cartagines,0,0,0,0
+1392921,1763845200,826,821,Municipal Liberia,Guadalupe FC,1,0,0,0
+1392923,1763863200,816,815,Deportivo Saprissa,CS Herediano,1,1,0,0
+1392924,1763935200,822,2047,LD Alajuelense,Sporting San Jose,2,0,2,0
+1392922,1763942400,823,2045,San Carlos,Puntarenas FC,1,1,1,1
+1392925,1764036000,819,820,Perez Zeledon,CS Cartagines,1,3,1,2
+1392927,1764457200,821,819,Guadalupe FC,Perez Zeledon,2,3,1,0
+1392928,1764468000,815,823,CS Herediano,San Carlos,3,1,2,1
+1392926,1764522000,820,822,CS Cartagines,LD Alajuelense,0,2,0,2
+1392929,1764540000,816,826,Deportivo Saprissa,Municipal Liberia,3,1,2,0
+1392930,1764543600,2045,2047,Puntarenas FC,Sporting San Jose,0,0,0,0
+1392931,1764982800,2047,816,Sporting San Jose,Deportivo Saprissa,0,0,0,0
+1392933,1765062000,2045,821,Puntarenas FC,Guadalupe FC,4,0,1,0
+1392934,1765072800,823,822,San Carlos,LD Alajuelense,0,2,0,0
+1392935,1765144800,819,815,Perez Zeledon,CS Herediano,1,3,0,2
+1392932,1765144800,820,826,CS Cartagines,Municipal Liberia,0,0,0,0
+1490769,1765418400,826,822,Municipal Liberia,LD Alajuelense,1,1,1,0
+1490770,1765504800,820,816,CS Cartagines,Deportivo Saprissa,1,2,0,2
+1490771,1765677600,822,826,LD Alajuelense,Municipal Liberia,3,0,2,0
+1490772,1765749600,816,820,Deportivo Saprissa,CS Cartagines,2,1,0,0
+1492079,1766023200,816,822,Deportivo Saprissa,LD Alajuelense,2,2,1,2
+1492080,1766278800,822,816,LD Alajuelense,Deportivo Saprissa,3,1,1,1
+1489098,1768345200,819,823,Perez Zeledon,San Carlos,3,1,2,1
+1489096,1768356000,816,2045,Deportivo Saprissa,Puntarenas FC,2,2,0,1
+1489097,1768438800,2047,815,Sporting San Jose,CS Herediano,0,2,0,2
+1489095,1768442400,820,821,CS Cartagines,Guadalupe FC,2,1,0,1
+1489094,1768528800,822,826,LD Alajuelense,Municipal Liberia,2,2,1,1
+1489101,1768694400,2045,820,Puntarenas FC,CS Cartagines,0,2,0,1
+1489100,1768701600,815,816,CS Herediano,Deportivo Saprissa,2,0,0,0
+1489103,1768770000,819,822,Perez Zeledon,LD Alajuelense,1,1,1,0
+1489099,1768780800,821,826,Guadalupe FC,Municipal Liberia,2,1,1,1
+1489102,1768784400,823,2047,San Carlos,Sporting San Jose,3,0,0,0
+1489105,1768960800,815,821,CS Herediano,Guadalupe FC,4,0,0,0
+1489107,1769040000,823,2045,San Carlos,Puntarenas FC,1,0,0,0
+1489104,1769047200,820,822,CS Cartagines,LD Alajuelense,1,0,0,0
+1489106,1769126400,826,819,Municipal Liberia,Perez Zeledon,1,1,0,0
+1489108,1769133600,2047,816,Sporting San Jose,Deportivo Saprissa,0,1,0,1
+1489111,1769299200,2045,821,Puntarenas FC,Guadalupe FC,0,0,0,0
+1489109,1769306400,822,823,LD Alajuelense,San Carlos,1,0,0,0
+1489110,1769374800,826,815,Municipal Liberia,CS Herediano,1,0,0,0
+1489112,1769385600,816,820,Deportivo Saprissa,CS Cartagines,0,0,0,0
+1489113,1769479200,819,2047,Perez Zeledon,Sporting San Jose,0,0,0,0
+1489115,1769558400,821,822,Guadalupe FC,LD Alajuelense,1,3,1,3
+1489117,1769648400,823,826,San Carlos,Municipal Liberia,1,0,0,0
+1489116,1769652000,815,2045,CS Herediano,Puntarenas FC,2,1,2,0
+1489118,1769722200,819,816,Perez Zeledon,Deportivo Saprissa,3,3,2,1
+1489114,1769731200,820,2047,CS Cartagines,Sporting San Jose,0,2,0,2
+1489121,1770429600,826,2045,Municipal Liberia,Puntarenas FC,1,4,0,0
+1489119,1770516000,822,815,LD Alajuelense,CS Herediano,1,1,0,0
+1489120,1770570000,820,819,CS Cartagines,Perez Zeledon,1,0,0,0
+1489122,1770584400,816,823,Deportivo Saprissa,San Carlos,2,1,2,1
+1489123,1770598800,2047,821,Sporting San Jose,Guadalupe FC,1,1,0,1
+1489128,1771034400,2045,819,Puntarenas FC,Perez Zeledon,1,0,1,0
+1489125,1771110000,821,823,Guadalupe FC,San Carlos,3,4,3,2
+1489126,1771120800,815,820,CS Herediano,CS Cartagines,1,0,1,0
+1489127,1771189200,826,816,Municipal Liberia,Deportivo Saprissa,0,1,0,0
+1489124,1771200000,822,2047,LD Alajuelense,Sporting San Jose,1,2,0,2
+1489132,1771718400,2047,2045,Sporting San Jose,Puntarenas FC,1,2,0,1
+1489131,1771725600,816,822,Deportivo Saprissa,LD Alajuelense,2,1,1,1
+1489129,1771779600,820,826,CS Cartagines,Municipal Liberia,2,1,2,1
+1489133,1771794000,819,821,Perez Zeledon,Guadalupe FC,1,1,1,1
+1489130,1771804800,823,815,San Carlos,CS Herediano,1,0,1,0
+1489137,1772326800,2045,822,Puntarenas FC,LD Alajuelense,2,0,2,0
+1489135,1772330400,815,819,CS Herediano,Perez Zeledon,3,0,2,0
+1489134,1772398800,821,816,Guadalupe FC,Deportivo Saprissa,0,2,0,0
+1489136,1772409600,826,2047,Municipal Liberia,Sporting San Jose,1,0,0,0
+1489138,1772413200,823,820,San Carlos,CS Cartagines,1,1,1,0
+1489139,1772589600,822,820,LD Alajuelense,CS Cartagines,2,0,2,0
+1489143,1772661600,819,826,Perez Zeledon,Municipal Liberia,1,1,1,1
+1489141,1772672400,2045,823,Puntarenas FC,San Carlos,0,0,0,0
+1489140,1772676000,821,815,Guadalupe FC,CS Herediano,0,2,0,1
+1489142,1772762400,816,2047,Deportivo Saprissa,Sporting San Jose,1,2,1,1
+1489146,1772935200,823,822,San Carlos,LD Alajuelense,0,2,0,1
+1489144,1772989200,820,2045,CS Cartagines,Puntarenas FC,3,2,1,0
+1489147,1773010800,816,815,Deportivo Saprissa,CS Herediano,2,1,0,0
+1489148,1773104400,2047,819,Sporting San Jose,Perez Zeledon,3,2,1,1
+1489145,1773108000,826,821,Municipal Liberia,Guadalupe FC,1,0,0,0
+1489149,1773453600,822,819,LD Alajuelense,Perez Zeledon,3,0,1,0
+1489153,1773532800,2047,823,Sporting San Jose,San Carlos,1,0,0,0
+1489152,1773540000,815,826,CS Herediano,Municipal Liberia,1,2,0,1
+1489150,1773594000,820,816,CS Cartagines,Deportivo Saprissa,2,1,0,1
+1489151,1773608400,821,2045,Guadalupe FC,Puntarenas FC,2,1,0,0
+1489156,1774051200,2045,826,Puntarenas FC,Municipal Liberia,0,1,0,1
+1489154,1774058400,821,2047,Guadalupe FC,Sporting San Jose,0,0,0,0
+1489155,1774144800,815,822,CS Herediano,LD Alajuelense,2,1,1,1
+1489158,1774213200,819,820,Perez Zeledon,CS Cartagines,3,1,0,1
+1489157,1774224000,823,816,San Carlos,Deportivo Saprissa,1,3,0,1
+1489163,1775178000,2047,820,Sporting San Jose,CS Cartagines,2,3,1,1
+1489162,1775422800,816,819,Deportivo Saprissa,Perez Zeledon,4,0,0,0
+1489161,1775430000,2045,815,Puntarenas FC,CS Herediano,0,1,0,0
+1489159,1775437200,822,821,LD Alajuelense,Guadalupe FC,1,1,1,0
+1489160,1775527200,826,823,Municipal Liberia,San Carlos,5,1,3,1
+1489164,1775872800,820,815,CS Cartagines,CS Herediano,1,2,1,1
+1489168,1775952000,819,2045,Perez Zeledon,Puntarenas FC,3,3,2,2
+1489167,1775959200,2047,822,Sporting San Jose,LD Alajuelense,0,2,0,1
+1489166,1776027600,816,826,Deportivo Saprissa,Municipal Liberia,1,2,0,0
+1489165,1776038400,823,821,San Carlos,Guadalupe FC,4,0,2,0
+1489172,1776477600,826,820,Municipal Liberia,CS Cartagines,1,0,1,0
+1489170,1776549600,821,819,Guadalupe FC,Perez Zeledon,1,0,0,0
+1489173,1776560400,2045,2047,Puntarenas FC,Sporting San Jose,1,2,0,1
+1489171,1776564000,815,823,CS Herediano,San Carlos,1,0,0,0
+1489169,1776639600,822,816,LD Alajuelense,Deportivo Saprissa,1,1,1,1
+1489177,1776820500,2047,826,Sporting San Jose,Municipal Liberia,0,1,0,0
+1489175,1776823200,820,823,CS Cartagines,San Carlos,2,1,1,1
+1489178,1776902400,819,815,Perez Zeledon,CS Herediano,0,1,0,0
+1489176,1776911400,816,821,Deportivo Saprissa,Guadalupe FC,5,0,1,0
+1489174,1776996000,822,2045,LD Alajuelense,Puntarenas FC,5,2,3,1
+1489183,1777078800,823,819,San Carlos,Perez Zeledon,1,1,1,1
+1489180,1777168800,815,2047,CS Herediano,Sporting San Jose,0,0,0,0
+1489179,1777240800,821,820,Guadalupe FC,CS Cartagines,0,5,0,2
+1489181,1777240800,826,822,Municipal Liberia,LD Alajuelense,2,1,1,0
+1489182,1777240800,2045,816,Puntarenas FC,Deportivo Saprissa,1,3,0,1
+1542989,1777773600,820,815,CS Cartagines,CS Herediano,0,1,0,1
+1542990,1777845600,826,816,Municipal Liberia,Deportivo Saprissa,1,1,1,0
+1542991,1778378400,815,820,CS Herediano,CS Cartagines,0,0,0,0
+1542992,1778450400,816,826,Deportivo Saprissa,Municipal Liberia,2,0,1,0
+1544750,1778724000,816,815,Deportivo Saprissa,CS Herediano,2,1,2,1
+1544749,1778983200,815,816,CS Herediano,Deportivo Saprissa,2,0,0,0

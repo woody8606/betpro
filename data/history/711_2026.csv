@@ -1,0 +1,148 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1529061,1774126800,18775,18776,Municipal Salamanca,Provincial Ovalle,0,0,0,0
+1529062,1774126800,21114,5646,Concón National,Trasandino,1,1,1,1
+1529066,1774213200,2335,5633,Santiago Morning,Colchagua,0,1,0,0
+1529064,1774213200,5639,15717,General Velásquez,Linares Unido,0,1,0,1
+1529065,1774213200,18779,21117,Real San Joaquín,Santiago City,1,2,0,0
+1529068,1775329200,5643,2335,Provincial Osorno,Santiago Morning,1,0,0,0
+1529069,1775329200,18776,21114,Provincial Ovalle,Concón National,0,1,0,0
+1529070,1775329200,21117,18775,Santiago City,Municipal Salamanca,1,1,0,1
+1529071,1775332800,5646,5634,Trasandino,Colina,1,0,1,0
+1529067,1775419200,5633,5639,Colchagua,General Velásquez,3,0,3,0
+1529074,1775919600,5634,21117,Colina,Santiago City,2,2,0,1
+1529072,1775937600,15717,5643,Linares Unido,Provincial Osorno,0,1,0,0
+1529075,1775943000,21114,18779,Concón National,Real San Joaquín,1,2,1,1
+1529073,1776020400,5639,2335,General Velásquez,Santiago Morning,3,1,1,1
+1529076,1776031200,5646,18776,Trasandino,Provincial Ovalle,4,2,0,2
+1529077,1776538800,18775,5634,Municipal Salamanca,Colina,1,1,0,1
+1529081,1776540600,21117,5646,Santiago City,Trasandino,2,1,1,0
+1529079,1776542400,5643,5633,Provincial Osorno,Colchagua,2,2,2,0
+1531884,1776614400,2335,27606,Santiago Morning,Lota Schwager,1,1,1,0
+1529080,1776625200,18779,18776,Real San Joaquín,Provincial Ovalle,3,2,1,1
+1529078,1776715200,5636,15717,Deportes Rengo,Linares Unido,0,2,0,1
+1531885,1777147200,27606,5639,Lota Schwager,General Velásquez,1,0,0,0
+1529086,1777230000,18779,18775,Real San Joaquín,Municipal Salamanca,0,0,0,0
+1529083,1777233600,5633,5636,Colchagua,Deportes Rengo,2,1,0,1
+1529084,1777233600,15717,2335,Linares Unido,Santiago Morning,1,3,0,1
+1529082,1777240800,5634,21114,Colina,Concón National,0,1,0,0
+1529085,1777316400,18776,21117,Provincial Ovalle,Santiago City,0,1,0,0
+1529087,1777750200,5634,18776,Colina,Provincial Ovalle,2,0,0,0
+1531886,1777752000,27606,5633,Lota Schwager,Colchagua,1,2,1,0
+1529091,1777755600,5646,18779,Trasandino,Real San Joaquín,0,0,0,0
+1529088,1777824000,21114,18775,Concón National,Municipal Salamanca,0,1,0,1
+1529090,1777836600,2335,5636,Santiago Morning,Deportes Rengo,1,0,1,0
+1529089,1777838400,5639,5643,General Velásquez,Provincial Osorno,0,1,0,1
+1529092,1778353200,18775,5646,Municipal Salamanca,Trasandino,2,0,1,0
+1529096,1778355000,21117,21114,Santiago City,Concón National,1,1,0,1
+1529094,1778356800,5636,5639,Deportes Rengo,General Velásquez,3,1,1,1
+1531887,1778356800,5643,27606,Provincial Osorno,Lota Schwager,1,0,0,0
+1529095,1778439600,18779,5634,Real San Joaquín,Colina,0,1,0,1
+1529093,1778443200,5633,15717,Colchagua,Linares Unido,3,0,2,0
+1531883,1778961600,27606,5636,Lota Schwager,Deportes Rengo,0,1,0,0
+1529099,1779566400,5643,5636,Provincial Osorno,Deportes Rengo,0,0,0,0
+1529098,1779566400,15717,5639,Linares Unido,General Velásquez,1,2,1,2
+1529102,1779570000,5646,21114,Trasandino,Concón National,1,4,0,2
+1529097,1779652800,5633,2335,Colchagua,Santiago Morning,1,1,1,1
+1529101,1779724800,21117,18779,Santiago City,Real San Joaquín,2,2,0,1
+1529100,1779735600,18776,18775,Provincial Ovalle,Municipal Salamanca,1,1,0,1
+1529107,1780167600,2335,5643,Santiago Morning,Provincial Osorno,0,0,0,0
+1529105,1780167600,21114,18776,Concón National,Provincial Ovalle,1,0,1,0
+1531888,1780171200,27606,15717,Lota Schwager,Linares Unido,0,2,0,2
+1529106,1780254000,5639,5633,General Velásquez,Colchagua,0,0,0,0
+1529104,1780254000,18775,21117,Municipal Salamanca,Santiago City,0,0,0,0
+1529103,1780255800,5634,5646,Colina,Trasandino,1,2,0,1
+1529111,1780772400,21117,5634,Santiago City,Colina,1,0,1,0
+1531890,1780776000,5643,15717,Provincial Osorno,Linares Unido,1,1,1,0
+1531889,1780783200,5636,27606,Deportes Rengo,Lota Schwager,1,1,0,0
+1529112,1780858800,2335,5639,Santiago Morning,General Velásquez,0,1,0,0
+1529110,1780858800,18779,21114,Real San Joaquín,Concón National,0,1,0,1
+1529109,1780947000,18776,5646,Provincial Ovalle,Trasandino,1,1,0,1
+1531882,1781467200,15717,27606,Linares Unido,Lota Schwager,0,1,0,1
+1529117,1781985600,5646,21117,Trasandino,Santiago City,5,1,3,1
+1529115,1781985600,15717,5636,Linares Unido,Deportes Rengo,3,1,1,0
+1529113,1782057600,5634,18775,Colina,Municipal Salamanca,1,2,1,1
+1529114,1782072000,5633,5643,Colchagua,Provincial Osorno,0,0,0,0
+1529116,1782072000,18776,18779,Provincial Ovalle,Real San Joaquín,1,6,0,3
+1531891,1782072000,27606,2335,Lota Schwager,Santiago Morning,1,1,0,1
+1529121,1782493200,21117,18776,Santiago City,Provincial Ovalle,3,2,1,2
+1529120,1782590400,5636,5633,Deportes Rengo,Colchagua,0,1,0,0
+1529119,1782594000,21114,5634,Concón National,Colina,1,1,0,0
+1529122,1782673200,2335,15717,Santiago Morning,Linares Unido,0,1,0,0
+1531892,1782673200,5639,27606,General Velásquez,Lota Schwager,2,1,2,1
+1529118,1782673200,18775,18779,Municipal Salamanca,Real San Joaquín,0,0,0,0
+1529125,1783195200,5643,5639,Provincial Osorno,General Velásquez,3,0,1,0
+1529126,1783195200,18776,5634,Provincial Ovalle,Colina,2,1,1,1
+1529124,1783198800,5636,2335,Deportes Rengo,Santiago Morning,3,1,0,1
+1529123,1783267200,18775,21114,Municipal Salamanca,Concón National,1,0,1,0
+1529127,1783278000,18779,5646,Real San Joaquín,Trasandino,1,2,0,0
+1531893,1783281600,5633,27606,Colchagua,Lota Schwager,0,2,0,0
+1529132,1783800000,5646,18775,Trasandino,Municipal Salamanca,1,2,0,1
+1529129,1783800000,21114,21117,Concón National,Santiago City,4,2,1,2
+1529128,1783884600,5634,18779,Colina,Real San Joaquín,5,1,2,0
+1529131,1783884600,5639,5636,General Velásquez,Deportes Rengo,2,0,0,0
+1529130,1783884600,15717,5633,Linares Unido,Colchagua,4,0,1,0
+1531894,1783884600,27606,5643,Lota Schwager,Provincial Osorno,2,2,0,0
+1595452,1785092400,5639,5646,General Velásquez,Trasandino,0,0,0,0
+1595453,1785616200,5646,5639,Trasandino,General Velásquez,1,0,1,0
+1600672,1786217400,5634,5636,Colina,Deportes Rengo,0,1,0,0
+1600703,1786219200,5643,21114,Provincial Osorno,Concón National,1,0,1,0
+1610583,1786219200,27606,5639,Lota Schwager,General Velásquez,3,1,2,1
+1600702,1786305600,5633,21117,Colchagua,Santiago City,0,1,0,0
+1610595,1786312800,5646,15717,Trasandino,Linares Unido,1,2,0,1
+1600673,1786377600,18779,2335,Real San Joaquín,Santiago Morning,2,2,1,2
+1610584,1786906800,5639,18776,General Velásquez,Provincial Ovalle,1,0,0,0
+1610596,1786908600,21114,5646,Concón National,Trasandino,1,3,1,0
+1600674,1786910400,5636,27606,Deportes Rengo,Lota Schwager,1,0,1,0
+1600704,1786910400,15717,5643,Linares Unido,Provincial Osorno,1,0,0,0
+1600675,1786982400,2335,5634,Santiago Morning,Colina,2,1,1,1
+1600706,1787425200,18775,21114,Municipal Salamanca,Concón National,0,2,0,1
+1610585,1787428800,5636,5639,Deportes Rengo,General Velásquez,1,1,0,0
+1610597,1787428800,5646,5633,Trasandino,Colchagua,0,0,0,0
+1600707,1787428800,15717,21117,Linares Unido,Santiago City,1,1,1,1
+1600677,1787428800,18776,18779,Provincial Ovalle,Real San Joaquín,1,1,0,1
+1600676,1787428800,27606,2335,Lota Schwager,Santiago Morning,1,1,1,0
+1600678,1788033600,5634,27606,Colina,Lota Schwager,0,0,0,0
+1610598,1788033600,5643,5646,Provincial Osorno,Trasandino,2,2,2,1
+1600709,1788033600,21114,15717,Concón National,Linares Unido,3,1,0,0
+1600680,1788116400,2335,18776,Santiago Morning,Provincial Ovalle,0,0,0,0
+1600679,1788192000,18779,5636,Real San Joaquín,Deportes Rengo,2,5,1,4
+1600708,1788300000,5633,18775,Colchagua,Municipal Salamanca,0,1,0,0
+1600712,1788636600,21117,21114,Santiago City,Concón National,3,0,1,0
+1600711,1788638400,15717,5633,Linares Unido,Colchagua,1,0,0,0
+1600710,1788706800,18775,5643,Municipal Salamanca,Provincial Osorno,2,1,0,1
+1610586,1788717600,5639,18779,General Velásquez,Real San Joaquín,1,1,0,0
+1600681,1788721200,5636,2335,Deportes Rengo,Santiago Morning,2,2,2,0
+1600682,1788814800,18776,5634,Provincial Ovalle,Colina,1,0,0,0
+1610587,1789236000,2335,5639,Santiago Morning,General Velásquez,0,0,0,0
+1610599,1789243200,5646,18775,Trasandino,Municipal Salamanca,3,0,0,0
+1600714,1789326000,5643,21117,Provincial Osorno,Santiago City,1,2,0,1
+1600713,1789326000,21114,5633,Concón National,Colchagua,1,0,0,0
+1600705,1790449200,21117,18775,Santiago City,Municipal Salamanca,1,0,1,0
+1600684,1790452800,27606,18776,Lota Schwager,Provincial Ovalle,1,2,0,2
+1600683,1790539200,5634,18779,Colina,Real San Joaquín,1,0,0,0
+1610600,1791041400,21117,5646,Santiago City,Trasandino,1,1,0,0
+1600686,1791050400,18779,27606,Real San Joaquín,Lota Schwager,0,2,0,0
+1600685,1791057600,18776,5636,Provincial Ovalle,Deportes Rengo,1,5,0,2
+1600715,1791126000,18775,15717,Municipal Salamanca,Linares Unido,2,0,1,0
+1600716,1791140400,5633,5643,Colchagua,Provincial Osorno,2,0,1,0
+1610588,1791144000,5639,5634,General Velásquez,Colina,2,3,0,1
+1600718,1791657000,21117,5633,Santiago City,Colchagua,2,3,2,2
+1600717,1791662400,21114,5643,Concón National,Provincial Osorno,1,3,1,1
+1610601,1791669600,15717,5646,Linares Unido,Trasandino,5,4,2,2
+1600688,1791745200,2335,18779,Santiago Morning,Real San Joaquín,1,2,1,2
+1600687,1791745200,5636,5634,Deportes Rengo,Colina,2,1,0,0
+1610589,1791748800,5639,27606,General Velásquez,Lota Schwager,1,2,1,1
+1600720,1792868400,5643,15717,Provincial Osorno,Linares Unido,1,0,1,0
+1600689,1792872000,5634,2335,Colina,Santiago Morning,1,1,0,1
+1610590,1792872000,18776,5639,Provincial Ovalle,General Velásquez,1,2,1,0
+1600690,1792872000,27606,5636,Lota Schwager,Deportes Rengo,5,1,3,0
+1610602,1792879200,5646,21114,Trasandino,Concón National,3,1,1,0
+1600719,1792942200,18775,21117,Municipal Salamanca,Santiago City,2,2,2,1
+1600722,1793374200,21117,15717,Santiago City,Linares Unido,0,1,0,1
+1600692,1793475000,2335,27606,Santiago Morning,Lota Schwager,1,4,1,1
+1610591,1793476800,5639,5636,General Velásquez,Deportes Rengo,1,0,1,0
+1600721,1793476800,21114,18775,Concón National,Municipal Salamanca,0,0,0,0
+1610603,1793559600,5633,5646,Colchagua,Trasandino,0,1,0,0
+1600691,1793559600,18779,18776,Real San Joaquín,Provincial Ovalle,1,1,0,1
+1600693,1794085200,5636,18779,Deportes Rengo,Real San Joaquín,3,3,1,1
+1600724,1794088800,15717,21114,Linares Unido,Concón National,1,1,0,0

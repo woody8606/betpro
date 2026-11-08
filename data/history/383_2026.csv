@@ -1,0 +1,70 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1555484,1787418000,4495,4510,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,1,2,0
+1555482,1787418000,6181,4488,Ironi Tiberias,Hapoel Petah Tikva,1,0,0,0
+1555483,1787419800,4195,4489,Maccabi Haifa,Hapoel Ramat Gan,2,1,1,0
+1555479,1787505300,4486,604,Hapoel Katamon,Maccabi Tel Aviv,2,5,1,2
+1555485,1787590800,4505,4481,Maccabi Netanya,Bnei Sakhnin,0,0,0,0
+1555492,1788022800,4481,4495,Bnei Sakhnin,Maccabi Petah Tikva,1,2,1,1
+1555488,1788022800,4488,4486,Hapoel Petah Tikva,Hapoel Katamon,1,0,1,0
+1555489,1788022800,4489,563,Hapoel Ramat Gan,Hapoel Beer Sheva,1,2,0,0
+1555490,1788022800,4510,6181,Ironi Kiryat Shmona,Ironi Tiberias,2,0,1,0
+1555486,1788024600,657,4505,Beitar Jerusalem,Maccabi Netanya,1,4,0,0
+1555487,1788110100,2253,4501,Hapoel Haifa,Hapoel Tel Aviv,0,0,0,0
+1555491,1788197400,604,4195,Maccabi Tel Aviv,Maccabi Haifa,3,1,2,0
+1555481,1788368400,563,2253,Hapoel Beer Sheva,Hapoel Haifa,2,2,1,0
+1555480,1788456600,4501,657,Hapoel Tel Aviv,Beitar Jerusalem,3,0,1,0
+1555493,1788626700,4486,4510,Hapoel Katamon,Ironi Kiryat Shmona,4,2,0,1
+1555497,1788626700,4495,6181,Maccabi Petah Tikva,Ironi Tiberias,1,2,0,1
+1555496,1788629400,4195,4488,Maccabi Haifa,Hapoel Petah Tikva,2,1,0,0
+1555498,1788799500,4505,2253,Maccabi Netanya,Hapoel Haifa,1,1,0,1
+1555494,1788800400,4501,4489,Hapoel Tel Aviv,Hapoel Ramat Gan,4,0,0,0
+1555499,1788801300,4481,657,Bnei Sakhnin,Beitar Jerusalem,0,1,0,0
+1555495,1788802200,563,604,Hapoel Beer Sheva,Maccabi Tel Aviv,1,4,1,2
+1555502,1789320600,4488,563,Hapoel Petah Tikva,Hapoel Beer Sheva,0,2,0,0
+1555501,1789403400,2253,4481,Hapoel Haifa,Bnei Sakhnin,3,1,3,1
+1555503,1789403400,4489,4505,Hapoel Ramat Gan,Maccabi Netanya,2,0,2,0
+1555505,1789405200,4510,4195,Ironi Kiryat Shmona,Maccabi Haifa,0,4,0,1
+1555506,1789407000,604,4501,Maccabi Tel Aviv,Hapoel Tel Aviv,4,1,2,1
+1555504,1789489800,6181,4486,Ironi Tiberias,Hapoel Katamon,2,2,1,0
+1555500,1789491600,657,4495,Beitar Jerusalem,Maccabi Petah Tikva,3,1,2,0
+1555508,1789735500,4501,4488,Hapoel Tel Aviv,Hapoel Petah Tikva,3,0,2,0
+1555513,1789835400,4481,4489,Bnei Sakhnin,Hapoel Ramat Gan,1,0,0,0
+1555511,1789835400,4495,4486,Maccabi Petah Tikva,Hapoel Katamon,2,4,1,3
+1555510,1789837200,4195,6181,Maccabi Haifa,Ironi Tiberias,3,2,1,1
+1555512,1789837200,4505,604,Maccabi Netanya,Maccabi Tel Aviv,1,2,0,1
+1555509,1789838100,563,4510,Hapoel Beer Sheva,Ironi Kiryat Shmona,1,0,1,0
+1555507,1789839000,657,2253,Beitar Jerusalem,Hapoel Haifa,2,1,2,0
+1555514,1791648000,2253,4495,Hapoel Haifa,Maccabi Petah Tikva,2,1,1,0
+1555518,1791648000,6181,563,Ironi Tiberias,Hapoel Beer Sheva,0,2,0,0
+1555516,1791648900,4488,4505,Hapoel Petah Tikva,Maccabi Netanya,0,3,0,0
+1555519,1791648900,4510,4501,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,3,0,1
+1555520,1791649800,604,4481,Maccabi Tel Aviv,Bnei Sakhnin,0,0,0,0
+1555517,1791738900,4489,657,Hapoel Ramat Gan,Beitar Jerusalem,0,4,0,2
+1555515,1791826200,4486,4195,Hapoel Katamon,Maccabi Haifa,1,4,1,2
+1555523,1792251900,4501,6181,Hapoel Tel Aviv,Ironi Tiberias,1,0,0,0
+1555522,1792252800,2253,4489,Hapoel Haifa,Hapoel Ramat Gan,0,2,0,0
+1555527,1792253700,4481,4488,Bnei Sakhnin,Hapoel Petah Tikva,2,0,1,0
+1555526,1792253700,4505,4510,Maccabi Netanya,Ironi Kiryat Shmona,1,0,0,0
+1555525,1792254600,4495,4195,Maccabi Petah Tikva,Maccabi Haifa,1,2,1,0
+1555524,1792343700,563,4486,Hapoel Beer Sheva,Hapoel Katamon,2,1,0,1
+1555521,1792431000,657,604,Beitar Jerusalem,Maccabi Tel Aviv,0,0,0,0
+1555528,1792856700,4486,4501,Hapoel Katamon,Hapoel Tel Aviv,0,3,0,1
+1555532,1792856700,4510,4481,Ironi Kiryat Shmona,Bnei Sakhnin,0,1,0,1
+1555530,1792857600,4489,4495,Hapoel Ramat Gan,Maccabi Petah Tikva,1,2,0,2
+1555531,1792857600,6181,4505,Ironi Tiberias,Maccabi Netanya,1,1,0,1
+1555534,1792859400,604,2253,Maccabi Tel Aviv,Hapoel Haifa,6,2,1,1
+1555529,1792952100,4488,657,Hapoel Petah Tikva,Beitar Jerusalem,0,1,0,1
+1555533,1793034000,4195,563,Maccabi Haifa,Hapoel Beer Sheva,2,5,0,0
+1555535,1793451600,657,4510,Beitar Jerusalem,Ironi Kiryat Shmona,1,1,1,0
+1555536,1793460600,2253,4488,Hapoel Haifa,Hapoel Petah Tikva,2,1,1,0
+1555541,1793462400,4481,6181,Bnei Sakhnin,Ironi Tiberias,1,1,0,1
+1555540,1793467800,4505,4486,Maccabi Netanya,Hapoel Katamon,1,1,1,0
+1555539,1793556000,4495,563,Maccabi Petah Tikva,Hapoel Beer Sheva,2,5,2,1
+1555538,1793642400,4489,604,Hapoel Ramat Gan,Maccabi Tel Aviv,0,5,0,3
+1555537,1793644200,4501,4195,Hapoel Tel Aviv,Maccabi Haifa,2,1,2,0
+1555548,1793966400,604,4495,Maccabi Tel Aviv,Maccabi Petah Tikva,2,2,1,0
+1555543,1794056400,4488,4489,Hapoel Petah Tikva,Hapoel Ramat Gan,2,1,2,0
+1555547,1794065400,4195,4505,Maccabi Haifa,Maccabi Netanya,0,4,0,0
+1555542,1794067200,4486,4481,Hapoel Katamon,Bnei Sakhnin,1,1,0,1
+1555546,1794067200,4510,2253,Ironi Kiryat Shmona,Hapoel Haifa,2,0,0,0
+1555545,1794072600,6181,657,Ironi Tiberias,Beitar Jerusalem,1,1,0,0

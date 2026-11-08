@@ -1,0 +1,53 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1641156,1790438400,979,3459,KAC Kenitra,Wydad Fès,0,1,0.0,1.0
+1641155,1790438400,3454,972,Olympique Dcheïra,Olympique Khouribga,1,0,0.0,0.0
+1641157,1790438400,26496,975,Union Sportive Boujaad,Olympique Safi,0,0,0.0,0.0
+1641158,1790445600,25058,6387,Yacoub El Mansour,Chabab Mohammédia,2,0,1.0,0.0
+1641161,1790521200,17716,1075,USM Oujda,Mouloudia Oujda,2,1,2.0,1.0
+1641159,1790524800,3450,3456,Chabab Ben Guerir,Riadi Salmi,2,0,2.0,0.0
+1641160,1790524800,3451,15549,El Massira,Stade Marocain,2,1,2.0,0.0
+1641162,1790532000,970,3452,Chabab Atl. Khenifra,Ittihad Khemisset,1,2,0.0,1.0
+1641163,1791043200,972,970,Olympique Khouribga,Chabab Atl. Khenifra,4,0,2.0,0.0
+1641165,1791043200,3459,26496,Wydad Fès,Union Sportive Boujaad,3,0,0.0,0.0
+1641164,1791043200,15549,3452,Stade Marocain,Ittihad Khemisset,0,1,0.0,0.0
+1641166,1791050400,1075,3454,Mouloudia Oujda,Olympique Dcheïra,2,1,0.0,0.0
+1641170,1791129600,975,3450,Olympique Safi,Chabab Ben Guerir,1,0,1.0,0.0
+1641169,1791129600,979,25058,KAC Kenitra,Yacoub El Mansour,0,1,0.0,0.0
+1641168,1791129600,3456,3451,Riadi Salmi,El Massira,0,0,0.0,0.0
+1641167,1791129600,6387,17716,Chabab Mohammédia,USM Oujda,0,1,0.0,0.0
+1641172,1791644400,3450,15549,Chabab Ben Guerir,Stade Marocain,0,1,0.0,0.0
+1641177,1791644400,17716,975,USM Oujda,Olympique Safi,1,1,0.0,1.0
+1641176,1791644400,26496,979,Union Sportive Boujaad,KAC Kenitra,1,1,0.0,1.0
+1641174,1791651600,3452,972,Ittihad Khemisset,Olympique Khouribga,2,1,1.0,0.0
+1641171,1791730800,970,6387,Chabab Atl. Khenifra,Chabab Mohammédia,1,1,0.0,0.0
+1641175,1791730800,3451,1075,El Massira,Mouloudia Oujda,2,2,1.0,0.0
+1641173,1791730800,3454,3459,Olympique Dcheïra,Wydad Fès,2,0,0.0,0.0
+1641178,1791738000,25058,3456,Yacoub El Mansour,Riadi Salmi,1,0,0.0,0.0
+1641181,1792249200,979,3451,KAC Kenitra,El Massira,1,0,0.0,0.0
+1641182,1792249200,1075,3450,Mouloudia Oujda,Chabab Ben Guerir,2,2,0.0,1.0
+1641184,1792249200,15549,970,Stade Marocain,Chabab Atl. Khenifra,2,1,1.0,0.0
+1641185,1792249200,26496,25058,Union Sportive Boujaad,Yacoub El Mansour,1,1,0.0,0.0
+1641180,1792335600,3456,3454,Riadi Salmi,Olympique Dcheïra,1,4,1.0,2.0
+1641186,1792335600,3459,17716,Wydad Fès,USM Oujda,4,1,1.0,0.0
+1641179,1792335600,6387,972,Chabab Mohammédia,Olympique Khouribga,1,1,1.0,1.0
+1641183,1792342800,975,3452,Olympique Safi,Ittihad Khemisset,1,0,0.0,0.0
+1641187,1792854000,970,975,Chabab Atl. Khenifra,Olympique Safi,4,2,2.0,1.0
+1641189,1792854000,3454,979,Olympique Dcheïra,KAC Kenitra,0,0,0.0,0.0
+1641192,1792861200,972,15549,Olympique Khouribga,Stade Marocain,1,1,,
+1641194,1792861200,25058,3459,Yacoub El Mansour,Wydad Fès,2,2,1.0,2.0
+1641188,1792940400,3450,6387,Chabab Ben Guerir,Chabab Mohammédia,2,0,0.0,0.0
+1641191,1792940400,3451,26496,El Massira,Union Sportive Boujaad,2,1,1.0,0.0
+1641193,1792940400,17716,3456,USM Oujda,Riadi Salmi,2,1,2.0,0.0
+1641190,1792947600,3452,1075,Ittihad Khemisset,Mouloudia Oujda,2,1,1.0,1.0
+1641197,1793458800,979,17716,KAC Kenitra,USM Oujda,1,1,0.0,0.0
+1641201,1793458800,3459,3450,Wydad Fès,Chabab Ben Guerir,3,1,1.0,0.0
+1641200,1793458800,26496,3454,Union Sportive Boujaad,Olympique Dcheïra,2,3,,
+1641202,1793466000,25058,3451,Yacoub El Mansour,El Massira,2,1,1.0,1.0
+1641198,1793545200,1075,970,Mouloudia Oujda,Chabab Atl. Khenifra,1,0,1.0,0.0
+1641196,1793545200,3456,3452,Riadi Salmi,Ittihad Khemisset,1,1,0.0,1.0
+1641195,1793545200,6387,15549,Chabab Mohammédia,Stade Marocain,0,1,0.0,0.0
+1641199,1793552400,975,972,Olympique Safi,Olympique Khouribga,1,1,1.0,0.0
+1641204,1794063600,3450,979,Chabab Ben Guerir,KAC Kenitra,0,1,0.0,1.0
+1641209,1794063600,15549,975,Stade Marocain,Olympique Safi,2,1,1.0,0.0
+1641210,1794063600,17716,26496,USM Oujda,Union Sportive Boujaad,0,0,0.0,0.0
+1641206,1794070800,3452,6387,Ittihad Khemisset,Chabab Mohammédia,4,0,2.0,0.0

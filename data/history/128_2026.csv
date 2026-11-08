@@ -1,0 +1,495 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1491818,1769112000,463,442,Aldosivi,Defensa Y Justicia,0,0,0,0
+1491832,1769122800,441,1064,Union Santa Fe,Platense,0,0,0,0
+1491820,1769122800,449,445,Banfield,Huracan,1,1,0,0
+1491827,1769130900,478,438,Instituto Cordoba,Velez Sarsfield,0,1,0,0
+1491823,1769130900,1065,1066,Central Cordoba de Santiago,Gimnasia M.,0,1,0,1
+1491829,1769205600,460,446,San Lorenzo,Lanus,2,3,0,2
+1491825,1769209200,453,450,Independiente,Estudiantes L.P.,1,1,1,0
+1491830,1769217300,456,457,Talleres Cordoba,Newells Old Boys,2,1,0,0
+1491826,1769217300,473,455,Independ. Rivadavia,Atletico Tucuman,2,1,1,1
+1491821,1769284800,2432,435,Barracas Central,River Plate,0,1,0,0
+1491824,1769293800,434,436,Gimnasia L.P.,Racing Club,2,1,1,0
+1491828,1769302800,437,440,Rosario Central,Belgrano Cordoba,1,2,1,0
+1491822,1769376600,451,476,Boca Juniors,Deportivo Riestra,1,0,0,0
+1491831,1769385600,452,2424,Tigre,Estudiantes de Rio Cuarto,2,0,0,0
+1491819,1769385600,458,474,Argentinos JRS,Sarmiento Junin,1,0,0,0
+1491843,1769457600,1064,478,Platense,Instituto Cordoba,2,1,1,0
+1491847,1769546700,438,456,Velez Sarsfield,Talleres Cordoba,2,1,0,1
+1491840,1769554800,445,473,Huracan,Independ. Rivadavia,1,2,1,0
+1491839,1769554800,1066,460,Gimnasia M.,San Lorenzo,0,1,0,0
+1491834,1769562900,455,1065,Atletico Tucuman,Central Cordoba de Santiago,0,0,0,0
+1491842,1769562900,457,453,Newells Old Boys,Independiente,1,1,0,1
+1491833,1769630400,463,2432,Aldosivi,Barracas Central,0,0,0,0
+1491844,1769637600,436,437,Racing Club,Rosario Central,1,2,1,2
+1491845,1769641200,435,434,River Plate,Gimnasia L.P.,2,0,1,0
+1491837,1769649300,450,451,Estudiantes L.P.,Boca Juniors,2,1,2,0
+1491836,1769716800,476,442,Deportivo Riestra,Defensa Y Justicia,0,1,0,1
+1491835,1769724900,440,452,Belgrano Cordoba,Tigre,1,1,0,0
+1491841,1769724900,446,441,Lanus,Union Santa Fe,2,1,1,0
+1491846,1769733000,474,449,Sarmiento Junin,Banfield,1,0,1,0
+1491838,1769733000,2424,458,Estudiantes de Rio Cuarto,Argentinos JRS,0,0,0,0
+1491859,1769891400,460,1065,San Lorenzo,Central Cordoba de Santiago,1,0,0,0
+1491855,1769899500,453,438,Independiente,Velez Sarsfield,1,1,1,1
+1491849,1769907600,455,445,Atletico Tucuman,Huracan,1,1,1,0
+1491860,1769907600,456,1064,Talleres Cordoba,Platense,1,2,0,1
+1491851,1769976000,2432,476,Barracas Central,Deportivo Riestra,1,1,0,1
+1491852,1769984100,451,457,Boca Juniors,Newells Old Boys,2,0,1,0
+1491858,1769992200,437,435,Rosario Central,River Plate,0,0,0,0
+1491854,1770064200,434,463,Gimnasia L.P.,Aldosivi,3,1,1,1
+1491853,1770072300,442,450,Defensa Y Justicia,Estudiantes L.P.,0,0,0,0
+1491861,1770072300,452,436,Tigre,Racing Club,3,1,1,0
+1491862,1770080400,441,1066,Union Santa Fe,Gimnasia M.,4,0,2,0
+1491848,1770080400,458,440,Argentinos JRS,Belgrano Cordoba,0,0,0,0
+1491850,1770156000,449,2424,Banfield,Estudiantes de Rio Cuarto,2,1,0,1
+1491856,1770164100,473,474,Independ. Rivadavia,Sarmiento Junin,2,1,1,0
+1491857,1770164100,478,446,Instituto Cordoba,Lanus,2,2,1,0
+1491866,1770422400,1065,441,Central Cordoba de Santiago,Union Santa Fe,1,0,0,0
+1491863,1770494400,463,437,Aldosivi,Rosario Central,1,1,0,1
+1491874,1770498000,436,458,Racing Club,Argentinos JRS,2,1,2,0
+1491875,1770505200,435,452,River Plate,Tigre,1,4,0,2
+1491865,1770513300,440,449,Belgrano Cordoba,Banfield,1,0,0,0
+1491872,1770513300,457,442,Newells Old Boys,Defensa Y Justicia,2,3,0,2
+1491876,1770580800,474,455,Sarmiento Junin,Atletico Tucuman,2,1,2,0
+1491873,1770580800,1064,453,Platense,Independiente,0,1,0,0
+1491870,1770588900,445,460,Huracan,San Lorenzo,1,0,0,0
+1491877,1770599700,438,451,Velez Sarsfield,Boca Juniors,2,1,0,0
+1491869,1770599700,1066,478,Gimnasia M.,Instituto Cordoba,1,0,0,0
+1491864,1770667200,2432,434,Barracas Central,Gimnasia L.P.,2,0,1,0
+1491871,1770675300,446,456,Lanus,Talleres Cordoba,1,1,0,0
+1491867,1770675300,450,476,Estudiantes L.P.,Deportivo Riestra,1,0,0,0
+1491868,1770683400,2424,473,Estudiantes de Rio Cuarto,Independ. Rivadavia,0,1,0,0
+1491891,1770933600,452,463,Tigre,Aldosivi,1,0,1,0
+1491878,1770941700,458,435,Argentinos JRS,River Plate,1,0,1,0
+1491886,1771023600,453,446,Independiente,Lanus,2,0,0,0
+1491892,1771031700,441,460,Union Santa Fe,San Lorenzo,0,0,0,0
+1491882,1771031700,442,438,Defensa Y Justicia,Velez Sarsfield,1,1,1,0
+1491880,1771101000,449,436,Banfield,Racing Club,0,2,0,2
+1491885,1771109100,445,474,Huracan,Sarmiento Junin,1,0,0,0
+1491890,1771109100,456,1066,Talleres Cordoba,Gimnasia M.,2,1,1,1
+1491879,1771117200,455,2424,Atletico Tucuman,Estudiantes de Rio Cuarto,4,0,2,0
+1491887,1771117200,473,440,Independ. Rivadavia,Belgrano Cordoba,0,1,0,1
+1491884,1771185600,434,450,Gimnasia L.P.,Estudiantes L.P.,0,0,0,0
+1491881,1771194600,451,1064,Boca Juniors,Platense,0,0,0,0
+1491889,1771203600,437,2432,Rosario Central,Barracas Central,2,0,0,0
+1491888,1771203600,478,1065,Instituto Cordoba,Central Cordoba de Santiago,2,0,2,0
+1491883,1771279200,476,457,Deportivo Riestra,Newells Old Boys,1,1,1,0
+1491897,1771618500,442,440,Defensa Y Justicia,Belgrano Cordoba,1,1,0,0
+1491899,1771620300,450,474,Estudiantes L.P.,Sarmiento Junin,1,0,0,0
+1491895,1771628400,451,436,Boca Juniors,Racing Club,0,0,0,0
+1491902,1771628400,478,455,Instituto Cordoba,Atletico Tucuman,2,1,1,0
+1491904,1771636500,437,456,Rosario Central,Talleres Cordoba,0,1,0,1
+1491900,1771636500,1066,434,Gimnasia M.,Gimnasia L.P.,0,1,0,1
+1491901,1771704000,473,453,Independ. Rivadavia,Independiente,3,2,1,0
+1491903,1771704000,1064,2432,Platense,Barracas Central,1,0,0,0
+1491894,1771712100,449,457,Banfield,Newells Old Boys,3,0,0,0
+1491898,1771712100,476,445,Deportivo Riestra,Huracan,0,0,0,0
+1491896,1771720200,1065,452,Central Cordoba de Santiago,Tigre,0,0,0,0
+1491905,1771790400,460,2424,San Lorenzo,Estudiantes de Rio Cuarto,2,0,1,0
+1491907,1771798500,438,435,Velez Sarsfield,River Plate,1,0,1,0
+1491906,1771806600,441,463,Union Santa Fe,Aldosivi,1,0,0,0
+1491917,1771963200,1064,442,Platense,Defensa Y Justicia,0,0,0,0
+1491920,1771971300,460,478,San Lorenzo,Instituto Cordoba,1,1,0,1
+1491911,1771973100,1065,456,Central Cordoba de Santiago,Talleres Cordoba,2,0,0,0
+1491910,1771979400,440,455,Belgrano Cordoba,Atletico Tucuman,3,1,1,0
+1491914,1771981200,1066,453,Gimnasia M.,Independiente,1,1,1,1
+1491913,1772049600,434,437,Gimnasia L.P.,Rosario Central,1,2,1,0
+1491909,1772049600,2432,452,Barracas Central,Tigre,2,1,0,1
+1491922,1772058600,438,476,Velez Sarsfield,Deportivo Riestra,0,0,0,0
+1491916,1772058600,457,450,Newells Old Boys,Estudiantes L.P.,0,2,0,0
+1491918,1772136900,436,473,Racing Club,Independ. Rivadavia,1,1,0,0
+1491921,1772136900,474,441,Sarmiento Junin,Union Santa Fe,1,3,0,2
+1491919,1772145000,435,449,River Plate,Banfield,3,1,1,1
+1491912,1772145000,2424,445,Estudiantes de Rio Cuarto,Huracan,2,0,1,0
+1491926,1772311500,451,1066,Boca Juniors,Gimnasia M.,1,1,1,1
+1491931,1772319600,453,1065,Independiente,Central Cordoba de Santiago,2,0,0,0
+1491936,1772327700,456,460,Talleres Cordoba,San Lorenzo,0,0,0,0
+1491934,1772395200,457,437,Newells Old Boys,Rosario Central,0,2,0,0
+1491923,1772403300,458,2432,Argentinos JRS,Barracas Central,1,1,0,1
+1491933,1772403300,478,441,Instituto Cordoba,Union Santa Fe,1,2,0,1
+1491927,1772411400,442,446,Defensa Y Justicia,Lanus,1,1,1,1
+1491937,1772411400,452,434,Tigre,Gimnasia L.P.,2,2,1,2
+1491929,1772489700,450,438,Estudiantes L.P.,Velez Sarsfield,0,1,0,0
+1491928,1772489700,476,1064,Deportivo Riestra,Platense,0,0,0,0
+1491925,1772497800,449,463,Banfield,Aldosivi,2,0,1,0
+1491932,1772497800,473,435,Independ. Rivadavia,River Plate,1,1,1,1
+1491935,1772575200,474,2424,Sarmiento Junin,Estudiantes de Rio Cuarto,1,0,1,0
+1491930,1772576100,445,440,Huracan,Belgrano Cordoba,3,1,2,0
+1491924,1772583300,455,436,Atletico Tucuman,Racing Club,0,3,0,1
+1491915,1772668800,446,451,Lanus,Boca Juniors,0,3,0,2
+1491967,1773182700,452,438,Tigre,Velez Sarsfield,1,1,1,0
+1491962,1773182700,453,441,Independiente,Union Santa Fe,4,4,1,3
+1491964,1773190800,457,1064,Newells Old Boys,Platense,1,1,1,0
+1491965,1773190800,474,436,Sarmiento Junin,Racing Club,0,0,0,0
+1491955,1773261000,449,434,Banfield,Gimnasia L.P.,1,2,0,2
+1491953,1773261000,458,437,Argentinos JRS,Rosario Central,0,0,0,0
+1491956,1773269100,451,460,Boca Juniors,San Lorenzo,1,1,0,0
+1491954,1773277200,455,463,Atletico Tucuman,Aldosivi,1,1,0,1
+1491963,1773277200,473,2432,Independ. Rivadavia,Barracas Central,1,2,0,2
+1491957,1773345600,442,1065,Defensa Y Justicia,Central Cordoba de Santiago,1,1,0,0
+1491958,1773345600,476,1066,Deportivo Riestra,Gimnasia M.,0,0,0,0
+1491966,1773353700,456,478,Talleres Cordoba,Instituto Cordoba,2,0,1,0
+1491960,1773353700,2424,440,Estudiantes de Rio Cuarto,Belgrano Cordoba,0,1,0,0
+1491961,1773361800,445,435,Huracan,River Plate,1,2,1,1
+1491959,1773442800,450,446,Estudiantes L.P.,Lanus,0,1,0,0
+1491976,1773525600,1064,438,Platense,Velez Sarsfield,0,2,0,1
+1491979,1773532800,437,449,Rosario Central,Banfield,2,1,0,1
+1491972,1773598500,434,473,Gimnasia L.P.,Independ. Rivadavia,2,3,2,2
+1491970,1773606600,440,456,Belgrano Cordoba,Talleres Cordoba,0,0,0,0
+1491978,1773614700,435,474,River Plate,Sarmiento Junin,2,0,1,0
+1491982,1773622800,441,451,Union Santa Fe,Boca Juniors,1,1,1,0
+1491981,1773622800,452,458,Tigre,Argentinos JRS,1,1,0,0
+1491968,1773685800,463,445,Aldosivi,Huracan,0,0,0,0
+1491969,1773685800,2432,455,Barracas Central,Atletico Tucuman,2,1,1,0
+1491980,1773696600,460,442,San Lorenzo,Defensa Y Justicia,2,5,0,2
+1491977,1773702000,436,2424,Racing Club,Estudiantes de Rio Cuarto,2,0,0,0
+1491974,1773710100,478,453,Instituto Cordoba,Independiente,2,1,2,1
+1491975,1773784800,446,457,Lanus,Newells Old Boys,5,0,3,0
+1491971,1773792900,1065,476,Central Cordoba de Santiago,Deportivo Riestra,1,0,1,0
+1491973,1773792900,1066,450,Gimnasia M.,Estudiantes L.P.,1,2,1,0
+1491985,1774051200,449,452,Banfield,Tigre,1,0,1,0
+1491984,1774051200,455,434,Atletico Tucuman,Gimnasia L.P.,1,0,1,0
+1491997,1774117800,438,446,Velez Sarsfield,Lanus,0,1,0,0
+1491988,1774125900,442,441,Defensa Y Justicia,Union Santa Fe,2,0,0,0
+1491995,1774125900,457,1066,Newells Old Boys,Gimnasia M.,1,0,0,0
+1491993,1774134000,453,456,Independiente,Talleres Cordoba,1,2,0,0
+1491986,1774142100,440,436,Belgrano Cordoba,Racing Club,1,2,0,1
+1491996,1774204200,474,463,Sarmiento Junin,Aldosivi,2,0,1,0
+1491991,1774212300,2424,435,Estudiantes de Rio Cuarto,River Plate,0,2,0,0
+1491987,1774220400,451,478,Boca Juniors,Instituto Cordoba,2,0,0,0
+1491983,1774228500,458,1064,Argentinos JRS,Platense,1,0,0,0
+1491994,1774228500,473,437,Independ. Rivadavia,Rosario Central,2,0,2,0
+1491990,1774303200,450,1065,Estudiantes L.P.,Central Cordoba de Santiago,5,0,0,0
+1491992,1774311300,445,2432,Huracan,Barracas Central,0,0,0,0
+1491989,1774476000,476,460,Deportivo Riestra,San Lorenzo,1,1,1,0
+1491893,1774569600,458,446,Argentinos JRS,Lanus,2,1,0,0
+1491908,1774976400,463,458,Aldosivi,Argentinos JRS,0,2,0,2
+1492006,1775084400,446,1064,Lanus,Platense,0,0,0,0
+1492000,1775152800,2432,474,Barracas Central,Sarmiento Junin,1,2,0,2
+1492011,1775161800,452,473,Tigre,Independ. Rivadavia,0,2,0,1
+1492010,1775172600,456,451,Talleres Cordoba,Boca Juniors,0,1,0,0
+1492003,1775239200,1066,438,Gimnasia M.,Velez Sarsfield,3,2,1,2
+1492012,1775247300,441,476,Union Santa Fe,Deportivo Riestra,2,0,1,0
+1492009,1775255400,460,450,San Lorenzo,Estudiantes L.P.,1,0,1,0
+1491998,1775320200,463,2424,Aldosivi,Estudiantes de Rio Cuarto,0,0,0,0
+1492004,1775334600,453,436,Independiente,Racing Club,1,0,0,0
+1492008,1775347200,437,455,Rosario Central,Atletico Tucuman,2,1,1,1
+1492002,1775413800,434,445,Gimnasia L.P.,Huracan,0,3,0,1
+1492007,1775422800,435,440,River Plate,Belgrano Cordoba,3,0,1,0
+1492001,1775431800,1065,457,Central Cordoba de Santiago,Newells Old Boys,1,3,0,2
+1491999,1775512800,458,449,Argentinos JRS,Banfield,3,2,2,1
+1492005,1775520900,478,442,Instituto Cordoba,Defensa Y Justicia,2,0,1,0
+1492014,1775865600,440,463,Belgrano Cordoba,Aldosivi,1,0,1,0
+1492017,1775930400,476,478,Deportivo Riestra,Instituto Cordoba,0,1,0,0
+1492021,1775932200,473,458,Independ. Rivadavia,Argentinos JRS,3,1,2,1
+1492018,1775938500,450,441,Estudiantes L.P.,Union Santa Fe,2,1,0,1
+1492015,1775946600,451,453,Boca Juniors,Independiente,1,1,1,1
+1492019,1775954700,2424,2432,Estudiantes de Rio Cuarto,Barracas Central,1,2,1,2
+1492023,1776016800,457,460,Newells Old Boys,San Lorenzo,0,0,0,0
+1492024,1776016800,1064,1066,Platense,Gimnasia M.,1,1,1,0
+1492020,1776025800,445,437,Huracan,Rosario Central,3,1,1,1
+1492013,1776025800,455,452,Atletico Tucuman,Tigre,0,0,0,0
+1492025,1776034800,436,435,Racing Club,River Plate,0,2,0,1
+1492016,1776108600,442,456,Defensa Y Justicia,Talleres Cordoba,1,2,0,1
+1492026,1776108600,474,434,Sarmiento Junin,Gimnasia L.P.,1,2,0,1
+1492022,1776117600,446,449,Lanus,Banfield,1,0,0,0
+1492027,1776126600,438,1065,Velez Sarsfield,Central Cordoba de Santiago,1,0,1,0
+1492042,1776468600,441,457,Union Santa Fe,Newells Old Boys,2,3,1,2
+1492033,1776535200,434,2424,Gimnasia L.P.,Estudiantes de Rio Cuarto,1,0,1,0
+1492036,1776543300,478,450,Instituto Cordoba,Estudiantes L.P.,0,1,0,0
+1492035,1776551400,453,442,Independiente,Defensa Y Justicia,3,1,2,1
+1492029,1776559500,458,455,Argentinos JRS,Atletico Tucuman,1,0,0,0
+1492028,1776616200,463,436,Aldosivi,Racing Club,1,1,1,0
+1492037,1776628800,435,451,River Plate,Boca Juniors,0,1,0,1
+1492038,1776641400,437,474,Rosario Central,Sarmiento Junin,2,1,1,0
+1492040,1776641400,456,476,Talleres Cordoba,Deportivo Riestra,2,0,2,0
+1492031,1776708000,2432,440,Barracas Central,Belgrano Cordoba,0,0,0,0
+1492030,1776716100,449,473,Banfield,Independ. Rivadavia,0,0,0,0
+1492032,1776716100,1065,1064,Central Cordoba de Santiago,Platense,4,3,2,1
+1492039,1776724200,460,438,San Lorenzo,Velez Sarsfield,0,0,0,0
+1492041,1776732300,452,445,Tigre,Huracan,1,1,0,0
+1492034,1776732300,1066,446,Gimnasia M.,Lanus,1,0,0,0
+1492045,1776985200,442,451,Defensa Y Justicia,Boca Juniors,0,4,0,1
+1492046,1777060800,476,453,Deportivo Riestra,Independiente,2,0,1,0
+1492051,1777068900,446,1065,Lanus,Central Cordoba de Santiago,0,0,0,0
+1492048,1777068900,2424,437,Estudiantes de Rio Cuarto,Rosario Central,1,2,0,1
+1492054,1777077000,436,2432,Racing Club,Barracas Central,1,1,1,0
+1492053,1777077000,1064,460,Platense,San Lorenzo,0,1,0,1
+1492047,1777147200,450,456,Estudiantes L.P.,Talleres Cordoba,0,0,0,0
+1492056,1777155300,474,452,Sarmiento Junin,Tigre,1,0,1,0
+1492055,1777163400,435,463,River Plate,Aldosivi,3,1,1,0
+1492050,1777226400,473,1066,Independ. Rivadavia,Gimnasia M.,5,1,1,1
+1492044,1777235400,440,434,Belgrano Cordoba,Gimnasia L.P.,0,1,0,1
+1492052,1777235400,457,478,Newells Old Boys,Instituto Cordoba,1,1,0,0
+1492043,1777244400,455,449,Atletico Tucuman,Banfield,1,1,0,0
+1492057,1777326300,438,441,Velez Sarsfield,Union Santa Fe,2,2,2,1
+1492049,1777334400,445,458,Huracan,Argentinos JRS,1,2,1,1
+1491939,1777741200,2432,449,Barracas Central,Banfield,1,2,1,1
+1491945,1777743000,446,476,Lanus,Deportivo Riestra,0,0,0,0
+1491941,1777749300,1065,451,Central Cordoba de Santiago,Boca Juniors,1,2,0,2
+1491951,1777758300,441,456,Union Santa Fe,Talleres Cordoba,1,1,0,1
+1491950,1777758300,460,453,San Lorenzo,Independiente,1,2,0,1
+1491946,1777767300,1064,450,Platense,Estudiantes L.P.,0,2,0,0
+1491938,1777825800,463,473,Aldosivi,Independ. Rivadavia,1,1,1,1
+1491943,1777834800,434,458,Gimnasia L.P.,Argentinos JRS,2,0,1,0
+1491947,1777834800,436,445,Racing Club,Huracan,0,0,0,0
+1491949,1777834800,437,452,Rosario Central,Tigre,1,1,1,0
+1491940,1777834800,440,474,Belgrano Cordoba,Sarmiento Junin,4,0,2,0
+1491948,1777843800,435,455,River Plate,Atletico Tucuman,0,1,0,1
+1491944,1777924800,1066,442,Gimnasia M.,Defensa Y Justicia,2,1,1,1
+1491952,1777932900,438,457,Velez Sarsfield,Newells Old Boys,1,1,0,0
+1491942,1777941000,2424,478,Estudiantes de Rio Cuarto,Instituto Cordoba,0,2,0,1
+1544176,1778355000,456,440,Talleres Cordoba,Belgrano Cordoba,0,1,0,0
+1544177,1778364000,451,445,Boca Juniors,Huracan,1,1,0,1
+1544179,1778373000,473,441,Independ. Rivadavia,Union Santa Fe,1,2,0,1
+1544178,1778375700,458,446,Argentinos JRS,Lanus,2,0,1,0
+1544180,1778436000,437,453,Rosario Central,Independiente,3,1,1,1
+1544181,1778443200,450,436,Estudiantes L.P.,Racing Club,0,1,0,0
+1544182,1778450400,435,460,River Plate,San Lorenzo,1,1,0,1
+1544183,1778459400,438,434,Velez Sarsfield,Gimnasia L.P.,0,1,0,1
+1544849,1778623200,440,441,Belgrano Cordoba,Union Santa Fe,2,0,0,0
+1544850,1778632200,458,445,Argentinos JRS,Huracan,0,0,0,0
+1544851,1778708700,437,436,Rosario Central,Racing Club,1,1,0,1
+1544852,1778719500,435,434,River Plate,Gimnasia L.P.,2,0,1,0
+1545164,1778970600,435,437,River Plate,Rosario Central,1,0,0,0
+1545165,1779048000,458,440,Argentinos JRS,Belgrano Cordoba,1,1,1,0
+1545443,1779647400,435,440,River Plate,Belgrano Cordoba,2,3,1,1
+1493003,1784845800,440,437,Belgrano Cordoba,Rosario Central,2,1,1,0
+1493015,1784845800,474,458,Sarmiento Junin,Argentinos JRS,2,3,1,0
+1493004,1784853900,442,463,Defensa Y Justicia,Aldosivi,1,1,1,1
+1493008,1784922300,1066,1065,Gimnasia M.,Central Cordoba de Santiago,1,0,0,0
+1493013,1784930400,436,434,Racing Club,Gimnasia L.P.,2,1,1,1
+1493016,1784930400,438,478,Velez Sarsfield,Instituto Cordoba,1,0,1,0
+1493009,1784938500,445,449,Huracan,Banfield,1,0,0,0
+1493012,1784938500,1064,441,Platense,Union Santa Fe,2,2,1,0
+1493007,1785001500,2424,452,Estudiantes de Rio Cuarto,Tigre,1,0,0,0
+1493011,1785009600,457,456,Newells Old Boys,Talleres Cordoba,1,0,0,0
+1493014,1785017700,435,2432,River Plate,Barracas Central,0,1,0,1
+1493010,1785025800,446,460,Lanus,San Lorenzo,1,0,0,0
+1493002,1785088800,455,473,Atletico Tucuman,Independ. Rivadavia,0,0,0,0
+1493006,1785096900,450,453,Estudiantes L.P.,Independiente,0,2,0,0
+1493005,1785105000,476,451,Deportivo Riestra,Boca Juniors,3,0,3,0
+1493018,1785276000,449,474,Banfield,Sarmiento Junin,3,2,0,0
+1493028,1785276000,460,1066,San Lorenzo,Gimnasia M.,1,0,0,0
+1493027,1785284100,437,436,Rosario Central,Racing Club,0,0,0,0
+1493017,1785284100,458,2424,Argentinos JRS,Estudiantes de Rio Cuarto,3,0,1,0
+1493019,1785346200,2432,463,Barracas Central,Aldosivi,1,0,1,0
+1493022,1785355200,442,476,Defensa Y Justicia,Deportivo Riestra,2,1,2,0
+1493023,1785363300,434,435,Gimnasia L.P.,River Plate,1,0,0,0
+1493026,1785371400,478,1064,Instituto Cordoba,Platense,2,1,1,0
+1493029,1785448800,456,438,Talleres Cordoba,Velez Sarsfield,1,3,1,1
+1493025,1785448800,473,445,Independ. Rivadavia,Huracan,2,1,2,0
+1493024,1785456900,453,457,Independiente,Newells Old Boys,1,0,1,0
+1493021,1785456900,1065,455,Central Cordoba de Santiago,Atletico Tucuman,0,2,0,0
+1493038,1785609000,1066,441,Gimnasia M.,Union Santa Fe,2,0,1,0
+1493037,1785609000,2424,449,Estudiantes de Rio Cuarto,Banfield,0,0,0,0
+1493033,1785618000,440,458,Belgrano Cordoba,Argentinos JRS,0,1,0,1
+1493036,1785618000,450,442,Estudiantes L.P.,Defensa Y Justicia,3,0,3,0
+1493043,1785627000,436,452,Racing Club,Tigre,1,3,0,2
+1493032,1785691800,463,434,Aldosivi,Gimnasia L.P.,1,2,0,1
+1493035,1785691800,476,2432,Deportivo Riestra,Barracas Central,0,1,0,0
+1493041,1785700800,457,451,Newells Old Boys,Boca Juniors,2,2,0,1
+1493044,1785708900,435,437,River Plate,Rosario Central,0,1,0,1
+1493040,1785717000,446,478,Lanus,Instituto Cordoba,0,1,0,0
+1493045,1785786300,474,473,Sarmiento Junin,Independ. Rivadavia,2,1,2,1
+1493046,1785794400,438,453,Velez Sarsfield,Independiente,1,0,0,0
+1493042,1785794400,1064,456,Platense,Talleres Cordoba,0,4,0,1
+1493039,1785802500,445,455,Huracan,Atletico Tucuman,0,0,0,0
+1493034,1785802500,1065,460,Central Cordoba de Santiago,San Lorenzo,1,0,1,0
+1493020,1785967200,451,450,Boca Juniors,Estudiantes L.P.,1,0,1,0
+1493030,1785975300,452,440,Tigre,Belgrano Cordoba,0,0,0,0
+1493031,1786053600,441,446,Union Santa Fe,Lanus,2,1,0,0
+1493057,1786141800,437,463,Rosario Central,Aldosivi,2,1,0,0
+1493055,1786149900,473,2424,Independ. Rivadavia,Estudiantes de Rio Cuarto,2,1,0,0
+1493048,1786211100,455,474,Atletico Tucuman,Sarmiento Junin,1,2,0,0
+1493052,1786211100,476,450,Deportivo Riestra,Estudiantes L.P.,2,0,1,0
+1493060,1786219200,452,435,Tigre,River Plate,1,0,0,0
+1493050,1786227300,451,438,Boca Juniors,Velez Sarsfield,1,1,1,1
+1493054,1786235400,453,1064,Independiente,Platense,0,1,0,0
+1493056,1786235400,478,1066,Instituto Cordoba,Gimnasia M.,1,0,0,0
+1493058,1786298400,460,445,San Lorenzo,Huracan,0,2,0,1
+1493053,1786308300,434,2432,Gimnasia L.P.,Barracas Central,2,0,0,0
+1493051,1786308300,442,457,Defensa Y Justicia,Newells Old Boys,2,1,1,0
+1493047,1786317300,458,436,Argentinos JRS,Racing Club,2,1,1,1
+1493049,1786399200,449,440,Banfield,Belgrano Cordoba,0,2,0,0
+1493061,1786407300,441,1065,Union Santa Fe,Central Cordoba de Santiago,1,2,1,0
+1493059,1786492800,456,446,Talleres Cordoba,Lanus,0,3,0,0
+1493072,1786750200,436,449,Racing Club,Banfield,0,1,0,1
+1493074,1786815000,460,441,San Lorenzo,Union Santa Fe,1,0,0,0
+1493062,1786815000,463,452,Aldosivi,Tigre,0,0,0,0
+1493066,1786823100,450,434,Estudiantes L.P.,Gimnasia L.P.,4,0,1,0
+1493064,1786831200,440,473,Belgrano Cordoba,Independ. Rivadavia,2,0,1,0
+1493070,1786831200,457,476,Newells Old Boys,Deportivo Riestra,2,0,0,0
+1493071,1786839300,1064,451,Platense,Boca Juniors,1,1,0,0
+1493075,1786903200,474,445,Sarmiento Junin,Huracan,2,0,1,0
+1493073,1786914000,435,458,River Plate,Argentinos JRS,2,0,1,0
+1493065,1786922100,1065,478,Central Cordoba de Santiago,Instituto Cordoba,0,1,0,0
+1493063,1786922100,2432,437,Barracas Central,Rosario Central,0,1,0,1
+1493067,1786988700,2424,455,Estudiantes de Rio Cuarto,Atletico Tucuman,0,1,0,0
+1493069,1786996800,446,453,Lanus,Independiente,1,3,0,1
+1493076,1787004900,438,442,Velez Sarsfield,Defensa Y Justicia,1,1,1,0
+1493068,1787013000,1066,456,Gimnasia M.,Talleres Cordoba,3,1,2,0
+1493077,1787333400,463,441,Aldosivi,Union Santa Fe,1,3,1,0
+1493081,1787353200,2424,460,Estudiantes de Rio Cuarto,San Lorenzo,0,0,0,0
+1493082,1787425200,434,1066,Gimnasia L.P.,Gimnasia M.,2,3,0,2
+1493078,1787425200,455,478,Atletico Tucuman,Instituto Cordoba,0,0,0,0
+1493084,1787434200,453,473,Independiente,Independ. Rivadavia,0,0,0,0
+1493083,1787443200,445,476,Huracan,Deportivo Riestra,0,0,0,0
+1493086,1787443200,457,449,Newells Old Boys,Banfield,2,1,0,0
+1493089,1787507100,474,450,Sarmiento Junin,Estudiantes L.P.,2,0,1,0
+1493079,1787507100,2432,1064,Barracas Central,Platense,1,2,1,0
+1493080,1787515200,440,442,Belgrano Cordoba,Defensa Y Justicia,1,2,0,1
+1493088,1787523300,435,438,River Plate,Velez Sarsfield,2,2,2,0
+1493087,1787531400,436,451,Racing Club,Boca Juniors,1,1,1,1
+1493091,1787608800,452,1065,Tigre,Central Cordoba de Santiago,2,1,2,0
+1493085,1787616900,446,458,Lanus,Argentinos JRS,1,1,0,0
+1493090,1787616900,456,437,Talleres Cordoba,Rosario Central,2,2,1,0
+1493106,1787954400,441,474,Union Santa Fe,Sarmiento Junin,4,1,1,0
+1493095,1787963400,451,446,Boca Juniors,Lanus,1,0,0,0
+1493097,1788025500,476,438,Deportivo Riestra,Velez Sarsfield,1,1,0,0
+1493103,1788033600,437,434,Rosario Central,Gimnasia L.P.,1,2,0,0
+1493099,1788040800,445,2424,Huracan,Estudiantes de Rio Cuarto,1,1,1,1
+1493093,1788049800,455,440,Atletico Tucuman,Belgrano Cordoba,0,0,0,0
+1493104,1788049800,456,1065,Talleres Cordoba,Central Cordoba de Santiago,0,0,0,0
+1493094,1788112800,449,435,Banfield,River Plate,2,3,0,2
+1493092,1788120000,458,463,Argentinos JRS,Aldosivi,2,1,0,1
+1493100,1788128100,453,1066,Independiente,Gimnasia M.,0,3,0,1
+1493101,1788136200,473,436,Independ. Rivadavia,Racing Club,3,1,1,1
+1493096,1788213600,442,1064,Defensa Y Justicia,Platense,1,0,0,0
+1493098,1788213600,450,457,Estudiantes L.P.,Newells Old Boys,0,0,0,0
+1493105,1788221700,452,2432,Tigre,Barracas Central,0,0,0,0
+1493102,1788221700,478,460,Instituto Cordoba,San Lorenzo,1,0,0,0
+1493111,1788551100,2424,474,Estudiantes de Rio Cuarto,Sarmiento Junin,0,2,0,1
+1493109,1788559200,440,445,Belgrano Cordoba,Huracan,1,1,0,0
+1493115,1788559200,1064,476,Platense,Deportivo Riestra,1,1,1,0
+1493107,1788625800,463,449,Aldosivi,Banfield,3,1,2,0
+1493112,1788629400,434,452,Gimnasia L.P.,Tigre,2,1,1,0
+1493113,1788636600,1066,451,Gimnasia M.,Boca Juniors,2,2,1,2
+1493119,1788645600,460,456,San Lorenzo,Talleres Cordoba,1,0,0,0
+1493121,1788653700,438,450,Velez Sarsfield,Estudiantes L.P.,1,0,1,0
+1493118,1788716700,437,457,Rosario Central,Newells Old Boys,1,1,1,0
+1493114,1788724800,446,442,Lanus,Defensa Y Justicia,1,0,0,0
+1493110,1788724800,1065,453,Central Cordoba de Santiago,Independiente,0,1,0,0
+1493117,1788732900,435,473,River Plate,Independ. Rivadavia,3,1,1,0
+1493116,1788741000,436,455,Racing Club,Atletico Tucuman,1,2,0,1
+1493108,1788818400,2432,458,Barracas Central,Argentinos JRS,0,0,0,0
+1493120,1788826500,441,478,Union Santa Fe,Instituto Cordoba,3,2,1,1
+1493133,1789156800,457,438,Newells Old Boys,Velez Sarsfield,1,1,0,1
+1493126,1789164900,442,1066,Defensa Y Justicia,Gimnasia M.,2,0,1,0
+1493125,1789173000,451,1065,Boca Juniors,Central Cordoba de Santiago,3,1,2,0
+1493128,1789235100,450,1064,Estudiantes L.P.,Platense,2,1,1,1
+1493131,1789235100,473,463,Independ. Rivadavia,Aldosivi,4,3,3,1
+1493123,1789245000,455,435,Atletico Tucuman,River Plate,1,2,0,1
+1493135,1789254000,456,441,Talleres Cordoba,Union Santa Fe,2,1,1,0
+1493136,1789321500,452,437,Tigre,Rosario Central,0,1,0,0
+1493134,1789321500,474,440,Sarmiento Junin,Belgrano Cordoba,1,1,1,0
+1493122,1789329600,458,434,Argentinos JRS,Gimnasia L.P.,1,1,0,1
+1493130,1789337700,453,460,Independiente,San Lorenzo,1,1,1,0
+1493129,1789345800,445,436,Huracan,Racing Club,2,1,0,0
+1493124,1789423200,449,2432,Banfield,Barracas Central,1,1,1,0
+1493127,1789423200,476,446,Deportivo Riestra,Lanus,0,3,0,1
+1493132,1789431300,478,2424,Instituto Cordoba,Estudiantes de Rio Cuarto,2,1,0,0
+1493140,1789765200,1065,442,Central Cordoba de Santiago,Defensa Y Justicia,2,2,0,1
+1493146,1789776900,436,474,Racing Club,Sarmiento Junin,3,1,1,1
+1493141,1789839000,434,449,Gimnasia L.P.,Banfield,2,2,1,1
+1493142,1789839000,1066,476,Gimnasia M.,Deportivo Riestra,0,0,0,0
+1493150,1789847100,441,453,Union Santa Fe,Independiente,1,2,0,0
+1493147,1789855200,435,445,River Plate,Huracan,1,2,0,1
+1493143,1789863300,478,456,Instituto Cordoba,Talleres Cordoba,3,1,0,0
+1493149,1789926300,460,451,San Lorenzo,Boca Juniors,0,2,0,0
+1493148,1789934400,437,458,Rosario Central,Argentinos JRS,1,0,1,0
+1493145,1789934400,1064,457,Platense,Newells Old Boys,0,1,0,1
+1493139,1789942500,440,2424,Belgrano Cordoba,Estudiantes de Rio Cuarto,2,1,0,0
+1493151,1789950600,438,452,Velez Sarsfield,Tigre,3,2,1,0
+1493137,1790011800,463,455,Aldosivi,Atletico Tucuman,1,0,0,0
+1493138,1790028000,2432,473,Barracas Central,Independ. Rivadavia,0,1,0,1
+1493144,1790036100,446,450,Lanus,Estudiantes L.P.,2,1,1,0
+1493161,1790979300,453,478,Independiente,Instituto Cordoba,1,4,1,1
+1493155,1790987400,451,441,Boca Juniors,Union Santa Fe,3,0,1,0
+1493162,1790987400,473,434,Independ. Rivadavia,Gimnasia L.P.,1,1,1,0
+1493156,1791049500,442,460,Defensa Y Justicia,San Lorenzo,3,0,3,0
+1493153,1791057600,455,2432,Atletico Tucuman,Barracas Central,2,3,1,0
+1493163,1791057600,457,446,Newells Old Boys,Lanus,0,0,0,0
+1493160,1791135900,445,463,Huracan,Aldosivi,1,0,1,0
+1493165,1791144000,456,440,Talleres Cordoba,Belgrano Cordoba,0,1,0,0
+1493152,1791152100,458,452,Argentinos JRS,Tigre,2,1,2,0
+1493159,1791160200,2424,436,Estudiantes de Rio Cuarto,Racing Club,1,2,0,2
+1493157,1791229500,476,1065,Deportivo Riestra,Central Cordoba de Santiago,1,1,1,1
+1493166,1791237600,438,1064,Velez Sarsfield,Platense,2,2,1,1
+1493158,1791237600,450,1066,Estudiantes L.P.,Gimnasia M.,3,0,0,0
+1493154,1791245700,449,437,Banfield,Rosario Central,1,1,1,0
+1493167,1791567000,463,474,Aldosivi,Sarmiento Junin,1,3,1,1
+1493170,1791579600,434,455,Gimnasia L.P.,Atletico Tucuman,1,1,0,0
+1493172,1791585000,478,451,Instituto Cordoba,Boca Juniors,2,2,1,1
+1493181,1791593100,441,442,Union Santa Fe,Defensa Y Justicia,0,2,0,2
+1493168,1791657900,2432,445,Barracas Central,Huracan,2,0,1,0
+1493169,1791662400,1065,450,Central Cordoba de Santiago,Estudiantes L.P.,2,2,2,2
+1493180,1791670500,452,449,Tigre,Banfield,1,2,1,2
+1493176,1791678600,435,2424,River Plate,Estudiantes de Rio Cuarto,1,0,1,0
+1493178,1791740700,460,476,San Lorenzo,Deportivo Riestra,1,0,0,0
+1493177,1791748800,437,473,Rosario Central,Independ. Rivadavia,5,0,1,0
+1493174,1791748800,1064,458,Platense,Argentinos JRS,1,1,0,1
+1493175,1791756900,436,440,Racing Club,Belgrano Cordoba,0,2,0,1
+1493179,1791765000,456,453,Talleres Cordoba,Independiente,0,0,0,0
+1493173,1791831600,446,438,Lanus,Velez Sarsfield,2,0,0,0
+1493171,1791840600,1066,457,Gimnasia M.,Newells Old Boys,1,0,0,0
+1493164,1792015200,474,435,Sarmiento Junin,River Plate,1,1,1,0
+1493190,1792105200,445,434,Huracan,Gimnasia L.P.,1,2,0,1
+1493186,1792188000,442,478,Defensa Y Justicia,Instituto Cordoba,0,1,0,1
+1493185,1792197000,451,456,Boca Juniors,Talleres Cordoba,2,1,1,1
+1493183,1792260000,449,458,Banfield,Argentinos JRS,0,1,0,0
+1493191,1792269000,473,452,Independ. Rivadavia,Tigre,2,2,1,1
+1493193,1792269000,1064,446,Platense,Lanus,0,1,0,1
+1493196,1792278000,438,1066,Velez Sarsfield,Gimnasia M.,1,0,0,0
+1493182,1792278000,455,437,Atletico Tucuman,Rosario Central,2,3,2,2
+1493194,1792345500,436,453,Racing Club,Independiente,1,1,1,0
+1493188,1792357200,450,460,Estudiantes L.P.,San Lorenzo,1,2,1,1
+1493189,1792357200,2424,463,Estudiantes de Rio Cuarto,Aldosivi,2,1,0,0
+1493184,1792365300,440,435,Belgrano Cordoba,River Plate,0,3,0,1
+1493192,1792447200,457,1065,Newells Old Boys,Central Cordoba de Santiago,2,1,1,0
+1493195,1792447200,474,2432,Sarmiento Junin,Barracas Central,1,1,1,0
+1493187,1792455300,476,441,Deportivo Riestra,Union Santa Fe,1,1,0,0
+1493202,1792789200,434,474,Gimnasia L.P.,Sarmiento Junin,2,0,1,0
+1493203,1792791000,1066,1064,Gimnasia M.,Platense,1,2,1,0
+1493210,1792800900,452,455,Tigre,Atletico Tucuman,0,1,0,0
+1493199,1792863900,449,446,Banfield,Lanus,1,1,1,0
+1493209,1792872000,456,442,Talleres Cordoba,Defensa Y Justicia,1,2,1,0
+1493208,1792880100,460,457,San Lorenzo,Newells Old Boys,0,0,0,0
+1493207,1792888200,437,445,Rosario Central,Huracan,2,0,1,0
+1493197,1792950300,463,440,Aldosivi,Belgrano Cordoba,1,0,1,0
+1493204,1792958400,453,451,Independiente,Boca Juniors,0,1,0,0
+1493206,1792966500,435,436,River Plate,Racing Club,1,0,1,0
+1493201,1792974600,1065,438,Central Cordoba de Santiago,Velez Sarsfield,0,5,0,2
+1493200,1792974600,2432,2424,Barracas Central,Estudiantes de Rio Cuarto,2,1,0,1
+1493211,1793052000,441,450,Union Santa Fe,Estudiantes L.P.,3,1,0,1
+1493205,1793060100,478,476,Instituto Cordoba,Deportivo Riestra,1,0,0,0
+1493198,1793138400,458,473,Argentinos JRS,Independ. Rivadavia,1,0,0,0
+1493219,1793397600,445,452,Huracan,Tigre,0,2,0,0
+1493218,1793397600,2424,434,Estudiantes de Rio Cuarto,Gimnasia L.P.,1,2,0,2
+1493224,1793405700,436,463,Racing Club,Aldosivi,2,1,1,1
+1493225,1793405700,474,437,Sarmiento Junin,Rosario Central,1,2,1,1
+1493216,1793476800,476,456,Deportivo Riestra,Talleres Cordoba,0,3,0,1
+1493226,1793484900,438,460,Velez Sarsfield,San Lorenzo,2,2,2,1
+1493217,1793493000,450,478,Estudiantes L.P.,Instituto Cordoba,3,3,0,1
+1493214,1793556000,451,435,Boca Juniors,River Plate,1,0,1,0
+1493213,1793568600,440,2432,Belgrano Cordoba,Barracas Central,2,2,1,0
+1493222,1793568600,457,441,Newells Old Boys,Union Santa Fe,1,1,0,0
+1493221,1793576700,446,1066,Lanus,Gimnasia M.,1,1,1,0
+1493215,1793656800,442,453,Defensa Y Justicia,Independiente,1,1,1,1
+1493223,1793656800,1064,1065,Platense,Central Cordoba de Santiago,2,0,0,0
+1493212,1793664900,455,458,Atletico Tucuman,Argentinos JRS,1,2,0,2
+1493220,1793664900,473,449,Independ. Rivadavia,Banfield,3,1,3,1
+1493227,1793901600,463,435,Aldosivi,River Plate,0,2,0,0
+1493233,1793916900,434,440,Gimnasia L.P.,Belgrano Cordoba,2,1,2,1
+1493230,1793988000,2432,436,Barracas Central,Racing Club,2,0,1,0
+1493241,1794003300,441,438,Union Santa Fe,Velez Sarsfield,2,0,2,0
+1493235,1794003300,453,476,Independiente,Deportivo Riestra,2,1,1,0
+1493238,1794003300,460,1064,San Lorenzo,Platense,0,2,0,1
+1493229,1794013200,449,455,Banfield,Atletico Tucuman,2,2,0,2
+1493240,1794013200,452,474,Tigre,Sarmiento Junin,1,0,0,0
+1493239,1794074400,456,450,Talleres Cordoba,Estudiantes L.P.,1,1,0,1
+1493234,1794074400,1066,473,Gimnasia M.,Independ. Rivadavia,1,1,1,0
+1493237,1794083400,437,2424,Rosario Central,Estudiantes de Rio Cuarto,2,0,1,0
+1493231,1794083400,451,442,Boca Juniors,Defensa Y Justicia,1,0,0,0
+1493228,1794083400,458,445,Argentinos JRS,Huracan,0,2,0,2
+1493236,1794099600,478,457,Instituto Cordoba,Newells Old Boys,2,2,1,0

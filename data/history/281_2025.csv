@@ -1,0 +1,333 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1335674,1738958400,2555,2560,Sport Huancayo,Alianza Atletico,2,1,2,0
+1335673,1739037600,2554,2539,FBC Melgar,UTC Cajamarca,3,0,1,0
+1335669,1739045700,2564,2542,Atletico Grau,Ayacucho FC,1,0,1,0
+1335670,1739059200,2553,10013,Alianza Lima,Cusco,3,0,2,0
+1335672,1739124000,2548,2546,Alianza Universidad,Sporting Cristal,2,2,2,2
+1335675,1739131200,2544,22479,Sport Boys,Juan Pablo II College,1,0,0,0
+1335671,1739133000,2558,2540,Comerciantes Unidos,Universitario,1,1,0,0
+1335676,1739142000,2562,10492,Cienciano,ADT,2,2,0,0
+1335677,1739217600,2572,20960,Club Deportivo Los Chankas,Deportivo Garcilaso,2,2,1,1
+1335682,1739572200,10013,2554,Cusco,FBC Melgar,0,1,0,1
+1335681,1739635200,2539,2550,UTC Cajamarca,Deportivo Binacional,0,4,0,0
+1335678,1739642400,10492,2564,ADT,Atletico Grau,4,3,1,1
+1335683,1739651400,2560,2553,Alianza Atletico,Alianza Lima,3,1,0,1
+1335686,1739665800,2540,2562,Universitario,Cienciano,3,2,1,1
+1335680,1739721600,2546,2544,Sporting Cristal,Sport Boys,2,1,1,0
+1335679,1739729700,22479,2555,Juan Pablo II College,Sport Huancayo,0,1,0,0
+1335685,1739737800,20960,2558,Deportivo Garcilaso,Comerciantes Unidos,2,1,1,1
+1335684,1739822400,2542,2548,Ayacucho FC,Alianza Universidad,3,2,2,1
+1340306,1740186000,2553,22479,Alianza Lima,Juan Pablo II College,1,0,1,0
+1340307,1740247200,2558,2572,Comerciantes Unidos,Club Deportivo Los Chankas,1,1,0,0
+1340308,1740254400,2544,2542,Sport Boys,Ayacucho FC,2,1,2,0
+1340309,1740256200,2555,2546,Sport Huancayo,Sporting Cristal,0,1,0,0
+1340310,1740268800,2562,20960,Cienciano,Deportivo Garcilaso,2,3,1,2
+1340311,1740333600,2548,10492,Alianza Universidad,ADT,2,3,2,3
+1340313,1740355200,2554,2560,FBC Melgar,Alianza Atletico,2,1,0,1
+1340314,1740438000,2550,10013,Deportivo Binacional,Cusco,1,2,0,0
+1340323,1740688200,10492,2544,ADT,Sport Boys,2,2,2,1
+1340320,1740772800,20960,2564,Deportivo Garcilaso,Atletico Grau,2,0,0,0
+1340316,1740852000,10013,2539,Cusco,UTC Cajamarca,1,1,1,0
+1340321,1740861000,2560,2550,Alianza Atletico,Deportivo Binacional,4,1,2,0
+1340322,1740877200,2546,2553,Sporting Cristal,Alianza Lima,1,2,1,1
+1340317,1740938400,2542,2555,Ayacucho FC,Sport Huancayo,1,1,1,1
+1340319,1740956400,2540,2548,Universitario,Alianza Universidad,4,0,1,0
+1340331,1741370400,2548,20960,Alianza Universidad,Deportivo Garcilaso,0,0,0,0
+1340329,1741395600,2553,2542,Alianza Lima,Ayacucho FC,2,0,2,0
+1340328,1741456800,2539,2560,UTC Cajamarca,Alianza Atletico,0,0,0,0
+1340330,1741465800,2555,10492,Sport Huancayo,ADT,2,1,1,1
+1340332,1741474800,2554,2546,FBC Melgar,Sporting Cristal,1,0,1,0
+1340327,1741550400,2544,2540,Sport Boys,Universitario,0,2,0,2
+1340324,1741566600,2562,2558,Cienciano,Comerciantes Unidos,3,2,1,1
+1340326,1741636800,2564,2572,Atletico Grau,Club Deportivo Los Chankas,2,1,1,0
+1340325,1741647600,2550,22479,Deportivo Binacional,Juan Pablo II College,2,0,1,0
+1340315,1742760000,2572,2562,Club Deportivo Los Chankas,Cienciano,0,0,0,0
+1340333,1743098400,2558,2564,Comerciantes Unidos,Atletico Grau,2,2,0,1
+1340339,1743107400,2542,2554,Ayacucho FC,FBC Melgar,2,3,2,1
+1340336,1743193800,2560,10013,Alianza Atletico,Cusco,2,4,2,3
+1340338,1743210000,2540,2555,Universitario,Sport Huancayo,3,1,1,0
+1340340,1743271200,10492,2553,ADT,Alianza Lima,3,0,1,0
+1340341,1743280200,2546,2550,Sporting Cristal,Deportivo Binacional,5,0,1,0
+1340334,1743289200,20960,2544,Deportivo Garcilaso,Sport Boys,4,0,1,0
+1340337,1743357600,2572,2548,Club Deportivo Los Chankas,Alianza Universidad,3,1,1,0
+1340335,1743366600,22479,2539,Juan Pablo II College,UTC Cajamarca,4,2,2,0
+1340342,1743805800,2550,2542,Deportivo Binacional,Ayacucho FC,1,1,1,1
+1340343,1743814800,2555,20960,Sport Huancayo,Deportivo Garcilaso,0,3,0,2
+1340344,1743866100,2564,2562,Atletico Grau,Cienciano,1,1,0,1
+1340345,1743884100,2554,10492,FBC Melgar,ADT,4,0,2,0
+1340347,1743897600,2553,2540,Alianza Lima,Universitario,1,1,1,0
+1340346,1743963300,10013,22479,Cusco,Juan Pablo II College,4,2,2,0
+1340350,1743966000,2544,2572,Sport Boys,Club Deportivo Los Chankas,1,1,1,1
+1340349,1743971400,2539,2546,UTC Cajamarca,Sporting Cristal,4,1,3,1
+1340348,1743980400,2548,2558,Alianza Universidad,Comerciantes Unidos,0,2,0,0
+1340359,1744395300,2542,2539,Ayacucho FC,UTC Cajamarca,0,1,0,1
+1340353,1744403400,2572,2555,Club Deportivo Los Chankas,Sport Huancayo,1,3,0,0
+1340352,1744489800,22479,2560,Juan Pablo II College,Alianza Atletico,1,0,1,0
+1340351,1744502400,2562,2548,Cienciano,Alianza Universidad,0,1,0,0
+1340354,1744560000,2546,10013,Sporting Cristal,Cusco,1,0,0,0
+1340356,1744568100,2558,2544,Comerciantes Unidos,Sport Boys,0,4,0,2
+1340358,1744576200,10492,2550,ADT,Deportivo Binacional,1,1,0,1
+1340355,1744588800,2540,2554,Universitario,FBC Melgar,4,1,0,1
+1340357,1744677000,20960,2553,Deportivo Garcilaso,Alianza Lima,0,1,0,0
+1340368,1744938000,2548,2564,Alianza Universidad,Atletico Grau,0,0,0,0
+1340363,1745006400,2554,20960,FBC Melgar,Deportivo Garcilaso,1,2,1,0
+1340365,1745013600,2550,2540,Deportivo Binacional,Universitario,1,3,0,2
+1340364,1745024400,2553,2572,Alianza Lima,Club Deportivo Los Chankas,1,0,0,0
+1340361,1745085600,2544,2562,Sport Boys,Cienciano,2,2,1,2
+1340366,1745094600,2560,2546,Alianza Atletico,Sporting Cristal,1,0,0,0
+1340362,1745107200,10013,2542,Cusco,Ayacucho FC,3,0,1,0
+1340360,1745172900,2539,10492,UTC Cajamarca,ADT,0,1,0,0
+1340367,1745181000,2555,2558,Sport Huancayo,Comerciantes Unidos,4,2,1,0
+1340374,1745690400,2542,2560,Ayacucho FC,Alianza Atletico,0,2,0,1
+1340377,1745710200,20960,2550,Deportivo Garcilaso,Deportivo Binacional,0,1,0,0
+1340376,1745777700,2572,2554,Club Deportivo Los Chankas,FBC Melgar,1,1,0,1
+1340373,1745785800,2564,2544,Atletico Grau,Sport Boys,3,3,1,1
+1340375,1745794800,2540,2539,Universitario,UTC Cajamarca,6,0,2,0
+1340372,1745863200,2546,22479,Sporting Cristal,Juan Pablo II College,3,2,3,1
+1340369,1745872200,10492,10013,ADT,Cusco,2,1,0,1
+1340371,1745884800,2562,2555,Cienciano,Sport Huancayo,2,1,1,0
+1340386,1746145800,2554,2558,FBC Melgar,Comerciantes Unidos,1,1,1,1
+1340381,1746217800,2555,2564,Sport Huancayo,Atletico Grau,3,0,0,0
+1340385,1746232200,2553,2562,Alianza Lima,Cienciano,0,1,0,0
+1340383,1746295200,2539,20960,UTC Cajamarca,Deportivo Garcilaso,2,1,1,1
+1340384,1746304200,22479,2542,Juan Pablo II College,Ayacucho FC,0,0,0,0
+1340382,1746315000,10013,2540,Cusco,Universitario,2,0,1,0
+1340379,1746381600,2544,2548,Sport Boys,Alianza Universidad,4,2,2,0
+1340378,1746390600,2560,10492,Alianza Atletico,ADT,2,0,1,0
+1340380,1746399600,2550,2572,Deportivo Binacional,Club Deportivo Los Chankas,1,2,0,2
+1340390,1746822600,2558,2550,Comerciantes Unidos,Deportivo Binacional,1,1,0,0
+1340387,1746896400,2542,2546,Ayacucho FC,Sporting Cristal,1,4,1,4
+1340391,1746909000,2564,2553,Atletico Grau,Alianza Lima,1,1,1,0
+1340393,1746928800,2562,2554,Cienciano,FBC Melgar,1,2,1,1
+1340395,1746986400,2572,2539,Club Deportivo Los Chankas,UTC Cajamarca,2,1,1,1
+1340394,1746994500,10492,22479,ADT,Juan Pablo II College,2,2,1,0
+1340388,1747002600,20960,10013,Deportivo Garcilaso,Cusco,1,3,0,1
+1340389,1747006200,2540,2560,Universitario,Alianza Atletico,0,1,0,1
+1340392,1747081800,2548,2555,Alianza Universidad,Sport Huancayo,0,1,0,1
+1340404,1747427400,2560,20960,Alianza Atletico,Deportivo Garcilaso,1,0,1,0
+1340396,1747512000,2539,2558,UTC Cajamarca,Comerciantes Unidos,2,0,1,0
+1340397,1747513800,2546,10492,Sporting Cristal,ADT,2,1,1,1
+1340398,1747522800,10013,2572,Cusco,Club Deportivo Los Chankas,3,3,2,2
+1340403,1747592100,2555,2544,Sport Huancayo,Sport Boys,1,0,0,0
+1340402,1747600200,22479,2540,Juan Pablo II College,Universitario,2,0,1,0
+1340399,1747609200,2554,2564,FBC Melgar,Atletico Grau,1,1,1,0
+1340401,1747693800,2550,2562,Deportivo Binacional,Cienciano,1,1,0,0
+1340400,1747702800,2553,2548,Alianza Lima,Alianza Universidad,2,0,1,0
+1340411,1747965600,2540,2546,Universitario,Sporting Cristal,2,0,0,0
+1340413,1748032200,2548,2554,Alianza Universidad,FBC Melgar,1,1,1,0
+1340408,1748048400,2544,2553,Sport Boys,Alianza Lima,0,1,0,0
+1340410,1748109600,2558,10013,Comerciantes Unidos,Cusco,1,2,0,1
+1340406,1748118600,2564,2550,Atletico Grau,Deportivo Binacional,3,0,2,0
+1340412,1748127600,2562,2539,Cienciano,UTC Cajamarca,6,1,5,0
+1340405,1748196000,10492,2542,ADT,Ayacucho FC,0,1,0,1
+1340407,1748214000,20960,22479,Deportivo Garcilaso,Juan Pablo II College,4,0,1,0
+1340409,1748808000,2572,2560,Club Deportivo Los Chankas,Alianza Atletico,1,2,1,1
+1340419,1749758400,2560,2558,Alianza Atletico,Comerciantes Unidos,3,0,2,0
+1340417,1749844800,2539,2564,UTC Cajamarca,Atletico Grau,0,2,0,1
+1340416,1749859200,10013,2562,Cusco,Cienciano,0,0,0,0
+1340415,1749924900,2554,2544,FBC Melgar,Sport Boys,2,1,0,1
+1340414,1749933000,22479,2572,Juan Pablo II College,Club Deportivo Los Chankas,3,0,2,0
+1340418,1749949200,2553,2555,Alianza Lima,Sport Huancayo,0,0,0,0
+1340421,1750003200,2546,20960,Sporting Cristal,Deportivo Garcilaso,3,2,1,0
+1340422,1750017600,2542,2540,Ayacucho FC,Universitario,0,1,0,0
+1340420,1750026600,2550,2548,Deportivo Binacional,Alianza Universidad,1,1,1,1
+1340370,1750291200,2558,2553,Comerciantes Unidos,Alianza Lima,0,1,0,0
+1340430,1750363200,2564,10013,Atletico Grau,Cusco,0,0,0,0
+1340428,1750460400,2548,2539,Alianza Universidad,UTC Cajamarca,1,2,0,2
+1340425,1750471200,2540,10492,Universitario,ADT,5,0,2,0
+1340431,1750528800,2555,2554,Sport Huancayo,FBC Melgar,2,2,0,1
+1340429,1750536900,2572,2546,Club Deportivo Los Chankas,Sporting Cristal,3,1,2,1
+1340423,1750550400,20960,2542,Deportivo Garcilaso,Ayacucho FC,2,1,1,1
+1340427,1750615200,2544,2550,Sport Boys,Deportivo Binacional,3,1,2,1
+1340424,1750623300,2558,22479,Comerciantes Unidos,Juan Pablo II College,3,0,3,0
+1340426,1750631400,2562,2560,Cienciano,Alianza Atletico,3,2,1,2
+1340312,1750896000,2564,2540,Atletico Grau,Universitario,0,2,0,1
+1340437,1751047200,2542,2572,Ayacucho FC,Club Deportivo Los Chankas,1,2,1,2
+1340435,1751055300,22479,2562,Juan Pablo II College,Cienciano,2,2,1,2
+1340440,1751063400,2550,2555,Deportivo Binacional,Sport Huancayo,1,0,1,0
+1340438,1751133600,10492,20960,ADT,Deportivo Garcilaso,0,0,0,0
+1340432,1751141700,2539,2544,UTC Cajamarca,Sport Boys,1,1,0,1
+1340439,1751152500,2554,2553,FBC Melgar,Alianza Lima,0,1,0,0
+1340433,1751212800,2546,2558,Sporting Cristal,Comerciantes Unidos,2,0,0,0
+1340436,1751227200,2560,2564,Alianza Atletico,Atletico Grau,2,1,0,0
+1340434,1751238000,10013,2548,Cusco,Alianza Universidad,4,1,1,0
+1340318,1751486400,22479,2554,Juan Pablo II College,FBC Melgar,1,1,0,1
+1340449,1751652000,2555,2539,Sport Huancayo,UTC Cajamarca,1,0,1,0
+1340448,1751660100,2572,10492,Club Deportivo Los Chankas,ADT,1,1,1,0
+1340445,1751738400,2558,2542,Comerciantes Unidos,Ayacucho FC,0,1,0,0
+1340447,1751746500,2562,2546,Cienciano,Sporting Cristal,1,1,0,0
+1340444,1751754600,2548,2560,Alianza Universidad,Alianza Atletico,2,0,1,0
+1340441,1751763600,2553,2550,Alianza Lima,Deportivo Binacional,5,1,4,1
+1340443,1751824800,2544,10013,Sport Boys,Cusco,1,2,1,0
+1340446,1751832900,2564,22479,Atletico Grau,Juan Pablo II College,2,0,0,0
+1340442,1751841000,20960,2540,Deportivo Garcilaso,Universitario,0,1,0,0
+1340453,1752264000,10492,2558,ADT,Comerciantes Unidos,1,0,0,0
+1340457,1752337800,2550,2554,Deportivo Binacional,FBC Melgar,1,1,0,0
+1340458,1752350400,2539,2553,UTC Cajamarca,Alianza Lima,0,0,0,0
+1340455,1752350400,2540,2572,Universitario,Club Deportivo Los Chankas,0,0,0,0
+1340450,1752352200,2560,2544,Alianza Atletico,Sport Boys,1,0,0,0
+1340451,1752422400,2546,2564,Sporting Cristal,Atletico Grau,2,1,1,1
+1340456,1752430500,2542,2562,Ayacucho FC,Cienciano,1,0,0,0
+1340452,1752438600,22479,2548,Juan Pablo II College,Alianza Universidad,1,0,0,0
+1340454,1752449400,10013,2555,Cusco,Sport Huancayo,3,0,2,0
+1391870,1752868800,2560,2555,Alianza Atletico,Sport Huancayo,0,0,0,0
+1405332,1752883200,20960,2572,Deportivo Garcilaso,Club Deportivo Los Chankas,3,0,1,0
+1391871,1752890400,2540,2558,Universitario,Comerciantes Unidos,3,1,2,1
+1391872,1752948000,2539,2554,UTC Cajamarca,FBC Melgar,1,2,0,1
+1391873,1752956100,10492,2562,ADT,Cienciano,1,0,0,0
+1391874,1752966000,10013,2553,Cusco,Alianza Lima,2,0,0,0
+1391875,1753027200,2546,2548,Sporting Cristal,Alianza Universidad,3,0,2,0
+1391876,1753035300,2542,2564,Ayacucho FC,Atletico Grau,1,2,0,0
+1391877,1753043400,22479,2544,Juan Pablo II College,Sport Boys,3,0,2,0
+1391878,1753473600,2555,22479,Sport Huancayo,Juan Pablo II College,5,1,3,0
+1413026,1753484400,2550,2539,Deportivo Binacional,UTC Cajamarca,0,0,0,0
+1413350,1753552800,2548,2542,Alianza Universidad,Ayacucho FC,1,2,1,0
+1391880,1753561800,2544,2546,Sport Boys,Sporting Cristal,0,2,0,1
+1391881,1753572600,2562,2540,Cienciano,Universitario,1,1,0,0
+1391882,1753639200,2554,10013,FBC Melgar,Cusco,0,2,0,1
+1391883,1753647300,2558,20960,Comerciantes Unidos,Deportivo Garcilaso,0,0,0,0
+1391884,1753657200,2553,2560,Alianza Lima,Alianza Atletico,1,1,0,0
+1399346,1753898400,2542,2544,Ayacucho FC,Sport Boys,0,0,0,0
+1399347,1753906500,2546,2555,Sporting Cristal,Sport Huancayo,5,0,2,0
+1399348,1753984800,10492,2548,ADT,Alianza Universidad,0,3,0,1
+1399349,1753992900,10013,2550,Cusco,Deportivo Binacional,2,0,1,0
+1399350,1754006400,22479,2553,Juan Pablo II College,Alianza Lima,1,2,1,1
+1399351,1754013600,2540,2564,Universitario,Atletico Grau,3,1,2,0
+1399352,1754071200,2572,2558,Club Deportivo Los Chankas,Comerciantes Unidos,3,2,2,2
+1399353,1754079300,2560,2554,Alianza Atletico,FBC Melgar,0,0,0,0
+1399354,1754092800,20960,2562,Deportivo Garcilaso,Cienciano,2,1,1,1
+1402654,1754251200,2555,2542,Sport Huancayo,Ayacucho FC,3,1,2,1
+1402655,1754330400,2539,10013,UTC Cajamarca,Cusco,1,2,1,1
+1402656,1754337600,2544,10492,Sport Boys,ADT,1,0,1,0
+1402657,1754352000,2562,2572,Cienciano,Club Deportivo Los Chankas,3,0,1,0
+1402658,1754413200,2548,2540,Alianza Universidad,Universitario,0,2,0,1
+1402659,1754424000,2554,22479,FBC Melgar,Juan Pablo II College,1,1,1,0
+1402660,1754442000,2553,2546,Alianza Lima,Sporting Cristal,0,0,0,0
+1402661,1754510400,2564,20960,Atletico Grau,Deportivo Garcilaso,1,1,0,0
+1402662,1754519400,2550,2560,Deportivo Binacional,Alianza Atletico,2,0,2,0
+1405749,1754683200,2558,2562,Comerciantes Unidos,Cienciano,1,1,0,0
+1405750,1754762400,2542,2553,Ayacucho FC,Alianza Lima,0,1,0,0
+1429385,1754770500,10492,2555,ADT,Sport Huancayo,1,0,0,0
+1405751,1754782200,2540,2544,Universitario,Sport Boys,1,0,1,0
+1405752,1754841600,2546,2554,Sporting Cristal,FBC Melgar,1,0,1,0
+1410135,1754849700,2572,2564,Club Deportivo Los Chankas,Atletico Grau,3,2,0,1
+1410136,1754857800,22479,2550,Juan Pablo II College,Deportivo Binacional,0,0,0,0
+1405753,1754942400,2560,2539,Alianza Atletico,UTC Cajamarca,2,0,2,0
+1405754,1754956800,20960,2548,Deportivo Garcilaso,Alianza Universidad,1,1,0,0
+1415233,1755288000,2564,2558,Atletico Grau,Comerciantes Unidos,1,2,0,1
+1415234,1755306000,2544,20960,Sport Boys,Deportivo Garcilaso,0,1,0,1
+1415236,1755375300,2539,22479,UTC Cajamarca,Juan Pablo II College,0,0,0,0
+1415237,1755383400,2550,2546,Deportivo Binacional,Sporting Cristal,1,3,0,3
+1415238,1755392400,2553,10492,Alianza Lima,ADT,3,1,0,0
+1415239,1755450000,2555,2540,Sport Huancayo,Universitario,1,1,0,1
+1415240,1755460800,2554,2542,FBC Melgar,Ayacucho FC,2,1,1,0
+1415241,1755473400,10013,2560,Cusco,Alianza Atletico,1,0,1,0
+1415243,1755893700,22479,10013,Juan Pablo II College,Cusco,0,0,0,0
+1415244,1755964800,2546,2539,Sporting Cristal,UTC Cajamarca,2,2,0,1
+1415245,1755972900,2572,2544,Club Deportivo Los Chankas,Sport Boys,2,1,1,0
+1415246,1755981000,2558,2548,Comerciantes Unidos,Alianza Universidad,1,2,0,2
+1415247,1755990000,20960,2555,Deportivo Garcilaso,Sport Huancayo,1,1,1,0
+1415248,1756058400,10492,2554,ADT,FBC Melgar,2,2,0,0
+1416556,1756066500,2562,2564,Cienciano,Atletico Grau,1,0,0,0
+1415249,1756074600,2540,2553,Universitario,Alianza Lima,0,0,0,0
+1415235,1756584000,2548,2572,Alianza Universidad,Club Deportivo Los Chankas,2,1,0,1
+1391879,1756670400,2564,10492,Atletico Grau,ADT,2,0,1,0
+1437436,1757700000,2539,2542,UTC Cajamarca,Ayacucho FC,0,1,0,0
+1437437,1757708100,2555,2572,Sport Huancayo,Club Deportivo Los Chankas,1,2,1,0
+1437438,1757786400,2544,2558,Sport Boys,Comerciantes Unidos,0,1,0,0
+1437439,1757794500,2560,22479,Alianza Atletico,Juan Pablo II College,0,1,0,1
+1437434,1757808000,2553,20960,Alianza Lima,Deportivo Garcilaso,3,4,2,4
+1437435,1757871000,2548,2562,Alianza Universidad,Cienciano,0,3,0,2
+1437433,1757880000,2554,2540,FBC Melgar,Universitario,1,2,1,1
+1437441,1757889000,10013,2546,Cusco,Sporting Cristal,3,2,2,1
+1452022,1758052800,10492,2539,ADT,UTC Cajamarca,3,1,1,0
+1452025,1758132000,2546,2560,Sporting Cristal,Alianza Atletico,0,0,0,0
+1452024,1758140100,2558,2555,Comerciantes Unidos,Sport Huancayo,2,0,0,0
+1452026,1758155400,2562,2544,Cienciano,Sport Boys,2,2,0,1
+1452027,1758218400,2542,10013,Ayacucho FC,Cusco,0,1,0,1
+1452028,1758226500,2564,2548,Atletico Grau,Alianza Universidad,2,0,1,0
+1452029,1758241800,20960,2554,Deportivo Garcilaso,FBC Melgar,1,1,1,0
+1452031,1758412800,2539,2540,UTC Cajamarca,Universitario,1,2,0,1
+1452032,1758477600,2554,2572,FBC Melgar,Club Deportivo Los Chankas,6,1,3,0
+1452033,1758485700,22479,2546,Juan Pablo II College,Sporting Cristal,0,0,0,0
+1452034,1758493800,2555,2562,Sport Huancayo,Cienciano,5,2,3,2
+1452035,1758502800,2553,2558,Alianza Lima,Comerciantes Unidos,4,0,1,0
+1452036,1758571200,2560,2542,Alianza Atletico,Ayacucho FC,3,0,2,0
+1452037,1758586500,10013,10492,Cusco,ADT,0,2,0,1
+1452038,1758587400,2544,2564,Sport Boys,Atletico Grau,1,1,1,1
+1466608,1758830400,2542,22479,Ayacucho FC,Juan Pablo II College,2,1,1,1
+1466609,1758844800,20960,2539,Deportivo Garcilaso,UTC Cajamarca,0,0,0,0
+1466611,1758902400,2548,2544,Alianza Universidad,Sport Boys,2,3,0,2
+1466612,1758910500,10492,2560,ADT,Alianza Atletico,1,0,0,0
+1466613,1758918600,2564,2555,Atletico Grau,Sport Huancayo,3,1,1,0
+1466614,1759003200,2558,2554,Comerciantes Unidos,FBC Melgar,1,1,0,0
+1466615,1759014000,2540,10013,Universitario,Cusco,3,2,2,1
+1466616,1759100400,2562,2553,Cienciano,Alianza Lima,2,1,2,0
+1466618,1759168800,2539,2572,UTC Cajamarca,Club Deportivo Los Chankas,2,0,1,0
+1466619,1759176900,2546,2542,Sporting Cristal,Ayacucho FC,3,0,3,0
+1466620,1759255200,2555,2548,Sport Huancayo,Alianza Universidad,5,1,2,1
+1466621,1759263300,22479,10492,Juan Pablo II College,ADT,1,1,0,0
+1466622,1759278600,10013,20960,Cusco,Deportivo Garcilaso,4,0,1,0
+1466623,1759359600,2560,2540,Alianza Atletico,Universitario,0,2,0,0
+1466624,1759368600,2553,2564,Alianza Lima,Atletico Grau,2,1,0,1
+1466625,1759451400,2554,2562,FBC Melgar,Cienciano,2,0,0,0
+1466626,1759521600,2558,2539,Comerciantes Unidos,UTC Cajamarca,2,1,2,1
+1466627,1759600800,2572,10013,Club Deportivo Los Chankas,Cusco,2,1,1,1
+1466628,1759608900,10492,2546,ADT,Sporting Cristal,3,2,1,2
+1466629,1759622400,2544,2555,Sport Boys,Sport Huancayo,2,1,1,0
+1466631,1759683600,2548,2553,Alianza Universidad,Alianza Lima,2,1,1,1
+1466632,1759694400,2564,2554,Atletico Grau,FBC Melgar,0,0,0,0
+1466633,1759703400,20960,2560,Deportivo Garcilaso,Alianza Atletico,2,4,0,2
+1466634,1759705200,2540,22479,Universitario,Juan Pablo II College,3,0,0,0
+1479783,1760292000,2542,10492,Ayacucho FC,ADT,2,2,1,1
+1479784,1760301000,2560,2572,Alianza Atletico,Club Deportivo Los Chankas,1,0,0,0
+1479785,1760310000,10013,2558,Cusco,Comerciantes Unidos,1,1,0,1
+1479786,1760378400,2539,2562,UTC Cajamarca,Cienciano,0,2,0,0
+1479787,1760386500,22479,20960,Juan Pablo II College,Deportivo Garcilaso,0,1,0,0
+1479788,1760482800,2554,2548,FBC Melgar,Alianza Universidad,2,1,2,0
+1479791,1760662800,2553,2544,Alianza Lima,Sport Boys,3,1,1,1
+1479792,1760810400,2572,22479,Club Deportivo Los Chankas,Juan Pablo II College,1,0,1,0
+1479793,1760818500,2558,2560,Comerciantes Unidos,Alianza Atletico,1,0,1,0
+1479794,1760828400,2562,10013,Cienciano,Cusco,1,2,0,2
+1479795,1760904000,2564,2539,Atletico Grau,UTC Cajamarca,0,2,0,0
+1479796,1760913000,20960,2546,Deportivo Garcilaso,Sporting Cristal,0,1,0,0
+1479798,1760984100,2555,2553,Sport Huancayo,Alianza Lima,1,2,0,1
+1479800,1761001200,2544,2554,Sport Boys,FBC Melgar,1,0,1,0
+1479797,1761009300,2540,2542,Universitario,Ayacucho FC,2,1,1,1
+1479789,1761267600,2546,2540,Sporting Cristal,Universitario,0,1,0,0
+1480997,1761336000,22479,2558,Juan Pablo II College,Comerciantes Unidos,0,1,0,1
+1480998,1761415200,2542,20960,Ayacucho FC,Deportivo Garcilaso,4,2,2,0
+1480999,1761423300,2560,2562,Alianza Atletico,Cienciano,0,1,0,0
+1481000,1761433200,10013,2564,Cusco,Atletico Grau,1,0,0,0
+1481001,1761494400,2546,2572,Sporting Cristal,Club Deportivo Los Chankas,0,1,0,1
+1481002,1761502500,2539,2548,UTC Cajamarca,Alianza Universidad,3,2,0,2
+1481003,1761510600,10492,2540,ADT,Universitario,1,2,1,0
+1481004,1761519600,2554,2555,FBC Melgar,Sport Huancayo,2,0,1,0
+1481005,1761958800,2553,2554,Alianza Lima,FBC Melgar,2,2,1,1
+1481006,1762020000,2572,2542,Club Deportivo Los Chankas,Ayacucho FC,1,0,0,0
+1481007,1762028100,2558,2546,Comerciantes Unidos,Sporting Cristal,1,4,1,1
+1481008,1762038000,20960,10492,Deportivo Garcilaso,ADT,1,0,0,0
+1481009,1762106400,2548,10013,Alianza Universidad,Cusco,2,2,2,2
+1481010,1762115400,2564,2560,Atletico Grau,Alianza Atletico,1,1,1,1
+1481012,1762124400,2544,2539,Sport Boys,UTC Cajamarca,2,2,2,1
+1481011,1762124400,2562,22479,Cienciano,Juan Pablo II College,2,1,0,1
+1481289,1762373700,2572,2553,Club Deportivo Los Chankas,Alianza Lima,1,2,0,1
+1484072,1762538400,10013,2544,Cusco,Sport Boys,3,0,1,0
+1484073,1762546500,2546,2562,Sporting Cristal,Cienciano,2,1,0,1
+1484074,1762567200,2540,20960,Universitario,Deportivo Garcilaso,0,0,0,0
+1484076,1762632900,22479,2564,Juan Pablo II College,Atletico Grau,3,1,2,0
+1484077,1762711200,2539,2555,UTC Cajamarca,Sport Huancayo,0,3,0,0
+1484078,1762719300,2560,2548,Alianza Atletico,Alianza Universidad,2,1,0,1
+1485537,1762804800,10492,2572,ADT,Club Deportivo Los Chankas,1,0,1,0
+1486101,1763323200,2544,2560,Sport Boys,Alianza Atletico,0,1,0,1
+1486103,1763582400,2564,2546,Atletico Grau,Sporting Cristal,1,2,0,1
+1486104,1763843400,2572,2540,Club Deportivo Los Chankas,Universitario,3,1,2,0
+1486105,1763928000,2548,22479,Alianza Universidad,Juan Pablo II College,3,0,2,0
+1486106,1763928000,2553,2539,Alianza Lima,UTC Cajamarca,3,0,2,0
+1486109,1763928000,2555,10013,Sport Huancayo,Cusco,1,2,0,1
+1486108,1763928000,2558,10492,Comerciantes Unidos,ADT,0,0,0,0
+1486107,1763928000,2562,2542,Cienciano,Ayacucho FC,2,1,0,0
+1488225,1764723600,2546,2553,Sporting Cristal,Alianza Lima,1,1,0,0
+1488226,1765069200,2553,2546,Alianza Lima,Sporting Cristal,3,3,3,1
+1489423,1765414800,2546,10013,Sporting Cristal,Cusco,1,0,1,0
+1489424,1765753200,10013,2546,Cusco,Sporting Cristal,2,0,1,0

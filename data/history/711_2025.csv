@@ -1,0 +1,157 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1352565,1740862800,5643,2339,Provincial Osorno,D. Melipilla,3,1,2.0,1.0
+1352568,1740871800,2342,18775,D. Puerto Montt,Municipal Salamanca,4,0,1.0,0.0
+1352566,1740949200,21114,5639,Concón National,General Velásquez,3,0,,
+1352563,1740949200,21117,5646,Santiago City,Trasandino,0,1,0.0,0.0
+1352567,1740958200,5645,15717,San Antonio Unido,Linares Unido,2,1,1.0,0.0
+1352562,1741044600,5636,18776,Deportes Rengo,Provincial Ovalle,1,1,1.0,1.0
+1352570,1741467600,2339,21114,D. Melipilla,Concón National,3,2,2.0,2.0
+1352571,1741467600,2342,5645,D. Puerto Montt,San Antonio Unido,2,2,1.0,1.0
+1352572,1741476600,15717,18779,Linares Unido,Real San Joaquín,1,1,0.0,0.0
+1352575,1741554000,5639,5643,General Velásquez,Provincial Osorno,3,3,1.0,0.0
+1352569,1741563000,5646,18775,Trasandino,Municipal Salamanca,3,1,3.0,0.0
+1352573,1741649400,18776,21117,Provincial Ovalle,Santiago City,0,0,0.0,0.0
+1352577,1742072400,5643,5646,Provincial Osorno,Trasandino,3,1,0.0,0.0
+1352582,1742072400,18779,2342,Real San Joaquín,D. Puerto Montt,1,3,0.0,2.0
+1352576,1742081400,5645,18776,San Antonio Unido,Provincial Ovalle,0,2,0.0,0.0
+1352579,1742158800,5636,2339,Deportes Rengo,D. Melipilla,3,1,3.0,1.0
+1352581,1742158800,21114,15717,Concón National,Linares Unido,0,1,0.0,0.0
+1352580,1742158800,21117,5639,Santiago City,General Velásquez,1,1,1.0,0.0
+1352586,1743195600,5645,18779,San Antonio Unido,Real San Joaquín,1,1,1.0,1.0
+1352583,1743282000,15717,18775,Linares Unido,Municipal Salamanca,0,1,0.0,0.0
+1352589,1743282000,18776,5643,Provincial Ovalle,Provincial Osorno,1,0,0.0,0.0
+1352588,1743368400,2342,5636,D. Puerto Montt,Deportes Rengo,3,0,2.0,0.0
+1352585,1743368400,5639,2339,General Velásquez,D. Melipilla,2,0,1.0,0.0
+1352584,1743377400,5646,21114,Trasandino,Concón National,4,0,1.0,0.0
+1352591,1743876000,5643,21114,Provincial Osorno,Concón National,1,3,0.0,1.0
+1352596,1743885000,5646,2342,Trasandino,D. Puerto Montt,0,2,0.0,2.0
+1352595,1743957000,21117,15717,Santiago City,Linares Unido,2,3,1.0,1.0
+1352590,1743966000,5639,18776,General Velásquez,Provincial Ovalle,1,2,0.0,1.0
+1352592,1743966000,18775,5645,Municipal Salamanca,San Antonio Unido,2,0,1.0,0.0
+1352594,1744061400,5636,18779,Deportes Rengo,Real San Joaquín,1,0,1.0,0.0
+1352597,1744475400,18779,18775,Real San Joaquín,Municipal Salamanca,2,1,0.0,1.0
+1352602,1744484400,2342,5639,D. Puerto Montt,General Velásquez,0,1,0.0,0.0
+1352601,1744493400,5645,5636,San Antonio Unido,Deportes Rengo,2,0,1.0,0.0
+1352600,1744561800,21114,21117,Concón National,Santiago City,5,0,2.0,0.0
+1352599,1744920000,18776,2339,Provincial Ovalle,D. Melipilla,1,2,1.0,0.0
+1352603,1744932600,15717,5643,Linares Unido,Provincial Osorno,1,0,1.0,0.0
+1352608,1745685000,18775,5636,Municipal Salamanca,Deportes Rengo,1,1,0.0,1.0
+1352610,1745694000,2339,2342,D. Melipilla,D. Puerto Montt,1,1,0.0,1.0
+1352605,1745703000,5646,5645,Trasandino,San Antonio Unido,2,1,0.0,0.0
+1352609,1745780400,5639,15717,General Velásquez,Linares Unido,1,1,0.0,0.0
+1352604,1745789400,21114,18776,Concón National,Provincial Ovalle,0,3,0.0,2.0
+1352617,1746289800,5645,5643,San Antonio Unido,Provincial Osorno,1,2,0.0,0.0
+1352611,1746298800,2342,18776,D. Puerto Montt,Provincial Ovalle,2,0,2.0,0.0
+1352614,1746307800,15717,2339,Linares Unido,D. Melipilla,2,1,0.0,1.0
+1352613,1746376200,18779,5646,Real San Joaquín,Trasandino,1,0,1.0,0.0
+1352616,1746385200,18775,5639,Municipal Salamanca,General Velásquez,3,0,1.0,0.0
+1352615,1746394200,5636,21117,Deportes Rengo,Santiago City,1,2,1.0,2.0
+1352623,1746817200,18776,15717,Provincial Ovalle,Linares Unido,1,1,1.0,1.0
+1352621,1746903600,5643,18779,Provincial Osorno,Real San Joaquín,5,0,3.0,0.0
+1352624,1746912600,21114,2342,Concón National,D. Puerto Montt,0,0,0.0,0.0
+1352618,1746990000,2339,18775,D. Melipilla,Municipal Salamanca,1,2,1.0,2.0
+1352622,1746999000,5646,5636,Trasandino,Deportes Rengo,1,2,1.0,1.0
+1352627,1747517400,15717,5646,Linares Unido,Trasandino,3,2,1.0,1.0
+1352607,1747594800,21117,18779,Santiago City,Real San Joaquín,2,1,1.0,1.0
+1352629,1748102400,2342,21117,D. Puerto Montt,Santiago City,5,1,3.0,0.0
+1352631,1748113200,5636,5643,Deportes Rengo,Provincial Osorno,1,2,1.0,1.0
+1352628,1748188800,5645,2339,San Antonio Unido,D. Melipilla,3,2,2.0,0.0
+1352626,1748199600,18775,21114,Municipal Salamanca,Concón National,2,3,0.0,0.0
+1352630,1748208600,18779,5639,Real San Joaquín,General Velásquez,1,2,1.0,0.0
+1352636,1748631600,18776,18779,Provincial Ovalle,Real San Joaquín,0,0,0.0,0.0
+1352633,1748640600,21114,5645,Concón National,San Antonio Unido,0,2,0.0,2.0
+1352637,1748795400,5639,5636,General Velásquez,Deportes Rengo,0,1,0.0,1.0
+1352634,1748804400,2339,5646,D. Melipilla,Trasandino,4,0,3.0,0.0
+1352639,1749313800,18775,18776,Municipal Salamanca,Provincial Ovalle,0,0,0.0,0.0
+1352645,1749322800,21117,5643,Santiago City,Provincial Osorno,1,3,1.0,1.0
+1352640,1749331800,5636,21114,Deportes Rengo,Concón National,0,4,0.0,2.0
+1352644,1749400200,2342,15717,D. Puerto Montt,Linares Unido,1,1,1.0,0.0
+1352642,1749409200,18779,2339,Real San Joaquín,D. Melipilla,0,1,0.0,0.0
+1352643,1749418200,5646,5639,Trasandino,General Velásquez,3,0,2.0,0.0
+1352619,1749927600,21117,5645,Santiago City,San Antonio Unido,1,4,0.0,3.0
+1352649,1750437000,21114,18779,Concón National,Real San Joaquín,3,1,1.0,0.0
+1352651,1750446000,15717,5636,Linares Unido,Deportes Rengo,1,0,1.0,0.0
+1352648,1750523400,18776,5646,Provincial Ovalle,Trasandino,2,0,1.0,0.0
+1352646,1750532400,5643,18775,Provincial Osorno,Municipal Salamanca,3,0,1.0,0.0
+1352650,1750609800,2339,21117,D. Melipilla,Santiago City,3,0,0.0,0.0
+1352647,1750618800,5639,5645,General Velásquez,San Antonio Unido,1,1,0.0,0.0
+1352632,1751733000,21117,18775,Santiago City,Municipal Salamanca,3,2,0.0,1.0
+1352638,1751828400,5643,2342,Provincial Osorno,D. Puerto Montt,0,1,0.0,0.0
+1352658,1752879600,18776,5636,Provincial Ovalle,Deportes Rengo,2,1,1.0,1.0
+1352653,1752940800,18775,2342,Municipal Salamanca,D. Puerto Montt,0,0,0.0,0.0
+1352655,1752951600,15717,5645,Linares Unido,San Antonio Unido,5,4,2.0,1.0
+1352659,1753029000,2339,5643,D. Melipilla,Provincial Osorno,3,0,3.0,0.0
+1352654,1753038000,5639,21114,General Velásquez,Concón National,2,2,1.0,0.0
+1352657,1753047000,5646,21117,Trasandino,Santiago City,2,2,0.0,2.0
+1352666,1753547400,5645,2342,San Antonio Unido,D. Puerto Montt,4,3,1.0,1.0
+1352664,1753556400,5643,5639,Provincial Osorno,General Velásquez,1,1,1.0,1.0
+1352665,1753565400,18779,15717,Real San Joaquín,Linares Unido,0,1,0.0,0.0
+1352661,1753633800,18775,5646,Municipal Salamanca,Trasandino,1,0,1.0,0.0
+1352660,1753642800,21117,18776,Santiago City,Provincial Ovalle,1,2,0.0,1.0
+1352663,1753651800,21114,2339,Concón National,D. Melipilla,0,1,0.0,1.0
+1352669,1754152200,18776,5645,Provincial Ovalle,San Antonio Unido,1,0,0.0,0.0
+1352670,1754161200,2342,18779,D. Puerto Montt,Real San Joaquín,3,0,3.0,0.0
+1352668,1754170200,15717,21114,Linares Unido,Concón National,2,0,2.0,0.0
+1352672,1754238600,2339,5636,D. Melipilla,Deportes Rengo,2,1,1.0,0.0
+1352671,1754247600,5639,21117,General Velásquez,Santiago City,4,1,2.0,0.0
+1352673,1754256600,5646,5643,Trasandino,Provincial Osorno,3,1,1.0,1.0
+1352679,1755284400,18775,15717,Municipal Salamanca,Linares Unido,2,0,0.0,0.0
+1352680,1755293400,5636,2342,Deportes Rengo,D. Puerto Montt,1,3,0.0,0.0
+1352676,1755361800,21114,5646,Concón National,Trasandino,0,1,0.0,1.0
+1352674,1755370800,5643,18776,Provincial Osorno,Provincial Ovalle,2,0,1.0,0.0
+1352675,1755448200,18779,5645,Real San Joaquín,San Antonio Unido,2,3,2.0,1.0
+1352678,1755457200,2339,5639,D. Melipilla,General Velásquez,2,1,2.0,0.0
+1352687,1755966600,21114,5643,Concón National,Provincial Osorno,2,2,0.0,1.0
+1352684,1755975600,15717,21117,Linares Unido,Santiago City,1,0,1.0,0.0
+1352682,1755986400,2342,5646,D. Puerto Montt,Trasandino,5,0,1.0,0.0
+1352681,1756053000,5645,18775,San Antonio Unido,Municipal Salamanca,2,3,1.0,1.0
+1352685,1756062000,18779,5636,Real San Joaquín,Deportes Rengo,2,1,1.0,0.0
+1352686,1756071000,18776,5639,Provincial Ovalle,General Velásquez,2,0,1.0,0.0
+1352693,1756580400,5643,15717,Provincial Osorno,Linares Unido,2,2,1.0,1.0
+1352688,1756656000,2339,18776,D. Melipilla,Provincial Ovalle,1,0,1.0,0.0
+1352692,1757185200,18775,18779,Municipal Salamanca,Real San Joaquín,3,0,2.0,0.0
+1352690,1757194200,5636,5645,Deportes Rengo,San Antonio Unido,1,4,1.0,3.0
+1352689,1757259000,21117,21114,Santiago City,Concón National,4,2,2.0,0.0
+1352694,1757268000,5639,2342,General Velásquez,D. Puerto Montt,0,0,0.0,0.0
+1352697,1757691000,5645,5646,San Antonio Unido,Trasandino,2,5,0.0,2.0
+1352695,1757786400,5636,18775,Deportes Rengo,Municipal Salamanca,0,1,0.0,0.0
+1352698,1757797200,2342,2339,D. Puerto Montt,D. Melipilla,3,2,0.0,1.0
+1352696,1757863800,18776,21114,Provincial Ovalle,Concón National,0,2,0.0,1.0
+1352700,1757881800,15717,5639,Linares Unido,General Velásquez,5,1,1.0,1.0
+1352699,1757881800,18779,21117,Real San Joaquín,Santiago City,2,3,1.0,2.0
+1352706,1759591800,21117,5636,Santiago City,Deportes Rengo,0,1,0.0,1.0
+1352703,1759600800,5643,5645,Provincial Osorno,San Antonio Unido,2,1,1.0,0.0
+1352705,1759609800,5646,18779,Trasandino,Real San Joaquín,1,2,1.0,1.0
+1352707,1759678200,2339,15717,D. Melipilla,Linares Unido,0,0,0.0,0.0
+1352702,1759687200,5639,18775,General Velásquez,Municipal Salamanca,1,0,1.0,0.0
+1352708,1759696200,18776,2342,Provincial Ovalle,D. Puerto Montt,2,4,1.0,2.0
+1352709,1760205600,15717,18776,Linares Unido,Provincial Ovalle,1,0,0.0,0.0
+1352713,1760209200,5645,21117,San Antonio Unido,Santiago City,5,5,1.0,3.0
+1352710,1760283000,2342,21114,D. Puerto Montt,Concón National,4,0,0.0,0.0
+1352712,1760292000,18775,2339,Municipal Salamanca,D. Melipilla,2,2,0.0,1.0
+1352711,1760301000,5636,5646,Deportes Rengo,Trasandino,2,3,1.0,2.0
+1352715,1760382000,18779,5643,Real San Joaquín,Provincial Osorno,2,1,2.0,0.0
+1352716,1761406200,21114,18775,Concón National,Municipal Salamanca,0,2,0.0,1.0
+1352721,1761422400,5646,15717,Trasandino,Linares Unido,0,2,0.0,1.0
+1352722,1761422400,21117,2342,Santiago City,D. Puerto Montt,0,1,0.0,1.0
+1352717,1761492600,2339,5645,D. Melipilla,San Antonio Unido,0,1,0.0,0.0
+1352720,1761501600,5643,5636,Provincial Osorno,Deportes Rengo,6,1,2.0,0.0
+1352719,1761507000,5639,18779,General Velásquez,Real San Joaquín,2,1,2.0,1.0
+1352723,1762624800,18779,18776,Real San Joaquín,Provincial Ovalle,1,0,1.0,0.0
+1352725,1762633800,5646,2339,Trasandino,D. Melipilla,2,4,1.0,2.0
+1352729,1762635600,2342,5643,D. Puerto Montt,Provincial Osorno,2,0,2.0,0.0
+1352726,1762711200,18775,21117,Municipal Salamanca,Santiago City,2,0,1.0,0.0
+1352727,1762720200,5636,5639,Deportes Rengo,General Velásquez,1,1,1.0,0.0
+1352724,1762788600,5645,21114,San Antonio Unido,Concón National,1,3,1.0,2.0
+1352730,1763762400,18776,18775,Provincial Ovalle,Municipal Salamanca,1,1,0.0,0.0
+1352734,1763845200,5643,21117,Provincial Osorno,Santiago City,3,3,1.0,1.0
+1352736,1763854200,15717,2342,Linares Unido,D. Puerto Montt,1,2,1.0,0.0
+1352735,1763854200,21114,5636,Concón National,Deportes Rengo,6,0,3.0,0.0
+1352733,1763931600,2339,18779,D. Melipilla,Real San Joaquín,1,1,1.0,0.0
+1352732,1763931600,5639,5646,General Velásquez,Trasandino,1,0,1.0,0.0
+1352740,1764363600,21117,2339,Santiago City,D. Melipilla,3,4,1.0,1.0
+1352742,1764372600,5636,15717,Deportes Rengo,Linares Unido,1,4,0.0,1.0
+1352737,1764450000,5646,18776,Trasandino,Provincial Ovalle,0,1,0.0,1.0
+1352743,1764450000,18775,5643,Municipal Salamanca,Provincial Osorno,1,1,1.0,0.0
+1352741,1764536400,5645,5639,San Antonio Unido,General Velásquez,2,3,0.0,0.0
+1352738,1764536400,18779,21114,Real San Joaquín,Concón National,0,4,0.0,2.0

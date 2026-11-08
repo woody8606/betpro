@@ -1,0 +1,107 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1631696,1787967000,24949,26426,Acatlan,Guerreros,3,0,1.0,0.0
+1631698,1788039000,15925,26393,Ciervos,Dragones de Oaxaca,0,2,0.0,2.0
+1631699,1788040800,28307,22049,Real Refineros,Artesanos Metepec,1,2,0.0,1.0
+1631700,1788044400,15919,28306,Atlético Saltillo,La Tribu de Cd. Juarez,1,4,0.0,2.0
+1631702,1788048000,28305,28303,Halcones Negros,Delfines Coatzacoalcos,0,0,0.0,0.0
+1631703,1788051600,28308,22055,Vaqueros Reynosa,FC Santiago,1,0,1.0,0.0
+1631697,1788109200,15935,22047,Mineros de Fresnillo,Real Apodaca,0,0,0.0,0.0
+1631704,1788127200,22051,15924,Acambaro,Cañoneros Marina,8,0,4.0,0.0
+1631705,1788566400,22055,26526,FC Santiago,Héroes de Zaci,3,0,1.0,0.0
+1631706,1788570000,28304,15925,Guerreros del Pacifico,Ciervos,2,0,2.0,0.0
+1631708,1788624000,17782,15935,Correcaminos UAT II,Mineros de Fresnillo,0,0,0.0,0.0
+1631709,1788645600,22049,17804,Artesanos Metepec,Calor de San Pedro,3,0,1.0,0.0
+1631710,1788652800,26393,28305,Dragones de Oaxaca,Halcones Negros,2,1,1.0,1.0
+1631711,1788652800,28306,24949,La Tribu de Cd. Juarez,Acatlan,4,0,2.0,0.0
+1631707,1788717600,15924,28307,Cañoneros Marina,Real Refineros,0,1,0.0,1.0
+1631713,1788732000,26426,28308,Guerreros,Vaqueros Reynosa,3,4,2.0,1.0
+1631712,1788732000,28303,22051,Delfines Coatzacoalcos,Acambaro,1,2,0.0,1.0
+1631714,1788735600,22047,15919,Real Apodaca,Atlético Saltillo,2,3,1.0,1.0
+1631717,1789149600,15935,22055,Mineros de Fresnillo,FC Santiago,2,0,0.0,0.0
+1631715,1789176600,24949,22047,Acatlan,Real Apodaca,4,1,1.0,0.0
+1631716,1789236000,15924,28303,Cañoneros Marina,Delfines Coatzacoalcos,1,2,1.0,2.0
+1631719,1789250400,28307,17804,Real Refineros,Calor de San Pedro,0,0,0.0,0.0
+1631720,1789254000,15919,17782,Atlético Saltillo,Correcaminos UAT II,2,0,1.0,0.0
+1631721,1789257600,28305,28304,Halcones Negros,Guerreros del Pacifico,3,0,1.0,0.0
+1631722,1789336800,22051,26393,Acambaro,Dragones de Oaxaca,1,1,1.0,1.0
+1631723,1789336800,26426,28306,Guerreros,La Tribu de Cd. Juarez,2,1,0.0,0.0
+1631724,1789437900,28308,26526,Vaqueros Reynosa,Héroes de Zaci,1,1,0.0,1.0
+1631718,1789581600,15925,22049,Ciervos,Artesanos Metepec,0,3,0.0,1.0
+1631725,1789776000,22055,15919,FC Santiago,Atlético Saltillo,4,1,1.0,1.0
+1631726,1789779600,28304,22051,Guerreros del Pacifico,Acambaro,0,1,0.0,0.0
+1631727,1789833600,15935,26526,Mineros de Fresnillo,Héroes de Zaci,2,0,,
+1631728,1789833600,17782,24949,Correcaminos UAT II,Acatlan,1,1,0.0,0.0
+1631730,1789853400,17804,15925,Calor de San Pedro,Ciervos,4,0,3.0,0.0
+1631729,1789855200,22049,28305,Artesanos Metepec,Halcones Negros,2,1,1.0,1.0
+1631731,1789862400,26393,15924,Dragones de Oaxaca,Cañoneros Marina,3,0,2.0,0.0
+1631732,1789862400,28306,28308,La Tribu de Cd. Juarez,Vaqueros Reynosa,2,1,1.0,0.0
+1631734,1789941600,22047,26426,Real Apodaca,Guerreros,2,0,1.0,0.0
+1631733,1789941600,28303,28307,Delfines Coatzacoalcos,Real Refineros,2,2,1.0,1.0
+1631737,1790359200,28307,15925,Real Refineros,Ciervos,3,3,1.0,2.0
+1631735,1790373600,24949,22055,Acatlan,FC Santiago,1,0,1.0,0.0
+1631736,1790445600,15924,28304,Cañoneros Marina,Guerreros del Pacifico,0,2,0.0,0.0
+1631738,1790460000,15919,26526,Atlético Saltillo,Héroes de Zaci,2,2,1.0,1.0
+1631739,1790467200,28305,17804,Halcones Negros,Calor de San Pedro,7,0,3.0,0.0
+1631740,1790467200,28306,22047,La Tribu de Cd. Juarez,Real Apodaca,3,1,3.0,0.0
+1631742,1790467200,28308,15935,Vaqueros Reynosa,Mineros de Fresnillo,2,1,2.0,0.0
+1631743,1790546400,22051,22049,Acambaro,Artesanos Metepec,2,3,0.0,1.0
+1631744,1790546400,26426,17782,Guerreros,Correcaminos UAT II,3,0,2.0,0.0
+1631741,1790546400,28303,26393,Delfines Coatzacoalcos,Dragones de Oaxaca,3,3,2.0,0.0
+1631695,1790809200,17782,26526,Correcaminos UAT II,Héroes de Zaci,3,0,2.0,0.0
+1631747,1790877600,26526,24949,Héroes de Zaci,Acatlan,0,1,0.0,1.0
+1631753,1790976600,17804,22051,Calor de San Pedro,Acambaro,3,2,2.0,1.0
+1631746,1790989200,28304,28303,Guerreros del Pacifico,Delfines Coatzacoalcos,0,0,0.0,0.0
+1631748,1791043200,17782,28306,Correcaminos UAT II,La Tribu de Cd. Juarez,3,1,2.0,0.0
+1631749,1791046800,15935,15919,Mineros de Fresnillo,Atlético Saltillo,3,0,2.0,0.0
+1631750,1791063000,15925,28305,Ciervos,Halcones Negros,0,5,0.0,3.0
+1631751,1791064800,22049,15924,Artesanos Metepec,Cañoneros Marina,3,0,0.0,0.0
+1631754,1791072000,26393,28307,Dragones de Oaxaca,Real Refineros,3,2,2.0,1.0
+1631752,1791151200,22047,28308,Real Apodaca,Vaqueros Reynosa,1,2,0.0,1.0
+1631745,1791154800,22055,26426,FC Santiago,Guerreros,2,2,1.0,0.0
+1631756,1791655200,15924,17804,Cañoneros Marina,Calor de San Pedro,1,7,1.0,3.0
+1631759,1791667800,28303,22049,Delfines Coatzacoalcos,Artesanos Metepec,1,1,1.0,0.0
+1631755,1791669600,24949,15935,Acatlan,Mineros de Fresnillo,2,4,0.0,3.0
+1631757,1791669600,28307,28305,Real Refineros,Halcones Negros,2,3,2.0,2.0
+1631758,1791676800,28306,22055,La Tribu de Cd. Juarez,FC Santiago,0,2,0.0,0.0
+1631760,1791676800,28308,15919,Vaqueros Reynosa,Atlético Saltillo,2,1,1.0,1.0
+1631763,1791756000,22047,17782,Real Apodaca,Correcaminos UAT II,0,1,0.0,0.0
+1631761,1791756000,22051,15925,Acambaro,Ciervos,5,2,2.0,1.0
+1631764,1791857100,26393,28304,Dragones de Oaxaca,Guerreros del Pacifico,5,1,2.0,0.0
+1631772,1792186200,17804,28303,Calor de San Pedro,Delfines Coatzacoalcos,1,2,0.0,0.0
+1631767,1792256400,15935,26426,Mineros de Fresnillo,Guerreros,0,0,0.0,0.0
+1631768,1792272600,15925,15924,Ciervos,Cañoneros Marina,3,1,2.0,0.0
+1631771,1792274400,15919,24949,Atlético Saltillo,Acatlan,2,3,2.0,2.0
+1631769,1792274400,22049,26393,Artesanos Metepec,Dragones de Oaxaca,0,0,0.0,0.0
+1631770,1792274400,28307,28304,Real Refineros,Guerreros del Pacifico,3,3,1.0,1.0
+1631765,1792281600,22055,22047,FC Santiago,Real Apodaca,3,0,1.0,0.0
+1631773,1792281600,28305,22051,Halcones Negros,Acambaro,0,6,0.0,2.0
+1631766,1792281600,28306,26526,La Tribu de Cd. Juarez,Héroes de Zaci,5,0,,
+1631774,1792281600,28308,17782,Vaqueros Reynosa,Correcaminos UAT II,2,4,2.0,3.0
+1631701,1792618200,17804,28304,Calor de San Pedro,Guerreros del Pacifico,2,4,0.0,2.0
+1631778,1792857600,17782,22051,Correcaminos UAT II,Acambaro,0,2,0.0,0.0
+1631777,1792879200,24949,15925,Acatlan,Ciervos,5,3,2.0,1.0
+1631776,1792886400,26393,26526,Dragones de Oaxaca,Héroes de Zaci,6,0,3.0,0.0
+1631780,1792886400,28306,22049,La Tribu de Cd. Juarez,Artesanos Metepec,2,0,1.0,0.0
+1631781,1792886400,28308,28303,Vaqueros Reynosa,Delfines Coatzacoalcos,0,1,0.0,0.0
+1631784,1792947600,15935,17804,Mineros de Fresnillo,Calor de San Pedro,4,1,3.0,0.0
+1631783,1792965600,22047,28304,Real Apodaca,Guerreros del Pacifico,3,3,2.0,1.0
+1631782,1792965600,26426,28305,Guerreros,Halcones Negros,2,1,1.0,1.0
+1631775,1793066700,22055,28307,FC Santiago,Real Refineros,6,0,3.0,0.0
+1631790,1793395800,17804,17782,Calor de San Pedro,Correcaminos UAT II,1,4,0.0,1.0
+1631785,1793412000,28304,26526,Guerreros del Pacifico,Héroes de Zaci,5,0,1.0,0.0
+1631786,1793469600,15924,24949,Cañoneros Marina,Acatlan,2,4,1.0,2.0
+1631787,1793482200,15925,22055,Ciervos,FC Santiago,0,3,0.0,2.0
+1631792,1793482200,28303,28306,Delfines Coatzacoalcos,La Tribu de Cd. Juarez,3,1,2.0,0.0
+1631788,1793484000,22049,15919,Artesanos Metepec,Atlético Saltillo,4,0,0.0,0.0
+1631789,1793484000,28307,26426,Real Refineros,Guerreros,3,2,1.0,0.0
+1631791,1793491200,26393,15935,Dragones de Oaxaca,Mineros de Fresnillo,2,0,2.0,0.0
+1631793,1793570400,22051,28308,Acambaro,Vaqueros Reynosa,2,2,0.0,0.0
+1631794,1793671500,28305,22047,Halcones Negros,Real Apodaca,1,0,0.0,0.0
+1631796,1794000600,26526,17804,Héroes de Zaci,Calor de San Pedro,0,1,0.0,1.0
+1631795,1794009600,22055,28305,FC Santiago,Halcones Negros,4,0,1.0,0.0
+1631797,1794013200,24949,28307,Acatlan,Real Refineros,1,3,1.0,2.0
+1631798,1794067200,17782,28303,Correcaminos UAT II,Delfines Coatzacoalcos,3,2,,
+1631799,1794070800,15935,22051,Mineros de Fresnillo,Acambaro,3,1,1.0,1.0
+1631800,1794088800,15919,15925,Atlético Saltillo,Ciervos,7,2,2.0,1.0
+1631801,1794099600,28306,15924,La Tribu de Cd. Juarez,Cañoneros Marina,8,0,3.0,0.0
+1631802,1794099600,28308,22049,Vaqueros Reynosa,Artesanos Metepec,0,0,0.0,0.0

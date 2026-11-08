@@ -1,0 +1,307 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1380386,1752854400,336,3487,Jagiellonia,Nieciecza,0,4,0,3
+1380387,1752863400,347,350,Lech Poznan,Cracovia Krakow,1,4,1,2
+1380391,1752929100,6962,345,Widzew Łódź,Zaglebie Lubin,1,0,1,0
+1380392,1752939000,341,346,Wisla Plock,Korona Kielce,2,0,1,0
+1380384,1752948900,3484,3491,GKS Katowice,Raków Częstochowa,0,1,0,0
+1380385,1753015500,340,343,Gornik Zabrze,Lechia Gdansk,2,1,1,0
+1380389,1753025400,14562,344,Motor Lublin,Arka Gdynia,1,0,0,0
+1380390,1753035300,4248,348,Radomiak Radom,Pogon Szczecin,5,1,1,0
+1380394,1753459200,350,3487,Cracovia Krakow,Nieciecza,2,0,1,0
+1380393,1753468200,344,4248,Arka Gdynia,Radomiak Radom,1,1,1,0
+1380399,1753533900,349,340,Piast Gliwice,Gornik Zabrze,0,1,0,0
+1380400,1753543800,348,14562,Pogon Szczecin,Motor Lublin,4,1,2,1
+1380398,1753553700,343,347,Lechia Gdansk,Lech Poznan,3,4,2,0
+1380401,1753620300,3491,341,Raków Częstochowa,Wisla Plock,1,2,1,1
+1380396,1753630200,336,6962,Jagiellonia,Widzew Łódź,3,2,1,1
+1380397,1753640100,346,339,Korona Kielce,Legia Warszawa,0,2,0,1
+1380395,1753722000,3484,345,GKS Katowice,Zaglebie Lubin,2,2,0,2
+1380410,1754064000,345,346,Zaglebie Lubin,Korona Kielce,1,1,0,0
+1380409,1754073000,341,349,Wisla Plock,Piast Gliwice,2,0,1,0
+1380407,1754138700,3487,348,Nieciecza,Pogon Szczecin,1,1,1,0
+1380408,1754148600,6962,3484,Widzew Łódź,GKS Katowice,3,0,1,0
+1380403,1754158500,347,340,Lech Poznan,Gornik Zabrze,2,1,0,0
+1380402,1754225100,350,343,Cracovia Krakow,Lechia Gdansk,2,2,1,1
+1380406,1754235000,4248,3491,Radomiak Radom,Raków Częstochowa,3,1,0,0
+1380404,1754244900,339,344,Legia Warszawa,Arka Gdynia,0,0,0,0
+1380414,1754668800,346,4248,Korona Kielce,Radomiak Radom,3,0,2,0
+1380412,1754677800,340,3487,Gornik Zabrze,Nieciecza,0,1,0,1
+1380411,1754753400,344,348,Arka Gdynia,Pogon Szczecin,2,1,1,1
+1380419,1754763300,6962,341,Widzew Łódź,Wisla Plock,1,1,1,1
+1380413,1754839800,336,350,Jagiellonia,Cracovia Krakow,5,2,1,2
+1380416,1754849700,339,3484,Legia Warszawa,GKS Katowice,3,1,1,0
+1380415,1754931600,343,14562,Lechia Gdansk,Motor Lublin,3,3,2,2
+1380428,1755273600,345,343,Zaglebie Lubin,Lechia Gdansk,6,2,2,1
+1380420,1755282600,350,6962,Cracovia Krakow,Widzew Łódź,1,0,0,0
+1380423,1755348300,14562,349,Motor Lublin,Piast Gliwice,0,0,0,0
+1380421,1755358200,3484,344,GKS Katowice,Arka Gdynia,4,1,2,1
+1380422,1755368100,347,346,Lech Poznan,Korona Kielce,1,1,0,0
+1380424,1755444600,348,340,Pogon Szczecin,Gornik Zabrze,0,3,0,0
+1380425,1755444600,4248,336,Radomiak Radom,Jagiellonia,1,2,1,1
+1380427,1755454500,341,339,Wisla Plock,Legia Warszawa,1,0,1,0
+1380426,1755454500,3487,3491,Nieciecza,Raków Częstochowa,2,3,1,1
+1380434,1755878400,4248,3487,Radomiak Radom,Nieciecza,1,1,1,1
+1380436,1755887400,6962,348,Widzew Łódź,Pogon Szczecin,1,2,1,1
+1380430,1755963000,346,14562,Korona Kielce,Motor Lublin,2,0,0,0
+1380429,1755972900,340,3484,Gornik Zabrze,GKS Katowice,3,0,1,0
+1380433,1756039500,349,350,Piast Gliwice,Cracovia Krakow,0,0,0,0
+1380431,1756049400,343,344,Lechia Gdansk,Arka Gdynia,1,0,0,0
+1380437,1756141200,341,345,Wisla Plock,Zaglebie Lubin,2,1,0,1
+1380438,1756483200,344,341,Arka Gdynia,Wisla Plock,1,0,0,0
+1380440,1756492200,3484,4248,GKS Katowice,Radomiak Radom,3,2,2,2
+1380445,1756557900,3487,346,Nieciecza,Korona Kielce,1,3,1,0
+1380446,1756567800,345,349,Zaglebie Lubin,Piast Gliwice,2,2,1,1
+1380441,1756577700,340,14562,Gornik Zabrze,Motor Lublin,0,1,0,0
+1380442,1756654200,336,343,Jagiellonia,Lechia Gdansk,2,0,2,0
+1380443,1756654200,347,6962,Lech Poznan,Widzew Łódź,2,1,1,0
+1380444,1756664100,348,3491,Pogon Szczecin,Raków Częstochowa,2,0,0,0
+1380439,1756664100,350,339,Cracovia Krakow,Legia Warszawa,2,1,1,0
+1380448,1757692800,343,3484,Lechia Gdansk,GKS Katowice,2,0,1,0
+1380449,1757701800,347,345,Lech Poznan,Zaglebie Lubin,1,2,1,1
+1380447,1757767500,346,348,Korona Kielce,Pogon Szczecin,1,0,1,0
+1380452,1757787300,349,336,Piast Gliwice,Jagiellonia,1,1,0,0
+1380451,1757844900,14562,3487,Motor Lublin,Nieciecza,1,1,1,0
+1380450,1757853900,339,4248,Legia Warszawa,Radomiak Radom,4,1,1,0
+1380454,1757863800,6962,344,Widzew Łódź,Arka Gdynia,2,0,1,0
+1380453,1757955600,3491,340,Raków Częstochowa,Gornik Zabrze,0,1,0,1
+1380457,1758297600,3484,350,GKS Katowice,Cracovia Krakow,0,3,0,2
+1380459,1758306600,341,336,Wisla Plock,Jagiellonia,0,1,0,0
+1380461,1758363300,4248,349,Radomiak Radom,Piast Gliwice,1,0,0,0
+1380456,1758372300,344,346,Arka Gdynia,Korona Kielce,0,0,0,0
+1380463,1758382200,3487,347,Nieciecza,Lech Poznan,0,2,0,1
+1380462,1758392100,3491,339,Raków Częstochowa,Legia Warszawa,1,1,1,1
+1380464,1758449700,345,14562,Zaglebie Lubin,Motor Lublin,2,2,1,0
+1380460,1758458700,348,343,Pogon Szczecin,Lechia Gdansk,3,4,2,1
+1380458,1758468600,340,6962,Gornik Zabrze,Widzew Łódź,3,2,2,1
+1380435,1758732300,3491,347,Raków Częstochowa,Lech Poznan,2,2,0,2
+1380432,1758740400,339,336,Legia Warszawa,Jagiellonia,0,0,0,0
+1380472,1758911400,341,3484,Wisla Plock,GKS Katowice,1,1,1,0
+1380466,1758977100,346,343,Korona Kielce,Lechia Gdansk,3,0,1,0
+1380470,1758987000,349,3487,Piast Gliwice,Nieciecza,4,2,1,2
+1380465,1758996900,350,340,Cracovia Krakow,Gornik Zabrze,1,1,0,0
+1380471,1759054500,6962,3491,Widzew Łódź,Raków Częstochowa,0,1,0,0
+1380467,1759063500,347,336,Lech Poznan,Jagiellonia,2,2,0,1
+1380468,1759073400,339,348,Legia Warszawa,Pogon Szczecin,1,0,1,0
+1380473,1759161600,345,344,Zaglebie Lubin,Arka Gdynia,4,0,4,0
+1380469,1759170600,14562,4248,Motor Lublin,Radomiak Radom,2,2,0,1
+1380478,1759507200,343,341,Lechia Gdansk,Wisla Plock,1,1,1,0
+1380479,1759516200,348,349,Pogon Szczecin,Piast Gliwice,2,1,1,1
+1380482,1759581900,3487,6962,Nieciecza,Widzew Łódź,2,4,1,1
+1380480,1759591800,4248,345,Radomiak Radom,Zaglebie Lubin,3,1,2,0
+1380474,1759601700,344,350,Arka Gdynia,Cracovia Krakow,2,1,1,0
+1380477,1759659300,336,346,Jagiellonia,Korona Kielce,3,1,1,0
+1380481,1759668300,3491,14562,Raków Częstochowa,Motor Lublin,2,0,1,0
+1380475,1759678200,3484,347,GKS Katowice,Lech Poznan,0,1,0,1
+1380476,1759688100,340,339,Gornik Zabrze,Legia Warszawa,3,1,2,0
+1380487,1760716800,14562,3484,Motor Lublin,GKS Katowice,2,5,2,2
+1380489,1760725800,6962,4248,Widzew Łódź,Radomiak Radom,3,2,2,1
+1380485,1760791500,346,340,Korona Kielce,Gornik Zabrze,1,1,1,0
+1380484,1760801400,336,344,Jagiellonia,Arka Gdynia,4,0,1,0
+1380483,1760811300,350,3491,Cracovia Krakow,Raków Częstochowa,2,0,1,0
+1380488,1760868900,349,343,Piast Gliwice,Lechia Gdansk,1,2,0,1
+1380486,1760877900,347,348,Lech Poznan,Pogon Szczecin,2,2,0,1
+1380491,1760887800,345,339,Zaglebie Lubin,Legia Warszawa,3,1,2,0
+1380490,1760979600,341,3487,Wisla Plock,Nieciecza,3,1,3,0
+1380500,1761321600,3487,345,Nieciecza,Zaglebie Lubin,1,1,0,0
+1380496,1761330600,14562,6962,Motor Lublin,Widzew Łódź,3,0,1,0
+1380492,1761396300,344,349,Arka Gdynia,Piast Gliwice,2,1,2,1
+1380497,1761406200,348,350,Pogon Szczecin,Cracovia Krakow,2,1,0,1
+1380493,1761416100,3484,346,GKS Katowice,Korona Kielce,1,0,0,0
+1380499,1761486300,3491,343,Raków Częstochowa,Lechia Gdansk,2,1,1,1
+1380494,1761496200,340,336,Gornik Zabrze,Jagiellonia,2,1,1,1
+1380495,1761506100,339,347,Legia Warszawa,Lech Poznan,0,0,0,0
+1380498,1761588000,4248,341,Radomiak Radom,Wisla Plock,1,1,1,1
+1380507,1761930000,3487,3484,Nieciecza,GKS Katowice,0,3,0,1
+1380506,1761939000,349,346,Piast Gliwice,Korona Kielce,0,0,0,0
+1380502,1762082100,340,344,Gornik Zabrze,Arka Gdynia,5,1,1,0
+1380505,1762091100,347,14562,Lech Poznan,Motor Lublin,2,2,2,2
+1380503,1762101000,336,3491,Jagiellonia,Raków Częstochowa,1,2,0,1
+1380508,1762110900,6962,339,Widzew Łódź,Legia Warszawa,1,1,0,0
+1380509,1762189200,341,348,Wisla Plock,Pogon Szczecin,2,0,1,0
+1380504,1762189200,343,4248,Lechia Gdansk,Radomiak Radom,1,2,0,1
+1380501,1762198200,350,345,Cracovia Krakow,Zaglebie Lubin,0,0,0,0
+1380517,1762534800,4248,350,Radomiak Radom,Cracovia Krakow,3,0,0,0
+1380518,1762543800,345,340,Zaglebie Lubin,Gornik Zabrze,2,0,1,0
+1380513,1762609500,343,6962,Lechia Gdansk,Widzew Łódź,2,1,0,0
+1380515,1762619400,14562,341,Motor Lublin,Wisla Plock,1,1,1,0
+1380511,1762629300,3484,349,GKS Katowice,Piast Gliwice,1,3,0,2
+1380514,1762695900,339,3487,Legia Warszawa,Nieciecza,1,2,0,1
+1380512,1762695900,346,3491,Korona Kielce,Raków Częstochowa,1,4,1,2
+1380516,1762705800,348,336,Pogon Szczecin,Jagiellonia,1,2,1,1
+1380510,1762715700,344,347,Arka Gdynia,Lech Poznan,3,1,0,1
+1380526,1763744400,3487,344,Nieciecza,Arka Gdynia,2,0,1,0
+1380520,1763753400,340,341,Gornik Zabrze,Wisla Plock,1,1,0,0
+1380519,1763819100,350,14562,Cracovia Krakow,Motor Lublin,1,2,0,0
+1380525,1763829000,3491,349,Raków Częstochowa,Piast Gliwice,1,3,0,1
+1380523,1763838900,339,343,Legia Warszawa,Lechia Gdansk,2,2,0,1
+1380522,1763905500,347,4248,Lech Poznan,Radomiak Radom,4,1,1,0
+1380527,1763915400,6962,346,Widzew Łódź,Korona Kielce,1,3,0,2
+1380524,1764007200,348,345,Pogon Szczecin,Zaglebie Lubin,5,1,3,0
+1380533,1764349200,349,6962,Piast Gliwice,Widzew Łódź,0,2,0,1
+1380534,1764358200,4248,340,Radomiak Radom,Gornik Zabrze,4,0,2,0
+1380531,1764423900,343,3487,Lechia Gdansk,Nieciecza,5,1,2,1
+1380530,1764433800,346,350,Korona Kielce,Cracovia Krakow,0,1,0,0
+1380529,1764443700,3484,348,GKS Katowice,Pogon Szczecin,2,0,2,0
+1380528,1764510300,344,3491,Arka Gdynia,Raków Częstochowa,1,4,0,3
+1380536,1764520200,345,336,Zaglebie Lubin,Jagiellonia,0,0,0,0
+1380535,1764530100,341,347,Wisla Plock,Lech Poznan,0,0,0,0
+1380532,1764612000,14562,339,Motor Lublin,Legia Warszawa,1,1,1,1
+1380455,1764864000,341,350,Wisla Plock,Cracovia Krakow,0,0,0,0
+1380540,1764963000,343,340,Lechia Gdansk,Gornik Zabrze,5,2,3,2
+1380537,1765019700,344,14562,Arka Gdynia,Motor Lublin,1,0,0,0
+1380542,1765028700,348,4248,Pogon Szczecin,Radomiak Radom,2,2,2,0
+1380545,1765038600,345,6962,Zaglebie Lubin,Widzew Łódź,2,1,0,1
+1380541,1765048500,349,339,Piast Gliwice,Legia Warszawa,2,0,0,0
+1380544,1765106100,3487,336,Nieciecza,Jagiellonia,2,1,1,1
+1380538,1765115100,350,347,Cracovia Krakow,Lech Poznan,2,2,1,1
+1380543,1765125000,3491,3484,Raków Częstochowa,GKS Katowice,1,0,0,0
+1380539,1765216800,346,341,Korona Kielce,Wisla Plock,1,1,0,1
+1380418,1765719900,3491,345,Raków Częstochowa,Zaglebie Lubin,0,1,0,0
+1380405,1765729800,14562,336,Motor Lublin,Jagiellonia,1,1,1,1
+1380388,1765739700,339,349,Legia Warszawa,Piast Gliwice,0,1,0,0
+1380554,1769792400,345,3484,Zaglebie Lubin,GKS Katowice,0,2,0,1
+1380546,1769867100,340,349,Gornik Zabrze,Piast Gliwice,2,1,1,1
+1380552,1769877000,6962,336,Widzew Łódź,Jagiellonia,1,3,0,1
+1380547,1769886900,347,343,Lech Poznan,Lechia Gdansk,1,3,1,1
+1380549,1769944500,14562,348,Motor Lublin,Pogon Szczecin,2,1,2,1
+1380553,1769953500,341,3491,Wisla Plock,Raków Częstochowa,2,1,1,0
+1380548,1769963400,339,346,Legia Warszawa,Korona Kielce,1,2,0,1
+1380551,1770055200,3487,350,Nieciecza,Cracovia Krakow,0,1,0,0
+1380417,1770147000,349,347,Piast Gliwice,Lech Poznan,1,0,0,0
+1380559,1770397200,346,345,Korona Kielce,Zaglebie Lubin,1,2,1,0
+1380560,1770406200,343,350,Lechia Gdansk,Cracovia Krakow,1,1,1,0
+1380555,1770471900,344,339,Arka Gdynia,Legia Warszawa,2,2,1,0
+1380558,1770481800,336,14562,Jagiellonia,Motor Lublin,4,1,1,1
+1380557,1770491700,340,347,Gornik Zabrze,Lech Poznan,0,1,0,1
+1380562,1770549300,348,3487,Pogon Szczecin,Nieciecza,1,1,1,0
+1380563,1770558300,3491,4248,Raków Częstochowa,Radomiak Radom,0,0,0,0
+1380556,1770568200,3484,6962,GKS Katowice,Widzew Łódź,1,0,1,0
+1380561,1770660000,349,341,Piast Gliwice,Wisla Plock,1,0,0,0
+1380569,1771002000,4248,346,Radomiak Radom,Korona Kielce,0,2,0,2
+1380565,1771011000,3484,339,GKS Katowice,Legia Warszawa,1,1,1,1
+1380564,1771076700,350,336,Cracovia Krakow,Jagiellonia,0,0,0,0
+1380572,1771086600,345,3491,Zaglebie Lubin,Raków Częstochowa,0,0,0,0
+1380571,1771096500,341,6962,Wisla Plock,Widzew Łódź,0,2,0,1
+1380567,1771154100,14562,343,Motor Lublin,Lechia Gdansk,2,3,1,2
+1380568,1771163100,348,344,Pogon Szczecin,Arka Gdynia,1,0,1,0
+1380566,1771173000,347,349,Lech Poznan,Piast Gliwice,3,0,2,0
+1380570,1771264800,3487,340,Nieciecza,Gornik Zabrze,1,1,1,1
+1380579,1771606800,349,14562,Piast Gliwice,Motor Lublin,1,2,0,1
+1380581,1771615800,6962,350,Widzew Łódź,Cracovia Krakow,0,0,0,0
+1380580,1771682400,3491,3487,Raków Częstochowa,Nieciecza,1,0,1,0
+1380574,1771692300,340,348,Gornik Zabrze,Pogon Szczecin,0,1,0,0
+1380578,1771702200,339,341,Legia Warszawa,Wisla Plock,2,1,1,0
+1380573,1771758900,344,3484,Arka Gdynia,GKS Katowice,2,1,2,1
+1380575,1771767900,336,4248,Jagiellonia,Radomiak Radom,1,1,0,0
+1380576,1771777800,346,347,Korona Kielce,Lech Poznan,1,2,0,2
+1380577,1771869600,343,345,Lechia Gdansk,Zaglebie Lubin,0,2,0,2
+1380583,1772211600,350,349,Cracovia Krakow,Piast Gliwice,2,3,1,0
+1380582,1772220600,344,343,Arka Gdynia,Lechia Gdansk,2,2,1,0
+1380588,1772286300,348,6962,Pogon Szczecin,Widzew Łódź,1,0,0,0
+1380587,1772296200,14562,346,Motor Lublin,Korona Kielce,2,0,2,0
+1380584,1772306100,3484,340,GKS Katowice,Gornik Zabrze,3,1,1,1
+1380589,1772363700,3487,4248,Nieciecza,Radomiak Radom,1,1,0,0
+1380585,1772372700,336,339,Jagiellonia,Legia Warszawa,2,2,2,1
+1380586,1772382600,347,3491,Lech Poznan,Raków Częstochowa,4,3,2,2
+1380590,1772474400,345,341,Zaglebie Lubin,Wisla Plock,2,0,1,0
+1380550,1772739000,4248,344,Radomiak Radom,Arka Gdynia,3,1,2,0
+1380592,1772825400,343,336,Lechia Gdansk,Jagiellonia,3,0,1,0
+1380591,1772891100,346,3487,Korona Kielce,Nieciecza,2,1,1,0
+1380595,1772901000,349,345,Piast Gliwice,Zaglebie Lubin,1,3,1,1
+1380598,1772910900,6962,347,Widzew Łódź,Lech Poznan,2,1,1,1
+1380594,1772968500,14562,340,Motor Lublin,Gornik Zabrze,0,0,0,0
+1380596,1772977500,4248,3484,Radomiak Radom,GKS Katowice,0,1,0,1
+1380597,1772987400,3491,348,Raków Częstochowa,Pogon Szczecin,2,0,1,0
+1380593,1772997300,339,350,Legia Warszawa,Cracovia Krakow,1,0,1,0
+1380599,1773079200,341,344,Wisla Plock,Arka Gdynia,0,3,0,0
+1380607,1773421200,3487,14562,Nieciecza,Motor Lublin,1,2,1,2
+1380606,1773430200,4248,339,Radomiak Radom,Legia Warszawa,1,1,1,1
+1380604,1773495900,336,349,Jagiellonia,Piast Gliwice,1,2,0,1
+1380602,1773505800,3484,343,GKS Katowice,Lechia Gdansk,2,0,1,0
+1380601,1773515700,350,341,Cracovia Krakow,Wisla Plock,1,2,0,0
+1380600,1773573300,344,6962,Arka Gdynia,Widzew Łódź,0,0,0,0
+1380608,1773582300,345,347,Zaglebie Lubin,Lech Poznan,0,1,0,1
+1380603,1773592200,340,3491,Gornik Zabrze,Raków Częstochowa,3,1,2,0
+1380605,1773684000,348,346,Pogon Szczecin,Korona Kielce,2,1,0,1
+1380521,1773770400,336,3484,Jagiellonia,GKS Katowice,2,1,2,0
+1380615,1774026000,349,4248,Piast Gliwice,Radomiak Radom,3,1,1,0
+1380614,1774035000,14562,345,Motor Lublin,Zaglebie Lubin,1,0,0,0
+1380609,1774100700,350,3484,Cracovia Krakow,GKS Katowice,1,0,0,0
+1380611,1774110600,343,348,Lechia Gdansk,Pogon Szczecin,2,1,1,1
+1380617,1774120500,336,341,Jagiellonia,Wisla Plock,1,2,1,2
+1380610,1774178100,346,344,Korona Kielce,Arka Gdynia,3,0,3,0
+1380612,1774187100,347,3487,Lech Poznan,Nieciecza,4,1,3,0
+1380616,1774197000,6962,340,Widzew Łódź,Gornik Zabrze,0,0,0,0
+1380613,1774206900,339,3491,Legia Warszawa,Raków Częstochowa,1,1,0,1
+1380619,1775297700,3484,341,GKS Katowice,Wisla Plock,1,0,0,0
+1380625,1775306700,3491,6962,Raków Częstochowa,Widzew Łódź,1,1,0,0
+1380620,1775316600,340,350,Gornik Zabrze,Cracovia Krakow,3,0,1,0
+1380621,1775326500,336,347,Jagiellonia,Lech Poznan,0,0,0,0
+1380626,1775470500,3487,349,Nieciecza,Piast Gliwice,3,2,2,0
+1380624,1775479500,4248,14562,Radomiak Radom,Motor Lublin,1,1,0,1
+1380623,1775489400,348,339,Pogon Szczecin,Legia Warszawa,0,2,0,1
+1380622,1775499300,343,346,Lechia Gdansk,Korona Kielce,4,2,2,0
+1380618,1775581200,344,345,Arka Gdynia,Zaglebie Lubin,3,1,2,0
+1380634,1775836800,341,343,Wisla Plock,Lechia Gdansk,1,0,1,0
+1380628,1775845800,346,336,Korona Kielce,Jagiellonia,1,1,1,1
+1380633,1775911500,6962,3487,Widzew Łódź,Nieciecza,1,0,0,0
+1380635,1775921400,345,4248,Zaglebie Lubin,Radomiak Radom,1,0,1,0
+1380630,1775931300,339,340,Legia Warszawa,Gornik Zabrze,1,1,0,0
+1380627,1775988900,350,344,Cracovia Krakow,Arka Gdynia,2,2,1,1
+1380631,1775997900,14562,3491,Motor Lublin,Raków Częstochowa,1,1,0,0
+1380629,1776007800,347,3484,Lech Poznan,GKS Katowice,3,3,0,1
+1380632,1776099600,349,348,Piast Gliwice,Pogon Szczecin,0,2,0,2
+1380637,1776441600,3484,14562,GKS Katowice,Motor Lublin,3,2,3,1
+1380640,1776450600,339,345,Legia Warszawa,Zaglebie Lubin,1,0,1,0
+1380642,1776516300,4248,6962,Radomiak Radom,Widzew Łódź,2,1,0,0
+1380638,1776526200,340,346,Gornik Zabrze,Korona Kielce,1,0,0,0
+1380641,1776536100,348,347,Pogon Szczecin,Lech Poznan,1,2,0,1
+1380644,1776593700,3487,341,Nieciecza,Wisla Plock,1,3,0,2
+1380643,1776602700,3491,350,Raków Częstochowa,Cracovia Krakow,4,1,2,0
+1380636,1776612600,344,336,Arka Gdynia,Jagiellonia,0,3,0,2
+1380639,1776704400,343,349,Lechia Gdansk,Piast Gliwice,1,1,0,0
+1380653,1777046400,345,3487,Zaglebie Lubin,Nieciecza,1,2,1,0
+1380646,1777055400,336,340,Jagiellonia,Gornik Zabrze,1,2,0,0
+1380647,1777121100,346,3484,Korona Kielce,GKS Katowice,1,1,0,1
+1380648,1777131000,343,3491,Lechia Gdansk,Raków Częstochowa,1,2,1,1
+1380645,1777140900,350,348,Cracovia Krakow,Pogon Szczecin,1,1,0,1
+1380652,1777198500,341,4248,Wisla Plock,Radomiak Radom,0,1,0,0
+1380651,1777207500,6962,14562,Widzew Łódź,Motor Lublin,2,0,1,0
+1380649,1777217400,347,339,Lech Poznan,Legia Warszawa,4,0,4,0
+1380650,1777309200,349,344,Piast Gliwice,Arka Gdynia,4,1,1,0
+1380656,1777649400,346,349,Korona Kielce,Piast Gliwice,1,1,0,0
+1380657,1777660200,339,6962,Legia Warszawa,Widzew Łódź,1,0,0,0
+1380658,1777745700,14562,347,Motor Lublin,Lech Poznan,0,1,0,1
+1380655,1777803300,3484,3487,GKS Katowice,Nieciecza,5,1,3,1
+1380662,1777812300,345,350,Zaglebie Lubin,Cracovia Krakow,0,0,0,0
+1380659,1777822200,348,341,Pogon Szczecin,Wisla Plock,3,0,1,0
+1380660,1777914000,4248,343,Radomiak Radom,Lechia Gdansk,3,1,2,0
+1380668,1778256000,3491,346,Raków Częstochowa,Korona Kielce,2,0,0,0
+1380666,1778265000,347,344,Lech Poznan,Arka Gdynia,1,1,0,0
+1380670,1778330700,6962,343,Widzew Łódź,Lechia Gdansk,3,1,3,0
+1380665,1778340600,336,348,Jagiellonia,Pogon Szczecin,3,2,2,1
+1380664,1778350500,340,345,Gornik Zabrze,Zaglebie Lubin,0,2,0,0
+1380667,1778408100,349,3484,Piast Gliwice,GKS Katowice,0,0,0,0
+1380671,1778417100,341,14562,Wisla Plock,Motor Lublin,0,4,0,2
+1380669,1778427000,3487,339,Nieciecza,Legia Warszawa,0,1,0,1
+1380663,1778518800,350,4248,Cracovia Krakow,Radomiak Radom,0,0,0,0
+1380654,1778688000,344,340,Arka Gdynia,Gornik Zabrze,0,0,0,0
+1380661,1778697000,3491,336,Raków Częstochowa,Jagiellonia,0,2,0,1
+1380680,1778860800,345,348,Zaglebie Lubin,Pogon Szczecin,0,1,0,0
+1380674,1778869800,346,6962,Korona Kielce,Widzew Łódź,1,0,0,0
+1380676,1778935500,14562,350,Motor Lublin,Cracovia Krakow,3,3,1,1
+1380679,1778945400,341,340,Wisla Plock,Gornik Zabrze,0,1,0,0
+1380678,1778955300,4248,347,Radomiak Radom,Lech Poznan,1,3,1,2
+1380677,1779012900,349,3491,Piast Gliwice,Raków Częstochowa,1,3,0,3
+1380673,1779021900,3484,336,GKS Katowice,Jagiellonia,2,2,1,1
+1380675,1779031800,343,339,Lechia Gdansk,Legia Warszawa,1,2,0,1
+1380672,1779123600,344,3487,Arka Gdynia,Nieciecza,2,3,1,1
+1380683,1779550200,336,345,Jagiellonia,Zaglebie Lubin,1,0,1,0
+1380685,1779550200,339,14562,Legia Warszawa,Motor Lublin,4,0,2,0
+1380682,1779550200,340,4248,Gornik Zabrze,Radomiak Radom,6,2,5,0
+1380684,1779550200,347,341,Lech Poznan,Wisla Plock,2,2,1,0
+1380686,1779550200,348,3484,Pogon Szczecin,GKS Katowice,1,1,1,0
+1380681,1779550200,350,346,Cracovia Krakow,Korona Kielce,1,1,1,1
+1380688,1779550200,3487,343,Nieciecza,Lechia Gdansk,3,2,2,0
+1380687,1779550200,3491,344,Raków Częstochowa,Arka Gdynia,3,0,1,0
+1380689,1779550200,6962,349,Widzew Łódź,Piast Gliwice,2,1,1,0

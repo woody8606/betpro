@@ -1,0 +1,96 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1557367,1787338800,42,1346,Arsenal,Coventry,3,0,2,0
+1557368,1787398200,64,33,Hull City,Manchester United,2,0,2,0
+1557369,1787407200,45,52,Everton,Crystal Palace,2,0,1,0
+1557370,1787407200,57,746,Ipswich,Sunderland,2,1,1,1
+1557371,1787407200,65,63,Nottingham Forest,Leeds,0,1,0,0
+1557372,1787416200,55,47,Brentford,Tottenham,3,0,2,0
+1557374,1787490000,50,35,Manchester City,Bournemouth,2,1,0,1
+1557373,1787490000,51,66,Brighton,Aston Villa,4,0,4,0
+1557375,1787499000,34,40,Newcastle,Liverpool,2,2,1,0
+1557376,1787598000,36,49,Fulham,Chelsea,2,3,1,2
+1557381,1787943600,52,50,Crystal Palace,Manchester City,1,4,0,1
+1557383,1788003000,40,65,Liverpool,Nottingham Forest,2,2,0,1
+1557378,1788012000,35,45,Bournemouth,Everton,1,1,1,0
+1557380,1788012000,1346,64,Coventry,Hull City,0,1,0,0
+1557386,1788021000,47,34,Tottenham,Newcastle,0,2,0,0
+1557379,1788094800,49,51,Chelsea,Brighton,4,3,3,1
+1557382,1788094800,63,55,Leeds,Brentford,1,1,0,1
+1557385,1788094800,746,36,Sunderland,Fulham,1,0,0,0
+1557384,1788103800,33,57,Manchester United,Ipswich,5,2,1,1
+1557377,1788202800,66,42,Aston Villa,Arsenal,0,1,0,0
+1557393,1788548400,57,40,Ipswich,Liverpool,0,2,0,2
+1557395,1788607800,34,35,Newcastle,Bournemouth,2,2,1,2
+1557391,1788616800,36,52,Fulham,Crystal Palace,2,3,2,1
+1557394,1788616800,50,1346,Manchester City,Coventry,1,0,1,0
+1557389,1788616800,51,63,Brighton,Leeds,1,1,0,1
+1557388,1788616800,55,746,Brentford,Sunderland,1,1,0,0
+1557396,1788616800,65,47,Nottingham Forest,Tottenham,0,0,0,0
+1557392,1788625800,64,66,Hull City,Aston Villa,0,0,0,0
+1557390,1788699600,45,33,Everton,Manchester United,2,2,0,0
+1557387,1788708600,42,49,Arsenal,Chelsea,2,1,1,1
+1557398,1789221600,35,55,Bournemouth,Brentford,2,2,1,1
+1557403,1789221600,40,36,Liverpool,Fulham,0,0,0,0
+1557399,1789221600,49,64,Chelsea,Hull City,2,2,1,2
+1557401,1789221600,52,57,Crystal Palace,Ipswich,2,3,1,2
+1557397,1789221600,66,65,Aston Villa,Nottingham Forest,1,2,0,0
+1557406,1789230600,47,45,Tottenham,Everton,0,0,0,0
+1557405,1789239600,746,42,Sunderland,Arsenal,0,2,0,0
+1557400,1789304400,1346,51,Coventry,Brighton,0,5,0,1
+1557404,1789313400,33,50,Manchester United,Manchester City,0,1,0,0
+1557402,1789412400,63,34,Leeds,Newcastle,4,1,3,0
+1557408,1789758000,55,49,Brentford,Chelsea,3,0,0,0
+1557416,1789817400,47,66,Tottenham,Aston Villa,2,3,0,1
+1557414,1789826400,34,64,Newcastle,Hull City,2,1,2,0
+1557410,1789826400,45,57,Everton,Ipswich,1,0,1,0
+1557409,1789826400,51,42,Brighton,Arsenal,3,0,2,0
+1557415,1789835400,65,1346,Nottingham Forest,Coventry,0,1,0,0
+1557407,1789909200,35,40,Bournemouth,Liverpool,0,1,0,0
+1557413,1789909200,50,746,Manchester City,Sunderland,5,3,3,2
+1557412,1789909200,63,52,Leeds,Crystal Palace,0,0,0,0
+1557411,1789918200,36,33,Fulham,Manchester United,1,1,0,0
+1557417,1791631800,42,63,Arsenal,Leeds,2,1,0,0
+1557419,1791640800,49,35,Chelsea,Bournemouth,5,1,2,0
+1557423,1791640800,57,36,Ipswich,Fulham,2,1,0,0
+1557418,1791640800,66,55,Aston Villa,Brentford,2,2,1,1
+1557426,1791640800,746,51,Sunderland,Brighton,0,2,0,0
+1557425,1791649800,33,47,Manchester United,Tottenham,1,1,0,0
+1557421,1791723600,52,65,Crystal Palace,Nottingham Forest,3,1,2,1
+1557422,1791723600,64,45,Hull City,Everton,2,2,0,0
+1557424,1791732600,40,50,Liverpool,Manchester City,0,3,0,0
+1557420,1791831600,1346,34,Coventry,Newcastle,4,1,1,0
+1557430,1792236600,45,49,Everton,Chelsea,0,2,0,0
+1557431,1792245600,36,64,Fulham,Hull City,1,0,1,0
+1557433,1792245600,50,57,Manchester City,Ipswich,3,2,2,1
+1557428,1792245600,55,40,Brentford,Liverpool,1,2,0,1
+1557434,1792254600,34,66,Newcastle,Aston Villa,0,1,0,1
+1557427,1792328400,35,746,Bournemouth,Sunderland,2,0,1,0
+1557429,1792328400,51,52,Brighton,Crystal Palace,5,0,3,0
+1557432,1792328400,63,33,Leeds,Manchester United,1,1,0,1
+1557435,1792337400,65,42,Nottingham Forest,Arsenal,0,1,0,0
+1557436,1792436400,47,1346,Tottenham,Coventry,3,1,1,0
+1557443,1792782000,57,65,Ipswich,Nottingham Forest,1,1,1,1
+1557438,1792841400,66,50,Aston Villa,Manchester City,2,1,1,0
+1557437,1792850400,42,45,Arsenal,Everton,2,0,1,0
+1557440,1792850400,1346,36,Coventry,Fulham,0,1,0,0
+1557439,1792859400,49,47,Chelsea,Tottenham,0,2,0,0
+1557445,1792936800,33,35,Manchester United,Bournemouth,0,3,0,2
+1557444,1792936800,40,51,Liverpool,Brighton,2,0,2,0
+1557441,1792936800,52,34,Crystal Palace,Newcastle,0,2,0,0
+1557442,1792936800,64,55,Hull City,Brentford,1,1,1,0
+1557446,1792945800,746,63,Sunderland,Leeds,0,0,0,0
+1557450,1793449800,49,33,Chelsea,Manchester United,2,0,0,0
+1557448,1793458800,35,63,Bournemouth,Leeds,2,0,1,0
+1557454,1793458800,50,51,Manchester City,Brighton,0,1,0,1
+1557449,1793458800,55,65,Brentford,Nottingham Forest,2,0,1,0
+1557452,1793458800,64,57,Hull City,Ipswich,2,2,0,1
+1557451,1793458800,1346,746,Coventry,Sunderland,3,1,2,0
+1557456,1793467800,47,52,Tottenham,Crystal Palace,2,0,1,0
+1557447,1793476800,66,36,Aston Villa,Fulham,1,1,1,0
+1557453,1793550600,40,42,Liverpool,Arsenal,0,1,0,1
+1557455,1793649600,34,45,Newcastle,Everton,0,1,0,0
+1557460,1793995200,45,1346,Everton,Coventry,3,1,0,0
+1557463,1794054600,63,47,Leeds,Tottenham,1,0,0,0
+1557461,1794063600,36,34,Fulham,Newcastle,1,1,0,0
+1557457,1794063600,42,64,Arsenal,Hull City,1,0,0,0
+1557465,1794072600,65,50,Nottingham Forest,Manchester City,3,1,2,0

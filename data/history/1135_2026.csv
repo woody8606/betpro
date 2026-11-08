@@ -1,0 +1,23 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1647076,1793210400,13120,24806,América de Pedrinhas,Caninde,1,6,,
+1647078,1793210400,22820,24818,Olímpico SE,Socorrense,1,2,0.0,1.0
+1647077,1793210400,24810,22819,Flamengo SE,Carmópolis,1,1,1.0,1.0
+1647080,1793296800,15605,10001,Maruinense,Frei Paulistano,2,1,1.0,0.0
+1647079,1793296800,24803,24819,Barra SE,Socorro Sport,0,0,0.0,0.0
+1647081,1793296800,24813,10686,Independente Simão Dias,Estanciano,1,1,0.0,0.0
+1647082,1793448000,24818,24810,Socorrense,Flamengo SE,2,3,0.0,2.0
+1647084,1793469600,22819,13120,Carmópolis,América de Pedrinhas,8,0,3.0,0.0
+1647083,1793469600,24806,22820,Caninde,Olímpico SE,3,3,,
+1647086,1793556000,10001,24803,Frei Paulistano,Barra SE,5,0,2.0,0.0
+1647085,1793556000,10686,15605,Estanciano,Maruinense,1,0,1.0,0.0
+1647087,1793556000,24819,24813,Socorro Sport,Independente Simão Dias,5,0,,
+1647088,1793728800,13120,24818,América de Pedrinhas,Socorrense,0,3,,
+1647089,1793728800,22819,24806,Carmópolis,Caninde,3,0,0.0,0.0
+1647090,1793728800,24810,22820,Flamengo SE,Olímpico SE,1,2,0.0,0.0
+1647092,1793815200,10686,10001,Estanciano,Frei Paulistano,0,2,0.0,1.0
+1647091,1793815200,15605,24819,Maruinense,Socorro Sport,3,1,2.0,1.0
+1647093,1793815200,24813,24803,Independente Simão Dias,Barra SE,0,0,0.0,0.0
+1647094,1794052800,24818,22819,Socorrense,Carmópolis,0,0,0.0,0.0
+1647096,1794074400,22820,13120,Olímpico SE,América de Pedrinhas,3,0,,
+1647095,1794074400,24810,24806,Flamengo SE,Caninde,0,1,,
+1647098,1794074400,24813,10001,Independente Simão Dias,Frei Paulistano,1,6,,

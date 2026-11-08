@@ -1,0 +1,133 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1417064,1757091600,15407,1848,Sheffield United W,Sunderland W,0,4,0,1
+1417065,1757163600,15454,15422,Southampton W,Ipswich Town W,4,0,3,0
+1417066,1757250000,1845,1846,Birmingham City W,Bristol City W,5,1,2,1
+1417067,1757250000,15402,15409,Charlton Athletic W,Crystal Palace W,1,0,0,0
+1417068,1757250000,15450,15515,Nottingham Forest W,Newcastle United W,1,2,0,2
+1417069,1757250000,15452,15403,Portsmouth W,Durham W,0,2,0,2
+1417070,1757847600,15403,15402,Durham W,Charlton Athletic W,1,2,1,0
+1417074,1757854800,1848,1845,Sunderland W,Birmingham City W,1,1,0,0
+1417071,1757854800,15409,15454,Crystal Palace W,Southampton W,4,4,2,2
+1417072,1757854800,15422,15450,Ipswich Town W,Nottingham Forest W,0,1,0,0
+1417073,1757854800,15515,15407,Newcastle United W,Sheffield United W,1,1,0,1
+1417075,1757858400,1846,15452,Bristol City W,Portsmouth W,2,0,1,0
+1417081,1758304800,1848,15403,Sunderland W,Durham W,2,1,0,0
+1417076,1758459600,1845,15515,Birmingham City W,Newcastle United W,4,2,3,0
+1417077,1758459600,15402,15422,Charlton Athletic W,Ipswich Town W,0,0,0,0
+1417078,1758459600,15450,15409,Nottingham Forest W,Crystal Palace W,1,2,0,2
+1417079,1758459600,15452,15407,Portsmouth W,Sheffield United W,1,0,1,0
+1417080,1758459600,15454,1846,Southampton W,Bristol City W,0,1,0,0
+1417082,1758992400,1846,15450,Bristol City W,Nottingham Forest W,1,2,1,0
+1417083,1758992400,15407,1845,Sheffield United W,Birmingham City W,1,2,0,0
+1417084,1759057200,15403,15409,Durham W,Crystal Palace W,1,1,0,0
+1417085,1759057200,15454,1848,Southampton W,Sunderland W,1,1,1,1
+1417086,1759064400,15422,15452,Ipswich Town W,Portsmouth W,3,2,1,1
+1417087,1759064400,15515,15402,Newcastle United W,Charlton Athletic W,0,1,0,0
+1417088,1759665600,15407,15422,Sheffield United W,Ipswich Town W,3,2,2,0
+1417089,1759669200,1845,15454,Birmingham City W,Southampton W,1,2,0,1
+1417090,1759669200,1846,15403,Bristol City W,Durham W,2,1,1,0
+1417093,1759669200,1848,15402,Sunderland W,Charlton Athletic W,0,2,0,1
+1417091,1759669200,15409,15515,Crystal Palace W,Newcastle United W,2,2,0,0
+1417092,1759669200,15450,15452,Nottingham Forest W,Portsmouth W,4,1,0,1
+1417095,1760266800,15403,15450,Durham W,Nottingham Forest W,3,0,3,0
+1417094,1760266800,15409,1848,Crystal Palace W,Sunderland W,1,1,1,1
+1417096,1760274000,15402,15407,Charlton Athletic W,Sheffield United W,1,1,0,1
+1417097,1760274000,15422,1845,Ipswich Town W,Birmingham City W,0,4,0,1
+1417099,1760274000,15452,15454,Portsmouth W,Southampton W,2,5,2,1
+1417098,1760274000,15515,1846,Newcastle United W,Bristol City W,2,2,1,0
+1417100,1762088400,15407,15403,Sheffield United W,Durham W,2,1,1,0
+1417101,1762092000,1845,15402,Birmingham City W,Charlton Athletic W,0,1,0,1
+1417105,1762092000,1848,1846,Sunderland W,Bristol City W,2,4,2,3
+1417102,1762092000,15422,15515,Ipswich Town W,Newcastle United W,1,4,0,1
+1417103,1762092000,15452,15409,Portsmouth W,Crystal Palace W,2,1,1,1
+1417104,1762092000,15454,15450,Southampton W,Nottingham Forest W,2,3,1,1
+1417106,1762689600,15403,15515,Durham W,Newcastle United W,1,1,1,1
+1417107,1762696800,1846,15422,Bristol City W,Ipswich Town W,7,0,4,0
+1417111,1762696800,1848,15452,Sunderland W,Portsmouth W,2,3,1,1
+1417108,1762696800,15402,15454,Charlton Athletic W,Southampton W,2,1,1,0
+1417109,1762696800,15409,15407,Crystal Palace W,Sheffield United W,1,2,0,2
+1417110,1762801200,15450,1845,Nottingham Forest W,Birmingham City W,0,3,0,1
+1417112,1763294400,15454,15403,Southampton W,Durham W,1,1,0,1
+1417113,1763298000,15407,15450,Sheffield United W,Nottingham Forest W,0,0,0,0
+1417114,1763301600,1845,15452,Birmingham City W,Portsmouth W,5,2,2,2
+1417115,1763301600,15402,1846,Charlton Athletic W,Bristol City W,2,0,0,0
+1417116,1763301600,15422,15409,Ipswich Town W,Crystal Palace W,1,2,1,0
+1417117,1763301600,15515,1848,Newcastle United W,Sunderland W,3,1,0,0
+1417118,1765108800,15403,15422,Durham W,Ipswich Town W,1,1,0,0
+1417119,1765116000,1846,15407,Bristol City W,Sheffield United W,4,0,1,0
+1417120,1765116000,15409,1845,Crystal Palace W,Birmingham City W,3,0,1,0
+1417122,1765116000,15450,1848,Nottingham Forest W,Sunderland W,3,1,2,0
+1417123,1765116000,15452,15402,Portsmouth W,Charlton Athletic W,1,1,1,1
+1417121,1765222200,15515,15454,Newcastle United W,Southampton W,1,0,1,0
+1417126,1765998000,1846,15409,Bristol City W,Crystal Palace W,2,3,1,1
+1417124,1766322000,15407,15454,Sheffield United W,Southampton W,0,2,0,1
+1417125,1766325600,1845,15403,Birmingham City W,Durham W,3,0,1,0
+1417129,1766325600,1848,15422,Sunderland W,Ipswich Town W,2,1,0,1
+1417127,1766325600,15402,15450,Charlton Athletic W,Nottingham Forest W,2,1,0,0
+1417128,1766325600,15452,15515,Portsmouth W,Newcastle United W,1,2,0,1
+1417135,1768066200,15454,15452,Southampton W,Portsmouth W,4,0,2,0
+1417134,1768140000,15450,1846,Nottingham Forest W,Bristol City W,2,4,1,2
+1417131,1768244400,15407,15409,Sheffield United W,Crystal Palace W,0,1,0,0
+1417140,1769274900,15452,1845,Portsmouth W,Birmingham City W,0,4,0,2
+1417136,1769342400,15409,15403,Crystal Palace W,Durham W,4,0,0,0
+1417141,1769349600,1848,15454,Sunderland W,Southampton W,1,0,0,0
+1417137,1769349600,15402,15515,Charlton Athletic W,Newcastle United W,2,1,2,0
+1417138,1769349600,15422,1846,Ipswich Town W,Bristol City W,1,1,1,0
+1417139,1769349600,15450,15407,Nottingham Forest W,Sheffield United W,1,0,1,0
+1417142,1769879700,1846,1848,Bristol City W,Sunderland W,3,0,2,0
+1417143,1769947200,15403,15452,Durham W,Portsmouth W,2,1,0,0
+1417144,1769950800,15407,15402,Sheffield United W,Charlton Athletic W,1,1,1,1
+1417145,1769954400,1845,15450,Birmingham City W,Nottingham Forest W,5,1,1,1
+1417147,1769954400,15454,15409,Southampton W,Crystal Palace W,3,1,2,1
+1417146,1769954400,15515,15422,Newcastle United W,Ipswich Town W,1,1,1,1
+1417149,1770552000,15403,1845,Durham W,Birmingham City W,1,1,0,0
+1417150,1770559200,15409,1846,Crystal Palace W,Bristol City W,2,1,1,1
+1417151,1770559200,15450,15402,Nottingham Forest W,Charlton Athletic W,0,2,0,2
+1417152,1770559200,15452,15422,Portsmouth W,Ipswich Town W,1,2,0,1
+1417153,1770559200,15454,15515,Southampton W,Newcastle United W,1,2,0,2
+1417154,1771156800,15402,15403,Charlton Athletic W,Durham W,4,2,3,1
+1417156,1771164000,1846,15454,Bristol City W,Southampton W,0,2,0,1
+1417158,1771164000,15515,15452,Newcastle United W,Portsmouth W,2,0,1,0
+1417155,1771268400,1845,15409,Birmingham City W,Crystal Palace W,1,3,0,2
+1417132,1771441200,15422,15402,Ipswich Town W,Charlton Athletic W,1,1,1,0
+1417130,1771614000,15403,1848,Durham W,Sunderland W,2,3,1,0
+1417159,1773255600,1848,15450,Sunderland W,Nottingham Forest W,1,1,1,0
+1417178,1773255600,15402,15452,Charlton Athletic W,Portsmouth W,0,2,0,2
+1417160,1773511200,15407,15515,Sheffield United W,Newcastle United W,1,1,1,1
+1417161,1773576000,15422,15403,Ipswich Town W,Durham W,2,1,2,0
+1417162,1773583200,15402,1848,Charlton Athletic W,Sunderland W,1,0,1,0
+1417163,1773583200,15409,15450,Crystal Palace W,Nottingham Forest W,1,0,1,0
+1417164,1773583200,15452,1846,Portsmouth W,Bristol City W,2,2,1,1
+1417165,1773583200,15454,1845,Southampton W,Birmingham City W,0,1,0,0
+1417148,1773860400,1848,15407,Sunderland W,Sheffield United W,2,2,0,1
+1417133,1773860400,15515,1845,Newcastle United W,Birmingham City W,2,0,1,0
+1417166,1774180800,15403,15454,Durham W,Southampton W,0,0,0,0
+1417167,1774188000,1845,15407,Birmingham City W,Sheffield United W,2,1,1,1
+1417168,1774188000,1846,15402,Bristol City W,Charlton Athletic W,2,1,1,0
+1417170,1774188000,15450,15422,Nottingham Forest W,Ipswich Town W,2,0,1,0
+1417171,1774188000,15452,1848,Portsmouth W,Sunderland W,0,1,0,1
+1417169,1774198800,15515,15409,Newcastle United W,Crystal Palace W,0,0,0,0
+1417172,1774701000,15407,15452,Sheffield United W,Portsmouth W,2,1,1,0
+1417175,1774701000,15422,15454,Ipswich Town W,Southampton W,1,2,1,1
+1417173,1774789200,1846,1845,Bristol City W,Birmingham City W,0,1,0,0
+1417177,1774789200,1848,15515,Sunderland W,Newcastle United W,1,1,1,0
+1417174,1774789200,15409,15402,Crystal Palace W,Charlton Athletic W,3,2,1,1
+1417176,1774789200,15450,15403,Nottingham Forest W,Durham W,2,1,2,1
+1417181,1775066400,1845,1848,Birmingham City W,Sunderland W,1,0,0,0
+1417179,1775215800,15454,15407,Southampton W,Sheffield United W,5,2,2,1
+1417180,1775386800,15403,1846,Durham W,Bristol City W,2,2,1,1
+1417182,1775394000,15409,15422,Crystal Palace W,Ipswich Town W,1,0,1,0
+1417183,1775394000,15515,15450,Newcastle United W,Nottingham Forest W,1,1,0,1
+1417157,1776880800,15422,15407,Ipswich Town W,Sheffield United W,4,1,1,0
+1417184,1777201200,15403,15407,Durham W,Sheffield United W,2,1,1,0
+1417185,1777208400,1845,15422,Birmingham City W,Ipswich Town W,0,3,0,3
+1417186,1777208400,1846,15515,Bristol City W,Newcastle United W,2,1,1,1
+1417189,1777208400,1848,15409,Sunderland W,Crystal Palace W,1,2,0,2
+1417187,1777208400,15452,15450,Portsmouth W,Nottingham Forest W,0,1,0,1
+1417188,1777215600,15454,15402,Southampton W,Charlton Athletic W,2,2,1,0
+1417190,1777730400,15402,1845,Charlton Athletic W,Birmingham City W,0,2,0,1
+1417195,1777730400,15407,1846,Sheffield United W,Bristol City W,0,4,0,2
+1417191,1777730400,15409,15452,Crystal Palace W,Portsmouth W,6,1,1,1
+1417192,1777730400,15422,1848,Ipswich Town W,Sunderland W,2,1,1,0
+1417194,1777730400,15450,15454,Nottingham Forest W,Southampton W,0,3,0,2
+1417193,1777730400,15515,15403,Newcastle United W,Durham W,0,1,0,1

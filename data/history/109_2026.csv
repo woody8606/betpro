@@ -1,0 +1,135 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1561592,1784908800,6964,6951,Znicz Pruszków,Resovia Rzeszów,1,0,0,0
+1561591,1784970900,12834,12900,Podhale Nowy Targ,Śląsk Wrocław II,3,1,2,0
+1561590,1784977200,6944,6958,Legia Warszawa II,Stal Stalowa Wola,0,2,0,0
+1561594,1784995200,12902,6941,Świt Skolwin,Górnik Łęczna,2,3,1,2
+1561595,1784998800,13843,16255,Zawisza Bydgoszcz,Sokół Kleczew,1,1,0,0
+1561593,1784999400,3492,6942,Sandecja Nowy Sącz,Hutnik Kraków,0,0,0,0
+1561596,1785002400,14143,6950,Lechia Zielona Góra,Rekord Bielsko-Biała,1,1,0,0
+1561588,1785074400,16264,4247,Avia Świdnik,Olimpia Grudziądz,4,1,1,1
+1561589,1785087000,3482,3495,Chojniczanka Chojnice,Tychy 71,0,1,0,1
+1561602,1785513600,6964,6944,Znicz Pruszków,Legia Warszawa II,2,1,0,0
+1561605,1785522600,6958,3495,Stal Stalowa Wola,Tychy 71,1,2,0,0
+1561598,1785596400,6942,12902,Hutnik Kraków,Świt Skolwin,3,0,2,0
+1561599,1785596400,16255,12834,Sokół Kleczew,Podhale Nowy Targ,0,0,0,0
+1561600,1785600000,6941,16264,Górnik Łęczna,Avia Świdnik,0,1,0,0
+1561603,1785600000,6951,12900,Resovia Rzeszów,Śląsk Wrocław II,1,5,0,3
+1561601,1785607200,14143,4247,Lechia Zielona Góra,Olimpia Grudziądz,2,2,1,1
+1561597,1785673800,6950,13843,Rekord Bielsko-Biała,Zawisza Bydgoszcz,3,0,0,0
+1561604,1785691800,3492,3482,Sandecja Nowy Sącz,Chojniczanka Chojnice,3,0,1,0
+1561610,1786186800,12834,6942,Podhale Nowy Targ,Hutnik Kraków,2,5,1,2
+1561607,1786201200,6950,6958,Rekord Bielsko-Biała,Stal Stalowa Wola,3,1,2,0
+1561613,1786204800,13843,6951,Zawisza Bydgoszcz,Resovia Rzeszów,1,0,1,0
+1561614,1786212000,14143,16255,Lechia Zielona Góra,Sokół Kleczew,6,1,2,1
+1561609,1786273200,6944,12902,Legia Warszawa II,Świt Skolwin,5,0,1,0
+1561606,1786278600,16264,3492,Avia Świdnik,Sandecja Nowy Sącz,3,0,1,0
+1561608,1786287600,3482,6964,Chojniczanka Chojnice,Znicz Pruszków,1,4,0,2
+1561611,1786289400,12900,6941,Śląsk Wrocław II,Górnik Łęczna,2,0,1,0
+1561612,1786296600,3495,4247,Tychy 71,Olimpia Grudziądz,1,1,1,0
+1561617,1786723200,6941,12834,Górnik Łęczna,Podhale Nowy Targ,5,2,3,0
+1561620,1786788000,12900,3482,Śląsk Wrocław II,Chojniczanka Chojnice,1,2,1,0
+1561621,1786806000,12902,3492,Świt Skolwin,Sandecja Nowy Sącz,0,1,0,1
+1561616,1786806000,16255,6950,Sokół Kleczew,Rekord Bielsko-Biała,3,0,3,0
+1561619,1786813200,6951,3495,Resovia Rzeszów,Tychy 71,2,2,1,1
+1561618,1786874400,6964,4247,Znicz Pruszków,Olimpia Grudziądz,0,1,0,0
+1561623,1786878000,13843,14143,Zawisza Bydgoszcz,Lechia Zielona Góra,2,1,1,0
+1561615,1786888800,6942,6944,Hutnik Kraków,Legia Warszawa II,2,0,2,0
+1561622,1786901400,6958,16264,Stal Stalowa Wola,Avia Świdnik,4,0,1,0
+1561630,1787328000,3492,6941,Sandecja Nowy Sącz,Górnik Łęczna,1,1,0,1
+1561626,1787337000,3482,6958,Chojniczanka Chojnice,Stal Stalowa Wola,2,0,1,0
+1561628,1787392800,12834,6951,Podhale Nowy Targ,Resovia Rzeszów,1,1,0,0
+1561624,1787396400,16264,13843,Avia Świdnik,Zawisza Bydgoszcz,1,4,1,1
+1561629,1787409000,6964,12902,Znicz Pruszków,Świt Skolwin,1,1,1,1
+1561627,1787479200,6944,16255,Legia Warszawa II,Sokół Kleczew,6,1,2,1
+1561632,1787488200,14143,6942,Lechia Zielona Góra,Hutnik Kraków,1,1,0,1
+1561625,1787495400,6950,4247,Rekord Bielsko-Biała,Olimpia Grudziądz,1,2,1,1
+1561631,1787506200,3495,12900,Tychy 71,Śląsk Wrocław II,3,0,0,0
+1561638,1787941800,6951,3492,Resovia Rzeszów,Sandecja Nowy Sącz,0,3,0,1
+1561639,1787999400,12900,6964,Śląsk Wrocław II,Znicz Pruszków,2,3,1,2
+1561633,1788006600,16264,14143,Avia Świdnik,Lechia Zielona Góra,1,3,0,0
+1561635,1788012000,16255,3482,Sokół Kleczew,Chojniczanka Chojnice,1,1,0,1
+1561634,1788015600,6942,6958,Hutnik Kraków,Stal Stalowa Wola,2,1,2,1
+1561637,1788022800,4247,12834,Olimpia Grudziądz,Podhale Nowy Targ,1,3,0,2
+1561641,1788027300,13843,6944,Zawisza Bydgoszcz,Legia Warszawa II,4,1,1,0
+1561640,1788093000,12902,3495,Świt Skolwin,Tychy 71,1,1,1,1
+1561636,1788111000,6941,6950,Górnik Łęczna,Rekord Bielsko-Biała,1,0,0,0
+1561648,1788537600,6958,13843,Stal Stalowa Wola,Zawisza Bydgoszcz,3,3,1,1
+1561645,1788602400,12834,3492,Podhale Nowy Targ,Sandecja Nowy Sącz,2,1,1,1
+1561643,1788606000,16255,6941,Sokół Kleczew,Górnik Łęczna,0,4,0,0
+1561642,1788620400,3482,6951,Chojniczanka Chojnice,Resovia Rzeszów,2,2,1,2
+1561650,1788631200,14143,12902,Lechia Zielona Góra,Świt Skolwin,1,4,0,1
+1561644,1788688800,6944,6950,Legia Warszawa II,Rekord Bielsko-Biała,1,2,0,1
+1561647,1788688800,12900,4247,Śląsk Wrocław II,Olimpia Grudziądz,0,1,0,0
+1561646,1788697800,6964,6942,Znicz Pruszków,Hutnik Kraków,4,2,1,2
+1561649,1788715800,3495,16264,Tychy 71,Avia Świdnik,1,0,0,0
+1561654,1789120800,16255,4247,Sokół Kleczew,Olimpia Grudziądz,1,1,1,1
+1561657,1789140600,6951,14143,Resovia Rzeszów,Lechia Zielona Góra,0,1,0,1
+1561656,1789142400,6964,3495,Znicz Pruszków,Tychy 71,1,1,1,1
+1561655,1789214400,12834,6958,Podhale Nowy Targ,Stal Stalowa Wola,5,0,3,0
+1561652,1789215300,6942,13843,Hutnik Kraków,Zawisza Bydgoszcz,1,1,1,1
+1561659,1789225200,12902,3482,Świt Skolwin,Chojniczanka Chojnice,1,5,1,2
+1561653,1789228800,6941,6944,Górnik Łęczna,Legia Warszawa II,4,1,0,1
+1561651,1789302600,16264,6950,Avia Świdnik,Rekord Bielsko-Biała,0,1,0,1
+1561658,1789320600,3492,12900,Sandecja Nowy Sącz,Śląsk Wrocław II,4,2,2,0
+1561662,1789740000,16255,16264,Sokół Kleczew,Avia Świdnik,2,2,2,0
+1561660,1789741800,6950,12902,Rekord Bielsko-Biała,Świt Skolwin,3,0,1,0
+1561667,1789747200,13843,6941,Zawisza Bydgoszcz,Górnik Łęczna,0,0,0,0
+1561663,1789812000,6944,12834,Legia Warszawa II,Podhale Nowy Targ,3,0,1,0
+1561661,1789830000,3482,4247,Chojniczanka Chojnice,Olimpia Grudziądz,3,1,2,1
+1561668,1789833600,14143,6964,Lechia Zielona Góra,Znicz Pruszków,1,3,0,2
+1561665,1789898400,6958,6951,Stal Stalowa Wola,Resovia Rzeszów,2,0,1,0
+1561664,1789907400,12900,6942,Śląsk Wrocław II,Hutnik Kraków,2,0,1,0
+1561666,1789925400,3495,3492,Tychy 71,Sandecja Nowy Sącz,0,0,0,0
+1561674,1791025200,6951,16264,Resovia Rzeszów,Avia Świdnik,1,1,1,0
+1561672,1791025200,12834,6950,Podhale Nowy Targ,Rekord Bielsko-Biała,2,1,0,0
+1561669,1791033300,6942,3495,Hutnik Kraków,Tychy 71,0,2,0,1
+1561677,1791036000,12902,16255,Świt Skolwin,Sokół Kleczew,2,1,1,0
+1561675,1791043200,3492,14143,Sandecja Nowy Sącz,Lechia Zielona Góra,1,3,0,2
+1561673,1791111600,6964,6958,Znicz Pruszków,Stal Stalowa Wola,4,2,3,1
+1561670,1791126000,6941,3482,Górnik Łęczna,Chojniczanka Chojnice,3,1,2,0
+1561671,1791135000,13843,4247,Zawisza Bydgoszcz,Olimpia Grudziądz,1,2,0,2
+1561679,1791552600,6950,3492,Rekord Bielsko-Biała,Sandecja Nowy Sącz,1,1,0,1
+1561680,1791561600,3482,12834,Chojniczanka Chojnice,Podhale Nowy Targ,2,2,2,1
+1561678,1791637200,16264,12902,Avia Świdnik,Świt Skolwin,1,0,1,0
+1561683,1791640800,6958,12900,Stal Stalowa Wola,Śląsk Wrocław II,3,2,1,0
+1561686,1791648000,14143,6944,Lechia Zielona Góra,Legia Warszawa II,0,2,0,1
+1561684,1791712800,3495,6941,Tychy 71,Górnik Łęczna,3,0,1,0
+1561681,1791721800,16255,6942,Sokół Kleczew,Hutnik Kraków,1,2,1,1
+1561685,1791739800,13843,6964,Zawisza Bydgoszcz,Znicz Pruszków,0,1,0,0
+1561682,1791824400,4247,6951,Olimpia Grudziądz,Resovia Rzeszów,1,0,1,0
+1561676,1791972000,12900,6944,Śląsk Wrocław II,Legia Warszawa II,2,2,0,1
+1561689,1792231200,6944,3495,Legia Warszawa II,Tychy 71,1,2,0,1
+1561687,1792233000,6942,3482,Hutnik Kraków,Chojniczanka Chojnice,1,2,1,1
+1561688,1792239300,6941,6958,Górnik Łęczna,Stal Stalowa Wola,1,2,1,0
+1561695,1792243800,12902,4247,Świt Skolwin,Olimpia Grudziądz,1,1,1,1
+1561690,1792326600,12834,14143,Podhale Nowy Targ,Lechia Zielona Góra,0,0,0,0
+1561694,1792326600,12900,16264,Śląsk Wrocław II,Avia Świdnik,1,2,0,0
+1561692,1792328400,6951,16255,Resovia Rzeszów,Sokół Kleczew,0,0,0,0
+1561691,1792335600,6964,6950,Znicz Pruszków,Rekord Bielsko-Biała,1,0,0,0
+1561693,1792344600,3492,13843,Sandecja Nowy Sącz,Zawisza Bydgoszcz,4,3,0,1
+1561699,1792758600,16255,12900,Sokół Kleczew,Śląsk Wrocław II,4,2,2,0
+1561703,1792771200,13843,12902,Zawisza Bydgoszcz,Świt Skolwin,4,2,3,1
+1561697,1792836000,6950,6951,Rekord Bielsko-Biała,Resovia Rzeszów,1,1,0,1
+1561704,1792838700,14143,6941,Lechia Zielona Góra,Górnik Łęczna,0,6,0,3
+1561700,1792843200,6942,4247,Hutnik Kraków,Olimpia Grudziądz,1,2,0,2
+1561698,1792854000,3482,6944,Chojniczanka Chojnice,Legia Warszawa II,2,3,0,2
+1561701,1792864800,6958,3492,Stal Stalowa Wola,Sandecja Nowy Sącz,1,0,0,0
+1561696,1792926000,16264,6964,Avia Świdnik,Znicz Pruszków,0,2,0,1
+1561702,1792953000,3495,12834,Tychy 71,Podhale Nowy Targ,0,0,0,0
+1561710,1793385000,3492,4247,Sandecja Nowy Sącz,Olimpia Grudziądz,2,1,1,1
+1561707,1793444400,6941,6964,Górnik Łęczna,Znicz Pruszków,3,0,2,0
+1561708,1793444400,6944,6951,Legia Warszawa II,Resovia Rzeszów,2,1,1,0
+1561709,1793444400,12834,12902,Podhale Nowy Targ,Świt Skolwin,2,2,0,0
+1561706,1793448000,6942,6950,Hutnik Kraków,Rekord Bielsko-Biała,3,2,0,2
+1561711,1793451600,12900,13843,Śląsk Wrocław II,Zawisza Bydgoszcz,0,2,0,0
+1561713,1793455200,3495,14143,Tychy 71,Lechia Zielona Góra,1,2,0,0
+1561712,1793473200,6958,16255,Stal Stalowa Wola,Sokół Kleczew,1,2,1,1
+1561705,1793638800,3482,16264,Chojniczanka Chojnice,Avia Świdnik,1,0,0,0
+1561719,1793984400,6951,6941,Resovia Rzeszów,Górnik Łęczna,0,2,0,0
+1561716,1794049200,16255,3492,Sokół Kleczew,Sandecja Nowy Sącz,3,2,0,1
+1561718,1794050100,6964,12834,Znicz Pruszków,Podhale Nowy Targ,2,2,2,1
+1561720,1794056400,12902,12900,Świt Skolwin,Śląsk Wrocław II,3,0,2,0
+1561722,1794070800,14143,6958,Lechia Zielona Góra,Stal Stalowa Wola,2,1,0,0
+1561717,1794135600,6944,4247,Legia Warszawa II,Olimpia Grudziądz,2,1,1,1
+1561715,1794135600,6950,3482,Rekord Bielsko-Biała,Chojniczanka Chojnice,1,2,0,0
+1561714,1794137400,16264,6942,Avia Świdnik,Hutnik Kraków,2,1,0,1

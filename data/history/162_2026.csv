@@ -1,0 +1,77 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1551648,1784858400,815,2045,CS Herediano,Puntarenas FC,1,1,1,1
+1551650,1784944800,816,819,Deportivo Saprissa,Perez Zeledon,5,1,0,0
+1551647,1785020400,820,24391,CS Cartagines,Inter San Carlos,3,1,1,0
+1551651,1785031200,2047,822,Sporting San Jose,LD Alajuelense,1,1,1,0
+1551654,1785625200,2045,2047,Puntarenas FC,Sporting San Jose,1,1,1,1
+1598807,1785636000,822,17377,LD Alajuelense,Escorpiones Belén,2,1,0,0
+1551655,1785708000,816,823,Deportivo Saprissa,San Carlos,2,1,0,0
+1551653,1785715200,24391,815,Inter San Carlos,CS Herediano,1,1,1,1
+1551656,1785808800,819,820,Perez Zeledon,CS Cartagines,1,0,1,0
+1551657,1786154400,820,2047,CS Cartagines,Sporting San Jose,2,1,0,0
+1598808,1786233600,17377,819,Escorpiones Belén,Perez Zeledon,0,0,0,0
+1551661,1786240800,2045,816,Puntarenas FC,Deportivo Saprissa,0,2,0,1
+1551659,1786309200,24391,823,Inter San Carlos,San Carlos,2,0,1,0
+1551658,1786320000,815,822,CS Herediano,LD Alajuelense,0,3,0,1
+1551663,1786759200,823,815,San Carlos,CS Herediano,1,0,0,0
+1551662,1786831200,822,2045,LD Alajuelense,Puntarenas FC,2,1,1,1
+1551664,1786845600,816,820,Deportivo Saprissa,CS Cartagines,3,2,2,1
+1551666,1786917600,819,24391,Perez Zeledon,Inter San Carlos,0,1,0,1
+1598809,1787018400,2047,17377,Sporting San Jose,Escorpiones Belén,2,0,2,0
+1551671,1787360400,2045,819,Puntarenas FC,Perez Zeledon,1,0,0,0
+1598810,1787439600,17377,820,Escorpiones Belén,CS Cartagines,1,4,1,1
+1551668,1787450400,815,2047,CS Herediano,Sporting San Jose,0,3,0,0
+1551669,1787518800,24391,816,Inter San Carlos,Deportivo Saprissa,1,0,0,0
+1551667,1787529600,822,823,LD Alajuelense,San Carlos,0,1,0,0
+1551675,1787968800,2047,24391,Sporting San Jose,Inter San Carlos,2,0,1,0
+1551676,1788055200,819,822,Perez Zeledon,LD Alajuelense,1,1,0,1
+1551672,1788109200,820,815,CS Cartagines,CS Herediano,1,0,1,0
+1551673,1788127200,823,2045,San Carlos,Puntarenas FC,1,2,0,1
+1598811,1788134400,816,17377,Deportivo Saprissa,Escorpiones Belén,2,1,1,0
+1598812,1788573600,17377,24391,Escorpiones Belén,Inter San Carlos,0,2,0,1
+1551678,1788649200,815,819,CS Herediano,Perez Zeledon,2,3,1,1
+1551677,1788660000,822,816,LD Alajuelense,Deportivo Saprissa,0,2,0,1
+1551680,1788732000,2045,820,Puntarenas FC,CS Cartagines,1,3,1,1
+1551681,1788742800,823,2047,San Carlos,Sporting San Jose,1,0,1,0
+1551686,1789178400,819,823,Perez Zeledon,San Carlos,0,2,0,2
+1551683,1789254000,24391,2045,Inter San Carlos,Puntarenas FC,1,1,0,1
+1598813,1789264800,17377,815,Escorpiones Belén,CS Herediano,0,2,0,0
+1551685,1789336800,2047,816,Sporting San Jose,Deportivo Saprissa,4,2,3,1
+1551682,1789344000,820,822,CS Cartagines,LD Alajuelense,3,1,2,0
+1551691,1789783200,819,2047,Perez Zeledon,Sporting San Jose,1,2,1,1
+1598814,1789858800,2045,17377,Puntarenas FC,Escorpiones Belén,1,0,1,0
+1551690,1789869600,816,815,Deportivo Saprissa,CS Herediano,2,0,1,0
+1551687,1789945200,822,24391,LD Alajuelense,Inter San Carlos,5,0,2,0
+1551689,1789952400,823,820,San Carlos,CS Cartagines,1,0,1,0
+1551696,1791597600,2047,820,Sporting San Jose,CS Cartagines,3,1,1,0
+1551693,1791666000,24391,819,Inter San Carlos,Perez Zeledon,1,1,0,1
+1551695,1791673200,2045,822,Puntarenas FC,LD Alajuelense,1,1,0,1
+1551692,1791684000,815,823,CS Herediano,San Carlos,0,1,0,1
+1598815,1791759600,17377,816,Escorpiones Belén,Deportivo Saprissa,1,0,1,0
+1551698,1791936000,820,2045,CS Cartagines,Puntarenas FC,3,1,1,1
+1551699,1791943200,823,24391,San Carlos,Inter San Carlos,1,2,0,1
+1598816,1792018800,819,17377,Perez Zeledon,Escorpiones Belén,1,4,1,3
+1551697,1792029600,822,815,LD Alajuelense,CS Herediano,1,1,1,1
+1551700,1792116000,816,2047,Deportivo Saprissa,Sporting San Jose,6,0,3,0
+1551703,1792288800,24391,822,Inter San Carlos,LD Alajuelense,2,3,1,2
+1551702,1792342800,820,816,CS Cartagines,Deportivo Saprissa,1,0,1,0
+1551706,1792360800,819,815,Perez Zeledon,CS Herediano,0,3,0,0
+1551705,1792454400,2047,823,Sporting San Jose,San Carlos,3,3,3,1
+1598817,1792461600,17377,2045,Escorpiones Belén,Puntarenas FC,1,2,1,1
+1598818,1792807200,17377,2047,Escorpiones Belén,Sporting San Jose,2,4,1,1
+1551710,1792886400,2045,24391,Puntarenas FC,Inter San Carlos,3,1,0,1
+1551708,1792893600,815,820,CS Herediano,CS Cartagines,3,1,1,0
+1551711,1792965600,823,816,San Carlos,Deportivo Saprissa,2,1,2,0
+1551707,1792972800,822,819,LD Alajuelense,Perez Zeledon,1,0,0,0
+1598819,1793404800,24391,17377,Inter San Carlos,Escorpiones Belén,2,3,1,1
+1551716,1793412000,819,2045,Perez Zeledon,Puntarenas FC,1,1,0,0
+1551715,1793498400,2047,815,Sporting San Jose,CS Herediano,1,0,0,0
+1551712,1793552400,820,823,CS Cartagines,San Carlos,3,0,2,0
+1551714,1793570400,816,822,Deportivo Saprissa,LD Alajuelense,0,0,0,0
+1551721,1793754000,2047,819,Sporting San Jose,Perez Zeledon,3,1,3,1
+1551720,1793836800,2045,823,Puntarenas FC,San Carlos,0,1,0,1
+1598820,1793844000,17377,822,Escorpiones Belén,LD Alajuelense,1,4,1,1
+1551718,1793919600,24391,820,Inter San Carlos,CS Cartagines,1,1,1,0
+1551717,1793930400,815,816,CS Herediano,Deportivo Saprissa,0,2,0,1
+1551725,1794096000,823,819,San Carlos,Perez Zeledon,1,1,0,0
+1551722,1794103200,822,2047,LD Alajuelense,Sporting San Jose,2,0,0,0
