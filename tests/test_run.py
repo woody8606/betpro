@@ -61,7 +61,7 @@ def odds_item(f):
     lam = {"lH": 1.6, "lA": 1.1, "lHTh": 0.7, "lHTa": 0.5}
     p = model.probabilities(lam)
     bms = []
-    for name, bid, of in (book("Bet365", 8, 0.06, 0.12), book("Pinnacle", 4, 0.025, 0.03), book("Unibet", 16, 0.07, 0.1)):
+    for name, bid, of in (book("Betfair", 3, 0.06, 0.12), book("Pinnacle", 4, 0.025, 0.03), book("Unibet", 16, 0.07, 0.1)):
         bets = [
             {"name": "Goals Over/Under", "values": sum(([{"value": f"Over {x}", "odd": str(of(p[k]))},
                                                          {"value": f"Under {x}", "odd": str(of(1 - p[k]))}]

@@ -59,7 +59,7 @@ with tab_azi:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]),
             "Cota": c["odds"], "Sansa %": pct(c["p"]), "Avantaj %": round(100 * c["edge"], 1),
-            "Liga": c["match"]["league"]} for c in value]), hide_index=True, use_container_width=True)
+            "Liga": c["match"]["league"]} for c in value]), hide_index=True, width="stretch")
     else:
         st.info("Azi nu e niciun value realist.")
     if suspect:
@@ -67,14 +67,14 @@ with tab_azi:
             st.dataframe(pd.DataFrame([{
                 "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Cota": c["odds"],
                 "Sansa bot %": pct(c["p_bot"]), "Sansa casei %": pct(c["p_ref"]), "Avantaj %": round(100 * c["edge"])}
-                for c in suspect]), hide_index=True, use_container_width=True)
+                for c in suspect]), hide_index=True, width="stretch")
 
     st.subheader("Cele mai sigure")
     sure = picks.sure_picks(matches)
     if sure:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
-            "Cota minima": round(1 / c["p"], 2), "Cota": c["odds"]} for c in sure]), hide_index=True, use_container_width=True)
+            "Cota minima": round(1 / c["p"], 2), "Cota": c["odds"]} for c in sure]), hide_index=True, width="stretch")
 
     st.subheader("Bilete gata facute")
     for t in picks.tickets(matches):
@@ -89,7 +89,7 @@ with tab_azi:
         st.subheader("Bombe")
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
-            "Cota": c["odds"]} for k in ("HTFT", "CS") for c in b[k]]), hide_index=True, use_container_width=True)
+            "Cota": c["odds"]} for k in ("HTFT", "CS") for c in b[k]]), hide_index=True, width="stretch")
 
 # ---------------------------------------------------------------- BILETUL MEU
 with tab_bilet:
@@ -113,7 +113,7 @@ with tab_bilet:
         c1, c2 = st.columns(2)
         tinta = c1.number_input("Cota dorita", 1.5, 200.0, 10.0, 0.5)
         maxl = c2.number_input("Maxim meciuri", 1, 12, 6)
-        if st.button("Propune", use_container_width=True):
+        if st.button("Propune", width="stretch"):
             t = picks.build_ticket(pool, float(tinta), int(maxl))
             if not t:
                 st.warning("Nu gasesc un bilet bun la cota asta. Incearca alta cota sau mai multe meciuri.")
@@ -132,7 +132,7 @@ with tab_bilet:
                          "Cota corecta": round(1 / p, 2), "Cota ta": o, "_fid": m["fid"]})
         df = pd.DataFrame(rows)
         st.caption("Poti schimba coloana 'Cota ta' daca la tine e alta cota.")
-        ed = st.data_editor(df.drop(columns="_fid"), hide_index=True, use_container_width=True,
+        ed = st.data_editor(df.drop(columns="_fid"), hide_index=True, width="stretch",
                             disabled=["Ora", "Meci", "Pariu", "Sansa %", "Cota corecta"],
                             column_config={"Cota ta": st.column_config.NumberColumn(min_value=1.01, step=0.01, format="%.2f")})
         ps = [opts[k][2] for k in sel]
@@ -186,10 +186,10 @@ with tab_jurnal:
         show = show.rename(columns={"date": "Data", "kickoff": "Ora", "match": "Meci", "kind": "Tip", "odds": "Cota",
                                     "result": "Rezultat", "profit": "Profit", "close_odds": "Cota la start"})
         st.dataframe(show[["Data", "Ora", "Meci", "Tip", "Piata", "Sansa %", "Cota", "Cota la start", "Rezultat", "Profit"]],
-                     hide_index=True, use_container_width=True)
+                     hide_index=True, width="stretch")
     if not tk.empty:
         st.subheader("Bilete")
         tk2 = tk.copy()
         tk2["Meciuri"] = tk2["legs"].map(lambda s: " + ".join(f"{l['match']} ({label(l['market'])})" for l in json.loads(s)))
         st.dataframe(tk2.rename(columns={"date": "Data", "target": "Tinta", "odds": "Cota", "result": "Rezultat"})
-                     [["Data", "Tinta", "Cota", "Meciuri", "Rezultat"]], hide_index=True, use_container_width=True)
+                     [["Data", "Tinta", "Cota", "Meciuri", "Rezultat"]], hide_index=True, width="stretch")
