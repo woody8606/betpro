@@ -44,6 +44,12 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
          note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 50/50 cu sansa corecta "
               "a caselor (Pinnacle sau media caselor). Nicio selectie nu e sigura.")]
 
+    # mementouri cerute de Urs
+    if "2026-11-23" <= str(date) <= "2026-11-26":
+        o.append("<p style='background:#e8f0ff;border-left:4px solid #1f388c;padding:8px 10px;font-weight:700'>"
+                 "&#9917; Memento: joi 26 noiembrie, Brighton - Universitatea Craiova (Conference League). "
+                 "Pronosticul tau: 0-0 sau 1-0 la pauza, 1-1 la final. Cere-i lui Claude cota corecta a botului.</p>")
+
     # rezultate de pana acum
     v = st.get("value")
     if v:
