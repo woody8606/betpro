@@ -81,7 +81,7 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
     else:
         o.append("<p>Azi nu e niciun value realist. Nu e nimic de jucat la value - si asta e o recomandare.</p>")
     if suspect:
-        o.append(h2("1b. Suspecte - avantaj peste 15%"))
+        o.append(h2("1b. Suspecte - avantaj peste 15% sau botul mult peste casa"))
         o.append(note("De obicei aici greseste botul (accidentari, rotatii, motivatie). Nu le juca fara sa verifici echipele."))
         o.append(table(["Ora", "Meci", "Piata", "Sansa bot", "Sansa casei", "Cota", "Casa", "Avantaj"],
                        [[e(c["match"]["kickoff"]), e(c["match"]["name"]), e(label(c["mk"])), pct(c["p_bot"]),
