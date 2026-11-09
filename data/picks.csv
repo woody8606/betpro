@@ -92,3 +92,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-09,12:30,1571611,Bulgaria - Second League,Chernomorets 1919 Burgas - Yantra 2019,bomba scor,CS_0_0,0.1571,0.1571,,9.0,Betfair,3.0,,,,,
 2026-11-09,17:00,1555204,Israel - Liga Leumit,Hapoel Kfar Saba - Maccabi Bnei Raina,bomba scor,CS_0_2,0.1103,0.1103,,10.0,Betfair,3.0,,,,,
 2026-11-09,15:30,1571614,Bulgaria - Second League,Fratria - Sportist Svoge,bomba scor,CS_0_0,0.095,0.095,,12.0,Betfair,3.0,,,,,
+2026-11-09,22:30,1632060,Paraguay - Division Profesional - Clausura,Sportivo Luqueno - 2 de Mayo,value,GG,0.5409,0.5818,0.5,2.0,Betfair,3.0,0.0818,,,,
+2026-11-09,22:05,1649427,Jamaica - Premier League,Chapelton - Racing United,bomba scor,CS_2_3,0.0523,0.0523,,23.0,Betfair,3.0,,,,,
