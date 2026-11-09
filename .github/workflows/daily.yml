@@ -2,8 +2,12 @@ name: BET PRO zilnic
 
 on:
   schedule:
-    - cron: "5 8 * * *"      # 08:05 UTC = 08:05 iarna / 09:05 vara (ora UK), cu email
-    - cron: "0 12,16 * * *"  # actualizari pentru aplicatie, fara email
+    # GitHub poate intarzia rularile programate; incercam de 3 ori dimineata,
+    # emailul pleaca o singura data pe zi (data/email_sent.txt)
+    - cron: "17 5 * * *"
+    - cron: "17 6 * * *"
+    - cron: "17 7 * * *"
+    - cron: "43 11,15 * * *"  # actualizari pentru aplicatie, fara email
   workflow_dispatch:
     inputs:
       email:
@@ -34,7 +38,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
-          if [ "${{ github.event.inputs.email }}" = "nu" ] || [ "${{ github.event.schedule }}" = "0 12,16 * * *" ]; then
+          if [ "${{ github.event.inputs.email }}" = "nu" ] || [ "${{ github.event.schedule }}" = "43 11,15 * * *" ]; then
             python run_daily.py --no-email
           else
             python run_daily.py

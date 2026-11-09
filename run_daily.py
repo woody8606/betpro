@@ -113,9 +113,13 @@ def main():
     (config.REPORTS / "latest.html").write_text(html, encoding="utf-8")
     print("\n".join(log))
     print(f"value: {len(value)}, suspecte: {len(suspect)}, sigure: {len(sure)}, bilete: {sum(1 for t in tix if t['legs'])}")
-    if not args.no_email:
+    marker = config.DATA / "email_sent.txt"
+    if not args.no_email and marker.exists() and marker.read_text().strip() == today:
+        print("emailul de azi a plecat deja")
+    elif not args.no_email:
         try:
             print(mailer.send(f"BET PRO - {today}", html))
+            marker.write_text(today)
         except Exception as ex:
             print("emailul nu a plecat:", ex)
             return 1
