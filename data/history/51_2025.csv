@@ -1,0 +1,558 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1401493,1754748000,1821,1840,Dagenham & Redbridge,Ebbsfleet United,0,2,0,1
+1401501,1754748000,1827,7714,Torquay,Enfield Town,3,1,3,0
+1401494,1754748000,1829,7612,Dover,AFC Totton,2,3,0,3
+1401499,1754748000,1838,4702,Maidenhead,Chesham United,1,2,0,1
+1401496,1754748000,4680,7744,Hampton & Richmond,Salisbury,0,0,0,0
+1401491,1754748000,4689,7723,Chelmsford City,Horsham,1,0,0,0
+1401498,1754748000,7690,4687,AFC Hornchurch,Weston-super-Mare,3,2,2,0
+1401495,1754748000,7715,4704,Farnborough,Eastbourne Borough,1,1,1,1
+1401502,1754748000,7761,8657,Worthing,Bath City,1,1,1,0
+1401492,1754748000,8147,8659,Chippenham Town,Dorking Wanderers,2,2,2,0
+1401497,1754748000,8660,1825,Hemel Hempstead Town,Maidstone Utd,1,1,0,1
+1401500,1754748000,8662,4685,Tonbridge Angels,Slough Town,0,0,0,0
+1401511,1755352800,1825,1827,Maidstone Utd,Torquay,1,1,1,0
+1401508,1755352800,1840,8147,Ebbsfleet United,Chippenham Town,1,0,0,0
+1401513,1755352800,4685,8660,Slough Town,Hemel Hempstead Town,0,1,0,1
+1401514,1755352800,4687,4689,Weston-super-Mare,Chelmsford City,0,0,0,0
+1401505,1755352800,4702,7715,Chesham United,Farnborough,3,2,1,1
+1401507,1755352800,4704,7690,Eastbourne Borough,AFC Hornchurch,1,2,1,1
+1401503,1755352800,7612,8662,AFC Totton,Tonbridge Angels,3,0,1,0
+1401509,1755352800,7714,1838,Enfield Town,Maidenhead,0,0,0,0
+1401510,1755352800,7723,7761,Horsham,Worthing,3,4,2,2
+1401512,1755352800,7744,1821,Salisbury,Dagenham & Redbridge,0,0,0,0
+1401504,1755352800,8657,1829,Bath City,Dover,1,2,0,0
+1401506,1755352800,8659,4680,Dorking Wanderers,Hampton & Richmond,0,3,0,1
+1401517,1755629100,1821,8662,Dagenham & Redbridge,Tonbridge Angels,2,2,2,1
+1401523,1755629100,1825,4680,Maidstone Utd,Hampton & Richmond,2,0,0,0
+1401525,1755629100,1827,7612,Torquay,AFC Totton,3,1,2,1
+1401522,1755629100,1838,8660,Maidenhead,Hemel Hempstead Town,2,2,2,2
+1401520,1755629100,1840,4689,Ebbsfleet United,Chelmsford City,1,0,1,0
+1401515,1755629100,4702,7723,Chesham United,Horsham,0,0,0,0
+1401519,1755629100,4704,1829,Eastbourne Borough,Dover,0,1,0,0
+1401521,1755629100,7714,7690,Enfield Town,AFC Hornchurch,0,1,0,0
+1401524,1755629100,7744,8657,Salisbury,Bath City,0,1,0,1
+1401516,1755629100,8147,4687,Chippenham Town,Weston-super-Mare,1,2,0,1
+1401518,1755629100,8659,4685,Dorking Wanderers,Slough Town,2,0,1,0
+1401526,1755715500,7715,7761,Farnborough,Worthing,1,0,0,0
+1401530,1755957600,1829,7744,Dover,Salisbury,2,0,1,0
+1401531,1755957600,4680,1821,Hampton & Richmond,Dagenham & Redbridge,2,1,0,0
+1401535,1755957600,4685,1840,Slough Town,Ebbsfleet United,2,0,1,0
+1401537,1755957600,4687,1838,Weston-super-Mare,Maidenhead,1,0,0,0
+1401529,1755957600,4689,8147,Chelmsford City,Chippenham Town,2,1,0,0
+1401527,1755957600,7612,1825,AFC Totton,Maidstone Utd,0,1,0,1
+1401533,1755957600,7690,7715,AFC Hornchurch,Farnborough,3,1,1,0
+1401534,1755957600,7723,1827,Horsham,Torquay,2,1,1,0
+1401538,1755957600,7761,7714,Worthing,Enfield Town,0,0,0,0
+1401528,1755957600,8657,4704,Bath City,Eastbourne Borough,2,0,1,0
+1401532,1755957600,8660,8659,Hemel Hempstead Town,Dorking Wanderers,2,0,1,0
+1401536,1755957600,8662,4702,Tonbridge Angels,Chesham United,0,0,0,0
+1401541,1756130400,1821,8660,Dagenham & Redbridge,Hemel Hempstead Town,2,1,2,0
+1401548,1756130400,1825,4689,Maidstone Utd,Chelmsford City,0,0,0,0
+1401550,1756130400,1827,1829,Torquay,Dover,3,2,1,1
+1401547,1756130400,1838,7723,Maidenhead,Horsham,2,1,0,1
+1401544,1756130400,1840,8657,Ebbsfleet United,Bath City,1,1,0,1
+1401539,1756130400,4702,4680,Chesham United,Hampton & Richmond,1,2,1,1
+1401543,1756130400,4704,4685,Eastbourne Borough,Slough Town,1,1,0,0
+1401545,1756130400,7714,7612,Enfield Town,AFC Totton,0,1,0,0
+1401546,1756130400,7715,4687,Farnborough,Weston-super-Mare,1,3,0,0
+1401549,1756130400,7744,7690,Salisbury,AFC Hornchurch,3,3,1,3
+1401540,1756130400,8147,7761,Chippenham Town,Worthing,1,0,1,0
+1401542,1756130400,8659,8662,Dorking Wanderers,Tonbridge Angels,4,1,2,0
+1401554,1756562400,1829,1838,Dover,Maidenhead,1,2,0,1
+1401555,1756562400,4680,1840,Hampton & Richmond,Ebbsfleet United,3,2,2,1
+1401559,1756562400,4685,7714,Slough Town,Enfield Town,1,1,0,1
+1401561,1756562400,4687,1821,Weston-super-Mare,Dagenham & Redbridge,3,0,0,0
+1401553,1756562400,4689,4702,Chelmsford City,Chesham United,2,1,2,0
+1401551,1756562400,7612,4704,AFC Totton,Eastbourne Borough,2,1,0,1
+1401557,1756562400,7690,8147,AFC Hornchurch,Chippenham Town,3,0,2,0
+1401558,1756562400,7723,7744,Horsham,Salisbury,1,1,0,1
+1401562,1756562400,7761,1825,Worthing,Maidstone Utd,3,3,1,2
+1401552,1756562400,8657,8659,Bath City,Dorking Wanderers,1,2,0,2
+1401556,1756562400,8660,1827,Hemel Hempstead Town,Torquay,2,1,1,0
+1401560,1756562400,8662,7715,Tonbridge Angels,Farnborough,3,3,1,0
+1401563,1756752300,4689,7715,Chelmsford City,Farnborough,2,5,1,3
+1401566,1756838700,1829,1821,Dover,Dagenham & Redbridge,2,2,0,1
+1401567,1756838700,4680,1827,Hampton & Richmond,Torquay,2,2,1,2
+1401571,1756838700,4685,8147,Slough Town,Chippenham Town,3,2,2,2
+1401573,1756838700,4687,1825,Weston-super-Mare,Maidstone Utd,3,0,2,0
+1401564,1756838700,7612,4702,AFC Totton,Chesham United,1,1,0,0
+1401569,1756838700,7690,8659,AFC Hornchurch,Dorking Wanderers,1,0,0,0
+1401570,1756838700,7723,4704,Horsham,Eastbourne Borough,2,0,0,0
+1401574,1756838700,7761,7744,Worthing,Salisbury,2,0,2,0
+1401565,1756838700,8657,1838,Bath City,Maidenhead,0,4,0,3
+1401568,1756838700,8660,1840,Hemel Hempstead Town,Ebbsfleet United,0,0,0,0
+1401572,1756838700,8662,7714,Tonbridge Angels,Enfield Town,1,2,1,2
+1401577,1757167200,1821,7761,Dagenham & Redbridge,Worthing,2,5,1,2
+1401584,1757167200,1825,7723,Maidstone Utd,Horsham,0,3,0,2
+1401586,1757167200,1827,4685,Torquay,Slough Town,4,2,4,2
+1401583,1757167200,1838,4689,Maidenhead,Chelmsford City,2,1,1,0
+1401580,1757167200,1840,7690,Ebbsfleet United,AFC Hornchurch,1,1,1,0
+1401575,1757167200,4702,8657,Chesham United,Bath City,0,0,0,0
+1401579,1757167200,4704,8660,Eastbourne Borough,Hemel Hempstead Town,0,0,0,0
+1401581,1757167200,7714,4687,Enfield Town,Weston-super-Mare,0,1,0,0
+1401582,1757167200,7715,1829,Farnborough,Dover,1,2,1,1
+1401585,1757167200,7744,8662,Salisbury,Tonbridge Angels,1,3,0,1
+1401576,1757167200,8147,4680,Chippenham Town,Hampton & Richmond,1,1,1,1
+1401578,1757167200,8659,7612,Dorking Wanderers,AFC Totton,2,1,1,1
+1401594,1758376800,1825,1838,Maidstone Utd,Maidenhead,0,1,0,1
+1401596,1758376800,1827,1840,Torquay,Ebbsfleet United,1,0,1,0
+1401589,1758376800,1829,4680,Dover,Hampton & Richmond,3,3,0,2
+1401595,1758376800,4685,7690,Slough Town,AFC Hornchurch,2,5,1,1
+1401597,1758376800,4687,4702,Weston-super-Mare,Chesham United,1,0,0,0
+1401590,1758376800,4704,7744,Eastbourne Borough,Salisbury,0,0,0,0
+1401591,1758376800,7714,8147,Enfield Town,Chippenham Town,1,0,1,0
+1401593,1758376800,7723,7612,Horsham,AFC Totton,0,2,0,1
+1401598,1758376800,7761,8662,Worthing,Tonbridge Angels,0,1,0,1
+1401587,1758376800,8657,4689,Bath City,Chelmsford City,0,1,0,0
+1401588,1758376800,8659,1821,Dorking Wanderers,Dagenham & Redbridge,0,0,0,0
+1401592,1758376800,8660,7715,Hemel Hempstead Town,Farnborough,1,0,1,0
+1401714,1758981600,7690,1829,AFC Hornchurch,Dover,0,0,0,0
+1401603,1759586400,1821,1825,Dagenham & Redbridge,Maidstone Utd,1,2,1,1
+1401608,1759586400,1838,7761,Maidenhead,Worthing,1,0,1,0
+1401604,1759586400,1840,4704,Ebbsfleet United,Eastbourne Borough,2,2,0,0
+1401606,1759586400,4680,4685,Hampton & Richmond,Slough Town,2,3,1,2
+1401600,1759586400,4689,8659,Chelmsford City,Dorking Wanderers,1,1,1,0
+1401601,1759586400,4702,7714,Chesham United,Enfield Town,4,1,0,1
+1401599,1759586400,7612,4687,AFC Totton,Weston-super-Mare,3,1,1,1
+1401607,1759586400,7690,7723,AFC Hornchurch,Horsham,1,1,0,0
+1401605,1759586400,7715,8657,Farnborough,Bath City,2,2,1,0
+1401609,1759586400,7744,1827,Salisbury,Torquay,0,1,0,1
+1401602,1759586400,8147,8660,Chippenham Town,Hemel Hempstead Town,0,1,0,0
+1401610,1759586400,8662,1829,Tonbridge Angels,Dover,2,1,0,1
+1401618,1760191200,1825,4702,Maidstone Utd,Chesham United,0,0,0,0
+1401620,1760191200,1827,1821,Torquay,Dagenham & Redbridge,0,0,0,0
+1401831,1760191200,1829,7723,Dover,Horsham,1,1,0,0
+1401627,1760796000,1821,7714,Dagenham & Redbridge,Enfield Town,3,2,0,1
+1401632,1760796000,1838,4704,Maidenhead,Eastbourne Borough,0,1,0,0
+1401628,1760796000,1840,8659,Ebbsfleet United,Dorking Wanderers,2,1,0,0
+1401630,1760796000,4680,4687,Hampton & Richmond,Weston-super-Mare,0,1,0,0
+1401624,1760796000,4689,7761,Chelmsford City,Worthing,1,2,1,1
+1401625,1760796000,4702,1827,Chesham United,Torquay,1,0,1,0
+1401623,1760796000,7612,8660,AFC Totton,Hemel Hempstead Town,2,1,2,1
+1401631,1760796000,7690,8657,AFC Hornchurch,Bath City,3,2,1,1
+1401629,1760796000,7715,1825,Farnborough,Maidstone Utd,0,2,0,1
+1401633,1760796000,7744,4685,Salisbury,Slough Town,2,1,1,0
+1401626,1760796000,8147,1829,Chippenham Town,Dover,1,1,1,0
+1401634,1760796000,8662,7723,Tonbridge Angels,Horsham,1,2,0,1
+1401638,1761072300,1821,7723,Dagenham & Redbridge,Horsham,1,2,1,2
+1401643,1761072300,1825,4704,Maidstone Utd,Eastbourne Borough,3,0,2,0
+1401645,1761072300,1827,8147,Torquay,Chippenham Town,3,0,2,0
+1401639,1761072300,1829,8659,Dover,Dorking Wanderers,2,2,1,0
+1401642,1761072300,1838,8662,Maidenhead,Tonbridge Angels,1,1,1,0
+1401641,1761072300,4680,8660,Hampton & Richmond,Hemel Hempstead Town,1,2,0,1
+1401646,1761072300,4687,4685,Weston-super-Mare,Slough Town,5,1,3,1
+1401637,1761072300,4702,7761,Chesham United,Worthing,1,2,0,1
+1401640,1761072300,7714,1840,Enfield Town,Ebbsfleet United,3,1,2,0
+1401644,1761072300,7744,7715,Salisbury,Farnborough,1,0,1,0
+1401636,1761072300,8657,7612,Bath City,AFC Totton,2,0,1,0
+1401651,1761400800,1840,7744,Ebbsfleet United,Salisbury,2,0,0,0
+1401656,1761400800,4685,1825,Slough Town,Maidstone Utd,1,4,0,2
+1401650,1761400800,4704,4702,Eastbourne Borough,Chesham United,1,2,1,0
+1401647,1761400800,7612,4689,AFC Totton,Chelmsford City,2,1,2,1
+1401654,1761400800,7690,4680,AFC Hornchurch,Hampton & Richmond,2,1,1,0
+1401652,1761400800,7715,1838,Farnborough,Maidenhead,1,0,0,0
+1401655,1761400800,7723,7714,Horsham,Enfield Town,1,0,0,0
+1401658,1761400800,7761,1829,Worthing,Dover,3,1,2,1
+1401648,1761400800,8147,1821,Chippenham Town,Dagenham & Redbridge,0,1,0,1
+1401649,1761400800,8659,1827,Dorking Wanderers,Torquay,3,1,3,0
+1401653,1761400800,8660,8657,Hemel Hempstead Town,Bath City,1,0,0,0
+1401657,1761400800,8662,4687,Tonbridge Angels,Weston-super-Mare,0,0,0,0
+1401613,1761680700,1829,4689,Dover,Chelmsford City,0,1,0,0
+1401612,1761680700,8659,1838,Dorking Wanderers,Maidenhead,1,0,1,0
+1401662,1762009200,1821,7715,Dagenham & Redbridge,Farnborough,0,0,0,0
+1401667,1762009200,1825,8662,Maidstone Utd,Tonbridge Angels,1,2,0,0
+1401669,1762009200,1827,7690,Torquay,AFC Hornchurch,1,2,1,1
+1401661,1762009200,4702,8147,Chesham United,Chippenham Town,2,1,1,0
+1401664,1762009200,7714,4704,Enfield Town,Eastbourne Borough,1,2,1,1
+1401668,1762009200,7744,8659,Salisbury,Dorking Wanderers,0,2,0,0
+1401681,1762009200,7761,4680,Worthing,Hampton & Richmond,3,0,1,0
+1401659,1762009200,8657,7723,Bath City,Horsham,0,2,0,1
+1401675,1762285500,1840,1825,Ebbsfleet United,Maidstone Utd,1,0,0,0
+1401679,1762285500,4685,8657,Slough Town,Bath City,2,3,1,1
+1401674,1762285500,4704,1821,Eastbourne Borough,Dagenham & Redbridge,1,2,1,0
+1401671,1762285500,7612,1838,AFC Totton,Maidenhead,2,1,1,1
+1401677,1762285500,7690,4702,AFC Hornchurch,Chesham United,1,1,0,0
+1401678,1762285500,7723,1829,Horsham,Dover,1,1,1,0
+1401672,1762285500,8147,7744,Chippenham Town,Salisbury,2,2,1,2
+1401673,1762285500,8659,7714,Dorking Wanderers,Enfield Town,2,1,1,0
+1401676,1762285500,8660,4687,Hemel Hempstead Town,Weston-super-Mare,3,0,1,0
+1401680,1762285500,8662,4689,Tonbridge Angels,Chelmsford City,2,4,0,2
+1401682,1762371900,7715,1827,Farnborough,Torquay,1,3,0,2
+1401692,1762614000,1825,8147,Maidstone Utd,Chippenham Town,3,0,3,0
+1401687,1762614000,1829,7714,Dover,Enfield Town,4,1,0,1
+1401691,1762614000,1838,1827,Maidenhead,Torquay,1,2,0,1
+1401685,1762614000,4689,4680,Chelmsford City,Hampton & Richmond,1,0,1,0
+1401686,1762614000,4702,7744,Chesham United,Salisbury,0,1,0,0
+1401688,1762614000,4704,4687,Eastbourne Borough,Weston-super-Mare,1,2,0,0
+1401683,1762614000,7612,1840,AFC Totton,Ebbsfleet United,0,2,0,1
+1401689,1762614000,7715,8659,Farnborough,Dorking Wanderers,2,0,1,0
+1401690,1762614000,7723,4685,Horsham,Slough Town,1,0,0,0
+1401694,1762614000,7761,8660,Worthing,Hemel Hempstead Town,4,0,2,0
+1401684,1762614000,8657,1821,Bath City,Dagenham & Redbridge,0,0,0,0
+1401693,1762614000,8662,7690,Tonbridge Angels,AFC Hornchurch,0,1,0,0
+1401635,1762803900,4689,7690,Chelmsford City,AFC Hornchurch,2,0,2,0
+1401614,1762890300,4704,8147,Eastbourne Borough,Chippenham Town,2,2,1,0
+1401615,1762890300,7714,7744,Enfield Town,Salisbury,1,2,0,1
+1401617,1762890300,7723,4680,Horsham,Hampton & Richmond,0,0,0,0
+1401622,1762890300,7761,7612,Worthing,AFC Totton,4,0,1,0
+1401611,1762890300,8657,8662,Bath City,Tonbridge Angels,1,1,1,1
+1401619,1763495100,4685,7715,Slough Town,Farnborough,2,0,1,0
+1401621,1763495100,4687,1840,Weston-super-Mare,Ebbsfleet United,1,0,1,0
+1401696,1763823600,1821,1838,Dagenham & Redbridge,Maidenhead,1,0,0,0
+1401705,1763823600,1827,4704,Torquay,Eastbourne Borough,7,0,4,0
+1401698,1763823600,1840,4702,Ebbsfleet United,Chesham United,2,1,1,1
+1401700,1763823600,4680,8657,Hampton & Richmond,Bath City,1,2,0,0
+1401704,1763823600,4685,7761,Slough Town,Worthing,1,2,1,0
+1401706,1763823600,4687,1829,Weston-super-Mare,Dover,1,2,0,0
+1401702,1763823600,7690,7612,AFC Hornchurch,AFC Totton,1,1,1,0
+1401699,1763823600,7714,7715,Enfield Town,Farnborough,5,1,3,1
+1401703,1763823600,7744,4689,Salisbury,Chelmsford City,3,0,1,0
+1401695,1763823600,8147,8662,Chippenham Town,Tonbridge Angels,1,0,0,0
+1401697,1763823600,8659,1825,Dorking Wanderers,Maidstone Utd,3,1,2,0
+1401701,1763823600,8660,7723,Hemel Hempstead Town,Horsham,1,1,0,0
+1401708,1764099900,1821,4702,Dagenham & Redbridge,Chesham United,3,1,1,0
+1401717,1764099900,1827,7761,Torquay,Worthing,3,2,2,2
+1401710,1764099900,1840,7723,Ebbsfleet United,Horsham,1,2,0,1
+1401712,1764099900,4680,8662,Hampton & Richmond,Tonbridge Angels,0,3,0,1
+1401716,1764099900,4685,7612,Slough Town,AFC Totton,3,2,0,2
+1401718,1764099900,4687,8657,Weston-super-Mare,Bath City,2,1,0,0
+1401711,1764099900,7714,1825,Enfield Town,Maidstone Utd,2,1,0,1
+1401715,1764099900,7744,1838,Salisbury,Maidenhead,0,6,0,2
+1401707,1764099900,8147,7715,Chippenham Town,Farnborough,2,2,0,2
+1401713,1764099900,8660,4689,Hemel Hempstead Town,Chelmsford City,2,1,0,0
+1401728,1764428400,1825,7744,Maidstone Utd,Salisbury,1,0,0,0
+1401723,1764428400,1829,4685,Dover,Slough Town,2,0,0,0
+1401727,1764428400,1838,8147,Maidenhead,Chippenham Town,3,0,1,0
+1401721,1764428400,4689,1827,Chelmsford City,Torquay,0,2,0,0
+1401722,1764428400,4702,8659,Chesham United,Dorking Wanderers,2,1,1,0
+1401724,1764428400,4704,4680,Eastbourne Borough,Hampton & Richmond,6,0,1,0
+1401719,1764428400,7612,1821,AFC Totton,Dagenham & Redbridge,0,5,0,4
+1401725,1764428400,7715,1840,Farnborough,Ebbsfleet United,1,1,0,1
+1401726,1764428400,7723,4687,Horsham,Weston-super-Mare,1,1,1,0
+1401730,1764428400,7761,7690,Worthing,AFC Hornchurch,5,0,1,0
+1401720,1764428400,8657,7714,Bath City,Enfield Town,1,1,0,0
+1401729,1764428400,8662,8660,Tonbridge Angels,Hemel Hempstead Town,1,3,1,0
+1401665,1764704700,4680,7612,Hampton & Richmond,AFC Totton,2,0,1,0
+1401616,1764704700,8660,7690,Hemel Hempstead Town,AFC Hornchurch,0,4,0,3
+1401740,1765033200,1825,8657,Maidstone Utd,Bath City,2,0,0,0
+1401742,1765033200,1827,8662,Torquay,Tonbridge Angels,1,2,0,2
+1401739,1765033200,1838,7690,Maidenhead,AFC Hornchurch,2,0,1,0
+1401736,1765033200,1840,7761,Ebbsfleet United,Worthing,1,2,0,1
+1401731,1765033200,4702,1829,Chesham United,Dover,0,1,0,0
+1401738,1765033200,7715,7612,Farnborough,AFC Totton,4,2,1,1
+1401741,1765033200,7744,8660,Salisbury,Hemel Hempstead Town,1,0,1,0
+1401732,1765033200,8147,7723,Chippenham Town,Horsham,1,3,0,0
+1401709,1765033200,8659,4704,Dorking Wanderers,Eastbourne Borough,4,2,1,0
+1401771,1765638000,4680,1838,Hampton & Richmond,Maidenhead,1,3,0,2
+1401735,1765638000,4704,4689,Eastbourne Borough,Chelmsford City,1,2,0,2
+1401874,1765638000,7715,7744,Farnborough,Salisbury,1,0,1,0
+1401733,1765914300,1821,4685,Dagenham & Redbridge,Slough Town,0,0,0,0
+1401734,1765914300,8659,4687,Dorking Wanderers,Weston-super-Mare,3,2,2,0
+1401746,1766242800,1829,4704,Dover,Eastbourne Borough,2,5,0,2
+1401747,1766242800,4680,1825,Hampton & Richmond,Maidstone Utd,0,0,0,0
+1401751,1766242800,4685,8659,Slough Town,Dorking Wanderers,1,2,1,0
+1401753,1766242800,4687,8147,Weston-super-Mare,Chippenham Town,1,0,1,0
+1401745,1766242800,4689,1840,Chelmsford City,Ebbsfleet United,0,1,0,1
+1401743,1766242800,7612,1827,AFC Totton,Torquay,1,0,1,0
+1401749,1766242800,7690,7714,AFC Hornchurch,Enfield Town,2,2,0,1
+1401750,1766242800,7723,4702,Horsham,Chesham United,1,2,1,0
+1401754,1766242800,7761,7715,Worthing,Farnborough,5,0,4,0
+1401744,1766242800,8657,7744,Bath City,Salisbury,2,0,2,0
+1401748,1766242800,8660,1838,Hemel Hempstead Town,Maidenhead,0,0,0,0
+1401752,1766242800,8662,1821,Tonbridge Angels,Dagenham & Redbridge,2,2,2,1
+1401759,1766750400,4704,7761,Eastbourne Borough,Worthing,0,3,0,1
+1401757,1766754000,1821,7690,Dagenham & Redbridge,AFC Hornchurch,2,3,0,2
+1401764,1766754000,1825,1829,Maidstone Utd,Dover,1,0,0,0
+1401760,1766754000,1840,8662,Ebbsfleet United,Tonbridge Angels,1,0,0,0
+1401755,1766754000,4702,8660,Chesham United,Hemel Hempstead Town,1,0,0,0
+1401766,1766761200,1827,4687,Torquay,Weston-super-Mare,3,1,2,0
+1401763,1766761200,1838,4685,Maidenhead,Slough Town,1,3,1,1
+1401761,1766761200,7714,4689,Enfield Town,Chelmsford City,0,4,0,2
+1401762,1766761200,7715,4680,Farnborough,Hampton & Richmond,0,2,0,0
+1401765,1766761200,7744,7612,Salisbury,AFC Totton,3,1,1,0
+1401756,1766761200,8147,8657,Chippenham Town,Bath City,3,2,1,1
+1401758,1766761200,8659,7723,Dorking Wanderers,Horsham,2,0,0,0
+1401769,1767037500,4689,1821,Chelmsford City,Dagenham & Redbridge,1,4,1,1
+1401770,1767123900,1829,1840,Dover,Ebbsfleet United,1,2,0,1
+1401775,1767123900,4685,4702,Slough Town,Chesham United,3,0,1,0
+1401777,1767123900,4687,7744,Weston-super-Mare,Salisbury,1,0,1,0
+1401767,1767123900,7612,8147,AFC Totton,Chippenham Town,1,1,0,0
+1401773,1767123900,7690,1825,AFC Hornchurch,Maidstone Utd,1,2,1,1
+1401774,1767123900,7723,7715,Horsham,Farnborough,2,2,1,2
+1401778,1767123900,7761,8659,Worthing,Dorking Wanderers,3,2,2,2
+1401768,1767123900,8657,1827,Bath City,Torquay,0,0,0,0
+1401772,1767123900,8660,7714,Hemel Hempstead Town,Enfield Town,3,0,2,0
+1401776,1767123900,8662,4704,Tonbridge Angels,Eastbourne Borough,3,4,1,2
+1401787,1767452400,4685,4704,Slough Town,Eastbourne Borough,2,1,1,1
+1401789,1767452400,4687,7715,Weston-super-Mare,Farnborough,4,1,1,0
+1401779,1767452400,7612,7714,AFC Totton,Enfield Town,3,2,2,1
+1401786,1767452400,7723,1838,Horsham,Maidenhead,1,2,1,0
+1401790,1767452400,7761,8147,Worthing,Chippenham Town,2,2,0,1
+1401784,1767452400,8660,1821,Hemel Hempstead Town,Dagenham & Redbridge,1,0,0,0
+1401788,1767452400,8662,8659,Tonbridge Angels,Dorking Wanderers,2,2,1,1
+1401795,1767728700,4704,7723,Eastbourne Borough,Horsham,0,2,0,1
+1401802,1768057200,1827,4680,Torquay,Hampton & Richmond,4,1,1,1
+1401663,1768057200,1829,8660,Dover,Hemel Hempstead Town,1,2,1,1
+1401797,1768057200,7714,8662,Enfield Town,Tonbridge Angels,1,1,0,1
+1401801,1768057200,7744,7761,Salisbury,Worthing,5,4,2,2
+1401792,1768333500,8147,4685,Chippenham Town,Slough Town,2,1,2,0
+1401805,1768662000,1821,7744,Dagenham & Redbridge,Salisbury,0,1,0,0
+1401813,1768662000,1827,1825,Torquay,Maidstone Utd,1,1,1,1
+1401806,1768662000,1829,8657,Dover,Bath City,1,0,1,0
+1401811,1768662000,1838,7714,Maidenhead,Enfield Town,3,0,0,0
+1401808,1768662000,4680,8659,Hampton & Richmond,Dorking Wanderers,0,2,0,2
+1401803,1768662000,4689,4687,Chelmsford City,Weston-super-Mare,1,0,0,0
+1401810,1768662000,7690,4704,AFC Hornchurch,Eastbourne Borough,2,0,2,0
+1401807,1768662000,7715,4702,Farnborough,Chesham United,0,1,0,1
+1401814,1768662000,7761,7723,Worthing,Horsham,1,1,0,0
+1401804,1768662000,8147,1840,Chippenham Town,Ebbsfleet United,1,4,0,2
+1401809,1768662000,8660,4685,Hemel Hempstead Town,Slough Town,0,3,0,3
+1401812,1768662000,8662,7612,Tonbridge Angels,AFC Totton,4,1,1,1
+1401793,1768938300,1821,1829,Dagenham & Redbridge,Dover,2,0,0,0
+1401783,1768938300,4680,4702,Hampton & Richmond,Chesham United,0,1,0,1
+1401823,1769266800,1825,8660,Maidstone Utd,Hemel Hempstead Town,0,1,0,1
+1401820,1769266800,1840,1821,Ebbsfleet United,Dagenham & Redbridge,1,0,1,0
+1401825,1769266800,4685,8662,Slough Town,Tonbridge Angels,2,3,2,2
+1401826,1769266800,4687,7690,Weston-super-Mare,AFC Hornchurch,1,2,0,1
+1401817,1769266800,4702,1838,Chesham United,Maidenhead,1,1,1,0
+1401819,1769266800,4704,7715,Eastbourne Borough,Farnborough,1,2,1,0
+1401815,1769266800,7612,1829,AFC Totton,Dover,3,0,2,0
+1401821,1769266800,7714,1827,Enfield Town,Torquay,1,2,1,0
+1401822,1769266800,7723,4689,Horsham,Chelmsford City,2,3,0,1
+1401824,1769266800,7744,4680,Salisbury,Hampton & Richmond,1,1,0,0
+1401816,1769266800,8657,7761,Bath City,Worthing,3,2,2,0
+1401818,1769266800,8659,8147,Dorking Wanderers,Chippenham Town,2,1,1,1
+1401827,1769456700,4689,8662,Chelmsford City,Tonbridge Angels,1,0,1,0
+1401830,1769543100,1821,4704,Dagenham & Redbridge,Eastbourne Borough,2,0,1,0
+1401835,1769543100,1825,1840,Maidstone Utd,Ebbsfleet United,3,0,2,0
+1401833,1769543100,4680,7761,Hampton & Richmond,Worthing,1,0,0,0
+1401843,1769871600,1840,1838,Ebbsfleet United,Maidenhead,3,0,0,0
+1401848,1769871600,4685,4689,Slough Town,Chelmsford City,5,0,3,0
+1401842,1769871600,4704,7714,Eastbourne Borough,Enfield Town,1,1,1,0
+1401846,1769871600,7690,1827,AFC Hornchurch,Torquay,1,2,1,0
+1401840,1769871600,8147,4702,Chippenham Town,Chesham United,1,4,0,4
+1401841,1769871600,8659,7744,Dorking Wanderers,Salisbury,3,0,2,0
+1401845,1769871600,8660,1829,Hemel Hempstead Town,Dover,1,2,0,1
+1401849,1769871600,8662,1825,Tonbridge Angels,Maidstone Utd,1,1,0,1
+1401850,1769872500,7761,4687,Worthing,Weston-super-Mare,1,1,0,0
+1401782,1770147900,1829,1827,Dover,Torquay,2,3,2,2
+1401796,1770147900,1840,8660,Ebbsfleet United,Hemel Hempstead Town,2,2,1,0
+1401854,1770476400,1821,8147,Dagenham & Redbridge,Chippenham Town,4,2,0,1
+1401859,1770476400,1825,4685,Maidstone Utd,Slough Town,1,2,1,0
+1401855,1770476400,1829,7761,Dover,Worthing,1,1,0,0
+1401858,1770476400,1838,7715,Maidenhead,Farnborough,2,2,1,0
+1401857,1770476400,4680,7690,Hampton & Richmond,AFC Hornchurch,2,2,0,2
+1401860,1770476400,7744,1840,Salisbury,Ebbsfleet United,1,1,0,0
+1401867,1770752700,1840,7714,Ebbsfleet United,Enfield Town,2,2,1,1
+1401871,1770752700,4685,4687,Slough Town,Weston-super-Mare,1,0,0,0
+1401866,1770752700,4704,1825,Eastbourne Borough,Maidstone Utd,3,1,0,1
+1401870,1770752700,7723,1821,Horsham,Dagenham & Redbridge,1,1,0,1
+1401864,1770752700,8147,1827,Chippenham Town,Torquay,1,0,0,0
+1401865,1770752700,8659,1829,Dorking Wanderers,Dover,2,0,0,0
+1401868,1770752700,8660,4680,Hemel Hempstead Town,Hampton & Richmond,0,3,0,1
+1401872,1770752700,8662,1838,Tonbridge Angels,Maidenhead,0,1,0,0
+1401876,1771081200,1821,8657,Dagenham & Redbridge,Bath City,1,0,1,0
+1401885,1771081200,1827,1838,Torquay,Maidenhead,1,1,1,0
+1401878,1771081200,1840,7612,Ebbsfleet United,AFC Totton,4,0,3,0
+1401880,1771081200,4680,4689,Hampton & Richmond,Chelmsford City,1,3,0,1
+1401884,1771081200,4685,7723,Slough Town,Horsham,0,0,0,0
+1401886,1771081200,4687,4704,Weston-super-Mare,Eastbourne Borough,3,1,2,1
+1401882,1771081200,7690,8662,AFC Hornchurch,Tonbridge Angels,3,2,2,1
+1401883,1771081200,7744,4702,Salisbury,Chesham United,1,2,1,1
+1401875,1771081200,8147,1825,Chippenham Town,Maidstone Utd,1,0,0,0
+1401877,1771081200,8659,7715,Dorking Wanderers,Farnborough,5,3,2,3
+1401881,1771081200,8660,7761,Hemel Hempstead Town,Worthing,1,0,0,0
+1401781,1771271100,4689,1825,Chelmsford City,Maidstone Utd,1,1,0,0
+1401853,1771357500,4702,4704,Chesham United,Eastbourne Borough,1,0,0,0
+1401839,1771357500,7612,4680,AFC Totton,Hampton & Richmond,1,1,1,1
+1401856,1771357500,7714,7723,Enfield Town,Horsham,2,1,2,0
+1401836,1771357500,7744,8147,Salisbury,Chippenham Town,1,0,0,0
+1401780,1771357500,8657,1840,Bath City,Ebbsfleet United,2,2,1,1
+1401794,1771357500,8659,7690,Dorking Wanderers,AFC Hornchurch,1,0,0,0
+1401896,1771686000,1825,8659,Maidstone Utd,Dorking Wanderers,1,1,0,1
+1401891,1771686000,1829,4687,Dover,Weston-super-Mare,1,1,1,1
+1401895,1771686000,1838,1821,Maidenhead,Dagenham & Redbridge,2,0,1,0
+1401889,1771686000,4689,7744,Chelmsford City,Salisbury,2,2,1,1
+1401890,1771686000,4702,1840,Chesham United,Ebbsfleet United,4,1,0,1
+1401892,1771686000,4704,1827,Eastbourne Borough,Torquay,4,2,1,1
+1401887,1771686000,7612,7690,AFC Totton,AFC Hornchurch,1,0,1,0
+1401893,1771686000,7715,7714,Farnborough,Enfield Town,0,5,0,3
+1401894,1771686000,7723,8660,Horsham,Hemel Hempstead Town,2,0,1,0
+1401898,1771686000,7761,4685,Worthing,Slough Town,4,1,4,0
+1401888,1771686000,8657,4680,Bath City,Hampton & Richmond,0,4,0,1
+1401897,1771686000,8662,8147,Tonbridge Angels,Chippenham Town,3,2,2,2
+1401899,1771875900,4689,8660,Chelmsford City,Hemel Hempstead Town,1,0,0,0
+1401907,1771962300,1825,7714,Maidstone Utd,Enfield Town,8,0,4,0
+1401903,1771962300,1829,7690,Dover,AFC Hornchurch,4,1,2,1
+1401906,1771962300,1838,7744,Maidenhead,Salisbury,2,1,1,1
+1401902,1771962300,4702,1821,Chesham United,Dagenham & Redbridge,0,1,0,0
+1401904,1771962300,4704,8659,Eastbourne Borough,Dorking Wanderers,1,2,0,1
+1401900,1771962300,7612,4685,AFC Totton,Slough Town,1,1,1,0
+1401905,1771962300,7723,1840,Horsham,Ebbsfleet United,1,1,1,0
+1401909,1771962300,7761,1827,Worthing,Torquay,3,1,1,0
+1401901,1771962300,8657,4687,Bath City,Weston-super-Mare,0,0,0,0
+1401908,1771962300,8662,4680,Tonbridge Angels,Hampton & Richmond,2,0,1,0
+1401910,1772048700,7715,8147,Farnborough,Chippenham Town,2,1,0,0
+1401912,1772290800,1821,7612,Dagenham & Redbridge,AFC Totton,0,2,0,2
+1401921,1772290800,1827,4689,Torquay,Chelmsford City,0,5,0,2
+1401914,1772290800,1840,7715,Ebbsfleet United,Farnborough,2,2,1,1
+1401916,1772290800,4680,4704,Hampton & Richmond,Eastbourne Borough,1,2,0,1
+1401920,1772290800,4685,1829,Slough Town,Dover,1,1,0,0
+1401918,1772290800,7690,7761,AFC Hornchurch,Worthing,2,1,2,0
+1401915,1772290800,7714,8657,Enfield Town,Bath City,1,1,1,1
+1401919,1772290800,7744,1825,Salisbury,Maidstone Utd,0,1,0,0
+1401911,1772290800,8147,1838,Chippenham Town,Maidenhead,1,0,1,0
+1401913,1772290800,8659,4702,Dorking Wanderers,Chesham United,1,1,0,0
+1401917,1772290800,8660,8662,Hemel Hempstead Town,Tonbridge Angels,1,0,0,0
+1401800,1772567100,1825,4687,Maidstone Utd,Weston-super-Mare,2,1,2,0
+1401837,1772567100,1827,7715,Torquay,Farnborough,2,2,0,1
+1401834,1772567100,1838,7612,Maidenhead,AFC Totton,2,0,2,0
+1401785,1772567100,7690,7744,AFC Hornchurch,Salisbury,1,0,0,0
+1401737,1772567100,7714,4680,Enfield Town,Hampton & Richmond,1,1,0,1
+1401873,1772567100,7761,4702,Worthing,Chesham United,2,0,1,0
+1401828,1772567100,8657,4685,Bath City,Slough Town,0,1,0,0
+1401927,1772895600,1821,8659,Dagenham & Redbridge,Dorking Wanderers,1,0,0,0
+1401932,1772895600,1838,1825,Maidenhead,Maidstone Utd,2,1,1,0
+1401928,1772895600,1840,1827,Ebbsfleet United,Torquay,3,0,1,0
+1401930,1772895600,4680,1829,Hampton & Richmond,Dover,2,1,2,1
+1401924,1772895600,4689,8657,Chelmsford City,Bath City,7,1,4,0
+1401925,1772895600,4702,4687,Chesham United,Weston-super-Mare,4,0,4,0
+1401923,1772895600,7612,7723,AFC Totton,Horsham,3,0,0,0
+1401931,1772895600,7690,4685,AFC Hornchurch,Slough Town,2,3,0,2
+1401929,1772895600,7715,8660,Farnborough,Hemel Hempstead Town,2,3,0,2
+1401933,1772895600,7744,4704,Salisbury,Eastbourne Borough,2,0,0,0
+1401926,1772895600,8147,7714,Chippenham Town,Enfield Town,1,0,0,0
+1401934,1772895600,8662,7761,Tonbridge Angels,Worthing,1,0,0,0
+1401942,1773171900,1825,1821,Maidstone Utd,Dagenham & Redbridge,2,1,2,1
+1401944,1773171900,1827,7744,Torquay,Salisbury,2,1,0,0
+1401937,1773171900,1829,8662,Dover,Tonbridge Angels,2,0,1,0
+1401943,1773171900,4685,4680,Slough Town,Hampton & Richmond,1,3,0,1
+1401945,1773171900,4687,7612,Weston-super-Mare,AFC Totton,1,0,1,0
+1401938,1773171900,4704,1840,Eastbourne Borough,Ebbsfleet United,1,3,1,2
+1401941,1773171900,7723,7690,Horsham,AFC Hornchurch,0,2,0,1
+1401946,1773171900,7761,1838,Worthing,Maidenhead,0,0,0,0
+1401935,1773171900,8657,7715,Bath City,Farnborough,0,1,0,0
+1401936,1773171900,8659,4689,Dorking Wanderers,Chelmsford City,1,1,0,0
+1401940,1773171900,8660,8147,Hemel Hempstead Town,Chippenham Town,3,2,1,2
+1401954,1773500400,1825,7715,Maidstone Utd,Farnborough,1,0,0,0
+1401956,1773500400,1827,4702,Torquay,Chesham United,2,1,1,1
+1401949,1773500400,1829,8147,Dover,Chippenham Town,1,2,0,0
+1401955,1773500400,4685,7744,Slough Town,Salisbury,3,3,1,2
+1401957,1773500400,4687,4680,Weston-super-Mare,Hampton & Richmond,2,0,1,0
+1401950,1773500400,4704,1838,Eastbourne Borough,Maidenhead,0,1,0,0
+1401951,1773500400,7714,1821,Enfield Town,Dagenham & Redbridge,0,0,0,0
+1401953,1773500400,7723,8662,Horsham,Tonbridge Angels,0,1,0,0
+1401958,1773500400,7761,4689,Worthing,Chelmsford City,2,0,2,0
+1401947,1773500400,8657,7690,Bath City,AFC Hornchurch,2,2,0,2
+1401948,1773500400,8659,1840,Dorking Wanderers,Ebbsfleet United,3,1,0,1
+1401952,1773500400,8660,7612,Hemel Hempstead Town,AFC Totton,2,0,1,0
+1401660,1773690300,4689,4685,Chelmsford City,Slough Town,2,0,0,0
+1401666,1773776700,1838,1840,Maidenhead,Ebbsfleet United,2,3,0,1
+1401862,1773776700,4687,8662,Weston-super-Mare,Tonbridge Angels,0,1,0,0
+1401791,1773776700,4702,7612,Chesham United,AFC Totton,1,2,0,0
+1401832,1773776700,7714,8659,Enfield Town,Dorking Wanderers,2,4,0,2
+1401844,1773776700,7715,1821,Farnborough,Dagenham & Redbridge,2,3,1,2
+1401847,1773776700,7723,8657,Horsham,Bath City,2,1,0,0
+1401963,1774105200,1821,1827,Dagenham & Redbridge,Torquay,1,0,0,0
+1401968,1774105200,1838,8659,Maidenhead,Dorking Wanderers,2,0,1,0
+1401964,1774105200,1840,4687,Ebbsfleet United,Weston-super-Mare,1,3,1,0
+1401966,1774105200,4680,7723,Hampton & Richmond,Horsham,2,0,0,0
+1401960,1774105200,4689,1829,Chelmsford City,Dover,1,2,0,1
+1401961,1774105200,4702,1825,Chesham United,Maidstone Utd,4,2,2,0
+1401959,1774105200,7612,7761,AFC Totton,Worthing,0,3,0,1
+1401967,1774105200,7690,8660,AFC Hornchurch,Hemel Hempstead Town,0,1,0,1
+1401965,1774105200,7715,4685,Farnborough,Slough Town,2,0,1,0
+1401969,1774105200,7744,7714,Salisbury,Enfield Town,2,0,1,0
+1401962,1774105200,8147,4704,Chippenham Town,Eastbourne Borough,5,2,2,1
+1401970,1774105200,8662,8657,Tonbridge Angels,Bath City,2,1,1,1
+1401861,1774381500,1827,8659,Torquay,Dorking Wanderers,2,2,0,1
+1401670,1774381500,4687,7761,Weston-super-Mare,Worthing,2,3,1,1
+1401829,1774381500,4702,7690,Chesham United,AFC Hornchurch,1,2,0,1
+1401879,1774381500,7714,1829,Enfield Town,Dover,3,1,1,0
+1401851,1774381500,8657,8660,Bath City,Hemel Hempstead Town,0,3,0,1
+1401798,1774467900,7715,4689,Farnborough,Chelmsford City,4,2,2,1
+1401973,1774710000,1821,4680,Dagenham & Redbridge,Hampton & Richmond,3,1,3,0
+1401980,1774710000,1825,7612,Maidstone Utd,AFC Totton,3,1,1,0
+1401982,1774710000,1827,7723,Torquay,Horsham,2,0,1,0
+1401979,1774710000,1838,4687,Maidenhead,Weston-super-Mare,1,2,0,1
+1401976,1774710000,1840,4685,Ebbsfleet United,Slough Town,2,1,0,0
+1401971,1774710000,4702,8662,Chesham United,Tonbridge Angels,1,0,0,0
+1401975,1774710000,4704,8657,Eastbourne Borough,Bath City,2,2,1,0
+1401977,1774710000,7714,7761,Enfield Town,Worthing,1,1,1,0
+1401978,1774710000,7715,7690,Farnborough,AFC Hornchurch,2,2,0,1
+1401981,1774710000,7744,1829,Salisbury,Dover,2,1,2,1
+1401972,1774710000,8147,4689,Chippenham Town,Chelmsford City,0,1,0,0
+1401974,1774710000,8659,8660,Dorking Wanderers,Hemel Hempstead Town,2,1,0,1
+1401852,1774896300,4689,7612,Chelmsford City,AFC Totton,1,1,1,0
+1401799,1774982700,1838,8657,Maidenhead,Bath City,3,0,2,0
+1401838,1774982700,4687,8660,Weston-super-Mare,Hemel Hempstead Town,0,0,0,0
+1401939,1774982700,7714,4702,Enfield Town,Chesham United,3,4,2,1
+1401986,1775224800,1829,1825,Dover,Maidstone Utd,0,2,0,1
+1401987,1775224800,4680,7715,Hampton & Richmond,Farnborough,3,1,2,0
+1401991,1775224800,4685,1838,Slough Town,Maidenhead,2,2,0,1
+1401993,1775224800,4687,1827,Weston-super-Mare,Torquay,0,3,0,1
+1401985,1775224800,4689,7714,Chelmsford City,Enfield Town,3,0,1,0
+1401983,1775224800,7612,7744,AFC Totton,Salisbury,2,1,1,0
+1401989,1775224800,7690,1821,AFC Hornchurch,Dagenham & Redbridge,3,0,2,0
+1401990,1775224800,7723,8659,Horsham,Dorking Wanderers,3,0,1,0
+1401994,1775224800,7761,4704,Worthing,Eastbourne Borough,2,1,0,1
+1401984,1775224800,8657,8147,Bath City,Chippenham Town,1,0,0,0
+1401988,1775224800,8660,4702,Hemel Hempstead Town,Chesham United,0,3,0,2
+1401992,1775224800,8662,1840,Tonbridge Angels,Ebbsfleet United,1,2,0,2
+1401997,1775484000,1821,4689,Dagenham & Redbridge,Chelmsford City,3,3,0,1
+1402004,1775484000,1825,7690,Maidstone Utd,AFC Hornchurch,5,4,4,4
+1402006,1775484000,1827,8657,Torquay,Bath City,4,1,2,1
+1402003,1775484000,1838,4680,Maidenhead,Hampton & Richmond,2,1,1,1
+1402000,1775484000,1840,1829,Ebbsfleet United,Dover,4,0,1,0
+1401995,1775484000,4702,4685,Chesham United,Slough Town,4,1,1,0
+1401999,1775484000,4704,8662,Eastbourne Borough,Tonbridge Angels,1,1,0,1
+1402001,1775484000,7714,8660,Enfield Town,Hemel Hempstead Town,0,0,0,0
+1402002,1775484000,7715,7723,Farnborough,Horsham,2,0,0,0
+1402005,1775484000,7744,4687,Salisbury,Weston-super-Mare,1,2,0,2
+1401996,1775484000,8147,7612,Chippenham Town,AFC Totton,2,0,1,0
+1401998,1775484000,8659,7761,Dorking Wanderers,Worthing,1,2,0,0
+1402010,1775916000,1829,7715,Dover,Farnborough,1,3,1,2
+1402011,1775916000,4680,8147,Hampton & Richmond,Chippenham Town,1,1,0,1
+1402015,1775916000,4685,1827,Slough Town,Torquay,1,5,0,4
+1402017,1775916000,4687,7714,Weston-super-Mare,Enfield Town,1,0,1,0
+1402009,1775916000,4689,1838,Chelmsford City,Maidenhead,1,1,0,0
+1402007,1775916000,7612,8659,AFC Totton,Dorking Wanderers,2,1,0,0
+1402013,1775916000,7690,1840,AFC Hornchurch,Ebbsfleet United,1,0,0,0
+1402014,1775916000,7723,1825,Horsham,Maidstone Utd,0,0,0,0
+1402018,1775916000,7761,1821,Worthing,Dagenham & Redbridge,7,2,2,1
+1402008,1775916000,8657,4702,Bath City,Chesham United,4,2,3,2
+1402012,1775916000,8660,4704,Hemel Hempstead Town,Eastbourne Borough,3,1,1,0
+1402016,1775916000,8662,7744,Tonbridge Angels,Salisbury,3,2,1,0
+1401922,1776192300,4687,7723,Weston-super-Mare,Horsham,1,0,1,0
+1401863,1776192300,7612,8657,AFC Totton,Bath City,2,1,2,1
+1401869,1776192300,7690,4689,AFC Hornchurch,Chelmsford City,3,3,1,2
+1402021,1776520800,1821,4687,Dagenham & Redbridge,Weston-super-Mare,0,0,0,0
+1402028,1776520800,1825,7761,Maidstone Utd,Worthing,2,1,1,1
+1402030,1776520800,1827,8660,Torquay,Hemel Hempstead Town,1,2,1,1
+1402027,1776520800,1838,1829,Maidenhead,Dover,1,0,0,0
+1402024,1776520800,1840,4680,Ebbsfleet United,Hampton & Richmond,4,0,3,0
+1402019,1776520800,4702,4689,Chesham United,Chelmsford City,0,2,0,0
+1402023,1776520800,4704,7612,Eastbourne Borough,AFC Totton,2,3,2,1
+1402025,1776520800,7714,4685,Enfield Town,Slough Town,5,2,0,1
+1402026,1776520800,7715,8662,Farnborough,Tonbridge Angels,1,6,1,3
+1402029,1776520800,7744,7723,Salisbury,Horsham,2,1,1,0
+1402020,1776520800,8147,7690,Chippenham Town,AFC Hornchurch,1,3,0,0
+1402022,1776520800,8659,8657,Dorking Wanderers,Bath City,1,3,0,1
+1402034,1777116600,1829,4702,Dover,Chesham United,2,2,1,1
+1402035,1777116600,4680,7714,Hampton & Richmond,Enfield Town,1,0,0,0
+1402039,1777116600,4685,1821,Slough Town,Dagenham & Redbridge,3,2,2,2
+1402041,1777116600,4687,8659,Weston-super-Mare,Dorking Wanderers,1,1,0,1
+1402033,1777116600,4689,4704,Chelmsford City,Eastbourne Borough,1,3,1,3
+1402031,1777116600,7612,7715,AFC Totton,Farnborough,1,6,1,3
+1402037,1777116600,7690,1838,AFC Hornchurch,Maidenhead,0,0,0,0
+1402038,1777116600,7723,8147,Horsham,Chippenham Town,3,2,1,0
+1402042,1777116600,7761,1840,Worthing,Ebbsfleet United,2,0,1,0
+1402032,1777116600,8657,1825,Bath City,Maidstone Utd,2,3,2,0
+1402036,1777116600,8660,7744,Hemel Hempstead Town,Salisbury,1,1,1,1
+1402040,1777116600,8662,1827,Tonbridge Angels,Torquay,1,2,0,0
+1542792,1777401900,8660,4687,Hemel Hempstead Town,Weston-super-Mare,1,1,0,0
+1542793,1777488300,8659,1838,Dorking Wanderers,Maidenhead,2,0,2,0
+1543533,1777721400,1827,8659,Torquay,Dorking Wanderers,4,2,2,0
+1543534,1777734000,7690,4687,AFC Hornchurch,Weston-super-Mare,2,0,0,0
+1543857,1778335200,7690,1827,AFC Hornchurch,Torquay,2,2,1,1

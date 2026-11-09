@@ -1,0 +1,244 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1410121,1753455600,10533,14074,Dukla Banská Bystrica,Slávia TU Košice,2,0,1.0,0.0
+1394743,1753455600,10540,10544,Púchov,Slovan Bratislava II,1,1,0.0,1.0
+1394739,1753459200,4134,14058,Pohronie,Malženice,0,0,0.0,0.0
+1410122,1753542000,10536,14942,Liptovský Mikuláš,Baník Lehota p.Vtáčnikom,2,0,1.0,0.0
+1394744,1753542000,10545,10546,Šamorín,Žilina II,2,3,0.0,1.0
+1394740,1753542000,10547,3553,Inter Bratislava,Zlaté Moravce,1,2,1.0,0.0
+1410123,1753542000,10552,19398,Lokomotíva Zvolen,Stará Ľubovňa,2,2,0.0,1.0
+1394753,1754060400,10544,10538,Slovan Bratislava II,Petržalka,0,0,0.0,0.0
+1394747,1754067600,3553,10533,Zlaté Moravce,Dukla Banská Bystrica,2,2,2.0,0.0
+1394748,1754146800,10536,10547,Liptovský Mikuláš,Inter Bratislava,2,1,1.0,1.0
+1394750,1754146800,10545,14074,Šamorín,Slávia TU Košice,2,1,0.0,1.0
+1394751,1754146800,10552,4134,Lokomotíva Zvolen,Pohronie,1,0,1.0,0.0
+1394749,1754146800,14062,14942,Považská Bystrica,Baník Lehota p.Vtáčnikom,2,1,1.0,1.0
+1394754,1754209800,10546,19398,Žilina II,Stará Ľubovňa,0,2,0.0,1.0
+1394752,1754209800,14058,10540,Malženice,Púchov,3,1,1.0,0.0
+1410124,1754492400,10538,14062,Petržalka,Považská Bystrica,1,0,1.0,0.0
+1394756,1754665200,4134,10546,Pohronie,Žilina II,4,1,2.0,1.0
+1394758,1754667000,14942,10544,Baník Lehota p.Vtáčnikom,Slovan Bratislava II,2,3,2.0,2.0
+1410125,1754672400,3553,14074,Zlaté Moravce,Slávia TU Košice,1,1,1.0,1.0
+1394760,1754751600,10540,10552,Púchov,Lokomotíva Zvolen,1,1,1.0,1.0
+1394757,1754751600,10547,14062,Inter Bratislava,Považská Bystrica,1,1,1.0,0.0
+1394759,1754751600,19398,10545,Stará Ľubovňa,Šamorín,2,0,0.0,0.0
+1394755,1754758800,10533,10536,Dukla Banská Bystrica,Liptovský Mikuláš,4,3,3.0,1.0
+1394761,1754814600,10538,14058,Petržalka,Malženice,3,1,0.0,0.0
+1394769,1755270000,10544,10547,Slovan Bratislava II,Inter Bratislava,0,1,0.0,1.0
+1394763,1755356400,10536,3553,Liptovský Mikuláš,Zlaté Moravce,1,1,1.0,0.0
+1394766,1755356400,10545,4134,Šamorín,Pohronie,1,1,0.0,1.0
+1394767,1755356400,10552,10538,Lokomotíva Zvolen,Petržalka,3,2,1.0,2.0
+1394765,1755356400,14062,10533,Považská Bystrica,Dukla Banská Bystrica,0,1,0.0,0.0
+1394764,1755356400,19398,14074,Stará Ľubovňa,Slávia TU Košice,1,1,0.0,0.0
+1394770,1755419400,10546,10540,Žilina II,Púchov,5,2,1.0,1.0
+1394768,1755419400,14058,14942,Malženice,Baník Lehota p.Vtáčnikom,2,1,1.0,0.0
+1394775,1755873000,14942,10552,Baník Lehota p.Vtáčnikom,Lokomotíva Zvolen,1,5,1.0,3.0
+1394772,1755874800,4134,19398,Pohronie,Stará Ľubovňa,3,1,1.0,1.0
+1394771,1755878400,10533,10544,Dukla Banská Bystrica,Slovan Bratislava II,1,0,1.0,0.0
+1394773,1755882000,3553,14062,Zlaté Moravce,Považská Bystrica,5,1,2.0,1.0
+1394778,1755939600,10536,14074,Liptovský Mikuláš,Slávia TU Košice,5,3,,
+1394776,1755959400,10540,10545,Púchov,Šamorín,2,3,2.0,2.0
+1394891,1755961200,10536,14074,Liptovský Mikuláš,Slávia TU Košice,5,3,2.0,2.0
+1394774,1755961200,10547,14058,Inter Bratislava,Malženice,2,1,1.0,0.0
+1394777,1756024200,10538,10546,Petržalka,Žilina II,1,1,0.0,0.0
+1394779,1756483200,4134,14074,Pohronie,Slávia TU Košice,4,1,1.0,1.0
+1394782,1756564200,10545,10538,Šamorín,Petržalka,1,1,0.0,1.0
+1394783,1756564200,10552,10547,Lokomotíva Zvolen,Inter Bratislava,1,1,0.0,1.0
+1394781,1756564200,14062,10536,Považská Bystrica,Liptovský Mikuláš,2,2,2.0,0.0
+1394780,1756564200,19398,10540,Stará Ľubovňa,Púchov,1,0,1.0,0.0
+1394785,1756629000,10544,3553,Slovan Bratislava II,Zlaté Moravce,2,1,0.0,0.0
+1394786,1756629000,10546,14942,Žilina II,Baník Lehota p.Vtáčnikom,3,2,1.0,0.0
+1394784,1756629000,14058,10533,Malženice,Dukla Banská Bystrica,0,3,0.0,2.0
+1394789,1757080800,10547,10546,Inter Bratislava,Žilina II,1,0,0.0,0.0
+1394787,1757084400,10533,10552,Dukla Banská Bystrica,Lokomotíva Zvolen,1,1,1.0,0.0
+1394792,1757167200,10540,4134,Púchov,Pohronie,3,1,0.0,1.0
+1394790,1757167200,14942,10545,Baník Lehota p.Vtáčnikom,Šamorín,2,1,1.0,0.0
+1394791,1757169000,10536,10544,Liptovský Mikuláš,Slovan Bratislava II,2,1,0.0,0.0
+1394793,1757233800,10538,19398,Petržalka,Stará Ľubovňa,1,0,1.0,0.0
+1394795,1757689200,4134,10538,Pohronie,Petržalka,1,2,0.0,1.0
+1394797,1757772000,10540,14074,Púchov,Slávia TU Košice,0,2,0.0,1.0
+1394798,1757772000,10545,10547,Šamorín,Inter Bratislava,2,0,2.0,0.0
+1394799,1757772000,10552,3553,Lokomotíva Zvolen,Zlaté Moravce,1,3,1.0,2.0
+1394796,1757772000,19398,14942,Stará Ľubovňa,Baník Lehota p.Vtáčnikom,0,0,0.0,0.0
+1394802,1757838600,10546,10533,Žilina II,Dukla Banská Bystrica,0,4,0.0,3.0
+1394800,1757838600,14058,10536,Malženice,Liptovský Mikuláš,1,2,0.0,0.0
+1394808,1758288600,14062,14058,Považská Bystrica,Malženice,1,3,1.0,2.0
+1394804,1758297600,3553,10546,Zlaté Moravce,Žilina II,3,1,1.0,0.0
+1394803,1758304800,10533,10545,Dukla Banská Bystrica,Šamorín,3,1,2.0,1.0
+1394809,1758357000,10538,10540,Petržalka,Púchov,4,0,3.0,0.0
+1394805,1758375000,10547,19398,Inter Bratislava,Stará Ľubovňa,4,1,2.0,1.0
+1394806,1758375000,14942,4134,Baník Lehota p.Vtáčnikom,Pohronie,4,3,3.0,2.0
+1394807,1758375600,10536,10552,Liptovský Mikuláš,Lokomotíva Zvolen,0,1,0.0,1.0
+1394810,1758445200,14074,10544,Slávia TU Košice,Slovan Bratislava II,2,2,0.0,1.0
+1394788,1758643200,3553,14058,Zlaté Moravce,Malženice,4,3,1.0,2.0
+1394811,1758898800,4134,10547,Pohronie,Inter Bratislava,1,0,1.0,0.0
+1394813,1758979800,10540,14942,Púchov,Baník Lehota p.Vtáčnikom,2,0,1.0,0.0
+1394814,1758979800,10545,3553,Šamorín,Zlaté Moravce,3,3,2.0,0.0
+1394815,1758979800,10552,14062,Lokomotíva Zvolen,Považská Bystrica,0,1,0.0,0.0
+1394812,1758979800,19398,10533,Stará Ľubovňa,Dukla Banská Bystrica,0,2,0.0,1.0
+1394817,1759048200,10538,14074,Petržalka,Slávia TU Košice,2,3,1.0,1.0
+1394818,1759048200,10546,10536,Žilina II,Liptovský Mikuláš,1,0,1.0,0.0
+1394816,1759048200,14058,10544,Malženice,Slovan Bratislava II,3,0,1.0,0.0
+1394820,1759507200,3553,19398,Zlaté Moravce,Stará Ľubovňa,3,2,2.0,2.0
+1394819,1759507200,10533,4134,Dukla Banská Bystrica,Pohronie,1,1,0.0,1.0
+1394823,1759582800,10536,10545,Liptovský Mikuláš,Šamorín,2,1,1.0,0.0
+1394821,1759582800,10547,10540,Inter Bratislava,Púchov,0,0,0.0,0.0
+1394824,1759582800,14062,10546,Považská Bystrica,Žilina II,1,1,1.0,1.0
+1394826,1759582800,14074,14058,Slávia TU Košice,Malženice,2,2,1.0,0.0
+1394822,1759582800,14942,10538,Baník Lehota p.Vtáčnikom,Petržalka,1,0,0.0,0.0
+1394825,1759653000,10544,10552,Slovan Bratislava II,Lokomotíva Zvolen,2,0,0.0,0.0
+1394794,1759928400,14074,14062,Slávia TU Košice,Považská Bystrica,1,1,0.0,0.0
+1394834,1760101200,10546,10544,Žilina II,Slovan Bratislava II,0,1,0.0,0.0
+1394827,1760108400,4134,3553,Pohronie,Zlaté Moravce,3,1,2.0,1.0
+1394830,1760187600,10540,10533,Púchov,Dukla Banská Bystrica,1,4,0.0,1.0
+1394831,1760187600,10545,14062,Šamorín,Považská Bystrica,0,2,0.0,1.0
+1394828,1760187600,14942,14074,Baník Lehota p.Vtáčnikom,Slávia TU Košice,3,1,0.0,0.0
+1394829,1760187600,19398,10536,Stará Ľubovňa,Liptovský Mikuláš,1,1,0.0,0.0
+1394833,1760257800,10538,10547,Petržalka,Inter Bratislava,0,1,0.0,1.0
+1394801,1760446800,10544,14062,Slovan Bratislava II,Považská Bystrica,2,4,1.0,2.0
+1394832,1760533200,10552,14058,Lokomotíva Zvolen,Malženice,3,1,1.0,0.0
+1394836,1760716800,3553,10540,Zlaté Moravce,Púchov,2,1,1.0,0.0
+1394835,1760716800,10533,10538,Dukla Banská Bystrica,Petržalka,1,0,1.0,0.0
+1394838,1760790600,10536,4134,Liptovský Mikuláš,Pohronie,0,3,0.0,2.0
+1394837,1760790600,10547,14942,Inter Bratislava,Baník Lehota p.Vtáčnikom,2,2,0.0,2.0
+1394839,1760790600,14062,19398,Považská Bystrica,Stará Ľubovňa,2,0,0.0,0.0
+1394841,1760862600,10544,10545,Slovan Bratislava II,Šamorín,1,4,1.0,1.0
+1394840,1760862600,14058,10546,Malženice,Žilina II,2,1,1.0,0.0
+1394842,1760864400,14074,10552,Slávia TU Košice,Lokomotíva Zvolen,1,0,0.0,0.0
+1394843,1761318000,4134,14062,Pohronie,Považská Bystrica,4,0,3.0,0.0
+1394847,1761391800,10540,10536,Púchov,Liptovský Mikuláš,3,3,2.0,1.0
+1394848,1761391800,10545,14058,Šamorín,Malženice,1,0,0.0,0.0
+1394844,1761391800,10547,14074,Inter Bratislava,Slávia TU Košice,3,1,2.0,0.0
+1394845,1761391800,14942,10533,Baník Lehota p.Vtáčnikom,Dukla Banská Bystrica,1,2,1.0,0.0
+1394846,1761391800,19398,10544,Stará Ľubovňa,Slovan Bratislava II,7,0,5.0,0.0
+1394850,1761471000,10546,10552,Žilina II,Lokomotíva Zvolen,1,3,0.0,2.0
+1394849,1761472800,10538,3553,Petržalka,Zlaté Moravce,3,2,3.0,0.0
+1394851,1761926400,10533,10547,Dukla Banská Bystrica,Inter Bratislava,3,0,0.0,0.0
+1394852,1761930000,3553,14942,Zlaté Moravce,Baník Lehota p.Vtáčnikom,1,1,1.0,0.0
+1394853,1761998400,10536,10538,Liptovský Mikuláš,Petržalka,4,2,1.0,1.0
+1394855,1761998400,10552,10545,Lokomotíva Zvolen,Šamorín,1,3,0.0,2.0
+1394854,1761998400,14062,10540,Považská Bystrica,Púchov,0,1,0.0,1.0
+1394857,1762075800,10544,4134,Slovan Bratislava II,Pohronie,2,2,2.0,0.0
+1394856,1762075800,14058,19398,Malženice,Stará Ľubovňa,2,1,1.0,0.0
+1394858,1762077600,14074,10546,Slávia TU Košice,Žilina II,1,3,1.0,1.0
+1394864,1762518600,14058,4134,Malženice,Pohronie,0,0,0.0,0.0
+1394860,1762534800,3553,10547,Zlaté Moravce,Inter Bratislava,3,0,0.0,0.0
+1394862,1762603200,14062,10538,Považská Bystrica,Petržalka,2,1,0.0,0.0
+1410127,1762603200,14942,10536,Baník Lehota p.Vtáčnikom,Liptovský Mikuláš,2,2,2.0,2.0
+1410126,1762603200,19398,10552,Stará Ľubovňa,Lokomotíva Zvolen,1,2,1.0,1.0
+1394865,1762680600,10544,10540,Slovan Bratislava II,Púchov,1,1,1.0,0.0
+1394866,1762680600,10546,10545,Žilina II,Šamorín,5,4,2.0,3.0
+1410128,1762682400,14074,10533,Slávia TU Košice,Dukla Banská Bystrica,0,1,0.0,1.0
+1394867,1763134200,10533,3553,Dukla Banská Bystrica,Zlaté Moravce,4,1,1.0,0.0
+1394868,1763136000,4134,10552,Pohronie,Lokomotíva Zvolen,2,2,2.0,1.0
+1394869,1763208000,10547,10536,Inter Bratislava,Liptovský Mikuláš,2,2,2.0,1.0
+1394870,1763208000,14942,14062,Baník Lehota p.Vtáčnikom,Považská Bystrica,2,1,2.0,0.0
+1394871,1763208000,19398,10546,Stará Ľubovňa,Žilina II,0,1,0.0,0.0
+1394873,1763285400,10538,10544,Petržalka,Slovan Bratislava II,1,0,1.0,0.0
+1394874,1763287200,14074,10545,Slávia TU Košice,Šamorín,2,1,2.0,1.0
+1394872,1763726400,10540,14058,Púchov,Malženice,4,2,2.0,1.0
+1394876,1772283600,10536,10533,Liptovský Mikuláš,Dukla Banská Bystrica,3,1,1.0,0.0
+1394878,1772283600,10545,19398,Šamorín,Stará Ľubovňa,1,1,0.0,0.0
+1394879,1772283600,10552,10540,Lokomotíva Zvolen,Púchov,2,2,0.0,1.0
+1394877,1772283600,14062,10547,Považská Bystrica,Inter Bratislava,0,2,0.0,0.0
+1394881,1772357400,10544,14942,Slovan Bratislava II,Baník Lehota p.Vtáčnikom,1,1,0.0,1.0
+1394882,1772357400,10546,4134,Žilina II,Pohronie,1,0,1.0,0.0
+1394880,1772357400,14058,10538,Malženice,Petržalka,0,0,0.0,0.0
+1410129,1772359200,14074,3553,Slávia TU Košice,Zlaté Moravce,1,3,1.0,1.0
+1394885,1772812800,3553,10536,Zlaté Moravce,Liptovský Mikuláš,1,2,0.0,1.0
+1394884,1772812800,4134,10545,Pohronie,Šamorín,1,0,1.0,0.0
+1394883,1772812800,10533,14062,Dukla Banská Bystrica,Považská Bystrica,3,1,2.0,1.0
+1394888,1772890200,10540,10546,Púchov,Žilina II,0,0,0.0,0.0
+1394886,1772890200,10547,10544,Inter Bratislava,Slovan Bratislava II,2,0,0.0,0.0
+1394887,1772890200,14942,14058,Baník Lehota p.Vtáčnikom,Malženice,0,2,0.0,1.0
+1394889,1772962200,10538,10552,Petržalka,Lokomotíva Zvolen,1,1,0.0,1.0
+1394890,1772964000,14074,19398,Slávia TU Košice,Stará Ľubovňa,3,0,1.0,0.0
+1394893,1773494100,14062,3553,Považská Bystrica,Zlaté Moravce,1,2,1.0,1.0
+1394894,1773495000,10545,10540,Šamorín,Púchov,0,0,0.0,0.0
+1394895,1773495000,10552,14942,Lokomotíva Zvolen,Baník Lehota p.Vtáčnikom,1,0,1.0,0.0
+1394892,1773495000,19398,4134,Stará Ľubovňa,Pohronie,1,1,1.0,1.0
+1394897,1773567000,10544,10533,Slovan Bratislava II,Dukla Banská Bystrica,2,0,1.0,0.0
+1394898,1773567000,10546,10538,Žilina II,Petržalka,1,1,1.0,1.0
+1394896,1773567000,14058,10547,Malženice,Inter Bratislava,1,0,0.0,0.0
+1477589,1773568800,14074,10536,Slávia TU Košice,Liptovský Mikuláš,4,0,2.0,0.0
+1394899,1774022400,10533,14058,Dukla Banská Bystrica,Malženice,1,3,1.0,0.0
+1394900,1774026000,3553,10544,Zlaté Moravce,Slovan Bratislava II,2,2,1.0,1.0
+1394903,1774101600,10536,14062,Liptovský Mikuláš,Považská Bystrica,4,2,1.0,0.0
+1394904,1774101600,10540,19398,Púchov,Stará Ľubovňa,1,0,1.0,0.0
+1394901,1774101600,10547,10552,Inter Bratislava,Lokomotíva Zvolen,0,1,0.0,0.0
+1394902,1774101600,14942,10546,Baník Lehota p.Vtáčnikom,Žilina II,1,0,1.0,0.0
+1394905,1774171800,10538,10545,Petržalka,Šamorín,3,0,2.0,0.0
+1394906,1774173600,14074,4134,Slávia TU Košice,Pohronie,1,1,0.0,0.0
+1394907,1774630800,4134,10540,Pohronie,Púchov,3,1,2.0,0.0
+1394913,1774690200,10544,10536,Slovan Bratislava II,Liptovský Mikuláš,3,1,0.0,1.0
+1394910,1774706400,10545,14942,Šamorín,Baník Lehota p.Vtáčnikom,0,1,0.0,1.0
+1394914,1774706400,10546,10547,Žilina II,Inter Bratislava,1,2,1.0,2.0
+1394911,1774706400,10552,10533,Lokomotíva Zvolen,Dukla Banská Bystrica,1,1,0.0,0.0
+1394909,1774706400,14062,14074,Považská Bystrica,Slávia TU Košice,4,0,2.0,0.0
+1394908,1774706400,19398,10538,Stará Ľubovňa,Petržalka,0,4,0.0,0.0
+1394916,1775145600,3553,10552,Zlaté Moravce,Lokomotíva Zvolen,0,0,0.0,0.0
+1394917,1775217600,10547,10545,Inter Bratislava,Šamorín,0,2,0.0,1.0
+1394915,1775228400,10533,10546,Dukla Banská Bystrica,Žilina II,4,1,0.0,1.0
+1394919,1775311200,10536,14058,Liptovský Mikuláš,Malženice,0,0,0.0,0.0
+1394920,1775311200,14062,10544,Považská Bystrica,Slovan Bratislava II,1,1,1.0,0.0
+1394918,1775311200,14942,19398,Baník Lehota p.Vtáčnikom,Stará Ľubovňa,1,2,1.0,1.0
+1394921,1775377800,10538,4134,Petržalka,Pohronie,3,0,2.0,0.0
+1394922,1775379600,14074,10540,Slávia TU Košice,Púchov,0,0,0.0,0.0
+1394912,1775570400,14058,3553,Malženice,Zlaté Moravce,1,0,0.0,0.0
+1394923,1775833200,4134,14942,Pohronie,Baník Lehota p.Vtáčnikom,1,2,0.0,2.0
+1394925,1775916000,10540,10538,Púchov,Petržalka,1,2,0.0,0.0
+1394926,1775916000,10545,10533,Šamorín,Dukla Banská Bystrica,0,2,0.0,0.0
+1394927,1775916000,10552,10536,Lokomotíva Zvolen,Liptovský Mikuláš,2,1,1.0,0.0
+1394924,1775916000,19398,10547,Stará Ľubovňa,Inter Bratislava,2,2,1.0,2.0
+1394929,1775982600,10544,14074,Slovan Bratislava II,Slávia TU Košice,4,1,3.0,0.0
+1394930,1775982600,10546,3553,Žilina II,Zlaté Moravce,1,4,1.0,2.0
+1394928,1775982600,14058,14062,Malženice,Považská Bystrica,4,2,1.0,1.0
+1394931,1776438000,10533,19398,Dukla Banská Bystrica,Stará Ľubovňa,3,0,1.0,0.0
+1394932,1776441600,3553,10545,Zlaté Moravce,Šamorín,1,2,0.0,1.0
+1394934,1776511800,14942,10540,Baník Lehota p.Vtáčnikom,Púchov,3,3,2.0,1.0
+1394935,1776522600,10536,10546,Liptovský Mikuláš,Žilina II,2,0,0.0,0.0
+1394933,1776522600,10547,4134,Inter Bratislava,Pohronie,2,1,1.0,1.0
+1394936,1776522600,14062,10552,Považská Bystrica,Lokomotíva Zvolen,0,2,0.0,0.0
+1394937,1776587400,10544,14058,Slovan Bratislava II,Malženice,1,1,0.0,0.0
+1394938,1776589200,14074,10538,Slávia TU Košice,Petržalka,1,0,1.0,0.0
+1394940,1776781800,19398,3553,Stará Ľubovňa,Zlaté Moravce,4,2,3.0,1.0
+1394944,1776862800,14058,14074,Malženice,Slávia TU Košice,1,0,1.0,0.0
+1394945,1776868200,10538,14942,Petržalka,Baník Lehota p.Vtáčnikom,2,1,1.0,1.0
+1394941,1776868200,10540,10547,Púchov,Inter Bratislava,1,3,1.0,3.0
+1394942,1776868200,10545,10536,Šamorín,Liptovský Mikuláš,1,1,1.0,1.0
+1394946,1776868200,10546,14062,Žilina II,Považská Bystrica,2,2,0.0,1.0
+1394943,1776870000,10552,10544,Lokomotíva Zvolen,Slovan Bratislava II,1,2,1.0,1.0
+1394939,1776873600,4134,10533,Pohronie,Dukla Banská Bystrica,0,0,0.0,0.0
+1394949,1777125600,10547,10538,Inter Bratislava,Petržalka,0,2,0.0,0.0
+1394947,1777127400,10533,10540,Dukla Banská Bystrica,Púchov,0,0,0.0,0.0
+1394950,1777127400,10536,19398,Liptovský Mikuláš,Stará Ľubovňa,2,0,0.0,0.0
+1394951,1777127400,14062,10545,Považská Bystrica,Šamorín,1,1,0.0,0.0
+1394953,1777192200,10544,10546,Slovan Bratislava II,Žilina II,4,2,4.0,0.0
+1394954,1777194000,14074,14942,Slávia TU Košice,Baník Lehota p.Vtáčnikom,1,1,0.0,0.0
+1394952,1777194900,14058,10552,Malženice,Lokomotíva Zvolen,0,0,0.0,0.0
+1394948,1777208400,3553,4134,Zlaté Moravce,Pohronie,0,1,0.0,0.0
+1394956,1777636800,14942,10547,Baník Lehota p.Vtáčnikom,Inter Bratislava,1,0,0.0,0.0
+1394959,1777730400,10545,10544,Šamorín,Slovan Bratislava II,1,1,1.0,0.0
+1394955,1777734000,4134,10536,Pohronie,Liptovský Mikuláš,2,2,0.0,1.0
+1394960,1777734000,10552,14074,Lokomotíva Zvolen,Slávia TU Košice,2,1,1.0,0.0
+1394957,1777734000,19398,14062,Stará Ľubovňa,Považská Bystrica,1,1,1.0,0.0
+1394958,1777735800,10540,3553,Púchov,Zlaté Moravce,1,0,1.0,0.0
+1394961,1777797000,10538,10533,Petržalka,Dukla Banská Bystrica,1,3,0.0,2.0
+1394962,1777797000,10546,14058,Žilina II,Malženice,1,1,1.0,0.0
+1394966,1778252400,3553,10538,Zlaté Moravce,Petržalka,1,0,0.0,0.0
+1394963,1778252400,10533,14942,Dukla Banská Bystrica,Baník Lehota p.Vtáčnikom,4,1,2.0,0.0
+1394964,1778252400,10536,10540,Liptovský Mikuláš,Púchov,3,0,1.0,0.0
+1394970,1778252400,10544,19398,Slovan Bratislava II,Stará Ľubovňa,5,1,2.0,1.0
+1394967,1778252400,10552,10546,Lokomotíva Zvolen,Žilina II,5,2,1.0,0.0
+1394968,1778252400,14058,10545,Malženice,Šamorín,2,3,0.0,3.0
+1394965,1778252400,14062,4134,Považská Bystrica,Pohronie,1,1,0.0,0.0
+1394969,1778252400,14074,10547,Slávia TU Košice,Inter Bratislava,2,1,2.0,1.0
+1394975,1778857200,4134,10544,Pohronie,Slovan Bratislava II,2,1,0.0,0.0
+1394974,1778857200,10538,10536,Petržalka,Liptovský Mikuláš,2,1,0.0,1.0
+1394976,1778857200,10540,14062,Púchov,Považská Bystrica,0,1,0.0,1.0
+1394977,1778857200,10545,10552,Šamorín,Lokomotíva Zvolen,3,1,1.0,1.0
+1394978,1778857200,10546,14074,Žilina II,Slávia TU Košice,4,0,1.0,0.0
+1394971,1778857200,10547,10533,Inter Bratislava,Dukla Banská Bystrica,1,0,0.0,0.0
+1394972,1778857200,14942,3553,Baník Lehota p.Vtáčnikom,Zlaté Moravce,3,3,2.0,2.0
+1394973,1778857200,19398,14058,Stará Ľubovňa,Malženice,1,2,0.0,1.0
+1545362,1779201000,10552,10535,Lokomotíva Zvolen,Komárno,1,0,1.0,0.0
+1545363,1779561000,10535,10552,Komárno,Lokomotíva Zvolen,3,0,1.0,0.0

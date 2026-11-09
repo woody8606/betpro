@@ -1,0 +1,171 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1596813,1786197600,4710,4709,Stourbridge,Stamford,2,0,1,0
+1596806,1786197600,7622,7644,Bury Town,Halesowen Town,1,0,0,0
+1596805,1786197600,7701,7696,Bishop's Stortford,Banbury United,0,0,0,0
+1596808,1786197600,7735,7705,Needham Market,Bromsgrove Sporting,1,3,1,2
+1596811,1786197600,7741,8846,Redditch United,Leighton Town,1,1,1,0
+1596812,1786197600,7743,4682,Rushall Olympic,Hitchin Town,2,1,2,0
+1596814,1786197600,7750,9010,Stratford Town,Worcester City,1,1,1,0
+1596807,1786197600,8654,7692,Kettering Town,Alvechurch,1,0,1,0
+1596804,1786197600,8681,7727,Anstey Nomads,Leiston,1,1,1,0
+1596809,1786197600,8904,7737,Racing Club Warwick,Peterborough Sports,1,1,1,1
+1596810,1786197600,21712,8656,Real Bedford,Leamington,4,2,1,1
+1596819,1786473900,4682,7735,Hitchin Town,Needham Market,1,3,1,2
+1596824,1786473900,4709,7622,Stamford,Bury Town,0,1,0,0
+1596815,1786473900,7692,9010,Alvechurch,Worcester City,3,1,1,1
+1596816,1786473900,7696,8904,Banbury United,Racing Club Warwick,2,1,1,1
+1596817,1786473900,7705,7743,Bromsgrove Sporting,Rushall Olympic,2,1,0,1
+1596822,1786473900,7727,7701,Leiston,Bishop's Stortford,3,1,2,0
+1596823,1786473900,7737,21712,Peterborough Sports,Real Bedford,0,2,0,2
+1596825,1786473900,7750,7741,Stratford Town,Redditch United,0,0,0,0
+1596820,1786473900,8656,8681,Leamington,Anstey Nomads,1,1,0,0
+1596821,1786473900,8846,8654,Leighton Town,Kettering Town,1,1,1,0
+1596830,1786802400,4682,7741,Hitchin Town,Redditch United,1,1,0,1
+1596835,1786802400,4709,8904,Stamford,Racing Club Warwick,1,2,0,1
+1596829,1786802400,7644,7701,Halesowen Town,Bishop's Stortford,1,0,0,0
+1596826,1786802400,7692,7735,Alvechurch,Needham Market,2,0,2,0
+1596827,1786802400,7696,21712,Banbury United,Real Bedford,1,3,1,1
+1596828,1786802400,7705,8681,Bromsgrove Sporting,Anstey Nomads,1,2,1,1
+1596833,1786802400,7727,7743,Leiston,Rushall Olympic,1,2,1,1
+1596834,1786802400,7737,4710,Peterborough Sports,Stourbridge,1,2,0,2
+1596836,1786802400,7750,7622,Stratford Town,Bury Town,1,3,0,3
+1596831,1786802400,8656,8654,Leamington,Kettering Town,0,1,0,0
+1596832,1786802400,8846,9010,Leighton Town,Worcester City,2,1,0,1
+1596846,1787407200,4710,7727,Stourbridge,Leiston,2,2,2,1
+1596839,1787407200,7622,8656,Bury Town,Leamington,3,0,2,0
+1596838,1787407200,7701,7692,Bishop's Stortford,Alvechurch,0,3,0,1
+1596841,1787407200,7735,7644,Needham Market,Halesowen Town,0,1,0,1
+1596844,1787407200,7741,7705,Redditch United,Bromsgrove Sporting,1,2,1,1
+1596845,1787407200,7743,7696,Rushall Olympic,Banbury United,3,2,1,1
+1596840,1787407200,8654,7737,Kettering Town,Peterborough Sports,0,0,0,0
+1596837,1787407200,8681,8846,Anstey Nomads,Leighton Town,2,0,1,0
+1596842,1787407200,8904,4682,Racing Club Warwick,Hitchin Town,1,1,0,1
+1596847,1787407200,9010,4709,Worcester City,Stamford,1,0,1,0
+1596843,1787407200,21712,7750,Real Bedford,Stratford Town,6,1,2,0
+1596856,1787942700,7737,8681,Peterborough Sports,Anstey Nomads,2,1,2,1
+1596852,1788012000,4682,8654,Hitchin Town,Kettering Town,1,1,0,1
+1596857,1788012000,4709,7743,Stamford,Rushall Olympic,0,3,0,0
+1596851,1788012000,7644,21712,Halesowen Town,Real Bedford,0,2,0,0
+1596848,1788012000,7692,8904,Alvechurch,Racing Club Warwick,2,0,0,0
+1596849,1788012000,7696,4710,Banbury United,Stourbridge,1,1,1,0
+1596850,1788012000,7705,7701,Bromsgrove Sporting,Bishop's Stortford,3,0,0,0
+1596855,1788012000,7727,7741,Leiston,Redditch United,3,1,3,0
+1596858,1788012000,7750,7735,Stratford Town,Needham Market,1,2,1,0
+1596853,1788012000,8656,9010,Leamington,Worcester City,1,1,1,0
+1596854,1788012000,8846,7622,Leighton Town,Bury Town,2,3,2,1
+1596861,1788184800,7622,7727,Bury Town,Leiston,4,3,2,2
+1596860,1788184800,7701,4682,Bishop's Stortford,Hitchin Town,2,0,1,0
+1596863,1788184800,7735,7737,Needham Market,Peterborough Sports,3,3,0,1
+1596866,1788184800,7741,7644,Redditch United,Halesowen Town,3,1,1,0
+1596867,1788184800,7743,7692,Rushall Olympic,Alvechurch,0,1,0,1
+1596862,1788184800,8654,4709,Kettering Town,Stamford,5,0,1,0
+1596859,1788184800,8681,7696,Anstey Nomads,Banbury United,3,0,2,0
+1596864,1788184800,8904,7750,Racing Club Warwick,Stratford Town,0,0,0,0
+1596869,1788184800,9010,7705,Worcester City,Bromsgrove Sporting,0,1,0,1
+1596865,1788184800,21712,8846,Real Bedford,Leighton Town,3,2,3,0
+1596868,1788288300,4710,8656,Stourbridge,Leamington,0,2,0,1
+1596875,1789221600,4682,4710,Hitchin Town,Stourbridge,1,1,0,0
+1596874,1789221600,7644,8846,Halesowen Town,Leighton Town,4,2,2,0
+1596870,1789221600,7692,4709,Alvechurch,Stamford,4,0,2,0
+1596871,1789221600,7696,7727,Banbury United,Leiston,1,2,1,1
+1596872,1789221600,7701,8656,Bishop's Stortford,Leamington,3,1,1,1
+1596873,1789221600,7705,7622,Bromsgrove Sporting,Bury Town,1,0,0,0
+1596877,1789221600,7735,9010,Needham Market,Worcester City,2,0,1,0
+1596878,1789221600,7737,7743,Peterborough Sports,Rushall Olympic,4,2,2,2
+1596876,1789221600,8654,7750,Kettering Town,Stratford Town,1,0,1,0
+1596879,1789221600,8904,8681,Racing Club Warwick,Anstey Nomads,2,3,0,1
+1596880,1789221600,21712,7741,Real Bedford,Redditch United,2,1,1,1
+1596888,1789826400,4709,7701,Stamford,Bishop's Stortford,0,3,0,0
+1596881,1790016300,7741,8904,Redditch United,Racing Club Warwick,2,1,1,0
+1596889,1790102700,4710,21712,Stourbridge,Real Bedford,1,4,1,2
+1596883,1790102700,7622,4682,Bury Town,Hitchin Town,1,0,1,0
+1596886,1790102700,7727,7737,Leiston,Peterborough Sports,0,2,0,1
+1596887,1790102700,7743,8654,Rushall Olympic,Kettering Town,3,2,2,1
+1596890,1790102700,7750,7705,Stratford Town,Bromsgrove Sporting,2,3,0,0
+1596882,1790102700,8681,7692,Anstey Nomads,Alvechurch,2,2,1,0
+1596891,1790102700,9010,7696,Worcester City,Banbury United,0,0,0,0
+1596897,1790707500,4682,8846,Hitchin Town,Leighton Town,1,0,1,0
+1596896,1790707500,7644,7743,Halesowen Town,Rushall Olympic,1,0,1,0
+1596892,1790707500,7692,4710,Alvechurch,Stourbridge,0,0,0,0
+1596893,1790707500,7696,7750,Banbury United,Stratford Town,2,3,1,1
+1596894,1790707500,7701,7622,Bishop's Stortford,Bury Town,1,2,0,1
+1596895,1790707500,7705,8656,Bromsgrove Sporting,Leamington,1,1,1,1
+1596899,1790707500,7735,4709,Needham Market,Stamford,4,0,4,0
+1596900,1790707500,7737,7741,Peterborough Sports,Redditch United,2,2,0,1
+1596898,1790707500,8654,8681,Kettering Town,Anstey Nomads,4,1,4,1
+1596901,1790707500,8904,9010,Racing Club Warwick,Worcester City,2,2,0,1
+1596902,1790707500,21712,7727,Real Bedford,Leiston,3,2,0,0
+1596911,1791036000,4710,8904,Stourbridge,Racing Club Warwick,0,1,0,1
+1596909,1791036000,7743,7735,Rushall Olympic,Needham Market,5,3,3,1
+1596905,1791036000,8656,4682,Leamington,Hitchin Town,4,0,1,0
+1596906,1791036000,8846,7737,Leighton Town,Peterborough Sports,2,4,0,2
+1596916,1791640800,4682,7737,Hitchin Town,Peterborough Sports,0,1,0,0
+1596923,1791640800,4710,8846,Stourbridge,Leighton Town,2,1,1,0
+1596914,1791640800,7692,7622,Alvechurch,Bury Town,0,1,0,0
+1596915,1791640800,7696,4709,Banbury United,Stamford,3,2,1,1
+1596918,1791640800,7735,8681,Needham Market,Anstey Nomads,1,1,1,1
+1596921,1791640800,7741,7701,Redditch United,Bishop's Stortford,3,1,1,1
+1596922,1791640800,7743,9010,Rushall Olympic,Worcester City,1,0,1,0
+1596924,1791640800,7750,8656,Stratford Town,Leamington,2,1,1,0
+1596917,1791640800,8654,7644,Kettering Town,Halesowen Town,1,1,0,1
+1596919,1791640800,8904,7727,Racing Club Warwick,Leiston,0,0,0,0
+1596920,1791640800,21712,7705,Real Bedford,Bromsgrove Sporting,1,1,0,0
+1596934,1791917100,4709,7750,Stamford,Stratford Town,0,0,0,0
+1596928,1791917100,7622,7735,Bury Town,Needham Market,0,5,0,3
+1596929,1791917100,7644,7692,Halesowen Town,Alvechurch,1,1,0,0
+1596927,1791917100,7705,8654,Bromsgrove Sporting,Kettering Town,2,1,0,1
+1596933,1791917100,7737,7696,Peterborough Sports,Banbury United,4,2,2,1
+1596930,1791917100,8656,7741,Leamington,Redditch United,2,2,0,2
+1596925,1791917100,8681,7743,Anstey Nomads,Rushall Olympic,3,2,1,2
+1596935,1791917100,9010,4710,Worcester City,Stourbridge,1,3,0,2
+1596945,1792245600,4709,21712,Stamford,Real Bedford,0,4,0,3
+1596939,1792245600,7622,4710,Bury Town,Stourbridge,2,0,0,0
+1596940,1792245600,7644,4682,Halesowen Town,Hitchin Town,2,1,1,0
+1596937,1792245600,7701,8904,Bishop's Stortford,Racing Club Warwick,2,4,0,2
+1596938,1792245600,7705,7696,Bromsgrove Sporting,Banbury United,1,1,0,0
+1596957,1792245600,7750,7737,Stratford Town,Peterborough Sports,1,1,1,1
+1596941,1792245600,8656,7735,Leamington,Needham Market,1,2,1,2
+1596942,1792245600,8846,7743,Leighton Town,Rushall Olympic,0,3,0,3
+1596950,1792521900,4682,4709,Hitchin Town,Stamford,3,0,1,0
+1596949,1792521900,7696,8846,Banbury United,Leighton Town,1,0,1,0
+1596952,1792521900,7735,7701,Needham Market,Bishop's Stortford,2,1,2,0
+1596955,1792521900,7743,8656,Rushall Olympic,Leamington,3,1,2,1
+1596951,1792521900,8654,7727,Kettering Town,Leiston,4,0,2,0
+1596953,1792521900,8904,7644,Racing Club Warwick,Halesowen Town,5,1,5,0
+1596954,1792521900,21712,7622,Real Bedford,Bury Town,2,2,1,1
+1596963,1792850400,4682,7622,Hitchin Town,Bury Town,5,1,3,1
+1596926,1792850400,7701,21712,Bishop's Stortford,Real Bedford,3,1,2,0
+1596912,1792850400,7750,7692,Stratford Town,Alvechurch,4,4,2,2
+1596962,1793130300,7644,8656,Halesowen Town,Leamington,3,2,1,2
+1596958,1793130300,7692,8681,Alvechurch,Anstey Nomads,2,2,1,2
+1596959,1793130300,7696,9010,Banbury United,Worcester City,0,3,0,1
+1596960,1793130300,7701,4709,Bishop's Stortford,Stamford,0,1,0,0
+1596961,1793130300,7705,7750,Bromsgrove Sporting,Stratford Town,2,2,1,0
+1596965,1793130300,7735,8846,Needham Market,Leighton Town,1,1,0,1
+1596966,1793130300,7737,7727,Peterborough Sports,Leiston,2,5,1,2
+1596964,1793130300,8654,7743,Kettering Town,Rushall Olympic,3,2,0,2
+1596967,1793130300,8904,7741,Racing Club Warwick,Redditch United,1,2,1,1
+1596968,1793130300,21712,4710,Real Bedford,Stourbridge,0,1,0,1
+1596976,1793455200,4709,7644,Stamford,Halesowen Town,0,4,0,1
+1596977,1793458800,4710,8654,Stourbridge,Kettering Town,4,1,2,0
+1596970,1793458800,7622,7696,Bury Town,Banbury United,2,2,0,1
+1596973,1793458800,7727,7692,Leiston,Alvechurch,1,3,1,2
+1596974,1793458800,7741,7735,Redditch United,Needham Market,3,3,0,1
+1596975,1793458800,7743,8904,Rushall Olympic,Racing Club Warwick,0,1,0,1
+1596978,1793458800,7750,4682,Stratford Town,Hitchin Town,3,1,2,0
+1596971,1793458800,8656,7737,Leamington,Peterborough Sports,2,4,0,3
+1596969,1793458800,8681,7701,Anstey Nomads,Bishop's Stortford,4,1,2,0
+1596972,1793458800,8846,7705,Leighton Town,Bromsgrove Sporting,1,5,0,2
+1596979,1793458800,9010,21712,Worcester City,Real Bedford,4,1,3,1
+1596904,1793735100,7622,8654,Bury Town,Kettering Town,2,3,2,2
+1596903,1793735100,8681,21712,Anstey Nomads,Real Bedford,1,2,1,1
+1596984,1794063600,7644,8681,Halesowen Town,Anstey Nomads,3,5,0,5
+1596981,1794063600,7696,8656,Banbury United,Leamington,0,1,0,1
+1596982,1794063600,7701,7750,Bishop's Stortford,Stratford Town,0,1,0,0
+1596983,1794063600,7705,7727,Bromsgrove Sporting,Leiston,3,2,2,0
+1596987,1794063600,7735,4710,Needham Market,Stourbridge,4,1,1,0
+1596988,1794063600,7737,4709,Peterborough Sports,Stamford,1,1,1,1
+1596986,1794063600,8654,7741,Kettering Town,Redditch United,2,1,1,0
+1596995,1794063600,8846,4682,Leighton Town,Hitchin Town,1,3,0,1
+1596989,1794063600,8904,7622,Racing Club Warwick,Bury Town,1,3,1,1
+1596990,1794063600,21712,7743,Real Bedford,Rushall Olympic,3,0,0,0

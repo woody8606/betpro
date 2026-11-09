@@ -1,0 +1,102 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1555107,1787070600,4482,6194,Hapoel Acre,Maccabi Kiryat Gat,0,2,0,1
+1555108,1787070600,4483,4507,Hapoel Afula,Ashdod,2,0,1,0
+1555110,1787070600,4491,4497,Hapoel Rishon LeZion,Hapoel Kfar Saba,2,0,0,0
+1555111,1787070600,4509,4494,Hapoel Ra'anana,Maccabi Ahi Nazareth,2,0,2,0
+1555109,1787070600,6160,4493,Hapoel Kfar Shalem,Kafr Qasim,2,0,0,0
+1555112,1787070600,6179,4503,Ironi Modi'in,Maccabi Herzliya,0,2,0,1
+1555113,1787070600,6186,4508,Maccabi Bnei Raina,Bnei Yehuda,1,4,1,1
+1555114,1787070600,6192,20105,Maccabi Kabilio Jaffa,Kiryat Yam SC,2,6,1,3
+1555121,1787500800,4493,4482,Kafr Qasim,Hapoel Acre,4,0,0,0
+1555116,1787500800,4497,6179,Hapoel Kfar Saba,Ironi Modi'in,1,4,0,0
+1555119,1787500800,4503,4509,Maccabi Herzliya,Hapoel Ra'anana,2,3,2,2
+1555115,1787500800,4508,6160,Bnei Yehuda,Hapoel Kfar Shalem,3,1,1,1
+1555118,1787500800,20105,6186,Kiryat Yam SC,Maccabi Bnei Raina,0,1,0,0
+1555120,1787587200,4494,4483,Maccabi Ahi Nazareth,Hapoel Afula,0,1,0,1
+1555122,1787587200,4507,6192,Ashdod,Maccabi Kabilio Jaffa,1,0,0,0
+1555117,1787587200,6194,4491,Maccabi Kiryat Gat,Hapoel Rishon LeZion,1,2,0,1
+1555126,1788105600,4491,4493,Hapoel Rishon LeZion,Kafr Qasim,2,1,2,0
+1555130,1788105600,4503,4497,Maccabi Herzliya,Hapoel Kfar Saba,0,2,0,1
+1555125,1788105600,6160,20105,Hapoel Kfar Shalem,Kiryat Yam SC,3,2,2,1
+1555127,1788105600,6179,6194,Ironi Modi'in,Maccabi Kiryat Gat,1,1,0,0
+1555129,1788105600,6192,4494,Maccabi Kabilio Jaffa,Maccabi Ahi Nazareth,1,2,1,2
+1555123,1788192000,4482,4508,Hapoel Acre,Bnei Yehuda,0,3,0,2
+1555124,1788192000,4483,4509,Hapoel Afula,Hapoel Ra'anana,3,2,3,0
+1555128,1788192000,6186,4507,Maccabi Bnei Raina,Ashdod,1,2,0,2
+1555132,1788710400,4483,6192,Hapoel Afula,Maccabi Kabilio Jaffa,0,1,0,0
+1555136,1788710400,4494,6186,Maccabi Ahi Nazareth,Maccabi Bnei Raina,1,2,0,2
+1555138,1788710400,4507,6160,Ashdod,Hapoel Kfar Shalem,4,0,2,0
+1555133,1788710400,4509,4497,Hapoel Ra'anana,Hapoel Kfar Saba,6,1,2,0
+1555135,1788710400,20105,4482,Kiryat Yam SC,Hapoel Acre,5,0,2,0
+1555137,1788796800,4493,6179,Kafr Qasim,Ironi Modi'in,0,0,0,0
+1555131,1788796800,4508,4491,Bnei Yehuda,Hapoel Rishon LeZion,0,0,0,0
+1555134,1788796800,6194,4503,Maccabi Kiryat Gat,Maccabi Herzliya,1,1,0,0
+1555142,1789056000,4491,20105,Hapoel Rishon LeZion,Kiryat Yam SC,4,2,2,0
+1555140,1789056000,4497,6194,Hapoel Kfar Saba,Maccabi Kiryat Gat,2,0,2,0
+1555141,1789056000,6160,4494,Hapoel Kfar Shalem,Maccabi Ahi Nazareth,3,3,2,0
+1555143,1789056000,6179,4508,Ironi Modi'in,Bnei Yehuda,2,4,0,3
+1555144,1789056000,6186,4483,Maccabi Bnei Raina,Hapoel Afula,4,2,1,2
+1555145,1789056000,6192,4509,Maccabi Kabilio Jaffa,Hapoel Ra'anana,1,3,0,1
+1555139,1789401600,4482,4507,Hapoel Acre,Ashdod,0,4,0,2
+1555146,1789401600,4503,4493,Maccabi Herzliya,Kafr Qasim,1,0,1,0
+1555148,1789660800,4483,6160,Hapoel Afula,Hapoel Kfar Shalem,3,3,1,2
+1555153,1789660800,4493,4497,Kafr Qasim,Hapoel Kfar Saba,4,2,1,0
+1555152,1789660800,4494,4482,Maccabi Ahi Nazareth,Hapoel Acre,1,0,1,0
+1555154,1789660800,4507,4491,Ashdod,Hapoel Rishon LeZion,3,2,1,1
+1555147,1789660800,4508,4503,Bnei Yehuda,Maccabi Herzliya,1,1,1,0
+1555149,1789660800,4509,6194,Hapoel Ra'anana,Maccabi Kiryat Gat,0,1,0,0
+1555151,1789660800,6192,6186,Maccabi Kabilio Jaffa,Maccabi Bnei Raina,0,2,0,0
+1555150,1789660800,20105,6179,Kiryat Yam SC,Ironi Modi'in,3,2,2,1
+1555155,1790265600,4482,4483,Hapoel Acre,Hapoel Afula,0,3,0,1
+1555158,1790265600,4491,4494,Hapoel Rishon LeZion,Maccabi Ahi Nazareth,1,0,0,0
+1555162,1790265600,4503,20105,Maccabi Herzliya,Kiryat Yam SC,1,3,1,1
+1555159,1790265600,6179,4507,Ironi Modi'in,Ashdod,1,3,0,1
+1555156,1790611200,4497,4508,Hapoel Kfar Saba,Bnei Yehuda,1,2,1,1
+1555157,1790611200,6160,6192,Hapoel Kfar Shalem,Maccabi Kabilio Jaffa,3,1,1,0
+1555160,1790611200,6194,4493,Maccabi Kiryat Gat,Kafr Qasim,0,1,0,0
+1555161,1790613900,6186,4509,Maccabi Bnei Raina,Hapoel Ra'anana,1,2,1,2
+1555164,1790870400,4483,4491,Hapoel Afula,Hapoel Rishon LeZion,2,2,1,1
+1555169,1790870400,4494,6179,Maccabi Ahi Nazareth,Ironi Modi'in,1,2,0,1
+1555170,1790870400,4507,4503,Ashdod,Maccabi Herzliya,1,0,1,0
+1555163,1790870400,4508,6194,Bnei Yehuda,Maccabi Kiryat Gat,2,1,1,0
+1555165,1790870400,4509,4493,Hapoel Ra'anana,Kafr Qasim,1,2,0,1
+1555167,1790870400,6186,6160,Maccabi Bnei Raina,Hapoel Kfar Shalem,1,2,0,1
+1555168,1790870400,6192,4482,Maccabi Kabilio Jaffa,Hapoel Acre,1,0,0,0
+1555166,1790870400,20105,4497,Kiryat Yam SC,Hapoel Kfar Saba,2,0,1,0
+1555171,1791550800,4482,6186,Hapoel Acre,Maccabi Bnei Raina,0,0,0,0
+1555178,1791550800,4493,4508,Kafr Qasim,Bnei Yehuda,0,1,0,0
+1555177,1791550800,4503,4494,Maccabi Herzliya,Maccabi Ahi Nazareth,1,2,0,1
+1555175,1791550800,6179,4483,Ironi Modi'in,Hapoel Afula,1,2,0,1
+1555176,1791550800,6194,20105,Maccabi Kiryat Gat,Kiryat Yam SC,2,2,1,0
+1555174,1791820800,4491,6192,Hapoel Rishon LeZion,Maccabi Kabilio Jaffa,3,0,1,0
+1555172,1791820800,4497,4507,Hapoel Kfar Saba,Ashdod,2,4,1,2
+1555173,1791820800,6160,4509,Hapoel Kfar Shalem,Hapoel Ra'anana,2,1,1,0
+1555179,1792155600,4483,4503,Hapoel Afula,Maccabi Herzliya,0,0,0,0
+1555185,1792155600,4494,4497,Maccabi Ahi Nazareth,Hapoel Kfar Saba,0,4,0,1
+1555186,1792155600,4507,6194,Ashdod,Maccabi Kiryat Gat,0,0,0,0
+1555184,1792155600,6192,6179,Maccabi Kabilio Jaffa,Ironi Modi'in,0,2,0,1
+1555182,1792155600,20105,4493,Kiryat Yam SC,Kafr Qasim,2,1,2,1
+1555181,1792425600,4509,4508,Hapoel Ra'anana,Bnei Yehuda,1,1,0,0
+1555180,1792425600,6160,4482,Hapoel Kfar Shalem,Hapoel Acre,4,0,1,0
+1555183,1792425600,6186,4491,Maccabi Bnei Raina,Hapoel Rishon LeZion,1,1,1,1
+1555188,1792760400,4482,4509,Hapoel Acre,Hapoel Ra'anana,0,1,0,0
+1555190,1792760400,4491,6160,Hapoel Rishon LeZion,Hapoel Kfar Shalem,0,3,0,1
+1555194,1792760400,4493,4507,Kafr Qasim,Ashdod,0,1,0,0
+1555189,1792760400,4497,4483,Hapoel Kfar Saba,Hapoel Afula,2,0,1,0
+1555193,1792760400,4503,6192,Maccabi Herzliya,Maccabi Kabilio Jaffa,0,1,0,0
+1555187,1792760400,4508,20105,Bnei Yehuda,Kiryat Yam SC,5,1,2,1
+1555191,1792760400,6179,6186,Ironi Modi'in,Maccabi Bnei Raina,0,6,0,4
+1555192,1792760400,6194,4494,Maccabi Kiryat Gat,Maccabi Ahi Nazareth,2,2,0,1
+1555195,1793365200,4482,4491,Hapoel Acre,Hapoel Rishon LeZion,2,2,1,1
+1555196,1793365200,4483,6194,Hapoel Afula,Maccabi Kiryat Gat,1,0,0,0
+1555201,1793365200,4494,4493,Maccabi Ahi Nazareth,Kafr Qasim,3,2,1,0
+1555199,1793365200,6186,4503,Maccabi Bnei Raina,Maccabi Herzliya,1,1,1,0
+1555202,1793638800,4507,4508,Ashdod,Bnei Yehuda,3,1,1,1
+1555198,1793638800,4509,20105,Hapoel Ra'anana,Kiryat Yam SC,3,2,2,0
+1555197,1793638800,6160,6179,Hapoel Kfar Shalem,Ironi Modi'in,3,2,1,0
+1555200,1793638800,6192,4497,Maccabi Kabilio Jaffa,Hapoel Kfar Saba,0,3,0,2
+1555205,1793970000,4491,4509,Hapoel Rishon LeZion,Hapoel Ra'anana,1,2,1,1
+1555209,1793970000,4503,6160,Maccabi Herzliya,Hapoel Kfar Shalem,0,1,0,0
+1555203,1793970000,4508,4494,Bnei Yehuda,Maccabi Ahi Nazareth,2,1,1,0
+1555207,1793970000,6194,6192,Maccabi Kiryat Gat,Maccabi Kabilio Jaffa,2,1,0,1
+1555208,1793970000,20105,4507,Kiryat Yam SC,Ashdod,4,0,3,0

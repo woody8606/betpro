@@ -1,66 +1,94 @@
 date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,close_odds,clv,result,profit
-2026-11-08,15:30,1555423,Switzerland - Super League,FC Thun - FC Basel 1893,value,O25HT,0.2831,0.3355,0.2308,4.0,Betfair,3.0,0.1325,,,,
-2026-11-08,15:30,1494335,Sweden - Allsvenskan,Kalmar FF - Sirius,value,O35,0.3636,0.39,0.3372,2.88,Betfair,3.0,0.0472,,,,
-2026-11-08,16:00,1581561,Armenia - Premier League,FC Urartu - Ararat-Armenia,value,GG,0.612,0.6673,0.5567,1.73,Betfair,3.0,0.0588,,,,
-2026-11-08,16:00,1494797,Norway - Eliteserien,Ham-Kam - Sarpsborg 08 FF,value,O35,0.4079,0.442,0.3738,2.55,Betfair,3.0,0.0401,,,,
-2026-11-08,16:00,1565528,Ukraine - Premier League,Shakhtar Donetsk - Dynamo Kyiv,value,A15,0.2789,0.2958,0.2621,4.0,Betfair,3.0,0.1158,,,,
-2026-11-08,16:30,1608354,Italy - Serie C - Girone A,Folgore Caratese - Athletic Carpi,value,O35,0.2986,0.3442,0.253,3.8,Betfair,3.0,0.1348,,,,
-2026-11-08,16:45,1611443,Algeria - Ligue 1,Ben Aknoun - CR Belouizdad,value,A15,0.4843,0.5411,0.4275,2.2,Betfair,3.0,0.0654,,,,
-2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,value,O25,0.4152,0.4716,0.3587,2.63,Betfair,3.0,0.0919,,,,
-2026-11-08,17:00,1603602,Cyprus - 1. Division,Apoel Nicosia - Aris,value,H15,0.5024,0.5377,0.467,2.1,Betfair,3.0,0.0549,,,,
-2026-11-08,17:00,1617076,Spain - Tercera División RFEF - Group 15,Subiza - Txantrea,value,O15HT,0.4321,0.4625,0.4016,2.55,Betfair,3.0,0.1017,,,,
-2026-11-08,18:30,1584073,Germany - 3. Liga,Würzburger Kickers - Hoffenheim II,value,H15,0.5173,0.5685,0.466,2.0,Betfair,3.0,0.0345,,,,
-2026-11-08,18:45,1639803,Ecuador - Liga Pro,Aucas - Independiente del Valle,value,O15HT,0.3432,0.4004,0.286,3.3,Betfair,3.0,0.1325,,,,
-2026-11-08,19:00,1600695,Chile - Segunda División,Provincial Ovalle - Santiago Morning,value,O15HT,0.3419,0.3897,0.2941,3.2,Betfair,3.0,0.094,,,,
-2026-11-08,19:15,1553221,Poland - Ekstraklasa,Lech Poznan - Zaglebie Lubin,value,O35,0.4293,0.4656,0.393,2.45,Betfair,3.0,0.0518,,,,
-2026-11-08,19:30,1647468,Venezuela - Segunda División,Monagas II - Urena SC,value,O15HT,0.4169,0.4464,0.3874,2.55,Betfair,3.0,0.0631,,,,
-2026-11-08,19:30,1571201,Spain - Primera División RFEF - Group 2,Real Murcia - Algeciras,value,GG,0.5247,0.5764,0.473,2.05,Betfair,3.0,0.0756,,,,
-2026-11-08,20:00,1649425,Jamaica - Premier League,Mount Pleasant Academy - Tivoli Gardens,value,O15HT,0.3873,0.4356,0.339,2.75,Betfair,3.0,0.0651,,,,
-2026-11-08,20:00,1649426,Jamaica - Premier League,Treasure Beach - Dunbeholden,value,H15,0.3973,0.4438,0.3507,2.75,Betfair,3.0,0.0924,,,,
-2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,value,O35,0.4366,0.4822,0.391,2.45,Betfair,3.0,0.0697,,,,
-2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,value,H15,0.6207,0.6759,0.5654,1.67,Betfair,3.0,0.0365,,,,
-2026-11-08,15:30,1555423,Switzerland - Super League,FC Thun - FC Basel 1893,sigur,O15,0.8825,0.9065,0.8586,1.1,Betfair,3.0,,,,,
-2026-11-08,15:45,1552219,Netherlands - Eredivisie,Cambuur - PSV Eindhoven,sigur,O15,0.9124,0.9313,0.8935,1.06,Betfair,3.0,,,,,
-2026-11-08,16:00,1556701,Scotland - Premiership,Celtic - Kilmarnock,sigur,O15,0.8841,0.8801,0.8882,1.05,Betfair,3.0,,,,,
-2026-11-08,16:00,1494799,Norway - Eliteserien,Lillestrom - Aalesund,sigur,O15,0.8703,0.8638,0.8768,1.07,Betfair,3.0,,,,,
-2026-11-08,16:00,1494803,Norway - Eliteserien,Viking - KFUM Oslo,sigur,O15,0.8805,0.9055,0.8555,1.07,Betfair,3.0,,,,,
-2026-11-08,16:30,1597958,Qatar - Stars League,Al Sadd - Al-Rayyan SC,sigur,O15,0.8833,0.9099,0.8568,1.1,Betfair,3.0,,,,,
-2026-11-08,17:00,1549054,Denmark - Superliga,FC Midtjylland - Sonderjyske,sigur,O15,0.8656,0.8808,0.8505,1.1,Betfair,3.0,,,,,
-2026-11-08,18:00,1505560,Chile - Primera División,Universidad de Chile - Cobresal,sigur,O15,0.8677,0.8976,0.8378,1.1,Betfair,3.0,,,,,
-2026-11-08,22:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,sigur,O15,0.8766,0.8766,,,,,,,,,
-2026-11-08,23:00,1648331,USA - MLS Next Pro,Chattanooga - Los Angeles FC II,sigur,O15,0.8716,0.8716,,,,,,,,,
-2026-11-08,15:30,1555421,Switzerland - Super League,Servette FC - FC Zurich,bomba HT/FT,HTFT_1_1,0.3449,0.3449,0.2799,3.1,Betfair,3.0,,,,,
-2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,bomba HT/FT,HTFT_1_1,0.3383,0.3383,0.2541,3.3,Betfair,3.0,,,,,
-2026-11-08,15:30,1494335,Sweden - Allsvenskan,Kalmar FF - Sirius,bomba HT/FT,HTFT_2_2,0.3312,0.3312,0.2593,3.1,Betfair,3.0,,,,,
-2026-11-08,16:00,1648432,Malta - Premier League,Sliema Wanderers - Valletta FC,bomba scor,CS_0_1,0.1867,0.1867,,6.0,Betfair,3.0,,,,,
-2026-11-08,15:30,1600723,Chile - Segunda División,Municipal Salamanca - Colchagua,bomba scor,CS_1_0,0.178,0.178,,6.0,Betfair,3.0,,,,,
-2026-11-08,20:00,1649426,Jamaica - Premier League,Treasure Beach - Dunbeholden,bomba scor,CS_1_0,0.1344,0.1344,,8.5,Betfair,3.0,,,,,
-2026-11-08,16:30,1608354,Italy - Serie C - Girone A,Folgore Caratese - Athletic Carpi,value,O25,0.519,0.5682,0.4698,2.1,Betfair,3.0,0.09,,,,
-2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,value,O15HT,0.2893,0.3212,0.2574,3.8,Betfair,3.0,0.0992,,,,
-2026-11-08,17:00,1565295,Romania - Liga I,CFR 1907 Cluj - Universitatea Craiova,value,H15,0.2844,0.3341,0.2347,3.75,Betfair,3.0,0.0665,,,,
-2026-11-08,17:15,1570816,Spain - Primera División RFEF - Group 1,Mérida AD - Athletic Club II,value,O35,0.3245,0.3195,0.3294,3.25,Betfair,3.0,0.0545,,,,
-2026-11-08,23:30,1646935,Venezuela - Primera División,Deportivo La Guaira - Carabobo FC,value,O35,0.3105,0.3447,0.2763,3.4,Betfair,3.0,0.0557,,,,
-2026-11-08,20:30,1575538,Portugal - Primeira Liga,Estrela - Benfica,sigur,O15,0.8548,0.8488,0.8609,1.08,Betfair,3.0,,,,,
-2026-11-08,18:45,1639803,Ecuador - Liga Pro,Aucas - Independiente del Valle,bomba HT/FT,HTFT_2_2,0.3152,0.3152,0.2226,3.6,Betfair,3.0,,,,,
-2026-11-08,23:30,1645540,Bolivia - Primera División,Blooming - Oriente Petrolero,bomba HT/FT,HTFT_1_1,0.29,0.29,0.2027,4.2,Betfair,3.0,,,,,
-2026-11-08,21:00,1648326,Argentina - Torneo Federal A,Sarmiento de La Banda - Alvarado,bomba scor,CS_0_0,0.2106,0.2106,,5.0,Betfair,3.0,,,,,
-2026-11-08,20:30,1575538,Portugal - Primeira Liga,Estrela - Benfica,value,GG,0.535,0.55,0.52,1.95,Betfair,3.0,0.0432,,,,
-2026-11-08,21:00,1559698,Guatemala - Liga Nacional,Cobán Imperial - Xelajú,value,O35,0.2958,0.3209,0.2707,3.5,Betfair,3.0,0.0354,,,,
-2026-11-08,21:00,1642313,Honduras - Liga Nacional,Platense FC - Génesis,value,O35,0.3044,0.3153,0.2936,3.4,Betfair,3.0,0.035,,,,
-2026-11-08,21:05,1549859,Colombia - Primera A,Jaguares - Bucaramanga,value,H15,0.3229,0.364,0.2817,3.2,Betfair,3.0,0.0331,,,,
-2026-11-08,21:30,1646934,Venezuela - Primera División,Portuguesa FC - Metropolitanos FC,value,HTFT_2_2,0.2593,0.3127,0.2059,4.2,Betfair,3.0,0.0891,,,,
-2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,value,GG,0.5554,0.6055,0.5054,1.87,Betfair,3.0,0.0387,,,,
-2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,value,O15HT,0.3621,0.39,0.3341,2.88,Betfair,3.0,0.0427,,,,
-2026-11-08,23:30,1646935,Venezuela - Primera División,Deportivo La Guaira - Carabobo FC,value,O25,0.5193,0.5687,0.4698,2.0,Betfair,3.0,0.0385,,,,
-2026-11-08,20:30,1575541,Portugal - Primeira Liga,Rio Ave - SC Braga,sigur,O15,0.8009,0.8097,0.7921,1.18,Betfair,3.0,,,,,
-2026-11-08,21:15,1645539,Bolivia - Primera División,Bolívar - The Strongest,sigur,O15,0.8311,0.8154,0.8468,1.1,Betfair,3.0,,,,,
-2026-11-08,22:00,1557231,USA - USL Super League,Dallas Trinity W - Sporting JAX W,sigur,O15,0.8076,0.8738,0.7415,,,,,,,,
-2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,sigur,O15,0.8392,0.8731,0.8053,1.14,Betfair,3.0,,,,,
-2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,sigur,O15,0.7849,0.7193,0.8506,1.1,Betfair,3.0,,,,,
-2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,sigur,O15,0.788,0.8611,0.7149,1.3,Betfair,3.0,,,,,
-2026-11-08,23:00,1600652,El-Salvador - Primera Division,Municipal Limeño - Atletico Balboa,sigur,O15,0.7811,0.8305,0.7318,,,,,,,,
-2026-11-08,21:30,1646934,Venezuela - Primera División,Portuguesa FC - Metropolitanos FC,bomba HT/FT,HTFT_2_2,0.2593,0.2593,0.2059,4.2,Betfair,3.0,,,,,
-2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,bomba HT/FT,HTFT_X_1,0.2288,0.2288,0.2067,4.5,Betfair,3.0,,,,,
-2026-11-08,23:30,1645540,Bolivia - Primera División,Blooming - Oriente Petrolero,bomba scor,CS_1_0,0.1292,0.1292,,9.0,Betfair,3.0,,,,,
-2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,bomba scor,CS_1_0,0.1189,0.1189,0.0793,10.0,Betfair,3.0,,,,,
-2026-11-08,21:30,1639804,Ecuador - Liga Pro,Barcelona SC - LDU de Quito,bomba scor,CS_0_0,0.1053,0.1053,0.0804,10.0,Betfair,3.0,,,,,
+2026-11-08,15:30,1555423,Switzerland - Super League,FC Thun - FC Basel 1893,value,O25HT,0.2831,0.3355,0.2308,4.0,Betfair,3.0,0.1325,4.0,0.0,iesit,3.0
+2026-11-08,15:30,1494335,Sweden - Allsvenskan,Kalmar FF - Sirius,value,O35,0.3636,0.39,0.3372,2.88,Betfair,3.0,0.0472,2.88,0.0,pierdut,-1.0
+2026-11-08,16:00,1581561,Armenia - Premier League,FC Urartu - Ararat-Armenia,value,GG,0.612,0.6673,0.5567,1.73,Betfair,3.0,0.0588,,,anulat,0.0
+2026-11-08,16:00,1494797,Norway - Eliteserien,Ham-Kam - Sarpsborg 08 FF,value,O35,0.4079,0.442,0.3738,2.55,Betfair,3.0,0.0401,2.55,0.0,pierdut,-1.0
+2026-11-08,16:00,1565528,Ukraine - Premier League,Shakhtar Donetsk - Dynamo Kyiv,value,A15,0.2789,0.2958,0.2621,4.0,Betfair,3.0,0.1158,3.5,0.1429,pierdut,-1.0
+2026-11-08,16:30,1608354,Italy - Serie C - Girone A,Folgore Caratese - Athletic Carpi,value,O35,0.2986,0.3442,0.253,3.8,Betfair,3.0,0.1348,3.8,0.0,pierdut,-1.0
+2026-11-08,16:45,1611443,Algeria - Ligue 1,Ben Aknoun - CR Belouizdad,value,A15,0.4843,0.5411,0.4275,2.2,Betfair,3.0,0.0654,2.2,0.0,pierdut,-1.0
+2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,value,O25,0.4152,0.4716,0.3587,2.63,Betfair,3.0,0.0919,2.6,0.0115,pierdut,-1.0
+2026-11-08,17:00,1603602,Cyprus - 1. Division,Apoel Nicosia - Aris,value,H15,0.5024,0.5377,0.467,2.1,Betfair,3.0,0.0549,2.1,0.0,iesit,1.1
+2026-11-08,17:00,1617076,Spain - Tercera División RFEF - Group 15,Subiza - Txantrea,value,O15HT,0.4321,0.4625,0.4016,2.55,Betfair,3.0,0.1017,2.55,0.0,iesit,1.55
+2026-11-08,18:30,1584073,Germany - 3. Liga,Würzburger Kickers - Hoffenheim II,value,H15,0.5173,0.5685,0.466,2.0,Betfair,3.0,0.0345,2.0,0.0,pierdut,-1.0
+2026-11-08,18:45,1639803,Ecuador - Liga Pro,Aucas - Independiente del Valle,value,O15HT,0.3432,0.4004,0.286,3.3,Betfair,3.0,0.1325,3.6,-0.0833,iesit,2.3
+2026-11-08,19:00,1600695,Chile - Segunda División,Provincial Ovalle - Santiago Morning,value,O15HT,0.3419,0.3897,0.2941,3.2,Betfair,3.0,0.094,3.2,0.0,pierdut,-1.0
+2026-11-08,19:15,1553221,Poland - Ekstraklasa,Lech Poznan - Zaglebie Lubin,value,O35,0.4293,0.4656,0.393,2.45,Betfair,3.0,0.0518,2.4,0.0208,iesit,1.45
+2026-11-08,19:30,1647468,Venezuela - Segunda División,Monagas II - Urena SC,value,O15HT,0.4169,0.4464,0.3874,2.55,Betfair,3.0,0.0631,2.55,0.0,pierdut,-1.0
+2026-11-08,19:30,1571201,Spain - Primera División RFEF - Group 2,Real Murcia - Algeciras,value,GG,0.5247,0.5764,0.473,2.05,Betfair,3.0,0.0756,2.0,0.025,iesit,1.05
+2026-11-08,20:00,1649425,Jamaica - Premier League,Mount Pleasant Academy - Tivoli Gardens,value,O15HT,0.3873,0.4356,0.339,2.75,Betfair,3.0,0.0651,2.5,0.1,pierdut,-1.0
+2026-11-08,20:00,1649426,Jamaica - Premier League,Treasure Beach - Dunbeholden,value,H15,0.3973,0.4438,0.3507,2.75,Betfair,3.0,0.0924,2.75,0.0,pierdut,-1.0
+2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,value,O35,0.4366,0.4822,0.391,2.45,Betfair,3.0,0.0697,2.25,0.0889,pierdut,-1.0
+2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,value,H15,0.6207,0.6759,0.5654,1.67,Betfair,3.0,0.0365,1.73,-0.0347,pierdut,-1.0
+2026-11-08,15:30,1555423,Switzerland - Super League,FC Thun - FC Basel 1893,sigur,O15,0.8825,0.9065,0.8586,1.1,Betfair,3.0,,,,iesit,0.1
+2026-11-08,15:45,1552219,Netherlands - Eredivisie,Cambuur - PSV Eindhoven,sigur,O15,0.9124,0.9313,0.8935,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-08,16:00,1556701,Scotland - Premiership,Celtic - Kilmarnock,sigur,O15,0.8841,0.8801,0.8882,1.05,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,16:00,1494799,Norway - Eliteserien,Lillestrom - Aalesund,sigur,O15,0.8703,0.8638,0.8768,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-08,16:00,1494803,Norway - Eliteserien,Viking - KFUM Oslo,sigur,O15,0.8805,0.9055,0.8555,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-08,16:30,1597958,Qatar - Stars League,Al Sadd - Al-Rayyan SC,sigur,O15,0.8833,0.9099,0.8568,1.1,Betfair,3.0,,,,iesit,0.1
+2026-11-08,17:00,1549054,Denmark - Superliga,FC Midtjylland - Sonderjyske,sigur,O15,0.8656,0.8808,0.8505,1.1,Betfair,3.0,,,,iesit,0.1
+2026-11-08,18:00,1505560,Chile - Primera División,Universidad de Chile - Cobresal,sigur,O15,0.8677,0.8976,0.8378,1.1,Betfair,3.0,,,,iesit,0.1
+2026-11-08,22:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,sigur,O15,0.8766,0.8766,,,,,,,,anulat,0.0
+2026-11-08,23:00,1648331,USA - MLS Next Pro,Chattanooga - Los Angeles FC II,sigur,O15,0.8716,0.8716,,,,,,,,pierdut,
+2026-11-08,15:30,1555421,Switzerland - Super League,Servette FC - FC Zurich,bomba HT/FT,HTFT_1_1,0.3449,0.3449,0.2799,3.1,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,bomba HT/FT,HTFT_1_1,0.3383,0.3383,0.2541,3.3,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,15:30,1494335,Sweden - Allsvenskan,Kalmar FF - Sirius,bomba HT/FT,HTFT_2_2,0.3312,0.3312,0.2593,3.1,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,16:00,1648432,Malta - Premier League,Sliema Wanderers - Valletta FC,bomba scor,CS_0_1,0.1867,0.1867,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,15:30,1600723,Chile - Segunda División,Municipal Salamanca - Colchagua,bomba scor,CS_1_0,0.178,0.178,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,20:00,1649426,Jamaica - Premier League,Treasure Beach - Dunbeholden,bomba scor,CS_1_0,0.1344,0.1344,,8.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,16:30,1608354,Italy - Serie C - Girone A,Folgore Caratese - Athletic Carpi,value,O25,0.519,0.5682,0.4698,2.1,Betfair,3.0,0.09,2.1,0.0,pierdut,-1.0
+2026-11-08,16:45,1611449,Algeria - Ligue 1,JS Saoura - CS Constantine,value,O15HT,0.2893,0.3212,0.2574,3.8,Betfair,3.0,0.0992,3.8,0.0,pierdut,-1.0
+2026-11-08,17:00,1565295,Romania - Liga I,CFR 1907 Cluj - Universitatea Craiova,value,H15,0.2844,0.3341,0.2347,3.75,Betfair,3.0,0.0665,3.75,0.0,pierdut,-1.0
+2026-11-08,17:15,1570816,Spain - Primera División RFEF - Group 1,Mérida AD - Athletic Club II,value,O35,0.3245,0.3195,0.3294,3.25,Betfair,3.0,0.0545,3.25,0.0,pierdut,-1.0
+2026-11-08,23:30,1646935,Venezuela - Primera División,Deportivo La Guaira - Carabobo FC,value,O35,0.3105,0.3447,0.2763,3.4,Betfair,3.0,0.0557,3.6,-0.0556,pierdut,-1.0
+2026-11-08,20:30,1575538,Portugal - Primeira Liga,Estrela - Benfica,sigur,O15,0.8548,0.8488,0.8609,1.08,Betfair,3.0,,,,iesit,0.08
+2026-11-08,18:45,1639803,Ecuador - Liga Pro,Aucas - Independiente del Valle,bomba HT/FT,HTFT_2_2,0.3152,0.3152,0.2226,3.6,Betfair,3.0,,,,iesit,2.6
+2026-11-08,23:30,1645540,Bolivia - Primera División,Blooming - Oriente Petrolero,bomba HT/FT,HTFT_1_1,0.29,0.29,0.2027,4.2,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,21:00,1648326,Argentina - Torneo Federal A,Sarmiento de La Banda - Alvarado,bomba scor,CS_0_0,0.2106,0.2106,,5.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,20:30,1575538,Portugal - Primeira Liga,Estrela - Benfica,value,GG,0.535,0.55,0.52,1.95,Betfair,3.0,0.0432,1.95,0.0,iesit,0.95
+2026-11-08,21:00,1559698,Guatemala - Liga Nacional,Cobán Imperial - Xelajú,value,O35,0.2958,0.3209,0.2707,3.5,Betfair,3.0,0.0354,3.6,-0.0278,pierdut,-1.0
+2026-11-08,21:00,1642313,Honduras - Liga Nacional,Platense FC - Génesis,value,O35,0.3044,0.3153,0.2936,3.4,Betfair,3.0,0.035,3.2,0.0625,iesit,2.4
+2026-11-08,21:05,1549859,Colombia - Primera A,Jaguares - Bucaramanga,value,H15,0.3229,0.364,0.2817,3.2,Betfair,3.0,0.0331,3.0,0.0667,pierdut,-1.0
+2026-11-08,21:30,1646934,Venezuela - Primera División,Portuguesa FC - Metropolitanos FC,value,HTFT_2_2,0.2593,0.3127,0.2059,4.2,Betfair,3.0,0.0891,4.2,0.0,pierdut,-1.0
+2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,value,GG,0.5554,0.6055,0.5054,1.87,Betfair,3.0,0.0387,1.8,0.0389,iesit,0.87
+2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,value,O15HT,0.3621,0.39,0.3341,2.88,Betfair,3.0,0.0427,2.88,0.0,pierdut,-1.0
+2026-11-08,23:30,1646935,Venezuela - Primera División,Deportivo La Guaira - Carabobo FC,value,O25,0.5193,0.5687,0.4698,2.0,Betfair,3.0,0.0385,1.95,0.0256,pierdut,-1.0
+2026-11-08,20:30,1575541,Portugal - Primeira Liga,Rio Ave - SC Braga,sigur,O15,0.8009,0.8097,0.7921,1.18,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,21:15,1645539,Bolivia - Primera División,Bolívar - The Strongest,sigur,O15,0.8311,0.8154,0.8468,1.1,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,22:00,1557231,USA - USL Super League,Dallas Trinity W - Sporting JAX W,sigur,O15,0.8076,0.8738,0.7415,,,,,,,iesit,
+2026-11-08,22:00,1551726,Costa-Rica - Primera División,Deportivo Saprissa - Puntarenas FC,sigur,O15,0.8392,0.8731,0.8053,1.14,Betfair,3.0,,,,iesit,0.14
+2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,sigur,O15,0.7849,0.7193,0.8506,1.1,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,23:00,1549547,Peru - Primera División,Deportivo Garcilaso - Comerciantes Unidos,sigur,O15,0.788,0.8611,0.7149,1.3,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,23:00,1600652,El-Salvador - Primera Division,Municipal Limeño - Atletico Balboa,sigur,O15,0.7811,0.8305,0.7318,,,,,,,iesit,
+2026-11-08,21:30,1646934,Venezuela - Primera División,Portuguesa FC - Metropolitanos FC,bomba HT/FT,HTFT_2_2,0.2593,0.2593,0.2059,4.2,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,bomba HT/FT,HTFT_X_1,0.2288,0.2288,0.2067,4.5,Betfair,3.0,,,,iesit,3.5
+2026-11-08,23:30,1645540,Bolivia - Primera División,Blooming - Oriente Petrolero,bomba scor,CS_1_0,0.1292,0.1292,,9.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-08,22:15,1520965,Brazil - Serie B,Goias - Ponte Preta,bomba scor,CS_1_0,0.1189,0.1189,0.0793,10.0,Betfair,3.0,,,,iesit,9.0
+2026-11-08,21:30,1639804,Ecuador - Liga Pro,Barcelona SC - LDU de Quito,bomba scor,CS_0_0,0.1053,0.1053,0.0804,10.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-09,12:30,1571612,Bulgaria - Second League,CSKA Sofia II - Rilski Sportist,value,H15,0.5546,0.6092,0.5,1.91,Betfair,3.0,0.0593,,,,
+2026-11-09,12:55,1643127,United-Arab-Emirates - Pro League U23,Al Ain U23 - Al Wahda U23,value,O15HT,0.4687,0.5134,0.424,2.25,Betfair,3.0,0.0546,,,,
+2026-11-09,12:55,1643129,United-Arab-Emirates - Pro League U23,Bani Yas U23 - Ajman U23,value,O35,0.3776,0.3975,0.3577,2.88,Betfair,3.0,0.0874,,,,
+2026-11-09,15:00,1628585,Nigeria - NPFL,Ikorodu City - Inter Lagos,value,O15HT,0.4086,0.4073,0.4099,2.75,Betfair,3.0,0.1237,,,,
+2026-11-09,17:00,1555204,Israel - Liga Leumit,Hapoel Kfar Saba - Maccabi Bnei Raina,value,O15HT,0.4158,0.4502,0.3813,2.5,Betfair,3.0,0.0394,,,,
+2026-11-09,18:00,1565299,Romania - Liga I,FC Botosani - Oţelul,value,H15,0.4968,0.5316,0.4619,2.1,Betfair,3.0,0.0432,,,,
+2026-11-09,19:00,1621088,England - Premier League 2 Division One,Middlesbrough U21 - Derby County U21,value,A15,0.5465,0.6038,0.4893,2.0,Betfair,3.0,0.0931,,,,
+2026-11-09,19:45,1609118,Italy - Serie C - Girone C,AZ Picerno - Bari,value,O15HT,0.3238,0.3537,0.294,3.2,Betfair,3.0,0.0362,,,,
+2026-11-09,20:30,1649137,Colombia - Primera B,Ind. Yumbo - Union Magdalena,value,A15,0.3829,0.4293,0.3365,2.88,Betfair,3.0,0.1028,,,,
+2026-11-09,20:30,1639835,Ecuador - Liga Pro,Tecnico Universitario - Manta FC,value,O15,0.7773,0.8351,0.7195,1.33,Betfair,3.0,0.0338,,,,
+2026-11-09,22:05,1649427,Jamaica - Premier League,Chapelton - Racing United,value,H15,0.3458,0.4033,0.2883,3.25,Betfair,3.0,0.1239,,,,
+2026-11-09,22:30,1632060,Paraguay - Division Profesional - Clausura,Sportivo Luqueno - 2 de Mayo,value,O25,0.5095,0.5684,0.4505,2.1,Betfair,3.0,0.0699,,,,
+2026-11-09,12:30,1648753,Brazil - Paraense U20,Tuna Luso PA U20 - CRT-23 Benevides U20,sigur,O15,0.9145,0.9145,,,,,,,,,
+2026-11-09,12:55,1643129,United-Arab-Emirates - Pro League U23,Bani Yas U23 - Ajman U23,sigur,O15,0.8023,0.8288,0.7759,1.2,Betfair,3.0,,,,,
+2026-11-09,13:00,1619184,England - Professional Development League,Coventry City U21 - Queens Park Rangers U21,sigur,O15,0.8902,0.8975,0.883,1.03,Betfair,3.0,,,,,
+2026-11-09,16:00,1561190,Slovakia - 2. liga,Liptovský Mikuláš - MFK Bytča,sigur,O15,0.8644,0.886,0.8427,,,,,,,,
+2026-11-09,17:00,1555204,Israel - Liga Leumit,Hapoel Kfar Saba - Maccabi Bnei Raina,sigur,O15,0.7974,0.8153,0.7795,1.2,Betfair,3.0,,,,,
+2026-11-09,17:00,1554211,Serbia - Prva Liga,Javor - TSC Backa Topola,sigur,O15,0.8217,0.8922,0.7512,1.22,Betfair,3.0,,,,,
+2026-11-09,18:00,1573633,Spain - Primera División Femenina,Atletico Madrid W - FC Levante Badalona W,sigur,O15,0.8092,0.812,0.8064,1.14,Betfair,3.0,,,,,
+2026-11-09,19:00,1621088,England - Premier League 2 Division One,Middlesbrough U21 - Derby County U21,sigur,O15,0.9116,0.9468,0.8764,1.07,Betfair,3.0,,,,,
+2026-11-09,19:45,1596991,England - Non League Premier - Southern Central,Redditch United - Peterborough Sports,sigur,O15,0.8436,0.8838,0.8035,,,,,,,,
+2026-11-09,22:05,1649427,Jamaica - Premier League,Chapelton - Racing United,sigur,O15,0.8056,0.9075,0.7036,1.3,Betfair,3.0,,,,,
+2026-11-09,17:00,1555204,Israel - Liga Leumit,Hapoel Kfar Saba - Maccabi Bnei Raina,bomba HT/FT,HTFT_2_2,0.3639,0.3639,0.255,3.4,Betfair,3.0,,,,,
+2026-11-09,22:05,1649427,Jamaica - Premier League,Chapelton - Racing United,bomba HT/FT,HTFT_2_2,0.3461,0.3461,0.2715,3.0,Betfair,3.0,,,,,
+2026-11-09,18:00,1565299,Romania - Liga I,FC Botosani - Oţelul,bomba HT/FT,HTFT_1_1,0.3102,0.3102,0.248,3.4,Betfair,3.0,,,,,
+2026-11-09,12:30,1571611,Bulgaria - Second League,Chernomorets 1919 Burgas - Yantra 2019,bomba scor,CS_0_0,0.1571,0.1571,,9.0,Betfair,3.0,,,,,
+2026-11-09,17:00,1555204,Israel - Liga Leumit,Hapoel Kfar Saba - Maccabi Bnei Raina,bomba scor,CS_0_2,0.1103,0.1103,,10.0,Betfair,3.0,,,,,
+2026-11-09,15:30,1571614,Bulgaria - Second League,Fratria - Sportist Svoge,bomba scor,CS_0_0,0.095,0.095,,12.0,Betfair,3.0,,,,,
