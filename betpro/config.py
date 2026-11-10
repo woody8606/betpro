@@ -33,7 +33,8 @@ VALUE_MAX_ODDS = 5.0
 MAX_GAP = 0.12          # daca botul e cu peste 12 puncte peste piata -> suspect
 MAX_RATIO = 1.6         # sau de 1.6 ori peste piata -> suspect
 MIN_BOOKS = 99          # deocamdata doar Pinnacle (fara Pinnacle, sansa corecta vine din minim 3 case
-MIN_LEAGUE_GAMES = 80   # liga trebuie sa aiba destul istoric
+MIN_LEAGUE_GAMES = 80
+MAX_CROSS = 25           # cate meciuri de cupe/nationale analizam pe zi (fiecare costa ~40 cereri)   # liga trebuie sa aiba destul istoric
 TARGETS = [2, 3.5, 5, 7.5, 10, 15, 20]
 
 # ligi sarite (amicale etc.)

@@ -1,0 +1,37 @@
+name: Analiza un meci
+
+on:
+  workflow_dispatch:
+    inputs:
+      gazde:
+        description: "Gazde (ex. Romania)"
+        required: true
+      oaspeti:
+        description: "Oaspeti (ex. Poland)"
+        required: true
+      data:
+        description: "Data (AAAA-LL-ZZ)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests numpy pandas
+      - env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python analiza_meci.py "${{ github.event.inputs.gazde }}" "${{ github.event.inputs.oaspeti }}" "${{ github.event.inputs.data }}"
+      - run: |
+          git config user.name "BET PRO bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports data/teams || true
+          git diff --cached --quiet || git commit -m "Analiza ${{ github.event.inputs.gazde }} - ${{ github.event.inputs.oaspeti }}"
+          git pull --rebase --autostash || true
+          git push

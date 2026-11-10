@@ -11,7 +11,7 @@ import traceback
 from collections import defaultdict
 from zoneinfo import ZoneInfo
 
-from betpro import config, history, journal, mailer, picks, report
+from betpro import config, crossmodel, history, journal, mailer, picks, report
 from betpro.api import Api
 from betpro.model import LeagueModel, probabilities
 from betpro.odds import odds_for_date
@@ -63,7 +63,28 @@ def analyse(api, today: str, log: list):
                 lam=lam, p=probabilities(lam), odds=odds.get(f["fixture"]["id"]),
             ))
         n_leagues += used
-    log.append(f"analizate {len(matches)} meciuri din {n_leagues} ligi")
+    # meciuri intre competitii diferite (nationale, cupe europene): modelul pe forta echipelor
+    done = {m["fid"] for m in matches}
+    extra = [f for f in fixtures if f["fixture"]["id"] in odds and f["fixture"]["id"] not in done
+             and "1" in odds[f["fixture"]["id"]]["ref"] and odds[f["fixture"]["id"]]["ref"]["1"][1] == "Pinnacle"]
+    n_cross = 0
+    for f in extra[:config.MAX_CROSS]:
+        th, ta = f["teams"]["home"], f["teams"]["away"]
+        try:
+            lam, _ = crossmodel.analyse_fixture(api, th["id"], ta["id"])
+        except Exception as ex:
+            log.append(f"meci {f['fixture']['id']}: {ex}")
+            continue
+        if not lam:
+            continue
+        lg = f["league"]
+        matches.append(dict(
+            fid=f["fixture"]["id"], kickoff=kickoff(f["fixture"]["date"]),
+            league=f"{lg.get('country', '')} - {lg['name']}", name=f"{th['name']} - {ta['name']}",
+            lam=lam, p=probabilities(lam), odds=odds.get(f["fixture"]["id"]),
+        ))
+        n_cross += 1
+    log.append(f"analizate {len(matches)} meciuri din {n_leagues} ligi (+{n_cross} cupe/nationale)")
     return matches, n_leagues
 
 
