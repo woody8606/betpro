@@ -119,3 +119,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-10,19:45,1596515,England - Non League Premier - Northern,Redcar Athletic - Bamber Bridge,sigur,O15,0.8333,0.8304,0.8345,,,,,,,,
 2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,sigur,O15,0.8293,0.8506,0.8201,,,,,,,,
 2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_4_1,0.037,0.037,,31.0,Betfair,3.0,,,,,
+2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,value,O15HT,0.5186,0.5715,0.496,2.2,Betfair,3.0,0.141,,,,
+2026-11-10,19:45,1596517,England - Non League Premier - Northern,Workington - Alfreton Town,bomba scor,CS_1_0,0.1329,0.1329,,10.0,Betfair,3.0,,,,,
