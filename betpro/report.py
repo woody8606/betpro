@@ -41,7 +41,7 @@ def note(t):
 
 def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, yt, log):
     o = [f"<div style='{CSS}'>", f"<h1 style='font-size:22px;margin:0'>BET PRO - {e(date)}</h1>",
-         note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 50/50 cu sansa corecta "
+         note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 30/70 cu sansa corecta "
               "a caselor (Pinnacle sau media caselor). Nicio selectie nu e sigura.")]
 
     # mementouri cerute de Urs
