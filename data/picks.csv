@@ -115,3 +115,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-10,19:45,1596055,England - Non League Premier - Isthmian,Whitehawk - Welling United,bomba scor,CS_2_1,0.0702,0.0702,,15.0,Betfair,3.0,,,,,
 2026-11-10,19:45,1596071,England - Non League Premier - Isthmian,Eastbourne Borough - Dulwich Hamlet,bomba scor,CS_0_0,0.0695,0.0695,,15.0,Betfair,3.0,,,,,
 2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_3_1,0.0594,0.0594,,17.0,Betfair,3.0,,,,,
+2026-11-10,17:45,1638332,World - UEFA Champions League Women,Real Madrid W - Paris FC W,sigur,O15,0.8307,0.8565,0.8197,1.13,Betfair,3.0,,,,,
+2026-11-10,19:45,1596515,England - Non League Premier - Northern,Redcar Athletic - Bamber Bridge,sigur,O15,0.8333,0.8304,0.8345,,,,,,,,
