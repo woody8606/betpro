@@ -1,0 +1,424 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1428620,1754748000,4691,7693,Gainsborough Trinity,Ashton United,0,3,0,1
+1428624,1754748000,4694,7726,Hyde United,Lancaster City,1,0,1,0
+1428627,1754748000,7265,7757,Workington,Whitby Town,1,2,1,0
+1428626,1754748000,7663,8953,Prescot Cables,Stockton Town,0,0,0,0
+1428621,1754748000,7695,1824,Bamber Bridge,Guiseley AFC,2,0,0,0
+1428625,1754748000,7734,7236,Morpeth Town,Ilkeston Town,1,2,0,2
+1428622,1754748000,7743,8918,Rushall Olympic,Rylands,1,1,1,0
+1428619,1754748000,7754,7239,United of Manchester,Leek Town,2,0,1,0
+1428623,1754748000,7756,7631,Warrington Town,Cleethorpes Town,0,0,0,0
+1428628,1754748000,8822,7721,Hebburn Town,Hednesford Town,0,1,0,0
+1428631,1755024300,1824,8822,Guiseley AFC,Hebburn Town,4,0,3,0
+1428632,1755024300,7236,4691,Ilkeston Town,Gainsborough Trinity,0,1,0,0
+1428633,1755024300,7239,7743,Leek Town,Rushall Olympic,0,3,0,1
+1428637,1755024300,7631,4694,Cleethorpes Town,Hyde United,3,1,1,1
+1428635,1755024300,7693,7663,Ashton United,Prescot Cables,0,0,0,0
+1428630,1755024300,7721,7756,Hednesford Town,Warrington Town,2,1,0,0
+1428629,1755024300,7726,7754,Lancaster City,United of Manchester,0,2,0,1
+1428638,1755024300,7757,7252,Whitby Town,Stocksbridge Park Steels,0,0,0,0
+1428634,1755024300,8918,7695,Rylands,Bamber Bridge,1,0,1,0
+1428636,1755024300,8953,7265,Stockton Town,Workington,6,0,2,0
+1428639,1755352800,1824,7743,Guiseley AFC,Rushall Olympic,0,1,0,1
+1428648,1755352800,7236,7663,Ilkeston Town,Prescot Cables,2,0,0,0
+1428643,1755352800,7239,7734,Leek Town,Morpeth Town,1,0,1,0
+1428645,1755352800,7631,7695,Cleethorpes Town,Bamber Bridge,1,1,0,1
+1428644,1755352800,7693,7252,Ashton United,Stocksbridge Park Steels,1,0,0,0
+1428646,1755352800,7721,7265,Hednesford Town,Workington,2,0,0,0
+1428647,1755352800,7726,8822,Lancaster City,Hebburn Town,3,2,1,2
+1428640,1755352800,7757,7756,Whitby Town,Warrington Town,4,0,1,0
+1428641,1755352800,8918,4691,Rylands,Gainsborough Trinity,4,2,3,1
+1428642,1755352800,8953,4694,Stockton Town,Hyde United,2,2,2,2
+1428652,1755629100,4691,8953,Gainsborough Trinity,Stockton Town,2,0,1,0
+1428650,1755629100,4694,1824,Hyde United,Guiseley AFC,0,2,0,2
+1428656,1755629100,7265,8918,Workington,Rylands,0,1,0,0
+1428657,1755629100,7663,7721,Prescot Cables,Hednesford Town,3,0,2,0
+1428655,1755629100,7695,7239,Bamber Bridge,Leek Town,3,2,2,2
+1428654,1755629100,7734,7726,Morpeth Town,Lancaster City,0,1,0,1
+1428651,1755629100,7743,7693,Rushall Olympic,Ashton United,1,0,0,0
+1428649,1755629100,7754,7757,United of Manchester,Whitby Town,3,1,1,1
+1428653,1755629100,7756,7236,Warrington Town,Ilkeston Town,1,0,0,0
+1428658,1755715500,7252,7631,Stocksbridge Park Steels,Cleethorpes Town,1,3,0,0
+1428667,1755888300,7663,7239,Prescot Cables,Leek Town,1,1,0,0
+1428661,1755957600,4691,7726,Gainsborough Trinity,Lancaster City,0,0,0,0
+1428663,1755957600,4694,7757,Hyde United,Whitby Town,5,2,3,1
+1428666,1755957600,7252,8918,Stocksbridge Park Steels,Rylands,0,0,0,0
+1428662,1755957600,7265,7693,Workington,Ashton United,1,1,1,0
+1428665,1755957600,7695,7236,Bamber Bridge,Ilkeston Town,2,0,1,0
+1428664,1755957600,7734,7721,Morpeth Town,Hednesford Town,1,0,0,0
+1428660,1755957600,7743,8953,Rushall Olympic,Stockton Town,2,2,2,1
+1428659,1755957600,7754,1824,United of Manchester,Guiseley AFC,2,0,1,0
+1428668,1755957600,8822,7631,Hebburn Town,Cleethorpes Town,2,1,1,1
+1428673,1756130400,1824,7252,Guiseley AFC,Stocksbridge Park Steels,1,1,1,1
+1428674,1756130400,7236,4694,Ilkeston Town,Hyde United,3,0,3,0
+1428670,1756130400,7239,7756,Leek Town,Warrington Town,3,1,1,0
+1428675,1756130400,7631,4691,Cleethorpes Town,Gainsborough Trinity,0,1,0,1
+1428669,1756130400,7693,7754,Ashton United,United of Manchester,3,1,1,0
+1428671,1756130400,7721,7743,Hednesford Town,Rushall Olympic,1,1,1,0
+1428678,1756130400,7726,7265,Lancaster City,Workington,2,0,1,0
+1428676,1756130400,7757,8822,Whitby Town,Hebburn Town,0,2,0,1
+1428677,1756130400,8918,7663,Rylands,Prescot Cables,1,1,0,0
+1428672,1756130400,8953,7734,Stockton Town,Morpeth Town,2,0,1,0
+1428680,1757167200,4691,7756,Gainsborough Trinity,Warrington Town,2,0,1,0
+1428684,1757167200,7236,7757,Ilkeston Town,Whitby Town,0,1,0,1
+1428681,1757167200,7239,1824,Leek Town,Guiseley AFC,4,0,3,0
+1428687,1757167200,7663,7734,Prescot Cables,Morpeth Town,2,1,2,0
+1428686,1757167200,7695,7265,Bamber Bridge,Workington,1,2,0,0
+1428682,1757167200,7743,7726,Rushall Olympic,Lancaster City,2,3,1,0
+1428679,1757167200,7754,7631,United of Manchester,Cleethorpes Town,2,0,0,0
+1428685,1757167200,8822,4694,Hebburn Town,Hyde United,3,3,1,0
+1428683,1757167200,8918,7721,Rylands,Hednesford Town,2,2,2,1
+1428688,1757167200,8953,7252,Stockton Town,Stocksbridge Park Steels,3,2,0,2
+1428693,1757443500,1824,7663,Guiseley AFC,Prescot Cables,3,1,1,1
+1428695,1757443500,4694,7239,Hyde United,Leek Town,1,2,0,1
+1428689,1757443500,7265,7754,Workington,United of Manchester,0,0,0,0
+1428691,1757443500,7693,7695,Ashton United,Bamber Bridge,1,1,0,0
+1428697,1757443500,7721,7236,Hednesford Town,Ilkeston Town,2,1,0,0
+1428694,1757443500,7726,8918,Lancaster City,Rylands,2,0,2,0
+1428696,1757443500,7734,8822,Morpeth Town,Hebburn Town,1,1,0,0
+1428690,1757443500,7756,7743,Warrington Town,Rushall Olympic,0,0,0,0
+1428692,1757443500,7757,8953,Whitby Town,Stockton Town,1,1,1,1
+1428698,1757529900,7252,4691,Stocksbridge Park Steels,Gainsborough Trinity,0,2,0,2
+1428708,1757772000,7631,7239,Cleethorpes Town,Leek Town,3,0,1,0
+1428705,1757772000,7726,7236,Lancaster City,Ilkeston Town,3,1,0,1
+1428714,1758048300,4691,7757,Gainsborough Trinity,Whitby Town,1,0,1,0
+1428716,1758048300,7236,7631,Ilkeston Town,Cleethorpes Town,0,3,0,1
+1428715,1758048300,7239,7721,Leek Town,Hednesford Town,0,2,0,1
+1428713,1758048300,7663,7756,Prescot Cables,Warrington Town,1,1,1,0
+1428718,1758048300,7695,7252,Bamber Bridge,Stocksbridge Park Steels,2,2,1,0
+1428711,1758048300,7743,4694,Rushall Olympic,Hyde United,0,2,0,0
+1428709,1758048300,7754,7734,United of Manchester,Morpeth Town,0,0,0,0
+1428717,1758048300,8822,7265,Hebburn Town,Workington,2,1,1,1
+1428712,1758048300,8918,7693,Rylands,Ashton United,1,1,0,1
+1428710,1758048300,8953,1824,Stockton Town,Guiseley AFC,2,0,1,0
+1428721,1758376800,1824,7734,Guiseley AFC,Morpeth Town,3,1,1,0
+1428726,1758376800,7239,7236,Leek Town,Ilkeston Town,1,2,0,1
+1428728,1758376800,7252,8822,Stocksbridge Park Steels,Hebburn Town,1,2,1,0
+1428727,1758376800,7265,7663,Workington,Prescot Cables,1,1,1,1
+1428725,1758376800,7631,8953,Cleethorpes Town,Stockton Town,1,2,0,1
+1428722,1758376800,7693,7726,Ashton United,Lancaster City,1,3,0,2
+1428724,1758376800,7721,4691,Hednesford Town,Gainsborough Trinity,2,0,2,0
+1428723,1758376800,8918,4694,Rylands,Hyde United,4,2,2,0
+1428737,1758981600,7236,7265,Ilkeston Town,Workington,3,2,3,2
+1428848,1758981600,7252,7757,Stocksbridge Park Steels,Whitby Town,4,1,2,0
+1428729,1758981600,7663,7754,Prescot Cables,United of Manchester,1,0,1,0
+1428731,1758981600,7726,1824,Lancaster City,Guiseley AFC,0,0,0,0
+1428735,1758981600,8822,8918,Hebburn Town,Rylands,1,1,0,1
+1428732,1758981600,8953,7695,Stockton Town,Bamber Bridge,2,2,1,0
+1428707,1759257900,7757,7663,Whitby Town,Prescot Cables,0,0,0,0
+1428700,1759862700,1824,8918,Guiseley AFC,Rylands,0,1,0,0
+1428702,1759862700,4694,7695,Hyde United,Bamber Bridge,1,0,0,0
+1428740,1760191200,1824,7236,Guiseley AFC,Ilkeston Town,1,4,0,1
+1428747,1760191200,7239,7726,Leek Town,Lancaster City,0,1,0,0
+1428744,1760191200,7252,7756,Stocksbridge Park Steels,Warrington Town,2,1,2,0
+1428748,1760191200,7631,7663,Cleethorpes Town,Prescot Cables,1,1,1,1
+1428742,1760191200,7693,7757,Ashton United,Whitby Town,1,4,1,2
+1428741,1760191200,7695,7743,Bamber Bridge,Rushall Olympic,4,0,2,0
+1428739,1760191200,7754,8822,United of Manchester,Hebburn Town,1,0,0,0
+1428743,1760191200,8918,7734,Rylands,Morpeth Town,4,3,4,0
+1428704,1760467500,7693,8822,Ashton United,Hebburn Town,2,0,2,0
+1428736,1760467500,7734,7631,Morpeth Town,Cleethorpes Town,1,2,1,0
+1428734,1760467500,7757,7721,Whitby Town,Hednesford Town,2,1,1,0
+1428749,1760796000,4691,7754,Gainsborough Trinity,United of Manchester,0,1,0,1
+1428754,1760796000,7236,8918,Ilkeston Town,Rylands,2,2,1,1
+1428758,1760796000,7663,7252,Prescot Cables,Stocksbridge Park Steels,1,2,0,1
+1428756,1760796000,7726,7721,Lancaster City,Hednesford Town,0,0,0,0
+1428755,1760796000,7734,7265,Morpeth Town,Workington,2,0,2,0
+1428753,1760796000,7743,7631,Rushall Olympic,Cleethorpes Town,2,1,0,0
+1428750,1760796000,7756,1824,Warrington Town,Guiseley AFC,2,0,1,0
+1428752,1760796000,7757,7695,Whitby Town,Bamber Bridge,0,2,0,1
+1428757,1760796000,8822,7239,Hebburn Town,Leek Town,3,3,2,2
+1428751,1760796000,8953,7693,Stockton Town,Ashton United,1,2,1,2
+1428738,1761072300,4694,7252,Hyde United,Stocksbridge Park Steels,2,2,2,0
+1428746,1761072300,7265,4691,Workington,Gainsborough Trinity,1,2,0,2
+1428719,1761072300,7754,7743,United of Manchester,Rushall Olympic,3,1,1,1
+1428767,1761400800,7631,8918,Cleethorpes Town,Rylands,1,2,0,0
+1428760,1761400800,7756,7726,Warrington Town,Lancaster City,3,2,1,1
+1428761,1761400800,7757,7743,Whitby Town,Rushall Olympic,3,1,2,0
+1428766,1761680700,7663,4694,Prescot Cables,Hyde United,0,1,0,1
+1484332,1761680700,7721,8953,Hednesford Town,Stockton Town,1,2,1,1
+1428730,1761680700,7756,7693,Warrington Town,Ashton United,2,1,0,0
+1428771,1762009200,1824,7721,Guiseley AFC,Hednesford Town,1,5,0,4
+1428772,1762009200,4694,7734,Hyde United,Morpeth Town,2,0,1,0
+1428778,1762009200,7252,7265,Stocksbridge Park Steels,Workington,0,1,0,0
+1428776,1762009200,7693,7631,Ashton United,Cleethorpes Town,0,4,0,2
+1428769,1762009200,7695,7754,Bamber Bridge,United of Manchester,0,2,0,0
+1428775,1762009200,7726,7757,Lancaster City,Whitby Town,0,0,0,0
+1428774,1762009200,7743,7663,Rushall Olympic,Prescot Cables,0,2,0,2
+1428770,1762009200,8822,7756,Hebburn Town,Warrington Town,8,0,2,0
+1428777,1762009200,8918,7239,Rylands,Leek Town,2,0,2,0
+1428773,1762009200,8953,7236,Stockton Town,Ilkeston Town,0,4,0,2
+1428706,1762371900,7252,7743,Stocksbridge Park Steels,Rushall Olympic,0,1,0,0
+1428782,1762614000,4691,7743,Gainsborough Trinity,Rushall Olympic,1,1,0,1
+1428783,1762614000,7236,7693,Ilkeston Town,Ashton United,0,2,0,0
+1428785,1762614000,7265,4694,Workington,Hyde United,3,2,1,0
+1428786,1762614000,7631,7726,Cleethorpes Town,Lancaster City,2,2,2,1
+1428787,1762614000,7663,8822,Prescot Cables,Hebburn Town,0,2,0,1
+1428788,1762614000,7721,7252,Hednesford Town,Stocksbridge Park Steels,2,0,0,0
+1428784,1762614000,7734,7695,Morpeth Town,Bamber Bridge,2,1,0,0
+1428779,1762614000,7754,8918,United of Manchester,Rylands,0,1,0,0
+1428780,1762614000,7756,8953,Warrington Town,Stockton Town,2,0,1,0
+1428781,1762614000,7757,1824,Whitby Town,Guiseley AFC,1,1,0,0
+1428763,1762890300,7239,7693,Leek Town,Ashton United,2,0,1,0
+1428745,1762890300,7721,4694,Hednesford Town,Hyde United,2,1,2,0
+1428768,1762890300,7734,7252,Morpeth Town,Stocksbridge Park Steels,3,0,2,0
+1428699,1762890300,7756,7754,Warrington Town,United of Manchester,3,0,2,0
+1428793,1763218980,1824,7631,Guiseley AFC,Cleethorpes Town,1,1,1,0
+1428790,1763218980,4694,7756,Hyde United,Warrington Town,1,4,1,3
+1428791,1763218980,7693,7734,Ashton United,Morpeth Town,3,2,0,1
+1428794,1763218980,7743,7265,Rushall Olympic,Workington,3,3,1,1
+1428795,1763218980,8918,7757,Rylands,Whitby Town,0,1,0,1
+1428762,1763495100,7265,1824,Workington,Guiseley AFC,0,1,0,1
+1428764,1763495100,7721,7695,Hednesford Town,Bamber Bridge,3,0,1,0
+1428797,1763495100,8822,7236,Hebburn Town,Ilkeston Town,5,0,3,0
+1428800,1763823600,1824,7693,Guiseley AFC,Ashton United,4,2,0,2
+1428799,1763823600,4694,7754,Hyde United,United of Manchester,2,2,0,2
+1428808,1763823600,7236,7252,Ilkeston Town,Stocksbridge Park Steels,0,1,0,0
+1428802,1763823600,7265,7756,Workington,Warrington Town,1,1,0,0
+1428806,1763823600,7663,4691,Prescot Cables,Gainsborough Trinity,2,2,0,1
+1428807,1763823600,7721,7631,Hednesford Town,Cleethorpes Town,1,0,0,0
+1428803,1763823600,7726,8953,Lancaster City,Stockton Town,1,2,0,1
+1428801,1763823600,7734,7743,Morpeth Town,Rushall Olympic,1,0,1,0
+1428805,1763823600,7757,7239,Whitby Town,Leek Town,0,3,0,1
+1428804,1763823600,8822,7695,Hebburn Town,Bamber Bridge,2,0,2,0
+1428765,1764099900,4691,8822,Gainsborough Trinity,Hebburn Town,1,4,1,3
+1428798,1764099900,7726,7663,Lancaster City,Prescot Cables,1,0,0,0
+1428817,1764428400,7239,7265,Leek Town,Workington,2,2,1,2
+1428818,1764428400,7252,7726,Stocksbridge Park Steels,Lancaster City,1,4,0,4
+1428813,1764428400,7693,7721,Ashton United,Hednesford Town,0,1,0,0
+1428815,1764428400,7695,7663,Bamber Bridge,Prescot Cables,1,0,0,0
+1428814,1764428400,7743,8822,Rushall Olympic,Hebburn Town,0,1,0,0
+1428809,1764428400,7754,7236,United of Manchester,Ilkeston Town,2,1,1,0
+1428810,1764428400,7756,7734,Warrington Town,Morpeth Town,0,0,0,0
+1428812,1764428400,8953,8918,Stockton Town,Rylands,3,1,1,1
+1428701,1764704700,7734,4691,Morpeth Town,Gainsborough Trinity,1,1,1,0
+1428796,1764704700,8953,7239,Stockton Town,Leek Town,1,2,0,1
+1428821,1765033200,1824,7239,Guiseley AFC,Leek Town,1,0,0,0
+1428825,1765033200,4694,8822,Hyde United,Hebburn Town,1,3,1,0
+1428828,1765033200,7252,8953,Stocksbridge Park Steels,Stockton Town,1,1,0,0
+1428826,1765033200,7265,7695,Workington,Bamber Bridge,1,3,1,1
+1428819,1765033200,7631,7754,Cleethorpes Town,United of Manchester,2,1,1,0
+1428824,1765033200,7721,8918,Hednesford Town,Rylands,1,1,1,0
+1428827,1765033200,7734,7663,Morpeth Town,Prescot Cables,2,0,1,0
+1428820,1765033200,7756,4691,Warrington Town,Gainsborough Trinity,0,3,0,1
+1428789,1765395900,7252,7754,Stocksbridge Park Steels,United of Manchester,0,3,0,1
+1428838,1765638000,4691,7252,Gainsborough Trinity,Stocksbridge Park Steels,1,1,0,0
+1428837,1765638000,7236,7721,Ilkeston Town,Hednesford Town,0,3,0,2
+1428833,1765638000,7663,1824,Prescot Cables,Guiseley AFC,2,0,1,0
+1428831,1765638000,7695,7693,Bamber Bridge,Ashton United,0,1,0,1
+1428830,1765638000,7743,7756,Rushall Olympic,Warrington Town,2,3,1,1
+1428836,1765638000,8822,7734,Hebburn Town,Morpeth Town,2,1,1,0
+1428834,1765638000,8918,7726,Rylands,Lancaster City,2,0,1,0
+1428832,1765638000,8953,7757,Stockton Town,Whitby Town,0,0,0,0
+1428846,1766173500,7663,7693,Prescot Cables,Ashton United,1,1,0,0
+1428844,1766242800,4691,7236,Gainsborough Trinity,Ilkeston Town,0,0,0,0
+1428847,1766242800,4694,7631,Hyde United,Cleethorpes Town,2,2,2,1
+1428845,1766242800,7265,8953,Workington,Stockton Town,0,1,0,1
+1428843,1766242800,7695,8918,Bamber Bridge,Rylands,3,1,2,1
+1428842,1766242800,7743,7239,Rushall Olympic,Leek Town,5,1,2,0
+1428839,1766242800,7754,7726,United of Manchester,Lancaster City,2,1,2,0
+1428840,1766242800,7756,7721,Warrington Town,Hednesford Town,0,0,0,0
+1428841,1766242800,8822,1824,Hebburn Town,Guiseley AFC,1,0,1,0
+1428856,1766754000,8953,8822,Stockton Town,Hebburn Town,4,1,1,1
+1428850,1766761200,1824,4691,Guiseley AFC,Gainsborough Trinity,3,2,0,1
+1428853,1766761200,7236,7743,Ilkeston Town,Rushall Olympic,5,1,3,0
+1428858,1766761200,7239,7252,Leek Town,Stocksbridge Park Steels,1,2,0,1
+1428852,1766761200,7693,4694,Ashton United,Hyde United,1,1,0,0
+1428855,1766761200,7726,7695,Lancaster City,Bamber Bridge,1,3,1,2
+1428854,1766761200,7757,7734,Whitby Town,Morpeth Town,1,2,1,2
+1428851,1766761200,8918,7756,Rylands,Warrington Town,1,1,0,0
+1428857,1766847600,7631,7265,Cleethorpes Town,Workington,2,1,1,0
+1428849,1766847600,7721,7754,Hednesford Town,United of Manchester,1,1,1,0
+1428861,1767272400,7734,8953,Morpeth Town,Stockton Town,0,2,0,1
+1428865,1767279600,4691,7631,Gainsborough Trinity,Cleethorpes Town,2,0,0,0
+1428864,1767279600,7252,1824,Stocksbridge Park Steels,Guiseley AFC,1,3,1,1
+1428867,1767279600,7265,7726,Workington,Lancaster City,1,1,1,0
+1428862,1767279600,7743,7721,Rushall Olympic,Hednesford Town,1,0,0,0
+1428859,1767279600,7754,7693,United of Manchester,Ashton United,0,1,0,1
+1428860,1767279600,7756,7239,Warrington Town,Leek Town,1,1,1,0
+1428863,1767452400,4694,7236,Hyde United,Ilkeston Town,2,2,1,2
+1428875,1768057200,7236,7734,Ilkeston Town,Morpeth Town,3,1,0,1
+1428869,1768057200,7239,7754,Leek Town,United of Manchester,0,1,0,1
+1428877,1768057200,7757,7265,Whitby Town,Workington,0,0,0,0
+1428720,1768333500,7695,7756,Bamber Bridge,Warrington Town,1,2,0,1
+1428829,1768333500,7754,7265,United of Manchester,Workington,2,2,0,0
+1428823,1768333500,7757,7236,Whitby Town,Ilkeston Town,1,0,0,0
+1428881,1768662000,4691,7734,Gainsborough Trinity,Morpeth Town,1,0,0,0
+1428885,1768662000,7236,7726,Ilkeston Town,Lancaster City,3,0,1,0
+1428888,1768662000,7239,7631,Leek Town,Cleethorpes Town,2,1,1,1
+1428887,1768662000,7663,7757,Prescot Cables,Whitby Town,2,1,0,1
+1428882,1768662000,7695,4694,Bamber Bridge,Hyde United,4,0,1,0
+1428886,1768662000,7743,7252,Rushall Olympic,Stocksbridge Park Steels,1,3,0,1
+1428879,1768662000,7754,7756,United of Manchester,Warrington Town,2,2,0,1
+1428884,1768662000,8822,7693,Hebburn Town,Ashton United,1,0,0,0
+1428880,1768662000,8918,1824,Rylands,Guiseley AFC,1,0,1,0
+1428883,1768662000,8953,7721,Stockton Town,Hednesford Town,1,2,0,0
+1428835,1768938300,7239,4694,Leek Town,Hyde United,2,2,1,1
+1428866,1768938300,8822,7757,Hebburn Town,Whitby Town,3,1,0,1
+1428890,1769266800,1824,8953,Guiseley AFC,Stockton Town,1,1,0,1
+1428891,1769266800,4694,7743,Hyde United,Rushall Olympic,1,2,0,1
+1428898,1769266800,7252,7695,Stocksbridge Park Steels,Bamber Bridge,0,2,0,2
+1428897,1769266800,7265,8822,Workington,Hebburn Town,0,1,0,1
+1428896,1769266800,7631,7236,Cleethorpes Town,Ilkeston Town,0,0,0,0
+1428892,1769266800,7693,8918,Ashton United,Rylands,2,1,2,0
+1428895,1769266800,7721,7239,Hednesford Town,Leek Town,1,0,1,0
+1428889,1769266800,7734,7754,Morpeth Town,United of Manchester,1,0,1,0
+1428893,1769266800,7756,7663,Warrington Town,Prescot Cables,2,1,0,1
+1428868,1769543100,7663,8918,Prescot Cables,Rylands,3,0,2,0
+1428904,1769871600,4691,7721,Gainsborough Trinity,Hednesford Town,1,1,0,1
+1428903,1769871600,4694,8918,Hyde United,Rylands,0,0,0,0
+1428906,1769871600,7236,7239,Ilkeston Town,Leek Town,1,3,0,2
+1428907,1769871600,7663,7265,Prescot Cables,Workington,1,1,0,1
+1428902,1769871600,7726,7693,Lancaster City,Ashton United,3,2,2,2
+1428901,1769871600,7734,1824,Morpeth Town,Guiseley AFC,0,1,0,1
+1428899,1769871600,7743,7754,Rushall Olympic,United of Manchester,2,3,0,2
+1428900,1769871600,7756,7695,Warrington Town,Bamber Bridge,0,2,0,1
+1428905,1769871600,8953,7631,Stockton Town,Cleethorpes Town,2,1,0,0
+1428870,1770147900,1824,7695,Guiseley AFC,Bamber Bridge,0,2,0,0
+1428873,1770147900,7631,7756,Cleethorpes Town,Warrington Town,4,1,2,0
+1428871,1770147900,7693,4691,Ashton United,Gainsborough Trinity,0,3,0,2
+1428874,1770147900,7726,4694,Lancaster City,Hyde United,1,1,0,1
+1428872,1770147900,8918,7743,Rylands,Rushall Olympic,3,0,2,0
+1428911,1770476400,1824,7726,Guiseley AFC,Lancaster City,0,0,0,0
+1428913,1770476400,7239,4691,Leek Town,Gainsborough Trinity,1,0,1,0
+1428918,1770476400,7252,4694,Stocksbridge Park Steels,Hyde United,1,1,0,0
+1428917,1770476400,7265,7236,Workington,Ilkeston Town,1,0,1,0
+1428910,1770476400,7693,7756,Ashton United,Warrington Town,1,0,1,0
+1428912,1770476400,7695,8953,Bamber Bridge,Stockton Town,2,2,0,2
+1428914,1770476400,7721,7757,Hednesford Town,Whitby Town,0,0,0,0
+1428909,1770476400,7754,7663,United of Manchester,Prescot Cables,2,1,1,1
+1428915,1770476400,8918,8822,Rylands,Hebburn Town,1,1,0,0
+1428792,1770752700,7695,4691,Bamber Bridge,Gainsborough Trinity,1,3,1,1
+1428878,1770752700,7721,8822,Hednesford Town,Hebburn Town,1,1,1,0
+1428822,1770752700,7726,7743,Lancaster City,Rushall Olympic,0,1,0,0
+1428876,1770752700,8953,7663,Stockton Town,Prescot Cables,3,1,0,1
+1428926,1771081200,4691,7265,Gainsborough Trinity,Workington,3,3,0,2
+1428925,1771081200,4694,7721,Hyde United,Hednesford Town,5,0,2,0
+1428920,1771081200,7236,1824,Ilkeston Town,Guiseley AFC,1,0,1,0
+1428927,1771081200,7726,7239,Lancaster City,Leek Town,2,1,2,1
+1428923,1771081200,7734,8918,Morpeth Town,Rylands,0,4,0,4
+1428921,1771081200,7743,7695,Rushall Olympic,Bamber Bridge,0,0,0,0
+1428924,1771081200,7756,7252,Warrington Town,Stocksbridge Park Steels,1,1,0,0
+1428919,1771081200,8822,7754,Hebburn Town,United of Manchester,1,1,1,1
+1428894,1771357500,7757,4691,Whitby Town,Gainsborough Trinity,1,2,1,1
+1428930,1771686000,1824,7756,Guiseley AFC,Warrington Town,4,0,3,0
+1428937,1771686000,7239,8822,Leek Town,Hebburn Town,0,0,0,0
+1428938,1771686000,7252,7663,Stocksbridge Park Steels,Prescot Cables,2,1,1,0
+1428935,1771686000,7265,7734,Workington,Morpeth Town,1,0,0,0
+1428933,1771686000,7631,7743,Cleethorpes Town,Rushall Olympic,0,0,0,0
+1428931,1771686000,7693,8953,Ashton United,Stockton Town,1,2,1,0
+1428932,1771686000,7695,7757,Bamber Bridge,Whitby Town,1,1,1,1
+1428936,1771686000,7721,7726,Hednesford Town,Lancaster City,3,0,3,0
+1428929,1771686000,7754,4691,United of Manchester,Gainsborough Trinity,1,1,0,1
+1428934,1771686000,8918,7236,Rylands,Ilkeston Town,3,1,1,0
+1428733,1771962300,4691,7239,Gainsborough Trinity,Leek Town,2,0,0,0
+1428947,1772290800,7236,8822,Ilkeston Town,Hebburn Town,3,2,1,1
+1428946,1772290800,7239,8953,Leek Town,Stockton Town,0,0,0,0
+1428944,1772290800,7265,7743,Workington,Rushall Olympic,1,0,1,0
+1428948,1772290800,7663,7726,Prescot Cables,Lancaster City,0,4,0,1
+1428941,1772290800,7734,7693,Morpeth Town,Ashton United,1,1,1,1
+1428939,1772290800,7754,7252,United of Manchester,Stocksbridge Park Steels,4,0,2,0
+1428940,1772290800,7756,4694,Warrington Town,Hyde United,2,1,1,1
+1428945,1772290800,7757,8918,Whitby Town,Rylands,1,1,0,1
+1428816,1772567100,7631,7757,Cleethorpes Town,Whitby Town,0,3,0,3
+1428908,1772567100,8822,7252,Hebburn Town,Stocksbridge Park Steels,3,0,1,0
+1428952,1772895600,1824,7265,Guiseley AFC,Workington,1,1,0,1
+1428956,1772895600,4694,7663,Hyde United,Prescot Cables,2,2,1,1
+1428958,1772895600,7252,7734,Stocksbridge Park Steels,Morpeth Town,1,1,1,0
+1428953,1772895600,7693,7239,Ashton United,Leek Town,0,1,0,0
+1428954,1772895600,7695,7721,Bamber Bridge,Hednesford Town,1,3,1,2
+1428950,1772895600,7726,7756,Lancaster City,Warrington Town,1,2,1,0
+1428951,1772895600,7743,7757,Rushall Olympic,Whitby Town,2,2,1,1
+1428955,1772895600,8822,4691,Hebburn Town,Gainsborough Trinity,2,1,2,1
+1428957,1772895600,8918,7631,Rylands,Cleethorpes Town,0,1,0,1
+1428949,1772895600,8953,7754,Stockton Town,United of Manchester,2,3,1,0
+1428916,1773171900,7631,7734,Cleethorpes Town,Morpeth Town,3,1,2,1
+1428963,1773500400,7236,8953,Ilkeston Town,Stockton Town,0,1,0,1
+1428967,1773500400,7239,8918,Leek Town,Rylands,0,2,0,1
+1428968,1773500400,7265,7252,Workington,Stocksbridge Park Steels,2,0,0,0
+1428966,1773500400,7631,7693,Cleethorpes Town,Ashton United,2,2,1,0
+1428964,1773500400,7663,7743,Prescot Cables,Rushall Olympic,1,1,0,0
+1428961,1773500400,7721,1824,Hednesford Town,Guiseley AFC,2,0,2,0
+1428962,1773500400,7734,4694,Morpeth Town,Hyde United,1,0,0,0
+1428959,1773500400,7754,7695,United of Manchester,Bamber Bridge,2,0,0,0
+1428960,1773500400,7756,8822,Warrington Town,Hebburn Town,0,0,0,0
+1428965,1773500400,7757,7726,Whitby Town,Lancaster City,1,3,1,0
+1428811,1773776700,4691,4694,Gainsborough Trinity,Hyde United,2,0,1,0
+1428928,1773776700,7663,7631,Prescot Cables,Cleethorpes Town,2,2,0,1
+1428922,1773776700,7757,7693,Whitby Town,Ashton United,1,2,0,1
+1428971,1774105200,1824,7757,Guiseley AFC,Whitby Town,1,0,1,0
+1428975,1774105200,4694,7265,Hyde United,Workington,0,1,0,0
+1428978,1774105200,7252,7721,Stocksbridge Park Steels,Hednesford Town,1,1,1,0
+1428973,1774105200,7693,7236,Ashton United,Ilkeston Town,0,0,0,0
+1428974,1774105200,7695,7734,Bamber Bridge,Morpeth Town,0,2,0,0
+1428976,1774105200,7726,7631,Lancaster City,Cleethorpes Town,0,0,0,0
+1428972,1774105200,7743,4691,Rushall Olympic,Gainsborough Trinity,1,1,0,0
+1428977,1774105200,8822,7663,Hebburn Town,Prescot Cables,0,0,0,0
+1428969,1774105200,8918,7754,Rylands,United of Manchester,1,2,0,0
+1428970,1774105200,8953,7756,Stockton Town,Warrington Town,2,1,1,0
+1428942,1774381500,4691,7695,Gainsborough Trinity,Bamber Bridge,0,1,0,0
+1428943,1774381500,7631,1824,Cleethorpes Town,Guiseley AFC,2,1,1,0
+1428982,1774710000,4691,8918,Gainsborough Trinity,Rylands,0,0,0,0
+1428981,1774710000,4694,8953,Hyde United,Stockton Town,3,0,2,0
+1428984,1774710000,7252,7693,Stocksbridge Park Steels,Ashton United,2,0,1,0
+1428987,1774710000,7265,7721,Workington,Hednesford Town,3,0,2,0
+1428988,1774710000,7663,7236,Prescot Cables,Ilkeston Town,1,2,1,1
+1428985,1774710000,7695,7631,Bamber Bridge,Cleethorpes Town,0,2,0,0
+1428983,1774710000,7734,7239,Morpeth Town,Leek Town,0,1,0,1
+1428979,1774710000,7743,1824,Rushall Olympic,Guiseley AFC,1,3,1,1
+1428980,1774710000,7756,7757,Warrington Town,Whitby Town,0,2,0,2
+1428986,1774710000,8822,7726,Hebburn Town,Lancaster City,4,1,0,1
+1428998,1775155500,7631,7252,Cleethorpes Town,Stocksbridge Park Steels,2,1,1,0
+1428997,1775219400,7721,7663,Hednesford Town,Prescot Cables,3,0,1,0
+1428990,1775224800,7693,7743,Ashton United,Rushall Olympic,2,1,0,0
+1428994,1775224800,7726,7734,Lancaster City,Morpeth Town,3,0,2,0
+1428989,1775224800,7757,7754,Whitby Town,United of Manchester,1,3,0,1
+1428993,1775224800,8953,4691,Stockton Town,Gainsborough Trinity,1,0,1,0
+1428995,1775237400,7239,7695,Leek Town,Bamber Bridge,3,2,1,1
+1428991,1775311200,1824,4694,Guiseley AFC,Hyde United,1,1,1,1
+1428992,1775311200,7236,7756,Ilkeston Town,Warrington Town,1,1,0,1
+1428996,1775311200,8918,7265,Rylands,Workington,3,0,3,0
+1429000,1775484000,4691,1824,Gainsborough Trinity,Guiseley AFC,2,1,1,1
+1429002,1775484000,4694,7693,Hyde United,Ashton United,1,0,1,0
+1429008,1775484000,7252,7239,Stocksbridge Park Steels,Leek Town,0,2,0,1
+1429007,1775484000,7265,7631,Workington,Cleethorpes Town,1,1,0,1
+1429005,1775484000,7695,7726,Bamber Bridge,Lancaster City,1,1,1,1
+1429004,1775484000,7734,7757,Morpeth Town,Whitby Town,3,0,2,0
+1429003,1775484000,7743,7236,Rushall Olympic,Ilkeston Town,2,0,0,0
+1428999,1775484000,7754,7721,United of Manchester,Hednesford Town,1,2,1,0
+1429001,1775484000,7756,8918,Warrington Town,Rylands,0,1,0,0
+1429006,1775484000,8822,8953,Hebburn Town,Stockton Town,1,0,1,0
+1429009,1775916000,1824,7754,Guiseley AFC,United of Manchester,2,5,2,4
+1429014,1775916000,7236,7695,Ilkeston Town,Bamber Bridge,2,0,0,0
+1429016,1775916000,7239,7663,Leek Town,Prescot Cables,1,0,0,0
+1429018,1775916000,7631,8822,Cleethorpes Town,Hebburn Town,2,4,0,2
+1429012,1775916000,7693,7265,Ashton United,Workington,2,1,0,0
+1429015,1775916000,7721,7734,Hednesford Town,Morpeth Town,4,0,2,0
+1429013,1775916000,7726,4691,Lancaster City,Gainsborough Trinity,3,0,0,0
+1429011,1775916000,7757,4694,Whitby Town,Hyde United,1,1,1,1
+1429017,1775916000,8918,7252,Rylands,Stocksbridge Park Steels,3,2,2,1
+1429010,1775916000,8953,7743,Stockton Town,Rushall Olympic,2,4,2,2
+1429026,1776520800,4691,7663,Gainsborough Trinity,Prescot Cables,1,2,0,0
+1429025,1776520800,7239,7757,Leek Town,Whitby Town,3,2,0,1
+1429028,1776520800,7252,7236,Stocksbridge Park Steels,Ilkeston Town,0,0,0,0
+1429027,1776520800,7631,7721,Cleethorpes Town,Hednesford Town,0,1,0,0
+1429020,1776520800,7693,1824,Ashton United,Guiseley AFC,1,1,0,1
+1429024,1776520800,7695,8822,Bamber Bridge,Hebburn Town,1,2,0,0
+1429021,1776520800,7743,7734,Rushall Olympic,Morpeth Town,1,0,0,0
+1429019,1776520800,7754,4694,United of Manchester,Hyde United,0,1,0,0
+1429022,1776520800,7756,7265,Warrington Town,Workington,2,3,2,0
+1429023,1776520800,8953,7726,Stockton Town,Lancaster City,1,1,1,0
+1428759,1776797100,7754,8953,United of Manchester,Stockton Town,1,1,1,0
+1429031,1777125600,4694,4691,Hyde United,Gainsborough Trinity,3,1,3,0
+1429029,1777125600,7236,7754,Ilkeston Town,United of Manchester,3,2,1,1
+1429037,1777125600,7265,7239,Workington,Leek Town,0,1,0,1
+1429035,1777125600,7663,7695,Prescot Cables,Bamber Bridge,2,0,1,0
+1429033,1777125600,7721,7693,Hednesford Town,Ashton United,3,3,1,3
+1429038,1777125600,7726,7252,Lancaster City,Stocksbridge Park Steels,2,0,1,0
+1429030,1777125600,7734,7756,Morpeth Town,Warrington Town,2,0,0,0
+1429036,1777125600,7757,7631,Whitby Town,Cleethorpes Town,0,0,0,0
+1429034,1777125600,8822,7743,Hebburn Town,Rushall Olympic,2,0,1,0
+1429032,1777125600,8918,8953,Rylands,Stockton Town,1,2,0,1
+1542798,1777401900,7721,8953,Hednesford Town,Stockton Town,2,0,1,0
+1542239,1777401900,7754,8918,United of Manchester,Rylands,2,3,2,1
+1543537,1777903200,7721,8918,Hednesford Town,Rylands,1,1,0,0

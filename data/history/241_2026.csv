@@ -1,0 +1,69 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1544251,1778112000,1140,1132,Patriotas,Chico,0,0,0,0
+1544252,1778187600,1133,22099,Jaguares,Real Cundinamarca,1,2,0,1
+1544253,1778191200,1464,1468,Llaneros,Depor FC,3,0,3,0
+1544254,1778194800,27411,1462,Ind. Yumbo,Deportivo Pereira,1,1,1,0
+1544255,1778202000,1131,1463,Bucaramanga,Real Santander,5,0,3,0
+1544257,1778270400,1147,1143,Fortaleza FC,Leones FC,4,1,3,0
+1544256,1778270400,1460,1141,Popayan,Alianza Valledupar,1,1,0,0
+1544258,1778364000,1469,1470,Orsomarso,Cucuta,1,1,0,0
+1544261,1778443200,1144,1133,Águilas Doradas,Jaguares,0,0,0,0
+1544259,1778529600,1468,1140,Depor FC,Patriotas,1,1,1,1
+1544263,1778533200,1128,1147,Independiente Medellin,Fortaleza FC,1,0,1,0
+1544262,1778540400,1127,1131,Deportivo Cali,Bucaramanga,2,0,1,0
+1544260,1778547600,1125,1464,Millonarios,Llaneros,1,0,0,0
+1544264,1778612400,1143,1469,Leones FC,Orsomarso,2,0,0,0
+1544266,1778616000,1463,1460,Real Santander,Popayan,0,3,0,1
+1544265,1778698800,22099,27411,Real Cundinamarca,Ind. Yumbo,2,0,1,0
+1544270,1778878800,1460,1127,Popayan,Deportivo Cali,1,5,0,2
+1544268,1778886000,1140,1125,Patriotas,Millonarios,2,3,1,1
+1544273,1778893200,1469,1128,Orsomarso,Independiente Medellin,1,1,1,1
+1544267,1778963400,1132,1468,Chico,Depor FC,4,0,1,0
+1544269,1778963400,1141,1463,Alianza Valledupar,Real Santander,3,0,2,0
+1544271,1778963400,1470,1143,Cucuta,Leones FC,0,0,0,0
+1544274,1779049800,1462,22099,Deportivo Pereira,Real Cundinamarca,1,0,0,0
+1544272,1779064200,27411,1144,Ind. Yumbo,Águilas Doradas,1,4,1,1
+1544278,1779307200,1147,1469,Fortaleza FC,Orsomarso,1,1,0,1
+1544281,1779314400,1464,1140,Llaneros,Patriotas,3,1,1,1
+1544276,1779321600,1131,1460,Bucaramanga,Popayan,2,3,0,1
+1544277,1779324000,1127,1141,Deportivo Cali,Alianza Valledupar,1,0,1,0
+1544275,1779395400,1144,1462,Águilas Doradas,Deportivo Pereira,1,1,1,0
+1544280,1779397200,1133,27411,Jaguares,Ind. Yumbo,3,0,2,0
+1544282,1779566400,1125,1132,Millonarios,Chico,2,2,1,1
+1544284,1779654600,1141,1131,Alianza Valledupar,Bucaramanga,2,1,0,0
+1544290,1779654600,1463,1127,Real Santander,Deportivo Cali,1,2,0,1
+1544288,1779827400,1462,1133,Deportivo Pereira,Jaguares,1,0,0,0
+1544289,1779827400,22099,1144,Real Cundinamarca,Águilas Doradas,2,2,1,0
+1544285,1779915600,1132,1464,Chico,Llaneros,0,1,0,0
+1544286,1780088400,1470,1147,Cucuta,Fortaleza FC,0,0,0,0
+1544287,1780095600,1143,1128,Leones FC,Independiente Medellin,1,1,1,1
+1544283,1780103400,1468,1125,Depor FC,Millonarios,1,8,0,5
+1544279,1780434000,1128,1470,Independiente Medellin,Cucuta,2,1,1,1
+1545505,1784667600,1137,1145,Atletico Nacional,Tigres FC,2,0,2,0
+1545508,1784671200,1134,23326,Internacional de Bogota,Internacional Palmira,1,0,0,0
+1545506,1784674800,1142,1461,Deportes Tolima,Quindio,2,1,0,1
+1545507,1784678400,1126,1458,Deportivo Pasto,Bogota FC,0,1,0,0
+1545510,1784678400,1136,1129,Once Caldas,Envigado,3,0,2,0
+1545504,1784680200,1138,1459,America de Cali,Real Cartagena,2,1,1,0
+1545509,1784766600,1135,1466,Junior,Barranquilla,2,2,2,0
+1545517,1785280500,1461,1142,Quindio,Deportes Tolima,2,1,0,1
+1545513,1785283200,1458,1126,Bogota FC,Deportivo Pasto,0,3,0,3
+1545518,1785288600,1145,1137,Tigres FC,Atletico Nacional,0,2,0,2
+1545516,1785362400,23326,1134,Internacional Palmira,Internacional de Bogota,1,2,0,1
+1545512,1785364200,1466,1135,Barranquilla,Junior,3,3,1,2
+1545514,1785373200,1459,1138,Real Cartagena,America de Cali,1,1,1,1
+1545515,1785443400,1129,1136,Envigado,Once Caldas,0,3,0,2
+1545511,1785974400,1139,1465,Santa Fe,Union Magdalena,2,0,0,0
+1607190,1788388200,1461,1464,Quindio,Llaneros,1,1,1,1
+1607188,1788830100,1137,1127,Atletico Nacional,Deportivo Cali,3,0,1,0
+1607638,1788994800,1138,1462,America de Cali,Deportivo Pereira,4,1,3,1
+1607643,1788994800,22099,1134,Real Cundinamarca,Internacional de Bogota,1,2,0,1
+1611288,1788998400,1136,1141,Once Caldas,Alianza Valledupar,1,0,1,0
+1635082,1789002600,1126,1128,Deportivo Pasto,Independiente Medellin,1,4,0,2
+1545519,1790377200,1465,1139,Union Magdalena,Santa Fe,1,1,1,0
+1607641,1791069000,1466,1125,Barranquilla,Millonarios,1,1,1,1
+1644258,1791745200,1139,1147,Santa Fe,Fortaleza FC,2,2,1,1
+1644750,1792027800,1137,1128,Atletico Nacional,Independiente Medellin,3,2,2,0
+1644751,1792105200,1134,1464,Internacional de Bogota,Llaneros,4,1,2,1
+1644752,1792629000,1466,1138,Barranquilla,America de Cali,0,4,0,3
+1646450,1793582100,1139,1136,Santa Fe,Once Caldas,0,2,0,1

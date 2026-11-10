@@ -1,0 +1,169 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1595897,1786197600,4708,8737,St Albans City,Chatham Town,3,1,2,0
+1595891,1786197600,7207,4704,Aveley,Eastbourne Borough,2,2,0,1
+1595892,1786197600,7216,7217,Brentwood Town,Burgess Hill Town,2,0,1,0
+1595900,1786197600,7262,7707,Whyteleafe,Carshalton Athletic,0,2,0,1
+1595896,1786197600,7665,4696,Ramsgate,Leatherhead,1,2,1,2
+1595898,1786197600,7676,4690,Three Bridges,Dartford,2,3,2,1
+1595893,1786197600,7708,8950,Cheshunt,Stanway Rovers,0,0,0,0
+1595895,1786197600,7728,7714,Lewes,Enfield Town,0,4,0,3
+1595901,1786197600,7759,7711,Wingate & Finchley,Cray Wanderers,1,1,1,0
+1595894,1786197600,8149,7654,Dulwich Hamlet,Maldon & Tiptree,6,0,5,0
+1595899,1786197600,8664,4713,Welling United,Whitehawk,2,0,0,0
+1595902,1786387500,7707,7759,Carshalton Athletic,Wingate & Finchley,2,0,1,0
+1595906,1786473900,4690,7216,Dartford,Brentwood Town,1,0,1,0
+1595909,1786473900,4696,8664,Leatherhead,Welling United,4,1,4,0
+1595907,1786473900,4704,7676,Eastbourne Borough,Three Bridges,3,2,3,0
+1595912,1786473900,4713,7728,Whitehawk,Lewes,0,0,0,0
+1595903,1786473900,7217,7262,Burgess Hill Town,Whyteleafe,3,0,3,0
+1595910,1786473900,7654,7207,Maldon & Tiptree,Aveley,1,0,0,0
+1595905,1786473900,7711,7708,Cray Wanderers,Cheshunt,0,0,0,0
+1595908,1786473900,7714,4708,Enfield Town,St Albans City,1,2,1,0
+1595904,1786473900,8737,8149,Chatham Town,Dulwich Hamlet,3,1,1,1
+1595911,1786473900,8950,7665,Stanway Rovers,Ramsgate,1,3,0,2
+1595918,1786802400,4704,7216,Eastbourne Borough,Brentwood Town,3,2,1,0
+1595921,1786802400,4708,7728,St Albans City,Lewes,0,2,0,1
+1595913,1786802400,7207,4713,Aveley,Whitehawk,3,2,1,2
+1595914,1786802400,7217,4696,Burgess Hill Town,Leatherhead,2,2,1,1
+1595923,1786802400,7262,7759,Whyteleafe,Wingate & Finchley,2,2,2,2
+1595920,1786802400,7654,4690,Maldon & Tiptree,Dartford,1,2,1,1
+1595915,1786802400,7707,7711,Carshalton Athletic,Cray Wanderers,2,1,1,0
+1595919,1786802400,7714,7665,Enfield Town,Ramsgate,3,2,2,2
+1595917,1786802400,8149,7708,Dulwich Hamlet,Cheshunt,2,0,0,0
+1595922,1786802400,8664,8950,Welling United,Stanway Rovers,4,0,1,0
+1595916,1786802400,8737,7676,Chatham Town,Three Bridges,3,1,1,0
+1595927,1787407200,4690,8664,Dartford,Welling United,0,3,0,1
+1595928,1787407200,4696,7654,Leatherhead,Maldon & Tiptree,1,4,0,1
+1595933,1787407200,4713,8737,Whitehawk,Chatham Town,0,3,0,1
+1595924,1787407200,7216,7714,Brentwood Town,Enfield Town,1,3,1,2
+1595930,1787407200,7665,4708,Ramsgate,St Albans City,4,0,2,0
+1595932,1787407200,7676,7207,Three Bridges,Aveley,1,5,0,2
+1595925,1787407200,7708,7217,Cheshunt,Burgess Hill Town,1,1,0,1
+1595926,1787407200,7711,4704,Cray Wanderers,Eastbourne Borough,2,1,1,0
+1595929,1787407200,7728,7262,Lewes,Whyteleafe,3,1,2,1
+1595934,1787407200,7759,8149,Wingate & Finchley,Dulwich Hamlet,1,0,0,0
+1595931,1787407200,8950,7707,Stanway Rovers,Carshalton Athletic,1,2,1,1
+1595936,1787942700,7217,4690,Burgess Hill Town,Dartford,2,1,1,1
+1595940,1788012000,4704,4696,Eastbourne Borough,Leatherhead,0,1,0,0
+1595943,1788012000,4708,8950,St Albans City,Stanway Rovers,4,1,2,1
+1595935,1788012000,7207,7728,Aveley,Lewes,0,2,0,0
+1595945,1788012000,7262,7708,Whyteleafe,Cheshunt,2,2,0,1
+1595937,1788012000,7707,7216,Carshalton Athletic,Brentwood Town,2,0,1,0
+1595941,1788012000,7714,4713,Enfield Town,Whitehawk,5,1,3,1
+1595939,1788012000,8149,7676,Dulwich Hamlet,Three Bridges,2,2,1,0
+1595944,1788012000,8664,7665,Welling United,Ramsgate,1,0,1,0
+1595938,1788012000,8737,7759,Chatham Town,Wingate & Finchley,2,3,0,2
+1595949,1788184800,4690,8737,Dartford,Chatham Town,1,0,0,0
+1595950,1788184800,4696,8149,Leatherhead,Dulwich Hamlet,2,3,0,1
+1595955,1788184800,4713,7217,Whitehawk,Burgess Hill Town,1,1,1,0
+1595952,1788184800,7665,7262,Ramsgate,Whyteleafe,5,1,2,0
+1595954,1788184800,7676,7707,Three Bridges,Carshalton Athletic,3,2,2,1
+1595947,1788184800,7708,4708,Cheshunt,St Albans City,1,1,0,1
+1595948,1788184800,7711,8664,Cray Wanderers,Welling United,4,1,1,1
+1595951,1788184800,7728,4704,Lewes,Eastbourne Borough,1,0,0,0
+1595956,1788184800,7759,7714,Wingate & Finchley,Enfield Town,1,4,1,2
+1595953,1788184800,8950,7207,Stanway Rovers,Aveley,0,2,0,1
+1595962,1789221600,4704,7708,Eastbourne Borough,Cheshunt,3,0,2,0
+1595965,1789221600,4708,7676,St Albans City,Three Bridges,4,0,2,0
+1595957,1789221600,7207,4696,Aveley,Leatherhead,1,2,1,1
+1595958,1789221600,7217,7665,Burgess Hill Town,Ramsgate,2,2,0,1
+1595967,1789221600,7262,8950,Whyteleafe,Stanway Rovers,4,0,0,0
+1595964,1789221600,7654,4713,Maldon & Tiptree,Whitehawk,3,2,1,2
+1595959,1789221600,7707,4690,Carshalton Athletic,Dartford,0,3,0,2
+1595963,1789221600,7714,7711,Enfield Town,Cray Wanderers,3,2,1,1
+1595961,1789221600,8149,7216,Dulwich Hamlet,Brentwood Town,2,1,1,0
+1595966,1789221600,8664,7759,Welling United,Wingate & Finchley,4,1,1,1
+1595960,1789221600,8737,7728,Chatham Town,Lewes,3,2,0,2
+1595968,1789411500,7207,7759,Aveley,Wingate & Finchley,3,4,1,2
+1595974,1789497900,4696,7262,Leatherhead,Whyteleafe,0,0,0,0
+1595972,1789497900,4704,8737,Eastbourne Borough,Chatham Town,2,1,1,0
+1595978,1789497900,4713,7676,Whitehawk,Three Bridges,3,2,2,1
+1595969,1789497900,7216,8950,Brentwood Town,Stanway Rovers,2,3,1,3
+1595976,1789497900,7665,7654,Ramsgate,Maldon & Tiptree,2,0,1,0
+1595971,1789497900,7711,4708,Cray Wanderers,St Albans City,3,3,0,1
+1595973,1789497900,7714,4690,Enfield Town,Dartford,0,2,0,1
+1595975,1789497900,7728,7707,Lewes,Carshalton Athletic,3,0,1,0
+1595977,1789497900,8664,7708,Welling United,Cheshunt,2,0,1,0
+1596074,1789826400,7654,7707,Maldon & Tiptree,Carshalton Athletic,2,3,2,0
+1595981,1789826400,7708,7728,Cheshunt,Lewes,3,1,1,0
+1595946,1790102700,7216,7654,Brentwood Town,Maldon & Tiptree,5,1,2,1
+1595987,1790102700,7676,4696,Three Bridges,Leatherhead,3,3,3,1
+1595982,1790707500,4690,4713,Dartford,Whitehawk,2,1,1,1
+1595942,1790707500,7654,7711,Maldon & Tiptree,Cray Wanderers,1,5,0,3
+1595983,1790707500,8149,7207,Dulwich Hamlet,Aveley,2,0,1,0
+1595988,1790793900,7262,7216,Whyteleafe,Brentwood Town,1,2,1,1
+1595992,1791036000,7217,7654,Burgess Hill Town,Maldon & Tiptree,4,1,2,0
+1595998,1791036000,7665,7707,Ramsgate,Carshalton Athletic,2,3,2,2
+1596038,1791036000,7728,4713,Lewes,Whitehawk,1,0,0,0
+1595999,1791036000,8664,7262,Welling United,Whyteleafe,1,0,1,0
+1596001,1791225900,7707,4704,Carshalton Athletic,Eastbourne Borough,0,4,0,2
+1596004,1791312300,4690,7665,Dartford,Ramsgate,1,2,1,2
+1596006,1791312300,7654,8664,Maldon & Tiptree,Welling United,0,1,0,0
+1596003,1791312300,7708,7207,Cheshunt,Aveley,2,1,0,1
+1596008,1791312300,8950,7714,Stanway Rovers,Enfield Town,1,2,1,1
+1596016,1791640800,4690,7759,Dartford,Wingate & Finchley,2,1,1,0
+1596019,1791640800,4696,7708,Leatherhead,Cheshunt,1,2,0,0
+1596017,1791640800,4704,8664,Eastbourne Borough,Welling United,1,0,1,0
+1596022,1791640800,4713,7665,Whitehawk,Ramsgate,1,4,1,3
+1596012,1791640800,7217,7207,Burgess Hill Town,Aveley,1,1,0,0
+1596020,1791640800,7654,7262,Maldon & Tiptree,Whyteleafe,1,2,0,0
+1596013,1791640800,7707,4708,Carshalton Athletic,St Albans City,0,1,0,0
+1596015,1791640800,7711,7728,Cray Wanderers,Lewes,1,2,1,2
+1596018,1791640800,7714,8149,Enfield Town,Dulwich Hamlet,3,0,1,0
+1596014,1791640800,8737,7216,Chatham Town,Brentwood Town,3,0,1,0
+1596021,1791640800,8950,7676,Stanway Rovers,Three Bridges,1,3,0,0
+1595979,1791830700,7707,7714,Carshalton Athletic,Enfield Town,1,2,0,1
+1595970,1791917100,7217,8149,Burgess Hill Town,Dulwich Hamlet,2,0,1,0
+1596009,1791917100,7676,7728,Three Bridges,Lewes,1,2,1,1
+1595989,1791917100,7759,7665,Wingate & Finchley,Ramsgate,2,0,0,0
+1596011,1792003500,7262,4713,Whyteleafe,Whitehawk,5,0,2,0
+1596023,1792245600,7207,8737,Aveley,Chatham Town,1,0,0,0
+1596032,1792245600,7262,4690,Whyteleafe,Dartford,2,1,1,0
+1596030,1792245600,7676,7714,Three Bridges,Enfield Town,3,3,2,3
+1596025,1792245600,7708,4713,Cheshunt,Whitehawk,1,1,0,0
+1596027,1792245600,7728,7654,Lewes,Maldon & Tiptree,1,1,1,1
+1596033,1792245600,7759,8950,Wingate & Finchley,Stanway Rovers,4,1,2,1
+1596026,1792245600,8149,7707,Dulwich Hamlet,Carshalton Athletic,2,2,1,1
+1596031,1792245600,8664,7217,Welling United,Burgess Hill Town,4,2,1,0
+1596034,1792435500,7207,7654,Aveley,Maldon & Tiptree,1,2,0,1
+1596035,1792521900,7216,4690,Brentwood Town,Dartford,3,0,1,0
+1596039,1792521900,7665,8950,Ramsgate,Stanway Rovers,2,0,0,0
+1596041,1792521900,7676,4704,Three Bridges,Eastbourne Borough,0,2,0,1
+1596043,1792521900,7759,7707,Wingate & Finchley,Carshalton Athletic,4,2,2,1
+1596037,1792521900,8149,8737,Dulwich Hamlet,Chatham Town,0,4,0,2
+1596044,1792608300,7262,7217,Whyteleafe,Burgess Hill Town,2,3,2,2
+1596053,1792850400,7654,8149,Maldon & Tiptree,Dulwich Hamlet,1,1,1,0
+1595980,1792850400,8737,8664,Chatham Town,Welling United,3,2,0,0
+1596054,1792850400,8950,7708,Stanway Rovers,Cheshunt,3,0,1,0
+1595985,1793130300,4708,7217,St Albans City,Burgess Hill Town,3,1,2,0
+1596000,1793130300,4713,8149,Whitehawk,Dulwich Hamlet,1,2,0,2
+1595991,1793130300,7216,7708,Brentwood Town,Cheshunt,4,2,3,0
+1595984,1793130300,7654,4704,Maldon & Tiptree,Eastbourne Borough,1,2,1,2
+1595995,1793130300,7714,8737,Enfield Town,Chatham Town,4,0,2,0
+1596042,1793130300,8664,4696,Welling United,Leatherhead,1,0,1,0
+1598837,1793458800,4696,8950,Leatherhead,Stanway Rovers,7,2,4,2
+1598836,1793458800,4704,7665,Eastbourne Borough,Ramsgate,2,0,0,0
+1598841,1793458800,4713,4708,Whitehawk,St Albans City,1,3,1,0
+1598832,1793458800,7207,4690,Aveley,Dartford,4,3,1,1
+1598833,1793458800,7216,7711,Brentwood Town,Cray Wanderers,1,4,1,2
+1598834,1793458800,7217,7714,Burgess Hill Town,Enfield Town,0,6,0,2
+1598842,1793458800,7262,8149,Whyteleafe,Dulwich Hamlet,4,2,1,0
+1598839,1793458800,7654,7676,Maldon & Tiptree,Three Bridges,3,1,3,0
+1598835,1793458800,7708,8737,Cheshunt,Chatham Town,3,1,0,0
+1598838,1793458800,7728,7759,Lewes,Wingate & Finchley,2,2,1,2
+1598840,1793458800,8664,7707,Welling United,Carshalton Athletic,4,0,2,0
+1595990,1793648700,7207,4708,Aveley,St Albans City,1,0,0,0
+1595994,1793735100,4704,8950,Eastbourne Borough,Stanway Rovers,1,0,1,0
+1596024,1793735100,7216,4696,Brentwood Town,Leatherhead,1,2,0,1
+1595997,1793735100,7728,4690,Lewes,Dartford,1,2,0,2
+1596010,1793735100,7759,7217,Wingate & Finchley,Burgess Hill Town,1,1,0,0
+1596059,1794063600,4690,4704,Dartford,Eastbourne Borough,4,1,4,0
+1596063,1794063600,4708,8664,St Albans City,Welling United,1,3,0,1
+1596062,1794063600,7665,7207,Ramsgate,Aveley,4,0,2,0
+1596065,1794063600,7676,7216,Three Bridges,Brentwood Town,1,1,1,0
+1596056,1794063600,7707,7708,Carshalton Athletic,Cheshunt,4,2,2,0
+1596061,1794063600,7714,7262,Enfield Town,Whyteleafe,0,2,0,1
+1596066,1794063600,7759,7654,Wingate & Finchley,Maldon & Tiptree,1,3,1,2
+1596060,1794063600,8149,7728,Dulwich Hamlet,Lewes,2,3,1,0
+1596057,1794063600,8737,7217,Chatham Town,Burgess Hill Town,1,1,1,0
+1596064,1794063600,8950,4713,Stanway Rovers,Whitehawk,0,0,0,0

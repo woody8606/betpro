@@ -1,0 +1,466 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1428159,1754748000,1843,4711,Havant & Wville,Taunton Town,2,3,0,1
+1428162,1754748000,7214,7619,Berkhamsted,Bracknell Town,1,0,1,0
+1428165,1754748000,7257,7712,Uxbridge,Dorchester Town,0,0,0,0
+1428167,1754748000,7615,7758,Basingstoke Town,Wimborne Town,2,0,1,0
+1428160,1754748000,7738,7645,Poole Town,Hanwell Town,1,0,1,0
+1428163,1754748000,7753,7627,Tiverton Town,Chertsey Town,0,2,0,0
+1428164,1754748000,7762,7668,Yate Town,Sholing,0,0,0,0
+1428158,1754748000,8653,7717,Gloucester City,Gosport Borough,4,2,3,1
+1428161,1754748000,8665,7640,Weymouth,Evesham United,1,3,0,2
+1428166,1754748000,8783,8661,Farnham Town,Hungerford Town,1,0,0,0
+1428157,1754748000,8986,8899,Walton & Hersham,Plymouth Parkway,6,3,2,2
+1428168,1754937900,7619,7257,Bracknell Town,Uxbridge,1,1,0,0
+1428170,1755023400,7640,7615,Evesham United,Basingstoke Town,1,1,0,1
+1428169,1755023400,7758,1843,Wimborne Town,Havant & Wville,3,1,1,0
+1428176,1755024300,7627,7214,Chertsey Town,Berkhamsted,0,1,0,1
+1428171,1755024300,7645,8986,Hanwell Town,Walton & Hersham,1,0,1,0
+1428173,1755024300,7668,7738,Sholing,Poole Town,4,1,2,0
+1428175,1755024300,7712,7753,Dorchester Town,Tiverton Town,1,3,1,2
+1428174,1755024300,8661,8653,Hungerford Town,Gloucester City,1,2,0,1
+1428172,1755024300,8899,8665,Plymouth Parkway,Weymouth,0,2,0,1
+1428178,1755110700,4711,7762,Taunton Town,Yate Town,2,1,2,1
+1428177,1755110700,7717,8783,Gosport Borough,Farnham Town,3,3,2,1
+1428182,1755352800,4711,7615,Taunton Town,Basingstoke Town,1,1,1,0
+1428181,1755352800,7619,7738,Bracknell Town,Poole Town,3,4,0,1
+1428187,1755352800,7627,8783,Chertsey Town,Farnham Town,0,1,0,0
+1428185,1755352800,7640,1843,Evesham United,Havant & Wville,0,1,0,1
+1428188,1755352800,7645,7762,Hanwell Town,Yate Town,3,0,1,0
+1428180,1755352800,7668,8665,Sholing,Weymouth,3,2,1,2
+1428179,1755352800,7712,8986,Dorchester Town,Walton & Hersham,3,3,1,0
+1428184,1755352800,7717,7214,Gosport Borough,Berkhamsted,3,1,1,0
+1428189,1755352800,7758,7257,Wimborne Town,Uxbridge,2,2,2,0
+1428186,1755352800,8661,7753,Hungerford Town,Tiverton Town,2,1,1,0
+1428183,1755352800,8899,8653,Plymouth Parkway,Gloucester City,2,1,1,0
+1428192,1755957600,1843,8661,Havant & Wville,Hungerford Town,1,2,1,0
+1428197,1755957600,7214,7712,Berkhamsted,Dorchester Town,1,0,1,0
+1428195,1755957600,7257,7717,Uxbridge,Gosport Borough,2,1,1,0
+1428196,1755957600,7615,8899,Basingstoke Town,Plymouth Parkway,1,1,0,1
+1428198,1755957600,7738,7640,Poole Town,Evesham United,1,1,0,0
+1428194,1755957600,7753,7668,Tiverton Town,Sholing,0,1,0,0
+1428199,1755957600,7762,7627,Yate Town,Chertsey Town,0,0,0,0
+1428193,1755957600,8653,7645,Gloucester City,Hanwell Town,3,0,1,0
+1428191,1755957600,8665,7619,Weymouth,Bracknell Town,1,1,0,0
+1428200,1755957600,8783,7758,Farnham Town,Wimborne Town,1,1,0,1
+1428190,1755957600,8986,4711,Walton & Hersham,Taunton Town,2,1,1,1
+1428203,1756130400,4711,7753,Taunton Town,Tiverton Town,3,0,1,0
+1428204,1756130400,7619,7615,Bracknell Town,Basingstoke Town,3,2,1,1
+1428211,1756130400,7627,7257,Chertsey Town,Uxbridge,3,3,1,2
+1428207,1756130400,7640,8653,Evesham United,Gloucester City,1,1,0,1
+1428210,1756130400,7645,7214,Hanwell Town,Berkhamsted,1,1,0,0
+1428202,1756130400,7668,1843,Sholing,Havant & Wville,3,3,2,2
+1428208,1756130400,7712,8783,Dorchester Town,Farnham Town,1,3,1,1
+1428201,1756130400,7717,8986,Gosport Borough,Walton & Hersham,0,2,0,2
+1428205,1756130400,7758,8665,Wimborne Town,Weymouth,3,0,0,0
+1428209,1756130400,8661,7762,Hungerford Town,Yate Town,3,1,0,1
+1428206,1756130400,8899,7738,Plymouth Parkway,Poole Town,0,1,0,0
+1428214,1757167200,1843,8899,Havant & Wville,Plymouth Parkway,1,0,0,0
+1428222,1757167200,7214,7758,Berkhamsted,Wimborne Town,0,3,0,2
+1428219,1757167200,7257,4711,Uxbridge,Taunton Town,2,2,2,2
+1428221,1757167200,7615,8661,Basingstoke Town,Hungerford Town,1,2,1,2
+1428218,1757167200,7738,7627,Poole Town,Chertsey Town,1,0,0,0
+1428215,1757167200,7753,7619,Tiverton Town,Bracknell Town,2,0,2,0
+1428217,1757167200,7762,7717,Yate Town,Gosport Borough,1,1,0,1
+1428213,1757167200,8653,7712,Gloucester City,Dorchester Town,2,0,1,0
+1428216,1757167200,8665,7645,Weymouth,Hanwell Town,0,0,0,0
+1428220,1757167200,8783,7668,Farnham Town,Sholing,2,2,2,2
+1428212,1757167200,8986,7640,Walton & Hersham,Evesham United,2,1,1,1
+1428230,1757443500,7257,7214,Uxbridge,Berkhamsted,2,1,2,1
+1428229,1757443500,7640,8661,Evesham United,Hungerford Town,2,1,1,0
+1428227,1757443500,7645,7627,Hanwell Town,Chertsey Town,1,2,0,0
+1428226,1757443500,7738,8783,Poole Town,Farnham Town,2,2,1,1
+1428228,1757443500,7762,7753,Yate Town,Tiverton Town,2,1,2,1
+1428225,1757443500,8899,7712,Plymouth Parkway,Dorchester Town,3,3,0,2
+1428231,1757529900,4711,8665,Taunton Town,Weymouth,1,1,0,0
+1428233,1757529900,7717,7758,Gosport Borough,Wimborne Town,1,0,0,0
+1428242,1758376800,7214,8899,Berkhamsted,Plymouth Parkway,2,2,1,0
+1428237,1758376800,7615,1843,Basingstoke Town,Havant & Wville,1,3,1,3
+1428234,1758376800,7619,8986,Bracknell Town,Walton & Hersham,2,3,2,0
+1428236,1758376800,7627,7717,Chertsey Town,Gosport Borough,1,3,1,0
+1428240,1758376800,7668,7645,Sholing,Hanwell Town,1,1,0,0
+1428241,1758376800,7712,7762,Dorchester Town,Yate Town,2,0,1,0
+1428243,1758376800,7753,7257,Tiverton Town,Uxbridge,1,1,0,1
+1428244,1758376800,7758,7640,Wimborne Town,Evesham United,1,1,0,1
+1428238,1758376800,8661,7738,Hungerford Town,Poole Town,0,0,0,0
+1428235,1758376800,8665,8653,Weymouth,Gloucester City,0,3,0,3
+1428239,1758376800,8783,4711,Farnham Town,Taunton Town,4,0,3,0
+1428245,1758566700,7619,7640,Bracknell Town,Evesham United,2,3,2,3
+1428246,1758652200,7758,8899,Wimborne Town,Plymouth Parkway,3,2,1,2
+1428248,1758653100,7214,8986,Berkhamsted,Walton & Hersham,0,3,0,3
+1428254,1758653100,7615,7762,Basingstoke Town,Yate Town,4,2,2,1
+1428251,1758653100,7627,1843,Chertsey Town,Havant & Wville,2,0,0,0
+1428255,1758653100,7668,7257,Sholing,Uxbridge,3,0,1,0
+1428249,1758653100,7712,4711,Dorchester Town,Taunton Town,1,4,0,1
+1428253,1758653100,8661,7645,Hungerford Town,Hanwell Town,1,5,1,1
+1428247,1758653100,8665,7717,Weymouth,Gosport Borough,0,2,0,1
+1428252,1758653100,8783,8653,Farnham Town,Gloucester City,3,3,0,2
+1428295,1758981600,7762,8899,Yate Town,Plymouth Parkway,2,1,1,0
+1428224,1758981600,8653,7615,Gloucester City,Basingstoke Town,2,1,1,0
+1428270,1758981600,8665,7753,Weymouth,Tiverton Town,4,1,3,1
+1428223,1759257900,8986,7668,Walton & Hersham,Sholing,2,0,1,0
+1428250,1759862700,7753,7738,Tiverton Town,Poole Town,1,2,0,2
+1428259,1760191200,4711,7627,Taunton Town,Chertsey Town,0,2,0,1
+1428265,1760191200,7257,7615,Uxbridge,Basingstoke Town,2,1,1,1
+1428264,1760191200,7640,7753,Evesham United,Tiverton Town,5,0,3,0
+1428263,1760191200,7645,7712,Hanwell Town,Dorchester Town,0,2,0,1
+1428258,1760191200,7717,8661,Gosport Borough,Hungerford Town,3,2,1,2
+1428257,1760191200,7738,8665,Poole Town,Weymouth,6,0,2,0
+1428266,1760191200,7762,7214,Yate Town,Berkhamsted,0,0,0,0
+1428261,1760191200,8653,7668,Gloucester City,Sholing,2,1,1,1
+1428260,1760191200,8899,7619,Plymouth Parkway,Bracknell Town,1,0,0,0
+1428256,1760191200,8986,7758,Walton & Hersham,Wimborne Town,1,0,1,0
+1428267,1760381100,7619,8653,Bracknell Town,Gloucester City,0,2,0,0
+1428268,1760466600,7758,7762,Wimborne Town,Yate Town,4,1,2,1
+1428277,1760467500,7214,7640,Berkhamsted,Evesham United,3,1,1,1
+1428276,1760467500,7257,8661,Uxbridge,Hungerford Town,3,1,2,0
+1428274,1760467500,7615,7627,Basingstoke Town,Chertsey Town,2,1,1,0
+1428273,1760467500,7738,7712,Poole Town,Dorchester Town,2,0,1,0
+1428271,1760467500,8899,4711,Plymouth Parkway,Taunton Town,2,1,1,0
+1428269,1760467500,8986,1843,Walton & Hersham,Havant & Wville,2,1,1,0
+1428285,1760796000,1843,7257,Havant & Wville,Uxbridge,3,3,0,1
+1428281,1760796000,4711,7668,Taunton Town,Sholing,0,1,0,0
+1428282,1760796000,7627,7619,Chertsey Town,Bracknell Town,1,1,1,1
+1428288,1760796000,7640,7645,Evesham United,Hanwell Town,1,0,0,0
+1428286,1760796000,7712,7758,Dorchester Town,Wimborne Town,0,2,0,0
+1428280,1760796000,7717,7615,Gosport Borough,Basingstoke Town,3,4,1,2
+1428287,1760796000,7753,7214,Tiverton Town,Berkhamsted,0,1,0,1
+1428278,1760796000,7762,8986,Yate Town,Walton & Hersham,1,2,0,0
+1428279,1760796000,8653,7738,Gloucester City,Poole Town,3,2,2,1
+1428284,1760796000,8661,8899,Hungerford Town,Plymouth Parkway,1,1,0,1
+1428283,1760805000,8783,8665,Farnham Town,Weymouth,2,3,2,1
+1428293,1761072300,7627,7668,Chertsey Town,Sholing,1,1,0,1
+1428291,1761072300,7712,7615,Dorchester Town,Basingstoke Town,1,0,0,0
+1428292,1761072300,8653,7214,Gloucester City,Berkhamsted,3,3,1,0
+1428289,1761072300,8783,8986,Farnham Town,Walton & Hersham,1,2,0,1
+1428299,1761158700,1843,7645,Havant & Wville,Hanwell Town,2,3,1,3
+1428298,1761158700,4711,7738,Taunton Town,Poole Town,1,4,1,1
+1428297,1761158700,7717,7619,Gosport Borough,Bracknell Town,6,1,2,1
+1428296,1761400800,7640,7257,Evesham United,Uxbridge,1,2,0,0
+1428272,1761400800,7668,7717,Sholing,Gosport Borough,2,2,1,1
+1428341,1761400800,7753,7762,Tiverton Town,Yate Town,2,3,1,1
+1428290,1761400800,8661,8665,Hungerford Town,Weymouth,0,0,0,0
+1428306,1762009200,7214,1843,Berkhamsted,Havant & Wville,2,1,1,0
+1428307,1762009200,7257,8653,Uxbridge,Gloucester City,4,3,1,2
+1428308,1762009200,7615,8783,Basingstoke Town,Farnham Town,1,4,1,2
+1428302,1762009200,7619,7712,Bracknell Town,Dorchester Town,2,2,0,1
+1428303,1762009200,7645,4711,Hanwell Town,Taunton Town,0,4,0,3
+1428305,1762009200,7668,8661,Sholing,Hungerford Town,5,3,2,1
+1428301,1762009200,7738,7717,Poole Town,Gosport Borough,0,1,0,0
+1428309,1762009200,7758,7627,Wimborne Town,Chertsey Town,4,1,0,1
+1428304,1762009200,8665,7762,Weymouth,Yate Town,2,2,1,0
+1428310,1762009200,8899,7640,Plymouth Parkway,Evesham United,1,0,1,0
+1428300,1762009200,8986,7753,Walton & Hersham,Tiverton Town,6,0,2,0
+1428312,1762614000,4711,7717,Taunton Town,Gosport Borough,2,3,1,2
+1428319,1762614000,7615,7214,Basingstoke Town,Berkhamsted,2,1,1,1
+1428321,1762614000,7640,8783,Evesham United,Farnham Town,1,2,1,1
+1428316,1762614000,7645,7753,Hanwell Town,Tiverton Town,2,0,0,0
+1428314,1762614000,7668,7619,Sholing,Bracknell Town,0,1,0,1
+1428315,1762614000,7712,7627,Dorchester Town,Chertsey Town,0,0,0,0
+1428313,1762614000,8653,1843,Gloucester City,Havant & Wville,3,2,3,1
+1428318,1762614000,8661,7758,Hungerford Town,Wimborne Town,0,0,0,0
+1428320,1762614000,8899,7257,Plymouth Parkway,Uxbridge,0,3,0,1
+1428311,1762614000,8986,8665,Walton & Hersham,Weymouth,4,0,2,0
+1428331,1763218800,7214,7668,Berkhamsted,Sholing,1,1,0,0
+1428332,1763218800,7257,7762,Uxbridge,Yate Town,1,3,1,0
+1428330,1763218800,7627,7640,Chertsey Town,Evesham United,4,0,4,0
+1428324,1763218800,8665,7615,Weymouth,Basingstoke Town,1,2,1,1
+1428333,1763408700,7619,1843,Bracknell Town,Havant & Wville,3,0,1,0
+1428334,1763494200,7758,7717,Wimborne Town,Gosport Borough,1,0,0,0
+1428337,1763495100,7615,8653,Basingstoke Town,Gloucester City,0,2,0,0
+1428340,1763495100,7627,7645,Chertsey Town,Hanwell Town,2,1,1,1
+1428338,1763495100,7712,8899,Dorchester Town,Plymouth Parkway,2,2,1,0
+1428342,1763495100,8661,7640,Hungerford Town,Evesham United,3,3,1,1
+1428336,1763495100,8665,4711,Weymouth,Taunton Town,2,0,1,0
+1428339,1763495100,8783,7738,Farnham Town,Poole Town,2,1,1,1
+1428345,1763823600,1843,8665,Havant & Wville,Weymouth,2,0,0,0
+1428349,1763823600,4711,7214,Taunton Town,Berkhamsted,1,2,0,1
+1428354,1763823600,7257,8783,Uxbridge,Farnham Town,1,3,1,1
+1428353,1763823600,7640,7712,Evesham United,Dorchester Town,4,1,1,1
+1428352,1763823600,7645,7758,Hanwell Town,Wimborne Town,1,1,1,0
+1428346,1763823600,7717,7753,Gosport Borough,Tiverton Town,3,2,1,1
+1428348,1763823600,7738,7615,Poole Town,Basingstoke Town,1,0,1,0
+1428350,1763823600,7762,7619,Yate Town,Bracknell Town,4,1,2,0
+1428347,1763823600,8653,7627,Gloucester City,Chertsey Town,2,0,0,0
+1428351,1763823600,8899,7668,Plymouth Parkway,Sholing,1,1,1,1
+1428344,1763823600,8986,8661,Walton & Hersham,Hungerford Town,0,0,0,0
+1428362,1764099900,7257,7668,Uxbridge,Sholing,0,2,0,0
+1428358,1764099900,7640,7619,Evesham United,Bracknell Town,1,1,0,1
+1428356,1764099900,7738,7753,Poole Town,Tiverton Town,5,5,4,5
+1428361,1764099900,7762,7615,Yate Town,Basingstoke Town,1,0,0,0
+1428357,1764099900,8653,8783,Gloucester City,Farnham Town,1,2,1,2
+1428355,1764099900,8986,7214,Walton & Hersham,Berkhamsted,2,0,1,0
+1428365,1764186300,1843,7627,Havant & Wville,Chertsey Town,1,1,0,1
+1428364,1764186300,4711,7712,Taunton Town,Dorchester Town,1,1,1,1
+1428363,1764186300,7717,8665,Gosport Borough,Weymouth,4,3,3,1
+1428374,1764428400,7214,7738,Berkhamsted,Poole Town,1,2,0,1
+1428366,1764428400,7615,8986,Basingstoke Town,Walton & Hersham,0,3,0,1
+1428370,1764428400,7619,7645,Bracknell Town,Hanwell Town,2,1,1,0
+1428373,1764428400,7627,8899,Chertsey Town,Plymouth Parkway,1,0,0,0
+1428375,1764428400,7668,7640,Sholing,Evesham United,3,0,2,0
+1428367,1764428400,7712,7717,Dorchester Town,Gosport Borough,2,2,0,0
+1428371,1764428400,7758,8653,Wimborne Town,Gloucester City,2,2,2,0
+1428372,1764428400,8665,7257,Weymouth,Uxbridge,0,0,0,0
+1428326,1764704700,7619,8661,Bracknell Town,Hungerford Town,1,1,1,0
+1428322,1764704700,7738,8986,Poole Town,Walton & Hersham,2,2,1,1
+1428384,1764963900,8653,7762,Gloucester City,Yate Town,1,0,1,0
+1428379,1765033200,1843,7738,Havant & Wville,Poole Town,0,3,0,1
+1428387,1765033200,7214,8783,Berkhamsted,Farnham Town,3,3,3,0
+1428378,1765033200,7257,8986,Uxbridge,Walton & Hersham,2,3,2,1
+1428377,1765033200,7619,4711,Bracknell Town,Taunton Town,3,2,1,1
+1428380,1765033200,7627,8665,Chertsey Town,Weymouth,4,0,1,0
+1428383,1765033200,7712,8661,Dorchester Town,Hungerford Town,2,1,1,1
+1428381,1765033200,7717,7640,Gosport Borough,Evesham United,1,0,1,0
+1428386,1765033200,7758,7668,Wimborne Town,Sholing,1,1,0,0
+1428323,1765395900,7717,7645,Gosport Borough,Hanwell Town,2,1,0,0
+1428390,1765638000,7619,7758,Bracknell Town,Wimborne Town,3,2,0,2
+1428392,1765638000,7640,4711,Evesham United,Taunton Town,3,0,3,0
+1428393,1765638000,7668,7712,Sholing,Dorchester Town,2,1,2,1
+1428398,1765638000,7738,7257,Poole Town,Uxbridge,3,1,3,0
+1428395,1765638000,7762,1843,Yate Town,Havant & Wville,1,2,1,2
+1428394,1765638000,8661,7627,Hungerford Town,Chertsey Town,0,1,0,0
+1428391,1765638000,8665,7214,Weymouth,Berkhamsted,0,1,0,0
+1428397,1765638000,8783,7753,Farnham Town,Tiverton Town,5,0,2,0
+1428359,1765914300,7645,8661,Hanwell Town,Hungerford Town,1,3,0,0
+1428406,1766242800,1843,7758,Havant & Wville,Wimborne Town,4,0,0,0
+1428409,1766242800,7214,7627,Berkhamsted,Chertsey Town,1,2,0,1
+1428407,1766242800,7257,7619,Uxbridge,Bracknell Town,2,3,0,0
+1428408,1766242800,7615,7640,Basingstoke Town,Evesham United,1,0,0,0
+1428403,1766242800,7738,7668,Poole Town,Sholing,0,1,0,0
+1428404,1766242800,7762,4711,Yate Town,Taunton Town,1,2,1,1
+1428401,1766242800,8653,8661,Gloucester City,Hungerford Town,6,1,2,0
+1428400,1766242800,8665,8899,Weymouth,Plymouth Parkway,1,2,1,0
+1428402,1766242800,8783,7717,Farnham Town,Gosport Borough,2,0,1,0
+1428399,1766242800,8986,7645,Walton & Hersham,Hanwell Town,5,0,3,0
+1428368,1766519100,8661,4711,Hungerford Town,Taunton Town,2,1,0,1
+1428329,1766520000,8783,8899,Farnham Town,Plymouth Parkway,4,0,2,0
+1428411,1766761200,7717,1843,Gosport Borough,Havant & Wville,0,4,0,2
+1428412,1766847600,4711,8653,Taunton Town,Gloucester City,2,1,1,0
+1428414,1766847600,7619,8783,Bracknell Town,Farnham Town,2,0,1,0
+1428410,1766847600,7627,8986,Chertsey Town,Walton & Hersham,0,1,0,1
+1428420,1766847600,7640,7762,Evesham United,Yate Town,0,1,0,1
+1428419,1766847600,7645,7257,Hanwell Town,Uxbridge,1,1,0,0
+1428417,1766847600,7668,7615,Sholing,Basingstoke Town,1,4,1,3
+1428413,1766847600,7712,8665,Dorchester Town,Weymouth,1,2,1,2
+1428416,1766847600,7758,7738,Wimborne Town,Poole Town,0,2,0,1
+1428418,1766847600,8661,7214,Hungerford Town,Berkhamsted,0,3,0,2
+1428415,1766847600,8899,7753,Plymouth Parkway,Tiverton Town,1,2,0,0
+1428425,1767452400,1843,7668,Havant & Wville,Sholing,4,3,3,1
+1428431,1767452400,7257,7627,Uxbridge,Chertsey Town,0,1,0,0
+1428423,1767452400,7615,7619,Basingstoke Town,Bracknell Town,2,1,1,1
+1428424,1767452400,7738,8899,Poole Town,Plymouth Parkway,7,0,2,0
+1428422,1767452400,7753,4711,Tiverton Town,Taunton Town,2,1,1,0
+1428427,1767452400,8653,7640,Gloucester City,Evesham United,2,2,0,0
+1428426,1767452400,8665,7758,Weymouth,Wimborne Town,1,1,0,1
+1428421,1767452400,8986,7717,Walton & Hersham,Gosport Borough,2,0,2,0
+1428396,1767728700,7615,7645,Basingstoke Town,Hanwell Town,3,2,1,1
+1428262,1767815100,1843,8783,Havant & Wville,Farnham Town,4,3,0,1
+1428434,1768057200,4711,1843,Taunton Town,Havant & Wville,2,2,0,1
+1428437,1768057200,7627,7753,Chertsey Town,Tiverton Town,4,3,3,2
+1428436,1768057200,7640,8665,Evesham United,Weymouth,1,0,0,0
+1428435,1768057200,7645,7738,Hanwell Town,Poole Town,1,1,0,1
+1428442,1768057200,7668,7762,Sholing,Yate Town,2,0,1,0
+1428441,1768057200,7712,7257,Dorchester Town,Uxbridge,0,2,0,1
+1428439,1768057200,7758,7615,Wimborne Town,Basingstoke Town,1,1,1,0
+1428389,1768057200,8899,7717,Plymouth Parkway,Gosport Borough,1,2,0,2
+1428327,1768419900,1843,7712,Havant & Wville,Dorchester Town,3,1,1,1
+1428445,1768662000,1843,8653,Havant & Wville,Gloucester City,3,0,1,0
+1428451,1768662000,7214,7615,Berkhamsted,Basingstoke Town,1,0,0,0
+1428452,1768662000,7257,8899,Uxbridge,Plymouth Parkway,1,2,0,0
+1428446,1768662000,7619,7668,Bracknell Town,Sholing,4,2,0,2
+1428444,1768662000,7717,4711,Gosport Borough,Taunton Town,3,1,2,0
+1428449,1768662000,7738,7762,Poole Town,Yate Town,2,2,1,0
+1428448,1768662000,7753,7645,Tiverton Town,Hanwell Town,0,2,0,1
+1428450,1768662000,7758,8661,Wimborne Town,Hungerford Town,1,1,0,0
+1428443,1768662000,8665,8986,Weymouth,Walton & Hersham,3,1,3,1
+1428453,1768662000,8783,7640,Farnham Town,Evesham United,1,1,0,0
+1428343,1768938300,7214,7257,Berkhamsted,Uxbridge,3,0,1,0
+1428440,1768938300,8661,8783,Hungerford Town,Farnham Town,2,7,2,3
+1428456,1769266800,7615,8665,Basingstoke Town,Weymouth,1,2,1,0
+1428462,1769266800,7640,7627,Evesham United,Chertsey Town,1,1,1,1
+1428455,1769266800,7645,7717,Hanwell Town,Gosport Borough,2,1,0,1
+1428463,1769266800,7668,7214,Sholing,Berkhamsted,1,1,1,0
+1428459,1769266800,7712,1843,Dorchester Town,Havant & Wville,4,3,1,2
+1428464,1769266800,7762,7257,Yate Town,Uxbridge,2,0,1,0
+1428457,1769266800,8653,7753,Gloucester City,Tiverton Town,3,1,1,0
+1428454,1769266800,8986,7738,Walton & Hersham,Poole Town,1,2,0,2
+1428388,1769543100,8986,8653,Walton & Hersham,Gloucester City,2,0,0,0
+1428232,1769629500,1843,7619,Havant & Wville,Bracknell Town,0,1,0,0
+1428475,1769871600,7214,7762,Berkhamsted,Yate Town,1,1,0,0
+1428474,1769871600,7615,7257,Basingstoke Town,Uxbridge,1,1,0,1
+1428469,1769871600,7619,8899,Bracknell Town,Plymouth Parkway,0,2,0,2
+1428470,1769871600,7668,8653,Sholing,Gloucester City,1,1,0,0
+1428472,1769871600,7712,7645,Dorchester Town,Hanwell Town,1,4,0,4
+1428467,1769871600,8661,7717,Hungerford Town,Gosport Borough,2,0,0,0
+1428466,1769871600,8665,7738,Weymouth,Poole Town,2,0,1,0
+1428429,1770147900,7762,8661,Yate Town,Hungerford Town,6,2,1,0
+1428433,1770234300,7717,8653,Gosport Borough,Gloucester City,0,2,0,0
+1428479,1770476400,1843,7615,Havant & Wville,Basingstoke Town,0,0,0,0
+1428485,1770476400,7257,7753,Uxbridge,Tiverton Town,2,1,2,1
+1428486,1770476400,7640,7758,Evesham United,Wimborne Town,2,1,2,0
+1428478,1770476400,7717,7627,Gosport Borough,Chertsey Town,2,2,0,1
+1428480,1770476400,7738,8661,Poole Town,Hungerford Town,3,1,1,0
+1428483,1770476400,7762,7712,Yate Town,Dorchester Town,0,1,0,0
+1428477,1770476400,8653,8665,Gloucester City,Weymouth,3,1,1,0
+1428484,1770476400,8899,7214,Plymouth Parkway,Berkhamsted,2,0,1,0
+1428476,1770476400,8986,7619,Walton & Hersham,Bracknell Town,1,1,1,0
+1428438,1770752700,7619,7214,Bracknell Town,Berkhamsted,1,1,0,0
+1428492,1771081200,7214,4711,Berkhamsted,Taunton Town,3,2,1,1
+1428491,1771081200,7615,7738,Basingstoke Town,Poole Town,1,2,0,1
+1428493,1771081200,7619,7762,Bracknell Town,Yate Town,3,0,0,0
+1428490,1771081200,7627,8653,Chertsey Town,Gloucester City,2,2,0,1
+1428494,1771081200,7668,8899,Sholing,Plymouth Parkway,4,2,2,0
+1428496,1771081200,7712,7640,Dorchester Town,Evesham United,1,0,1,0
+1428495,1771081200,7758,7645,Wimborne Town,Hanwell Town,3,0,2,0
+1428487,1771081200,8661,8986,Hungerford Town,Walton & Hersham,1,0,0,0
+1428488,1771081200,8665,1843,Weymouth,Havant & Wville,0,1,0,1
+1428497,1771081200,8783,7257,Farnham Town,Uxbridge,4,1,1,0
+1428432,1771357500,8899,8986,Plymouth Parkway,Walton & Hersham,0,4,0,1
+1428501,1771686000,1843,7753,Havant & Wville,Tiverton Town,3,2,2,2
+1428500,1771686000,4711,8661,Taunton Town,Hungerford Town,2,2,0,1
+1428504,1771686000,7257,8665,Uxbridge,Weymouth,5,1,2,0
+1428507,1771686000,7640,7668,Evesham United,Sholing,0,0,0,0
+1428502,1771686000,7645,7619,Hanwell Town,Bracknell Town,3,0,0,0
+1428499,1771686000,7717,7712,Gosport Borough,Dorchester Town,2,2,2,0
+1428506,1771686000,7738,7214,Poole Town,Berkhamsted,3,1,0,0
+1428508,1771686000,7762,8783,Yate Town,Farnham Town,0,1,0,0
+1428503,1771686000,8653,7758,Gloucester City,Wimborne Town,5,0,3,0
+1428498,1771686000,8986,7615,Walton & Hersham,Basingstoke Town,6,2,1,1
+1428385,1771962300,7645,8899,Hanwell Town,Plymouth Parkway,3,2,0,2
+1428405,1771962300,7753,7712,Tiverton Town,Dorchester Town,0,1,0,0
+1428458,1771962300,8661,7619,Hungerford Town,Bracknell Town,1,2,1,1
+1428460,1772048700,4711,7758,Taunton Town,Wimborne Town,2,1,2,1
+1428518,1772290800,7214,7753,Berkhamsted,Tiverton Town,3,0,2,0
+1428516,1772290800,7257,1843,Uxbridge,Havant & Wville,3,0,1,0
+1428511,1772290800,7615,7717,Basingstoke Town,Gosport Borough,0,3,0,2
+1428513,1772290800,7619,7627,Bracknell Town,Chertsey Town,2,4,0,3
+1428512,1772290800,7668,4711,Sholing,Taunton Town,4,2,2,0
+1428510,1772290800,7738,8653,Poole Town,Gloucester City,1,2,0,1
+1428517,1772290800,7758,7712,Wimborne Town,Dorchester Town,1,2,0,0
+1428514,1772290800,8665,8783,Weymouth,Farnham Town,1,2,0,1
+1428515,1772290800,8899,8661,Plymouth Parkway,Hungerford Town,1,2,1,0
+1428509,1772290800,8986,7762,Walton & Hersham,Yate Town,3,1,1,1
+1428328,1772566200,7758,4711,Wimborne Town,Taunton Town,1,0,1,0
+1428447,1772567100,7627,7712,Chertsey Town,Dorchester Town,2,1,0,1
+1428369,1772567100,7753,1843,Tiverton Town,Havant & Wville,0,2,0,1
+1428376,1772567100,8783,7762,Farnham Town,Yate Town,3,1,0,1
+1428520,1772895600,1843,8986,Havant & Wville,Walton & Hersham,1,3,1,1
+1428523,1772895600,4711,8899,Taunton Town,Plymouth Parkway,2,0,0,0
+1428526,1772895600,7627,7615,Chertsey Town,Basingstoke Town,4,2,1,0
+1428530,1772895600,7640,7214,Evesham United,Berkhamsted,0,2,0,1
+1428525,1772895600,7712,7738,Dorchester Town,Poole Town,1,1,0,0
+1428524,1772895600,7717,7668,Gosport Borough,Sholing,1,2,1,1
+1428522,1772895600,7753,8665,Tiverton Town,Weymouth,0,4,0,1
+1428529,1772895600,7762,7758,Yate Town,Wimborne Town,1,1,0,1
+1428521,1772895600,8653,7619,Gloucester City,Bracknell Town,1,0,0,0
+1428528,1772895600,8661,7257,Hungerford Town,Uxbridge,0,4,0,3
+1428527,1772895600,8783,7645,Farnham Town,Hanwell Town,3,1,0,1
+1428430,1773171900,7214,7645,Berkhamsted,Hanwell Town,2,3,1,3
+1428468,1773171900,7627,4711,Chertsey Town,Taunton Town,3,1,1,1
+1428471,1773171900,8783,1843,Farnham Town,Havant & Wville,2,1,1,1
+1428360,1773171900,8899,7758,Plymouth Parkway,Wimborne Town,3,2,0,1
+1428537,1773500400,7214,8653,Berkhamsted,Gloucester City,1,0,0,0
+1428541,1773500400,7257,7640,Uxbridge,Evesham United,2,2,1,2
+1428536,1773500400,7615,7712,Basingstoke Town,Dorchester Town,1,1,1,0
+1428532,1773500400,7619,7717,Bracknell Town,Gosport Borough,0,2,0,1
+1428535,1773500400,7645,1843,Hanwell Town,Havant & Wville,1,1,1,1
+1428538,1773500400,7668,7627,Sholing,Chertsey Town,4,0,3,0
+1428533,1773500400,7738,4711,Poole Town,Taunton Town,2,1,0,1
+1428539,1773500400,7758,7753,Wimborne Town,Tiverton Town,0,0,0,0
+1428534,1773500400,8665,8661,Weymouth,Hungerford Town,4,0,2,0
+1428540,1773500400,8899,7762,Plymouth Parkway,Yate Town,1,0,0,0
+1428531,1773500400,8986,8783,Walton & Hersham,Farnham Town,1,0,0,0
+1428465,1773775800,7758,8986,Wimborne Town,Walton & Hersham,1,4,1,2
+1428382,1773776700,7753,7615,Tiverton Town,Basingstoke Town,0,4,0,4
+1428428,1773776700,8783,7712,Farnham Town,Dorchester Town,2,1,0,1
+1428505,1773776700,8899,7627,Plymouth Parkway,Chertsey Town,3,1,2,0
+1428548,1774105200,1843,7214,Havant & Wville,Berkhamsted,0,1,0,0
+1428545,1774105200,4711,7645,Taunton Town,Hanwell Town,2,2,1,2
+1428551,1774105200,7627,7758,Chertsey Town,Wimborne Town,3,0,2,0
+1428552,1774105200,7640,8899,Evesham United,Plymouth Parkway,1,1,1,0
+1428544,1774105200,7712,7619,Dorchester Town,Bracknell Town,2,4,0,2
+1428543,1774105200,7717,7738,Gosport Borough,Poole Town,1,0,1,0
+1428542,1774105200,7753,8986,Tiverton Town,Walton & Hersham,0,1,0,0
+1428546,1774105200,7762,8665,Yate Town,Weymouth,0,2,0,2
+1428549,1774105200,8653,7257,Gloucester City,Uxbridge,2,3,2,1
+1428547,1774105200,8661,7668,Hungerford Town,Sholing,1,1,1,1
+1428550,1774105200,8783,7615,Farnham Town,Basingstoke Town,1,1,0,1
+1428519,1774381500,7645,7640,Hanwell Town,Evesham United,2,0,1,0
+1428335,1774381500,7668,8986,Sholing,Walton & Hersham,1,3,0,2
+1428325,1774381500,7753,8653,Tiverton Town,Gloucester City,0,6,0,3
+1428317,1774381500,7762,7738,Yate Town,Poole Town,2,2,2,1
+1428461,1774381500,8899,8783,Plymouth Parkway,Farnham Town,2,1,1,1
+1428560,1774710000,1843,7640,Havant & Wville,Evesham United,6,1,1,1
+1428558,1774710000,7214,7717,Berkhamsted,Gosport Borough,2,1,1,1
+1428563,1774710000,7257,7758,Uxbridge,Wimborne Town,3,3,2,0
+1428555,1774710000,7615,4711,Basingstoke Town,Taunton Town,3,3,2,2
+1428554,1774710000,7738,7619,Poole Town,Bracknell Town,0,0,0,0
+1428559,1774710000,7753,8661,Tiverton Town,Hungerford Town,2,0,0,0
+1428562,1774710000,7762,7645,Yate Town,Hanwell Town,2,0,1,0
+1428556,1774710000,8653,8899,Gloucester City,Plymouth Parkway,3,0,2,0
+1428557,1774710000,8665,7668,Weymouth,Sholing,0,1,0,0
+1428561,1774710000,8783,7627,Farnham Town,Chertsey Town,1,0,0,0
+1428553,1774710000,8986,7712,Walton & Hersham,Dorchester Town,3,1,2,0
+1428482,1774982700,7645,7668,Hanwell Town,Sholing,0,0,0,0
+1428473,1774982700,7753,7640,Tiverton Town,Evesham United,1,2,1,0
+1428564,1775224800,4711,8986,Taunton Town,Walton & Hersham,3,0,2,0
+1428565,1775224800,7619,8665,Bracknell Town,Weymouth,1,2,0,2
+1428573,1775224800,7627,7762,Chertsey Town,Yate Town,2,2,1,1
+1428571,1775224800,7640,7738,Evesham United,Poole Town,1,1,1,0
+1428567,1775224800,7645,8653,Hanwell Town,Gloucester City,1,2,1,0
+1428570,1775224800,7668,7753,Sholing,Tiverton Town,2,1,1,1
+1428572,1775224800,7712,7214,Dorchester Town,Berkhamsted,2,3,1,3
+1428568,1775224800,7717,7257,Gosport Borough,Uxbridge,1,2,0,1
+1428574,1775224800,7758,8783,Wimborne Town,Farnham Town,0,1,0,0
+1428566,1775224800,8661,1843,Hungerford Town,Havant & Wville,0,2,0,1
+1428569,1775224800,8899,7615,Plymouth Parkway,Basingstoke Town,3,0,2,0
+1428576,1775484000,1843,7717,Havant & Wville,Gosport Borough,4,0,1,0
+1428583,1775484000,7214,8661,Berkhamsted,Hungerford Town,4,1,0,0
+1428584,1775484000,7257,7645,Uxbridge,Hanwell Town,2,0,1,0
+1428582,1775484000,7615,7668,Basingstoke Town,Sholing,1,0,0,0
+1428581,1775484000,7738,7758,Poole Town,Wimborne Town,1,2,0,2
+1428580,1775484000,7753,8899,Tiverton Town,Plymouth Parkway,2,3,2,1
+1428585,1775484000,7762,7640,Yate Town,Evesham United,3,0,1,0
+1428577,1775484000,8653,4711,Gloucester City,Taunton Town,0,2,0,0
+1428578,1775484000,8665,7712,Weymouth,Dorchester Town,0,0,0,0
+1428579,1775484000,8783,7619,Farnham Town,Bracknell Town,1,3,0,0
+1428575,1775484000,8986,7627,Walton & Hersham,Chertsey Town,1,2,1,0
+1428594,1775916000,4711,7257,Taunton Town,Uxbridge,2,1,1,0
+1428587,1775916000,7619,7753,Bracknell Town,Tiverton Town,8,0,5,0
+1428591,1775916000,7627,7738,Chertsey Town,Poole Town,0,1,0,1
+1428586,1775916000,7640,8986,Evesham United,Walton & Hersham,3,1,2,1
+1428589,1775916000,7645,8665,Hanwell Town,Weymouth,4,0,1,0
+1428595,1775916000,7668,8783,Sholing,Farnham Town,1,2,0,1
+1428588,1775916000,7712,8653,Dorchester Town,Gloucester City,0,5,0,5
+1428592,1775916000,7717,7762,Gosport Borough,Yate Town,0,2,0,0
+1428596,1775916000,7758,7214,Wimborne Town,Berkhamsted,0,1,0,1
+1428593,1775916000,8661,7615,Hungerford Town,Basingstoke Town,1,3,1,1
+1428590,1775916000,8899,1843,Plymouth Parkway,Havant & Wville,3,3,0,2
+1428294,1776192300,7753,7758,Tiverton Town,Wimborne Town,0,6,0,4
+1428275,1776365100,7645,8783,Hanwell Town,Farnham Town,1,1,1,0
+1428597,1776520800,4711,7619,Taunton Town,Bracknell Town,2,0,1,0
+1428602,1776520800,7615,7753,Basingstoke Town,Tiverton Town,3,1,1,1
+1428601,1776520800,7640,7717,Evesham United,Gosport Borough,1,3,0,0
+1428606,1776520800,7668,7758,Sholing,Wimborne Town,2,2,1,2
+1428599,1776520800,7738,1843,Poole Town,Havant & Wville,2,0,2,0
+1428604,1776520800,7762,8653,Yate Town,Gloucester City,2,1,1,1
+1428603,1776520800,8661,7712,Hungerford Town,Dorchester Town,0,0,0,0
+1428600,1776520800,8665,7627,Weymouth,Chertsey Town,5,1,1,0
+1428607,1776520800,8783,7214,Farnham Town,Berkhamsted,1,0,0,0
+1428605,1776520800,8899,7645,Plymouth Parkway,Hanwell Town,2,0,1,0
+1428598,1776520800,8986,7257,Walton & Hersham,Uxbridge,1,1,1,0
+1428481,1776710700,4711,8783,Taunton Town,Farnham Town,1,0,0,0
+1428489,1776797100,7753,7717,Tiverton Town,Gosport Borough,2,3,1,0
+1428615,1777125600,1843,7762,Havant & Wville,Yate Town,1,3,1,1
+1428612,1777125600,4711,7640,Taunton Town,Evesham United,0,0,0,0
+1428611,1777125600,7214,8665,Berkhamsted,Weymouth,2,0,0,0
+1428618,1777125600,7257,7738,Uxbridge,Poole Town,3,3,1,2
+1428614,1777125600,7627,8661,Chertsey Town,Hungerford Town,1,0,0,0
+1428616,1777125600,7645,7615,Hanwell Town,Basingstoke Town,2,1,1,1
+1428613,1777125600,7712,7668,Dorchester Town,Sholing,0,4,0,3
+1428609,1777125600,7717,8899,Gosport Borough,Plymouth Parkway,3,6,2,3
+1428617,1777125600,7753,8783,Tiverton Town,Farnham Town,0,3,0,2
+1428610,1777125600,7758,7619,Wimborne Town,Bracknell Town,3,3,1,3
+1428608,1777125600,8653,8986,Gloucester City,Walton & Hersham,1,0,1,0
+1542797,1777488300,8653,7738,Gloucester City,Poole Town,2,2,1,1
+1542796,1777488300,8783,7214,Farnham Town,Berkhamsted,2,1,1,0
+1544080,1777903200,8783,8653,Farnham Town,Gloucester City,5,1,0,0

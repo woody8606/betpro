@@ -1,0 +1,513 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1347481,1739908800,18684,18679,Defensa y Justicia Res.,Banfield Res.,0,0,0,0
+1347478,1739908800,18685,18701,Estudiantes La Plata Res,Unión Santa Fe Res.,3,2,2,1
+1347480,1739908800,18689,18698,Independiente Res.,Sarmiento Res.,0,0,0,0
+1347479,1739916000,20817,18688,Belgrano Córdoba Res.,Huracán Res.,2,0,1,0
+1347482,1739923200,18682,18676,Central Córdoba SdE Res.,Aldosivi Res.,2,1,1,0
+1347483,1739995200,18680,18694,Barracas Central Res.,Racing Club Res.,0,0,0,0
+1347484,1739995200,18691,22938,Newell's Old Boys Res.,Independiente Riva. Res.,1,0,0,0
+1347486,1739995200,18697,18699,San Lorenzo Res.,Talleres Córdoba Res.,1,0,1,0
+1347485,1739995200,20818,18686,Instituto Res.,Gimnasia La Plata Res.,1,1,1,0
+1347487,1740002400,18681,18677,Boca Juniors Res.,Argentinos Juniors Res.,1,1,1,0
+1347488,1740081600,18687,18696,Godoy Cruz Res.,Rosario Central Res.,0,0,0,0
+1347489,1740081600,18690,22937,Lanús Res.,Deportivo Riestra Res.,1,1,1,0
+1347491,1740081600,18693,18695,Platense Res.,River Plate Res.,1,2,1,0
+1347490,1740081600,18700,18702,Tigre Res.,Vélez Sársfield Res.,1,0,1,0
+1347562,1740085200,25592,18678,San Martín San Juan Res.,Atlético Tucumán Res.,1,0,1,0
+1347492,1740513600,18676,18684,Aldosivi Res.,Defensa y Justicia Res.,2,2,0,1
+1347495,1740513600,18679,18691,Banfield Res.,Newell's Old Boys Res.,1,1,0,1
+1347493,1740513600,18694,20817,Racing Club Res.,Belgrano Córdoba Res.,0,1,0,1
+1347494,1740513600,22938,18680,Independiente Riva. Res.,Barracas Central Res.,0,1,0,0
+1347496,1740520800,18699,18689,Talleres Córdoba Res.,Independiente Res.,1,0,0,0
+1347500,1740600000,18686,18697,Gimnasia La Plata Res.,San Lorenzo Res.,0,0,0,0
+1347497,1740600000,18688,18685,Huracán Res.,Estudiantes La Plata Res,0,0,0,0
+1347498,1740600000,18696,18690,Rosario Central Res.,Lanús Res.,3,1,0,0
+1347499,1740600000,18698,18687,Sarmiento Res.,Godoy Cruz Res.,0,0,0,0
+1347501,1740607200,18695,20818,River Plate Res.,Instituto Res.,2,2,2,1
+1347505,1740614400,18682,18678,Central Córdoba SdE Res.,Atlético Tucumán Res.,0,1,0,1
+1347503,1740686400,18677,18700,Argentinos Juniors Res.,Tigre Res.,2,2,2,1
+1347504,1740686400,18701,18681,Unión Santa Fe Res.,Boca Juniors Res.,0,0,0,0
+1347502,1740686400,18702,18693,Vélez Sársfield Res.,Platense Res.,2,2,2,1
+1347563,1740686400,22937,25592,Deportivo Riestra Res.,San Martín San Juan Res.,2,1,0,1
+1347508,1741118400,18691,18676,Newell's Old Boys Res.,Aldosivi Res.,0,2,0,1
+1347507,1741118400,20817,22938,Belgrano Córdoba Res.,Independiente Riva. Res.,1,0,0,0
+1347512,1741204800,18677,18693,Argentinos Juniors Res.,Platense Res.,1,1,1,0
+1347513,1741204800,18684,18682,Defensa y Justicia Res.,Central Córdoba SdE Res.,3,1,1,1
+1347506,1741204800,18685,18694,Estudiantes La Plata Res,Racing Club Res.,3,1,2,1
+1347511,1741204800,18689,18686,Independiente Res.,Gimnasia La Plata Res.,3,3,0,2
+1347564,1741204800,25592,18696,San Martín San Juan Res.,Rosario Central Res.,1,1,0,0
+1347514,1741212000,18681,18688,Boca Juniors Res.,Huracán Res.,0,0,0,0
+1347510,1741291200,18680,18679,Barracas Central Res.,Banfield Res.,0,0,0,0
+1347515,1741291200,18687,18699,Godoy Cruz Res.,Talleres Córdoba Res.,1,0,0,0
+1347516,1741291200,18697,18695,San Lorenzo Res.,River Plate Res.,2,0,1,0
+1347517,1741291200,18700,18701,Tigre Res.,Unión Santa Fe Res.,3,2,1,2
+1347518,1741291200,20818,18702,Instituto Res.,Vélez Sársfield Res.,0,1,0,1
+1347519,1741302000,18678,22937,Atlético Tucumán Res.,Deportivo Riestra Res.,1,0,0,0
+1347509,1741377600,18690,18698,Lanús Res.,Sarmiento Res.,0,1,0,0
+1347522,1741723200,18676,18680,Aldosivi Res.,Barracas Central Res.,4,0,1,0
+1347521,1741723200,18688,18700,Huracán Res.,Tigre Res.,1,1,0,0
+1347565,1741723200,18698,25592,Sarmiento Res.,San Martín San Juan Res.,0,1,0,1
+1347520,1741723200,22938,18685,Independiente Riva. Res.,Estudiantes La Plata Res,0,3,0,2
+1347523,1741730400,18682,18691,Central Córdoba SdE Res.,Newell's Old Boys Res.,0,3,0,0
+1347525,1741809600,18679,20817,Banfield Res.,Belgrano Córdoba Res.,1,1,1,0
+1347524,1741809600,18694,18681,Racing Club Res.,Boca Juniors Res.,1,4,0,2
+1347527,1741809600,18696,18678,Rosario Central Res.,Atlético Tucumán Res.,2,0,1,0
+1347526,1741809600,18701,18677,Unión Santa Fe Res.,Argentinos Juniors Res.,1,0,1,0
+1347528,1741816800,18699,18690,Talleres Córdoba Res.,Lanús Res.,1,4,1,2
+1347529,1741896000,18686,18687,Gimnasia La Plata Res.,Godoy Cruz Res.,2,2,0,1
+1347531,1741896000,18693,20818,Platense Res.,Instituto Res.,1,1,1,1
+1347530,1741896000,18702,18697,Vélez Sársfield Res.,San Lorenzo Res.,2,1,0,0
+1347532,1741896000,22937,18684,Deportivo Riestra Res.,Defensa y Justicia Res.,1,0,0,0
+1347533,1741904100,18695,18689,River Plate Res.,Independiente Res.,2,1,0,1
+1347535,1742320800,18677,18688,Argentinos Juniors Res.,Huracán Res.,1,2,0,0
+1347537,1742320800,18685,18679,Estudiantes La Plata Res,Banfield Res.,3,1,1,1
+1347536,1742320800,18700,18694,Tigre Res.,Racing Club Res.,1,1,1,0
+1347540,1742320800,20817,18676,Belgrano Córdoba Res.,Aldosivi Res.,7,0,3,0
+1347538,1742324400,18690,18686,Lanús Res.,Gimnasia La Plata Res.,1,1,0,1
+1347539,1742407200,18701,20818,Unión Santa Fe Res.,Instituto Res.,1,0,1,0
+1347566,1742410800,25592,18699,San Martín San Juan Res.,Talleres Córdoba Res.,0,1,0,0
+1347542,1742421600,18678,18698,Atlético Tucumán Res.,Sarmiento Res.,2,2,0,2
+1347541,1742422500,18681,22938,Boca Juniors Res.,Independiente Riva. Res.,2,1,1,1
+1347534,1742493600,18680,18682,Barracas Central Res.,Central Córdoba SdE Res.,0,1,0,0
+1347545,1742493600,18687,18695,Godoy Cruz Res.,River Plate Res.,1,2,0,1
+1347544,1742493600,18691,18684,Newell's Old Boys Res.,Defensa y Justicia Res.,2,0,1,0
+1347543,1742493600,18697,18693,San Lorenzo Res.,Platense Res.,3,1,2,0
+1347546,1742493600,22937,18696,Deportivo Riestra Res.,Rosario Central Res.,1,2,0,0
+1347547,1742584200,18689,18702,Independiente Res.,Vélez Sársfield Res.,1,2,1,2
+1347548,1742752800,18694,18677,Racing Club Res.,Argentinos Juniors Res.,0,0,0,0
+1347552,1743012000,18676,18685,Aldosivi Res.,Estudiantes La Plata Res,0,0,0,0
+1347550,1743012000,18679,18681,Banfield Res.,Boca Juniors Res.,0,1,0,0
+1347560,1743012000,18684,18680,Defensa y Justicia Res.,Barracas Central Res.,0,0,0,0
+1347549,1743012000,18688,18701,Huracán Res.,Unión Santa Fe Res.,4,1,3,0
+1347553,1743012000,18698,22937,Sarmiento Res.,Deportivo Riestra Res.,1,1,1,0
+1347555,1743012000,22938,18700,Independiente Riva. Res.,Tigre Res.,1,0,0,0
+1347556,1743026400,18682,20817,Central Córdoba SdE Res.,Belgrano Córdoba Res.,1,1,1,0
+1347551,1743026400,18699,18678,Talleres Córdoba Res.,Atlético Tucumán Res.,2,2,1,0
+1347567,1743098400,18686,25592,Gimnasia La Plata Res.,San Martín San Juan Res.,0,2,0,2
+1347554,1743098400,18691,18696,Newell's Old Boys Res.,Rosario Central Res.,1,0,0,0
+1347557,1743098400,18693,18689,Platense Res.,Independiente Res.,0,1,0,0
+1347561,1743098400,18695,18690,River Plate Res.,Lanús Res.,3,1,1,1
+1347559,1743098400,18702,18687,Vélez Sársfield Res.,Godoy Cruz Res.,1,1,1,1
+1353961,1743530400,18677,22938,Argentinos Juniors Res.,Independiente Riva. Res.,2,0,1,0
+1353964,1743530400,18685,18682,Estudiantes La Plata Res,Central Córdoba SdE Res.,3,0,2,0
+1353969,1743530400,18690,18702,Lanús Res.,Vélez Sársfield Res.,1,4,1,3
+1353973,1743530400,18696,18698,Rosario Central Res.,Sarmiento Res.,2,0,1,0
+1353965,1743530400,20817,18684,Belgrano Córdoba Res.,Defensa y Justicia Res.,1,0,1,0
+1353966,1743616800,18680,18691,Barracas Central Res.,Newell's Old Boys Res.,1,2,0,2
+1353967,1743616800,18689,20818,Independiente Res.,Instituto Res.,1,0,0,0
+1353962,1743616800,18700,18679,Tigre Res.,Banfield Res.,0,0,0,0
+1353960,1743616800,18701,18694,Unión Santa Fe Res.,Racing Club Res.,3,1,0,0
+1353963,1743631200,18681,18676,Boca Juniors Res.,Aldosivi Res.,5,0,2,0
+1353968,1743703200,18687,18693,Godoy Cruz Res.,Platense Res.,3,0,1,0
+1353974,1743703200,18688,18697,Huracán Res.,San Lorenzo Res.,1,1,1,0
+1353972,1743703200,22937,18699,Deportivo Riestra Res.,Talleres Córdoba Res.,3,1,2,0
+1353970,1743703200,25592,18695,San Martín San Juan Res.,River Plate Res.,1,3,1,1
+1353971,1743717600,18678,18686,Atlético Tucumán Res.,Gimnasia La Plata Res.,2,2,1,0
+1353983,1744135200,18686,22937,Gimnasia La Plata Res.,Deportivo Riestra Res.,3,1,1,1
+1353981,1744135200,18694,18688,Racing Club Res.,Huracán Res.,1,2,0,1
+1353985,1744135200,18702,25592,Vélez Sársfield Res.,San Martín San Juan Res.,2,0,1,0
+1353977,1744149600,18682,18681,Central Córdoba SdE Res.,Boca Juniors Res.,0,1,0,1
+1353978,1744221600,18676,18700,Aldosivi Res.,Tigre Res.,0,1,0,0
+1353976,1744221600,18684,18685,Defensa y Justicia Res.,Estudiantes La Plata Res,0,1,0,1
+1353984,1744221600,18695,18678,River Plate Res.,Atlético Tucumán Res.,3,0,2,0
+1353988,1744221600,18697,18689,San Lorenzo Res.,Independiente Res.,1,1,1,1
+1353987,1744221600,20818,18687,Instituto Res.,Godoy Cruz Res.,1,0,1,0
+1353979,1744308000,18679,18677,Banfield Res.,Argentinos Juniors Res.,1,1,0,1
+1353975,1744308000,18691,20817,Newell's Old Boys Res.,Belgrano Córdoba Res.,0,1,0,1
+1353986,1744308000,18693,18690,Platense Res.,Lanús Res.,0,1,0,1
+1353989,1744308000,18698,18680,Sarmiento Res.,Barracas Central Res.,2,2,0,0
+1353980,1744308000,22938,18701,Independiente Riva. Res.,Unión Santa Fe Res.,1,2,1,1
+1353982,1744322400,18699,18696,Talleres Córdoba Res.,Rosario Central Res.,0,0,0,0
+1353992,1744740000,18677,18676,Argentinos Juniors Res.,Aldosivi Res.,0,1,0,1
+1353995,1744740000,18685,18691,Estudiantes La Plata Res,Newell's Old Boys Res.,3,0,1,0
+1353993,1744740000,18700,18682,Tigre Res.,Central Córdoba SdE Res.,2,0,0,0
+1354000,1744750800,18678,18702,Atlético Tucumán Res.,Vélez Sársfield Res.,1,1,1,0
+1354001,1744754400,22937,18695,Deportivo Riestra Res.,River Plate Res.,1,1,0,0
+1354002,1744826400,18696,18686,Rosario Central Res.,Gimnasia La Plata Res.,0,0,0,0
+1354003,1744826400,18698,18699,Sarmiento Res.,Talleres Córdoba Res.,0,2,0,0
+1353991,1744826400,18701,18679,Unión Santa Fe Res.,Banfield Res.,0,0,0,0
+1353999,1744826400,25592,18693,San Martín San Juan Res.,Platense Res.,1,1,0,0
+1353994,1744840800,18681,18684,Boca Juniors Res.,Defensa y Justicia Res.,1,0,1,0
+1354004,1744927200,18689,18694,Independiente Res.,Racing Club Res.,2,3,2,1
+1353990,1744990200,18688,22938,Huracán Res.,Independiente Riva. Res.,2,0,0,0
+1353997,1744999200,18687,18697,Godoy Cruz Res.,San Lorenzo Res.,1,2,1,1
+1353998,1744999200,18690,20818,Lanús Res.,Instituto Res.,0,0,0,0
+1353996,1744999200,20817,18680,Belgrano Córdoba Res.,Barracas Central Res.,1,0,0,0
+1354010,1745344800,18679,18688,Banfield Res.,Huracán Res.,3,1,2,1
+1354006,1745344800,18691,18681,Newell's Old Boys Res.,Boca Juniors Res.,1,2,0,1
+1354015,1745344800,18693,18678,Platense Res.,Atlético Tucumán Res.,0,2,0,0
+1354014,1745344800,18702,22937,Vélez Sársfield Res.,Deportivo Riestra Res.,3,0,2,0
+1354013,1745359200,18695,18696,River Plate Res.,Rosario Central Res.,1,4,1,2
+1354007,1745431200,18684,18700,Defensa y Justicia Res.,Tigre Res.,3,1,2,0
+1354018,1745431200,18689,18687,Independiente Res.,Godoy Cruz Res.,1,2,1,1
+1354011,1745431200,22938,18694,Independiente Riva. Res.,Racing Club Res.,2,1,0,1
+1354008,1745445600,18682,18677,Central Córdoba SdE Res.,Argentinos Juniors Res.,1,2,0,0
+1354009,1745517600,18676,18701,Aldosivi Res.,Unión Santa Fe Res.,0,2,0,1
+1354005,1745517600,18680,18685,Barracas Central Res.,Estudiantes La Plata Res,1,1,0,0
+1354012,1745517600,18686,18698,Gimnasia La Plata Res.,Sarmiento Res.,4,2,2,2
+1354017,1745517600,18697,18690,San Lorenzo Res.,Lanús Res.,0,1,0,1
+1354019,1745517600,20817,18699,Belgrano Córdoba Res.,Talleres Córdoba Res.,0,0,0,0
+1354016,1745517600,20818,25592,Instituto Res.,San Martín San Juan Res.,2,0,1,0
+1354023,1745949600,18677,18684,Argentinos Juniors Res.,Defensa y Justicia Res.,1,1,0,0
+1354034,1745949600,18687,22938,Godoy Cruz Res.,Independiente Riva. Res.,0,0,0,0
+1354027,1745949600,18690,18689,Lanús Res.,Independiente Res.,2,2,0,2
+1354020,1745949600,18694,18679,Racing Club Res.,Banfield Res.,1,1,0,0
+1354031,1745949600,18696,18702,Rosario Central Res.,Vélez Sársfield Res.,2,2,1,1
+1354024,1745949600,18700,18691,Tigre Res.,Newell's Old Boys Res.,0,1,0,1
+1354026,1746036000,18685,20817,Estudiantes La Plata Res,Belgrano Córdoba Res.,2,2,0,1
+1354021,1746036000,18688,18676,Huracán Res.,Aldosivi Res.,1,1,0,1
+1354032,1746036000,18698,18695,Sarmiento Res.,River Plate Res.,2,2,0,1
+1354022,1746036000,18701,18682,Unión Santa Fe Res.,Central Córdoba SdE Res.,0,0,0,0
+1354030,1746036000,22937,18693,Deportivo Riestra Res.,Platense Res.,1,1,1,0
+1354028,1746036000,25592,18697,San Martín San Juan Res.,San Lorenzo Res.,2,0,1,0
+1354025,1746050400,18681,18680,Boca Juniors Res.,Barracas Central Res.,4,1,1,0
+1354033,1746050400,18699,18686,Talleres Córdoba Res.,Gimnasia La Plata Res.,1,1,1,0
+1354029,1746194400,18678,20818,Atlético Tucumán Res.,Instituto Res.,1,0,1,0
+1354041,1746554400,18679,22938,Banfield Res.,Independiente Riva. Res.,3,0,1,0
+1354037,1746554400,18691,18677,Newell's Old Boys Res.,Argentinos Juniors Res.,2,0,0,0
+1354044,1746554400,18693,18696,Platense Res.,Rosario Central Res.,0,1,0,0
+1354046,1746554400,18697,18678,San Lorenzo Res.,Atlético Tucumán Res.,4,1,1,0
+1354043,1746554400,18702,18698,Vélez Sársfield Res.,Sarmiento Res.,2,0,1,0
+1354039,1746568800,18682,18688,Central Córdoba SdE Res.,Huracán Res.,0,1,0,0
+1354042,1746568800,18695,18699,River Plate Res.,Talleres Córdoba Res.,3,2,2,0
+1354040,1746640800,18676,18694,Aldosivi Res.,Racing Club Res.,2,0,0,0
+1354048,1746640800,18687,18690,Godoy Cruz Res.,Lanús Res.,2,3,0,1
+1354047,1746640800,18689,25592,Independiente Res.,San Martín San Juan Res.,1,2,1,0
+1354035,1746655200,20817,18681,Belgrano Córdoba Res.,Boca Juniors Res.,1,1,0,0
+1354036,1746727200,18680,18700,Barracas Central Res.,Tigre Res.,3,1,0,0
+1354038,1746727200,18684,18701,Defensa y Justicia Res.,Unión Santa Fe Res.,2,2,1,0
+1354049,1746727200,18686,18685,Gimnasia La Plata Res.,Estudiantes La Plata Res,0,2,0,0
+1354045,1746727200,20818,22937,Instituto Res.,Deportivo Riestra Res.,2,0,2,0
+1354060,1747159200,18696,20818,Rosario Central Res.,Instituto Res.,1,1,0,0
+1354059,1747159200,22937,18697,Deportivo Riestra Res.,San Lorenzo Res.,0,0,0,0
+1354062,1747173600,18699,18702,Talleres Córdoba Res.,Vélez Sársfield Res.,0,1,0,1
+1354054,1747245600,18677,18680,Argentinos Juniors Res.,Barracas Central Res.,1,1,0,0
+1354063,1747245600,18686,18695,Gimnasia La Plata Res.,River Plate Res.,0,1,0,1
+1354064,1747245600,18690,18679,Lanús Res.,Banfield Res.,2,2,1,0
+1354053,1747245600,18701,18691,Unión Santa Fe Res.,Newell's Old Boys Res.,2,3,1,3
+1354057,1747245600,25592,18687,San Martín San Juan Res.,Godoy Cruz Res.,2,1,1,1
+1354058,1747260000,18678,18689,Atlético Tucumán Res.,Independiente Res.,0,0,0,0
+1354052,1747332000,18688,18684,Huracán Res.,Defensa y Justicia Res.,0,1,0,1
+1354051,1747332000,18694,18682,Racing Club Res.,Central Córdoba SdE Res.,3,1,3,0
+1354055,1747332000,18700,20817,Tigre Res.,Belgrano Córdoba Res.,2,1,0,0
+1354050,1747332000,22938,18676,Independiente Riva. Res.,Aldosivi Res.,1,0,1,0
+1354056,1747346400,18681,18685,Boca Juniors Res.,Estudiantes La Plata Res,1,1,0,0
+1347558,1747418400,20818,18697,Instituto Res.,San Lorenzo Res.,1,0,0,0
+1354061,1747677600,18698,18693,Sarmiento Res.,Platense Res.,2,0,1,0
+1354069,1747764000,18684,18694,Defensa y Justicia Res.,Racing Club Res.,2,2,2,1
+1354068,1747764000,18691,18688,Newell's Old Boys Res.,Huracán Res.,1,2,1,2
+1354075,1747764000,18697,18696,San Lorenzo Res.,Rosario Central Res.,1,0,0,0
+1354072,1747764000,18702,18686,Vélez Sársfield Res.,Gimnasia La Plata Res.,3,1,0,1
+1354067,1747850400,18680,18701,Barracas Central Res.,Unión Santa Fe Res.,0,1,0,0
+1354065,1747850400,18685,18700,Estudiantes La Plata Res,Tigre Res.,1,1,1,0
+1354077,1747850400,18687,18678,Godoy Cruz Res.,Atlético Tucumán Res.,0,0,0,0
+1354066,1747850400,20817,18677,Belgrano Córdoba Res.,Argentinos Juniors Res.,2,0,1,0
+1354076,1747852200,18689,22937,Independiente Res.,Deportivo Riestra Res.,2,1,0,0
+1354079,1747864800,18695,18681,River Plate Res.,Boca Juniors Res.,2,1,1,0
+1354071,1747936800,18676,18679,Aldosivi Res.,Banfield Res.,3,3,1,1
+1354078,1747936800,18690,25592,Lanús Res.,San Martín San Juan Res.,0,3,0,1
+1354073,1747936800,18693,18699,Platense Res.,Talleres Córdoba Res.,0,1,0,0
+1354074,1747936800,20818,18698,Instituto Res.,Sarmiento Res.,0,0,0,0
+1354070,1747951200,18682,22938,Central Córdoba SdE Res.,Independiente Riva. Res.,0,1,0,0
+1354085,1748368800,18677,18685,Argentinos Juniors Res.,Estudiantes La Plata Res,0,0,0,0
+1354080,1748368800,18679,18682,Banfield Res.,Central Córdoba SdE Res.,1,1,1,1
+1354082,1748368800,18694,18691,Racing Club Res.,Newell's Old Boys Res.,1,2,1,2
+1354081,1748368800,22938,18684,Independiente Riva. Res.,Defensa y Justicia Res.,1,4,0,3
+1354094,1748368800,25592,18676,San Martín San Juan Res.,Aldosivi Res.,2,3,1,2
+1354087,1748455800,18678,18690,Atlético Tucumán Res.,Lanús Res.,2,3,2,2
+1354092,1748455800,18686,18693,Gimnasia La Plata Res.,Platense Res.,3,0,2,0
+1354089,1748455800,18696,18689,Rosario Central Res.,Independiente Res.,0,0,0,0
+1354091,1748455800,18699,20818,Talleres Córdoba Res.,Instituto Res.,1,1,1,1
+1354088,1748455800,22937,18687,Deportivo Riestra Res.,Godoy Cruz Res.,2,1,0,0
+1354093,1748469600,18695,18702,River Plate Res.,Vélez Sársfield Res.,1,0,1,0
+1354083,1748541600,18688,18680,Huracán Res.,Barracas Central Res.,0,0,0,0
+1354090,1748541600,18698,18697,Sarmiento Res.,San Lorenzo Res.,3,2,0,2
+1354084,1748541600,18701,20817,Unión Santa Fe Res.,Belgrano Córdoba Res.,1,1,0,0
+1354086,1748542200,18700,18681,Tigre Res.,Boca Juniors Res.,0,4,0,2
+1377498,1749664800,18691,18697,Newell's Old Boys Res.,San Lorenzo Res.,0,0,0,0
+1377497,1749664800,25592,18688,San Martín San Juan Res.,Huracán Res.,3,1,2,1
+1377499,1749679200,18695,18676,River Plate Res.,Aldosivi Res.,5,1,2,1
+1377500,1749679200,20817,18690,Belgrano Córdoba Res.,Lanús Res.,1,1,0,1
+1377502,1749751200,18685,20818,Estudiantes La Plata Res,Instituto Res.,2,1,2,0
+1377503,1749751200,18696,18701,Rosario Central Res.,Unión Santa Fe Res.,2,0,1,0
+1377501,1749751200,18702,18700,Vélez Sársfield Res.,Tigre Res.,2,1,0,0
+1377504,1749765600,18681,18678,Boca Juniors Res.,Atlético Tucumán Res.,3,0,0,0
+1378839,1750096800,18702,20817,Vélez Sársfield Res.,Belgrano Córdoba Res.,3,0,1,0
+1378840,1750104000,18695,18697,River Plate Res.,San Lorenzo Res.,1,1,0,0
+1378841,1750179600,18685,18696,Estudiantes La Plata Res,Rosario Central Res.,0,1,0,1
+1378842,1750197600,18681,25592,Boca Juniors Res.,San Martín San Juan Res.,2,0,1,0
+1381195,1750615200,18696,18697,Rosario Central Res.,San Lorenzo Res.,0,1,0,0
+1381196,1750626000,18681,18702,Boca Juniors Res.,Vélez Sársfield Res.,1,2,1,0
+1391401,1751824800,18702,18697,Vélez Sársfield Res.,San Lorenzo Res.,1,1,0,1
+1353740,1752602400,18679,18684,Banfield Res.,Defensa y Justicia Res.,0,0,0,0
+1353737,1752602400,18688,20817,Huracán Res.,Belgrano Córdoba Res.,1,2,0,1
+1353745,1752602400,18698,18689,Sarmiento Res.,Independiente Res.,2,2,1,2
+1353747,1752602400,22937,18690,Deportivo Riestra Res.,Lanús Res.,1,0,1,0
+1353743,1752688800,18686,20818,Gimnasia La Plata Res.,Instituto Res.,2,2,1,1
+1353738,1752688800,18694,18680,Racing Club Res.,Barracas Central Res.,1,1,0,0
+1353746,1752688800,18696,18687,Rosario Central Res.,Godoy Cruz Res.,1,0,1,0
+1353742,1752699600,18695,18693,River Plate Res.,Platense Res.,3,0,0,0
+1353741,1752775200,18676,18682,Aldosivi Res.,Central Córdoba SdE Res.,0,1,0,1
+1353735,1752775200,18677,18681,Argentinos Juniors Res.,Boca Juniors Res.,1,2,1,0
+1353748,1752775200,18678,25592,Atlético Tucumán Res.,San Martín San Juan Res.,1,0,0,0
+1353736,1752775200,18701,18685,Unión Santa Fe Res.,Estudiantes La Plata Res,2,1,1,0
+1353739,1752775200,22938,18691,Independiente Riva. Res.,Newell's Old Boys Res.,3,0,1,0
+1353749,1752861600,18700,18683,Tigre Res.,Colón Res.,2,1,2,1
+1353744,1752870600,18699,18697,Talleres Córdoba Res.,San Lorenzo Res.,3,1,2,1
+1353759,1753207200,18687,18698,Godoy Cruz Res.,Sarmiento Res.,2,1,1,0
+1353758,1753207200,18690,18696,Lanús Res.,Rosario Central Res.,0,3,0,1
+1353763,1753207200,18693,18702,Platense Res.,Vélez Sársfield Res.,0,0,0,0
+1423405,1753218000,18678,26250,Atlético Tucumán Res.,Ferro 2,2,0,0,0
+1353750,1753293600,18684,18676,Defensa y Justicia Res.,Aldosivi Res.,0,2,0,1
+1353754,1753293600,18685,18688,Estudiantes La Plata Res,Huracán Res.,1,1,1,0
+1353760,1753293600,18689,18699,Independiente Res.,Talleres Córdoba Res.,1,0,1,0
+1353751,1753293600,18691,18679,Newell's Old Boys Res.,Banfield Res.,4,0,1,0
+1353762,1753293600,20818,18695,Instituto Res.,River Plate Res.,1,0,1,0
+1353753,1753304400,20817,18694,Belgrano Córdoba Res.,Racing Club Res.,1,1,1,0
+1353752,1753380000,18680,22938,Barracas Central Res.,Independiente Riva. Res.,1,0,0,0
+1353755,1753380000,18681,18701,Boca Juniors Res.,Unión Santa Fe Res.,3,0,1,0
+1353764,1753380000,18683,18682,Colón Res.,Central Córdoba SdE Res.,1,1,0,0
+1353761,1753380000,18697,18686,San Lorenzo Res.,Gimnasia La Plata Res.,0,0,0,0
+1353757,1753380000,25592,22937,San Martín San Juan Res.,Deportivo Riestra Res.,1,0,0,0
+1353756,1753466400,18700,18677,Tigre Res.,Argentinos Juniors Res.,1,0,1,0
+1353769,1753812000,18679,18680,Banfield Res.,Barracas Central Res.,0,1,0,0
+1353774,1753812000,18686,18689,Gimnasia La Plata Res.,Independiente Res.,1,0,0,0
+1353776,1753812000,18698,18690,Sarmiento Res.,Lanús Res.,1,0,0,0
+1353779,1753812000,26250,18693,Ferro 2,Platense Res.,3,1,2,0
+1353773,1753822800,18695,18697,River Plate Res.,San Lorenzo Res.,2,2,2,0
+1353775,1753822800,18699,18687,Talleres Córdoba Res.,Godoy Cruz Res.,1,0,1,0
+1353770,1753898400,18676,18691,Aldosivi Res.,Newell's Old Boys Res.,0,1,0,1
+1353766,1753898400,18688,18681,Huracán Res.,Boca Juniors Res.,2,0,1,0
+1353767,1753898400,18694,18685,Racing Club Res.,Estudiantes La Plata Res,4,3,1,1
+1353777,1753898400,18696,25592,Rosario Central Res.,San Martín San Juan Res.,0,4,0,2
+1353765,1753898400,18701,18700,Unión Santa Fe Res.,Tigre Res.,3,2,3,1
+1353772,1753898400,18702,20818,Vélez Sársfield Res.,Instituto Res.,0,0,0,0
+1416215,1753984800,18677,18683,Argentinos Juniors Res.,Colón Res.,0,1,0,0
+1353778,1753984800,22937,18678,Deportivo Riestra Res.,Atlético Tucumán Res.,1,2,0,2
+1353768,1753984800,22938,20817,Independiente Riva. Res.,Belgrano Córdoba Res.,1,3,0,2
+1353771,1753995600,18682,18684,Central Córdoba SdE Res.,Defensa y Justicia Res.,2,1,1,1
+1423406,1754229600,26250,18702,Ferro 2,Vélez Sársfield Res.,2,2,1,1
+1353783,1754416800,18685,22938,Estudiantes La Plata Res,Independiente Riva. Res.,1,1,0,0
+1353785,1754416800,18700,18688,Tigre Res.,Huracán Res.,1,0,0,0
+1353793,1754416800,20818,18693,Instituto Res.,Platense Res.,1,2,1,0
+1353788,1754416800,25592,18698,San Martín San Juan Res.,Sarmiento Res.,1,2,1,2
+1353784,1754427600,18681,18694,Boca Juniors Res.,Racing Club Res.,0,1,0,1
+1412870,1754503200,18683,18684,Colón Res.,Defensa y Justicia Res.,1,1,1,1
+1353790,1754503200,18687,18686,Godoy Cruz Res.,Gimnasia La Plata Res.,0,3,0,2
+1353791,1754503200,18689,18695,Independiente Res.,River Plate Res.,0,0,0,0
+1353780,1754503200,18691,18682,Newell's Old Boys Res.,Central Córdoba SdE Res.,2,1,2,1
+1353782,1754503200,20817,18679,Belgrano Córdoba Res.,Banfield Res.,2,0,2,0
+1353787,1754514000,18678,18696,Atlético Tucumán Res.,Rosario Central Res.,2,0,2,0
+1353786,1754589600,18677,18701,Argentinos Juniors Res.,Unión Santa Fe Res.,2,3,2,0
+1353781,1754589600,18680,18676,Barracas Central Res.,Aldosivi Res.,1,0,1,0
+1353789,1754589600,18690,18699,Lanús Res.,Talleres Córdoba Res.,1,0,0,0
+1353794,1754589600,22937,26250,Deportivo Riestra Res.,Ferro 2,2,1,1,1
+1353792,1754676000,18697,18702,San Lorenzo Res.,Vélez Sársfield Res.,1,0,0,0
+1353799,1755021600,18676,20817,Aldosivi Res.,Belgrano Córdoba Res.,3,0,2,0
+1353798,1755021600,18679,18685,Banfield Res.,Estudiantes La Plata Res,1,3,0,1
+1353807,1755021600,18698,18678,Sarmiento Res.,Atlético Tucumán Res.,0,2,0,1
+1423407,1755021600,26250,20818,Ferro 2,Instituto Res.,0,3,0,1
+1353797,1755032400,22938,18681,Independiente Riva. Res.,Boca Juniors Res.,0,1,0,1
+1353801,1755108000,18684,18691,Defensa y Justicia Res.,Newell's Old Boys Res.,2,3,1,3
+1353805,1755108000,18686,18690,Gimnasia La Plata Res.,Lanús Res.,2,0,1,0
+1353802,1755108000,18693,18697,Platense Res.,San Lorenzo Res.,1,0,1,0
+1353809,1755108000,18701,18683,Unión Santa Fe Res.,Colón Res.,1,0,0,0
+1353804,1755118800,18695,18687,River Plate Res.,Godoy Cruz Res.,2,1,1,0
+1353800,1755122400,18682,18680,Central Córdoba SdE Res.,Barracas Central Res.,2,2,0,1
+1353795,1755194400,18688,18677,Huracán Res.,Argentinos Juniors Res.,1,1,1,0
+1353796,1755194400,18694,18700,Racing Club Res.,Tigre Res.,2,0,1,0
+1353808,1755194400,18696,22937,Rosario Central Res.,Deportivo Riestra Res.,1,0,0,0
+1353803,1755194400,18702,18689,Vélez Sársfield Res.,Independiente Res.,0,1,0,0
+1353806,1755208800,18699,25592,Talleres Córdoba Res.,San Martín San Juan Res.,3,0,1,0
+1353811,1755626400,20817,18682,Belgrano Córdoba Res.,Central Córdoba SdE Res.,1,0,0,0
+1353823,1755709200,18697,20818,San Lorenzo Res.,Instituto Res.,0,1,0,1
+1353821,1755712800,18687,18702,Godoy Cruz Res.,Vélez Sársfield Res.,2,0,2,0
+1423408,1755712800,18696,26250,Rosario Central Res.,Ferro 2,4,0,1,0
+1353818,1755727200,18678,18699,Atlético Tucumán Res.,Talleres Córdoba Res.,1,1,0,0
+1353813,1755727200,18681,18679,Boca Juniors Res.,Banfield Res.,5,1,3,0
+1353815,1755799200,18677,18694,Argentinos Juniors Res.,Racing Club Res.,4,2,1,1
+1353810,1755799200,18680,18684,Barracas Central Res.,Defensa y Justicia Res.,2,1,1,0
+1353812,1755799200,18685,18676,Estudiantes La Plata Res,Aldosivi Res.,4,1,1,1
+1353822,1755799200,18689,18693,Independiente Res.,Platense Res.,2,1,1,1
+1353814,1755799200,18700,22938,Tigre Res.,Independiente Riva. Res.,3,3,2,0
+1353819,1755799200,25592,18686,San Martín San Juan Res.,Gimnasia La Plata Res.,1,0,1,0
+1353824,1755885600,18683,18691,Colón Res.,Newell's Old Boys Res.,0,0,0,0
+1353820,1755885600,18690,18695,Lanús Res.,River Plate Res.,0,0,0,0
+1353816,1755885600,18701,18688,Unión Santa Fe Res.,Huracán Res.,0,2,0,0
+1353817,1755885600,22937,18698,Deportivo Riestra Res.,Sarmiento Res.,2,2,1,0
+1353828,1756231200,18676,18681,Aldosivi Res.,Boca Juniors Res.,1,2,0,0
+1353830,1756231200,18684,20817,Defensa y Justicia Res.,Belgrano Córdoba Res.,2,4,1,3
+1353831,1756231200,18691,18680,Newell's Old Boys Res.,Barracas Central Res.,2,0,2,0
+1353832,1756231200,20818,18689,Instituto Res.,Independiente Res.,3,0,1,0
+1353837,1756245600,18699,22937,Talleres Córdoba Res.,Deportivo Riestra Res.,1,0,0,0
+1353827,1756317600,18679,18700,Banfield Res.,Tigre Res.,1,0,0,0
+1423410,1756317600,18688,18683,Huracán Res.,Colón Res.,2,3,2,1
+1353838,1756317600,18698,18696,Sarmiento Res.,Rosario Central Res.,0,1,0,0
+1353829,1756332000,18682,18685,Central Córdoba SdE Res.,Estudiantes La Plata Res,1,1,1,1
+1353835,1756332000,18695,25592,River Plate Res.,San Martín San Juan Res.,3,0,1,0
+1353836,1756404000,18686,18678,Gimnasia La Plata Res.,Atlético Tucumán Res.,0,4,0,2
+1353833,1756404000,18693,18687,Platense Res.,Godoy Cruz Res.,2,2,0,0
+1353825,1756404000,18694,18701,Racing Club Res.,Unión Santa Fe Res.,1,4,0,2
+1353834,1756404000,18702,18690,Vélez Sársfield Res.,Lanús Res.,0,1,0,0
+1353826,1756404000,22938,18677,Independiente Riva. Res.,Argentinos Juniors Res.,2,1,0,0
+1423409,1756404000,26250,18697,Ferro 2,San Lorenzo Res.,0,0,0,0
+1423425,1756922400,18679,18690,Banfield Res.,Lanús Res.,1,2,1,1
+1423412,1756922400,18680,18698,Barracas Central Res.,Sarmiento Res.,1,2,0,0
+1423423,1756922400,18683,26250,Colón Res.,Ferro 2,1,1,0,1
+1423420,1756922400,18685,18686,Estudiantes La Plata Res,Gimnasia La Plata Res.,0,0,0,0
+1423422,1756922400,18702,18700,Vélez Sársfield Res.,Tigre Res.,0,0,0,0
+1423421,1756936800,18678,18682,Atlético Tucumán Res.,Central Córdoba SdE Res.,2,4,0,3
+1423413,1756936800,18694,18689,Racing Club Res.,Independiente Res.,0,0,0,0
+1423411,1757095200,18676,25592,Aldosivi Res.,San Martín San Juan Res.,0,1,0,1
+1423417,1757095200,18684,22937,Defensa y Justicia Res.,Deportivo Riestra Res.,2,1,2,0
+1423415,1757095200,18693,18677,Platense Res.,Argentinos Juniors Res.,1,1,1,0
+1423418,1757095200,18696,18691,Rosario Central Res.,Newell's Old Boys Res.,3,0,2,0
+1423414,1757095200,20818,18701,Instituto Res.,Unión Santa Fe Res.,1,0,0,0
+1423416,1757113200,18681,18695,Boca Juniors Res.,River Plate Res.,1,1,0,0
+1423424,1757196000,18699,20817,Talleres Córdoba Res.,Belgrano Córdoba Res.,0,4,0,1
+1353839,1757268000,18697,18688,San Lorenzo Res.,Huracán Res.,0,1,0,1
+1423419,1757268000,22938,18687,Independiente Riva. Res.,Godoy Cruz Res.,2,0,1,0
+1423426,1757440800,18683,18680,Colón Res.,Barracas Central Res.,1,1,1,1
+1353841,1757440800,18685,18684,Estudiantes La Plata Res,Defensa y Justicia Res.,0,1,0,0
+1423427,1757440800,18698,26250,Sarmiento Res.,Ferro 2,1,0,0,0
+1353843,1757440800,18700,18676,Tigre Res.,Aldosivi Res.,1,0,0,0
+1353848,1757440800,22937,18686,Deportivo Riestra Res.,Gimnasia La Plata Res.,1,2,0,1
+1353847,1757527200,18696,18699,Rosario Central Res.,Talleres Córdoba Res.,1,0,1,0
+1353840,1757527200,20817,18691,Belgrano Córdoba Res.,Newell's Old Boys Res.,3,1,3,0
+1353850,1757527200,25592,18702,San Martín San Juan Res.,Vélez Sársfield Res.,2,4,1,1
+1353842,1757541600,18681,18682,Boca Juniors Res.,Central Córdoba SdE Res.,2,0,1,0
+1353844,1757613600,18677,18679,Argentinos Juniors Res.,Banfield Res.,3,1,0,1
+1353852,1757613600,18687,20818,Godoy Cruz Res.,Instituto Res.,1,3,0,1
+1353846,1757613600,18688,18694,Huracán Res.,Racing Club Res.,3,0,1,0
+1353853,1757613600,18689,18697,Independiente Res.,San Lorenzo Res.,3,2,1,1
+1353851,1757613600,18690,18693,Lanús Res.,Platense Res.,1,0,0,0
+1353845,1757613600,18701,22938,Unión Santa Fe Res.,Independiente Riva. Res.,1,1,0,0
+1353849,1757624400,18678,18695,Atlético Tucumán Res.,River Plate Res.,0,1,0,0
+1353859,1758045600,18684,18681,Defensa y Justicia Res.,Boca Juniors Res.,0,0,0,0
+1353867,1758045600,18686,18696,Gimnasia La Plata Res.,Rosario Central Res.,2,2,1,1
+1353860,1758045600,18691,18685,Newell's Old Boys Res.,Estudiantes La Plata Res,2,0,1,0
+1423428,1758045600,26250,18689,Ferro 2,Independiente Res.,3,2,2,0
+1353857,1758132000,18676,18677,Aldosivi Res.,Argentinos Juniors Res.,1,1,0,0
+1353856,1758132000,18679,18701,Banfield Res.,Unión Santa Fe Res.,2,1,1,0
+1353864,1758132000,18693,25592,Platense Res.,San Martín San Juan Res.,1,0,0,0
+1423429,1758132000,18694,18683,Racing Club Res.,Colón Res.,1,0,1,0
+1353865,1758132000,18702,18678,Vélez Sársfield Res.,Atlético Tucumán Res.,1,1,0,1
+1353858,1758146400,18682,18700,Central Córdoba SdE Res.,Tigre Res.,1,1,0,1
+1353861,1758218400,18680,20817,Barracas Central Res.,Belgrano Córdoba Res.,0,0,0,0
+1353862,1758218400,18697,18687,San Lorenzo Res.,Godoy Cruz Res.,2,0,2,0
+1353863,1758218400,20818,18690,Instituto Res.,Lanús Res.,1,1,1,0
+1353855,1758218400,22938,18688,Independiente Riva. Res.,Huracán Res.,2,2,1,0
+1353866,1758232800,18695,22937,River Plate Res.,Deportivo Riestra Res.,2,1,0,0
+1353868,1758232800,18699,18698,Talleres Córdoba Res.,Sarmiento Res.,0,0,0,0
+1353872,1758646800,18700,18684,Tigre Res.,Defensa y Justicia Res.,2,1,1,1
+1423430,1758650400,18683,20817,Colón Res.,Belgrano Córdoba Res.,0,3,0,1
+1353878,1758650400,18696,18695,Rosario Central Res.,River Plate Res.,2,2,0,2
+1353877,1758650400,18698,18686,Sarmiento Res.,Gimnasia La Plata Res.,0,2,0,1
+1353875,1758654000,18688,18679,Huracán Res.,Banfield Res.,0,0,0,0
+1353870,1758736800,18685,18680,Estudiantes La Plata Res,Barracas Central Res.,2,0,0,0
+1353883,1758736800,18687,18689,Godoy Cruz Res.,Independiente Res.,3,0,1,0
+1353874,1758736800,18701,18676,Unión Santa Fe Res.,Aldosivi Res.,1,1,1,1
+1353879,1758736800,22937,18702,Deportivo Riestra Res.,Vélez Sársfield Res.,1,1,1,1
+1353871,1758751200,18681,18691,Boca Juniors Res.,Newell's Old Boys Res.,2,0,0,0
+1423431,1758751200,18699,26250,Talleres Córdoba Res.,Ferro 2,2,0,1,0
+1353873,1758823200,18677,18682,Argentinos Juniors Res.,Central Córdoba SdE Res.,2,0,0,0
+1353882,1758823200,18690,18697,Lanús Res.,San Lorenzo Res.,1,2,0,0
+1353876,1758823200,18694,22938,Racing Club Res.,Independiente Riva. Res.,1,0,1,0
+1353881,1758823200,25592,20818,San Martín San Juan Res.,Instituto Res.,0,0,0,0
+1353880,1758837600,18678,18693,Atlético Tucumán Res.,Platense Res.,3,0,2,0
+1353885,1759255200,18679,18694,Banfield Res.,Racing Club Res.,0,0,0,0
+1353888,1759255200,18684,18677,Defensa y Justicia Res.,Argentinos Juniors Res.,0,1,0,0
+1353898,1759255200,18686,18699,Gimnasia La Plata Res.,Talleres Córdoba Res.,1,0,0,0
+1353896,1759255200,18702,18696,Vélez Sársfield Res.,Rosario Central Res.,1,3,1,0
+1353886,1759341600,18676,18688,Aldosivi Res.,Huracán Res.,0,2,0,0
+1353889,1759341600,18691,18700,Newell's Old Boys Res.,Tigre Res.,2,2,1,1
+1353895,1759341600,18693,22937,Platense Res.,Deportivo Riestra Res.,2,0,1,0
+1423432,1759341600,22938,18683,Independiente Riva. Res.,Colón Res.,3,0,1,0
+1423433,1759341600,26250,18687,Ferro 2,Godoy Cruz Res.,1,1,1,0
+1353897,1759356000,18695,18698,River Plate Res.,Sarmiento Res.,2,0,1,0
+1353891,1759356000,20817,18685,Belgrano Córdoba Res.,Estudiantes La Plata Res,1,1,0,0
+1353890,1759428000,18680,18681,Barracas Central Res.,Boca Juniors Res.,0,1,0,1
+1353892,1759428000,18689,18690,Independiente Res.,Lanús Res.,3,1,0,0
+1353893,1759428000,18697,25592,San Lorenzo Res.,San Martín San Juan Res.,2,2,1,1
+1353894,1759428000,20818,18678,Instituto Res.,Atlético Tucumán Res.,2,1,1,0
+1353887,1759442400,18682,18701,Central Córdoba SdE Res.,Unión Santa Fe Res.,1,4,1,3
+1423434,1759860000,18686,26250,Gimnasia La Plata Res.,Ferro 2,3,0,0,0
+1353905,1759860000,18694,18676,Racing Club Res.,Aldosivi Res.,3,1,1,1
+1353909,1759860000,18696,18693,Rosario Central Res.,Platense Res.,3,0,3,0
+1353903,1759860000,18701,18684,Unión Santa Fe Res.,Defensa y Justicia Res.,1,1,0,1
+1353907,1759874400,18699,18695,Talleres Córdoba Res.,River Plate Res.,0,4,0,3
+1423435,1759946400,18683,18685,Colón Res.,Estudiantes La Plata Res,0,0,0,0
+1353908,1759946400,18698,18702,Sarmiento Res.,Vélez Sársfield Res.,0,1,0,1
+1353901,1759946400,18700,18680,Tigre Res.,Barracas Central Res.,0,1,0,0
+1353910,1759946400,22937,20818,Deportivo Riestra Res.,Instituto Res.,1,0,1,0
+1353906,1759946400,22938,18679,Independiente Riva. Res.,Banfield Res.,1,4,0,2
+1353902,1760032800,18677,18691,Argentinos Juniors Res.,Newell's Old Boys Res.,0,0,0,0
+1353904,1760032800,18688,18682,Huracán Res.,Central Córdoba SdE Res.,2,1,1,1
+1353913,1760032800,18690,18687,Lanús Res.,Godoy Cruz Res.,2,1,0,0
+1353912,1760032800,25592,18689,San Martín San Juan Res.,Independiente Res.,2,1,0,0
+1353911,1760047200,18678,18697,Atlético Tucumán Res.,San Lorenzo Res.,1,1,0,0
+1353926,1760464800,18693,18698,Platense Res.,Sarmiento Res.,0,0,0,0
+1353927,1760464800,18702,18699,Vélez Sársfield Res.,Talleres Córdoba Res.,3,1,2,1
+1480334,1760464800,20817,18700,Belgrano Córdoba Res.,Tigre Res.,0,0,0,0
+1353925,1760464800,20818,18696,Instituto Res.,Rosario Central Res.,1,1,0,0
+1353928,1760479200,18695,18686,River Plate Res.,Gimnasia La Plata Res.,1,1,0,1
+1423436,1760551200,18679,18683,Banfield Res.,Colón Res.,0,1,0,0
+1353917,1760551200,18684,18688,Defensa y Justicia Res.,Huracán Res.,1,3,1,0
+1353921,1760551200,18685,18681,Estudiantes La Plata Res,Boca Juniors Res.,0,1,0,0
+1353923,1760551200,18689,18678,Independiente Res.,Atlético Tucumán Res.,5,1,4,1
+1423437,1760551200,26250,18690,Ferro 2,Lanús Res.,3,2,3,1
+1353915,1760637600,18676,22938,Aldosivi Res.,Independiente Riva. Res.,3,1,2,0
+1353919,1760637600,18680,18677,Barracas Central Res.,Argentinos Juniors Res.,2,3,1,2
+1353922,1760637600,18687,25592,Godoy Cruz Res.,San Martín San Juan Res.,3,0,2,0
+1353918,1760637600,18691,18701,Newell's Old Boys Res.,Unión Santa Fe Res.,2,3,2,1
+1353924,1760637600,18697,22937,San Lorenzo Res.,Deportivo Riestra Res.,2,1,2,1
+1353916,1760650200,18682,18694,Central Córdoba SdE Res.,Racing Club Res.,1,3,1,2
+1353931,1761069600,18677,20817,Argentinos Juniors Res.,Belgrano Córdoba Res.,0,1,0,0
+1353937,1761069600,18686,18702,Gimnasia La Plata Res.,Vélez Sársfield Res.,2,1,1,0
+1353939,1761069600,18698,20818,Sarmiento Res.,Instituto Res.,0,0,0,0
+1353930,1761069600,18700,18685,Tigre Res.,Estudiantes La Plata Res,1,1,0,0
+1353938,1761080700,18699,18693,Talleres Córdoba Res.,Platense Res.,0,1,0,0
+1353936,1761156000,18679,18676,Banfield Res.,Aldosivi Res.,4,1,0,1
+1423439,1761156000,18683,18681,Colón Res.,Boca Juniors Res.,1,2,1,1
+1353940,1761156000,18696,18697,Rosario Central Res.,San Lorenzo Res.,1,2,0,0
+1353941,1761156000,22937,18689,Deportivo Riestra Res.,Independiente Res.,0,1,0,1
+1353943,1761156000,25592,18690,San Martín San Juan Res.,Lanús Res.,0,1,0,1
+1423438,1761163200,18695,26250,River Plate Res.,Ferro 2,1,0,0,0
+1480335,1761170400,18678,18687,Atlético Tucumán Res.,Godoy Cruz Res.,1,1,0,0
+1353933,1761242400,18688,18691,Huracán Res.,Newell's Old Boys Res.,1,1,0,0
+1353934,1761242400,18694,18684,Racing Club Res.,Defensa y Justicia Res.,5,0,1,0
+1353932,1761242400,18701,18680,Unión Santa Fe Res.,Barracas Central Res.,2,2,1,0
+1353935,1761242400,22938,18682,Independiente Riva. Res.,Central Córdoba SdE Res.,3,0,1,0
+1353900,1761415200,18681,20817,Boca Juniors Res.,Belgrano Córdoba Res.,2,2,1,2
+1353952,1761674400,18690,18678,Lanús Res.,Atlético Tucumán Res.,2,1,0,1
+1353957,1761674400,18693,18686,Platense Res.,Gimnasia La Plata Res.,2,1,1,0
+1353955,1761674400,18697,18698,San Lorenzo Res.,Sarmiento Res.,5,2,2,2
+1353956,1761674400,20818,18699,Instituto Res.,Talleres Córdoba Res.,1,1,1,0
+1424301,1761674400,26250,25592,Ferro 2,San Martín San Juan Res.,4,2,2,1
+1424302,1761760800,18676,18683,Aldosivi Res.,Colón Res.,0,2,0,1
+1353953,1761760800,18687,22937,Godoy Cruz Res.,Deportivo Riestra Res.,2,0,0,0
+1353954,1761760800,18689,18696,Independiente Res.,Rosario Central Res.,0,1,0,0
+1353958,1761760800,18702,18695,Vélez Sársfield Res.,River Plate Res.,2,1,2,0
+1353949,1761760800,20817,18701,Belgrano Córdoba Res.,Unión Santa Fe Res.,0,2,0,0
+1353945,1761775200,18682,18679,Central Córdoba SdE Res.,Banfield Res.,2,1,0,1
+1353948,1761847200,18680,18688,Barracas Central Res.,Huracán Res.,2,3,1,2
+1353951,1761847200,18681,18700,Boca Juniors Res.,Tigre Res.,0,1,0,1
+1353946,1761847200,18684,22938,Defensa y Justicia Res.,Independiente Riva. Res.,1,1,0,1
+1353950,1761847200,18685,18677,Estudiantes La Plata Res,Argentinos Juniors Res.,1,4,1,1
+1353947,1761847200,18691,18694,Newell's Old Boys Res.,Racing Club Res.,1,0,1,0
+1485219,1762887600,18696,18677,Rosario Central Res.,Argentinos Juniors Res.,1,1,0,0
+1485212,1762887600,18701,18678,Unión Santa Fe Res.,Atlético Tucumán Res.,2,2,0,1
+1485213,1762974000,18686,18691,Gimnasia La Plata Res.,Newell's Old Boys Res.,2,0,0,0
+1485214,1762974000,20818,18694,Instituto Res.,Racing Club Res.,1,1,0,0
+1485215,1762984800,18681,18690,Boca Juniors Res.,Lanús Res.,1,0,1,0
+1485217,1763064000,18688,18689,Huracán Res.,Independiente Res.,3,1,1,1
+1485216,1763064000,20817,18697,Belgrano Córdoba Res.,San Lorenzo Res.,0,4,0,1
+1485218,1763073000,18695,18700,River Plate Res.,Tigre Res.,4,0,1,0
+1486332,1763506800,18701,18677,Unión Santa Fe Res.,Argentinos Juniors Res.,0,2,0,0
+1486329,1763582400,18686,18697,Gimnasia La Plata Res.,San Lorenzo Res.,3,1,2,0
+1486330,1763593200,18681,20818,Boca Juniors Res.,Instituto Res.,0,0,0,0
+1486331,1763766000,18695,18688,River Plate Res.,Huracán Res.,2,1,1,0
+1488141,1764273600,18686,18677,Gimnasia La Plata Res.,Argentinos Juniors Res.,4,0,1,0
+1488140,1764284400,18681,18695,Boca Juniors Res.,River Plate Res.,2,0,0,0
+1488446,1764801000,18681,18686,Boca Juniors Res.,Gimnasia La Plata Res.,1,1,0,1
+1489299,1765494000,18702,18681,Vélez Sársfield Res.,Boca Juniors Res.,0,2,0,1

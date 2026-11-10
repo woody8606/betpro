@@ -1,0 +1,466 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1424402,1754678700,7207,7216,Aveley,Brentwood Town,1,1,0,0
+1424406,1754748000,4678,7759,Billericay Town,Wingate & Finchley,2,1,1,0
+1424405,1754748000,4708,8737,St Albans City,Chatham Town,0,0,0,0
+1424410,1754748000,7628,7716,Chichester City,Folkestone Invicta,1,1,0,0
+1424408,1754748000,7636,7707,Cray Valley PM,Carshalton Athletic,0,2,0,0
+1424411,1754748000,7665,4713,Ramsgate,Whitehawk,3,2,2,0
+1424407,1754748000,7708,8664,Cheshunt,Welling United,4,2,3,1
+1424409,1754748000,7711,7623,Cray Wanderers,Canvey Island,2,0,1,0
+1424403,1754748000,7728,14411,Lewes,Hashtag United,0,2,0,2
+1424412,1754748000,7739,7217,Potters Bar Town,Burgess Hill Town,0,1,0,0
+1424404,1754748000,8149,4690,Dulwich Hamlet,Dartford,4,0,2,0
+1424413,1754937900,7707,7728,Carshalton Athletic,Lewes,1,2,1,1
+1424415,1755024300,4690,4678,Dartford,Billericay Town,1,1,1,0
+1424423,1755024300,4713,7628,Whitehawk,Chichester City,0,0,0,0
+1424420,1755024300,7216,4708,Brentwood Town,St Albans City,3,2,1,2
+1424421,1755024300,7623,7708,Canvey Island,Cheshunt,1,4,1,2
+1431048,1755024300,7636,7217,Cray Valley PM,Burgess Hill Town,1,2,1,2
+1424581,1755024300,7711,7716,Cray Wanderers,Folkestone Invicta,1,1,0,0
+1424419,1755024300,7759,8149,Wingate & Finchley,Dulwich Hamlet,0,1,0,1
+1424416,1755024300,8664,7207,Welling United,Aveley,0,1,0,0
+1424417,1755024300,8737,7665,Chatham Town,Ramsgate,4,2,2,1
+1424414,1755024300,14411,7739,Hashtag United,Potters Bar Town,0,0,0,0
+1424424,1755283500,7207,7217,Aveley,Burgess Hill Town,3,3,1,1
+1424426,1755352800,4708,4690,St Albans City,Dartford,2,0,1,0
+1424433,1755352800,4713,7636,Whitehawk,Cray Valley PM,3,2,1,0
+1424431,1755352800,7623,7716,Canvey Island,Folkestone Invicta,0,2,0,0
+1424430,1755352800,7665,8149,Ramsgate,Dulwich Hamlet,0,2,0,1
+1424428,1755352800,7707,4678,Carshalton Athletic,Billericay Town,1,0,0,0
+1424432,1755352800,7711,7759,Cray Wanderers,Wingate & Finchley,3,2,2,0
+1424434,1755352800,7739,7216,Potters Bar Town,Brentwood Town,3,4,2,2
+1424427,1755352800,8664,7728,Welling United,Lewes,0,1,0,0
+1424429,1755352800,8737,7708,Chatham Town,Cheshunt,1,0,0,0
+1424425,1755352800,14411,7628,Hashtag United,Chichester City,1,2,0,1
+1424438,1755957600,4678,7711,Billericay Town,Cray Wanderers,0,1,0,0
+1424437,1755957600,4690,7707,Dartford,Carshalton Athletic,4,1,1,1
+1424436,1755957600,7207,8737,Aveley,Chatham Town,0,2,0,0
+1424445,1755957600,7216,7217,Brentwood Town,Burgess Hill Town,2,1,1,1
+1424440,1755957600,7628,8664,Chichester City,Welling United,1,2,0,1
+1424443,1755957600,7636,7665,Cray Valley PM,Ramsgate,4,1,1,0
+1424435,1755957600,7708,14411,Cheshunt,Hashtag United,3,1,3,0
+1424439,1755957600,7716,4708,Folkestone Invicta,St Albans City,2,1,1,0
+1424441,1755957600,7728,7739,Lewes,Potters Bar Town,2,1,1,1
+1424444,1755957600,7759,4713,Wingate & Finchley,Whitehawk,0,1,0,1
+1424442,1755957600,8149,7623,Dulwich Hamlet,Canvey Island,2,0,0,0
+1424449,1756130400,4708,7708,St Albans City,Cheshunt,1,2,0,1
+1424453,1756130400,4713,8149,Whitehawk,Dulwich Hamlet,1,0,1,0
+1424448,1756130400,7623,7207,Canvey Island,Aveley,1,2,1,1
+1424447,1756130400,7665,4690,Ramsgate,Dartford,4,4,3,1
+1424454,1756130400,7707,7628,Carshalton Athletic,Chichester City,0,3,0,0
+1424455,1756130400,7711,7216,Cray Wanderers,Brentwood Town,1,5,1,1
+1430854,1756130400,7728,7217,Lewes,Burgess Hill Town,3,0,0,0
+1424452,1756130400,7739,7759,Potters Bar Town,Wingate & Finchley,3,3,0,1
+1424451,1756130400,8664,7636,Welling United,Cray Valley PM,0,3,0,1
+1424450,1756130400,8737,7716,Chatham Town,Folkestone Invicta,1,2,1,1
+1424446,1756130400,14411,4678,Hashtag United,Billericay Town,2,3,0,2
+1424461,1757167200,4678,7665,Billericay Town,Ramsgate,2,2,0,1
+1424459,1757167200,4690,7623,Dartford,Canvey Island,2,2,0,2
+1424458,1757167200,7207,4708,Aveley,St Albans City,1,1,0,0
+1424467,1757167200,7216,7707,Brentwood Town,Carshalton Athletic,3,2,1,2
+1424464,1757167200,7628,7739,Chichester City,Potters Bar Town,1,3,0,1
+1424457,1757167200,7636,14411,Cray Valley PM,Hashtag United,1,2,0,1
+1424466,1757167200,7708,7217,Cheshunt,Burgess Hill Town,1,1,0,1
+1424465,1757167200,7716,4713,Folkestone Invicta,Whitehawk,4,1,3,0
+1424463,1757167200,7728,7711,Lewes,Cray Wanderers,2,2,2,0
+1424462,1757167200,7759,8737,Wingate & Finchley,Chatham Town,0,3,0,2
+1424460,1757167200,8149,8664,Dulwich Hamlet,Welling United,3,1,2,0
+1424469,1757357100,7739,4708,Potters Bar Town,St Albans City,2,4,1,2
+1424478,1757443500,7216,7623,Brentwood Town,Canvey Island,1,0,0,0
+1424473,1757443500,7708,4678,Cheshunt,Billericay Town,2,2,1,1
+1424477,1757443500,7728,7628,Lewes,Chichester City,0,1,0,0
+1424471,1757443500,7759,14411,Wingate & Finchley,Hashtag United,2,1,1,1
+1424486,1757772000,7665,7739,Ramsgate,Potters Bar Town,2,1,0,0
+1424484,1757772000,7707,7711,Carshalton Athletic,Cray Wanderers,2,2,0,2
+1430855,1757961900,7207,7716,Aveley,Folkestone Invicta,2,5,1,2
+1430856,1758048300,8737,7636,Chatham Town,Cray Valley PM,3,1,2,0
+1424494,1758376800,4713,4708,Whitehawk,St Albans City,1,1,1,0
+1424491,1758376800,7207,4690,Aveley,Dartford,1,1,0,0
+1424497,1758376800,7216,4678,Brentwood Town,Billericay Town,3,0,2,0
+1424500,1758376800,7217,7716,Burgess Hill Town,Folkestone Invicta,2,3,1,2
+1424495,1758376800,7708,8149,Cheshunt,Dulwich Hamlet,1,1,0,0
+1424490,1758376800,7711,14411,Cray Wanderers,Hashtag United,4,3,1,3
+1424498,1758376800,7728,7665,Lewes,Ramsgate,2,2,1,1
+1424496,1758376800,7739,7636,Potters Bar Town,Cray Valley PM,2,3,1,2
+1424499,1758376800,7759,7628,Wingate & Finchley,Chichester City,0,0,0,0
+1424493,1758376800,8664,7623,Welling United,Canvey Island,4,1,0,0
+1424492,1758376800,8737,7707,Chatham Town,Carshalton Athletic,2,1,1,0
+1424482,1758653100,4708,7728,St Albans City,Lewes,3,0,0,0
+1424470,1758653100,7217,7707,Burgess Hill Town,Carshalton Athletic,2,4,2,1
+1430857,1758653100,8664,7665,Welling United,Ramsgate,1,4,0,3
+1424503,1758981600,4690,7708,Dartford,Cheshunt,2,0,1,0
+1424508,1758981600,7665,7711,Ramsgate,Cray Wanderers,1,1,1,1
+1424505,1758981600,7707,8664,Carshalton Athletic,Welling United,2,1,1,0
+1424488,1758981600,8149,7216,Dulwich Hamlet,Brentwood Town,1,2,1,1
+1424501,1758981600,14411,4713,Hashtag United,Whitehawk,1,1,1,1
+1424483,1759257900,4690,7217,Dartford,Burgess Hill Town,3,3,2,0
+1424474,1759257900,7711,8149,Cray Wanderers,Dulwich Hamlet,4,2,3,0
+1424479,1759257900,14411,8664,Hashtag United,Welling United,2,1,0,0
+1424521,1760191200,4713,7707,Whitehawk,Carshalton Athletic,2,0,1,0
+1424518,1760191200,7216,4690,Brentwood Town,Dartford,1,1,0,0
+1424512,1760191200,7217,14411,Burgess Hill Town,Hashtag United,2,0,1,0
+1424532,1760191200,7628,7728,Chichester City,Lewes,3,0,3,0
+1424522,1760191200,7665,7759,Ramsgate,Wingate & Finchley,1,1,1,1
+1424520,1760191200,7708,7636,Cheshunt,Cray Valley PM,1,1,1,0
+1424519,1760191200,7739,7623,Potters Bar Town,Canvey Island,1,0,1,0
+1424529,1760191200,8149,7711,Dulwich Hamlet,Cray Wanderers,1,1,1,1
+1424523,1760381100,7707,7217,Carshalton Athletic,Burgess Hill Town,1,2,0,1
+1424528,1760467500,4678,7708,Billericay Town,Cheshunt,1,1,0,0
+1424526,1760467500,4690,4713,Dartford,Whitehawk,3,0,1,0
+1424533,1760467500,7623,7216,Canvey Island,Brentwood Town,3,2,2,1
+1424530,1760467500,7636,8737,Cray Valley PM,Chatham Town,0,1,0,0
+1424531,1760467500,7665,8664,Ramsgate,Welling United,1,2,1,1
+1424524,1760467500,14411,7759,Hashtag United,Wingate & Finchley,0,1,0,0
+1424535,1760796000,4690,7739,Dartford,Potters Bar Town,4,1,3,1
+1424536,1760796000,4708,8664,St Albans City,Welling United,2,1,1,0
+1424537,1760796000,7207,7728,Aveley,Lewes,3,0,1,0
+1424543,1760796000,7216,7665,Brentwood Town,Ramsgate,2,1,1,1
+1424544,1760796000,7217,4713,Burgess Hill Town,Whitehawk,2,2,1,0
+1424540,1760796000,7628,4678,Chichester City,Billericay Town,2,2,0,2
+1424542,1760796000,7636,7623,Cray Valley PM,Canvey Island,1,1,0,1
+1424534,1760796000,7707,14411,Carshalton Athletic,Hashtag United,2,2,2,1
+1424541,1760796000,7708,7759,Cheshunt,Wingate & Finchley,2,3,1,1
+1424539,1760796000,7716,8149,Folkestone Invicta,Dulwich Hamlet,2,2,0,1
+1424538,1760796000,8737,7711,Chatham Town,Cray Wanderers,3,3,2,1
+1424515,1761072300,7711,4708,Cray Wanderers,St Albans City,1,1,0,0
+1424507,1761072300,7716,7728,Folkestone Invicta,Lewes,6,0,2,0
+1424513,1761072300,8737,8149,Chatham Town,Dulwich Hamlet,0,0,0,0
+1424552,1761400800,7665,7707,Ramsgate,Carshalton Athletic,2,2,0,1
+1424546,1761400800,7711,4690,Cray Wanderers,Dartford,0,2,0,1
+1424549,1761400800,7739,7207,Potters Bar Town,Aveley,2,3,0,2
+1424504,1761680700,4678,7739,Billericay Town,Potters Bar Town,3,1,1,1
+1424511,1761680700,7636,7216,Cray Valley PM,Brentwood Town,1,3,1,0
+1424551,1761680700,7728,7708,Lewes,Cheshunt,2,1,1,1
+1424502,1761680700,8149,7207,Dulwich Hamlet,Aveley,3,3,0,1
+1424545,1761680700,14411,7716,Hashtag United,Folkestone Invicta,2,1,1,0
+1424557,1762009200,4690,8664,Dartford,Welling United,3,1,0,1
+1424559,1762009200,7207,7665,Aveley,Ramsgate,5,0,4,0
+1424565,1762009200,7216,7759,Brentwood Town,Wingate & Finchley,0,5,0,4
+1424566,1762009200,7217,7623,Burgess Hill Town,Canvey Island,0,2,0,0
+1424563,1762009200,7628,8149,Chichester City,Dulwich Hamlet,0,0,0,0
+1424564,1762009200,7636,7728,Cray Valley PM,Lewes,1,1,1,0
+1424560,1762009200,7707,7739,Carshalton Athletic,Potters Bar Town,2,0,0,0
+1424562,1762009200,7708,7711,Cheshunt,Cray Wanderers,1,1,0,0
+1424558,1762009200,7716,4678,Folkestone Invicta,Billericay Town,2,1,1,0
+1424480,1762285500,4678,8737,Billericay Town,Chatham Town,2,1,2,0
+1424554,1762285500,4713,7216,Whitehawk,Brentwood Town,2,1,2,1
+1424510,1762285500,7623,7759,Canvey Island,Wingate & Finchley,1,1,0,0
+1424481,1762285500,7636,7207,Cray Valley PM,Aveley,1,4,0,3
+1424516,1762285500,8664,7716,Welling United,Folkestone Invicta,0,3,0,1
+1424571,1762614000,4678,7636,Billericay Town,Cray Valley PM,1,1,1,0
+1424568,1762614000,4690,7759,Dartford,Wingate & Finchley,1,2,0,0
+1424570,1762614000,4713,7207,Whitehawk,Aveley,0,1,0,1
+1424573,1762614000,7623,7707,Canvey Island,Carshalton Athletic,2,2,1,1
+1424576,1762614000,7665,7708,Ramsgate,Cheshunt,1,1,0,1
+1424574,1762614000,7711,7628,Cray Wanderers,Chichester City,0,0,0,0
+1424577,1762614000,7728,7216,Lewes,Brentwood Town,4,2,2,0
+1424572,1762614000,7739,7716,Potters Bar Town,Folkestone Invicta,0,3,0,2
+1424569,1762614000,8149,4708,Dulwich Hamlet,St Albans City,4,2,3,0
+1424575,1762614000,8664,7217,Welling United,Burgess Hill Town,1,2,0,1
+1424567,1762614000,14411,8737,Hashtag United,Chatham Town,0,6,0,2
+1430869,1762889400,7217,7636,Burgess Hill Town,Cray Valley PM,1,0,1,0
+1424580,1762890300,4678,4690,Billericay Town,Dartford,3,1,1,1
+1424585,1762890300,4708,7216,St Albans City,Brentwood Town,2,3,2,2
+1424587,1762890300,7628,4713,Chichester City,Whitehawk,2,1,0,1
+1424582,1762890300,7665,8737,Ramsgate,Chatham Town,1,0,0,0
+1424418,1762890300,7716,7711,Folkestone Invicta,Cray Wanderers,8,1,5,1
+1424583,1762890300,7728,7707,Lewes,Carshalton Athletic,2,3,2,2
+1424584,1762890300,8149,7759,Dulwich Hamlet,Wingate & Finchley,0,3,0,1
+1424590,1763218980,4690,7628,Dartford,Chichester City,2,0,1,0
+1434161,1763218980,4713,4678,Whitehawk,Billericay Town,0,0,0,0
+1424598,1763218980,7217,8149,Burgess Hill Town,Dulwich Hamlet,1,1,0,0
+1424594,1763218980,7623,4708,Canvey Island,St Albans City,1,3,1,2
+1424591,1763218980,7707,7207,Carshalton Athletic,Aveley,1,1,1,1
+1424597,1763218980,7759,7728,Wingate & Finchley,Lewes,3,0,0,0
+1424592,1763218980,8664,7711,Welling United,Cray Wanderers,0,2,0,2
+1424589,1763218980,14411,7665,Hashtag United,Ramsgate,1,4,0,1
+1424550,1763495100,8149,7636,Dulwich Hamlet,Cray Valley PM,1,3,1,3
+1424601,1763823600,4678,8664,Billericay Town,Welling United,6,1,1,0
+1424604,1763823600,4708,7707,St Albans City,Carshalton Athletic,2,1,0,0
+1434162,1763823600,7207,7759,Aveley,Wingate & Finchley,2,0,1,0
+1424610,1763823600,7628,7216,Chichester City,Brentwood Town,2,5,1,1
+1424602,1763823600,7636,4690,Cray Valley PM,Dartford,1,1,0,1
+1424608,1763823600,7665,7623,Ramsgate,Canvey Island,2,0,0,0
+1424606,1763823600,7708,7716,Cheshunt,Folkestone Invicta,2,4,2,4
+1424609,1763823600,7711,7217,Cray Wanderers,Burgess Hill Town,3,3,2,0
+1424605,1763823600,7728,8737,Lewes,Chatham Town,0,2,0,0
+1424607,1763823600,7739,4713,Potters Bar Town,Whitehawk,2,3,1,1
+1424600,1763823600,8149,14411,Dulwich Hamlet,Hashtag United,1,1,0,0
+1424509,1764099900,4708,7217,St Albans City,Burgess Hill Town,3,4,1,3
+1424472,1764099900,4713,4690,Whitehawk,Dartford,1,2,1,1
+1424586,1764099900,7708,7623,Cheshunt,Canvey Island,2,0,1,0
+1424706,1764099900,7759,7716,Wingate & Finchley,Folkestone Invicta,0,1,0,0
+1424548,1764099900,8664,8737,Welling United,Chatham Town,0,1,0,0
+1424616,1764359100,7216,7207,Brentwood Town,Aveley,3,3,2,1
+1424612,1764428400,4690,8149,Dartford,Dulwich Hamlet,1,0,1,0
+1424620,1764428400,4713,7665,Whitehawk,Ramsgate,2,2,1,2
+1424621,1764428400,7217,7739,Burgess Hill Town,Potters Bar Town,2,1,0,0
+1424617,1764428400,7623,7711,Canvey Island,Cray Wanderers,1,1,0,0
+1424619,1764428400,7707,7636,Carshalton Athletic,Cray Valley PM,0,1,0,0
+1424618,1764428400,7716,7628,Folkestone Invicta,Chichester City,3,0,0,0
+1424615,1764428400,7759,4678,Wingate & Finchley,Billericay Town,2,2,0,1
+1424614,1764428400,8664,7708,Welling United,Cheshunt,3,1,1,0
+1424613,1764428400,8737,4708,Chatham Town,St Albans City,1,4,1,1
+1424611,1764428400,14411,7728,Hashtag United,Lewes,3,3,2,3
+1424527,1764704700,4708,7739,St Albans City,Potters Bar Town,1,2,0,1
+1424489,1764704700,7623,4713,Canvey Island,Whitehawk,2,1,0,1
+1424506,1764704700,7628,8737,Chichester City,Chatham Town,2,2,1,2
+1430861,1765033200,4678,8149,Billericay Town,Dulwich Hamlet,1,2,1,1
+1430865,1765033200,4713,8664,Whitehawk,Welling United,1,2,0,1
+1430860,1765033200,7628,7636,Chichester City,Cray Valley PM,0,3,0,0
+1430868,1765033200,7665,4708,Ramsgate,St Albans City,1,1,1,1
+1430867,1765033200,7716,7216,Folkestone Invicta,Brentwood Town,1,0,0,0
+1430862,1765033200,7728,4690,Lewes,Dartford,1,0,0,0
+1430863,1765033200,7739,7711,Potters Bar Town,Cray Wanderers,0,2,0,1
+1430859,1765033200,7759,7707,Wingate & Finchley,Carshalton Athletic,2,2,1,2
+1430858,1765033200,8737,7217,Chatham Town,Burgess Hill Town,4,0,1,0
+1430864,1765033200,14411,7623,Hashtag United,Canvey Island,4,0,3,0
+1424599,1765309500,7216,7708,Brentwood Town,Cheshunt,2,2,1,1
+1430879,1765568700,7207,4678,Aveley,Billericay Town,3,3,3,1
+1430873,1765568700,7711,4713,Cray Wanderers,Whitehawk,1,2,1,0
+1430876,1765638000,4690,7716,Dartford,Folkestone Invicta,1,2,0,1
+1430870,1765638000,4708,7628,St Albans City,Chichester City,1,2,1,1
+1430877,1765638000,7216,14411,Brentwood Town,Hashtag United,2,0,1,0
+1430871,1765638000,7217,7665,Burgess Hill Town,Ramsgate,4,3,3,1
+1430880,1765638000,7636,7759,Cray Valley PM,Wingate & Finchley,4,1,1,0
+1430878,1765638000,8149,7728,Dulwich Hamlet,Lewes,1,4,1,1
+1424487,1765914300,7628,7708,Chichester City,Cheshunt,2,2,2,2
+1424596,1765914300,7716,7636,Folkestone Invicta,Cray Valley PM,3,0,0,0
+1424593,1765914300,8737,7739,Chatham Town,Potters Bar Town,3,0,2,0
+1430889,1766233800,7759,7711,Wingate & Finchley,Cray Wanderers,1,2,1,0
+1430888,1766242800,4678,7707,Billericay Town,Carshalton Athletic,1,0,1,0
+1430883,1766242800,4690,4708,Dartford,St Albans City,1,0,0,0
+1430885,1766242800,7216,7739,Brentwood Town,Potters Bar Town,1,0,0,0
+1430902,1766242800,7217,7207,Burgess Hill Town,Aveley,2,5,0,4
+1430886,1766242800,7628,14411,Chichester City,Hashtag United,1,0,0,0
+1430887,1766242800,7636,4713,Cray Valley PM,Whitehawk,0,2,0,2
+1430881,1766242800,7708,8737,Cheshunt,Chatham Town,0,4,0,1
+1430882,1766242800,7716,7623,Folkestone Invicta,Canvey Island,2,0,0,0
+1430890,1766242800,7728,8664,Lewes,Welling United,1,0,0,0
+1430884,1766242800,8149,7665,Dulwich Hamlet,Ramsgate,0,0,0,0
+1430892,1766847600,4708,7759,St Albans City,Wingate & Finchley,2,0,1,0
+1430895,1766847600,7217,7628,Burgess Hill Town,Chichester City,1,2,0,1
+1430893,1766847600,7623,4678,Canvey Island,Billericay Town,1,0,0,0
+1430901,1766847600,7665,7716,Ramsgate,Folkestone Invicta,2,3,0,1
+1430891,1766847600,7707,8149,Carshalton Athletic,Dulwich Hamlet,1,1,1,1
+1430899,1766847600,7711,7636,Cray Wanderers,Cray Valley PM,5,0,2,0
+1430900,1766847600,7739,7708,Potters Bar Town,Cheshunt,3,1,1,0
+1430898,1766847600,8664,7216,Welling United,Brentwood Town,1,4,0,3
+1430896,1766847600,8737,4690,Chatham Town,Dartford,1,2,0,2
+1430894,1766847600,14411,7207,Hashtag United,Aveley,2,2,1,0
+1424668,1767383100,7207,7623,Aveley,Canvey Island,3,1,2,0
+1424666,1767452400,4678,14411,Billericay Town,Hashtag United,1,2,0,1
+1424675,1767452400,7216,7711,Brentwood Town,Cray Wanderers,1,4,0,4
+1430903,1767452400,7217,7728,Burgess Hill Town,Lewes,2,1,1,1
+1424674,1767452400,7628,7707,Chichester City,Carshalton Athletic,2,1,0,1
+1424669,1767452400,7716,8737,Folkestone Invicta,Chatham Town,1,2,0,1
+1424525,1767728700,7716,7207,Folkestone Invicta,Aveley,0,1,0,1
+1424678,1767987900,7711,7207,Cray Wanderers,Aveley,0,3,0,0
+1424677,1767987900,14411,4690,Hashtag United,Dartford,2,2,1,1
+1424680,1768057200,4708,7636,St Albans City,Cray Valley PM,5,0,3,0
+1434163,1768057200,7217,4678,Burgess Hill Town,Billericay Town,1,2,1,1
+1424683,1768057200,7623,7728,Canvey Island,Lewes,0,1,0,1
+1424687,1768057200,7665,7628,Ramsgate,Chichester City,3,1,1,0
+1424682,1768057200,7707,7716,Carshalton Athletic,Folkestone Invicta,0,0,0,0
+1424679,1768057200,7739,8149,Potters Bar Town,Dulwich Hamlet,1,3,1,1
+1424681,1768057200,8664,7759,Welling United,Wingate & Finchley,1,0,0,0
+1430872,1768247100,7707,7708,Carshalton Athletic,Cheshunt,3,3,1,1
+1424695,1768662000,4678,7216,Billericay Town,Brentwood Town,1,0,1,0
+1424689,1768662000,4690,7207,Dartford,Aveley,2,0,1,0
+1424692,1768662000,4708,4713,St Albans City,Whitehawk,3,5,1,3
+1434164,1768662000,7623,8664,Canvey Island,Welling United,1,3,0,1
+1424697,1768662000,7628,7759,Chichester City,Wingate & Finchley,2,2,0,1
+1424694,1768662000,7636,7739,Cray Valley PM,Potters Bar Town,1,2,1,1
+1424696,1768662000,7665,7728,Ramsgate,Lewes,3,0,1,0
+1424690,1768662000,7707,8737,Carshalton Athletic,Chatham Town,0,4,0,3
+1424698,1768662000,7716,7217,Folkestone Invicta,Burgess Hill Town,1,1,0,1
+1424693,1768662000,8149,7708,Dulwich Hamlet,Cheshunt,0,1,0,0
+1424688,1768662000,14411,7711,Hashtag United,Cray Wanderers,2,2,2,1
+1424579,1768851900,7207,8664,Aveley,Welling United,2,1,0,0
+1424556,1768938300,4708,14411,St Albans City,Hashtag United,4,1,2,0
+1424709,1769259600,4713,7623,Whitehawk,Canvey Island,1,1,0,1
+1424701,1769266800,7207,7636,Aveley,Cray Valley PM,3,0,2,0
+1424708,1769266800,7216,8149,Brentwood Town,Dulwich Hamlet,0,2,0,0
+1424703,1769266800,7217,4690,Burgess Hill Town,Dartford,2,1,1,1
+1424707,1769266800,7708,7628,Cheshunt,Chichester City,2,0,0,0
+1424704,1769266800,7711,7707,Cray Wanderers,Carshalton Athletic,1,1,1,1
+1424485,1769266800,7716,7759,Folkestone Invicta,Wingate & Finchley,4,0,4,0
+1424702,1769266800,7728,4708,Lewes,St Albans City,1,0,1,0
+1424705,1769266800,7739,7665,Potters Bar Town,Ramsgate,0,4,0,1
+1424699,1769266800,8664,14411,Welling United,Hashtag United,0,2,0,0
+1424700,1769266800,8737,4678,Chatham Town,Billericay Town,0,1,0,0
+1424578,1769456700,7739,14411,Potters Bar Town,Hashtag United,2,1,1,1
+1424547,1769543100,4678,4708,Billericay Town,St Albans City,3,2,2,1
+1424712,1769871600,4678,7728,Billericay Town,Lewes,3,0,1,0
+1424716,1769871600,4690,7216,Dartford,Brentwood Town,3,2,2,1
+1424713,1769871600,4708,7711,St Albans City,Cray Wanderers,2,3,0,3
+1424717,1769871600,7623,7739,Canvey Island,Potters Bar Town,3,1,1,0
+1424715,1769871600,7628,7207,Chichester City,Aveley,0,1,0,1
+1424718,1769871600,7636,7708,Cray Valley PM,Cheshunt,3,3,0,3
+1424719,1769871600,7707,4713,Carshalton Athletic,Whitehawk,2,2,1,2
+1424714,1769871600,7716,8664,Folkestone Invicta,Welling United,2,0,1,0
+1424720,1769871600,7759,7665,Wingate & Finchley,Ramsgate,0,1,0,0
+1424710,1769871600,14411,7217,Hashtag United,Burgess Hill Town,2,6,1,3
+1424685,1770147900,8737,7216,Chatham Town,Brentwood Town,0,1,0,0
+1424721,1770476400,4713,14411,Whitehawk,Hashtag United,3,2,1,2
+1424722,1770476400,7207,8149,Aveley,Dulwich Hamlet,2,1,0,0
+1424731,1770476400,7216,7636,Brentwood Town,Cray Valley PM,3,1,1,1
+1424729,1770476400,7217,4708,Burgess Hill Town,St Albans City,0,1,0,1
+1424728,1770476400,7711,7665,Cray Wanderers,Ramsgate,1,1,0,0
+1424727,1770476400,7728,7716,Lewes,Folkestone Invicta,0,5,0,1
+1424724,1770476400,7739,4678,Potters Bar Town,Billericay Town,0,5,0,3
+1424726,1770476400,8737,7628,Chatham Town,Chichester City,2,3,1,0
+1424738,1771081200,4678,7628,Billericay Town,Chichester City,1,0,0,0
+1424742,1771081200,4713,7217,Whitehawk,Burgess Hill Town,3,1,1,1
+1424740,1771081200,7623,7636,Canvey Island,Cray Valley PM,2,2,2,2
+1424741,1771081200,7665,7216,Ramsgate,Brentwood Town,3,0,1,0
+1424736,1771081200,7711,8737,Cray Wanderers,Chatham Town,1,1,0,0
+1424735,1771081200,7728,7207,Lewes,Aveley,1,6,1,2
+1424733,1771081200,7739,4690,Potters Bar Town,Dartford,1,0,1,0
+1424739,1771081200,7759,7708,Wingate & Finchley,Cheshunt,2,3,2,3
+1424737,1771081200,8149,7716,Dulwich Hamlet,Folkestone Invicta,0,2,0,0
+1424734,1771081200,8664,4708,Welling United,St Albans City,0,0,0,0
+1424732,1771081200,14411,7707,Hashtag United,Carshalton Athletic,3,1,1,1
+1424517,1771271100,7207,7628,Aveley,Chichester City,2,2,1,2
+1424670,1771357500,7708,4708,Cheshunt,St Albans City,2,2,1,1
+1424672,1771357500,7759,7739,Wingate & Finchley,Potters Bar Town,2,1,1,1
+1424744,1771686000,4690,7711,Dartford,Cray Wanderers,1,1,0,0
+1424745,1771686000,4708,4678,St Albans City,Billericay Town,2,0,0,0
+1424747,1771686000,7207,7739,Aveley,Potters Bar Town,2,0,1,0
+1424752,1771686000,7216,4713,Brentwood Town,Whitehawk,4,0,2,0
+1424753,1771686000,7217,7759,Burgess Hill Town,Wingate & Finchley,3,2,2,1
+1424751,1771686000,7628,7623,Chichester City,Canvey Island,3,0,0,0
+1424748,1771686000,7636,8149,Cray Valley PM,Dulwich Hamlet,1,2,0,2
+1424750,1771686000,7707,7665,Carshalton Athletic,Ramsgate,1,2,1,1
+1424749,1771686000,7708,7728,Cheshunt,Lewes,0,0,0,0
+1424743,1771686000,7716,14411,Folkestone Invicta,Hashtag United,1,0,1,0
+1424746,1771686000,8737,8664,Chatham Town,Welling United,3,1,2,1
+1430897,1771962300,4713,7728,Whitehawk,Lewes,3,1,2,1
+1430866,1771962300,7708,7207,Cheshunt,Aveley,2,0,0,0
+1424730,1771962300,7759,7623,Wingate & Finchley,Canvey Island,2,0,1,0
+1424711,1771962300,8149,8737,Dulwich Hamlet,Chatham Town,1,0,0,0
+1424725,1771962300,8664,7707,Welling United,Carshalton Athletic,2,1,2,1
+1424756,1772290800,4678,7716,Billericay Town,Folkestone Invicta,1,0,1,0
+1424759,1772290800,4713,8737,Whitehawk,Chatham Town,0,0,0,0
+1424764,1772290800,7623,7217,Canvey Island,Burgess Hill Town,0,1,0,0
+1424760,1772290800,7711,7708,Cray Wanderers,Cheshunt,2,1,2,0
+1424762,1772290800,7728,7636,Lewes,Cray Valley PM,0,1,0,0
+1424758,1772290800,7739,7707,Potters Bar Town,Carshalton Athletic,2,1,2,1
+1424763,1772290800,7759,7216,Wingate & Finchley,Brentwood Town,1,2,1,2
+1424761,1772290800,8149,7628,Dulwich Hamlet,Chichester City,3,1,1,0
+1424755,1772290800,8664,4690,Welling United,Dartford,0,1,0,0
+1424754,1772290800,14411,4708,Hashtag United,St Albans City,1,2,0,1
+1424757,1772299800,7665,7207,Ramsgate,Aveley,1,1,0,0
+1424667,1772567100,4690,7665,Dartford,Ramsgate,1,0,1,0
+1424671,1772567100,7636,8664,Cray Valley PM,Welling United,1,4,1,1
+1424514,1772567100,7728,4678,Lewes,Billericay Town,0,3,0,3
+1424555,1772567100,7759,7217,Wingate & Finchley,Burgess Hill Town,1,2,0,1
+1424561,1772567100,8737,4713,Chatham Town,Whitehawk,2,1,2,1
+1424767,1772895600,4708,8149,St Albans City,Dulwich Hamlet,1,0,1,0
+1424768,1772895600,7207,4713,Aveley,Whitehawk,4,2,3,1
+1424775,1772895600,7216,7728,Brentwood Town,Lewes,2,1,1,1
+1424773,1772895600,7217,8664,Burgess Hill Town,Welling United,2,1,0,0
+1424772,1772895600,7628,7711,Chichester City,Cray Wanderers,3,1,1,0
+1424769,1772895600,7636,4678,Cray Valley PM,Billericay Town,1,4,1,2
+1424771,1772895600,7707,7623,Carshalton Athletic,Canvey Island,3,1,1,1
+1424774,1772895600,7708,7665,Cheshunt,Ramsgate,0,3,0,1
+1424770,1772895600,7716,7739,Folkestone Invicta,Potters Bar Town,2,1,0,0
+1424766,1772895600,7759,4690,Wingate & Finchley,Dartford,3,1,2,0
+1424765,1772895600,8737,14411,Chatham Town,Hashtag United,3,0,0,0
+1424553,1773171900,7623,7628,Canvey Island,Chichester City,3,1,0,1
+1424723,1773171900,7708,4690,Cheshunt,Dartford,0,1,0,0
+1424673,1773171900,8149,4713,Dulwich Hamlet,Whitehawk,4,3,4,1
+1424777,1773500400,4678,7207,Billericay Town,Aveley,3,2,0,2
+1424784,1773500400,4713,7711,Whitehawk,Cray Wanderers,0,3,0,3
+1424782,1773500400,7628,4708,Chichester City,St Albans City,1,1,1,1
+1424786,1773500400,7665,7217,Ramsgate,Burgess Hill Town,2,4,1,3
+1424783,1773500400,7708,7707,Cheshunt,Carshalton Athletic,0,1,0,0
+1424778,1773500400,7716,4690,Folkestone Invicta,Dartford,2,2,1,2
+1424781,1773500400,7728,8149,Lewes,Dulwich Hamlet,2,1,2,1
+1424779,1773500400,7739,8664,Potters Bar Town,Welling United,2,3,0,2
+1424785,1773500400,7759,7636,Wingate & Finchley,Cray Valley PM,1,0,1,0
+1424780,1773500400,8737,7623,Chatham Town,Canvey Island,3,0,3,0
+1424776,1773500400,14411,7216,Hashtag United,Brentwood Town,2,3,1,1
+1424686,1773776700,4713,7708,Whitehawk,Cheshunt,1,3,1,2
+1430875,1773776700,7623,8737,Canvey Island,Chatham Town,0,1,0,0
+1424788,1774105200,4690,7728,Dartford,Lewes,4,1,2,0
+1424792,1774105200,4708,7665,St Albans City,Ramsgate,2,0,0,0
+1424790,1774105200,7207,7708,Aveley,Cheshunt,3,0,2,0
+1424797,1774105200,7216,7716,Brentwood Town,Folkestone Invicta,0,2,0,2
+1424795,1774105200,7217,8737,Burgess Hill Town,Chatham Town,0,3,0,2
+1424787,1774105200,7623,14411,Canvey Island,Hashtag United,1,3,1,1
+1424796,1774105200,7636,7628,Cray Valley PM,Chichester City,1,4,1,0
+1424794,1774105200,7707,7759,Carshalton Athletic,Wingate & Finchley,4,1,2,0
+1424791,1774105200,7711,7739,Cray Wanderers,Potters Bar Town,1,0,1,0
+1424789,1774105200,8149,4678,Dulwich Hamlet,Billericay Town,0,1,0,1
+1424793,1774105200,8664,4713,Welling United,Whitehawk,2,1,1,0
+1424805,1774710000,4678,7217,Billericay Town,Burgess Hill Town,4,0,3,0
+1424798,1774710000,4690,14411,Dartford,Hashtag United,7,0,5,0
+1424799,1774710000,7207,7711,Aveley,Cray Wanderers,2,3,0,1
+1424806,1774710000,7216,8737,Brentwood Town,Chatham Town,0,0,0,0
+1424808,1774710000,7628,7665,Chichester City,Ramsgate,1,2,1,1
+1424801,1774710000,7636,4708,Cray Valley PM,St Albans City,2,0,1,0
+1424807,1774710000,7708,4713,Cheshunt,Whitehawk,0,0,0,0
+1424803,1774710000,7716,7707,Folkestone Invicta,Carshalton Athletic,3,3,1,3
+1424804,1774710000,7728,7623,Lewes,Canvey Island,2,2,0,2
+1424802,1774710000,7759,8664,Wingate & Finchley,Welling United,1,1,1,0
+1424800,1774710000,8149,7739,Dulwich Hamlet,Potters Bar Town,4,1,2,1
+1424817,1775224800,7665,7636,Ramsgate,Cray Valley PM,0,1,0,0
+1424815,1775224800,7739,7728,Potters Bar Town,Lewes,2,1,2,0
+1424813,1775311200,4708,7716,St Albans City,Folkestone Invicta,1,2,1,1
+1424818,1775311200,4713,7759,Whitehawk,Wingate & Finchley,1,1,0,1
+1424819,1775311200,7217,7216,Burgess Hill Town,Brentwood Town,3,2,2,1
+1424816,1775311200,7623,8149,Canvey Island,Dulwich Hamlet,1,1,0,1
+1424811,1775311200,7707,4690,Carshalton Athletic,Dartford,2,2,1,0
+1424812,1775311200,7711,4678,Cray Wanderers,Billericay Town,3,4,2,1
+1424814,1775311200,8664,7628,Welling United,Chichester City,3,1,0,0
+1424810,1775311200,8737,7207,Chatham Town,Aveley,0,1,0,0
+1424809,1775311200,14411,7708,Hashtag United,Cheshunt,2,1,0,0
+1424822,1775484000,4678,7623,Billericay Town,Canvey Island,3,2,2,0
+1424821,1775484000,4690,8737,Dartford,Chatham Town,3,2,2,0
+1424820,1775484000,7207,14411,Aveley,Hashtag United,3,1,2,1
+1424828,1775484000,7216,8664,Brentwood Town,Welling United,2,0,1,0
+1424830,1775484000,7628,7217,Chichester City,Burgess Hill Town,0,2,0,1
+1424826,1775484000,7636,7711,Cray Valley PM,Cray Wanderers,1,2,1,1
+1424825,1775484000,7708,7739,Cheshunt,Potters Bar Town,4,1,2,1
+1424827,1775484000,7716,7665,Folkestone Invicta,Ramsgate,3,2,2,2
+1424829,1775484000,7728,4713,Lewes,Whitehawk,3,0,1,0
+1424823,1775484000,7759,4708,Wingate & Finchley,St Albans City,2,0,0,0
+1424824,1775484000,8149,7707,Dulwich Hamlet,Carshalton Athletic,2,1,2,0
+1424832,1775916000,4708,7207,St Albans City,Aveley,0,1,0,1
+1424839,1775916000,4713,7716,Whitehawk,Folkestone Invicta,2,2,1,1
+1424841,1775916000,7217,7708,Burgess Hill Town,Cheshunt,1,3,1,2
+1424833,1775916000,7623,4690,Canvey Island,Dartford,0,4,0,2
+1424835,1775916000,7665,4678,Ramsgate,Billericay Town,0,1,0,1
+1424840,1775916000,7707,7216,Carshalton Athletic,Brentwood Town,2,4,1,1
+1424837,1775916000,7711,7728,Cray Wanderers,Lewes,3,0,1,0
+1424838,1775916000,7739,7628,Potters Bar Town,Chichester City,0,1,0,0
+1424834,1775916000,8664,8149,Welling United,Dulwich Hamlet,2,0,0,0
+1424836,1775916000,8737,7759,Chatham Town,Wingate & Finchley,4,0,2,0
+1424831,1775916000,14411,7636,Hashtag United,Cray Valley PM,1,1,0,0
+1430874,1776192300,8664,7739,Welling United,Potters Bar Town,1,0,1,0
+1424848,1776520800,4678,4713,Billericay Town,Whitehawk,2,0,1,0
+1424847,1776520800,4708,7623,St Albans City,Canvey Island,4,1,3,0
+1424844,1776520800,7207,7707,Aveley,Carshalton Athletic,0,0,0,0
+1424843,1776520800,7628,4690,Chichester City,Dartford,2,2,1,1
+1424849,1776520800,7636,7716,Cray Valley PM,Folkestone Invicta,1,1,0,0
+1424842,1776520800,7665,14411,Ramsgate,Hashtag United,0,2,0,0
+1424852,1776520800,7708,7216,Cheshunt,Brentwood Town,0,1,0,0
+1424845,1776520800,7711,8664,Cray Wanderers,Welling United,2,3,2,0
+1424850,1776520800,7728,7759,Lewes,Wingate & Finchley,1,1,1,1
+1424846,1776520800,7739,8737,Potters Bar Town,Chatham Town,0,6,0,3
+1424851,1776520800,8149,7217,Dulwich Hamlet,Burgess Hill Town,2,0,1,0
+1424855,1777125600,4690,7636,Dartford,Cray Valley PM,2,3,1,0
+1424860,1777125600,4713,7739,Whitehawk,Potters Bar Town,1,1,1,0
+1424863,1777125600,7216,7628,Brentwood Town,Chichester City,2,2,1,0
+1424862,1777125600,7217,7711,Burgess Hill Town,Cray Wanderers,4,2,4,2
+1424861,1777125600,7623,7665,Canvey Island,Ramsgate,2,4,1,1
+1424857,1777125600,7707,4708,Carshalton Athletic,St Albans City,1,0,1,0
+1424859,1777125600,7716,7708,Folkestone Invicta,Cheshunt,5,3,1,1
+1424856,1777125600,7759,7207,Wingate & Finchley,Aveley,0,2,0,0
+1424854,1777125600,8664,4678,Welling United,Billericay Town,2,2,0,1
+1424858,1777125600,8737,7728,Chatham Town,Lewes,2,1,1,0
+1424853,1777125600,14411,8149,Hashtag United,Dulwich Hamlet,1,2,1,1
+1543038,1777488300,4678,8737,Billericay Town,Chatham Town,3,2,3,1
+1543037,1777488300,7207,7216,Aveley,Brentwood Town,1,4,0,0
+1544082,1777903200,4678,7216,Billericay Town,Brentwood Town,1,1,1,1
