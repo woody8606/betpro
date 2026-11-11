@@ -1,0 +1,73 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1619652,1787079600,17760,3637,San Antonio Bulo Bulo,Aurora,0,1,0,0
+1619653,1787090400,3704,17762,Guabirá,Universitario de Vinto,2,1,1,1
+1619654,1787097600,3711,3707,The Strongest,Oriente Petrolero,2,1,1,0
+1619655,1787166000,17743,3708,ABB,Real Potosí,2,3,0,2
+1619656,1787176800,15702,3701,Independiente Petrolero,Blooming,5,2,1,2
+1619658,1787252400,3700,20252,Always Ready,Real Oruro,4,2,2,1
+1619660,1788030000,22266,20252,Gualberto Villarroel SJ,Real Oruro,4,1,2,1
+1619662,1788116400,17743,3700,ABB,Always Ready,0,1,0,0
+1619663,1788124500,3702,3711,Bolívar,The Strongest,4,2,3,1
+1619664,1788132600,3701,3707,Blooming,Oriente Petrolero,0,3,0,1
+1619665,1788202800,17760,3704,San Antonio Bulo Bulo,Guabirá,5,1,3,1
+1619666,1788220800,15708,15702,Real Tomayapo,Independiente Petrolero,3,0,2,0
+1619667,1788303600,17762,3637,Universitario de Vinto,Aurora,1,1,1,0
+1619659,1788375600,22266,3702,Gualberto Villarroel SJ,Bolívar,0,1,0,0
+1619657,1788476400,3706,15708,Nacional Potosí,Real Tomayapo,5,1,1,0
+1619668,1788894000,17743,17760,ABB,San Antonio Bulo Bulo,0,2,0,0
+1619669,1788904800,3637,3708,Aurora,Real Potosí,1,0,0,0
+1619670,1788913800,3707,3704,Oriente Petrolero,Guabirá,1,0,1,0
+1619671,1788980400,20252,3706,Real Oruro,Nacional Potosí,0,2,0,0
+1619672,1788993000,17762,3711,Universitario de Vinto,The Strongest,1,2,0,2
+1619673,1789000200,3701,22266,Blooming,Gualberto Villarroel SJ,5,1,4,1
+1619674,1789079400,15708,3700,Real Tomayapo,Always Ready,2,0,0,0
+1619675,1789086600,3702,15702,Bolívar,Independiente Petrolero,1,1,0,0
+1619676,1789844400,3700,17743,Always Ready,ABB,1,4,0,2
+1619677,1789853400,3637,17762,Aurora,Universitario de Vinto,4,2,0,2
+1619678,1789862400,3708,3706,Real Potosí,Nacional Potosí,2,2,0,1
+1619679,1789930800,20252,22266,Real Oruro,Gualberto Villarroel SJ,1,0,0,0
+1619680,1789938900,3711,3702,The Strongest,Bolívar,1,1,1,1
+1619681,1789947000,3707,3701,Oriente Petrolero,Blooming,3,1,1,0
+1619682,1790028000,3704,17760,Guabirá,San Antonio Bulo Bulo,2,1,2,1
+1619683,1790037000,15702,15708,Independiente Petrolero,Real Tomayapo,5,1,4,0
+1619661,1790118000,3706,3708,Nacional Potosí,Real Potosí,0,1,0,1
+1619686,1790362800,17760,3708,San Antonio Bulo Bulo,Real Potosí,3,0,3,0
+1619684,1790370900,17743,3637,ABB,Aurora,0,1,0,0
+1619685,1790379000,3706,3700,Nacional Potosí,Always Ready,9,0,3,0
+1619687,1790458200,3711,3704,The Strongest,Guabirá,2,1,1,1
+1619688,1790467200,17762,3707,Universitario de Vinto,Oriente Petrolero,3,0,1,0
+1619689,1790535600,22266,15702,Gualberto Villarroel SJ,Independiente Petrolero,1,3,0,0
+1619690,1790543700,3702,3701,Bolívar,Blooming,3,0,0,0
+1619691,1790551800,15708,20252,Real Tomayapo,Real Oruro,2,1,1,1
+1619692,1790708400,17762,3704,Universitario de Vinto,Guabirá,3,1,1,1
+1619693,1790719200,3708,17743,Real Potosí,ABB,3,1,2,0
+1619694,1790726400,3637,17760,Aurora,San Antonio Bulo Bulo,2,2,1,1
+1619695,1790794800,20252,3700,Real Oruro,Always Ready,2,2,1,0
+1619696,1790807400,15708,3706,Real Tomayapo,Nacional Potosí,1,1,0,0
+1619697,1790814600,3707,3711,Oriente Petrolero,The Strongest,1,1,1,1
+1619698,1790893800,3702,22266,Bolívar,Gualberto Villarroel SJ,3,2,1,0
+1619699,1790901000,3701,15702,Blooming,Independiente Petrolero,0,1,0,0
+1619700,1790967600,17760,17743,San Antonio Bulo Bulo,ABB,0,2,0,1
+1619701,1790985600,3708,3637,Real Potosí,Aurora,1,1,1,1
+1619702,1791054000,3700,15708,Always Ready,Real Tomayapo,4,0,2,0
+1619703,1791062100,3706,20252,Nacional Potosí,Real Oruro,2,0,1,0
+1619704,1791070200,3711,17762,The Strongest,Universitario de Vinto,5,2,4,0
+1619705,1791140400,22266,3701,Gualberto Villarroel SJ,Blooming,3,2,1,2
+1619706,1791148500,3704,3707,Guabirá,Oriente Petrolero,2,1,0,1
+1619707,1791156600,15702,3702,Independiente Petrolero,Bolívar,0,3,0,1
+1619708,1791313200,20252,15708,Real Oruro,Real Tomayapo,4,0,0,0
+1619709,1791324000,3708,17760,Real Potosí,San Antonio Bulo Bulo,4,2,1,2
+1619710,1791331200,3637,17743,Aurora,ABB,2,0,1,0
+1619712,1791408600,15702,22266,Independiente Petrolero,Gualberto Villarroel SJ,1,0,1,0
+1619711,1791419400,3704,3711,Guabirá,The Strongest,2,1,2,0
+1619713,1791419400,3707,17762,Oriente Petrolero,Universitario de Vinto,2,0,1,0
+1619714,1791486000,3700,3706,Always Ready,Nacional Potosí,2,3,1,2
+1619715,1791504000,3701,3702,Blooming,Bolívar,1,1,1,0
+1645450,1792537200,15702,3637,Independiente Petrolero,Aurora,4,0,1,0
+1645452,1792621800,3708,3702,Real Potosí,Bolívar,3,1,2,1
+1645453,1792629000,3707,3706,Oriente Petrolero,Nacional Potosí,3,2,2,0
+1645451,1792713600,3700,3711,Always Ready,The Strongest,1,1,1,0
+1645454,1793746800,3637,15702,Aurora,Independiente Petrolero,3,2,2,2
+1645455,1793829600,3706,3707,Nacional Potosí,Oriente Petrolero,5,1,1,1
+1645456,1793838600,3711,3700,The Strongest,Always Ready,1,4,1,2
+1645457,1793919600,3702,3708,Bolívar,Real Potosí,1,0,1,0
