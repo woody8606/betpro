@@ -246,3 +246,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1647465,1793561400,2829,2817,Yaracuyanos FC,Aragua FC,0,0,0,0
 1647463,1793561400,2853,10091,Petare FC,Fundación Lara Deportiva,0,2,0,0
 1647466,1794088800,10091,2853,Fundación Lara Deportiva,Petare FC,0,1,0,0
+1647467,1794166200,2817,2829,Aragua FC,Yaracuyanos FC,1,1,0,0
+1647468,1794166200,11371,2816,Monagas II,Urena SC,2,2,0,1

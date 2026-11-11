@@ -156,3 +156,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba HT/FT,HTFT_X_X,0.1878,0.1878,0.1753,5.5,Betfair,3.0,,,,,
 2026-11-11,17:00,1635753,World - UEFA U19 Championship - Qualification,Austria U19 - Belarus U19,bomba HT/FT,HTFT_1_2,0.0135,0.0135,0.0117,81.0,Betfair,3.0,,,,,
 2026-11-11,18:00,1644163,World - UEFA Europa Cup - Women,Malmö FF W - Ajax W,bomba scor,CS_1_0,0.1462,0.1462,,8.0,Betfair,3.0,,,,,
+2026-11-11,19:00,1588852,England - EFL Trophy,Barnsley - Oldham,sigur,O15,0.8654,0.8188,0.8854,1.06,Betfair,3.0,,,,,
+2026-11-11,19:00,1612676,England - WSL Cup,Tottenham Hotspur W - Crystal Palace W,sigur,O15,0.8697,0.9376,0.8406,1.07,Betfair,3.0,,,,,
+2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba HT/FT,HTFT_2_2,0.0895,0.0895,0.0791,12.0,Betfair,3.0,,,,,
+2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba scor,CS_1_0,0.1163,0.1163,,9.0,Betfair,3.0,,,,,
