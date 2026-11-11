@@ -1,0 +1,240 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1448460,1757246400,3593,6530,Kahramanmaraşspor,Kilis Belediyespor,0,1,0,1
+1448463,1757246400,6341,21998,Kırşehir Belediyespor,Silifke Belediyespor,0,0,0,0
+1448461,1757246400,6504,7408,12 Bingölspor,Karaköprü Belediyespor,4,0,3,0
+1448462,1757246400,6531,6509,Kırıkkale Büyük Anadolu,Ağrı 1970,1,1,0,0
+1449731,1757246400,26468,6541,Kapadokyaspor,Yeşilyurt Belediyespor,1,3,0,1
+1448459,1757250000,7398,22445,Diyarbekirspor,Niğde Belediyesispor,0,3,0,2
+1448464,1757250000,20295,7418,Mazıdağı Fosfatspor,Osmaniyespor,1,0,0,0
+1448458,1757260800,21995,24605,Talasgücü Belediyespor,Türk Metal 1963,2,1,2,1
+1448470,1757764800,6509,6504,Ağrı 1970,12 Bingölspor,1,2,0,0
+1448467,1757764800,6541,6531,Yeşilyurt Belediyespor,Kırıkkale Büyük Anadolu,2,2,1,2
+1448468,1757764800,7408,6341,Karaköprü Belediyespor,Kırşehir Belediyespor,0,0,0,0
+1448465,1757764800,7418,21995,Osmaniyespor,Talasgücü Belediyespor,1,1,1,1
+1448466,1757764800,21998,20295,Silifke Belediyespor,Mazıdağı Fosfatspor,3,1,1,1
+1448471,1757764800,24605,7398,Türk Metal 1963,Diyarbekirspor,1,1,1,0
+1448472,1757779200,22445,3593,Niğde Belediyesispor,Kahramanmaraşspor,2,0,1,0
+1448469,1757851200,6530,26468,Kilis Belediyespor,Kapadokyaspor,1,0,1,0
+1448474,1758452400,3593,24605,Kahramanmaraşspor,Türk Metal 1963,1,1,0,1
+1448475,1758452400,6341,6509,Kırşehir Belediyespor,Ağrı 1970,0,0,0,0
+1448480,1758452400,6504,6541,12 Bingölspor,Yeşilyurt Belediyespor,2,0,0,0
+1448478,1758452400,6531,26468,Kırıkkale Büyük Anadolu,Kapadokyaspor,1,1,1,0
+1448477,1758452400,7398,7418,Diyarbekirspor,Osmaniyespor,1,1,1,0
+1448473,1758452400,21995,21998,Talasgücü Belediyespor,Silifke Belediyespor,1,1,0,1
+1448479,1758457800,20295,7408,Mazıdağı Fosfatspor,Karaköprü Belediyespor,1,0,1,0
+1448476,1758470400,22445,6530,Niğde Belediyesispor,Kilis Belediyespor,1,1,1,0
+1448483,1758970800,7418,3593,Osmaniyespor,Kahramanmaraşspor,3,0,2,0
+1448482,1758974400,7408,21995,Karaköprü Belediyespor,Talasgücü Belediyespor,1,0,1,0
+1449733,1758976200,24605,22445,Türk Metal 1963,Niğde Belediyesispor,1,2,0,1
+1449732,1759060800,6509,20295,Ağrı 1970,Mazıdağı Fosfatspor,2,0,0,0
+1448486,1759060800,6530,6531,Kilis Belediyespor,Kırıkkale Büyük Anadolu,0,3,0,2
+1448481,1759060800,6541,6341,Yeşilyurt Belediyespor,Kırşehir Belediyespor,2,2,1,0
+1448485,1759062600,21998,7398,Silifke Belediyespor,Diyarbekirspor,0,1,0,1
+1448484,1759062600,26468,6504,Kapadokyaspor,12 Bingölspor,2,1,2,1
+1449734,1759575600,6504,6531,12 Bingölspor,Kırıkkale Büyük Anadolu,4,3,3,0
+1448489,1759577400,20295,6541,Mazıdağı Fosfatspor,Yeşilyurt Belediyespor,1,1,0,0
+1448488,1759593600,22445,7418,Niğde Belediyesispor,Osmaniyespor,2,0,1,0
+1448490,1759663800,3593,21998,Kahramanmaraşspor,Silifke Belediyespor,2,2,0,1
+1448493,1759663800,7398,7408,Diyarbekirspor,Karaköprü Belediyespor,0,0,0,0
+1448491,1759665600,6341,26468,Kırşehir Belediyespor,Kapadokyaspor,1,1,1,0
+1448492,1759665600,21995,6509,Talasgücü Belediyespor,Ağrı 1970,2,0,1,0
+1448487,1759665600,24605,6530,Türk Metal 1963,Kilis Belediyespor,0,0,0,0
+1448494,1760178600,6509,7398,Ağrı 1970,Diyarbekirspor,0,0,0,0
+1448500,1760180400,6530,6504,Kilis Belediyespor,12 Bingölspor,0,2,0,1
+1449735,1760184000,26468,20295,Kapadokyaspor,Mazıdağı Fosfatspor,0,0,0,0
+1448495,1760268600,6541,21995,Yeşilyurt Belediyespor,Talasgücü Belediyespor,0,0,0,0
+1448498,1760268600,7408,3593,Karaköprü Belediyespor,Kahramanmaraşspor,0,0,0,0
+1448497,1760268600,7418,24605,Osmaniyespor,Türk Metal 1963,4,1,3,0
+1448496,1760270400,6531,6341,Kırıkkale Büyük Anadolu,Kırşehir Belediyespor,2,3,0,2
+1448499,1760270400,21998,22445,Silifke Belediyespor,Niğde Belediyesispor,1,1,0,0
+1448507,1760781600,6341,6504,Kırşehir Belediyespor,12 Bingölspor,0,2,0,1
+1448502,1760785200,7398,6541,Diyarbekirspor,Yeşilyurt Belediyespor,2,2,1,0
+1448506,1760787000,21995,26468,Talasgücü Belediyespor,Kapadokyaspor,3,0,2,0
+1448501,1760871600,3593,6509,Kahramanmaraşspor,Ağrı 1970,1,4,0,3
+1448504,1760871600,7418,6530,Osmaniyespor,Kilis Belediyespor,3,1,0,0
+1448503,1760871600,20295,6531,Mazıdağı Fosfatspor,Kırıkkale Büyük Anadolu,1,3,0,2
+1449736,1760873400,24605,21998,Türk Metal 1963,Silifke Belediyespor,1,1,1,1
+1448505,1760882400,22445,7408,Niğde Belediyesispor,Karaköprü Belediyespor,2,2,1,1
+1448513,1761303600,6509,22445,Ağrı 1970,Niğde Belediyesispor,0,0,0,0
+1448512,1761310800,6541,3593,Yeşilyurt Belediyespor,Kahramanmaraşspor,0,2,0,0
+1448508,1761386400,6504,20295,12 Bingölspor,Mazıdağı Fosfatspor,2,1,1,0
+1448511,1761390000,7408,24605,Karaköprü Belediyespor,Türk Metal 1963,1,0,0,0
+1448514,1761391800,6531,21995,Kırıkkale Büyük Anadolu,Talasgücü Belediyespor,0,2,0,1
+1448510,1761391800,21998,7418,Silifke Belediyespor,Osmaniyespor,0,0,0,0
+1448515,1761476400,6530,6341,Kilis Belediyespor,Kırşehir Belediyespor,1,2,0,1
+1448509,1761478200,26468,7398,Kapadokyaspor,Diyarbekirspor,1,3,0,3
+1448519,1761991200,20295,6341,Mazıdağı Fosfatspor,Kırşehir Belediyespor,3,1,2,1
+1448518,1762077600,3593,26468,Kahramanmaraşspor,Kapadokyaspor,1,1,0,0
+1448523,1762077600,7398,6531,Diyarbekirspor,Kırıkkale Büyük Anadolu,2,1,1,1
+1448522,1762077600,7418,7408,Osmaniyespor,Karaköprü Belediyespor,0,2,0,2
+1448516,1762077600,21998,6530,Silifke Belediyespor,Kilis Belediyespor,1,1,0,0
+1448517,1762084800,22445,6541,Niğde Belediyesispor,Yeşilyurt Belediyespor,1,4,1,1
+1448520,1762164000,24605,6509,Türk Metal 1963,Ağrı 1970,1,1,1,0
+1448521,1762171200,21995,6504,Talasgücü Belediyespor,12 Bingölspor,1,1,1,0
+1448525,1762596000,26468,22445,Kapadokyaspor,Niğde Belediyesispor,1,3,0,2
+1448530,1762682400,6341,21995,Kırşehir Belediyespor,Talasgücü Belediyespor,1,1,0,0
+1448531,1762682400,6504,7398,12 Bingölspor,Diyarbekirspor,2,0,0,0
+1448527,1762682400,6509,7418,Ağrı 1970,Osmaniyespor,1,0,0,0
+1448526,1762682400,6530,20295,Kilis Belediyespor,Mazıdağı Fosfatspor,0,0,0,0
+1448524,1762682400,6531,3593,Kırıkkale Büyük Anadolu,Kahramanmaraşspor,2,0,0,0
+1448528,1762682400,7408,21998,Karaköprü Belediyespor,Silifke Belediyespor,0,2,0,1
+1448529,1762689600,6541,24605,Yeşilyurt Belediyespor,Türk Metal 1963,2,3,0,1
+1448536,1764410400,3593,6504,Kahramanmaraşspor,12 Bingölspor,1,6,0,2
+1448535,1764410400,21998,6509,Silifke Belediyespor,Ağrı 1970,1,0,1,0
+1448532,1764410400,24605,26468,Türk Metal 1963,Kapadokyaspor,5,0,2,0
+1448538,1764417600,22445,6531,Niğde Belediyesispor,Kırıkkale Büyük Anadolu,1,2,1,0
+1448533,1764496800,7398,6341,Diyarbekirspor,Kırşehir Belediyespor,1,1,1,0
+1448534,1764496800,7408,6530,Karaköprü Belediyespor,Kilis Belediyespor,4,1,2,0
+1448539,1764496800,7418,6541,Osmaniyespor,Yeşilyurt Belediyespor,2,0,1,0
+1448537,1764496800,21995,20295,Talasgücü Belediyespor,Mazıdağı Fosfatspor,1,1,0,1
+1448545,1765015200,6504,22445,12 Bingölspor,Niğde Belediyesispor,1,0,0,0
+1448543,1765015200,6509,7408,Ağrı 1970,Karaköprü Belediyespor,1,3,1,2
+1448544,1765015200,6530,21995,Kilis Belediyespor,Talasgücü Belediyespor,3,1,2,0
+1448546,1765101600,6341,3593,Kırşehir Belediyespor,Kahramanmaraşspor,4,1,1,0
+1448547,1765101600,6531,24605,Kırıkkale Büyük Anadolu,Türk Metal 1963,0,0,0,0
+1448540,1765101600,20295,7398,Mazıdağı Fosfatspor,Diyarbekirspor,2,1,0,1
+1448541,1765101600,26468,7418,Kapadokyaspor,Osmaniyespor,1,4,1,0
+1448542,1765108800,6541,21998,Yeşilyurt Belediyespor,Silifke Belediyespor,1,0,0,0
+1448550,1765533600,24605,6504,Türk Metal 1963,12 Bingölspor,0,0,0,0
+1448551,1765537200,3593,20295,Kahramanmaraşspor,Mazıdağı Fosfatspor,1,1,0,0
+1448552,1765537200,6509,6530,Ağrı 1970,Kilis Belediyespor,1,2,1,2
+1448549,1765537200,7398,21995,Diyarbekirspor,Talasgücü Belediyespor,1,2,0,2
+1448554,1765537200,7408,6541,Karaköprü Belediyespor,Yeşilyurt Belediyespor,2,1,1,1
+1448548,1765548000,22445,6341,Niğde Belediyesispor,Kırşehir Belediyespor,2,2,1,1
+1448553,1765620000,7418,6531,Osmaniyespor,Kırıkkale Büyük Anadolu,3,0,2,0
+1448555,1765620000,21998,26468,Silifke Belediyespor,Kapadokyaspor,0,0,0,0
+1448561,1765879200,6341,24605,Kırşehir Belediyespor,Türk Metal 1963,1,1,1,0
+1448560,1765879200,6541,6509,Yeşilyurt Belediyespor,Ağrı 1970,0,0,0,0
+1448562,1765879200,7398,6530,Diyarbekirspor,Kilis Belediyespor,2,0,1,0
+1448559,1765879200,20295,22445,Mazıdağı Fosfatspor,Niğde Belediyesispor,2,0,1,0
+1448558,1765879200,21995,3593,Talasgücü Belediyespor,Kahramanmaraşspor,0,0,0,0
+1448563,1765965600,6504,7418,12 Bingölspor,Osmaniyespor,2,0,1,0
+1448556,1765965600,6531,21998,Kırıkkale Büyük Anadolu,Silifke Belediyespor,0,1,0,1
+1448557,1765965600,26468,7408,Kapadokyaspor,Karaköprü Belediyespor,2,0,1,0
+1448569,1766224800,3593,7398,Kahramanmaraşspor,Diyarbekirspor,6,2,2,1
+1448566,1766224800,24605,20295,Türk Metal 1963,Mazıdağı Fosfatspor,0,1,0,1
+1448564,1766239200,22445,21995,Niğde Belediyesispor,Talasgücü Belediyespor,0,0,0,0
+1448565,1766311200,6509,26468,Ağrı 1970,Kapadokyaspor,0,0,0,0
+1448567,1766311200,6530,6541,Kilis Belediyespor,Yeşilyurt Belediyespor,1,0,1,0
+1448570,1766311200,7408,6531,Karaköprü Belediyespor,Kırıkkale Büyük Anadolu,3,0,1,0
+1448568,1766311200,7418,6341,Osmaniyespor,Kırşehir Belediyespor,2,1,1,0
+1448571,1766311200,21998,6504,Silifke Belediyespor,12 Bingölspor,4,0,0,0
+1448574,1768039200,6530,3593,Kilis Belediyespor,Kahramanmaraşspor,0,2,0,1
+1448577,1768039200,22445,7398,Niğde Belediyesispor,Diyarbekirspor,1,0,1,0
+1448573,1768039200,24605,21995,Türk Metal 1963,Talasgücü Belediyespor,2,0,1,0
+1448579,1768125600,6509,6531,Ağrı 1970,Kırıkkale Büyük Anadolu,7,0,4,0
+1448578,1768125600,6541,26468,Yeşilyurt Belediyespor,Kapadokyaspor,1,1,1,1
+1448575,1768125600,7408,6504,Karaköprü Belediyespor,12 Bingölspor,2,6,2,4
+1448576,1768125600,7418,20295,Osmaniyespor,Mazıdağı Fosfatspor,0,3,0,0
+1448572,1768125600,21998,6341,Silifke Belediyespor,Kırşehir Belediyespor,1,1,0,1
+1448586,1768644000,7398,24605,Diyarbekirspor,Türk Metal 1963,1,0,0,0
+1448580,1768644000,26468,6530,Kapadokyaspor,Kilis Belediyespor,2,0,2,0
+1448583,1768730400,3593,22445,Kahramanmaraşspor,Niğde Belediyesispor,0,1,0,0
+1448584,1768730400,6341,7408,Kırşehir Belediyespor,Karaköprü Belediyespor,3,0,1,0
+1448581,1768730400,6531,6541,Kırıkkale Büyük Anadolu,Yeşilyurt Belediyespor,0,1,0,1
+1448585,1768730400,20295,21998,Mazıdağı Fosfatspor,Silifke Belediyespor,1,2,1,1
+1448587,1768730400,21995,7418,Talasgücü Belediyespor,Osmaniyespor,5,0,4,0
+1448591,1769248800,6509,6341,Ağrı 1970,Kırşehir Belediyespor,4,1,2,0
+1448590,1769248800,7418,7398,Osmaniyespor,Diyarbekirspor,0,2,0,1
+1448589,1769248800,21998,21995,Silifke Belediyespor,Talasgücü Belediyespor,2,1,1,1
+1448593,1769335200,6530,22445,Kilis Belediyespor,Niğde Belediyesispor,0,5,0,1
+1448588,1769335200,6541,6504,Yeşilyurt Belediyespor,12 Bingölspor,0,1,0,1
+1448592,1769335200,7408,20295,Karaköprü Belediyespor,Mazıdağı Fosfatspor,0,0,0,0
+1448595,1769335200,24605,3593,Türk Metal 1963,Kahramanmaraşspor,0,2,0,0
+1448594,1769335200,26468,6531,Kapadokyaspor,Kırıkkale Büyük Anadolu,1,1,1,0
+1448596,1769853600,3593,7418,Kahramanmaraşspor,Osmaniyespor,1,1,0,0
+1448600,1769853600,6341,6541,Kırşehir Belediyespor,Yeşilyurt Belediyespor,1,0,1,0
+1448598,1769853600,6504,26468,12 Bingölspor,Kapadokyaspor,0,0,0,0
+1448603,1769853600,6531,6530,Kırıkkale Büyük Anadolu,Kilis Belediyespor,3,1,1,0
+1448601,1769853600,20295,6509,Mazıdağı Fosfatspor,Ağrı 1970,0,0,0,0
+1448599,1769853600,21995,7408,Talasgücü Belediyespor,Karaköprü Belediyespor,0,1,0,1
+1448602,1769940000,7398,21998,Diyarbekirspor,Silifke Belediyespor,0,0,0,0
+1448597,1769940000,22445,24605,Niğde Belediyesispor,Türk Metal 1963,2,2,0,1
+1448611,1770544800,6509,21995,Ağrı 1970,Talasgücü Belediyespor,1,2,0,1
+1448610,1770544800,6531,6504,Kırıkkale Büyük Anadolu,12 Bingölspor,1,1,0,1
+1448605,1770544800,7418,22445,Osmaniyespor,Niğde Belediyesispor,1,0,0,0
+1448608,1770544800,21998,3593,Silifke Belediyespor,Kahramanmaraşspor,2,1,0,1
+1448606,1770631200,6530,24605,Kilis Belediyespor,Türk Metal 1963,3,0,2,0
+1448604,1770631200,6541,20295,Yeşilyurt Belediyespor,Mazıdağı Fosfatspor,1,0,1,0
+1448609,1770631200,7408,7398,Karaköprü Belediyespor,Diyarbekirspor,5,1,2,0
+1448607,1770631200,26468,6341,Kapadokyaspor,Kırşehir Belediyespor,1,0,1,0
+1448616,1771063200,7398,6509,Diyarbekirspor,Ağrı 1970,1,5,1,3
+1448614,1771063200,22445,21998,Niğde Belediyesispor,Silifke Belediyespor,2,1,0,0
+1448613,1771149600,3593,7408,Kahramanmaraşspor,Karaköprü Belediyespor,0,0,0,0
+1448612,1771149600,6341,6531,Kırşehir Belediyespor,Kırıkkale Büyük Anadolu,1,2,1,1
+1448617,1771149600,6504,6530,12 Bingölspor,Kilis Belediyespor,7,1,5,1
+1448619,1771149600,20295,26468,Mazıdağı Fosfatspor,Kapadokyaspor,2,1,1,1
+1448618,1771149600,21995,6541,Talasgücü Belediyespor,Yeşilyurt Belediyespor,1,4,0,2
+1448615,1771149600,24605,7418,Türk Metal 1963,Osmaniyespor,1,2,0,1
+1448624,1771668000,6504,6341,12 Bingölspor,Kırşehir Belediyespor,0,1,0,0
+1448627,1771668000,7408,22445,Karaköprü Belediyespor,Niğde Belediyesispor,1,1,0,1
+1448620,1771668000,21998,24605,Silifke Belediyespor,Türk Metal 1963,3,2,2,2
+1448623,1771754400,6509,3593,Ağrı 1970,Kahramanmaraşspor,4,1,2,0
+1448625,1771754400,6530,7418,Kilis Belediyespor,Osmaniyespor,1,0,0,0
+1448622,1771754400,6531,20295,Kırıkkale Büyük Anadolu,Mazıdağı Fosfatspor,0,0,0,0
+1448626,1771754400,6541,7398,Yeşilyurt Belediyespor,Diyarbekirspor,1,0,0,0
+1448621,1771754400,26468,21995,Kapadokyaspor,Talasgücü Belediyespor,2,2,0,1
+1448630,1772272800,3593,6541,Kahramanmaraşspor,Yeşilyurt Belediyespor,1,2,0,0
+1448631,1772272800,7418,21998,Osmaniyespor,Silifke Belediyespor,1,1,0,1
+1448629,1772272800,20295,6504,Mazıdağı Fosfatspor,12 Bingölspor,1,1,0,1
+1448633,1772359200,6341,6530,Kırşehir Belediyespor,Kilis Belediyespor,0,0,0,0
+1448632,1772359200,7398,26468,Diyarbekirspor,Kapadokyaspor,0,0,0,0
+1448628,1772359200,21995,6531,Talasgücü Belediyespor,Kırıkkale Büyük Anadolu,1,0,1,0
+1448634,1772359200,22445,6509,Niğde Belediyesispor,Ağrı 1970,2,3,1,1
+1448635,1772359200,24605,7408,Türk Metal 1963,Karaköprü Belediyespor,1,1,0,0
+1448639,1772879400,6341,20295,Kırşehir Belediyespor,Mazıdağı Fosfatspor,0,0,0,0
+1448636,1772879400,6504,21995,12 Bingölspor,Talasgücü Belediyespor,1,1,1,1
+1448642,1772879400,6509,24605,Ağrı 1970,Türk Metal 1963,8,1,2,0
+1448640,1772879400,6531,7398,Kırıkkale Büyük Anadolu,Diyarbekirspor,2,1,0,0
+1448638,1772879400,6541,22445,Yeşilyurt Belediyespor,Niğde Belediyesispor,2,1,1,0
+1448637,1772965800,6530,21998,Kilis Belediyespor,Silifke Belediyespor,0,1,0,0
+1448643,1772965800,7408,7418,Karaköprü Belediyespor,Osmaniyespor,1,3,0,1
+1448641,1772965800,26468,3593,Kapadokyaspor,Kahramanmaraşspor,1,1,0,0
+1448582,1773225000,6504,6509,12 Bingölspor,Ağrı 1970,2,2,1,1
+1448651,1773484200,21995,6341,Talasgücü Belediyespor,Kırşehir Belediyespor,3,2,2,1
+1448649,1773484200,24605,6541,Türk Metal 1963,Yeşilyurt Belediyespor,1,1,0,1
+1448644,1773570600,3593,6531,Kahramanmaraşspor,Kırıkkale Büyük Anadolu,3,1,2,0
+1448648,1773570600,7398,6504,Diyarbekirspor,12 Bingölspor,3,1,0,0
+1448650,1773570600,7418,6509,Osmaniyespor,Ağrı 1970,2,0,1,0
+1448647,1773570600,20295,6530,Mazıdağı Fosfatspor,Kilis Belediyespor,2,2,1,1
+1448646,1773570600,21998,7408,Silifke Belediyespor,Karaköprü Belediyespor,0,1,0,1
+1448645,1773570600,22445,26468,Niğde Belediyesispor,Kapadokyaspor,3,1,1,0
+1448652,1774342800,6509,21998,Ağrı 1970,Silifke Belediyespor,3,1,2,1
+1448659,1774350000,6530,7408,Kilis Belediyespor,Karaköprü Belediyespor,2,0,0,0
+1448655,1774350000,6541,7418,Yeşilyurt Belediyespor,Osmaniyespor,3,2,2,1
+1448658,1774350000,26468,24605,Kapadokyaspor,Türk Metal 1963,1,3,1,3
+1448653,1774436400,6341,7398,Kırşehir Belediyespor,Diyarbekirspor,1,1,1,0
+1448656,1774436400,6504,3593,12 Bingölspor,Kahramanmaraşspor,1,1,0,1
+1448657,1774436400,6531,22445,Kırıkkale Büyük Anadolu,Niğde Belediyesispor,1,0,0,0
+1448654,1774436400,20295,21995,Mazıdağı Fosfatspor,Talasgücü Belediyespor,2,0,1,0
+1448662,1774695600,7408,6509,Karaköprü Belediyespor,Ağrı 1970,2,1,1,0
+1448663,1774695600,7418,26468,Osmaniyespor,Kapadokyaspor,3,3,0,1
+1448667,1774695600,21998,6541,Silifke Belediyespor,Yeşilyurt Belediyespor,3,2,1,1
+1448664,1774782000,3593,6341,Kahramanmaraşspor,Kırşehir Belediyespor,1,0,0,0
+1448665,1774782000,7398,20295,Diyarbekirspor,Mazıdağı Fosfatspor,0,1,0,1
+1448666,1774782000,21995,6530,Talasgücü Belediyespor,Kilis Belediyespor,1,0,0,0
+1448660,1774782000,22445,6504,Niğde Belediyesispor,12 Bingölspor,0,1,0,1
+1448661,1774782000,24605,6531,Türk Metal 1963,Kırıkkale Büyük Anadolu,1,2,0,1
+1448673,1775386800,6341,22445,Kırşehir Belediyespor,Niğde Belediyesispor,2,4,1,0
+1448669,1775386800,6504,24605,12 Bingölspor,Türk Metal 1963,4,0,3,0
+1448670,1775386800,6530,6509,Kilis Belediyespor,Ağrı 1970,2,4,1,2
+1448675,1775386800,6531,7418,Kırıkkale Büyük Anadolu,Osmaniyespor,3,1,2,0
+1448668,1775386800,6541,7408,Yeşilyurt Belediyespor,Karaköprü Belediyespor,6,2,3,1
+1448671,1775386800,20295,3593,Mazıdağı Fosfatspor,Kahramanmaraşspor,0,2,0,0
+1448672,1775386800,21995,7398,Talasgücü Belediyespor,Diyarbekirspor,1,0,1,0
+1448674,1775386800,26468,21998,Kapadokyaspor,Silifke Belediyespor,1,0,0,0
+1448683,1775991600,3593,21995,Kahramanmaraşspor,Talasgücü Belediyespor,1,4,1,1
+1448681,1775991600,6509,6541,Ağrı 1970,Yeşilyurt Belediyespor,0,1,0,1
+1448676,1775991600,6530,7398,Kilis Belediyespor,Diyarbekirspor,0,4,0,2
+1448679,1775991600,7408,26468,Karaköprü Belediyespor,Kapadokyaspor,2,1,1,1
+1448677,1775991600,7418,6504,Osmaniyespor,12 Bingölspor,1,2,0,1
+1448678,1775991600,21998,6531,Silifke Belediyespor,Kırıkkale Büyük Anadolu,6,0,1,0
+1448680,1775991600,22445,20295,Niğde Belediyesispor,Mazıdağı Fosfatspor,0,1,0,1
+1448682,1775991600,24605,6341,Türk Metal 1963,Kırşehir Belediyespor,0,5,0,3
+1448691,1776510000,6341,7418,Kırşehir Belediyespor,Osmaniyespor,0,2,0,1
+1448687,1776510000,6504,21998,12 Bingölspor,Silifke Belediyespor,1,1,0,1
+1448684,1776510000,6531,7408,Kırıkkale Büyük Anadolu,Karaköprü Belediyespor,3,2,1,2
+1448685,1776510000,6541,6530,Yeşilyurt Belediyespor,Kilis Belediyespor,2,0,1,0
+1448688,1776510000,7398,3593,Diyarbekirspor,Kahramanmaraşspor,2,2,1,1
+1448689,1776510000,21995,22445,Talasgücü Belediyespor,Niğde Belediyesispor,3,2,1,2
+1448686,1776510000,26468,6509,Kapadokyaspor,Ağrı 1970,2,3,0,2

@@ -94,38 +94,57 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-09,15:30,1571614,Bulgaria - Second League,Fratria - Sportist Svoge,bomba scor,CS_0_0,0.095,0.095,,12.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-09,22:30,1632060,Paraguay - Division Profesional - Clausura,Sportivo Luqueno - 2 de Mayo,value,GG,0.5409,0.5818,0.5,2.0,Betfair,3.0,0.0818,2.0,0.0,pierdut,-1.0
 2026-11-09,22:05,1649427,Jamaica - Premier League,Chapelton - Racing United,bomba scor,CS_2_3,0.0523,0.0523,,23.0,Betfair,3.0,,,,pierdut,-1.0
-2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,value,O25HT,0.366,0.4203,0.3118,3.0,Betfair,3.0,0.0981,,,,
-2026-11-10,14:00,1628312,Algeria - Ligue 2,JS Jijel - CR Béni Thour,value,GG,0.3947,0.4125,0.377,2.63,Betfair,3.0,0.0382,,,,
-2026-11-10,17:30,1602548,Romania - Liga II,Metalul Buzău - CSA Steaua Bucureşti,value,H15,0.5193,0.5465,0.492,2.0,Betfair,3.0,0.0385,,,,
-2026-11-10,17:45,1638332,World - UEFA Champions League Women,Real Madrid W - Paris FC W,value,A15,0.3178,0.3499,0.2856,3.25,Betfair,3.0,0.0327,,,,
-2026-11-10,19:45,1596505,England - Non League Premier - Northern,Rylands - Guiseley AFC,value,O15HT,0.4367,0.4962,0.3772,2.4,Betfair,3.0,0.048,,,,
-2026-11-10,20:00,1638328,World - UEFA Champions League Women,Paris Saint Germain W - Bayern Munich W,value,O15HT,0.462,0.5152,0.4087,2.25,Betfair,3.0,0.0394,,,,
-2026-11-10,13:00,1619186,England - Professional Development League,Hull City U21 - Fleetwood Town U21,sigur,O15,0.8695,0.8696,0.8694,1.05,Betfair,3.0,,,,,
-2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,sigur,O15,0.9355,0.9355,,1.02,Betfair,3.0,,,,,
-2026-11-10,19:00,1588861,England - EFL Trophy,Huddersfield - Liverpool U21,sigur,O15,0.883,0.8831,0.883,,,,,,,,
-2026-11-10,19:45,1596992,England - Non League Premier - Southern Central,Anstey Nomads - Kettering Town,sigur,O15,0.8408,0.8799,0.8016,,,,,,,,
-2026-11-10,19:45,1597455,England - Non League Premier - Southern South,Chertsey Town - Chichester City,sigur,O15,0.865,0.873,0.857,,,,,,,,
-2026-11-10,19:45,1595993,England - Non League Premier - Isthmian,Cray Wanderers - Three Bridges,sigur,O15,0.8754,0.8999,0.8509,,,,,,,,
-2026-11-10,19:45,1596051,England - Non League Premier - Isthmian,Enfield Town - Lewes,sigur,O15,0.8498,0.8498,0.8499,,,,,,,,
-2026-11-10,19:45,1597457,England - Non League Premier - Southern South,Gloucester City - Malvern Town,sigur,O15,0.8511,0.8688,0.8333,,,,,,,,
-2026-11-10,19:45,1588396,England - National League - South,Salisbury - Braintree,sigur,O15,0.8955,0.9265,0.8645,,,,,,,,
-2026-11-10,20:00,1638328,World - UEFA Champions League Women,Paris Saint Germain W - Bayern Munich W,sigur,O15,0.8448,0.8935,0.7961,1.17,Betfair,3.0,,,,,
-2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba HT/FT,HTFT_1_1,0.2381,0.2381,0.1832,5.0,Betfair,3.0,,,,,
-2026-11-10,13:00,1619186,England - Professional Development League,Hull City U21 - Fleetwood Town U21,bomba HT/FT,HTFT_2_2,0.1841,0.1841,0.1539,5.5,Betfair,3.0,,,,,
-2026-11-10,19:45,1596055,England - Non League Premier - Isthmian,Whitehawk - Welling United,bomba scor,CS_2_1,0.0702,0.0702,,15.0,Betfair,3.0,,,,,
-2026-11-10,19:45,1596071,England - Non League Premier - Isthmian,Eastbourne Borough - Dulwich Hamlet,bomba scor,CS_0_0,0.0695,0.0695,,15.0,Betfair,3.0,,,,,
-2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_3_1,0.0594,0.0594,,17.0,Betfair,3.0,,,,,
-2026-11-10,17:45,1638332,World - UEFA Champions League Women,Real Madrid W - Paris FC W,sigur,O15,0.8307,0.8565,0.8197,1.13,Betfair,3.0,,,,,
-2026-11-10,19:45,1596515,England - Non League Premier - Northern,Redcar Athletic - Bamber Bridge,sigur,O15,0.8333,0.8304,0.8345,,,,,,,,
-2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,sigur,O15,0.8293,0.8506,0.8201,,,,,,,,
-2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_4_1,0.037,0.037,,31.0,Betfair,3.0,,,,,
-2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,value,O15HT,0.5186,0.5715,0.496,2.2,Betfair,3.0,0.141,,,,
-2026-11-10,19:45,1596517,England - Non League Premier - Northern,Workington - Alfreton Town,bomba scor,CS_1_0,0.1329,0.1329,,10.0,Betfair,3.0,,,,,
-2026-11-10,19:30,1649432,Uruguay - Copa Uruguay,Boston River - Atletico Torque,value,O15HT,0.3146,0.302,0.32,3.3,Betfair,3.0,0.0382,,,,
-2026-11-10,19:00,1588850,England - EFL Trophy,Grimsby - Nottingham Forest U21,sigur,O15,0.8737,0.8313,0.8919,1.01,Betfair,3.0,,,,,
-2026-11-10,19:00,1588870,England - EFL Trophy,Leicester - Walsall,sigur,O15,0.8769,0.8432,0.8914,1.02,Betfair,3.0,,,,,
-2026-11-10,19:00,1588873,England - EFL Trophy,Stevenage - Fulham U21,sigur,O15,0.8681,0.8569,0.8729,1.05,Betfair,3.0,,,,,
-2026-11-10,19:30,1588909,England - EFL Trophy,Crawley Town - Brentford U21,sigur,O15,0.8645,0.8333,0.8778,1.06,Betfair,3.0,,,,,
-2026-11-10,19:45,1588883,England - EFL Trophy,Colchester - Ipswich Town U21,sigur,O15,0.8807,0.881,0.8806,1.06,Betfair,3.0,,,,,
-2026-11-10,20:00,1638291,World - UEFA Champions League Women,Roma W - Servette Chênois W,sigur,O15,0.8713,0.8496,0.8806,1.06,Betfair,3.0,,,,,
-2026-11-10,19:00,1644382,Spain - Copa del Rey,Trival Valderas - Leganes,bomba HT/FT,HTFT_2_X,0.032,0.032,0.0297,46.0,Betfair,3.0,,,,,
+2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,value,O25HT,0.366,0.4203,0.3118,3.0,Betfair,3.0,0.0981,2.88,0.0417,iesit,2.0
+2026-11-10,14:00,1628312,Algeria - Ligue 2,JS Jijel - CR Béni Thour,value,GG,0.3947,0.4125,0.377,2.63,Betfair,3.0,0.0382,2.75,-0.0436,iesit,1.63
+2026-11-10,17:30,1602548,Romania - Liga II,Metalul Buzău - CSA Steaua Bucureşti,value,H15,0.5193,0.5465,0.492,2.0,Betfair,3.0,0.0385,2.0,0.0,iesit,1.0
+2026-11-10,17:45,1638332,World - UEFA Champions League Women,Real Madrid W - Paris FC W,value,A15,0.3178,0.3499,0.2856,3.25,Betfair,3.0,0.0327,3.25,0.0,pierdut,-1.0
+2026-11-10,19:45,1596505,England - Non League Premier - Northern,Rylands - Guiseley AFC,value,O15HT,0.4367,0.4962,0.3772,2.4,Betfair,3.0,0.048,2.4,0.0,pierdut,-1.0
+2026-11-10,20:00,1638328,World - UEFA Champions League Women,Paris Saint Germain W - Bayern Munich W,value,O15HT,0.462,0.5152,0.4087,2.25,Betfair,3.0,0.0394,2.1,0.0714,iesit,1.25
+2026-11-10,13:00,1619186,England - Professional Development League,Hull City U21 - Fleetwood Town U21,sigur,O15,0.8695,0.8696,0.8694,1.05,Betfair,3.0,,,,iesit,0.05
+2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,sigur,O15,0.9355,0.9355,,1.02,Betfair,3.0,,,,iesit,0.02
+2026-11-10,19:00,1588861,England - EFL Trophy,Huddersfield - Liverpool U21,sigur,O15,0.883,0.8831,0.883,,,,,,,iesit,
+2026-11-10,19:45,1596992,England - Non League Premier - Southern Central,Anstey Nomads - Kettering Town,sigur,O15,0.8408,0.8799,0.8016,,,,,,,pierdut,
+2026-11-10,19:45,1597455,England - Non League Premier - Southern South,Chertsey Town - Chichester City,sigur,O15,0.865,0.873,0.857,,,,,,,iesit,
+2026-11-10,19:45,1595993,England - Non League Premier - Isthmian,Cray Wanderers - Three Bridges,sigur,O15,0.8754,0.8999,0.8509,,,,,,,iesit,
+2026-11-10,19:45,1596051,England - Non League Premier - Isthmian,Enfield Town - Lewes,sigur,O15,0.8498,0.8498,0.8499,,,,,,,iesit,
+2026-11-10,19:45,1597457,England - Non League Premier - Southern South,Gloucester City - Malvern Town,sigur,O15,0.8511,0.8688,0.8333,,,,,,,iesit,
+2026-11-10,19:45,1588396,England - National League - South,Salisbury - Braintree,sigur,O15,0.8955,0.9265,0.8645,,,,,,,iesit,
+2026-11-10,20:00,1638328,World - UEFA Champions League Women,Paris Saint Germain W - Bayern Munich W,sigur,O15,0.8448,0.8935,0.7961,1.17,Betfair,3.0,,,,iesit,0.17
+2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba HT/FT,HTFT_1_1,0.2381,0.2381,0.1832,5.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,13:00,1619186,England - Professional Development League,Hull City U21 - Fleetwood Town U21,bomba HT/FT,HTFT_2_2,0.1841,0.1841,0.1539,5.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,19:45,1596055,England - Non League Premier - Isthmian,Whitehawk - Welling United,bomba scor,CS_2_1,0.0702,0.0702,,15.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,19:45,1596071,England - Non League Premier - Isthmian,Eastbourne Borough - Dulwich Hamlet,bomba scor,CS_0_0,0.0695,0.0695,,15.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_3_1,0.0594,0.0594,,17.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,17:45,1638332,World - UEFA Champions League Women,Real Madrid W - Paris FC W,sigur,O15,0.8307,0.8565,0.8197,1.13,Betfair,3.0,,,,iesit,0.13
+2026-11-10,19:45,1596515,England - Non League Premier - Northern,Redcar Athletic - Bamber Bridge,sigur,O15,0.8333,0.8304,0.8345,,,,,,,iesit,
+2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,sigur,O15,0.8293,0.8506,0.8201,,,,,,,iesit,
+2026-11-10,14:00,1619188,England - Professional Development League,Colchester United U21 - Charlton Athletic U21,bomba scor,CS_4_1,0.037,0.037,,31.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,19:45,1596996,England - Non League Premier - Southern Central,Leiston - Real Bedford,value,O15HT,0.5186,0.5715,0.496,2.2,Betfair,3.0,0.141,1.8,0.2222,pierdut,-1.0
+2026-11-10,19:45,1596517,England - Non League Premier - Northern,Workington - Alfreton Town,bomba scor,CS_1_0,0.1329,0.1329,,10.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,19:30,1649432,Uruguay - Copa Uruguay,Boston River - Atletico Torque,value,O15HT,0.3146,0.302,0.32,3.3,Betfair,3.0,0.0382,3.0,0.1,iesit,2.3
+2026-11-10,19:00,1588850,England - EFL Trophy,Grimsby - Nottingham Forest U21,sigur,O15,0.8737,0.8313,0.8919,1.01,Betfair,3.0,,,,iesit,0.01
+2026-11-10,19:00,1588870,England - EFL Trophy,Leicester - Walsall,sigur,O15,0.8769,0.8432,0.8914,1.02,Betfair,3.0,,,,iesit,0.02
+2026-11-10,19:00,1588873,England - EFL Trophy,Stevenage - Fulham U21,sigur,O15,0.8681,0.8569,0.8729,1.05,Betfair,3.0,,,,iesit,0.05
+2026-11-10,19:30,1588909,England - EFL Trophy,Crawley Town - Brentford U21,sigur,O15,0.8645,0.8333,0.8778,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-10,19:45,1588883,England - EFL Trophy,Colchester - Ipswich Town U21,sigur,O15,0.8807,0.881,0.8806,1.06,Betfair,3.0,,,,pierdut,-1.0
+2026-11-10,20:00,1638291,World - UEFA Champions League Women,Roma W - Servette Chênois W,sigur,O15,0.8713,0.8496,0.8806,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-10,19:00,1644382,Spain - Copa del Rey,Trival Valderas - Leganes,bomba HT/FT,HTFT_2_X,0.032,0.032,0.0297,46.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,11:00,1635786,World - UEFA U19 Championship - Qualification,Croatia U19 - Hungary U19,value,O35,0.3581,0.3852,0.3464,2.88,Betfair,3.0,0.0312,,,,
+2026-11-11,15:45,1635809,World - UEFA U19 Championship - Qualification,Kazakhstan U19 - Scotland U19,value,O35,0.3631,0.4452,0.3278,2.88,Betfair,3.0,0.0456,,,,
+2026-11-11,21:30,1600656,El-Salvador - Primera Division,Fuerte San Francisco - Alianza,value,O15HT,0.3604,0.4104,0.339,2.88,Betfair,3.0,0.038,,,,
+2026-11-11,10:00,1635770,World - UEFA U19 Championship - Qualification,Georgia U19 - Denmark U19,sigur,O15,0.8184,0.8437,0.8076,1.14,Betfair,3.0,,,,,
+2026-11-11,11:15,1635757,World - UEFA U19 Championship - Qualification,Belgium U19 - Kosovo U19,sigur,O15,0.8297,0.7706,0.855,1.08,Betfair,3.0,,,,,
+2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,sigur,O15,0.8566,0.8105,0.8764,1.06,Betfair,3.0,,,,,
+2026-11-11,14:00,1635824,World - UEFA U19 Championship - Qualification,Switzerland U19 - Malta U19,sigur,O15,0.9242,0.9242,,,,,,,,,
+2026-11-11,15:00,1635819,World - UEFA U19 Championship - Qualification,Spain U19 - Iceland U19,sigur,O15,0.9085,0.9504,0.8906,1.06,Betfair,3.0,,,,,
+2026-11-11,15:30,1635760,World - UEFA U19 Championship - Qualification,Bosnia-Herzegovina U19 - San Marino U19,sigur,O15,0.8477,0.8262,0.857,1.07,Betfair,3.0,,,,,
+2026-11-11,16:00,1635813,World - UEFA U19 Championship - Qualification,Serbia U19 - Faroe Islands U19,sigur,O15,0.8492,0.8608,0.8443,1.08,Betfair,3.0,,,,,
+2026-11-11,19:00,1623285,World - Premier League International Cup,Sunderland U21 - Paris Saint-Germain U21,sigur,O15,0.8578,0.851,0.8607,,,,,,,,
+2026-11-11,19:45,1596507,England - Non League Premier - Northern,Avro - Whitby Town,sigur,O15,0.8675,0.9564,0.8294,,,,,,,,
+2026-11-11,20:00,1638311,World - UEFA Champions League Women,Juventus W - Lyon W,sigur,O15,0.8827,0.8562,0.894,1.05,Betfair,3.0,,,,,
+2026-11-11,16:30,1649444,Lithuania - 1 Lyga,Babrungas - Minija,bomba HT/FT,HTFT_1_1,0.2272,0.2272,0.1965,4.5,Betfair,3.0,,,,,
+2026-11-11,15:00,1647175,Slovakia - Cup,Podbrezová - Zlaté Moravce,bomba HT/FT,HTFT_X_X,0.1128,0.1128,0.0973,9.5,Betfair,3.0,,,,,
+2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,bomba HT/FT,HTFT_2_X,0.0308,0.0308,0.0285,36.0,Betfair,3.0,,,,,
+2026-11-11,18:30,1572696,Spain - Segunda División RFEF - Group 3,Alcoyano - Elche II,bomba scor,CS_1_0,0.1868,0.1868,,6.0,Betfair,3.0,,,,,
+2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba scor,CS_1_0,0.1415,0.1415,,15.0,Betfair,3.0,,,,,
+2026-11-11,13:30,1579841,Belgium - First Amateur Division,Onhaye - Habay-la-Neuve,bomba scor,CS_1_0,0.1206,0.1206,,9.5,Betfair,3.0,,,,,

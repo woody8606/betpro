@@ -1,0 +1,241 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1448219,1757246400,3587,7422,Etimesgut SK,Silivrispor,2,1,1,0
+1448223,1757246400,24600,24602,1926 Polatlı Belediye,Nilüfer Belediye,0,1,0,0
+1448221,1757253600,6517,26466,Bursa Yıldırımspor,Kestel Çilek,2,1,1,0
+1448222,1757253600,21996,7428,İnegöl Kafkas Gençlik,Çankaya FK,0,0,0,0
+1448225,1757253600,22451,19301,Çorluspor 1947,Kartal Bulvarspor,0,3,0,0
+1448218,1757253600,26465,6519,Galata,Edirnespor,5,0,2,0
+1448220,1757253600,26467,21994,İnkılapspor,Küçükçekmece Sinopspor,1,3,1,2
+1448224,1757340000,24603,24957,Beykoz İshaklıspor,Yalova Yeşilovaspor,3,4,2,1
+1448228,1757772000,7422,22451,Silivrispor,Çorluspor 1947,0,1,0,0
+1448232,1757772000,21994,24603,Küçükçekmece Sinopspor,Beykoz İshaklıspor,1,1,0,0
+1448226,1757772000,24957,26465,Yalova Yeşilovaspor,Galata,1,2,1,1
+1448230,1757772000,26466,24600,Kestel Çilek,1926 Polatlı Belediye,1,0,0,0
+1448229,1757779200,7428,6517,Çankaya FK,Bursa Yıldırımspor,2,2,1,1
+1448231,1757858400,6519,21996,Edirnespor,İnegöl Kafkas Gençlik,2,3,2,1
+1448233,1757858400,19301,26467,Kartal Bulvarspor,İnkılapspor,1,1,1,0
+1448227,1757858400,24602,3587,Nilüfer Belediye,Etimesgut SK,0,2,0,1
+1448236,1758373200,24603,19301,Beykoz İshaklıspor,Kartal Bulvarspor,4,0,2,0
+1448237,1758452400,3587,24600,Etimesgut SK,1926 Polatlı Belediye,0,1,0,1
+1448239,1758459600,6517,6519,Bursa Yıldırımspor,Edirnespor,3,1,1,1
+1448240,1758459600,21996,24957,İnegöl Kafkas Gençlik,Yalova Yeşilovaspor,1,3,0,2
+1448234,1758459600,22451,24602,Çorluspor 1947,Nilüfer Belediye,2,1,1,0
+1448238,1758459600,26465,21994,Galata,Küçükçekmece Sinopspor,1,0,0,0
+1448241,1758459600,26467,7422,İnkılapspor,Silivrispor,0,2,0,0
+1448235,1758470400,7428,26466,Çankaya FK,Kestel Çilek,3,1,2,1
+1448247,1758976200,24600,22451,1926 Polatlı Belediye,Çorluspor 1947,0,1,0,1
+1448243,1758978000,21994,21996,Küçükçekmece Sinopspor,İnegöl Kafkas Gençlik,0,0,0,0
+1448245,1758978000,24602,26467,Nilüfer Belediye,İnkılapspor,1,0,0,0
+1448248,1758978000,26466,3587,Kestel Çilek,Etimesgut SK,0,2,0,1
+1448249,1759064400,6519,7428,Edirnespor,Çankaya FK,0,1,0,0
+1448246,1759064400,7422,24603,Silivrispor,Beykoz İshaklıspor,0,1,0,0
+1448242,1759064400,19301,26465,Kartal Bulvarspor,Galata,1,0,1,0
+1448244,1759064400,24957,6517,Yalova Yeşilovaspor,Bursa Yıldırımspor,0,0,0,0
+1448256,1759581000,26465,7422,Galata,Silivrispor,2,2,0,1
+1448255,1759581000,26467,24600,İnkılapspor,1926 Polatlı Belediye,2,0,1,0
+1448252,1759582800,6517,21994,Bursa Yıldırımspor,Küçükçekmece Sinopspor,1,0,1,0
+1448250,1759582800,24603,24602,Beykoz İshaklıspor,Nilüfer Belediye,3,2,0,1
+1448253,1759665600,7428,24957,Çankaya FK,Yalova Yeşilovaspor,0,1,0,1
+1448251,1759667400,6519,26466,Edirnespor,Kestel Çilek,1,2,1,1
+1448257,1759667400,22451,3587,Çorluspor 1947,Etimesgut SK,0,0,0,0
+1448254,1759669200,21996,19301,İnegöl Kafkas Gençlik,Kartal Bulvarspor,2,1,2,1
+1448259,1760184000,3587,26467,Etimesgut SK,İnkılapspor,1,0,0,0
+1448264,1760184000,24600,24603,1926 Polatlı Belediye,Beykoz İshaklıspor,0,1,0,1
+1448263,1760185800,26466,22451,Kestel Çilek,Çorluspor 1947,1,2,1,0
+1448262,1760272200,7422,21996,Silivrispor,İnegöl Kafkas Gençlik,1,0,0,0
+1448260,1760272200,21994,7428,Küçükçekmece Sinopspor,Çankaya FK,2,2,0,0
+1448265,1760272200,24602,26465,Nilüfer Belediye,Galata,1,1,1,0
+1448261,1760272200,24957,6519,Yalova Yeşilovaspor,Edirnespor,2,1,2,1
+1448258,1760274000,19301,6517,Kartal Bulvarspor,Bursa Yıldırımspor,0,1,0,1
+1448268,1760788800,7428,19301,Çankaya FK,Kartal Bulvarspor,2,1,1,0
+1448270,1760788800,21996,24602,İnegöl Kafkas Gençlik,Nilüfer Belediye,2,2,0,0
+1448267,1760788800,24957,26466,Yalova Yeşilovaspor,Kestel Çilek,0,1,0,1
+1448271,1760788800,26465,24600,Galata,1926 Polatlı Belediye,2,0,2,0
+1448272,1760875200,6517,7422,Bursa Yıldırımspor,Silivrispor,2,4,1,2
+1448266,1760875200,6519,21994,Edirnespor,Küçükçekmece Sinopspor,1,3,0,1
+1448269,1760875200,24603,3587,Beykoz İshaklıspor,Etimesgut SK,0,0,0,0
+1448273,1760875200,26467,22451,İnkılapspor,Çorluspor 1947,0,6,0,3
+1448277,1761391800,3587,26465,Etimesgut SK,Galata,1,2,0,0
+1448281,1761393600,7422,7428,Silivrispor,Çankaya FK,2,1,1,0
+1448279,1761393600,19301,6519,Kartal Bulvarspor,Edirnespor,1,0,0,0
+1448276,1761393600,21994,24957,Küçükçekmece Sinopspor,Yalova Yeşilovaspor,1,0,1,0
+1448275,1761393600,22451,24603,Çorluspor 1947,Beykoz İshaklıspor,1,1,0,1
+1448280,1761393600,24602,6517,Nilüfer Belediye,Bursa Yıldırımspor,0,1,0,0
+1448274,1761478200,24600,21996,1926 Polatlı Belediye,İnegöl Kafkas Gençlik,1,4,0,1
+1448278,1761480000,26466,26467,Kestel Çilek,İnkılapspor,1,2,1,2
+1448289,1761998400,6519,7422,Edirnespor,Silivrispor,3,1,2,1
+1448285,1762084800,6517,24600,Bursa Yıldırımspor,1926 Polatlı Belediye,0,1,0,0
+1448288,1762084800,7428,24602,Çankaya FK,Nilüfer Belediye,2,1,1,0
+1448283,1762084800,21994,26466,Küçükçekmece Sinopspor,Kestel Çilek,2,0,0,0
+1448284,1762084800,21996,3587,İnegöl Kafkas Gençlik,Etimesgut SK,0,1,0,0
+1448287,1762084800,24603,26467,Beykoz İshaklıspor,İnkılapspor,1,1,0,0
+1448286,1762084800,24957,19301,Yalova Yeşilovaspor,Kartal Bulvarspor,4,1,0,1
+1448282,1762084800,26465,22451,Galata,Çorluspor 1947,0,2,0,2
+1448290,1762603200,26467,26465,İnkılapspor,Galata,0,0,0,0
+1448297,1762682400,3587,6517,Etimesgut SK,Bursa Yıldırımspor,0,0,0,0
+1448296,1762682400,24600,7428,1926 Polatlı Belediye,Çankaya FK,2,1,0,0
+1448295,1762689600,7422,24957,Silivrispor,Yalova Yeşilovaspor,2,2,1,1
+1448291,1762689600,19301,21994,Kartal Bulvarspor,Küçükçekmece Sinopspor,2,3,1,1
+1448292,1762689600,22451,21996,Çorluspor 1947,İnegöl Kafkas Gençlik,1,2,0,1
+1448294,1762689600,24602,6519,Nilüfer Belediye,Edirnespor,0,0,0,0
+1448293,1762689600,26466,24603,Kestel Çilek,Beykoz İshaklıspor,2,3,1,0
+1448298,1764417600,7428,3587,Çankaya FK,Etimesgut SK,0,1,0,1
+1448300,1764417600,19301,26466,Kartal Bulvarspor,Kestel Çilek,2,1,1,1
+1448305,1764417600,21994,7422,Küçükçekmece Sinopspor,Silivrispor,2,1,0,0
+1448302,1764417600,21996,26467,İnegöl Kafkas Gençlik,İnkılapspor,1,1,0,0
+1448304,1764417600,24957,24602,Yalova Yeşilovaspor,Nilüfer Belediye,3,0,1,0
+1448299,1764417600,26465,24603,Galata,Beykoz İshaklıspor,3,0,0,0
+1448303,1764504000,6517,22451,Bursa Yıldırımspor,Çorluspor 1947,2,1,1,1
+1448301,1764504000,6519,24600,Edirnespor,1926 Polatlı Belediye,1,0,0,0
+1448309,1765015200,3587,6519,Etimesgut SK,Edirnespor,3,0,0,0
+1448312,1765022400,24603,21996,Beykoz İshaklıspor,İnegöl Kafkas Gençlik,0,3,0,1
+1448311,1765022400,26466,26465,Kestel Çilek,Galata,0,2,0,0
+1448308,1765022400,26467,6517,İnkılapspor,Bursa Yıldırımspor,0,0,0,0
+1448310,1765101600,24600,24957,1926 Polatlı Belediye,Yalova Yeşilovaspor,3,2,0,0
+1448307,1765108800,7422,19301,Silivrispor,Kartal Bulvarspor,2,4,1,2
+1448306,1765108800,22451,7428,Çorluspor 1947,Çankaya FK,1,1,0,0
+1448313,1765108800,24602,21994,Nilüfer Belediye,Küçükçekmece Sinopspor,0,2,0,0
+1448317,1765533600,7428,26467,Çankaya FK,İnkılapspor,1,1,0,1
+1448318,1765540800,6517,24603,Bursa Yıldırımspor,Beykoz İshaklıspor,3,2,1,1
+1448320,1765540800,6519,22451,Edirnespor,Çorluspor 1947,0,5,0,2
+1448321,1765540800,21996,26465,İnegöl Kafkas Gençlik,Galata,4,0,2,0
+1448315,1765540800,24957,3587,Yalova Yeşilovaspor,Etimesgut SK,0,1,0,0
+1448314,1765620000,19301,24602,Kartal Bulvarspor,Nilüfer Belediye,1,0,1,0
+1448316,1765627200,7422,26466,Silivrispor,Kestel Çilek,0,0,0,0
+1448319,1765627200,21994,24600,Küçükçekmece Sinopspor,1926 Polatlı Belediye,1,1,0,1
+1448328,1765886400,22451,24957,Çorluspor 1947,Yalova Yeşilovaspor,0,0,0,0
+1448322,1765886400,24603,7428,Beykoz İshaklıspor,Çankaya FK,0,0,0,0
+1448327,1765886400,26465,6517,Galata,Bursa Yıldırımspor,0,1,0,0
+1448326,1765886400,26467,6519,İnkılapspor,Edirnespor,2,0,1,0
+1448324,1765965600,3587,21994,Etimesgut SK,Küçükçekmece Sinopspor,2,0,1,0
+1448329,1765965600,24600,19301,1926 Polatlı Belediye,Kartal Bulvarspor,1,1,1,1
+1448325,1765972800,21996,26466,İnegöl Kafkas Gençlik,Kestel Çilek,2,0,1,0
+1448323,1765972800,24602,7422,Nilüfer Belediye,Silivrispor,0,0,0,0
+1448332,1766224800,7428,26465,Çankaya FK,Galata,0,2,0,1
+1448335,1766232000,24957,26467,Yalova Yeşilovaspor,İnkılapspor,0,0,0,0
+1448333,1766311200,19301,3587,Kartal Bulvarspor,Etimesgut SK,2,2,1,0
+1448336,1766318400,6519,24603,Edirnespor,Beykoz İshaklıspor,1,2,1,1
+1448334,1766318400,7422,24600,Silivrispor,1926 Polatlı Belediye,1,0,1,0
+1448330,1766318400,21994,22451,Küçükçekmece Sinopspor,Çorluspor 1947,4,0,3,0
+1448331,1766318400,26466,24602,Kestel Çilek,Nilüfer Belediye,2,1,1,1
+1448337,1766404800,6517,21996,Bursa Yıldırımspor,İnegöl Kafkas Gençlik,0,1,0,0
+1448342,1768046400,24602,24600,Nilüfer Belediye,1926 Polatlı Belediye,2,1,1,0
+1448339,1768046400,24957,24603,Yalova Yeşilovaspor,Beykoz İshaklıspor,2,2,2,2
+1448341,1768046400,26466,6517,Kestel Çilek,Bursa Yıldırımspor,0,0,0,0
+1448345,1768125600,7428,21996,Çankaya FK,İnegöl Kafkas Gençlik,1,2,0,1
+1448343,1768125600,19301,22451,Kartal Bulvarspor,Çorluspor 1947,0,2,0,0
+1448340,1768132800,6519,26465,Edirnespor,Galata,1,1,1,0
+1448338,1768132800,7422,3587,Silivrispor,Etimesgut SK,2,1,1,1
+1448344,1768132800,21994,26467,Küçükçekmece Sinopspor,İnkılapspor,1,2,1,1
+1448349,1768644000,24600,26466,1926 Polatlı Belediye,Kestel Çilek,0,2,0,1
+1448346,1768651200,21996,6519,İnegöl Kafkas Gençlik,Edirnespor,1,0,0,0
+1448350,1768651200,22451,7422,Çorluspor 1947,Silivrispor,2,1,2,0
+1448353,1768651200,24603,21994,Beykoz İshaklıspor,Küçükçekmece Sinopspor,0,1,0,0
+1448347,1768651200,26467,19301,İnkılapspor,Kartal Bulvarspor,0,0,0,0
+1448348,1768730400,3587,24602,Etimesgut SK,Nilüfer Belediye,3,1,2,1
+1448352,1768737600,6517,7428,Bursa Yıldırımspor,Çankaya FK,1,1,0,1
+1448351,1768737600,26465,24957,Galata,Yalova Yeşilovaspor,0,1,0,1
+1448354,1769248800,19301,24603,Kartal Bulvarspor,Beykoz İshaklıspor,2,0,2,0
+1448358,1769256000,6519,6517,Edirnespor,Bursa Yıldırımspor,1,3,0,2
+1448359,1769256000,21994,26465,Küçükçekmece Sinopspor,Galata,4,2,1,1
+1448360,1769335200,24600,3587,1926 Polatlı Belediye,Etimesgut SK,0,1,0,1
+1448357,1769342400,7422,26467,Silivrispor,İnkılapspor,2,0,1,0
+1448356,1769342400,24602,22451,Nilüfer Belediye,Çorluspor 1947,0,4,0,3
+1448355,1769342400,24957,21996,Yalova Yeşilovaspor,İnegöl Kafkas Gençlik,1,1,0,0
+1448361,1769342400,26466,7428,Kestel Çilek,Çankaya FK,1,0,1,0
+1448364,1769853600,3587,26466,Etimesgut SK,Kestel Çilek,1,1,1,1
+1448365,1769853600,7428,6519,Çankaya FK,Edirnespor,5,0,3,0
+1448366,1769860800,6517,24957,Bursa Yıldırımspor,Yalova Yeşilovaspor,2,1,1,0
+1448368,1769860800,21996,21994,İnegöl Kafkas Gençlik,Küçükçekmece Sinopspor,2,1,0,0
+1448369,1769860800,26465,19301,Galata,Kartal Bulvarspor,1,1,0,1
+1448367,1769947200,22451,24600,Çorluspor 1947,1926 Polatlı Belediye,4,0,2,0
+1448363,1769947200,24603,7422,Beykoz İshaklıspor,Silivrispor,1,1,0,1
+1448362,1769947200,26467,24602,İnkılapspor,Nilüfer Belediye,1,1,1,0
+1448375,1770552000,3587,22451,Etimesgut SK,Çorluspor 1947,2,2,1,0
+1448377,1770552000,21994,6517,Küçükçekmece Sinopspor,Bursa Yıldırımspor,3,2,2,1
+1448370,1770552000,24957,7428,Yalova Yeşilovaspor,Çankaya FK,2,0,0,0
+1448372,1770552000,26466,6519,Kestel Çilek,Edirnespor,0,0,0,0
+1448376,1770631200,19301,21996,Kartal Bulvarspor,İnegöl Kafkas Gençlik,1,4,0,1
+1448374,1770638400,7422,26465,Silivrispor,Galata,1,0,0,0
+1448373,1770638400,24600,26467,1926 Polatlı Belediye,İnkılapspor,1,1,1,0
+1448371,1770638400,24602,24603,Nilüfer Belediye,Beykoz İshaklıspor,3,0,0,0
+1448378,1771063200,24603,24600,Beykoz İshaklıspor,1926 Polatlı Belediye,3,0,1,0
+1448383,1771070400,6517,19301,Bursa Yıldırımspor,Kartal Bulvarspor,1,0,0,0
+1448385,1771156800,6519,24957,Edirnespor,Yalova Yeşilovaspor,1,1,1,1
+1448381,1771156800,7428,21994,Çankaya FK,Küçükçekmece Sinopspor,0,2,0,0
+1448384,1771156800,21996,7422,İnegöl Kafkas Gençlik,Silivrispor,2,1,2,0
+1448380,1771156800,22451,26466,Çorluspor 1947,Kestel Çilek,1,0,1,0
+1448379,1771156800,26465,24602,Galata,Nilüfer Belediye,0,1,0,1
+1448382,1771156800,26467,3587,İnkılapspor,Etimesgut SK,0,0,0,0
+1448387,1771675200,3587,24603,Etimesgut SK,Beykoz İshaklıspor,0,0,0,0
+1448388,1771675200,7422,6517,Silivrispor,Bursa Yıldırımspor,1,2,1,0
+1448392,1771675200,21994,6519,Küçükçekmece Sinopspor,Edirnespor,4,3,2,3
+1448391,1771675200,24602,21996,Nilüfer Belediye,İnegöl Kafkas Gençlik,1,1,0,1
+1448393,1771754400,19301,7428,Kartal Bulvarspor,Çankaya FK,1,1,0,1
+1448386,1771761600,22451,26467,Çorluspor 1947,İnkılapspor,1,1,1,0
+1448390,1771761600,24600,26465,1926 Polatlı Belediye,Galata,2,1,2,1
+1448389,1771761600,26466,24957,Kestel Çilek,Yalova Yeşilovaspor,2,3,1,1
+1448394,1772280000,7428,7422,Çankaya FK,Silivrispor,1,3,0,2
+1448397,1772280000,24957,21994,Yalova Yeşilovaspor,Küçükçekmece Sinopspor,0,0,0,0
+1448399,1772280000,26465,3587,Galata,Etimesgut SK,3,1,2,0
+1448396,1772280000,26467,26466,İnkılapspor,Kestel Çilek,0,0,0,0
+1448401,1772359200,24603,22451,Beykoz İshaklıspor,Çorluspor 1947,0,0,0,0
+1448395,1772366400,6517,24602,Bursa Yıldırımspor,Nilüfer Belediye,2,2,1,2
+1448400,1772366400,6519,19301,Edirnespor,Kartal Bulvarspor,0,1,0,1
+1448398,1772366400,21996,24600,İnegöl Kafkas Gençlik,1926 Polatlı Belediye,0,0,0,0
+1448402,1772879400,19301,24957,Kartal Bulvarspor,Yalova Yeşilovaspor,2,2,1,1
+1448407,1772886600,22451,26465,Çorluspor 1947,Galata,2,0,1,0
+1448405,1772886600,26466,21994,Kestel Çilek,Küçükçekmece Sinopspor,2,1,0,0
+1448408,1772886600,26467,24603,İnkılapspor,Beykoz İshaklıspor,2,2,1,1
+1448406,1772971200,3587,21996,Etimesgut SK,İnegöl Kafkas Gençlik,0,0,0,0
+1448404,1772973000,7422,6519,Silivrispor,Edirnespor,5,1,2,0
+1448409,1772973000,24600,6517,1926 Polatlı Belediye,Bursa Yıldırımspor,3,3,1,2
+1448403,1772973000,24602,7428,Nilüfer Belediye,Çankaya FK,2,1,1,0
+1448416,1773484200,24603,26466,Beykoz İshaklıspor,Kestel Çilek,0,0,0,0
+1448417,1773491400,6517,3587,Bursa Yıldırımspor,Etimesgut SK,1,1,1,0
+1448413,1773491400,6519,24602,Edirnespor,Nilüfer Belediye,0,0,0,0
+1448414,1773491400,21996,22451,İnegöl Kafkas Gençlik,Çorluspor 1947,3,2,2,1
+1448410,1773491400,26465,26467,Galata,İnkılapspor,0,1,0,1
+1448415,1773577800,7428,24600,Çankaya FK,1926 Polatlı Belediye,0,0,0,0
+1448412,1773577800,21994,19301,Küçükçekmece Sinopspor,Kartal Bulvarspor,3,0,2,0
+1448411,1773577800,24957,7422,Yalova Yeşilovaspor,Silivrispor,0,0,0,0
+1448421,1774357200,7422,21994,Silivrispor,Küçükçekmece Sinopspor,1,0,0,0
+1448425,1774357200,24600,6519,1926 Polatlı Belediye,Edirnespor,0,0,0,0
+1448424,1774357200,24602,24957,Nilüfer Belediye,Yalova Yeşilovaspor,3,2,1,0
+1448422,1774357200,26466,19301,Kestel Çilek,Kartal Bulvarspor,1,2,0,1
+1448419,1774436400,24603,26465,Beykoz İshaklıspor,Galata,1,1,1,0
+1448418,1774443600,3587,7428,Etimesgut SK,Çankaya FK,1,3,1,0
+1448420,1774443600,22451,6517,Çorluspor 1947,Bursa Yıldırımspor,1,0,0,0
+1448423,1774443600,26467,21996,İnkılapspor,İnegöl Kafkas Gençlik,3,1,2,1
+1448428,1774695600,19301,7422,Kartal Bulvarspor,Silivrispor,2,2,2,0
+1448432,1774702800,21994,24602,Küçükçekmece Sinopspor,Nilüfer Belediye,3,0,0,0
+1448427,1774702800,24957,24600,Yalova Yeşilovaspor,1926 Polatlı Belediye,1,2,0,1
+1448433,1774789200,6517,26467,Bursa Yıldırımspor,İnkılapspor,2,0,0,0
+1448429,1774789200,6519,3587,Edirnespor,Etimesgut SK,1,3,0,2
+1448426,1774789200,7428,22451,Çankaya FK,Çorluspor 1947,1,4,0,1
+1448430,1774789200,21996,24603,İnegöl Kafkas Gençlik,Beykoz İshaklıspor,1,0,0,0
+1448431,1774789200,26465,26466,Galata,Kestel Çilek,2,1,0,0
+1448439,1775394000,3587,24957,Etimesgut SK,Yalova Yeşilovaspor,2,0,1,0
+1448437,1775394000,22451,6519,Çorluspor 1947,Edirnespor,6,0,4,0
+1448438,1775394000,24600,21994,1926 Polatlı Belediye,Küçükçekmece Sinopspor,1,4,0,1
+1448441,1775394000,24602,19301,Nilüfer Belediye,Kartal Bulvarspor,2,1,1,0
+1448434,1775394000,24603,6517,Beykoz İshaklıspor,Bursa Yıldırımspor,1,0,1,0
+1448440,1775394000,26465,21996,Galata,İnegöl Kafkas Gençlik,0,1,0,0
+1448435,1775394000,26466,7422,Kestel Çilek,Silivrispor,2,0,2,0
+1448436,1775394000,26467,7428,İnkılapspor,Çankaya FK,0,5,0,3
+1448446,1775998800,6517,26465,Bursa Yıldırımspor,Galata,0,0,0,0
+1448444,1775998800,6519,26467,Edirnespor,İnkılapspor,2,0,1,0
+1448448,1775998800,7422,24602,Silivrispor,Nilüfer Belediye,1,2,0,0
+1448443,1775998800,7428,24603,Çankaya FK,Beykoz İshaklıspor,0,0,0,0
+1448442,1775998800,19301,24600,Kartal Bulvarspor,1926 Polatlı Belediye,1,4,0,2
+1448449,1775998800,21994,3587,Küçükçekmece Sinopspor,Etimesgut SK,3,1,1,1
+1448445,1775998800,24957,22451,Yalova Yeşilovaspor,Çorluspor 1947,0,2,0,1
+1448447,1775998800,26466,21996,Kestel Çilek,İnegöl Kafkas Gençlik,1,2,0,0
+1448453,1776517200,3587,19301,Etimesgut SK,Kartal Bulvarspor,1,0,1,0
+1448457,1776517200,21996,6517,İnegöl Kafkas Gençlik,Bursa Yıldırımspor,3,1,0,1
+1448451,1776517200,22451,21994,Çorluspor 1947,Küçükçekmece Sinopspor,1,0,0,0
+1448454,1776517200,24600,7422,1926 Polatlı Belediye,Silivrispor,0,2,0,1
+1448455,1776517200,24602,26466,Nilüfer Belediye,Kestel Çilek,3,1,0,1
+1448450,1776517200,24603,6519,Beykoz İshaklıspor,Edirnespor,2,1,1,1
+1448452,1776517200,26465,7428,Galata,Çankaya FK,1,3,0,2
+1448456,1776517200,26467,24957,İnkılapspor,Yalova Yeşilovaspor,1,0,1,0

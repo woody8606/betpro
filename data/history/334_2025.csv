@@ -1,0 +1,239 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1400416,1754038800,21957,6495,UCSA,Podillya Khmelnytskyi,1,0,1,0
+1400418,1754046000,13223,3631,Viktoriya Mykolaivka,Prykarpattia,0,2,0,2
+1400415,1754053200,3620,17162,Ahrobiznes Volochysk,Livyi Bereh,2,0,2,0
+1400414,1754128800,3625,6486,Inhulets,Bukovyna,0,0,0,0
+1400411,1754135100,1121,14441,Vorskla Poltava,Yarud Mariupol',2,1,0,1
+1400413,1754218800,24568,14433,Probiy Horodenka,Chernihiv,1,0,1,0
+1400426,1754654400,1121,21957,Vorskla Poltava,UCSA,3,0,2,0
+1400420,1754731800,14433,13223,Chernihiv,Viktoriya Mykolaivka,1,2,1,2
+1400421,1754740800,6486,3620,Bukovyna,Ahrobiznes Volochysk,0,0,0,0
+1400422,1754748000,17162,24568,Livyi Bereh,Probiy Horodenka,3,1,0,1
+1400419,1754816400,14437,3625,Metal Kharkiv,Inhulets,1,2,1,1
+1400423,1754822700,6495,3615,Podillya Khmelnytskyi,Chornomorets,0,2,0,1
+1400424,1754829000,6493,5627,Nyva Ternopil,Metalurh Zaporizhya,1,0,0,0
+1400425,1754910000,14441,3631,Yarud Mariupol',Prykarpattia,0,2,0,2
+1400432,1755252000,13223,17162,Viktoriya Mykolaivka,Livyi Bereh,1,2,1,1
+1400433,1755261000,24568,6486,Probiy Horodenka,Bukovyna,3,4,1,2
+1400431,1755338400,5627,6495,Metalurh Zaporizhya,Podillya Khmelnytskyi,1,1,1,1
+1400429,1755345600,3620,14437,Ahrobiznes Volochysk,Metal Kharkiv,1,0,1,0
+1400430,1755352800,3615,1121,Chornomorets,Vorskla Poltava,0,0,0,0
+1400427,1755421200,3631,14433,Prykarpattia,Chernihiv,0,3,0,1
+1400428,1755428400,21957,14441,UCSA,Yarud Mariupol',0,0,0,0
+1400434,1755435600,3625,6493,Inhulets,Nyva Ternopil,2,2,1,1
+1400436,1756461600,21957,3615,UCSA,Chornomorets,0,1,0,1
+1400435,1756470600,17162,3631,Livyi Bereh,Prykarpattia,2,1,1,0
+1400439,1756544400,6486,13223,Bukovyna,Viktoriya Mykolaivka,2,0,0,0
+1400438,1756551600,1121,5627,Vorskla Poltava,Metalurh Zaporizhya,0,1,0,0
+1400442,1756558800,14437,24568,Metal Kharkiv,Probiy Horodenka,1,1,0,1
+1400437,1756630800,14441,14433,Yarud Mariupol',Chernihiv,1,0,1,0
+1400441,1756639800,6495,3625,Podillya Khmelnytskyi,Inhulets,1,5,0,1
+1400440,1756648800,6493,3620,Nyva Ternopil,Ahrobiznes Volochysk,0,0,0,0
+1400444,1757068200,3631,6486,Prykarpattia,Bukovyna,1,2,0,1
+1400449,1757077200,24568,6493,Probiy Horodenka,Nyva Ternopil,1,2,0,2
+1400445,1757149200,13223,14437,Viktoriya Mykolaivka,Metal Kharkiv,1,0,1,0
+1400447,1757163600,3620,6495,Ahrobiznes Volochysk,Podillya Khmelnytskyi,2,1,0,0
+1400443,1757235600,5627,21957,Metalurh Zaporizhya,UCSA,0,3,0,0
+1400450,1757242800,3625,1121,Inhulets,Vorskla Poltava,3,0,3,0
+1400448,1757250000,3615,14441,Chornomorets,Yarud Mariupol',2,0,0,0
+1400453,1757595600,14441,17162,Yarud Mariupol',Livyi Bereh,1,0,0,0
+1400455,1757671200,6495,24568,Podillya Khmelnytskyi,Probiy Horodenka,1,1,0,1
+1400451,1757678400,6486,14433,Bukovyna,Chernihiv,4,1,1,0
+1400458,1757754000,14437,3631,Metal Kharkiv,Prykarpattia,2,2,1,0
+1400452,1757761200,6493,13223,Nyva Ternopil,Viktoriya Mykolaivka,2,1,2,0
+1400456,1757768400,3615,5627,Chornomorets,Metalurh Zaporizhya,3,0,0,0
+1400457,1757844000,1121,3620,Vorskla Poltava,Ahrobiznes Volochysk,0,0,0,0
+1400454,1757851200,21957,3625,UCSA,Inhulets,0,0,0,0
+1400463,1758276000,3620,21957,Ahrobiznes Volochysk,UCSA,1,0,0,0
+1400462,1758360600,3625,3615,Inhulets,Chornomorets,2,3,1,1
+1400460,1758367800,24568,1121,Probiy Horodenka,Vorskla Poltava,0,2,0,0
+1400466,1758445200,13223,6495,Viktoriya Mykolaivka,Podillya Khmelnytskyi,0,0,0,0
+1400461,1758448800,5627,14441,Metalurh Zaporizhya,Yarud Mariupol',1,1,1,1
+1400459,1758538800,3631,6493,Prykarpattia,Nyva Ternopil,1,1,1,1
+1400464,1758546000,17162,6486,Livyi Bereh,Bukovyna,1,3,0,2
+1400417,1758790800,5627,14437,Metalurh Zaporizhya,Metal Kharkiv,1,3,1,2
+1400469,1758963600,21957,24568,UCSA,Probiy Horodenka,0,0,0,0
+1400474,1758970800,1121,13223,Vorskla Poltava,Viktoriya Mykolaivka,1,1,1,1
+1400468,1759059000,6493,14433,Nyva Ternopil,Chernihiv,2,0,1,0
+1400467,1759066200,3615,3620,Chornomorets,Ahrobiznes Volochysk,1,0,0,0
+1400470,1759140000,14437,17162,Metal Kharkiv,Livyi Bereh,0,1,0,0
+1400472,1759142700,5627,3625,Metalurh Zaporizhya,Inhulets,0,0,0,0
+1400471,1759149000,14441,6486,Yarud Mariupol',Bukovyna,2,3,1,2
+1400475,1759482000,3631,1121,Prykarpattia,Vorskla Poltava,1,0,0,0
+1400477,1759489200,3625,14441,Inhulets,Yarud Mariupol',2,0,0,0
+1400476,1759566600,14433,6495,Chernihiv,Podillya Khmelnytskyi,1,1,1,1
+1400482,1759570200,3620,5627,Ahrobiznes Volochysk,Metalurh Zaporizhya,3,0,1,0
+1400481,1759572000,24568,3615,Probiy Horodenka,Chornomorets,0,2,0,1
+1400478,1759573800,6486,14437,Bukovyna,Metal Kharkiv,2,0,1,0
+1400480,1759581000,17162,6493,Livyi Bereh,Nyva Ternopil,0,0,0,0
+1400479,1759654800,13223,21957,Viktoriya Mykolaivka,UCSA,2,0,1,0
+1400483,1759914000,1121,14433,Vorskla Poltava,Chernihiv,0,1,0,0
+1400489,1759917600,3625,3620,Inhulets,Ahrobiznes Volochysk,3,2,2,1
+1400490,1759921200,5627,24568,Metalurh Zaporizhya,Probiy Horodenka,0,1,0,0
+1400487,1759924800,6495,17162,Podillya Khmelnytskyi,Livyi Bereh,0,2,0,0
+1400485,1759928400,6493,6486,Nyva Ternopil,Bukovyna,1,2,0,1
+1400488,1760000400,21957,3631,UCSA,Prykarpattia,3,1,1,0
+1400486,1760004900,14441,14437,Yarud Mariupol',Metal Kharkiv,0,1,0,1
+1400484,1760009400,3615,13223,Chornomorets,Viktoriya Mykolaivka,0,0,0,0
+1400496,1760263200,6486,6495,Bukovyna,Podillya Khmelnytskyi,2,0,1,0
+1400497,1760270400,24568,3625,Probiy Horodenka,Inhulets,0,1,0,1
+1400495,1760347800,14433,21957,Chernihiv,UCSA,2,0,1,0
+1400494,1760351400,3631,3615,Prykarpattia,Chornomorets,1,1,0,1
+1400492,1760354100,17162,1121,Livyi Bereh,Vorskla Poltava,2,0,1,0
+1400498,1760357700,14437,6493,Metal Kharkiv,Nyva Ternopil,1,2,0,0
+1400493,1760432400,13223,5627,Viktoriya Mykolaivka,Metalurh Zaporizhya,3,0,0,0
+1400491,1760439600,3620,14441,Ahrobiznes Volochysk,Yarud Mariupol',1,0,1,0
+1400501,1760778000,1121,6486,Vorskla Poltava,Bukovyna,0,2,0,0
+1400502,1760785200,6495,14437,Podillya Khmelnytskyi,Metal Kharkiv,0,2,0,1
+1400505,1760862600,5627,3631,Metalurh Zaporizhya,Prykarpattia,0,3,0,3
+1400503,1760866200,3620,24568,Ahrobiznes Volochysk,Probiy Horodenka,0,3,0,2
+1400504,1760869800,3625,13223,Inhulets,Viktoriya Mykolaivka,4,2,1,1
+1400499,1760873400,14441,6493,Yarud Mariupol',Nyva Ternopil,0,2,0,1
+1400500,1760877000,3615,14433,Chornomorets,Chernihiv,1,0,1,0
+1400506,1760958000,21957,17162,UCSA,Livyi Bereh,0,1,0,0
+1400509,1761303600,6486,21957,Bukovyna,UCSA,4,1,2,0
+1400511,1761312600,6493,6495,Nyva Ternopil,Podillya Khmelnytskyi,0,1,0,0
+1400507,1761382800,13223,3620,Viktoriya Mykolaivka,Ahrobiznes Volochysk,1,2,0,1
+1400512,1761386400,3631,3625,Prykarpattia,Inhulets,0,2,0,1
+1400514,1761390000,24568,14441,Probiy Horodenka,Yarud Mariupol',0,0,0,0
+1400513,1761476400,14437,1121,Metal Kharkiv,Vorskla Poltava,1,1,1,0
+1400508,1761480000,17162,3615,Livyi Bereh,Chornomorets,1,1,1,1
+1400517,1761991200,5627,17162,Metalurh Zaporizhya,Livyi Bereh,0,5,0,3
+1400522,1761994800,21957,14437,UCSA,Metal Kharkiv,2,1,2,1
+1400520,1762077600,24568,13223,Probiy Horodenka,Viktoriya Mykolaivka,3,2,1,1
+1400516,1762084800,3625,14433,Inhulets,Chernihiv,1,1,1,1
+1400521,1762088400,1121,6493,Vorskla Poltava,Nyva Ternopil,2,0,1,0
+1400518,1762092000,3615,6486,Chornomorets,Bukovyna,1,2,0,2
+1400515,1762171200,3620,3631,Ahrobiznes Volochysk,Prykarpattia,3,1,1,1
+1400519,1762254000,14441,6495,Yarud Mariupol',Podillya Khmelnytskyi,0,1,0,1
+1400523,1762516800,17162,3625,Livyi Bereh,Inhulets,1,0,0,0
+1400527,1762592400,13223,14441,Viktoriya Mykolaivka,Yarud Mariupol',1,2,1,0
+1400529,1762594200,14433,3620,Chernihiv,Ahrobiznes Volochysk,0,2,0,0
+1400530,1762599600,14437,3615,Metal Kharkiv,Chornomorets,1,1,1,0
+1400526,1762603200,6486,5627,Bukovyna,Metalurh Zaporizhya,3,0,1,0
+1400525,1762682400,6495,1121,Podillya Khmelnytskyi,Vorskla Poltava,1,1,0,0
+1400528,1762686000,3631,24568,Prykarpattia,Probiy Horodenka,1,0,0,0
+1400524,1762689600,6493,21957,Nyva Ternopil,UCSA,1,4,1,1
+1400446,1762945200,17162,14433,Livyi Bereh,Chernihiv,1,1,1,1
+1400537,1763200800,6495,21957,Podillya Khmelnytskyi,UCSA,1,2,1,1
+1400535,1763204400,14437,5627,Metal Kharkiv,Metalurh Zaporizhya,1,0,0,0
+1400534,1763206200,6486,3625,Bukovyna,Inhulets,1,1,1,0
+1400538,1763289000,3631,13223,Prykarpattia,Viktoriya Mykolaivka,1,1,0,0
+1400533,1763292600,14441,1121,Yarud Mariupol',Vorskla Poltava,2,0,0,0
+1400532,1763296200,6493,3615,Nyva Ternopil,Chornomorets,0,1,0,1
+1400531,1763377200,17162,3620,Livyi Bereh,Ahrobiznes Volochysk,4,1,2,0
+1400541,1763807400,3625,14437,Inhulets,Metal Kharkiv,3,0,2,0
+1400542,1763810100,21957,1121,UCSA,Vorskla Poltava,1,1,0,0
+1400544,1763812800,3615,6495,Chornomorets,Podillya Khmelnytskyi,4,1,1,0
+1400540,1763890200,13223,14433,Viktoriya Mykolaivka,Chernihiv,3,0,1,0
+1400546,1763892900,3620,6486,Ahrobiznes Volochysk,Bukovyna,0,3,0,1
+1400539,1763895600,24568,17162,Probiy Horodenka,Livyi Bereh,0,2,0,1
+1400543,1763899200,3631,14441,Prykarpattia,Yarud Mariupol',3,0,1,0
+1400554,1764327600,17162,13223,Livyi Bereh,Viktoriya Mykolaivka,3,0,1,0
+1400547,1764406800,14433,3631,Chernihiv,Prykarpattia,1,0,1,0
+1400548,1764410400,6495,5627,Podillya Khmelnytskyi,Metalurh Zaporizhya,3,0,2,0
+1400550,1764414000,6486,24568,Bukovyna,Probiy Horodenka,3,1,1,0
+1400553,1764417600,1121,3615,Vorskla Poltava,Chornomorets,3,0,2,0
+1400549,1764493200,14441,21957,Yarud Mariupol',UCSA,1,1,0,0
+1400551,1764500400,14437,3620,Metal Kharkiv,Ahrobiznes Volochysk,0,1,0,1
+1400552,1764505800,6493,3625,Nyva Ternopil,Inhulets,0,1,0,0
+1400545,1765101600,5627,6493,Metalurh Zaporizhya,Nyva Ternopil,2,2,0,0
+1400536,1765272600,14433,24568,Chernihiv,Probiy Horodenka,3,0,2,0
+1400510,1765789200,14433,5627,Chernihiv,Metalurh Zaporizhya,1,1,0,1
+1400556,1774000800,13223,6486,Viktoriya Mykolaivka,Bukovyna,1,3,0,1
+1400555,1774008000,3620,6493,Ahrobiznes Volochysk,Nyva Ternopil,0,0,0,0
+1400561,1774083600,14433,14441,Chernihiv,Yarud Mariupol',1,4,1,2
+1400562,1774095300,3631,17162,Prykarpattia,Livyi Bereh,0,0,0,0
+1400557,1774101600,3615,21957,Chornomorets,UCSA,1,0,0,0
+1400559,1774170000,5627,1121,Metalurh Zaporizhya,Vorskla Poltava,2,0,0,0
+1400558,1774177200,3625,6495,Inhulets,Podillya Khmelnytskyi,0,3,0,1
+1400560,1774184400,24568,14437,Probiy Horodenka,Metal Kharkiv,1,2,0,0
+1400568,1774692000,21957,5627,UCSA,Metalurh Zaporizhya,1,3,0,0
+1400570,1774695600,14437,13223,Metal Kharkiv,Viktoriya Mykolaivka,2,1,0,0
+1400569,1774699200,6495,3620,Podillya Khmelnytskyi,Ahrobiznes Volochysk,0,1,0,1
+1400565,1774702800,14441,3615,Yarud Mariupol',Chornomorets,1,1,0,1
+1400563,1774774800,14433,17162,Chernihiv,Livyi Bereh,4,0,2,0
+1400564,1774778400,1121,3625,Vorskla Poltava,Inhulets,2,0,2,0
+1400566,1774783800,6486,3631,Bukovyna,Prykarpattia,3,1,1,0
+1400567,1774789200,6493,24568,Nyva Ternopil,Probiy Horodenka,0,0,0,0
+1400573,1775206800,14433,6486,Chernihiv,Bukovyna,0,1,0,0
+1400578,1775208600,13223,6493,Viktoriya Mykolaivka,Nyva Ternopil,1,0,0,0
+1400574,1775210400,5627,3615,Metalurh Zaporizhya,Chornomorets,0,1,0,1
+1400576,1775214000,3631,14437,Prykarpattia,Metal Kharkiv,0,0,0,0
+1400572,1775217600,24568,6495,Probiy Horodenka,Podillya Khmelnytskyi,3,0,1,0
+1400577,1775223900,17162,14441,Livyi Bereh,Yarud Mariupol',3,1,1,0
+1400575,1775296800,3625,21957,Inhulets,UCSA,0,2,0,2
+1400571,1775304000,3620,1121,Ahrobiznes Volochysk,Vorskla Poltava,2,0,2,0
+1400580,1775552400,6495,13223,Podillya Khmelnytskyi,Viktoriya Mykolaivka,1,2,1,1
+1400579,1775559600,14437,14433,Metal Kharkiv,Chernihiv,2,1,1,0
+1400582,1775572200,6493,3631,Nyva Ternopil,Prykarpattia,1,1,1,1
+1400581,1775638800,21957,3620,UCSA,Ahrobiznes Volochysk,2,1,2,0
+1400584,1775644200,14441,5627,Yarud Mariupol',Metalurh Zaporizhya,2,1,1,1
+1400585,1775646900,1121,24568,Vorskla Poltava,Probiy Horodenka,0,2,0,1
+1400586,1775649600,6486,17162,Bukovyna,Livyi Bereh,2,1,0,1
+1400583,1775656800,3615,3625,Chornomorets,Inhulets,2,0,0,0
+1400588,1775898000,14433,6493,Chernihiv,Nyva Ternopil,1,0,1,0
+1400587,1775907000,3631,6495,Prykarpattia,Podillya Khmelnytskyi,1,1,0,1
+1400589,1775980800,13223,1121,Viktoriya Mykolaivka,Vorskla Poltava,1,0,1,0
+1400592,1775988000,3625,5627,Inhulets,Metalurh Zaporizhya,0,0,0,0
+1400591,1775991600,6486,14441,Bukovyna,Yarud Mariupol',2,1,1,0
+1400593,1775995200,24568,21957,Probiy Horodenka,UCSA,1,0,0,0
+1400594,1775998800,3620,3615,Ahrobiznes Volochysk,Chornomorets,1,2,0,1
+1400590,1776081600,17162,14437,Livyi Bereh,Metal Kharkiv,3,0,3,0
+1400600,1776423600,14437,6486,Metal Kharkiv,Bukovyna,1,2,0,2
+1400602,1776502800,1121,3631,Vorskla Poltava,Prykarpattia,0,1,0,0
+1400601,1776508200,6495,14433,Podillya Khmelnytskyi,Chernihiv,0,0,0,0
+1400596,1776513600,6493,17162,Nyva Ternopil,Livyi Bereh,0,0,0,0
+1400599,1776519000,3615,24568,Chornomorets,Probiy Horodenka,1,0,0,0
+1400597,1776585600,5627,3620,Metalurh Zaporizhya,Ahrobiznes Volochysk,1,6,1,4
+1400598,1776592800,21957,13223,UCSA,Viktoriya Mykolaivka,1,1,1,0
+1400595,1776600000,14441,3625,Yarud Mariupol',Inhulets,1,1,0,0
+1414238,1777035600,17162,6495,Livyi Bereh,Podillya Khmelnytskyi,1,0,1,0
+1400608,1777107600,3631,21957,Prykarpattia,UCSA,1,2,1,2
+1400604,1777113000,24568,5627,Probiy Horodenka,Metalurh Zaporizhya,3,1,2,1
+1400609,1777118400,14437,14441,Metal Kharkiv,Yarud Mariupol',1,1,0,0
+1400603,1777190400,14433,1121,Chernihiv,Vorskla Poltava,1,2,0,2
+1400606,1777194000,13223,3615,Viktoriya Mykolaivka,Chornomorets,4,0,1,0
+1400605,1777199400,3620,3625,Ahrobiznes Volochysk,Inhulets,1,0,0,0
+1400607,1777204800,6486,6493,Bukovyna,Nyva Ternopil,1,0,0,0
+1400614,1777636800,14441,3620,Yarud Mariupol',Ahrobiznes Volochysk,4,0,2,0
+1400611,1777717800,6495,6486,Podillya Khmelnytskyi,Bukovyna,0,2,0,0
+1400617,1777723200,21957,14433,UCSA,Chernihiv,0,2,0,1
+1400615,1777728600,6493,14437,Nyva Ternopil,Metal Kharkiv,2,0,1,0
+1400613,1777802400,1121,17162,Vorskla Poltava,Livyi Bereh,0,1,0,0
+1400616,1777802400,3625,24568,Inhulets,Probiy Horodenka,3,1,0,1
+1400612,1777809600,3615,3631,Chornomorets,Prykarpattia,3,0,1,0
+1400610,1777881600,5627,13223,Metalurh Zaporizhya,Viktoriya Mykolaivka,0,3,0,2
+1400625,1778245200,17162,21957,Livyi Bereh,UCSA,3,1,0,1
+1400621,1778317200,14433,3615,Chernihiv,Chornomorets,2,2,1,1
+1400624,1778320800,6486,1121,Bukovyna,Vorskla Poltava,6,0,2,0
+1400623,1778326200,14437,6495,Metal Kharkiv,Podillya Khmelnytskyi,3,0,0,0
+1400622,1778333400,6493,14441,Nyva Ternopil,Yarud Mariupol',0,3,0,0
+1400619,1778400000,13223,3625,Viktoriya Mykolaivka,Inhulets,2,2,0,0
+1400620,1778407200,3631,5627,Prykarpattia,Metalurh Zaporizhya,0,1,0,0
+1400618,1778414400,24568,3620,Probiy Horodenka,Ahrobiznes Volochysk,1,0,0,0
+1400628,1778846400,21957,6486,UCSA,Bukovyna,0,5,0,3
+1400633,1778923800,3620,13223,Ahrobiznes Volochysk,Viktoriya Mykolaivka,1,0,0,0
+1400627,1778929200,3625,3631,Inhulets,Prykarpattia,0,0,0,0
+1400629,1778938200,3615,17162,Chornomorets,Livyi Bereh,0,0,0,0
+1400626,1779008400,1121,14437,Vorskla Poltava,Metal Kharkiv,1,1,1,1
+1400632,1779015600,6495,6493,Podillya Khmelnytskyi,Nyva Ternopil,1,2,0,0
+1400631,1779022800,14441,24568,Yarud Mariupol',Probiy Horodenka,0,0,0,0
+1400635,1779444000,17162,5627,Livyi Bereh,Metalurh Zaporizhya,4,0,4,0
+1400638,1779523200,13223,24568,Viktoriya Mykolaivka,Probiy Horodenka,0,1,0,1
+1400634,1779530400,3631,3620,Prykarpattia,Ahrobiznes Volochysk,1,1,0,1
+1400640,1779530400,6486,3615,Bukovyna,Chornomorets,1,3,1,1
+1400641,1779530400,6493,1121,Nyva Ternopil,Vorskla Poltava,1,1,1,0
+1400637,1779530400,6495,14441,Podillya Khmelnytskyi,Yarud Mariupol',0,0,0,0
+1400639,1779530400,14433,3625,Chernihiv,Inhulets,1,2,0,2
+1400636,1779530400,14437,21957,Metal Kharkiv,UCSA,2,0,1,0
+1400465,1779786000,14433,14437,Chernihiv,Metal Kharkiv,1,2,1,0
+1400630,1780045200,5627,14433,Metalurh Zaporizhya,Chernihiv,0,0,0,0
+1400643,1780135200,1121,6495,Vorskla Poltava,Podillya Khmelnytskyi,1,1,0,0
+1400644,1780308000,3615,14437,Chornomorets,Metal Kharkiv,1,0,0,0
+1400645,1780308000,3620,14433,Ahrobiznes Volochysk,Chernihiv,1,0,1,0
+1400646,1780308000,3625,17162,Inhulets,Livyi Bereh,1,3,0,1
+1400642,1780308000,14441,13223,Yarud Mariupol',Viktoriya Mykolaivka,2,0,2,0
+1400648,1780308000,21957,6493,UCSA,Nyva Ternopil,3,0,2,0
+1400649,1780308000,24568,3631,Probiy Horodenka,Prykarpattia,0,3,0,2
+1400647,1780394400,5627,6486,Metalurh Zaporizhya,Bukovyna,0,4,0,2

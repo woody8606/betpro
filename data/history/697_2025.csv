@@ -1,0 +1,41 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1470314,1758736800,1845,1846,Birmingham City W,Bristol City W,2,2,1,0
+1470309,1758736800,1847,1848,Liverpool W,Sunderland W,5,0,3,0
+1470308,1758736800,1854,1855,Manchester City W,Everton W,3,1,1,0
+1470313,1758736800,4899,14219,Tottenham Hotspur W,Aston Villa W,0,0,0,0
+1470311,1758736800,15402,1856,Charlton Athletic W,West Ham W,1,5,0,1
+1470310,1758736800,15403,15407,Durham W,Sheffield United W,1,1,1,1
+1470312,1758736800,15452,1857,Portsmouth W,Brighton W,0,2,0,2
+1470315,1758738600,15409,15406,Crystal Palace W,London City Lionesses W,1,2,1,0
+1470316,1758738600,15422,15404,Ipswich Town W,Leicester City FC W,1,5,1,1
+1470317,1758739500,15450,15515,Nottingham Forest W,Newcastle United W,2,1,0,0
+1470318,1759946400,1856,1857,West Ham W,Brighton W,2,1,1,1
+1470319,1759946400,15454,15452,Southampton W,Portsmouth W,1,0,1,0
+1470320,1760637600,15403,1847,Durham W,Liverpool W,1,2,1,1
+1470324,1760878800,1848,15407,Sunderland W,Sheffield United W,0,1,0,1
+1470323,1760878800,1855,15450,Everton W,Nottingham Forest W,1,1,0,0
+1470325,1760878800,1857,15454,Brighton W,Southampton W,3,0,0,0
+1470326,1760878800,4899,1845,Tottenham Hotspur W,Birmingham City W,3,0,1,0
+1470327,1760878800,15406,15404,London City Lionesses W,Leicester City FC W,0,1,0,1
+1470328,1760878800,15409,15422,Crystal Palace W,Ipswich Town W,3,2,2,1
+1470322,1760878800,15515,1854,Newcastle United W,Manchester City W,3,3,1,1
+1470329,1760882400,1846,14219,Bristol City W,Aston Villa W,0,3,0,2
+1470330,1762974000,1856,15454,West Ham W,Southampton W,5,0,0,0
+1470331,1762974000,1857,15402,Brighton W,Charlton Athletic W,0,1,0,1
+1470338,1763751600,14219,1845,Aston Villa W,Birmingham City W,3,3,0,1
+1470332,1763820000,15450,1854,Nottingham Forest W,Manchester City W,0,2,0,2
+1470333,1763834400,15407,1847,Sheffield United W,Liverpool W,1,4,1,2
+1470335,1763906400,1848,15403,Sunderland W,Durham W,1,1,0,0
+1470339,1763906400,15422,15406,Ipswich Town W,London City Lionesses W,0,2,0,1
+1470336,1763906400,15452,1856,Portsmouth W,West Ham W,2,0,0,0
+1470337,1763906400,15454,15402,Southampton W,Charlton Athletic W,1,2,0,0
+1470334,1763906400,15515,1855,Newcastle United W,Everton W,1,3,0,1
+1470340,1763910000,1846,4899,Bristol City W,Tottenham Hotspur W,0,1,0,0
+1470341,1763910000,15404,15409,Leicester City FC W,Crystal Palace W,0,3,0,2
+1488266,1766322000,1847,1853,Liverpool W,Chelsea W,1,9,0,4
+1488268,1766322000,1856,1854,West Ham W,Manchester City W,1,5,1,3
+1488267,1766322000,4898,4899,Manchester United W,Tottenham Hotspur W,2,1,0,1
+1488265,1766322000,15409,1850,Crystal Palace W,Arsenal W,0,2,0,1
+1495641,1769022000,1850,4898,Arsenal W,Manchester United W,0,1,0,1
+1495642,1769022000,1854,1853,Manchester City W,Chelsea W,0,1,0,1
+1511461,1773584100,1853,4898,Chelsea W,Manchester United W,2,0,1,0

@@ -1,0 +1,91 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1590374,1788701400,13369,7404,Karadeniz Ereğli BSK,Fatsa Belediyespor,1,1,1,0
+1590369,1788701400,19299,7405,Amasyaspor 1968,Gölcükspor,1,0,1,0
+1590370,1788703200,3609,21994,Beykoz Anadolu,Küçükçekmece Sinopspor,0,1,0,0
+1590376,1788703200,7422,24603,Silivrispor,Beykoz İshaklıspor,2,1,1,0
+1590377,1788703200,24957,21035,Yalova Yeşilovaspor,Tokat Bld Plevnespor,0,3,0,0
+1590371,1788703200,26465,7420,Galata,Pazarspor,0,0,0,0
+1590372,1788703200,26467,3611,İnkılapspor,Zonguldak Kömürspor,3,2,1,2
+1590375,1788710400,17261,7399,Orduspor 1967,Düzcespor,2,2,0,1
+1590373,1788710400,20294,19301,Karabük İdman Yurdu,Kartal Bulvarspor,1,5,1,3
+1590381,1789216200,7404,19299,Fatsa Belediyespor,Amasyaspor 1968,1,1,1,0
+1590384,1789216200,7420,26467,Pazarspor,İnkılapspor,4,1,2,0
+1590385,1789216200,21035,17261,Tokat Bld Plevnespor,Orduspor 1967,1,1,0,0
+1590380,1789218000,7399,3609,Düzcespor,Beykoz Anadolu,1,0,0,0
+1590379,1789219800,19301,13369,Kartal Bulvarspor,Karadeniz Ereğli BSK,0,1,0,0
+1590383,1789219800,21994,26465,Küçükçekmece Sinopspor,Galata,1,1,0,0
+1590378,1789219800,24603,24957,Beykoz İshaklıspor,Yalova Yeşilovaspor,1,2,1,1
+1590386,1789306200,3611,20294,Zonguldak Kömürspor,Karabük İdman Yurdu,1,2,0,0
+1590382,1789306200,7405,7422,Gölcükspor,Silivrispor,2,0,1,0
+1590395,1789821000,3611,7420,Zonguldak Kömürspor,Pazarspor,0,2,0,2
+1590393,1789822800,7422,7404,Silivrispor,Fatsa Belediyespor,0,2,0,1
+1590391,1789833600,20294,13369,Karabük İdman Yurdu,Karadeniz Ereğli BSK,0,0,0,0
+1590387,1789905600,19299,19301,Amasyaspor 1968,Kartal Bulvarspor,2,2,0,1
+1590388,1789909200,3609,21035,Beykoz Anadolu,Tokat Bld Plevnespor,2,2,2,0
+1590394,1789909200,24957,7405,Yalova Yeşilovaspor,Gölcükspor,3,3,1,0
+1590389,1789909200,26465,7399,Galata,Düzcespor,1,1,0,0
+1590390,1789909200,26467,21994,İnkılapspor,Küçükçekmece Sinopspor,0,2,0,0
+1590392,1789920000,17261,24603,Orduspor 1967,Beykoz İshaklıspor,3,0,1,0
+1590400,1790427600,7405,17261,Gölcükspor,Orduspor 1967,0,1,0,0
+1590402,1790427600,21994,3611,Küçükçekmece Sinopspor,Zonguldak Kömürspor,1,1,0,1
+1590399,1790510400,7404,24957,Fatsa Belediyespor,Yalova Yeşilovaspor,3,0,3,0
+1590403,1790510400,7420,20294,Pazarspor,Karabük İdman Yurdu,0,1,0,1
+1590404,1790510400,21035,26465,Tokat Bld Plevnespor,Galata,1,3,0,1
+1590398,1790512200,7399,26467,Düzcespor,İnkılapspor,1,1,0,1
+1590401,1790512200,13369,19299,Karadeniz Ereğli BSK,Amasyaspor 1968,1,0,1,0
+1590397,1790514000,19301,7422,Kartal Bulvarspor,Silivrispor,1,0,0,0
+1590396,1790514000,24603,3609,Beykoz İshaklıspor,Beykoz Anadolu,0,0,0,0
+1590410,1791027000,7420,21994,Pazarspor,Küçükçekmece Sinopspor,3,1,1,1
+1590413,1791028800,3611,7399,Zonguldak Kömürspor,Düzcespor,0,0,0,0
+1590405,1791030600,3609,7405,Beykoz Anadolu,Gölcükspor,2,0,1,0
+1590411,1791030600,7422,13369,Silivrispor,Karadeniz Ereğli BSK,0,0,0,0
+1590412,1791030600,24957,19301,Yalova Yeşilovaspor,Kartal Bulvarspor,2,4,1,2
+1590406,1791030600,26465,24603,Galata,Beykoz İshaklıspor,2,0,1,0
+1590407,1791030600,26467,21035,İnkılapspor,Tokat Bld Plevnespor,0,1,0,0
+1590409,1791043200,17261,7404,Orduspor 1967,Fatsa Belediyespor,0,3,0,3
+1590408,1791043200,20294,19299,Karabük İdman Yurdu,Amasyaspor 1968,1,2,1,0
+1590418,1791718200,7404,3609,Fatsa Belediyespor,Beykoz Anadolu,1,0,1,0
+1590414,1791718200,19299,7422,Amasyaspor 1968,Silivrispor,2,1,0,1
+1590422,1791718200,21035,3611,Tokat Bld Plevnespor,Zonguldak Kömürspor,0,1,0,0
+1590417,1791720000,7399,7420,Düzcespor,Pazarspor,1,2,0,1
+1590420,1791720000,13369,24957,Karadeniz Ereğli BSK,Yalova Yeşilovaspor,0,0,0,0
+1590419,1791721800,7405,26465,Gölcükspor,Galata,1,1,0,1
+1590416,1791721800,19301,17261,Kartal Bulvarspor,Orduspor 1967,2,2,1,0
+1590421,1791721800,21994,20294,Küçükçekmece Sinopspor,Karabük İdman Yurdu,0,4,0,1
+1590415,1791721800,24603,26467,Beykoz İshaklıspor,İnkılapspor,2,3,1,2
+1590424,1792238400,26465,7404,Galata,Fatsa Belediyespor,1,2,0,1
+1590425,1792238400,26467,7405,İnkılapspor,Gölcükspor,1,1,1,0
+1590428,1792252800,17261,13369,Orduspor 1967,Karadeniz Ereğli BSK,1,2,1,2
+1590429,1792321200,7420,21035,Pazarspor,Tokat Bld Plevnespor,1,0,0,0
+1590431,1792323000,3611,24603,Zonguldak Kömürspor,Beykoz İshaklıspor,2,1,0,1
+1590423,1792324800,3609,19301,Beykoz Anadolu,Kartal Bulvarspor,1,1,1,1
+1590427,1792324800,21994,7399,Küçükçekmece Sinopspor,Düzcespor,2,1,2,1
+1590430,1792324800,24957,19299,Yalova Yeşilovaspor,Amasyaspor 1968,1,1,1,0
+1590426,1792339200,20294,7422,Karabük İdman Yurdu,Silivrispor,1,0,1,0
+1590432,1792839600,19299,17261,Amasyaspor 1968,Orduspor 1967,0,3,0,1
+1590440,1792839600,21035,21994,Tokat Bld Plevnespor,Küçükçekmece Sinopspor,1,5,1,0
+1590435,1792841400,7399,20294,Düzcespor,Karabük İdman Yurdu,4,1,1,0
+1590438,1792841400,13369,3609,Karadeniz Ereğli BSK,Beykoz Anadolu,1,3,0,0
+1590437,1792843200,7405,3611,Gölcükspor,Zonguldak Kömürspor,2,2,0,1
+1590439,1792843200,7422,24957,Silivrispor,Yalova Yeşilovaspor,2,0,1,0
+1590433,1792843200,24603,7420,Beykoz İshaklıspor,Pazarspor,0,0,0,0
+1590436,1792926000,7404,26467,Fatsa Belediyespor,İnkılapspor,2,1,1,0
+1590434,1792929600,19301,26465,Kartal Bulvarspor,Galata,0,1,0,1
+1590449,1793440800,3611,7404,Zonguldak Kömürspor,Fatsa Belediyespor,2,2,1,2
+1590441,1793449800,3609,19299,Beykoz Anadolu,Amasyaspor 1968,0,0,0,0
+1590444,1793449800,26467,19301,İnkılapspor,Kartal Bulvarspor,3,2,1,1
+1590442,1793527200,7399,21035,Düzcespor,Tokat Bld Plevnespor,1,0,1,0
+1590448,1793527200,7420,7405,Pazarspor,Gölcükspor,2,2,1,1
+1590447,1793527200,17261,7422,Orduspor 1967,Silivrispor,2,4,2,1
+1590445,1793527200,20294,24957,Karabük İdman Yurdu,Yalova Yeşilovaspor,2,3,0,2
+1590446,1793534400,21994,24603,Küçükçekmece Sinopspor,Beykoz İshaklıspor,2,2,1,0
+1590443,1793534400,26465,13369,Galata,Karadeniz Ereğli BSK,1,1,1,0
+1590453,1794045600,7404,7420,Fatsa Belediyespor,Pazarspor,2,0,1,0
+1590455,1794045600,13369,26467,Karadeniz Ereğli BSK,İnkılapspor,1,1,0,1
+1590450,1794045600,19299,26465,Amasyaspor 1968,Galata,2,0,1,0
+1590457,1794045600,21035,20294,Tokat Bld Plevnespor,Karabük İdman Yurdu,0,0,0,0
+1590454,1794052800,7405,21994,Gölcükspor,Küçükçekmece Sinopspor,1,1,0,0
+1590456,1794052800,7422,3609,Silivrispor,Beykoz Anadolu,2,2,2,0
+1590452,1794052800,19301,3611,Kartal Bulvarspor,Zonguldak Kömürspor,2,0,1,0
+1590451,1794052800,24603,7399,Beykoz İshaklıspor,Düzcespor,1,1,0,0
+1590458,1794052800,24957,17261,Yalova Yeşilovaspor,Orduspor 1967,1,1,0,0

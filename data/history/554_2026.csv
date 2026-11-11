@@ -1,0 +1,81 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1590982,1788699600,6509,21995,Ağrı 1970,Talasgücü Belediyespor,0,1,0,0
+1590983,1788699600,6513,21998,Bitlis Özgüzelderespor,Silifke Belediyespor,2,0,0,0
+1590984,1788699600,7398,6541,Diyarbekirspor,Yeşilyurt Belediyespor,0,1,0,1
+1590986,1788699600,7418,27999,Osmaniyespor,Adana Adaletgucu,3,2,0,0
+1590981,1788701400,3564,22445,Adanaspor,Niğde Belediyesispor,0,2,0,2
+1590985,1788701400,6531,7408,Kırıkkale Büyük Anadolu,Karaköprü Belediyespor,1,3,0,2
+1590988,1788710400,6546,20295,Yeni Mersin Idmanyurdu,Mazıdağı Fosfatspor,1,3,0,0
+1590989,1788710400,22448,6341,Yozgat Bld Bozokspor,Kırşehir Belediyespor,0,4,0,0
+1590993,1789216200,6526,6513,Karaman FK,Bitlis Özgüzelderespor,0,3,0,2
+1590991,1789216200,21995,6546,Talasgücü Belediyespor,Yeni Mersin Idmanyurdu,2,1,0,0
+1590990,1789216200,27999,3564,Adana Adaletgucu,Adanaspor,5,1,3,0
+1590995,1789228800,6541,6531,Yeşilyurt Belediyespor,Kırıkkale Büyük Anadolu,3,1,1,0
+1590997,1789228800,22445,22448,Niğde Belediyesispor,Yozgat Bld Bozokspor,3,1,1,0
+1590992,1789302600,7408,7418,Karaköprü Belediyespor,Osmaniyespor,2,1,0,1
+1590996,1789302600,20295,7398,Mazıdağı Fosfatspor,Diyarbekirspor,3,0,1,0
+1590998,1789302600,21998,6509,Silifke Belediyespor,Ağrı 1970,1,1,0,1
+1591002,1789819200,7398,21995,Diyarbekirspor,Talasgücü Belediyespor,0,0,0,0
+1591004,1789821000,7418,6541,Osmaniyespor,Yeşilyurt Belediyespor,0,1,0,0
+1591007,1789833600,22448,27999,Yozgat Bld Bozokspor,Adana Adaletgucu,1,0,1,0
+1591000,1789905600,6509,6546,Ağrı 1970,Yeni Mersin Idmanyurdu,0,1,0,1
+1591001,1789905600,6513,6341,Bitlis Özgüzelderespor,Kırşehir Belediyespor,3,1,0,0
+1590999,1789907400,3564,7408,Adanaspor,Karaköprü Belediyespor,1,3,1,2
+1591003,1789907400,6531,20295,Kırıkkale Büyük Anadolu,Mazıdağı Fosfatspor,0,0,0,0
+1591005,1789907400,21998,6526,Silifke Belediyespor,Karaman FK,3,0,3,0
+1591010,1790424000,7408,22448,Karaköprü Belediyespor,Yozgat Bld Bozokspor,2,0,1,0
+1591014,1790424000,20295,7418,Mazıdağı Fosfatspor,Osmaniyespor,4,1,0,0
+1591012,1790512200,6341,21998,Kırşehir Belediyespor,Silifke Belediyespor,4,0,2,0
+1591011,1790512200,6526,6509,Karaman FK,Ağrı 1970,0,1,0,0
+1591009,1790512200,21995,6531,Talasgücü Belediyespor,Kırıkkale Büyük Anadolu,2,1,1,0
+1591013,1790524800,6541,3564,Yeşilyurt Belediyespor,Adanaspor,8,0,4,0
+1591016,1790524800,6546,7398,Yeni Mersin Idmanyurdu,Diyarbekirspor,2,1,1,1
+1591015,1790524800,22445,6513,Niğde Belediyesispor,Bitlis Özgüzelderespor,2,1,0,0
+1591018,1791027000,6509,7398,Ağrı 1970,Diyarbekirspor,2,1,0,1
+1591019,1791027000,6513,27999,Bitlis Özgüzelderespor,Adana Adaletgucu,5,0,2,0
+1591017,1791028800,3564,20295,Adanaspor,Mazıdağı Fosfatspor,1,2,0,1
+1591020,1791028800,6526,6341,Karaman FK,Kırşehir Belediyespor,1,7,0,5
+1591021,1791028800,6531,6546,Kırıkkale Büyük Anadolu,Yeni Mersin Idmanyurdu,3,0,1,0
+1591022,1791028800,7418,21995,Osmaniyespor,Talasgücü Belediyespor,2,4,0,1
+1591023,1791028800,21998,22445,Silifke Belediyespor,Niğde Belediyesispor,0,3,0,1
+1591025,1791043200,22448,6541,Yozgat Bld Bozokspor,Yeşilyurt Belediyespor,1,9,1,3
+1591027,1791718200,7398,6531,Diyarbekirspor,Kırıkkale Büyük Anadolu,2,3,2,1
+1591029,1791718200,7408,6513,Karaköprü Belediyespor,Bitlis Özgüzelderespor,0,1,0,0
+1591032,1791718200,20295,22448,Mazıdağı Fosfatspor,Yozgat Bld Bozokspor,0,0,0,0
+1591030,1791720000,6341,6509,Kırşehir Belediyespor,Ağrı 1970,0,0,0,0
+1591028,1791720000,21995,3564,Talasgücü Belediyespor,Adanaspor,6,1,4,0
+1591034,1791734400,6546,7418,Yeni Mersin Idmanyurdu,Osmaniyespor,0,1,0,1
+1591033,1791734400,22445,6526,Niğde Belediyesispor,Karaman FK,1,2,0,1
+1591026,1791806400,27999,21998,Adana Adaletgucu,Silifke Belediyespor,1,4,1,1
+1591037,1792234800,6513,6541,Bitlis Özgüzelderespor,Yeşilyurt Belediyespor,1,1,0,1
+1591035,1792236600,3564,6546,Adanaspor,Yeni Mersin Idmanyurdu,0,3,0,1
+1591041,1792236600,21998,7408,Silifke Belediyespor,Karaköprü Belediyespor,1,2,0,0
+1591036,1792321200,6509,6531,Ağrı 1970,Kırıkkale Büyük Anadolu,0,2,0,1
+1591039,1792323000,6341,22445,Kırşehir Belediyespor,Niğde Belediyesispor,4,2,3,1
+1591038,1792323000,6526,27999,Karaman FK,Adana Adaletgucu,0,1,0,0
+1591040,1792323000,7418,7398,Osmaniyespor,Diyarbekirspor,1,0,1,0
+1591043,1792339200,22448,21995,Yozgat Bld Bozokspor,Talasgücü Belediyespor,0,0,0,0
+1591044,1792755000,27999,6341,Adana Adaletgucu,Kırşehir Belediyespor,0,1,0,1
+1591045,1792839600,7398,3564,Diyarbekirspor,Adanaspor,3,1,3,1
+1591047,1792839600,7408,6526,Karaköprü Belediyespor,Karaman FK,6,0,2,0
+1591050,1792839600,20295,6513,Mazıdağı Fosfatspor,Bitlis Özgüzelderespor,1,1,0,1
+1591049,1792857600,6541,21998,Yeşilyurt Belediyespor,Silifke Belediyespor,4,0,3,0
+1591052,1792857600,6546,22448,Yeni Mersin Idmanyurdu,Yozgat Bld Bozokspor,2,0,0,0
+1591051,1792857600,22445,6509,Niğde Belediyesispor,Ağrı 1970,2,1,1,0
+1591048,1792927800,6531,7418,Kırıkkale Büyük Anadolu,Osmaniyespor,3,1,0,1
+1591053,1793354400,3564,6531,Adanaspor,Kırıkkale Büyük Anadolu,1,1,1,0
+1591057,1793527200,6341,7408,Kırşehir Belediyespor,Karaköprü Belediyespor,3,3,1,0
+1591054,1793527200,6509,7418,Ağrı 1970,Osmaniyespor,2,4,2,1
+1591055,1793527200,6513,21995,Bitlis Özgüzelderespor,Talasgücü Belediyespor,4,0,2,0
+1591056,1793527200,6526,6541,Karaman FK,Yeşilyurt Belediyespor,1,6,0,1
+1591059,1793527200,21998,20295,Silifke Belediyespor,Mazıdağı Fosfatspor,1,1,0,0
+1591058,1793527200,22445,27999,Niğde Belediyesispor,Adana Adaletgucu,2,1,1,0
+1591061,1793527200,22448,7398,Yozgat Bld Bozokspor,Diyarbekirspor,2,0,1,0
+1591066,1794045600,6531,22448,Kırıkkale Büyük Anadolu,Yozgat Bld Bozokspor,2,1,0,0
+1591067,1794045600,6541,6341,Yeşilyurt Belediyespor,Kırşehir Belediyespor,2,2,1,0
+1591070,1794045600,6546,6513,Yeni Mersin Idmanyurdu,Bitlis Özgüzelderespor,2,0,0,0
+1591065,1794045600,7408,22445,Karaköprü Belediyespor,Niğde Belediyesispor,0,2,0,1
+1591069,1794045600,7418,3564,Osmaniyespor,Adanaspor,4,0,2,0
+1591068,1794045600,20295,6526,Mazıdağı Fosfatspor,Karaman FK,2,0,2,0
+1591064,1794045600,21995,21998,Talasgücü Belediyespor,Silifke Belediyespor,3,1,0,0
+1591062,1794045600,27999,6509,Adana Adaletgucu,Ağrı 1970,3,1,1,0

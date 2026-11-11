@@ -1,0 +1,241 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1448696,1757246400,7394,17261,Artvin Hopaspor,Orduspor 1967,1,1,1,1
+1448695,1757246400,7399,22448,Düzcespor,Yozgat Bld Bozokspor,2,1,2,0
+1448697,1757246400,7404,26469,Fatsa Belediyespor,1926 Bulancak,2,0,1,0
+1448692,1757246400,7420,24606,Pazarspor,Çayelispor,1,1,0,0
+1448694,1757246400,13369,22010,Karadeniz Ereğli BSK,Sebat Gençlikspor,2,2,0,2
+1448693,1757246400,21035,3611,Tokat Bld Plevnespor,Zonguldak Kömürspor,1,1,1,0
+1448698,1757260800,3574,19299,Giresunspor,Amasyaspor 1968,4,1,2,0
+1449725,1757260800,7426,20294,Yeni Orduspor,Karabük İdman Yurdu,4,2,4,2
+1449727,1757763000,22448,13369,Yozgat Bld Bozokspor,Karadeniz Ereğli BSK,1,2,1,2
+1449726,1757764800,3611,7399,Zonguldak Kömürspor,Düzcespor,0,0,0,0
+1448702,1757764800,19299,7426,Amasyaspor 1968,Yeni Orduspor,0,3,0,1
+1448701,1757764800,20294,21035,Karabük İdman Yurdu,Tokat Bld Plevnespor,1,4,0,4
+1448703,1757764800,22010,7394,Sebat Gençlikspor,Artvin Hopaspor,1,0,0,0
+1449728,1757764800,24606,3574,Çayelispor,Giresunspor,2,0,0,0
+1448700,1757764800,26469,7420,1926 Bulancak,Pazarspor,1,0,0,0
+1448699,1757779200,17261,7404,Orduspor 1967,Fatsa Belediyespor,0,1,0,0
+1448707,1758452400,3611,22448,Zonguldak Kömürspor,Yozgat Bld Bozokspor,0,0,0,0
+1449729,1758452400,7394,13369,Artvin Hopaspor,Karadeniz Ereğli BSK,1,1,0,1
+1448705,1758452400,7399,20294,Düzcespor,Karabük İdman Yurdu,4,2,2,1
+1449730,1758452400,7404,22010,Fatsa Belediyespor,Sebat Gençlikspor,1,4,1,1
+1448709,1758452400,7420,17261,Pazarspor,Orduspor 1967,1,1,0,0
+1448706,1758452400,21035,19299,Tokat Bld Plevnespor,Amasyaspor 1968,1,0,0,0
+1448708,1758470400,3574,26469,Giresunspor,1926 Bulancak,1,2,1,0
+1448704,1758470400,7426,24606,Yeni Orduspor,Çayelispor,5,1,3,1
+1448714,1758970800,26469,7426,1926 Bulancak,Yeni Orduspor,2,2,1,0
+1448710,1758974400,19299,7399,Amasyaspor 1968,Düzcespor,0,0,0,0
+1448713,1758974400,24606,21035,Çayelispor,Tokat Bld Plevnespor,0,2,0,1
+1448715,1759060800,22010,7420,Sebat Gençlikspor,Pazarspor,3,1,0,0
+1448712,1759060800,22448,7394,Yozgat Bld Bozokspor,Artvin Hopaspor,2,0,0,0
+1448717,1759062600,13369,7404,Karadeniz Ereğli BSK,Fatsa Belediyespor,0,0,0,0
+1448716,1759062600,20294,3611,Karabük İdman Yurdu,Zonguldak Kömürspor,0,0,0,0
+1448711,1759075200,17261,3574,Orduspor 1967,Giresunspor,2,2,2,1
+1448719,1759575600,21035,26469,Tokat Bld Plevnespor,1926 Bulancak,0,2,0,2
+1448724,1759579200,20294,22448,Karabük İdman Yurdu,Yozgat Bld Bozokspor,0,6,0,2
+1448721,1759593600,7426,17261,Yeni Orduspor,Orduspor 1967,2,0,0,0
+1448723,1759662000,7404,7394,Fatsa Belediyespor,Artvin Hopaspor,3,2,2,0
+1448718,1759663800,7420,13369,Pazarspor,Karadeniz Ereğli BSK,0,0,0,0
+1448725,1759665600,3611,19299,Zonguldak Kömürspor,Amasyaspor 1968,1,2,1,1
+1448720,1759665600,7399,24606,Düzcespor,Çayelispor,4,0,1,0
+1448722,1759680000,3574,22010,Giresunspor,Sebat Gençlikspor,0,2,0,1
+1448727,1760180400,7394,7420,Artvin Hopaspor,Pazarspor,1,2,0,1
+1448731,1760180400,22448,7404,Yozgat Bld Bozokspor,Fatsa Belediyespor,3,2,1,1
+1448728,1760184000,13369,3574,Karadeniz Ereğli BSK,Giresunspor,1,1,0,0
+1448730,1760266800,19299,20294,Amasyaspor 1968,Karabük İdman Yurdu,0,0,0,0
+1448732,1760266800,22010,7426,Sebat Gençlikspor,Yeni Orduspor,3,2,2,2
+1448729,1760268600,24606,3611,Çayelispor,Zonguldak Kömürspor,1,2,1,2
+1448733,1760268600,26469,7399,1926 Bulancak,Düzcespor,0,1,0,0
+1448726,1760284800,17261,21035,Orduspor 1967,Tokat Bld Plevnespor,2,0,1,0
+1448735,1760785200,7420,7404,Pazarspor,Fatsa Belediyespor,2,1,2,1
+1448737,1760787000,3611,26469,Zonguldak Kömürspor,1926 Bulancak,5,0,1,0
+1448734,1760787000,7399,17261,Düzcespor,Orduspor 1967,3,2,1,1
+1448739,1760803200,3574,7394,Giresunspor,Artvin Hopaspor,0,2,0,0
+1448736,1760871600,19299,22448,Amasyaspor 1968,Yozgat Bld Bozokspor,3,1,1,0
+1448738,1760871600,21035,22010,Tokat Bld Plevnespor,Sebat Gençlikspor,1,2,0,2
+1448741,1760873400,20294,24606,Karabük İdman Yurdu,Çayelispor,2,0,1,0
+1448740,1760889600,7426,13369,Yeni Orduspor,Karadeniz Ereğli BSK,3,1,1,0
+1448746,1761386400,7404,3574,Fatsa Belediyespor,Giresunspor,2,1,2,0
+1448749,1761390000,7394,7426,Artvin Hopaspor,Yeni Orduspor,0,3,0,2
+1448743,1761408000,17261,3611,Orduspor 1967,Zonguldak Kömürspor,0,3,0,2
+1448747,1761476400,22010,7399,Sebat Gençlikspor,Düzcespor,2,0,0,0
+1448744,1761476400,22448,7420,Yozgat Bld Bozokspor,Pazarspor,3,0,0,0
+1448745,1761476400,24606,19299,Çayelispor,Amasyaspor 1968,1,1,0,0
+1448748,1761476400,26469,20294,1926 Bulancak,Karabük İdman Yurdu,3,1,1,1
+1448742,1761480000,13369,21035,Karadeniz Ereğli BSK,Tokat Bld Plevnespor,4,0,0,0
+1448755,1761991200,21035,7394,Tokat Bld Plevnespor,Artvin Hopaspor,1,0,0,0
+1448756,1761991200,24606,22448,Çayelispor,Yozgat Bld Bozokspor,1,1,0,0
+1448757,1762005600,3574,7420,Giresunspor,Pazarspor,1,0,0,0
+1448753,1762077600,3611,22010,Zonguldak Kömürspor,Sebat Gençlikspor,1,2,1,0
+1448752,1762077600,7399,13369,Düzcespor,Karadeniz Ereğli BSK,2,2,1,1
+1448750,1762077600,19299,26469,Amasyaspor 1968,1926 Bulancak,0,1,0,1
+1448754,1762077600,20294,17261,Karabük İdman Yurdu,Orduspor 1967,1,1,0,0
+1448751,1762092000,7426,7404,Yeni Orduspor,Fatsa Belediyespor,0,1,0,0
+1448762,1762596000,22010,20294,Sebat Gençlikspor,Karabük İdman Yurdu,4,1,0,0
+1448758,1762596000,22448,3574,Yozgat Bld Bozokspor,Giresunspor,2,0,1,0
+1448760,1762603200,17261,19299,Orduspor 1967,Amasyaspor 1968,1,0,1,0
+1448763,1762682400,7394,7399,Artvin Hopaspor,Düzcespor,2,0,0,0
+1448759,1762682400,7404,21035,Fatsa Belediyespor,Tokat Bld Plevnespor,2,0,1,0
+1448761,1762682400,7420,7426,Pazarspor,Yeni Orduspor,2,5,0,2
+1448764,1762682400,13369,3611,Karadeniz Ereğli BSK,Zonguldak Kömürspor,2,1,1,0
+1448765,1762682400,26469,24606,1926 Bulancak,Çayelispor,1,1,0,0
+1448767,1764410400,7399,7404,Düzcespor,Fatsa Belediyespor,0,1,0,0
+1448773,1764410400,21035,7420,Tokat Bld Plevnespor,Pazarspor,1,2,1,1
+1448766,1764410400,24606,17261,Çayelispor,Orduspor 1967,1,2,0,0
+1448769,1764417600,20294,13369,Karabük İdman Yurdu,Karadeniz Ereğli BSK,1,3,1,1
+1448772,1764496800,3611,7394,Zonguldak Kömürspor,Artvin Hopaspor,3,0,1,0
+1448770,1764496800,19299,22010,Amasyaspor 1968,Sebat Gençlikspor,1,2,0,1
+1448768,1764496800,26469,22448,1926 Bulancak,Yozgat Bld Bozokspor,1,5,0,2
+1448771,1764511200,7426,3574,Yeni Orduspor,Giresunspor,5,1,1,0
+1448779,1765015200,7394,20294,Artvin Hopaspor,Karabük İdman Yurdu,0,3,0,1
+1448778,1765015200,7404,3611,Fatsa Belediyespor,Zonguldak Kömürspor,3,1,1,0
+1448776,1765015200,13369,19299,Karadeniz Ereğli BSK,Amasyaspor 1968,2,0,2,0
+1448775,1765015200,22448,7426,Yozgat Bld Bozokspor,Yeni Orduspor,2,1,0,0
+1448781,1765101600,7420,7399,Pazarspor,Düzcespor,1,1,1,0
+1448777,1765101600,22010,24606,Sebat Gençlikspor,Çayelispor,1,1,0,0
+1448774,1765108800,3574,21035,Giresunspor,Tokat Bld Plevnespor,0,2,0,1
+1448780,1765116000,17261,26469,Orduspor 1967,1926 Bulancak,4,3,2,1
+1448789,1765533600,24606,13369,Çayelispor,Karadeniz Ereğli BSK,1,1,0,1
+1448784,1765537200,19299,7394,Amasyaspor 1968,Artvin Hopaspor,3,2,3,2
+1448783,1765537200,20294,7404,Karabük İdman Yurdu,Fatsa Belediyespor,0,1,0,0
+1448787,1765537200,26469,22010,1926 Bulancak,Sebat Gençlikspor,0,3,0,0
+1448782,1765540800,17261,22448,Orduspor 1967,Yozgat Bld Bozokspor,1,5,1,1
+1448786,1765620000,3611,7420,Zonguldak Kömürspor,Pazarspor,3,0,1,0
+1448785,1765620000,7399,3574,Düzcespor,Giresunspor,2,1,1,0
+1448788,1765620000,21035,7426,Tokat Bld Plevnespor,Yeni Orduspor,0,1,0,0
+1448790,1765879200,7394,24606,Artvin Hopaspor,Çayelispor,2,0,1,0
+1448791,1765879200,7404,19299,Fatsa Belediyespor,Amasyaspor 1968,1,0,0,0
+1448792,1765879200,13369,26469,Karadeniz Ereğli BSK,1926 Bulancak,4,1,2,0
+1448797,1765879200,22010,17261,Sebat Gençlikspor,Orduspor 1967,1,1,0,0
+1448793,1765965600,3574,3611,Giresunspor,Zonguldak Kömürspor,0,2,0,0
+1448795,1765965600,7420,20294,Pazarspor,Karabük İdman Yurdu,1,0,0,0
+1448794,1765965600,7426,7399,Yeni Orduspor,Düzcespor,3,1,0,0
+1448796,1765965600,21035,22448,Tokat Bld Plevnespor,Yozgat Bld Bozokspor,1,3,0,1
+1448803,1766224800,17261,13369,Orduspor 1967,Karadeniz Ereğli BSK,1,0,1,0
+1448798,1766224800,26469,7394,1926 Bulancak,Artvin Hopaspor,1,1,0,0
+1448801,1766311200,3611,7426,Zonguldak Kömürspor,Yeni Orduspor,1,1,1,0
+1448799,1766311200,7399,21035,Düzcespor,Tokat Bld Plevnespor,0,0,0,0
+1448800,1766311200,19299,7420,Amasyaspor 1968,Pazarspor,2,1,0,0
+1448802,1766311200,20294,3574,Karabük İdman Yurdu,Giresunspor,0,2,0,1
+1448805,1766311200,22448,22010,Yozgat Bld Bozokspor,Sebat Gençlikspor,1,1,0,0
+1448804,1766311200,24606,7404,Çayelispor,Fatsa Belediyespor,0,0,0,0
+1448813,1768039200,19299,3574,Amasyaspor 1968,Giresunspor,2,2,2,0
+1448810,1768039200,24606,7420,Çayelispor,Pazarspor,0,1,0,0
+1448809,1768039200,26469,7404,1926 Bulancak,Fatsa Belediyespor,1,1,1,0
+1448807,1768046400,20294,7426,Karabük İdman Yurdu,Yeni Orduspor,1,0,0,0
+1448811,1768125600,3611,21035,Zonguldak Kömürspor,Tokat Bld Plevnespor,2,0,2,0
+1448808,1768125600,17261,7394,Orduspor 1967,Artvin Hopaspor,1,2,1,1
+1448806,1768125600,22010,13369,Sebat Gençlikspor,Karadeniz Ereğli BSK,4,0,3,0
+1448812,1768125600,22448,7399,Yozgat Bld Bozokspor,Düzcespor,1,0,0,0
+1448821,1768644000,7394,22010,Artvin Hopaspor,Sebat Gençlikspor,1,2,1,0
+1448814,1768658400,3574,24606,Giresunspor,Çayelispor,1,1,1,0
+1448815,1768658400,7426,19299,Yeni Orduspor,Amasyaspor 1968,4,0,2,0
+1448818,1768730400,7404,17261,Fatsa Belediyespor,Orduspor 1967,3,0,3,0
+1448816,1768730400,7420,26469,Pazarspor,1926 Bulancak,1,0,1,0
+1448817,1768730400,13369,22448,Karadeniz Ereğli BSK,Yozgat Bld Bozokspor,1,1,1,1
+1448819,1768730400,21035,20294,Tokat Bld Plevnespor,Karabük İdman Yurdu,1,1,1,0
+1448829,1769335200,13369,7394,Karadeniz Ereğli BSK,Artvin Hopaspor,1,0,0,0
+1448823,1769335200,19299,21035,Amasyaspor 1968,Tokat Bld Plevnespor,1,1,1,0
+1448822,1769335200,22010,7404,Sebat Gençlikspor,Fatsa Belediyespor,2,0,0,0
+1448825,1769335200,22448,3611,Yozgat Bld Bozokspor,Zonguldak Kömürspor,1,2,0,1
+1448824,1769335200,24606,7426,Çayelispor,Yeni Orduspor,0,2,0,1
+1448827,1769335200,26469,3574,1926 Bulancak,Giresunspor,3,1,1,0
+1448826,1769342400,20294,7399,Karabük İdman Yurdu,Düzcespor,1,0,0,0
+1448828,1769349600,17261,7420,Orduspor 1967,Pazarspor,0,0,0,0
+1448831,1769853600,3611,20294,Zonguldak Kömürspor,Karabük İdman Yurdu,3,0,2,0
+1448834,1769853600,7399,19299,Düzcespor,Amasyaspor 1968,2,1,0,1
+1448837,1769853600,7404,13369,Fatsa Belediyespor,Karadeniz Ereğli BSK,0,1,0,0
+1448830,1769853600,7420,22010,Pazarspor,Sebat Gençlikspor,0,0,0,0
+1448835,1769853600,21035,24606,Tokat Bld Plevnespor,Çayelispor,1,0,1,0
+1448832,1769940000,7394,22448,Artvin Hopaspor,Yozgat Bld Bozokspor,0,3,0,2
+1448836,1769954400,3574,17261,Giresunspor,Orduspor 1967,0,0,0,0
+1448833,1769954400,7426,26469,Yeni Orduspor,1926 Bulancak,3,0,1,0
+1448820,1770199200,7399,3611,Düzcespor,Zonguldak Kömürspor,1,2,1,1
+1448840,1770544800,7394,7404,Artvin Hopaspor,Fatsa Belediyespor,2,1,0,0
+1448838,1770544800,17261,7426,Orduspor 1967,Yeni Orduspor,1,2,0,1
+1448845,1770544800,24606,7399,Çayelispor,Düzcespor,3,0,2,0
+1448842,1770544800,26469,21035,1926 Bulancak,Tokat Bld Plevnespor,0,0,0,0
+1448843,1770631200,13369,7420,Karadeniz Ereğli BSK,Pazarspor,0,3,0,3
+1448839,1770631200,19299,3611,Amasyaspor 1968,Zonguldak Kömürspor,1,0,0,0
+1448841,1770631200,22010,3574,Sebat Gençlikspor,Giresunspor,3,1,1,0
+1448844,1770631200,22448,20294,Yozgat Bld Bozokspor,Karabük İdman Yurdu,1,2,0,2
+1448853,1771063200,7399,26469,Düzcespor,1926 Bulancak,1,0,0,0
+1448846,1771063200,21035,17261,Tokat Bld Plevnespor,Orduspor 1967,4,0,1,0
+1448851,1771149600,3574,13369,Giresunspor,Karadeniz Ereğli BSK,0,1,0,1
+1448852,1771149600,3611,24606,Zonguldak Kömürspor,Çayelispor,1,2,0,1
+1448850,1771149600,7404,22448,Fatsa Belediyespor,Yozgat Bld Bozokspor,1,0,1,0
+1448847,1771149600,7420,7394,Pazarspor,Artvin Hopaspor,1,1,1,1
+1448849,1771149600,7426,22010,Yeni Orduspor,Sebat Gençlikspor,1,1,1,0
+1448848,1771149600,20294,19299,Karabük İdman Yurdu,Amasyaspor 1968,1,0,1,0
+1448861,1771668000,7404,7420,Fatsa Belediyespor,Pazarspor,0,2,0,0
+1448857,1771668000,13369,7426,Karadeniz Ereğli BSK,Yeni Orduspor,1,0,1,0
+1448858,1771668000,22010,21035,Sebat Gençlikspor,Tokat Bld Plevnespor,1,0,0,0
+1448855,1771668000,22448,19299,Yozgat Bld Bozokspor,Amasyaspor 1968,1,1,0,0
+1448859,1771754400,7394,3574,Artvin Hopaspor,Giresunspor,2,0,0,0
+1448860,1771754400,17261,7399,Orduspor 1967,Düzcespor,2,0,1,0
+1448854,1771754400,24606,20294,Çayelispor,Karabük İdman Yurdu,0,1,0,1
+1448856,1771754400,26469,3611,1926 Bulancak,Zonguldak Kömürspor,0,4,0,1
+1448868,1772272800,7426,7394,Yeni Orduspor,Artvin Hopaspor,3,0,1,0
+1448866,1772272800,19299,24606,Amasyaspor 1968,Çayelispor,2,0,0,0
+1448867,1772272800,20294,26469,Karabük İdman Yurdu,1926 Bulancak,1,0,0,0
+1448869,1772359200,3611,17261,Zonguldak Kömürspor,Orduspor 1967,0,1,0,1
+1448862,1772359200,7399,22010,Düzcespor,Sebat Gençlikspor,1,0,1,0
+1448863,1772359200,7420,22448,Pazarspor,Yozgat Bld Bozokspor,2,1,0,0
+1448865,1772362800,21035,13369,Tokat Bld Plevnespor,Karadeniz Ereğli BSK,1,2,1,1
+1448864,1772366400,3574,7404,Giresunspor,Fatsa Belediyespor,0,0,0,0
+1448870,1772879400,7420,3574,Pazarspor,Giresunspor,0,0,0,0
+1448877,1772879400,17261,20294,Orduspor 1967,Karabük İdman Yurdu,5,2,4,2
+1448872,1772965800,7394,21035,Artvin Hopaspor,Tokat Bld Plevnespor,0,3,0,1
+1448874,1772965800,7404,7426,Fatsa Belediyespor,Yeni Orduspor,1,0,1,0
+1448873,1772965800,13369,7399,Karadeniz Ereğli BSK,Düzcespor,2,0,1,0
+1448876,1772965800,22010,3611,Sebat Gençlikspor,Zonguldak Kömürspor,1,0,0,0
+1448871,1772965800,22448,24606,Yozgat Bld Bozokspor,Çayelispor,1,0,1,0
+1448875,1772965800,26469,19299,1926 Bulancak,Amasyaspor 1968,0,3,0,0
+1448881,1773484200,3574,22448,Giresunspor,Yozgat Bld Bozokspor,0,0,0,0
+1448883,1773484200,3611,13369,Zonguldak Kömürspor,Karadeniz Ereğli BSK,0,2,0,1
+1448882,1773484200,24606,26469,Çayelispor,1926 Bulancak,1,2,0,2
+1448879,1773570600,7399,7394,Düzcespor,Artvin Hopaspor,0,0,0,0
+1448878,1773570600,7426,7420,Yeni Orduspor,Pazarspor,1,0,0,0
+1448884,1773570600,19299,17261,Amasyaspor 1968,Orduspor 1967,1,0,0,0
+1448885,1773570600,20294,22010,Karabük İdman Yurdu,Sebat Gençlikspor,1,0,0,0
+1448880,1773570600,21035,7404,Tokat Bld Plevnespor,Fatsa Belediyespor,2,3,0,1
+1448892,1774350000,13369,20294,Karadeniz Ereğli BSK,Karabük İdman Yurdu,0,0,0,0
+1448887,1774350000,17261,24606,Orduspor 1967,Çayelispor,1,3,0,1
+1448888,1774350000,22010,19299,Sebat Gençlikspor,Amasyaspor 1968,1,0,1,0
+1448891,1774350000,22448,26469,Yozgat Bld Bozokspor,1926 Bulancak,3,1,1,1
+1448886,1774357200,3574,7426,Giresunspor,Yeni Orduspor,0,1,0,1
+1448893,1774436400,7394,3611,Artvin Hopaspor,Zonguldak Kömürspor,2,1,0,0
+1448889,1774436400,7404,7399,Fatsa Belediyespor,Düzcespor,1,2,0,1
+1448890,1774436400,7420,21035,Pazarspor,Tokat Bld Plevnespor,0,0,0,0
+1448900,1774695600,7426,22448,Yeni Orduspor,Yozgat Bld Bozokspor,0,2,0,1
+1448896,1774695600,19299,13369,Amasyaspor 1968,Karadeniz Ereğli BSK,1,2,0,1
+1448898,1774695600,24606,22010,Çayelispor,Sebat Gençlikspor,0,0,0,0
+1448901,1774695600,26469,17261,1926 Bulancak,Orduspor 1967,0,1,0,1
+1448897,1774778400,21035,3574,Tokat Bld Plevnespor,Giresunspor,2,0,1,0
+1448895,1774782000,3611,7404,Zonguldak Kömürspor,Fatsa Belediyespor,2,1,1,0
+1448899,1774782000,7399,7420,Düzcespor,Pazarspor,1,0,0,0
+1448894,1774782000,20294,7394,Karabük İdman Yurdu,Artvin Hopaspor,3,1,1,1
+1448907,1775386800,3574,7399,Giresunspor,Düzcespor,2,0,0,0
+1448904,1775386800,7394,19299,Artvin Hopaspor,Amasyaspor 1968,4,1,1,0
+1448909,1775386800,7404,20294,Fatsa Belediyespor,Karabük İdman Yurdu,2,3,2,2
+1448906,1775386800,7420,3611,Pazarspor,Zonguldak Kömürspor,3,3,1,0
+1448908,1775386800,7426,21035,Yeni Orduspor,Tokat Bld Plevnespor,6,0,2,0
+1448902,1775386800,13369,24606,Karadeniz Ereğli BSK,Çayelispor,1,0,1,0
+1448903,1775386800,22010,26469,Sebat Gençlikspor,1926 Bulancak,3,1,1,1
+1448905,1775386800,22448,17261,Yozgat Bld Bozokspor,Orduspor 1967,2,0,0,0
+1448910,1775991600,3611,3574,Zonguldak Kömürspor,Giresunspor,0,0,0,0
+1448915,1775991600,7399,7426,Düzcespor,Yeni Orduspor,2,2,1,1
+1448913,1775991600,17261,22010,Orduspor 1967,Sebat Gençlikspor,1,3,1,1
+1448911,1775991600,19299,7404,Amasyaspor 1968,Fatsa Belediyespor,1,0,0,0
+1448912,1775991600,20294,7420,Karabük İdman Yurdu,Pazarspor,0,1,0,1
+1448914,1775991600,22448,21035,Yozgat Bld Bozokspor,Tokat Bld Plevnespor,2,0,1,0
+1448917,1775991600,24606,7394,Çayelispor,Artvin Hopaspor,3,2,2,0
+1448916,1775991600,26469,13369,1926 Bulancak,Karadeniz Ereğli BSK,1,0,0,0
+1448924,1776510000,3574,20294,Giresunspor,Karabük İdman Yurdu,0,1,0,1
+1448925,1776510000,7394,26469,Artvin Hopaspor,1926 Bulancak,7,3,3,0
+1448920,1776510000,7404,24606,Fatsa Belediyespor,Çayelispor,5,1,3,1
+1448919,1776510000,7420,19299,Pazarspor,Amasyaspor 1968,1,0,0,0
+1448921,1776510000,7426,3611,Yeni Orduspor,Zonguldak Kömürspor,3,4,0,2
+1448923,1776510000,13369,17261,Karadeniz Ereğli BSK,Orduspor 1967,5,3,2,0
+1448922,1776510000,21035,7399,Tokat Bld Plevnespor,Düzcespor,2,0,1,0
+1448918,1776510000,22010,22448,Sebat Gençlikspor,Yozgat Bld Bozokspor,2,3,1,0
