@@ -116,3 +116,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1600653,1794186000,4302,22157,FAS,Fuerte San Francisco,2,2,0,1
 1600654,1794346200,24530,4303,Cacahuatique,Firpo,1,1,0,1
 1600655,1794358800,4304,19763,Isidro Metapán,Platense,2,1,0,1
+1600656,1794432600,22157,4299,Fuerte San Francisco,Alianza,1,0,0,0
+1600657,1794445200,4302,26154,FAS,Inter,2,2,2,1

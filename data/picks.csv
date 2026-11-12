@@ -129,42 +129,61 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-10,19:45,1588883,England - EFL Trophy,Colchester - Ipswich Town U21,sigur,O15,0.8807,0.881,0.8806,1.06,Betfair,3.0,,,,pierdut,-1.0
 2026-11-10,20:00,1638291,World - UEFA Champions League Women,Roma W - Servette Chênois W,sigur,O15,0.8713,0.8496,0.8806,1.06,Betfair,3.0,,,,iesit,0.06
 2026-11-10,19:00,1644382,Spain - Copa del Rey,Trival Valderas - Leganes,bomba HT/FT,HTFT_2_X,0.032,0.032,0.0297,46.0,Betfair,3.0,,,,pierdut,-1.0
-2026-11-11,11:00,1635786,World - UEFA U19 Championship - Qualification,Croatia U19 - Hungary U19,value,O35,0.3581,0.3852,0.3464,2.88,Betfair,3.0,0.0312,,,,
-2026-11-11,15:45,1635809,World - UEFA U19 Championship - Qualification,Kazakhstan U19 - Scotland U19,value,O35,0.3631,0.4452,0.3278,2.88,Betfair,3.0,0.0456,,,,
-2026-11-11,21:30,1600656,El-Salvador - Primera Division,Fuerte San Francisco - Alianza,value,O15HT,0.3604,0.4104,0.339,2.88,Betfair,3.0,0.038,,,,
-2026-11-11,10:00,1635770,World - UEFA U19 Championship - Qualification,Georgia U19 - Denmark U19,sigur,O15,0.8184,0.8437,0.8076,1.14,Betfair,3.0,,,,,
-2026-11-11,11:15,1635757,World - UEFA U19 Championship - Qualification,Belgium U19 - Kosovo U19,sigur,O15,0.8297,0.7706,0.855,1.08,Betfair,3.0,,,,,
-2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,sigur,O15,0.8566,0.8105,0.8764,1.06,Betfair,3.0,,,,,
-2026-11-11,14:00,1635824,World - UEFA U19 Championship - Qualification,Switzerland U19 - Malta U19,sigur,O15,0.9242,0.9242,,,,,,,,,
-2026-11-11,15:00,1635819,World - UEFA U19 Championship - Qualification,Spain U19 - Iceland U19,sigur,O15,0.9085,0.9504,0.8906,1.06,Betfair,3.0,,,,,
-2026-11-11,15:30,1635760,World - UEFA U19 Championship - Qualification,Bosnia-Herzegovina U19 - San Marino U19,sigur,O15,0.8477,0.8262,0.857,1.07,Betfair,3.0,,,,,
-2026-11-11,16:00,1635813,World - UEFA U19 Championship - Qualification,Serbia U19 - Faroe Islands U19,sigur,O15,0.8492,0.8608,0.8443,1.08,Betfair,3.0,,,,,
-2026-11-11,19:00,1623285,World - Premier League International Cup,Sunderland U21 - Paris Saint-Germain U21,sigur,O15,0.8578,0.851,0.8607,,,,,,,,
-2026-11-11,19:45,1596507,England - Non League Premier - Northern,Avro - Whitby Town,sigur,O15,0.8675,0.9564,0.8294,,,,,,,,
-2026-11-11,20:00,1638311,World - UEFA Champions League Women,Juventus W - Lyon W,sigur,O15,0.8827,0.8562,0.894,1.05,Betfair,3.0,,,,,
-2026-11-11,16:30,1649444,Lithuania - 1 Lyga,Babrungas - Minija,bomba HT/FT,HTFT_1_1,0.2272,0.2272,0.1965,4.5,Betfair,3.0,,,,,
-2026-11-11,15:00,1647175,Slovakia - Cup,Podbrezová - Zlaté Moravce,bomba HT/FT,HTFT_X_X,0.1128,0.1128,0.0973,9.5,Betfair,3.0,,,,,
-2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,bomba HT/FT,HTFT_2_X,0.0308,0.0308,0.0285,36.0,Betfair,3.0,,,,,
-2026-11-11,18:30,1572696,Spain - Segunda División RFEF - Group 3,Alcoyano - Elche II,bomba scor,CS_1_0,0.1868,0.1868,,6.0,Betfair,3.0,,,,,
-2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba scor,CS_1_0,0.1415,0.1415,,15.0,Betfair,3.0,,,,,
-2026-11-11,13:30,1579841,Belgium - First Amateur Division,Onhaye - Habay-la-Neuve,bomba scor,CS_1_0,0.1206,0.1206,,9.5,Betfair,3.0,,,,,
-2026-11-11,17:00,1635781,World - UEFA U19 Championship - Qualification,France U19 - Norway U19,value,A15,0.3524,0.4004,0.3318,3.0,Betfair,3.0,0.0571,,,,
-2026-11-11,14:00,1568584,Poland - III Liga - Group 3,Barycz Sułów - Miedź Legnica II,sigur,O15,0.8373,0.8742,0.8216,,,,,,,,
-2026-11-11,15:00,1615825,Spain - Tercera División RFEF - Group 11,Ibiza Islas Pitiusas - Arenal,sigur,O15,0.8417,0.7946,0.8619,,,,,,,,
-2026-11-11,16:00,1644158,World - UEFA Europa Cup - Women,Czarni Sosnowiec W - Brann W,sigur,O15,0.8345,0.8343,0.8346,1.11,Betfair,3.0,,,,,
-2026-11-11,22:00,1649146,Bolivia - Copa de la División Profesional,Independiente Petrolero - Always Ready,sigur,O15,0.8374,0.8619,0.827,1.11,Betfair,3.0,,,,,
-2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba HT/FT,HTFT_X_X,0.1878,0.1878,0.1753,5.5,Betfair,3.0,,,,,
-2026-11-11,17:00,1635753,World - UEFA U19 Championship - Qualification,Austria U19 - Belarus U19,bomba HT/FT,HTFT_1_2,0.0135,0.0135,0.0117,81.0,Betfair,3.0,,,,,
-2026-11-11,18:00,1644163,World - UEFA Europa Cup - Women,Malmö FF W - Ajax W,bomba scor,CS_1_0,0.1462,0.1462,,8.0,Betfair,3.0,,,,,
-2026-11-11,19:00,1588852,England - EFL Trophy,Barnsley - Oldham,sigur,O15,0.8654,0.8188,0.8854,1.06,Betfair,3.0,,,,,
-2026-11-11,19:00,1612676,England - WSL Cup,Tottenham Hotspur W - Crystal Palace W,sigur,O15,0.8697,0.9376,0.8406,1.07,Betfair,3.0,,,,,
-2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba HT/FT,HTFT_2_2,0.0895,0.0895,0.0791,12.0,Betfair,3.0,,,,,
-2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba scor,CS_1_0,0.1163,0.1163,,9.0,Betfair,3.0,,,,,
-2026-11-11,19:00,1612675,England - WSL Cup,Liverpool W - Aston Villa W,sigur,O15,0.8243,0.8723,0.8038,1.13,Betfair,3.0,,,,,
-2026-11-11,19:00,1612675,England - WSL Cup,Liverpool W - Aston Villa W,value,O35,0.4431,0.4805,0.4271,2.4,Betfair,3.0,0.0634,,,,
-2026-11-11,19:00,1612673,England - WSL Cup,Birmingham City W - Sunderland W,sigur,O15,0.8235,0.7732,0.8451,1.07,Betfair,3.0,,,,,
-2026-11-11,19:00,1588820,England - EFL Trophy,Sheffield Wednesday - Accrington ST,sigur,O15,0.7986,0.6848,0.8474,1.08,Betfair,3.0,,,,,
-2026-11-11,19:00,1623286,World - Premier League International Cup,West Ham United U21 - Juventus U21,sigur,O15,0.7872,0.8073,0.7786,,,,,,,,
-2026-11-11,19:00,1612676,England - WSL Cup,Tottenham Hotspur W - Crystal Palace W,bomba HT/FT,HTFT_1_2,0.0124,0.0124,0.012,81.0,Betfair,3.0,,,,,
-2026-11-11,19:00,1612673,England - WSL Cup,Birmingham City W - Sunderland W,bomba scor,CS_1_0,0.1,0.1,,12.0,Betfair,3.0,,,,,
-2026-11-11,20:00,1638311,World - UEFA Champions League Women,Juventus W - Lyon W,bomba scor,CS_1_2,0.0939,0.0939,,12.0,Betfair,3.0,,,,,
+2026-11-11,11:00,1635786,World - UEFA U19 Championship - Qualification,Croatia U19 - Hungary U19,value,O35,0.3581,0.3852,0.3464,2.88,Betfair,3.0,0.0312,2.75,0.0473,iesit,1.88
+2026-11-11,15:45,1635809,World - UEFA U19 Championship - Qualification,Kazakhstan U19 - Scotland U19,value,O35,0.3631,0.4452,0.3278,2.88,Betfair,3.0,0.0456,2.88,0.0,iesit,1.88
+2026-11-11,21:30,1600656,El-Salvador - Primera Division,Fuerte San Francisco - Alianza,value,O15HT,0.3604,0.4104,0.339,2.88,Betfair,3.0,0.038,2.75,0.0473,pierdut,-1.0
+2026-11-11,10:00,1635770,World - UEFA U19 Championship - Qualification,Georgia U19 - Denmark U19,sigur,O15,0.8184,0.8437,0.8076,1.14,Betfair,3.0,,,,iesit,0.14
+2026-11-11,11:15,1635757,World - UEFA U19 Championship - Qualification,Belgium U19 - Kosovo U19,sigur,O15,0.8297,0.7706,0.855,1.08,Betfair,3.0,,,,iesit,0.08
+2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,sigur,O15,0.8566,0.8105,0.8764,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-11,14:00,1635824,World - UEFA U19 Championship - Qualification,Switzerland U19 - Malta U19,sigur,O15,0.9242,0.9242,,,,,,,,iesit,
+2026-11-11,15:00,1635819,World - UEFA U19 Championship - Qualification,Spain U19 - Iceland U19,sigur,O15,0.9085,0.9504,0.8906,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-11,15:30,1635760,World - UEFA U19 Championship - Qualification,Bosnia-Herzegovina U19 - San Marino U19,sigur,O15,0.8477,0.8262,0.857,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-11,16:00,1635813,World - UEFA U19 Championship - Qualification,Serbia U19 - Faroe Islands U19,sigur,O15,0.8492,0.8608,0.8443,1.08,Betfair,3.0,,,,iesit,0.08
+2026-11-11,19:00,1623285,World - Premier League International Cup,Sunderland U21 - Paris Saint-Germain U21,sigur,O15,0.8578,0.851,0.8607,,,,,,,iesit,
+2026-11-11,19:45,1596507,England - Non League Premier - Northern,Avro - Whitby Town,sigur,O15,0.8675,0.9564,0.8294,,,,,,,iesit,
+2026-11-11,20:00,1638311,World - UEFA Champions League Women,Juventus W - Lyon W,sigur,O15,0.8827,0.8562,0.894,1.05,Betfair,3.0,,,,iesit,0.05
+2026-11-11,16:30,1649444,Lithuania - 1 Lyga,Babrungas - Minija,bomba HT/FT,HTFT_1_1,0.2272,0.2272,0.1965,4.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,15:00,1647175,Slovakia - Cup,Podbrezová - Zlaté Moravce,bomba HT/FT,HTFT_X_X,0.1128,0.1128,0.0973,9.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,12:00,1635772,World - UEFA U19 Championship - Qualification,Slovenia U19 - England U19,bomba HT/FT,HTFT_2_X,0.0308,0.0308,0.0285,36.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,18:30,1572696,Spain - Segunda División RFEF - Group 3,Alcoyano - Elche II,bomba scor,CS_1_0,0.1868,0.1868,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba scor,CS_1_0,0.1415,0.1415,,15.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,13:30,1579841,Belgium - First Amateur Division,Onhaye - Habay-la-Neuve,bomba scor,CS_1_0,0.1206,0.1206,,9.5,Betfair,3.0,,,,iesit,8.5
+2026-11-11,17:00,1635781,World - UEFA U19 Championship - Qualification,France U19 - Norway U19,value,A15,0.3524,0.4004,0.3318,3.0,Betfair,3.0,0.0571,2.88,0.0417,pierdut,-1.0
+2026-11-11,14:00,1568584,Poland - III Liga - Group 3,Barycz Sułów - Miedź Legnica II,sigur,O15,0.8373,0.8742,0.8216,,,,,,,iesit,
+2026-11-11,15:00,1615825,Spain - Tercera División RFEF - Group 11,Ibiza Islas Pitiusas - Arenal,sigur,O15,0.8417,0.7946,0.8619,,,,,,,iesit,
+2026-11-11,16:00,1644158,World - UEFA Europa Cup - Women,Czarni Sosnowiec W - Brann W,sigur,O15,0.8345,0.8343,0.8346,1.11,Betfair,3.0,,,,iesit,0.11
+2026-11-11,22:00,1649146,Bolivia - Copa de la División Profesional,Independiente Petrolero - Always Ready,sigur,O15,0.8374,0.8619,0.827,1.11,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,19:30,1649141,Uruguay - Segunda División,Tacuarembo - Miramar,bomba HT/FT,HTFT_X_X,0.1878,0.1878,0.1753,5.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,17:00,1635753,World - UEFA U19 Championship - Qualification,Austria U19 - Belarus U19,bomba HT/FT,HTFT_1_2,0.0135,0.0135,0.0117,81.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,18:00,1644163,World - UEFA Europa Cup - Women,Malmö FF W - Ajax W,bomba scor,CS_1_0,0.1462,0.1462,,8.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,19:00,1588852,England - EFL Trophy,Barnsley - Oldham,sigur,O15,0.8654,0.8188,0.8854,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-11,19:00,1612676,England - WSL Cup,Tottenham Hotspur W - Crystal Palace W,sigur,O15,0.8697,0.9376,0.8406,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba HT/FT,HTFT_2_2,0.0895,0.0895,0.0791,12.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,17:30,1644159,World - UEFA Europa Cup - Women,Eintracht Frankfurt W - PSV/Eindhoven W,bomba scor,CS_1_0,0.1163,0.1163,,9.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,19:00,1612675,England - WSL Cup,Liverpool W - Aston Villa W,sigur,O15,0.8243,0.8723,0.8038,1.13,Betfair,3.0,,,,iesit,0.13
+2026-11-11,19:00,1612675,England - WSL Cup,Liverpool W - Aston Villa W,value,O35,0.4431,0.4805,0.4271,2.4,Betfair,3.0,0.0634,2.4,0.0,iesit,1.4
+2026-11-11,19:00,1612673,England - WSL Cup,Birmingham City W - Sunderland W,sigur,O15,0.8235,0.7732,0.8451,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-11,19:00,1588820,England - EFL Trophy,Sheffield Wednesday - Accrington ST,sigur,O15,0.7986,0.6848,0.8474,1.08,Betfair,3.0,,,,iesit,0.08
+2026-11-11,19:00,1623286,World - Premier League International Cup,West Ham United U21 - Juventus U21,sigur,O15,0.7872,0.8073,0.7786,,,,,,,iesit,
+2026-11-11,19:00,1612676,England - WSL Cup,Tottenham Hotspur W - Crystal Palace W,bomba HT/FT,HTFT_1_2,0.0124,0.0124,0.012,81.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,19:00,1612673,England - WSL Cup,Birmingham City W - Sunderland W,bomba scor,CS_1_0,0.1,0.1,,12.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-11,20:00,1638311,World - UEFA Champions League Women,Juventus W - Lyon W,bomba scor,CS_1_2,0.0939,0.0939,,12.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-12,13:50,1649654,Oman - FA Cup,Sur - Dhofar,value,O15HT,0.3319,0.3871,0.3082,3.2,Betfair,3.0,0.0621,,,,
+2026-11-12,17:00,1528959,World - UEFA Nations League,Armenia - Cyprus,value,O35,0.2715,0.2958,0.2611,3.8,Betfair,3.0,0.0319,,,,
+2026-11-12,22:00,1559703,Guatemala - Liga Nacional,Aurora - Mixco,value,O35,0.3359,0.3135,0.3455,3.1,Betfair,3.0,0.0413,,,,
+2026-11-12,15:00,1635808,World - UEFA U19 Championship - Qualification,Portugal U19 - Lithuania U19,sigur,O15,0.8745,0.8546,0.883,1.06,Betfair,3.0,,,,,
+2026-11-12,17:00,1528958,World - UEFA Nations League,Türkiye - Belgium,sigur,O15,0.8339,0.8604,0.8226,1.14,Betfair,3.0,,,,,
+2026-11-12,17:45,1638295,World - UEFA Champions League Women,Barcelona W - Arsenal W,sigur,O15,0.8942,0.9203,0.883,1.05,Betfair,3.0,,,,,
+2026-11-12,18:00,1644363,Spain - Copa del Rey,Navalcarnero - Real Betis,sigur,O15,0.8372,0.7912,0.857,,,,,,,,
+2026-11-12,18:00,1648414,Brazil - Paulista - U20,RB Bragantino U20 - Corinthians U20,sigur,O15,0.8287,0.8693,0.8113,1.13,Betfair,3.0,,,,,
+2026-11-12,19:00,1640008,World - CONCACAF Nations League,Cayman Islands - Guyana,sigur,O15,0.8935,0.8901,0.8949,1.04,Betfair,3.0,,,,,
+2026-11-12,19:30,1632091,World - U20 Elite League,England U20 - Czechia U20,sigur,O15,0.8303,0.8727,0.8122,1.13,Betfair,3.0,,,,,
+2026-11-12,19:45,1528961,World - UEFA Nations League,Czechia - Spain,sigur,O15,0.8276,0.7909,0.8433,1.1,Betfair,3.0,,,,,
+2026-11-12,19:45,1528962,World - UEFA Nations League,England - Croatia,sigur,O15,0.8657,0.9153,0.8444,1.1,Betfair,3.0,,,,,
+2026-11-12,20:00,1640007,World - CONCACAF Nations League,Bonaire - Cuba,sigur,O15,0.8506,0.8001,0.8722,,,,,,,,
+2026-11-12,19:45,1528961,World - UEFA Nations League,Czechia - Spain,bomba HT/FT,HTFT_2_X,0.0332,0.0332,0.0347,31.0,Betfair,3.0,,,,,
+2026-11-12,15:00,1545873,World - Africa Cup of Nations - Qualification,Ghana - Somalia,bomba HT/FT,HTFT_1_X,0.0269,0.0269,0.0248,81.0,Betfair,3.0,,,,,
+2026-11-12,19:00,1545881,World - Africa Cup of Nations - Qualification,Senegal - Sudan,bomba HT/FT,HTFT_X_2,0.0251,0.0251,0.0227,41.0,Betfair,3.0,,,,,
+2026-11-12,21:30,1600659,El-Salvador - Primera Division,Atletico Balboa - Inca Aruba,bomba scor,CS_1_0,0.1723,0.1723,,7.0,Betfair,3.0,,,,,
+2026-11-12,19:30,1649143,Uruguay - Segunda División,Cerrito - Colón,bomba scor,CS_1_0,0.1036,0.1036,,10.0,Betfair,3.0,,,,,
+2026-11-12,10:00,1648253,South-Korea - WK-League,Hwacheon KSPO W - Gyeongju W,bomba scor,CS_0_1,0.1035,0.1035,,11.0,Betfair,3.0,,,,,
