@@ -192,3 +192,4 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-12,21:00,1600658,El-Salvador - Primera Division,Águila - Municipal Limeño,value,O15HT,0.3926,0.4569,0.365,2.63,Betfair,3.0,0.0324,,,,
 2026-11-12,18:00,1644379,Spain - Copa del Rey,Tarancón - Levante,sigur,O15,0.8264,0.748,0.86,1.07,Betfair,3.0,,,,,
 2026-11-12,19:00,1640004,World - CONCACAF Nations League,Barbados - Guadeloupe,sigur,O15,0.815,0.885,0.785,1.2,Betfair,3.0,,,,,
+2026-11-12,19:45,1528963,World - UEFA Nations League,Albania - Finland,value,O15HT,0.2645,0.2244,0.2817,4.0,Betfair,3.0,0.0581,,,,
