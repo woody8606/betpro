@@ -167,7 +167,8 @@ def bombs(matches: list, n: int = 3):
                 b = blend(m, mk)
                 o = (m.get("odds") or {}).get("best", {}).get(mk) if m.get("odds") else None
                 far = b and b[2] is not None and (abs(b[1] - b[2]) > config.MAX_GAP or b[1] > b[2] * config.MAX_RATIO)
-                if b and o and not far and b[0] * o[0] >= 1.0 and (best is None or b[0] > best["p"]):
+                pmin = 0.25 if kind == "HTFT" else 0.09      # fara "loterii" de 3% la cota 80
+                if b and o and not far and b[0] >= pmin and b[0] * o[0] >= 1.0 and (best is None or b[0] > best["p"]):
                     best = dict(match=m, mk=mk, p=b[0], p_ref=b[2], odds=o[0], book=o[1], book_id=o[2])
             if best:
                 res[kind].append(best)
