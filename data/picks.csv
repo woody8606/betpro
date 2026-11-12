@@ -187,3 +187,8 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-12,21:30,1600659,El-Salvador - Primera Division,Atletico Balboa - Inca Aruba,bomba scor,CS_1_0,0.1723,0.1723,,7.0,Betfair,3.0,,,,,
 2026-11-12,19:30,1649143,Uruguay - Segunda División,Cerrito - Colón,bomba scor,CS_1_0,0.1036,0.1036,,10.0,Betfair,3.0,,,,,
 2026-11-12,10:00,1648253,South-Korea - WK-League,Hwacheon KSPO W - Gyeongju W,bomba scor,CS_0_1,0.1035,0.1035,,11.0,Betfair,3.0,,,,,
+2026-11-12,13:55,1649655,Oman - FA Cup,Smail - Bahla,value,O35,0.3729,0.4519,0.3391,2.88,Betfair,3.0,0.074,,,,
+2026-11-12,17:00,1528959,World - UEFA Nations League,Armenia - Cyprus,value,O15HT,0.3222,0.3525,0.3093,3.25,Betfair,3.0,0.0472,,,,
+2026-11-12,21:00,1600658,El-Salvador - Primera Division,Águila - Municipal Limeño,value,O15HT,0.3926,0.4569,0.365,2.63,Betfair,3.0,0.0324,,,,
+2026-11-12,18:00,1644379,Spain - Copa del Rey,Tarancón - Levante,sigur,O15,0.8264,0.748,0.86,1.07,Betfair,3.0,,,,,
+2026-11-12,19:00,1640004,World - CONCACAF Nations League,Barbados - Guadeloupe,sigur,O15,0.815,0.885,0.785,1.2,Betfair,3.0,,,,,
