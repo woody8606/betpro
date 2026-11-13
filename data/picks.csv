@@ -223,3 +223,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-13,19:30,1611714,Belgium - Reserve Pro League,Sp. Hasselt U21 - RFC de Liege U21,sigur,O15,0.8755,0.925,0.8542,,,,,,,,
 2026-11-13,21:30,1631810,Mexico - Liga Premier Serie A,Calor de San Pedro - Real Apodaca,bomba scor,CS_1_0,0.113,0.113,,13.0,Betfair,3.0,,,,,
 2026-11-13,19:45,1564927,Northern-Ireland - Championship,Ards - Moyola Park,bomba scor,CS_0_1,0.0953,0.0953,,12.0,Betfair,3.0,,,,,
+2026-11-13,17:00,1628599,Nigeria - NPFL,Shooting Stars - Bendel Insurance,value,O15HT,0.3526,0.4329,0.3182,3.2,Betfair,3.0,0.1283,,,,
+2026-11-13,17:30,1562705,Czech-Republic - 3. liga - CFL A,Viktoria Plzeň II - Loko Vltavín,bomba scor,CS_1_0,0.0939,0.0939,,11.0,Betfair,3.0,,,,,
