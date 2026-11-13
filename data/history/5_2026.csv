@@ -21,7 +21,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1545603,1790438400,1103,1102,Bulgaria,Luxembourg,1,2,1,1
 1528888,1790438400,1115,1099,San Marino,Finland,0,7,0,3
 1528891,1790448300,10,9,England,Spain,2,3,2,1
-1528892,1790448300,770,3,Czechia,Croatia,1,2,0,0
+1528892,1790448300,770,3,Czech Republic,Croatia,1,2,0,0
 1528894,1790448300,773,1114,Slovakia,Moldova,2,0,2,0
 1528893,1790448300,778,1100,Albania,Belarus,2,0,2,0
 1545656,1790448300,1105,15,FYR Macedonia,Switzerland,0,3,0,2
@@ -44,7 +44,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1528912,1790697600,1099,1100,Finland,Belarus,0,0,0,0
 1528914,1790697600,1114,1098,Moldova,Faroe Islands,1,1,0,1
 1528909,1790707500,9,3,Spain,Croatia,4,1,2,1
-1528910,1790707500,770,10,Czechia,England,0,2,0,0
+1528910,1790707500,770,10,Czech Republic,England,0,2,0,0
 1528913,1790707500,773,1095,Slovakia,Kazakhstan,2,1,1,1
 1545661,1790707500,1091,1105,Slovenia,FYR Macedonia,2,0,0,0
 1545606,1790707500,1102,18,Luxembourg,Iceland,0,3,0,2
@@ -74,7 +74,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1528935,1791043200,18,1103,Iceland,Bulgaria,3,0,1,0
 1528934,1791043200,1100,1115,Belarus,San Marino,4,0,0,0
 1545609,1791043200,1101,1102,Estonia,Luxembourg,1,0,1,0
-1528936,1791053100,9,770,Spain,Czechia,3,1,2,0
+1528936,1791053100,9,770,Spain,Czech Republic,3,1,2,0
 1545653,1791053100,15,1091,Switzerland,Slovenia,2,1,2,1
 1545660,1791053100,1105,1108,FYR Macedonia,Scotland,0,2,0,1
 1528937,1791118800,1096,1097,Azerbaijan,Lithuania,1,0,1,0
@@ -95,7 +95,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1528948,1791225900,1113,24,Bosnia & Herzegovina,Poland,1,0,0,0
 1528951,1791295200,1095,1098,Kazakhstan,Faroe Islands,2,2,0,1
 1528952,1791312300,3,9,Croatia,Spain,1,2,1,0
-1528953,1791312300,10,770,England,Czechia,3,0,2,0
+1528953,1791312300,10,770,England,Czech Republic,3,0,2,0
 1545655,1791312300,15,1105,Switzerland,FYR Macedonia,3,0,1,0
 1528954,1791312300,778,1115,Albania,San Marino,2,1,1,0
 1528955,1791312300,1100,1099,Belarus,Finland,1,0,1,0
@@ -103,3 +103,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1545612,1791312300,1102,1103,Luxembourg,Bulgaria,0,2,0,2
 1545657,1791312300,1108,1091,Scotland,Slovenia,1,2,1,0
 1528956,1791312300,1114,773,Moldova,Slovakia,0,4,0,2
+1528958,1794502800,777,1,Türkiye,Belgium,1,2,1,2
+1528959,1794502800,1094,1106,Armenia,Cyprus,1,1,0,1
+1528962,1794512700,10,3,England,Croatia,2,1,1,0
+1528960,1794512700,768,2,Italy,France,3,1,1,1
+1528961,1794512700,770,9,Czech Republic,Spain,0,2,0,1
+1528963,1794512700,778,1099,Albania,Finland,2,0,1,0
+1545613,1794512700,1109,1092,Montenegro,Latvia,2,1,0,0
+1528964,1794512700,1115,1100,San Marino,Belarus,0,2,0,2

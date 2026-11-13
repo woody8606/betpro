@@ -100,8 +100,10 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1631796,1794000600,26526,17804,Héroes de Zaci,Calor de San Pedro,0,1,0.0,1.0
 1631795,1794009600,22055,28305,FC Santiago,Halcones Negros,4,0,1.0,0.0
 1631797,1794013200,24949,28307,Acatlan,Real Refineros,1,3,1.0,2.0
-1631798,1794067200,17782,28303,Correcaminos UAT II,Delfines Coatzacoalcos,3,2,,
+1631798,1794067200,17782,28303,Correcaminos UAT II,Delfines Coatzacoalcos,2,2,,
 1631799,1794070800,15935,22051,Mineros de Fresnillo,Acambaro,3,1,1.0,1.0
 1631800,1794088800,15919,15925,Atlético Saltillo,Ciervos,7,2,2.0,1.0
 1631801,1794099600,28306,15924,La Tribu de Cd. Juarez,Cañoneros Marina,8,0,3.0,0.0
 1631802,1794099600,28308,22049,Vaqueros Reynosa,Artesanos Metepec,0,0,0.0,0.0
+1631804,1794175200,22047,26393,Real Apodaca,Dragones de Oaxaca,3,0,0.0,0.0
+1631803,1794175200,26426,28304,Guerreros,Guerreros del Pacifico,3,1,3.0,0.0

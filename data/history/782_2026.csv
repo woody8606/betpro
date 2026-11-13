@@ -137,8 +137,9 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1568557,1793962800,6963,16259,Zagłębie Lubin II,Goczałkowice Zdrój,1,2,1.0,1.0
 1568555,1794052800,6960,6956,Stilon Gorzów,Stal Brzeg,2,2,0.0,1.0
 1568553,1794052800,9132,22910,Górnik Polkowice,Sparta Katowice,0,4,0.0,3.0
-1604164,1794052800,17401,27306,Carina Gubin,Rakow II,2,1,1.0,0.0
+1604164,1794052800,17401,27306,Carina Gubin,Rakow II,2,1,0.0,1.0
 1568554,1794067200,6949,12806,ROW Rybnik,Kluczbork,1,2,0.0,0.0
 1568552,1794067200,17402,12815,Karkonosze Jelenia Góra,Miedź Legnica II,1,2,1.0,1.0
 1568550,1794070800,21455,12901,Odra Bytom Odrzański,Ślęza Wrocław,1,0,1.0,0.0
 1568558,1794153600,342,16263,Zaglebie Sosnowiec,Warta Gorzów,3,0,2.0,0.0
+1568584,1794405600,24785,12815,Barycz Sułów,Miedź Legnica II,3,0,1.0,0.0

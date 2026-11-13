@@ -1,0 +1,34 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1640328,1792053000,19705,3777,Preston Lions,Wollongong Wolves,0,0,0,0
+1640329,1792139400,3785,3798,Adelaide City,Avondale,2,2,0,0
+1640330,1792139400,3808,3774,Oakleigh Cannons,Sydney Olympic,4,2,2,1
+1640332,1792209600,3771,3811,Sutherland Sharks,South Melbourne,0,1,0,0
+1640331,1792209600,10202,26874,Broadmeadow Magic,Wests APIA,0,0,0,0
+1640333,1792225800,3814,3768,Bayswater City,Marconi Stallions,3,1,1,1
+1640334,1792296000,3776,1448,Sydney United,Canberra FC,1,1,0,0
+1640335,1792306800,10217,14106,Lions,South Hobart,1,2,1,2
+1640336,1792657800,10217,19705,Lions,Preston Lions,2,1,0,0
+1640337,1792744200,3785,26874,Adelaide City,Wests APIA,1,3,0,1
+1640338,1792744200,3811,3776,South Melbourne,Sydney United,1,1,0,1
+1640340,1792814400,3768,3808,Marconi Stallions,Oakleigh Cannons,0,0,0,0
+1640339,1792814400,3798,10202,Avondale,Broadmeadow Magic,1,2,1,1
+1640341,1792821600,1448,3771,Canberra FC,Sutherland Sharks,0,2,0,1
+1640342,1792900800,3774,3814,Sydney Olympic,Bayswater City,1,2,0,2
+1640343,1792900800,3777,14106,Wollongong Wolves,South Hobart,2,0,2,0
+1640344,1793262600,1448,3811,Canberra FC,South Melbourne,0,2,0,1
+1640346,1793349000,3774,3768,Sydney Olympic,Marconi Stallions,3,2,2,0
+1640345,1793349000,10202,3785,Broadmeadow Magic,Adelaide City,3,2,1,0
+1640348,1793419200,3771,3776,Sutherland Sharks,Sydney United,1,2,0,1
+1640349,1793419200,3777,10217,Wollongong Wolves,Lions,1,3,0,0
+1640347,1793419200,14106,19705,South Hobart,Preston Lions,1,2,0,2
+1640350,1793505600,26874,3798,Wests APIA,Avondale,5,2,1,2
+1640351,1793516400,3814,3808,Bayswater City,Oakleigh Cannons,0,0,0,0
+1640352,1793867400,3774,3808,Sydney Olympic,Oakleigh Cannons,0,2,0,1
+1640353,1793953800,1448,3776,Canberra FC,Sydney United,2,1,1,1
+1640355,1794024000,3768,3814,Marconi Stallions,Bayswater City,1,4,0,2
+1640354,1794024000,26874,10202,Wests APIA,Broadmeadow Magic,2,1,1,0
+1640356,1794031200,3777,19705,Wollongong Wolves,Preston Lions,1,2,0,0
+1640357,1794040200,3811,3771,South Melbourne,Sutherland Sharks,0,0,0,0
+1640358,1794110400,3798,3785,Avondale,Adelaide City,2,1,0,0
+1640359,1794110400,14106,10217,South Hobart,Lions,2,4,0,1
+1640360,1794472200,26874,3785,Wests APIA,Adelaide City,3,0,2,0

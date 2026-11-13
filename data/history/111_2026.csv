@@ -1,0 +1,205 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1580687,1785522600,355,20364,llanelli AFC,Newport City,1,4,1,3
+1580688,1785523500,11310,20358,Trethomas Bluebirds,Baglan Dragons,0,0,0,0
+1580447,1785524400,5624,6457,Ruthin Town,Holyhead Hotspur,1,2,0,1
+1580448,1785524400,7581,352,Bangor City 1876 FC,Bala Town,1,2,0,0
+1580690,1785591000,359,5610,Carmarthen Town,Caerau (Ely),4,3,0,0
+1580691,1785591000,2196,5626,Llantwit Major,Swansea University,0,3,0,1
+1580689,1785591000,2200,351,Afan Lido,Aberystwyth Town,2,5,1,1
+1580450,1785591000,5609,6451,Buckley Town,Denbigh Town,2,4,1,3
+1580452,1785591000,5620,5621,Penrhyncoch,Porthmadog,1,3,1,1
+1580453,1785591000,5623,5616,Rhyl,Guilsfield,1,1,1,0
+1580449,1785591000,6443,11303,Brickfield Rangers,Llanuwchllyn,5,1,2,0
+1580451,1785591000,6465,6445,Mold Alexandra,Caersws,2,2,0,1
+1580692,1785591000,7598,11283,Pontardawe Town,Caerphilly Athletic,3,0,1,0
+1580694,1785591000,7601,7586,Ynyshir Albions,Cardiff Draconians,1,0,0,0
+1580693,1785591000,11309,2192,Treowen Stars,Pontypridd Town,2,3,0,2
+1580454,1785677400,5615,358,Gresford Athletic,Newtown AFC,0,3,0,2
+1580696,1786127400,2192,7598,Pontypridd Town,Pontardawe Town,3,2,1,2
+1580695,1786127400,2200,2196,Afan Lido,Llantwit Major,5,0,1,0
+1580455,1786128300,352,5624,Bala Town,Ruthin Town,2,1,0,0
+1580699,1786128300,355,11310,llanelli AFC,Trethomas Bluebirds,1,1,1,0
+1580697,1786128300,5610,7601,Caerau (Ely),Ynyshir Albions,1,1,0,0
+1580698,1786128300,11283,7586,Caerphilly Athletic,Cardiff Draconians,0,0,0,0
+1580456,1786186800,6451,7581,Denbigh Town,Bangor City 1876 FC,1,2,0,0
+1580700,1786195800,351,11309,Aberystwyth Town,Treowen Stars,1,2,0,0
+1580461,1786195800,358,5620,Newtown AFC,Penrhyncoch,5,0,3,0
+1580458,1786195800,5616,6465,Guilsfield,Mold Alexandra,3,2,0,1
+1580462,1786195800,5621,5623,Porthmadog,Rhyl,1,0,0,0
+1580457,1786195800,6445,5615,Caersws,Gresford Athletic,1,0,0,0
+1580459,1786195800,6457,6443,Holyhead Hotspur,Brickfield Rangers,1,2,0,0
+1580460,1786195800,11303,5609,Llanuwchllyn,Buckley Town,2,1,0,0
+1580701,1786195800,20364,359,Newport City,Carmarthen Town,1,2,0,2
+1580702,1786282200,20358,5626,Baglan Dragons,Swansea University,0,3,0,2
+1580703,1786732200,359,2200,Carmarthen Town,Afan Lido,3,1,1,1
+1580704,1786733100,11310,5610,Trethomas Bluebirds,Caerau (Ely),2,4,2,2
+1580463,1786734000,5624,6451,Ruthin Town,Denbigh Town,2,1,0,0
+1580467,1786800600,358,5616,Newtown AFC,Guilsfield,1,1,1,1
+1580706,1786800600,2196,20358,Llantwit Major,Baglan Dragons,0,1,0,1
+1580465,1786800600,5609,5621,Buckley Town,Porthmadog,1,1,0,1
+1580469,1786800600,5623,6445,Rhyl,Caersws,4,2,2,0
+1580708,1786800600,5626,355,Swansea University,llanelli AFC,3,0,1,0
+1580466,1786800600,6465,6457,Mold Alexandra,Holyhead Hotspur,1,0,1,0
+1580464,1786800600,7581,11303,Bangor City 1876 FC,Llanuwchllyn,5,0,3,0
+1580705,1786800600,7586,2192,Cardiff Draconians,Pontypridd Town,1,4,1,1
+1580707,1786800600,7598,20364,Pontardawe Town,Newport City,0,4,0,2
+1580709,1786800600,11309,11283,Treowen Stars,Caerphilly Athletic,3,0,2,0
+1580470,1786887000,5615,6443,Gresford Athletic,Brickfield Rangers,0,5,0,1
+1580478,1787335200,6465,5609,Mold Alexandra,Buckley Town,1,0,0,0
+1580713,1787337000,2192,11310,Pontypridd Town,Trethomas Bluebirds,2,1,2,0
+1580711,1787337000,2200,7598,Afan Lido,Pontardawe Town,1,0,0,0
+1580476,1787337000,6457,7581,Holyhead Hotspur,Bangor City 1876 FC,2,3,2,1
+1580712,1787337000,20364,20358,Newport City,Baglan Dragons,0,1,0,0
+1580471,1787337900,352,5615,Bala Town,Gresford Athletic,3,0,1,0
+1580714,1787337900,5610,5626,Caerau (Ely),Swansea University,1,5,1,0
+1580472,1787337900,6451,5621,Denbigh Town,Porthmadog,2,3,0,1
+1580715,1787405400,351,2196,Aberystwyth Town,Llantwit Major,5,1,2,0
+1580718,1787405400,359,11309,Carmarthen Town,Treowen Stars,2,4,1,0
+1580475,1787405400,5616,5624,Guilsfield,Ruthin Town,2,2,1,1
+1580473,1787405400,6443,5620,Brickfield Rangers,Penrhyncoch,2,0,1,0
+1580717,1787405400,7586,355,Cardiff Draconians,llanelli AFC,4,2,3,1
+1580716,1787405400,11283,7601,Caerphilly Athletic,Ynyshir Albions,2,1,1,0
+1580722,1787941800,355,359,llanelli AFC,Carmarthen Town,2,2,2,1
+1580724,1787941800,5626,2192,Swansea University,Pontypridd Town,4,4,1,0
+1580721,1787941800,20358,5610,Baglan Dragons,Caerau (Ely),3,1,3,1
+1580723,1787941800,20364,7601,Newport City,Ynyshir Albions,0,1,0,0
+1580720,1787942700,351,7598,Aberystwyth Town,Pontardawe Town,1,0,1,0
+1580481,1787942700,358,11303,Newtown AFC,Llanuwchllyn,4,0,1,0
+1580480,1787942700,5609,5616,Buckley Town,Guilsfield,3,1,1,1
+1580482,1787942700,5620,6451,Penrhyncoch,Denbigh Town,2,2,1,0
+1580483,1787942700,5621,6445,Porthmadog,Caersws,1,3,0,1
+1580484,1787942700,5623,352,Rhyl,Bala Town,1,3,0,0
+1580479,1787942700,7581,6443,Bangor City 1876 FC,Brickfield Rangers,2,1,0,0
+1580725,1787942700,11310,2200,Trethomas Bluebirds,Afan Lido,5,2,3,1
+1580485,1787943600,5624,6465,Ruthin Town,Mold Alexandra,0,4,0,2
+1580727,1788183000,351,355,Aberystwyth Town,llanelli AFC,4,0,1,0
+1580487,1788183000,352,358,Bala Town,Newtown AFC,0,1,0,0
+1580732,1788183000,359,11310,Carmarthen Town,Trethomas Bluebirds,2,3,1,3
+1580728,1788183000,2200,7601,Afan Lido,Ynyshir Albions,0,0,0,0
+1580730,1788183000,5610,11309,Caerau (Ely),Treowen Stars,3,2,0,1
+1580491,1788183000,5616,5620,Guilsfield,Penrhyncoch,4,0,1,0
+1580488,1788183000,6443,5624,Brickfield Rangers,Ruthin Town,2,0,2,0
+1580489,1788183000,6445,5609,Caersws,Buckley Town,2,0,0,0
+1580490,1788183000,6451,5623,Denbigh Town,Rhyl,1,3,1,2
+1580492,1788183000,6457,5621,Holyhead Hotspur,Porthmadog,2,2,2,0
+1580494,1788183000,6465,7581,Mold Alexandra,Bangor City 1876 FC,2,1,0,0
+1580493,1788183000,11303,5615,Llanuwchllyn,Gresford Athletic,2,0,1,0
+1580729,1788183000,20358,11283,Baglan Dragons,Caerphilly Athletic,0,1,0,0
+1580736,1788546600,355,11309,llanelli AFC,Treowen Stars,0,2,0,1
+1580735,1788546600,20358,2200,Baglan Dragons,Afan Lido,2,1,2,0
+1580495,1788547500,5624,6445,Ruthin Town,Caersws,0,3,0,2
+1580738,1788547500,11310,11283,Trethomas Bluebirds,Caerphilly Athletic,2,2,1,1
+1580500,1788615000,358,6451,Newtown AFC,Denbigh Town,1,0,0,0
+1580498,1788615000,5609,5620,Buckley Town,Penrhyncoch,5,0,2,0
+1580501,1788615000,5621,352,Porthmadog,Bala Town,1,2,0,1
+1580497,1788615000,6443,5616,Brickfield Rangers,Guilsfield,2,0,1,0
+1580496,1788615000,7581,5623,Bangor City 1876 FC,Rhyl,2,2,1,0
+1580499,1788615000,11303,6457,Llanuwchllyn,Holyhead Hotspur,4,0,3,0
+1580502,1788701400,5615,6465,Gresford Athletic,Mold Alexandra,1,5,1,5
+1580744,1789151400,2192,2200,Pontypridd Town,Afan Lido,0,1,0,0
+1580749,1789151400,5626,7598,Swansea University,Pontardawe Town,4,0,1,0
+1580745,1789152300,5610,355,Caerau (Ely),llanelli AFC,3,0,1,0
+1580503,1789152300,6451,352,Denbigh Town,Bala Town,5,2,1,0
+1580748,1789219800,359,7601,Carmarthen Town,Ynyshir Albions,2,2,0,0
+1580505,1789219800,5616,5615,Guilsfield,Gresford Athletic,1,1,0,1
+1580508,1789219800,5620,7581,Penrhyncoch,Bangor City 1876 FC,1,5,0,4
+1580509,1789219800,5621,5624,Porthmadog,Ruthin Town,3,0,1,0
+1580510,1789219800,5623,5609,Rhyl,Buckley Town,3,3,2,2
+1580504,1789219800,6445,6443,Caersws,Brickfield Rangers,0,2,0,0
+1580506,1789219800,6457,358,Holyhead Hotspur,Newtown AFC,0,1,0,0
+1580507,1789219800,6465,11303,Mold Alexandra,Llanuwchllyn,2,2,1,1
+1580747,1789219800,7586,20358,Cardiff Draconians,Baglan Dragons,2,1,1,1
+1580746,1789219800,11283,351,Caerphilly Athletic,Aberystwyth Town,2,3,0,2
+1580750,1789219800,11309,2196,Treowen Stars,Llantwit Major,1,1,1,1
+1580468,1789497900,5620,352,Penrhyncoch,Bala Town,0,1,0,0
+1580751,1790361000,2200,20364,Afan Lido,Newport City,0,0,0,0
+1580512,1790361000,7581,5609,Bangor City 1876 FC,Buckley Town,2,6,2,3
+1580752,1790361000,20358,359,Baglan Dragons,Carmarthen Town,1,2,0,1
+1580518,1790361900,5624,5620,Ruthin Town,Penrhyncoch,2,0,1,0
+1580753,1790361900,11283,2192,Caerphilly Athletic,Pontypridd Town,1,2,1,2
+1580754,1790362800,351,5626,Aberystwyth Town,Swansea University,0,0,0,0
+1580511,1790429400,352,6465,Bala Town,Mold Alexandra,2,4,1,1
+1580517,1790429400,358,5621,Newtown AFC,Porthmadog,0,1,0,0
+1580756,1790429400,2196,355,Llantwit Major,llanelli AFC,2,0,2,0
+1580514,1790429400,5615,5623,Gresford Athletic,Rhyl,3,1,2,0
+1580513,1790429400,6443,6451,Brickfield Rangers,Denbigh Town,2,0,1,0
+1580515,1790429400,6457,5616,Holyhead Hotspur,Guilsfield,0,2,0,0
+1580755,1790429400,7586,5610,Cardiff Draconians,Caerau (Ely),1,3,0,1
+1580757,1790429400,7598,11309,Pontardawe Town,Treowen Stars,6,1,5,1
+1580758,1790429400,7601,11310,Ynyshir Albions,Trethomas Bluebirds,1,1,1,1
+1580516,1790429400,11303,6445,Llanuwchllyn,Caersws,2,5,2,2
+1580760,1790965800,355,20358,llanelli AFC,Baglan Dragons,1,2,1,0
+1580759,1790965800,359,2196,Carmarthen Town,Llantwit Major,1,2,1,1
+1580761,1790966700,5610,2200,Caerau (Ely),Afan Lido,2,0,0,0
+1580519,1790966700,6451,6457,Denbigh Town,Holyhead Hotspur,2,4,2,1
+1580763,1791034200,2192,351,Pontypridd Town,Aberystwyth Town,1,3,0,1
+1580520,1791034200,5609,5624,Buckley Town,Ruthin Town,1,1,0,1
+1580522,1791034200,5616,11303,Guilsfield,Llanuwchllyn,1,0,1,0
+1580524,1791034200,5620,5615,Penrhyncoch,Gresford Athletic,0,1,0,0
+1580525,1791034200,5621,7581,Porthmadog,Bangor City 1876 FC,1,0,1,0
+1580526,1791034200,5623,6443,Rhyl,Brickfield Rangers,2,3,1,1
+1580764,1791034200,5626,11283,Swansea University,Caerphilly Athletic,3,1,2,0
+1580521,1791034200,6445,352,Caersws,Bala Town,3,3,1,1
+1580523,1791034200,6465,358,Mold Alexandra,Newtown AFC,1,2,0,0
+1580762,1791034200,7586,20364,Cardiff Draconians,Newport City,1,1,1,0
+1580765,1791034200,11309,7601,Treowen Stars,Ynyshir Albions,1,2,1,1
+1580766,1791034200,11310,7598,Trethomas Bluebirds,Pontardawe Town,2,3,1,2
+1580734,1791311400,2192,2196,Pontypridd Town,Llantwit Major,4,1,2,0
+1580767,1791570600,2200,5626,Afan Lido,Swansea University,5,5,4,3
+1580527,1791571500,352,5609,Bala Town,Buckley Town,2,3,0,2
+1580528,1791571500,5624,5623,Ruthin Town,Rhyl,1,1,1,1
+1580768,1791571500,11283,20364,Caerphilly Athletic,Newport City,3,2,2,0
+1580769,1791639000,351,5610,Aberystwyth Town,Caerau (Ely),0,1,0,0
+1580534,1791639000,358,7581,Newtown AFC,Bangor City 1876 FC,0,0,0,0
+1580772,1791639000,2196,7598,Llantwit Major,Pontardawe Town,1,1,1,1
+1580530,1791639000,5615,5621,Gresford Athletic,Porthmadog,0,1,0,1
+1580531,1791639000,5616,6451,Guilsfield,Denbigh Town,0,2,0,0
+1580529,1791639000,6443,6465,Brickfield Rangers,Mold Alexandra,0,4,0,1
+1580532,1791639000,6457,6445,Holyhead Hotspur,Caersws,1,1,1,1
+1580771,1791639000,7586,359,Cardiff Draconians,Carmarthen Town,2,2,0,2
+1580774,1791639000,7601,355,Ynyshir Albions,llanelli AFC,6,2,3,0
+1580533,1791639000,11303,5620,Llanuwchllyn,Penrhyncoch,4,1,1,0
+1580773,1791639000,11309,11310,Treowen Stars,Trethomas Bluebirds,1,3,0,2
+1580770,1791639000,20358,2192,Baglan Dragons,Pontypridd Town,1,1,0,0
+1580776,1792780200,355,2200,llanelli AFC,Afan Lido,0,3,0,2
+1580775,1792780200,359,11283,Carmarthen Town,Caerphilly Athletic,1,3,0,3
+1580777,1792780200,20364,2192,Newport City,Pontypridd Town,4,4,0,3
+1580778,1792781100,5610,2196,Caerau (Ely),Llantwit Major,0,2,0,1
+1580782,1792781100,11310,7586,Trethomas Bluebirds,Cardiff Draconians,3,1,2,1
+1580537,1792848600,5609,6457,Buckley Town,Holyhead Hotspur,0,2,0,0
+1580541,1792848600,5621,6443,Porthmadog,Brickfield Rangers,0,1,0,1
+1580542,1792848600,5623,358,Rhyl,Newtown AFC,2,2,1,1
+1580538,1792848600,6445,5616,Caersws,Guilsfield,2,2,1,0
+1580539,1792848600,11303,352,Llanuwchllyn,Bala Town,3,3,1,2
+1580784,1793388600,2192,355,Pontypridd Town,llanelli AFC,4,0,2,0
+1580788,1793388600,20358,11309,Baglan Dragons,Treowen Stars,0,1,0,0
+1580783,1793389500,11283,5610,Caerphilly Athletic,Caerau (Ely),0,1,0,1
+1580786,1793455200,2196,20364,Llantwit Major,Newport City,2,3,1,3
+1580545,1793455200,5615,5624,Gresford Athletic,Ruthin Town,1,2,1,2
+1580546,1793455200,5616,5621,Guilsfield,Porthmadog,2,2,1,0
+1580543,1793455200,6443,352,Brickfield Rangers,Bala Town,1,1,0,1
+1580544,1793455200,6445,7581,Caersws,Bangor City 1876 FC,1,1,0,0
+1580547,1793455200,6457,5620,Holyhead Hotspur,Penrhyncoch,3,1,1,1
+1580549,1793455200,6465,5623,Mold Alexandra,Rhyl,2,1,2,1
+1580785,1793455200,7586,2200,Cardiff Draconians,Afan Lido,2,0,1,0
+1580787,1793455200,7598,359,Pontardawe Town,Carmarthen Town,2,1,0,1
+1580789,1793455200,7601,5626,Ynyshir Albions,Swansea University,4,2,2,2
+1580548,1793455200,11303,6451,Llanuwchllyn,Denbigh Town,3,4,1,1
+1580790,1793457000,351,11310,Aberystwyth Town,Trethomas Bluebirds,2,1,1,1
+1580550,1793475900,358,5609,Newtown AFC,Buckley Town,2,0,1,0
+1580793,1793993400,355,7598,llanelli AFC,Pontardawe Town,3,3,1,1
+1580791,1793993400,2200,11283,Afan Lido,Caerphilly Athletic,3,2,2,1
+1580554,1793993400,7581,5615,Bangor City 1876 FC,Gresford Athletic,9,0,5,0
+1580792,1793993400,20358,7601,Baglan Dragons,Ynyshir Albions,2,1,0,0
+1580794,1793993400,20364,11309,Newport City,Treowen Stars,2,2,0,1
+1580551,1793994300,352,5616,Bala Town,Guilsfield,1,0,1,0
+1580795,1793994300,5610,2192,Caerau (Ely),Pontypridd Town,1,3,0,1
+1580553,1793994300,5620,6445,Penrhyncoch,Caersws,0,3,0,0
+1580557,1793994300,5624,358,Ruthin Town,Newtown AFC,0,2,0,2
+1580552,1793994300,6451,6465,Denbigh Town,Mold Alexandra,2,2,1,0
+1580555,1794060000,5609,6443,Buckley Town,Brickfield Rangers,1,3,0,1
+1580556,1794060000,5623,6457,Rhyl,Holyhead Hotspur,1,1,0,1
+1580797,1794060000,5626,7586,Swansea University,Cardiff Draconians,2,0,0,0
+1580558,1794061800,5621,11303,Porthmadog,Llanuwchllyn,1,0,0,0
+1580798,1794061800,11310,2196,Trethomas Bluebirds,Llantwit Major,2,2,0,0
+1580796,1794080700,359,351,Carmarthen Town,Aberystwyth Town,0,4,0,1

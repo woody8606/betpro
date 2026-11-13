@@ -109,9 +109,10 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1628558,1793804400,5176,5173,Enugu Rangers,Bendel Insurance,1,0,0.0,0.0
 1628586,1793977200,26401,5183,Kun Khalifat FC,Kano Pillars,1,1,0.0,0.0
 1628582,1794150000,5171,20809,Abia Warriors,Doma United,2,2,1.0,1.0
-1628583,1794150000,26400,5504,Barau FC,Shooting Stars,1,0,1.0,0.0
 1628584,1794150000,5173,5189,Bendel Insurance,Niger Tornadoes,2,1,1.0,1.0
+1628583,1794150000,26400,5504,Barau FC,Shooting Stars,1,0,1.0,0.0
+1628590,1794150000,5508,5184,Warri Wolves,Katsina United,1,1,0.0,1.0
 1628587,1794150000,5188,5190,Nasarawa United,Plateau United,3,1,0.0,1.0
 1628588,1794150000,28169,5177,Ranchers Bees,Enyimba,1,0,1.0,0.0
 1628589,1794150000,5176,5185,Enugu Rangers,Kwara United,1,0,1.0,0.0
-1628590,1794150000,5508,5184,Warri Wolves,Katsina United,1,1,0.0,1.0
+1628585,1794236400,24512,28168,Ikorodu City,Inter Lagos,2,2,0.0,1.0

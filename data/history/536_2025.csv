@@ -73,3 +73,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1640001,1791320400,5541,10985,St. Vincent / Grenadines,Sint Maarten,4,0,3,0
 1640002,1791327600,5526,8167,Antigua and Barbuda,Aruba,3,2,2,1
 1640003,1791338400,8118,5528,French Guyana,Belize,1,0,0,0
+1640004,1794510000,5527,10983,Barbados,Guadeloupe,0,3,0,2
+1640008,1794510000,8169,5162,Cayman Islands,Guyana,0,6,0,4
+1640007,1794513600,10982,2388,Bonaire,Cuba,1,7,0,1
+1649029,1794520800,8167,8117,Aruba,Martinique,0,0,0,0
+1649030,1794524400,5526,5168,Antigua and Barbuda,Trinidad and Tobago,2,3,1,3
