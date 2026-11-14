@@ -201,36 +201,62 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-12,22:00,1549868,Colombia - Primera A,Deportivo Pasto - Junior,sigur,O15,0.7874,0.6658,0.8395,,,,,,,pierdut,
 2026-11-12,23:00,1649030,World - CONCACAF Nations League,Antigua and Barbuda - Trinidad and Tobago,sigur,O15,0.7894,0.772,0.7969,1.17,Betfair,3.0,,,,iesit,0.17
 2026-11-12,23:00,1649147,Bolivia - Copa de la División Profesional,Real Potosí - Nacional Potosí,sigur,O15,0.8001,0.8932,0.7602,1.2,Betfair,3.0,,,,iesit,0.2
-2026-11-13,16:15,1645399,World - UEFA U21 Championship - Qualification,Finland U21 - Republic of Ireland U21,value,H15,0.4938,0.5739,0.4595,2.1,Betfair,3.0,0.0371,,,,
-2026-11-13,18:00,1585117,France - Feminine Division 1,Nantes W - Lens W,value,O15HT,0.422,0.4984,0.3893,2.5,Betfair,3.0,0.0551,,,,
-2026-11-13,20:15,1571209,Spain - Primera División RFEF - Group 2,Gimnastic - Real Madrid II,value,O15HT,0.3684,0.4256,0.3439,2.88,Betfair,3.0,0.061,,,,
-2026-11-13,08:00,1647000,Mongolia - Premier League,Deren - Central Stallions,sigur,O15,0.9002,0.8754,0.9109,1.01,Betfair,3.0,,,,,
-2026-11-13,11:30,1593078,Ukraine - Druha Liga,Ruh Lviv - Nyva Ternopil II,sigur,O15,0.8981,0.8981,,,,,,,,,
-2026-11-13,17:00,1574652,Austria - Frauenliga,Sturm Graz W - First Vienna W,sigur,O15,0.9008,0.9008,,,,,,,,,
-2026-11-13,18:30,1566416,Germany - Oberliga - Hamburg,Victoria Hamburg - Altona 93,sigur,O15,0.9551,0.9551,,,,,,,,,
-2026-11-13,19:00,1640006,World - CONCACAF Nations League,Bermuda - St. Lucia,sigur,O15,0.8669,0.8281,0.8835,1.05,Betfair,3.0,,,,,
-2026-11-13,19:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,sigur,O15,0.8765,0.8765,,,,,,,,,
-2026-11-13,19:00,1627118,England - Premier League Cup,Peterborough United U21 - Newcastle United U21,sigur,O15,0.8801,0.8959,0.8733,1.07,Betfair,3.0,,,,,
-2026-11-13,19:30,1580535,Wales - FAW Championship,Denbigh Town - Gresford Athletic,sigur,O15,0.9181,0.9181,,,,,,,,,
-2026-11-13,19:30,1611645,Belgium - Reserve Pro League,Francs Borains U21 - RAAL La Louviere U21,sigur,O15,0.874,0.9117,0.8578,,,,,,,,
-2026-11-13,19:30,1580781,Wales - FAW Championship,Swansea University - Treowen Stars,sigur,O15,0.9265,0.9265,,,,,,,,,
-2026-11-13,12:30,1594902,Egypt - Second League,Tanta SC - La Viena FC,bomba scor,CS_0_0,0.2697,0.2697,,5.5,Betfair,3.0,,,,,
+2026-11-13,16:15,1645399,World - UEFA U21 Championship - Qualification,Finland U21 - Republic of Ireland U21,value,H15,0.4938,0.5739,0.4595,2.1,Betfair,3.0,0.0371,1.8,0.1667,pierdut,-1.0
+2026-11-13,18:00,1585117,France - Feminine Division 1,Nantes W - Lens W,value,O15HT,0.422,0.4984,0.3893,2.5,Betfair,3.0,0.0551,2.5,0.0,pierdut,-1.0
+2026-11-13,20:15,1571209,Spain - Primera División RFEF - Group 2,Gimnastic - Real Madrid II,value,O15HT,0.3684,0.4256,0.3439,2.88,Betfair,3.0,0.061,2.75,0.0473,pierdut,-1.0
+2026-11-13,08:00,1647000,Mongolia - Premier League,Deren - Central Stallions,sigur,O15,0.9002,0.8754,0.9109,1.01,Betfair,3.0,,,,iesit,0.01
+2026-11-13,11:30,1593078,Ukraine - Druha Liga,Ruh Lviv - Nyva Ternopil II,sigur,O15,0.8981,0.8981,,,,,,,,iesit,
+2026-11-13,17:00,1574652,Austria - Frauenliga,Sturm Graz W - First Vienna W,sigur,O15,0.9008,0.9008,,,,,,,,iesit,
+2026-11-13,18:30,1566416,Germany - Oberliga - Hamburg,Victoria Hamburg - Altona 93,sigur,O15,0.9551,0.9551,,,,,,,,iesit,
+2026-11-13,19:00,1640006,World - CONCACAF Nations League,Bermuda - St. Lucia,sigur,O15,0.8669,0.8281,0.8835,1.05,Betfair,3.0,,,,iesit,0.05
+2026-11-13,19:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,sigur,O15,0.8765,0.8765,,,,,,,,iesit,
+2026-11-13,19:00,1627118,England - Premier League Cup,Peterborough United U21 - Newcastle United U21,sigur,O15,0.8801,0.8959,0.8733,1.07,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,19:30,1580535,Wales - FAW Championship,Denbigh Town - Gresford Athletic,sigur,O15,0.9181,0.9181,,,,,,,,iesit,
+2026-11-13,19:30,1611645,Belgium - Reserve Pro League,Francs Borains U21 - RAAL La Louviere U21,sigur,O15,0.874,0.9117,0.8578,,,,,,,iesit,
+2026-11-13,19:30,1580781,Wales - FAW Championship,Swansea University - Treowen Stars,sigur,O15,0.9265,0.9265,,,,,,,,iesit,
+2026-11-13,12:30,1594902,Egypt - Second League,Tanta SC - La Viena FC,bomba scor,CS_0_0,0.2697,0.2697,,5.5,Betfair,3.0,,,,pierdut,-1.0
 2026-11-13,12:30,1594903,Egypt - Second League,Itesalat - Kahraba Ismailia,bomba scor,CS_0_0,0.1974,0.1974,,6.5,Betfair,3.0,,,,,
-2026-11-13,15:00,1558561,Montenegro - First League,Jezero - Buducnost Podgorica,bomba scor,CS_0_0,0.1873,0.1873,,8.5,Betfair,3.0,,,,,
-2026-11-13,18:00,1575843,Denmark - 2. Division,Roskilde - Nykobing FC,value,O35,0.4395,0.4816,0.4215,2.45,Betfair,3.0,0.0768,,,,
-2026-11-13,18:00,1586305,Germany - Regionalliga - Bayern,Buchbach - Greuther Fürth II,sigur,O15,0.8641,0.9299,0.8359,,,,,,,,
-2026-11-13,19:00,1640015,World - CONCACAF Nations League,Puerto Rico - Dominica,sigur,O15,0.8642,0.8377,0.8755,1.07,Betfair,3.0,,,,,
-2026-11-13,19:30,1611714,Belgium - Reserve Pro League,Sp. Hasselt U21 - RFC de Liege U21,sigur,O15,0.8755,0.925,0.8542,,,,,,,,
-2026-11-13,21:30,1631810,Mexico - Liga Premier Serie A,Calor de San Pedro - Real Apodaca,bomba scor,CS_1_0,0.113,0.113,,13.0,Betfair,3.0,,,,,
-2026-11-13,19:45,1564927,Northern-Ireland - Championship,Ards - Moyola Park,bomba scor,CS_0_1,0.0953,0.0953,,12.0,Betfair,3.0,,,,,
-2026-11-13,17:00,1628599,Nigeria - NPFL,Shooting Stars - Bendel Insurance,value,O15HT,0.3526,0.4329,0.3182,3.2,Betfair,3.0,0.1283,,,,
-2026-11-13,17:30,1562705,Czech-Republic - 3. liga - CFL A,Viktoria Plzeň II - Loko Vltavín,bomba scor,CS_1_0,0.0939,0.0939,,11.0,Betfair,3.0,,,,,
-2026-11-13,19:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,value,O35,0.4056,0.4895,0.3696,2.75,Betfair,3.0,0.1153,,,,
-2026-11-13,19:45,1545654,World - UEFA Nations League,Slovenia - Switzerland,value,O15HT,0.2857,0.2898,0.2839,3.8,Betfair,3.0,0.0855,,,,
-2026-11-13,20:00,1640012,World - CONCACAF Nations League,Grenada - St. Kitts and Nevis,value,O15HT,0.5024,0.5174,0.496,2.1,Betfair,3.0,0.055,,,,
-2026-11-13,19:45,1646819,Wales - Welsh Cup,Baglan Dragons - Barry Town,sigur,O15,0.8473,0.803,0.8663,,,,,,,,
-2026-11-13,19:45,1646833,Wales - Welsh Cup,The New Saints - Briton Ferry,sigur,O15,0.887,0.8746,0.8923,,,,,,,,
-2026-11-13,20:00,1640012,World - CONCACAF Nations League,Grenada - St. Kitts and Nevis,sigur,O15,0.8667,0.8593,0.8698,1.06,Betfair,3.0,,,,,
-2026-11-13,19:30,1617077,Spain - Tercera División RFEF - Group 15,San Juan - Gazte Berriak,bomba scor,CS_1_0,0.1755,0.1755,,6.0,Betfair,3.0,,,,,
-2026-11-13,21:30,1631810,Mexico - Liga Premier Serie A,Calor de San Pedro - Real Apodaca,bomba scor,CS_1_1,0.1196,0.1196,,10.0,Betfair,3.0,,,,,
-2026-11-13,19:45,1646819,Wales - Welsh Cup,Baglan Dragons - Barry Town,bomba scor,CS_0_1,0.1123,0.1123,,10.0,Betfair,3.0,,,,,
+2026-11-13,15:00,1558561,Montenegro - First League,Jezero - Buducnost Podgorica,bomba scor,CS_0_0,0.1873,0.1873,,8.5,Betfair,3.0,,,,iesit,7.5
+2026-11-13,18:00,1575843,Denmark - 2. Division,Roskilde - Nykobing FC,value,O35,0.4395,0.4816,0.4215,2.45,Betfair,3.0,0.0768,2.2,0.1136,pierdut,-1.0
+2026-11-13,18:00,1586305,Germany - Regionalliga - Bayern,Buchbach - Greuther Fürth II,sigur,O15,0.8641,0.9299,0.8359,,,,,,,iesit,
+2026-11-13,19:00,1640015,World - CONCACAF Nations League,Puerto Rico - Dominica,sigur,O15,0.8642,0.8377,0.8755,1.07,Betfair,3.0,,,,iesit,0.07
+2026-11-13,19:30,1611714,Belgium - Reserve Pro League,Sp. Hasselt U21 - RFC de Liege U21,sigur,O15,0.8755,0.925,0.8542,,,,,,,iesit,
+2026-11-13,21:30,1631810,Mexico - Liga Premier Serie A,Calor de San Pedro - Real Apodaca,bomba scor,CS_1_0,0.113,0.113,,13.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,19:45,1564927,Northern-Ireland - Championship,Ards - Moyola Park,bomba scor,CS_0_1,0.0953,0.0953,,12.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,17:00,1628599,Nigeria - NPFL,Shooting Stars - Bendel Insurance,value,O15HT,0.3526,0.4329,0.3182,3.2,Betfair,3.0,0.1283,3.2,0.0,pierdut,-1.0
+2026-11-13,17:30,1562705,Czech-Republic - 3. liga - CFL A,Viktoria Plzeň II - Loko Vltavín,bomba scor,CS_1_0,0.0939,0.0939,,11.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,19:00,1647667,Venezuela - Segunda División,Deportivo Lara - Zamora FC B,value,O35,0.4056,0.4895,0.3696,2.75,Betfair,3.0,0.1153,2.75,0.0,pierdut,-1.0
+2026-11-13,19:45,1545654,World - UEFA Nations League,Slovenia - Switzerland,value,O15HT,0.2857,0.2898,0.2839,3.8,Betfair,3.0,0.0855,3.8,0.0,pierdut,-1.0
+2026-11-13,20:00,1640012,World - CONCACAF Nations League,Grenada - St. Kitts and Nevis,value,O15HT,0.5024,0.5174,0.496,2.1,Betfair,3.0,0.055,2.1,0.0,iesit,1.1
+2026-11-13,19:45,1646819,Wales - Welsh Cup,Baglan Dragons - Barry Town,sigur,O15,0.8473,0.803,0.8663,,,,,,,iesit,
+2026-11-13,19:45,1646833,Wales - Welsh Cup,The New Saints - Briton Ferry,sigur,O15,0.887,0.8746,0.8923,,,,,,,iesit,
+2026-11-13,20:00,1640012,World - CONCACAF Nations League,Grenada - St. Kitts and Nevis,sigur,O15,0.8667,0.8593,0.8698,1.06,Betfair,3.0,,,,iesit,0.06
+2026-11-13,19:30,1617077,Spain - Tercera División RFEF - Group 15,San Juan - Gazte Berriak,bomba scor,CS_1_0,0.1755,0.1755,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,21:30,1631810,Mexico - Liga Premier Serie A,Calor de San Pedro - Real Apodaca,bomba scor,CS_1_1,0.1196,0.1196,,10.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-13,19:45,1646819,Wales - Welsh Cup,Baglan Dragons - Barry Town,bomba scor,CS_0_1,0.1123,0.1123,,10.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-14,10:00,1635759,World - UEFA U19 Championship - Qualification,Bosnia-Herzegovina U19 - Georgia U19,value,O35,0.4207,0.4496,0.4083,2.55,Betfair,3.0,0.0727,,,,
+2026-11-14,10:45,1565155,Czech-Republic - 1. Liga U19,Opava U19 - Pardubice U19,value,A15,0.4836,0.5335,0.4622,2.2,Betfair,3.0,0.0639,,,,
+2026-11-14,11:00,1598751,Portugal - Liga Revelação U23,Farense U23 - Sporting CP U23,value,O15HT,0.41,0.4664,0.3858,2.55,Betfair,3.0,0.0454,,,,
+2026-11-14,11:00,1591679,Turkey - 2. Lig,Kütahyaspor - Ankaragücü,value,O35,0.3584,0.4225,0.3309,2.88,Betfair,3.0,0.0322,,,,
+2026-11-14,12:30,1635750,World - UEFA U19 Championship - Qualification,Armenia U19 - Albania U19,value,O35,0.3872,0.4316,0.3682,2.7,Betfair,3.0,0.0454,,,,
+2026-11-14,13:00,1648004,France - Coupe de France,Versailles - Rodez,value,O15HT,0.3684,0.4104,0.3504,2.88,Betfair,3.0,0.0609,,,,
+2026-11-14,15:00,1557815,Scotland - League Two,Edinburgh City - Clyde,value,O35,0.3819,0.4574,0.3496,2.7,Betfair,3.0,0.0313,,,,
+2026-11-14,15:00,1557817,Scotland - League Two,Kelty Hearts - Stranraer,value,O35,0.394,0.4376,0.3753,2.63,Betfair,3.0,0.0362,,,,
+2026-11-14,19:00,1551880,Netherlands - Eerste Divisie,Dordrecht - Heracles,value,O35,0.5067,0.562,0.483,2.05,Betfair,3.0,0.0388,,,,
+2026-11-14,19:00,1648406,Argentina - Primera Nacional,Temperley - Ciudad de Bolívar,value,O25,0.3761,0.4556,0.342,2.75,Betfair,3.0,0.0343,,,,
+2026-11-14,20:30,1549863,Colombia - Primera A,Águilas Doradas - Independiente Medellin,value,O35,0.3033,0.3428,0.2863,3.4,Betfair,3.0,0.0312,,,,
+2026-11-14,21:00,1583811,Panama - Liga Panameña de Fútbol,San Francisco FC - Veraguas,value,H15,0.5054,0.5521,0.4853,2.1,Betfair,3.0,0.0613,,,,
+2026-11-14,23:00,1648405,Argentina - Primera Nacional,Gimnasia Jujuy - Almirante Brown,value,A15,0.252,0.2942,0.2339,4.5,Betfair,3.0,0.134,,,,
+2026-11-14,10:00,1591384,Turkey - 2. Lig,Sebat Gençlikspor - Adana Demirspor,sigur,O15,0.9052,0.9052,,,,,,,,,
+2026-11-14,10:30,1593080,Ukraine - Druha Liga,Skala 1911 Stryi - Podillya Khmelnytskyi,sigur,O15,0.9159,0.9159,,,,,,,,,
+2026-11-14,10:45,1565155,Czech-Republic - 1. Liga U19,Opava U19 - Pardubice U19,sigur,O15,0.9052,0.9257,0.8964,1.03,Betfair,3.0,,,,,
+2026-11-14,12:30,1635818,World - UEFA U19 Championship - Qualification,Spain U19 - Wales U19,sigur,O15,0.943,0.943,,1.05,Betfair,3.0,,,,,
+2026-11-14,12:30,1565174,Czech-Republic - 1. Liga U19,Teplice U19 - Karviná U19,sigur,O15,0.9069,0.9315,0.8964,1.03,Betfair,3.0,,,,,
+2026-11-14,14:00,1580477,Wales - FAW Championship,Llanuwchllyn - Rhyl,sigur,O15,0.9082,0.9082,,,,,,,,,
+2026-11-14,15:00,1578785,Scotland - Football League - Lowland League,Kilwinning Rangers - Cumnock Juniors,sigur,O15,0.9249,0.9249,,,,,,,,,
+2026-11-14,15:00,1568871,Poland - III Liga - Group 2,Polonia Środa - Kotwica Kórnik,sigur,O15,0.9491,0.9491,,,,,,,,,
+2026-11-14,15:30,1635771,World - UEFA U19 Championship - Qualification,Denmark U19 - San Marino U19,sigur,O15,0.9283,0.9416,0.9225,1.02,Betfair,3.0,,,,,
+2026-11-14,22:00,1631809,Mexico - Liga Premier Serie A,Real Refineros - Atlético Saltillo,sigur,O15,0.9161,0.9161,,,,,,,,,
+2026-11-14,22:00,1600725,Chile - Segunda División,Colchagua - Linares Unido,bomba scor,CS_0_0,0.1722,0.1722,,9.5,Betfair,3.0,,,,,
+2026-11-14,22:00,1648800,Argentina - Primera B Metropolitana,Real Pilar - Talleres Remedios,bomba scor,CS_0_0,0.1715,0.1715,,6.5,Betfair,3.0,,,,,
+2026-11-14,19:00,1579862,Belgium - First Amateur Division,RWDM - Habay-la-Neuve,bomba scor,CS_1_0,0.1691,0.1691,,6.5,Betfair,3.0,,,,,

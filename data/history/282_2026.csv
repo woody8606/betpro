@@ -1,0 +1,175 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1531948,1774634400,23311,2552,San Marcos,Union Comercio,0,3,0,1
+1531949,1774713600,2549,2556,U. San Martin,Molinos El Pirata,1,1,0,0
+1531943,1774721700,2542,2548,Ayacucho FC,Alianza Universidad,0,2,0,1
+1531942,1774729800,22469,2543,Deportiva Agropecuaria,Academia Cantolao,1,1,0,1
+1531944,1774739700,2550,4226,Deportivo Binacional,Santos,1,1,0,0
+1531947,1774799100,26867,22462,Minas,Bentín Tacna Heroica,0,0,0,0
+1531946,1774807200,10014,2551,Deportivo Llacuabamba,Carlos A. Mannucci,3,0,2,0
+1531945,1774815300,10494,27639,Comerciantes,Sport Huancayo 2,3,2,1,1
+1531950,1775232000,2543,23311,Academia Cantolao,San Marcos,5,1,2,1
+1531951,1775325600,2548,10494,Alianza Universidad,Comerciantes,1,2,0,0
+1531955,1775333700,4226,2542,Santos,Ayacucho FC,0,0,0,0
+1531956,1775412000,22462,2550,Bentín Tacna Heroica,Deportivo Binacional,2,1,2,0
+1531952,1775419200,2551,2549,Carlos A. Mannucci,U. San Martin,2,1,2,0
+1531953,1775419200,20324,26867,Estudiantil CNI,Minas,0,0,0,0
+1531957,1775420100,2552,2541,Union Comercio,Cesar Vallejo,1,0,0,0
+1531954,1775491200,2556,22469,Molinos El Pirata,Deportiva Agropecuaria,0,1,0,0
+1539409,1776528000,2549,10014,U. San Martin,Deportivo Llacuabamba,0,1,0,1
+1539410,1776536100,2542,22462,Ayacucho FC,Bentín Tacna Heroica,0,1,0,1
+1539411,1776544200,22469,2551,Deportiva Agropecuaria,Carlos A. Mannucci,0,0,0,0
+1539412,1776614400,27639,2548,Sport Huancayo 2,Alianza Universidad,1,1,1,1
+1539413,1776622200,2541,2543,Cesar Vallejo,Academia Cantolao,2,1,2,0
+1539415,1776630000,10494,4226,Comerciantes,Santos,1,0,1,0
+1539416,1776715200,2550,20324,Deportivo Binacional,Estudiantil CNI,2,2,2,1
+1539418,1777140000,10014,22469,Deportivo Llacuabamba,Deportiva Agropecuaria,1,0,0,0
+1539419,1777147200,4226,27639,Santos,Sport Huancayo 2,2,0,1,0
+1539417,1777219200,2543,2552,Academia Cantolao,Union Comercio,0,1,0,1
+1539421,1777226400,26867,2550,Minas,Deportivo Binacional,0,0,0,0
+1539422,1777234200,20324,2542,Estudiantil CNI,Ayacucho FC,0,1,0,1
+1539423,1777234500,22462,10494,Bentín Tacna Heroica,Comerciantes,1,1,1,0
+1539424,1777305600,2556,2541,Molinos El Pirata,Cesar Vallejo,2,1,0,1
+1540777,1777651200,27639,22462,Sport Huancayo 2,Bentín Tacna Heroica,2,0,0,0
+1540778,1777744800,2541,2551,Cesar Vallejo,Carlos A. Mannucci,2,0,1,0
+1540779,1777745700,2542,26867,Ayacucho FC,Minas,2,2,0,1
+1540781,1777839000,2552,2556,Union Comercio,Molinos El Pirata,1,2,0,1
+1540783,1777839300,10494,20324,Comerciantes,Estudiantil CNI,1,1,0,0
+1540782,1777839300,22469,2549,Deportiva Agropecuaria,U. San Martin,2,2,0,1
+1540784,1777917600,2548,4226,Alianza Universidad,Santos,1,2,0,0
+1542783,1778263200,26867,10494,Minas,Comerciantes,0,0,0,0
+1542779,1778349600,2550,2542,Deportivo Binacional,Ayacucho FC,0,2,0,1
+1542780,1778349600,10014,2541,Deportivo Llacuabamba,Cesar Vallejo,2,0,1,0
+1542781,1778357700,2551,2552,Carlos A. Mannucci,Union Comercio,0,0,0,0
+1542782,1778357700,22462,2548,Bentín Tacna Heroica,Alianza Universidad,0,0,0,0
+1542784,1778444100,20324,27639,Estudiantil CNI,Sport Huancayo 2,2,0,2,0
+1542785,1778515200,2556,2543,Molinos El Pirata,Academia Cantolao,2,1,2,0
+1544867,1778868000,27639,26867,Sport Huancayo 2,Minas,1,0,1,0
+1544868,1778954400,2548,20324,Alianza Universidad,Estudiantil CNI,2,0,2,0
+1544869,1778961600,10494,2550,Comerciantes,Deportivo Binacional,3,0,3,0
+1544870,1778962500,4226,22462,Santos,Bentín Tacna Heroica,2,1,1,0
+1544871,1779033600,2543,2551,Academia Cantolao,Carlos A. Mannucci,1,4,0,0
+1544872,1779041400,2541,2549,Cesar Vallejo,U. San Martin,0,1,0,0
+1544873,1779048900,2552,10014,Union Comercio,Deportivo Llacuabamba,0,0,0,0
+1545010,1779472800,2542,10494,Ayacucho FC,Comerciantes,0,0,0,0
+1545011,1779480900,2550,27639,Deportivo Binacional,Sport Huancayo 2,0,1,0,0
+1545012,1779552000,2549,2552,U. San Martin,Union Comercio,0,1,0,0
+1545013,1779560100,26867,2548,Minas,Alianza Universidad,0,1,0,1
+1545014,1779568200,20324,4226,Estudiantil CNI,Santos,3,0,2,0
+1545015,1779645600,10014,2543,Deportivo Llacuabamba,Academia Cantolao,3,0,3,0
+1545016,1779654600,2551,2556,Carlos A. Mannucci,Molinos El Pirata,1,0,0,0
+1545017,1779732000,22469,2541,Deportiva Agropecuaria,Cesar Vallejo,1,1,0,1
+1545018,1780084800,4226,26867,Santos,Minas,0,1,0,0
+1545019,1780164000,22462,20324,Bentín Tacna Heroica,Estudiantil CNI,3,1,1,1
+1545020,1780243200,2543,2549,Academia Cantolao,U. San Martin,0,4,0,2
+1545021,1780251300,2548,2550,Alianza Universidad,Deportivo Binacional,1,2,0,1
+1545022,1780259400,2552,22469,Union Comercio,Deportiva Agropecuaria,1,0,0,0
+1545023,1780329600,2556,10014,Molinos El Pirata,Deportivo Llacuabamba,3,1,1,0
+1545024,1780345800,27639,2542,Sport Huancayo 2,Ayacucho FC,0,0,0,0
+1559518,1784397600,2548,2542,Alianza Universidad,Ayacucho FC,3,2,2,1
+1559519,1784405700,27639,10494,Sport Huancayo 2,Comerciantes,1,1,0,0
+1559523,1784422800,2551,10014,Carlos A. Mannucci,Deportivo Llacuabamba,1,0,0,0
+1559520,1784475900,2543,22469,Academia Cantolao,Deportiva Agropecuaria,0,0,0,0
+1559521,1784484000,22462,26867,Bentín Tacna Heroica,Minas,2,1,1,1
+1559522,1784492100,4226,2550,Santos,Deportivo Binacional,3,1,1,0
+1559524,1784563200,2556,2549,Molinos El Pirata,U. San Martin,3,2,1,2
+1559525,1784916000,26867,20324,Minas,Estudiantil CNI,3,0,1,0
+1559526,1784924100,10494,2548,Comerciantes,Alianza Universidad,1,0,0,0
+1559527,1784995200,2549,2551,U. San Martin,Carlos A. Mannucci,2,0,1,0
+1559528,1785009600,2541,2552,Cesar Vallejo,Union Comercio,0,0,0,0
+1559529,1785081600,2542,4226,Ayacucho FC,Santos,2,0,1,0
+1559530,1785089700,2550,22462,Deportivo Binacional,Bentín Tacna Heroica,0,3,0,1
+1559531,1785097800,22469,2556,Deportiva Agropecuaria,Molinos El Pirata,3,1,2,1
+1582180,1785528000,2548,27639,Alianza Universidad,Sport Huancayo 2,1,1,0,0
+1582181,1785599100,2543,2541,Academia Cantolao,Cesar Vallejo,1,1,0,1
+1582182,1785607200,10014,2549,Deportivo Llacuabamba,U. San Martin,3,0,1,0
+1582183,1785615300,4226,10494,Santos,Comerciantes,1,0,0,0
+1582184,1785693600,22462,2542,Bentín Tacna Heroica,Ayacucho FC,2,0,1,0
+1582185,1785700800,2551,22469,Carlos A. Mannucci,Deportiva Agropecuaria,2,0,1,0
+1582186,1785702600,20324,2550,Estudiantil CNI,Deportivo Binacional,9,0,5,0
+1595455,1786125600,2550,26867,Deportivo Binacional,Minas,1,8,0,3
+1595456,1786133700,2552,2543,Union Comercio,Academia Cantolao,4,0,2,0
+1595458,1786212000,27639,4226,Sport Huancayo 2,Santos,2,0,1,0
+1595459,1786220100,22469,10014,Deportiva Agropecuaria,Deportivo Llacuabamba,0,0,0,0
+1595454,1786291200,2542,20324,Ayacucho FC,Estudiantil CNI,1,0,0,0
+1595460,1786299300,2541,2556,Cesar Vallejo,Molinos El Pirata,1,1,1,1
+1595457,1786307400,10494,22462,Comerciantes,Bentín Tacna Heroica,2,2,2,2
+1623357,1786816800,26867,2542,Minas,Ayacucho FC,3,1,0,0
+1623358,1786824900,20324,10494,Estudiantil CNI,Comerciantes,2,2,2,2
+1623359,1786896000,2549,22469,U. San Martin,Deportiva Agropecuaria,3,1,2,0
+1623360,1786904100,22462,27639,Bentín Tacna Heroica,Sport Huancayo 2,1,0,0,0
+1623361,1786912200,2551,2541,Carlos A. Mannucci,Cesar Vallejo,0,1,0,0
+1623362,1786982400,2556,2552,Molinos El Pirata,Union Comercio,1,2,0,1
+1623363,1786996800,4226,2548,Santos,Alianza Universidad,3,3,1,1
+1623364,1787344200,27639,20324,Sport Huancayo 2,Estudiantil CNI,1,0,1,0
+1623365,1787421600,2542,2550,Ayacucho FC,Deportivo Binacional,7,1,2,1
+1623366,1787429700,10494,26867,Comerciantes,Minas,2,2,0,1
+1631560,1787499900,2543,2556,Academia Cantolao,Molinos El Pirata,1,1,1,0
+1623367,1787508000,2541,10014,Cesar Vallejo,Deportivo Llacuabamba,2,0,1,0
+1623368,1787516100,2552,2551,Union Comercio,Carlos A. Mannucci,0,0,0,0
+1623369,1787601600,2548,22462,Alianza Universidad,Bentín Tacna Heroica,1,0,0,0
+1629901,1788018300,2549,2541,U. San Martin,Cesar Vallejo,2,0,1,0
+1629900,1788024600,2550,10494,Deportivo Binacional,Comerciantes,1,0,0,0
+1629902,1788026400,2551,2543,Carlos A. Mannucci,Academia Cantolao,2,0,1,0
+1629903,1788034500,20324,2548,Estudiantil CNI,Alianza Universidad,3,0,1,0
+1629904,1788104700,26867,27639,Minas,Sport Huancayo 2,2,1,0,0
+1629905,1788112800,10014,2552,Deportivo Llacuabamba,Union Comercio,1,1,0,1
+1629906,1788120900,22462,4226,Bentín Tacna Heroica,Santos,3,1,1,1
+1632291,1788544800,27639,2550,Sport Huancayo 2,Deportivo Binacional,7,0,4,0
+1632292,1788552900,10494,2542,Comerciantes,Ayacucho FC,5,1,1,0
+1632293,1788623100,2543,10014,Academia Cantolao,Deportivo Llacuabamba,3,2,2,1
+1632294,1788631200,2541,22469,Cesar Vallejo,Deportiva Agropecuaria,0,1,0,0
+1632295,1788639300,4226,20324,Santos,Estudiantil CNI,4,1,2,1
+1632296,1788717600,2548,26867,Alianza Universidad,Minas,1,1,0,0
+1632297,1788725700,2552,2549,Union Comercio,U. San Martin,1,0,1,0
+1632298,1788796800,2556,2551,Molinos El Pirata,Carlos A. Mannucci,2,4,1,2
+1632299,1789236000,2542,27639,Ayacucho FC,Sport Huancayo 2,0,2,0,1
+1632300,1789236000,2550,2548,Deportivo Binacional,Alianza Universidad,0,0,0,0
+1632301,1789236000,26867,4226,Minas,Santos,2,0,0,0
+1632302,1789244100,20324,22462,Estudiantil CNI,Bentín Tacna Heroica,1,1,1,1
+1632303,1789322400,10014,2556,Deportivo Llacuabamba,Molinos El Pirata,0,0,0,0
+1632305,1789330500,2549,2543,U. San Martin,Academia Cantolao,2,2,1,1
+1632304,1789330500,22469,2552,Deportiva Agropecuaria,Union Comercio,1,0,0,0
+1640264,1790359200,2550,2543,Deportivo Binacional,Academia Cantolao,2,2,1,0
+1640267,1790366400,22469,10014,Deportiva Agropecuaria,Deportivo Llacuabamba,0,0,0,0
+1640268,1790367300,10494,27639,Comerciantes,Sport Huancayo 2,0,1,0,1
+1640271,1790384400,2551,2549,Carlos A. Mannucci,U. San Martin,7,0,3,0
+1640269,1790438400,2542,26867,Ayacucho FC,Minas,1,0,1,0
+1640270,1790532000,2548,22462,Alianza Universidad,Bentín Tacna Heroica,2,2,2,2
+1640272,1790540100,2552,2556,Union Comercio,Molinos El Pirata,2,0,1,0
+1640273,1791302400,2556,2542,Molinos El Pirata,Ayacucho FC,2,0,0,0
+1640274,1791310500,26867,2552,Minas,Union Comercio,4,1,1,1
+1640275,1791318600,2549,2548,U. San Martin,Alianza Universidad,2,1,2,0
+1640265,1791387900,2543,4226,Academia Cantolao,Santos,0,3,0,1
+1640276,1791396000,10014,10494,Deportivo Llacuabamba,Comerciantes,4,0,2,0
+1640277,1791397800,27639,22469,Sport Huancayo 2,Deportiva Agropecuaria,0,1,0,1
+1640266,1791404100,20324,2541,Estudiantil CNI,Cesar Vallejo,3,3,1,1
+1640278,1791489600,22462,2551,Bentín Tacna Heroica,Carlos A. Mannucci,0,0,0,0
+1641797,1791734400,2549,22462,U. San Martin,Bentín Tacna Heroica,2,0,1,0
+1641796,1791748800,4226,2550,Santos,Deportivo Binacional,4,0,3,0
+1641798,1791749700,10494,22469,Comerciantes,Deportiva Agropecuaria,0,2,0,0
+1641799,1791820800,2556,26867,Molinos El Pirata,Minas,1,0,0,0
+1641800,1791828900,27639,10014,Sport Huancayo 2,Deportivo Llacuabamba,0,0,0,0
+1641801,1791837000,2552,2542,Union Comercio,Ayacucho FC,5,0,2,0
+1641802,1791853200,2551,2548,Carlos A. Mannucci,Alianza Universidad,3,1,2,0
+1642148,1792260000,26867,2556,Minas,Molinos El Pirata,4,0,2,0
+1642147,1792263600,2548,2551,Alianza Universidad,Carlos A. Mannucci,1,1,0,1
+1642153,1792268100,2541,20324,Cesar Vallejo,Estudiantil CNI,2,1,1,0
+1642154,1792268100,4226,2543,Santos,Academia Cantolao,1,1,0,0
+1642150,1792346400,2542,2552,Ayacucho FC,Union Comercio,1,1,1,1
+1642151,1792346400,10014,27639,Deportivo Llacuabamba,Sport Huancayo 2,1,2,0,0
+1642152,1792354500,22462,2549,Bentín Tacna Heroica,U. San Martin,1,2,1,1
+1642149,1792354500,22469,10494,Deportiva Agropecuaria,Comerciantes,0,1,0,1
+1644499,1792785600,2550,4226,Deportivo Binacional,Santos,1,2,1,2
+1644493,1792857600,26867,2542,Minas,Ayacucho FC,1,2,0,1
+1644494,1792865700,10014,22469,Deportivo Llacuabamba,Deportiva Agropecuaria,1,1,1,0
+1644495,1792943100,2549,2551,U. San Martin,Carlos A. Mannucci,1,2,1,0
+1644496,1792951200,27639,10494,Sport Huancayo 2,Comerciantes,2,2,1,0
+1644497,1792959300,22462,2548,Bentín Tacna Heroica,Alianza Universidad,1,0,0,0
+1644498,1793030400,2556,2552,Molinos El Pirata,Union Comercio,1,0,0,0
+1645831,1793461500,2543,2550,Academia Cantolao,Deportivo Binacional,8,0,3,0
+1645829,1793477700,2542,2556,Ayacucho FC,Molinos El Pirata,3,2,2,2
+1645826,1793477700,2548,2549,Alianza Universidad,U. San Martin,0,1,0,0
+1645827,1793477700,2551,22462,Carlos A. Mannucci,Bentín Tacna Heroica,2,2,1,2
+1645830,1793477700,2552,26867,Union Comercio,Minas,3,3,1,2
+1645828,1793477700,10494,10014,Comerciantes,Deportivo Llacuabamba,1,2,1,2
+1645825,1793477700,22469,27639,Deportiva Agropecuaria,Sport Huancayo 2,5,1,1,0

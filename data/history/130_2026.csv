@@ -1,0 +1,62 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1502446,1768773600,473,1936,Independ. Rivadavia,CA Estudiantes,2,0,1,0
+1502447,1768781700,446,23255,Lanus,Sarmiento de La Banda,4,1,1,0
+1502448,1768868100,450,8386,Estudiantes L.P.,Ituzaingó,4,0,0,0
+1502449,1769040900,458,1963,Argentinos JRS,Midland,1,1,1,0
+1503664,1770242400,456,2430,Talleres Cordoba,Argentino de Merlo,2,0,0,0
+1503663,1770250500,1064,18764,Platense,Argentino Monte Maíz,1,0,0,0
+1503666,1770328800,476,1954,Deportivo Riestra,Deportivo Maipu,1,0,1,0
+1503665,1770336900,2432,454,Barracas Central,Temperley,2,2,0,2
+1503668,1770847200,437,1966,Rosario Central,Sportivo Belgrano,2,0,2,0
+1503667,1770855300,1065,479,Central Cordoba de Santiago,Gimnasia Jujuy,2,2,1,1
+1503669,1771358400,463,8379,Aldosivi,San Miguel,3,0,1,0
+1503671,1771368300,452,8391,Tigre,Claypole,2,0,0,0
+1503670,1771376400,435,16612,River Plate,Ciudad de Bolívar,1,0,0,0
+1503672,1771978500,451,25758,Boca Juniors,Gimnasia Chivilcoy,2,0,1,0
+1503674,1772049600,461,1929,San Martin S.J.,Deportivo Madryn,2,0,0,0
+1503673,1772064900,439,469,Godoy Cruz,Deportivo Moron,0,1,0,1
+1503675,1774052100,460,1959,San Lorenzo,Deportivo Rincon,5,0,3,0
+1503676,1774476000,455,1931,Atletico Tucuman,Sportivo Barracas,2,1,1,0
+1503677,1774484100,449,2422,Banfield,Real Pilar,3,0,2,0
+1503679,1774641600,453,21043,Independiente,Atenas,4,2,3,0
+1503678,1774660500,440,465,Belgrano Cordoba,Atletico DE Rafaela,3,0,1,0
+1503680,1774743300,436,1935,Racing Club,San Martin Formosa,1,0,1,0
+1503681,1774818000,445,443,Huracan,Olimpo Bahia Blanca,2,1,1,1
+1503682,1774826100,457,2425,Newells Old Boys,Acassuso,0,2,0,1
+1503683,1774916100,441,462,Union Santa Fe,Agropecuario,2,0,1,0
+1503684,1775080800,442,1946,Defensa Y Justicia,Chaco For Ever,2,1,2,1
+1503685,1775088900,478,1948,Instituto Cordoba,Atlanta,2,0,1,0
+1503686,1775588400,2424,485,Estudiantes de Rio Cuarto,San Martin Tucuman,0,0,0,0
+1503688,1775597400,438,2427,Velez Sarsfield,Deportivo Armenio,4,1,3,0
+1503690,1775693400,474,1965,Sarmiento Junin,Tristan Suarez,1,0,0,0
+1503689,1775779200,434,3943,Gimnasia L.P.,Deportivo Camioneros,4,1,2,1
+1503687,1776273000,1066,1928,Gimnasia M.,Gimnasia Y Tiro,0,0,0,0
+1540173,1776895200,2425,434,Acassuso,Gimnasia L.P.,0,3,0,0
+1540053,1776903300,469,1963,Deportivo Moron,Midland,1,2,0,1
+1540860,1777594500,438,1928,Velez Sarsfield,Gimnasia Y Tiro,2,0,1,0
+1540051,1778285400,449,485,Banfield,San Martin Tucuman,1,1,0,1
+1540058,1778699700,1064,461,Platense,San Martin S.J.,0,0,0,0
+1540062,1779307200,456,455,Talleres Cordoba,Atletico Tucuman,0,3,0,1
+1540063,1779490800,441,453,Union Santa Fe,Independiente,0,2,0,2
+1540055,1780165800,479,440,Gimnasia Jujuy,Belgrano Cordoba,2,2,1,1
+1540057,1780174800,478,446,Instituto Cordoba,Lanus,2,1,1,0
+1540054,1780252200,450,437,Estudiantes L.P.,Rosario Central,3,0,2,0
+1540052,1780445400,2432,445,Barracas Central,Huracan,1,0,0,0
+1540056,1783883700,473,452,Independ. Rivadavia,Tigre,1,0,1,0
+1540059,1784238300,436,442,Racing Club,Defensa Y Justicia,4,1,2,0
+1540103,1784249100,474,451,Sarmiento Junin,Boca Juniors,0,2,0,0
+1540061,1784324700,460,476,San Lorenzo,Deportivo Riestra,1,1,1,0
+1540060,1784335500,435,463,River Plate,Aldosivi,1,3,0,2
+1549145,1786572900,455,453,Atletico Tucuman,Independiente,4,0,1,0
+1598011,1787083200,476,434,Deportivo Riestra,Gimnasia L.P.,1,1,1,0
+1549146,1787098500,449,1963,Banfield,Midland,2,2,2,0
+1593678,1787177700,436,440,Racing Club,Belgrano Cordoba,1,0,1,0
+1598010,1787782500,463,473,Aldosivi,Independ. Rivadavia,0,2,0,1
+1549147,1787868000,450,2432,Estudiantes L.P.,Barracas Central,3,1,1,0
+1549148,1787876100,1064,478,Platense,Instituto Cordoba,1,1,0,1
+1593679,1788394500,438,451,Velez Sarsfield,Boca Juniors,0,0,0,0
+1635536,1788991200,476,449,Deportivo Riestra,Banfield,1,1,1,0
+1637267,1789596000,473,455,Independ. Rivadavia,Atletico Tucuman,1,1,1,0
+1638185,1790539200,436,451,Racing Club,Boca Juniors,2,3,1,0
+1637268,1790900100,1064,450,Platense,Estudiantes L.P.,1,0,0,0
+1643513,1793232900,455,1064,Atletico Tucuman,Platense,1,1,1,0

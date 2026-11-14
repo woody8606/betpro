@@ -1,0 +1,649 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1498304,1771012800,8379,1951,San Miguel,Central Norte,1,0,1,0
+1498293,1771027200,465,482,Atletico DE Rafaela,Almagro,0,0,0,0
+1498300,1771029000,439,16612,Godoy Cruz,Ciudad de Bolívar,1,1,0,0
+1498299,1771030800,1928,8377,Gimnasia Y Tiro,Colegiales,2,1,2,0
+1498291,1771099200,464,466,All Boys,Atletico Mitre,2,1,1,1
+1498297,1771099200,469,1067,Deportivo Moron,Defensores De Belgrano,1,1,0,1
+1498305,1771099200,1932,470,San Telmo,Ferro Carril Oeste,0,2,0,1
+1498289,1771099200,2425,1946,Acassuso,Chaco For Ever,2,0,1,0
+1498290,1771102800,462,1954,Agropecuario,Deportivo Maipu,2,1,0,1
+1498306,1771106400,1965,454,Tristan Suarez,Temperley,0,0,0,0
+1498296,1771110000,448,1929,Colon Santa Fe,Deportivo Madryn,2,1,1,0
+1498294,1771185600,447,461,Chacarita Juniors,San Martin S.J.,1,1,1,1
+1498295,1771185600,3969,484,Club Atlético Güemes,Nueva Chicago,0,1,0,0
+1498301,1771187400,483,8375,Los Andes,Almirante Brown,0,0,0,0
+1498303,1771192800,485,444,San Martin Tucuman,Patronato,0,0,0,0
+1498302,1771192800,1957,1936,Racing Cordoba,CA Estudiantes,1,0,1,0
+1498298,1771272000,479,1963,Gimnasia Jujuy,Midland,2,1,2,0
+1498292,1771272000,1948,480,Atlanta,Quilmes,1,0,0,0
+1498308,1771704000,482,485,Almagro,San Martin Tucuman,0,1,0,1
+1498320,1771704000,484,1965,Nueva Chicago,Tristan Suarez,0,0,0,0
+1498307,1771704000,2425,1957,Acassuso,Racing Cordoba,3,0,1,0
+1498319,1771711200,470,8379,Ferro Carril Oeste,San Miguel,1,1,0,1
+1498317,1771711200,1929,469,Deportivo Madryn,Deportivo Moron,1,1,1,0
+1498321,1771714800,444,1928,Patronato,Gimnasia Y Tiro,1,2,0,1
+1498323,1771714800,461,3969,San Martin S.J.,Club Atlético Güemes,2,1,1,0
+1498322,1771714800,480,1963,Quilmes,Midland,0,0,0,0
+1498318,1771714800,1954,465,Deportivo Maipu,Atletico DE Rafaela,2,1,1,1
+1498313,1771718400,1946,1932,Chaco For Ever,San Telmo,2,2,1,2
+1498312,1771790400,447,479,Chacarita Juniors,Gimnasia Jujuy,3,1,1,0
+1498316,1771790400,1067,439,Defensores De Belgrano,Godoy Cruz,1,1,1,1
+1498309,1771790400,8375,464,Almirante Brown,All Boys,2,1,1,1
+1498314,1771790400,16612,483,Ciudad de Bolívar,Los Andes,1,1,0,1
+1498311,1771794000,1951,448,Central Norte,Colon Santa Fe,0,0,0,0
+1498324,1771801200,454,462,Temperley,Agropecuario,1,0,0,0
+1498315,1771801200,8377,1948,Colegiales,Atlanta,1,0,0,0
+1498310,1771854300,466,1936,Atletico Mitre,CA Estudiantes,1,0,0,0
+1498334,1772240400,1928,482,Gimnasia Y Tiro,Almagro,2,0,1,0
+1498336,1772308800,483,1067,Los Andes,Defensores De Belgrano,0,1,0,0
+1498340,1772308800,8379,1946,San Miguel,Chaco For Ever,2,0,0,0
+1498331,1772321400,448,470,Colon Santa Fe,Ferro Carril Oeste,1,1,0,0
+1498325,1772321400,462,484,Agropecuario,Nueva Chicago,0,2,0,0
+1498335,1772395200,439,1929,Godoy Cruz,Deportivo Madryn,0,0,0,0
+1498326,1772395200,464,16612,All Boys,Ciudad de Bolívar,0,0,0,0
+1498332,1772395200,469,1951,Deportivo Moron,Central Norte,2,0,0,0
+1498333,1772395200,479,480,Gimnasia Jujuy,Quilmes,1,0,1,0
+1498341,1772395200,1932,2425,San Telmo,Acassuso,2,3,2,2
+1498337,1772395200,1963,8377,Midland,Colegiales,2,0,1,0
+1498330,1772395200,3969,447,Club Atlético Güemes,Chacarita Juniors,2,1,1,1
+1498339,1772397000,485,1954,San Martin Tucuman,Deportivo Maipu,2,2,0,2
+1498338,1772398800,1957,466,Racing Cordoba,Atletico Mitre,0,0,0,0
+1498328,1772407800,465,454,Atletico DE Rafaela,Temperley,1,0,1,0
+1498329,1772407800,1936,8375,CA Estudiantes,Almirante Brown,0,1,0,0
+1498342,1772407800,1965,461,Tristan Suarez,San Martin S.J.,2,1,1,1
+1498327,1772496000,1948,444,Atlanta,Patronato,0,0,0,0
+1498364,1773446400,465,461,Atletico DE Rafaela,San Martin S.J.,1,0,0,0
+1498375,1773446400,1957,8375,Racing Cordoba,Almirante Brown,2,1,0,1
+1498372,1773507600,483,1951,Los Andes,Central Norte,0,0,0,0
+1498362,1773514800,464,1929,All Boys,Deportivo Madryn,1,0,0,0
+1498368,1773514800,469,1946,Deportivo Moron,Chaco For Ever,3,2,2,1
+1498365,1773514800,1936,1067,CA Estudiantes,Defensores De Belgrano,0,2,0,2
+1498377,1773514800,8379,1932,San Miguel,San Telmo,1,1,1,0
+1498371,1773522000,439,470,Godoy Cruz,Ferro Carril Oeste,2,1,2,0
+1498378,1773525600,1965,3969,Tristan Suarez,Club Atlético Güemes,1,1,0,1
+1498367,1773529200,448,2425,Colon Santa Fe,Acassuso,1,0,0,0
+1498374,1773529200,480,444,Quilmes,Patronato,3,0,2,0
+1498361,1773601200,462,447,Agropecuario,Chacarita Juniors,2,0,1,0
+1498370,1773601200,1928,454,Gimnasia Y Tiro,Temperley,0,0,0,0
+1498373,1773601200,1963,482,Midland,Almagro,1,1,1,0
+1498366,1773604800,466,16612,Atletico Mitre,Ciudad de Bolívar,1,1,0,1
+1498369,1773604800,479,8377,Gimnasia Jujuy,Colegiales,2,1,0,1
+1498376,1773608400,485,484,San Martin Tucuman,Nueva Chicago,2,0,2,0
+1498363,1773705600,1948,1954,Atlanta,Deportivo Maipu,3,1,1,0
+1498392,1774053000,461,485,San Martin S.J.,San Martin Tucuman,1,1,1,0
+1498380,1774112400,482,480,Almagro,Quilmes,1,0,0,0
+1498386,1774119600,1067,466,Defensores De Belgrano,Atletico Mitre,0,0,0,0
+1498379,1774119600,2425,469,Acassuso,Deportivo Moron,0,3,0,1
+1498393,1774119600,8379,1957,San Miguel,Racing Cordoba,1,2,0,2
+1498384,1774123200,16612,8375,Ciudad de Bolívar,Almirante Brown,0,0,0,0
+1498389,1774130400,470,483,Ferro Carril Oeste,Los Andes,0,2,0,1
+1498387,1774130400,1929,1936,Deportivo Madryn,CA Estudiantes,3,0,2,0
+1498396,1774130400,1965,479,Tristan Suarez,Gimnasia Jujuy,3,0,1,0
+1498383,1774137600,1946,439,Chaco For Ever,Godoy Cruz,1,1,0,1
+1498391,1774206000,444,8377,Patronato,Colegiales,2,0,1,0
+1498382,1774206000,447,465,Chacarita Juniors,Atletico DE Rafaela,0,1,0,0
+1498395,1774206000,454,1948,Temperley,Atlanta,2,1,1,1
+1498394,1774206000,1932,448,San Telmo,Colon Santa Fe,3,1,1,0
+1498381,1774209600,1951,464,Central Norte,All Boys,1,0,0,0
+1498385,1774209600,3969,462,Club Atlético Güemes,Agropecuario,1,1,1,0
+1498388,1774216800,1954,1963,Deportivo Maipu,Midland,0,1,0,1
+1498390,1774292400,484,1928,Nueva Chicago,Gimnasia Y Tiro,3,1,2,1
+1498402,1774646100,16612,462,Ciudad de Bolívar,Agropecuario,0,0,0,0
+1498413,1774660200,461,1957,San Martin S.J.,Racing Cordoba,0,0,0,0
+1498401,1774660200,1946,479,Chaco For Ever,Gimnasia Jujuy,1,2,0,1
+1498399,1774713600,1948,470,Atlanta,Ferro Carril Oeste,0,1,0,0
+1498397,1774722600,482,469,Almagro,Deportivo Moron,2,0,1,0
+1498398,1774724400,8375,1965,Almirante Brown,Tristan Suarez,0,1,0,1
+1498404,1774738800,8377,8379,Colegiales,San Miguel,0,0,0,0
+1498409,1774807200,483,454,Los Andes,Temperley,0,1,0,0
+1498411,1774809000,484,464,Nueva Chicago,All Boys,0,0,0,0
+1498412,1774810800,444,448,Patronato,Colon Santa Fe,0,2,0,0
+1498400,1774810800,447,1936,Chacarita Juniors,CA Estudiantes,0,3,0,2
+1498406,1774810800,1929,485,Deportivo Madryn,San Martin Tucuman,1,1,1,1
+1498414,1774810800,1932,480,San Telmo,Quilmes,0,3,0,2
+1498407,1774814400,1954,439,Deportivo Maipu,Godoy Cruz,0,1,0,0
+1498403,1774814400,3969,466,Club Atlético Güemes,Atletico Mitre,2,2,1,0
+1498408,1774816200,1928,1951,Gimnasia Y Tiro,Central Norte,0,1,0,1
+1498405,1774897200,1067,465,Defensores De Belgrano,Atletico DE Rafaela,1,1,1,0
+1498426,1775264400,1928,461,Gimnasia Y Tiro,San Martin S.J.,1,1,1,1
+1498416,1775327400,464,470,All Boys,Ferro Carril Oeste,0,0,0,0
+1498415,1775329200,462,1965,Agropecuario,Tristan Suarez,0,2,0,2
+1498420,1775329200,1936,1951,CA Estudiantes,Central Norte,1,0,1,0
+1498429,1775329200,1963,454,Midland,Temperley,0,0,0,0
+1498422,1775329200,8377,482,Colegiales,Almagro,1,0,0,0
+1498427,1775331000,439,2425,Godoy Cruz,Acassuso,2,0,0,0
+1498432,1775334600,485,447,San Martin Tucuman,Chacarita Juniors,1,1,1,0
+1498423,1775340000,448,8379,Colon Santa Fe,San Miguel,3,0,2,0
+1498428,1775412000,483,1946,Los Andes,Chaco For Ever,2,0,1,0
+1498424,1775413800,469,1932,Deportivo Moron,San Telmo,1,0,0,0
+1498417,1775413800,8375,1067,Almirante Brown,Defensores De Belgrano,0,2,0,0
+1498425,1775419200,479,444,Gimnasia Jujuy,Patronato,2,0,1,0
+1498430,1775419200,480,1954,Quilmes,Deportivo Maipu,2,1,1,0
+1498431,1775419200,1957,16612,Racing Cordoba,Ciudad de Bolívar,0,2,0,1
+1498421,1775426400,466,1929,Atletico Mitre,Deportivo Madryn,1,3,0,2
+1498419,1775430000,465,3969,Atletico DE Rafaela,Club Atlético Güemes,1,2,0,1
+1498418,1775606400,1948,484,Atlanta,Nueva Chicago,1,2,0,1
+1498410,1775689200,1963,2425,Midland,Acassuso,1,0,0,0
+1498435,1775932200,482,444,Almagro,Patronato,0,1,0,0
+1498448,1775932200,1932,439,San Telmo,Godoy Cruz,2,0,1,0
+1498447,1775932200,8379,469,San Miguel,Deportivo Moron,2,1,1,0
+1498437,1776016800,447,1928,Chacarita Juniors,Gimnasia Y Tiro,2,0,2,0
+1498449,1776016800,454,480,Temperley,Quilmes,3,3,2,1
+1498444,1776016800,470,1936,Ferro Carril Oeste,CA Estudiantes,0,1,0,1
+1498441,1776016800,1067,16612,Defensores De Belgrano,Ciudad de Bolívar,0,0,0,0
+1498433,1776016800,2425,483,Acassuso,Los Andes,0,1,0,0
+1498434,1776020400,462,479,Agropecuario,Gimnasia Jujuy,1,2,1,1
+1498442,1776020400,1929,8375,Deportivo Madryn,Almirante Brown,2,1,0,1
+1498438,1776024000,1946,464,Chaco For Ever,All Boys,2,0,0,0
+1498436,1776024000,1951,466,Central Norte,Atletico Mitre,1,1,0,0
+1498439,1776024000,3969,485,Club Atlético Güemes,San Martin Tucuman,0,2,0,1
+1498443,1776029400,1954,8377,Deportivo Maipu,Colegiales,3,1,1,0
+1498440,1776031200,448,1957,Colon Santa Fe,Racing Cordoba,1,0,0,0
+1498445,1776117600,484,1963,Nueva Chicago,Midland,2,2,0,1
+1498450,1776121200,1965,465,Tristan Suarez,Atletico DE Rafaela,0,0,0,0
+1498446,1776126600,461,1948,San Martin S.J.,Atlanta,1,2,1,0
+1498463,1776535200,483,1932,Los Andes,San Telmo,0,0,0,0
+1498464,1776535200,1963,461,Midland,San Martin S.J.,0,1,0,0
+1498451,1776537000,464,2425,All Boys,Acassuso,0,0,0,0
+1498459,1776537000,469,448,Deportivo Moron,Colon Santa Fe,2,0,1,0
+1498462,1776540600,439,8379,Godoy Cruz,San Miguel,0,0,0,0
+1498466,1776540600,480,484,Quilmes,Nueva Chicago,0,0,0,0
+1498465,1776553200,444,1954,Patronato,Deportivo Maipu,0,0,0,0
+1498457,1776553200,16612,1929,Ciudad de Bolívar,Deportivo Madryn,1,0,0,0
+1498458,1776618000,8377,454,Colegiales,Temperley,1,1,1,1
+1498456,1776621600,466,470,Atletico Mitre,Ferro Carril Oeste,0,1,0,0
+1498455,1776621600,1936,1946,CA Estudiantes,Chaco For Ever,0,0,0,0
+1498460,1776623400,479,482,Gimnasia Jujuy,Almagro,6,1,2,0
+1498452,1776623400,8375,1951,Almirante Brown,Central Norte,1,0,0,0
+1498468,1776636000,485,1965,San Martin Tucuman,Tristan Suarez,0,0,0,0
+1498461,1776639600,1928,3969,Gimnasia Y Tiro,Club Atlético Güemes,1,1,1,0
+1498467,1776639600,1957,1067,Racing Cordoba,Defensores De Belgrano,3,0,0,0
+1498454,1776726000,465,462,Atletico DE Rafaela,Agropecuario,4,1,1,0
+1498453,1776729600,1948,447,Atlanta,Chacarita Juniors,1,0,0,0
+1498485,1777141800,454,444,Temperley,Patronato,0,0,0,0
+1498484,1777141800,1932,464,San Telmo,All Boys,1,0,0,0
+1498483,1777141800,8379,483,San Miguel,Los Andes,0,2,0,1
+1498482,1777149000,461,480,San Martin S.J.,Quilmes,1,0,1,0
+1498471,1777150800,465,479,Atletico DE Rafaela,Gimnasia Jujuy,0,0,0,0
+1498479,1777226400,469,1957,Deportivo Moron,Racing Cordoba,2,1,0,0
+1498481,1777226400,484,8377,Nueva Chicago,Colegiales,0,0,0,0
+1498486,1777226400,1965,1928,Tristan Suarez,Gimnasia Y Tiro,2,1,1,1
+1498473,1777228200,447,1963,Chacarita Juniors,Midland,1,0,0,0
+1498469,1777228200,2425,1936,Acassuso,CA Estudiantes,0,1,0,0
+1498470,1777230000,462,485,Agropecuario,San Martin Tucuman,2,0,1,0
+1498477,1777230000,1929,1067,Deportivo Madryn,Defensores De Belgrano,2,1,1,0
+1498474,1777233600,1946,466,Chaco For Ever,Atletico Mitre,1,1,1,0
+1498472,1777233600,1951,16612,Central Norte,Ciudad de Bolívar,0,1,0,1
+1498475,1777233600,3969,1948,Club Atlético Güemes,Atlanta,0,2,0,0
+1498478,1777237200,1954,482,Deportivo Maipu,Almagro,1,0,1,0
+1498476,1777240800,448,439,Colon Santa Fe,Godoy Cruz,0,0,0,0
+1498480,1777415400,470,8375,Ferro Carril Oeste,Almirante Brown,0,1,0,1
+1498487,1777591800,464,8379,All Boys,San Miguel,1,1,0,0
+1498499,1777746600,483,448,Los Andes,Colon Santa Fe,1,1,0,1
+1498495,1777746600,1067,1951,Defensores De Belgrano,Central Norte,1,1,0,1
+1498491,1777746600,1936,1932,CA Estudiantes,San Telmo,1,1,1,1
+1498504,1777762800,485,465,San Martin Tucuman,Atletico DE Rafaela,2,1,1,1
+1498490,1777824000,1948,1965,Atlanta,Tristan Suarez,3,1,2,0
+1498492,1777831200,466,2425,Atletico Mitre,Acassuso,2,0,1,0
+1498488,1777831200,482,454,Almagro,Temperley,1,1,0,1
+1498494,1777831200,8377,461,Colegiales,San Martin S.J.,2,0,1,0
+1498496,1777833000,479,1954,Gimnasia Jujuy,Deportivo Maipu,1,1,0,1
+1498489,1777833000,8375,1946,Almirante Brown,Chaco For Ever,1,0,0,0
+1498501,1777834800,444,484,Patronato,Nueva Chicago,2,1,2,0
+1498493,1777834800,16612,470,Ciudad de Bolívar,Ferro Carril Oeste,2,4,1,1
+1498498,1777836600,439,469,Godoy Cruz,Deportivo Moron,2,2,2,1
+1498500,1777836600,1963,3969,Midland,Club Atlético Güemes,2,1,1,0
+1498503,1777838400,1957,1929,Racing Cordoba,Deportivo Madryn,2,2,1,1
+1498502,1777935600,480,447,Quilmes,Chacarita Juniors,0,0,0,0
+1498497,1777941000,1928,462,Gimnasia Y Tiro,Agropecuario,2,3,2,1
+1498513,1778349600,469,483,Deportivo Moron,Los Andes,0,0,0,0
+1498520,1778349600,1932,466,San Telmo,Atletico Mitre,0,0,0,0
+1498522,1778349600,1965,1963,Tristan Suarez,Midland,1,3,1,1
+1498521,1778351400,454,1954,Temperley,Deportivo Maipu,0,5,0,4
+1498519,1778351400,8379,1936,San Miguel,CA Estudiantes,1,1,0,0
+1498517,1778355000,461,444,San Martin S.J.,Patronato,1,1,0,0
+1498507,1778360400,465,1928,Atletico DE Rafaela,Gimnasia Y Tiro,1,0,0,0
+1498509,1778437800,447,8377,Chacarita Juniors,Colegiales,2,0,0,0
+1498505,1778437800,2425,8375,Acassuso,Almirante Brown,0,0,0,0
+1498506,1778439600,462,1948,Agropecuario,Atlanta,0,0,0,0
+1498511,1778439600,3969,480,Club Atlético Güemes,Quilmes,2,1,0,0
+1498515,1778441400,439,1957,Godoy Cruz,Racing Cordoba,2,1,2,0
+1498510,1778441400,1946,16612,Chaco For Ever,Ciudad de Bolívar,0,1,0,0
+1498508,1778443200,1951,1929,Central Norte,Deportivo Madryn,2,3,1,2
+1498512,1778446800,448,464,Colon Santa Fe,All Boys,3,2,2,0
+1498514,1778536800,470,1067,Ferro Carril Oeste,Defensores De Belgrano,2,1,1,1
+1498516,1778538600,484,482,Nueva Chicago,Almagro,1,2,1,2
+1498518,1778631000,485,479,San Martin Tucuman,Gimnasia Jujuy,2,0,0,0
+1498540,1778889600,1957,1951,Racing Cordoba,Central Norte,1,2,0,1
+1498526,1778947200,1948,465,Atlanta,Atletico DE Rafaela,2,0,1,0
+1498536,1778954400,483,439,Los Andes,Godoy Cruz,1,0,1,0
+1498527,1778956200,1936,448,CA Estudiantes,Colon Santa Fe,1,1,1,1
+1498525,1778956200,8375,1932,Almirante Brown,San Telmo,0,0,0,0
+1498530,1778958000,8377,3969,Colegiales,Club Atlético Güemes,4,1,1,0
+1498529,1778958000,16612,2425,Ciudad de Bolívar,Acassuso,1,0,0,0
+1498532,1779040800,1929,470,Deportivo Madryn,Ferro Carril Oeste,0,1,0,0
+1498534,1779042600,479,454,Gimnasia Jujuy,Temperley,1,0,0,0
+1498524,1779042600,482,461,Almagro,San Martin S.J.,1,2,0,0
+1498538,1779044400,444,447,Patronato,Chacarita Juniors,2,0,1,0
+1498528,1779044400,466,8379,Atletico Mitre,San Miguel,4,0,1,0
+1498537,1779046200,1963,462,Midland,Agropecuario,2,0,1,0
+1498539,1779048000,480,1965,Quilmes,Tristan Suarez,0,1,0,1
+1498535,1779048000,1928,485,Gimnasia Y Tiro,San Martin Tucuman,1,0,0,0
+1498533,1779048000,1954,484,Deportivo Maipu,Nueva Chicago,1,0,0,0
+1498531,1779129000,1067,1946,Defensores De Belgrano,Chaco For Ever,0,0,0,0
+1498523,1779145200,464,469,All Boys,Deportivo Moron,1,0,0,0
+1498552,1779559200,483,1957,Los Andes,Racing Cordoba,2,0,0,0
+1498557,1779559200,1932,16612,San Telmo,Ciudad de Bolívar,0,1,0,0
+1498558,1779559200,1965,8377,Tristan Suarez,Colegiales,0,0,0,0
+1498556,1779561000,8379,8375,San Miguel,Almirante Brown,1,0,0,0
+1498553,1779562800,484,454,Nueva Chicago,Temperley,1,1,0,1
+1498554,1779564600,461,1954,San Martin S.J.,Deportivo Maipu,2,1,1,0
+1498543,1779564600,465,1963,Atletico DE Rafaela,Midland,1,0,0,0
+1498541,1779642000,2425,1067,Acassuso,Defensores De Belgrano,1,0,1,0
+1498548,1779645600,469,1936,Deportivo Moron,CA Estudiantes,2,0,1,0
+1498544,1779647400,447,482,Chacarita Juniors,Almagro,1,0,0,0
+1498542,1779649200,462,480,Agropecuario,Quilmes,0,0,0,0
+1498549,1779649200,470,1951,Ferro Carril Oeste,Central Norte,1,0,0,0
+1498545,1779649200,1946,1929,Chaco For Ever,Deportivo Madryn,1,2,0,2
+1498551,1779651000,439,464,Godoy Cruz,All Boys,4,0,2,0
+1498547,1779656400,448,466,Colon Santa Fe,Atletico Mitre,1,1,1,0
+1498550,1779658200,1928,479,Gimnasia Y Tiro,Gimnasia Jujuy,1,1,0,0
+1498546,1779658200,3969,444,Club Atlético Güemes,Patronato,1,0,0,0
+1498555,1779660000,485,1948,San Martin Tucuman,Atlanta,0,1,0,0
+1498575,1780099200,1957,470,Racing Cordoba,Ferro Carril Oeste,0,0,0,0
+1498563,1780164000,1936,439,CA Estudiantes,Godoy Cruz,1,0,0,0
+1498567,1780164000,8377,462,Colegiales,Agropecuario,0,0,0,0
+1498559,1780165800,464,483,All Boys,Los Andes,0,0,0,0
+1498568,1780165800,1067,1932,Defensores De Belgrano,San Telmo,1,0,1,0
+1498561,1780165800,8375,448,Almirante Brown,Colon Santa Fe,1,1,1,0
+1498562,1780245000,1948,1928,Atlanta,Gimnasia Y Tiro,1,1,0,0
+1498569,1780250400,1929,2425,Deportivo Madryn,Acassuso,0,0,0,0
+1498560,1780252200,482,3969,Almagro,Club Atlético Güemes,2,0,0,0
+1498573,1780254000,444,1965,Patronato,Tristan Suarez,1,1,1,1
+1498576,1780254000,454,461,Temperley,San Martin S.J.,2,1,2,0
+1498564,1780254000,466,469,Atletico Mitre,Deportivo Moron,1,3,0,2
+1498572,1780254000,1963,485,Midland,San Martin Tucuman,2,0,1,0
+1498566,1780254000,16612,8379,Ciudad de Bolívar,San Miguel,1,1,1,1
+1498565,1780255800,1951,1946,Central Norte,Chaco For Ever,1,1,1,0
+1498574,1780257600,480,465,Quilmes,Atletico DE Rafaela,2,0,1,0
+1498570,1780257600,1954,447,Deportivo Maipu,Chacarita Juniors,3,2,0,0
+1498587,1780705800,1928,1963,Gimnasia Y Tiro,Midland,1,0,0,0
+1498580,1780765200,1948,479,Atlanta,Gimnasia Jujuy,3,0,0,0
+1498589,1780768800,483,1936,Los Andes,CA Estudiantes,0,0,0,0
+1498577,1780770600,2425,1951,Acassuso,Central Norte,2,1,2,1
+1498592,1780770600,8379,1067,San Miguel,Defensores De Belgrano,0,0,0,0
+1498581,1780774200,465,8377,Atletico DE Rafaela,Colegiales,1,0,1,0
+1498594,1780783200,1965,482,Tristan Suarez,Almagro,0,0,0,0
+1498586,1780855200,469,8375,Deportivo Moron,Almirante Brown,1,0,1,0
+1498593,1780855200,1932,1929,San Telmo,Deportivo Madryn,0,0,0,0
+1498582,1780857000,447,454,Chacarita Juniors,Temperley,0,1,0,1
+1498579,1780857000,464,1957,All Boys,Racing Cordoba,1,1,1,1
+1498578,1780858800,462,444,Agropecuario,Patronato,1,1,0,1
+1498583,1780858800,1946,470,Chaco For Ever,Ferro Carril Oeste,1,2,0,0
+1498584,1780858800,3969,1954,Club Atlético Güemes,Deportivo Maipu,1,0,0,0
+1498588,1780860600,439,466,Godoy Cruz,Atletico Mitre,2,1,0,1
+1498585,1780862400,448,16612,Colon Santa Fe,Ciudad de Bolívar,0,0,0,0
+1498591,1780864200,485,480,San Martin Tucuman,Quilmes,0,0,0,0
+1498607,1781371800,1963,1948,Midland,Atlanta,1,2,1,1
+1498601,1781373600,8377,485,Colegiales,San Martin Tucuman,2,0,0,0
+1498595,1781375400,482,462,Almagro,Agropecuario,2,1,0,0
+1498608,1781375400,484,447,Nueva Chicago,Chacarita Juniors,2,0,0,0
+1498602,1781375400,1067,448,Defensores De Belgrano,Colon Santa Fe,0,3,0,2
+1498600,1781377200,16612,469,Ciudad de Bolívar,Deportivo Moron,1,2,1,1
+1498610,1781380800,480,1928,Quilmes,Gimnasia Y Tiro,1,0,1,0
+1498606,1781391600,479,461,Gimnasia Jujuy,San Martin S.J.,2,1,0,0
+1498596,1781458200,8375,439,Almirante Brown,Godoy Cruz,1,0,0,0
+1498603,1781460000,1929,8379,Deportivo Madryn,San Miguel,2,2,1,0
+1498597,1781460000,1936,464,CA Estudiantes,All Boys,2,1,1,0
+1498609,1781461800,444,465,Patronato,Atletico DE Rafaela,0,0,0,0
+1498605,1781461800,470,2425,Ferro Carril Oeste,Acassuso,2,1,0,0
+1498612,1781463600,454,3969,Temperley,Club Atlético Güemes,4,1,2,1
+1498598,1781463600,466,483,Atletico Mitre,Los Andes,0,3,0,2
+1498611,1781463600,1957,1946,Racing Cordoba,Chaco For Ever,2,0,1,0
+1498599,1781465400,1951,1932,Central Norte,San Telmo,0,0,0,0
+1498604,1781465400,1954,1965,Deportivo Maipu,Tristan Suarez,0,1,0,0
+1498571,1781719200,479,484,Gimnasia Jujuy,Nueva Chicago,4,0,2,0
+1498344,1781978400,482,1948,Almagro,Atlanta,2,0,0,0
+1498359,1781978400,1932,1957,San Telmo,Racing Cordoba,2,0,2,0
+1498351,1781978400,8377,480,Colegiales,Quilmes,3,1,1,0
+1498349,1781978400,16612,1936,Ciudad de Bolívar,CA Estudiantes,1,2,1,0
+1498343,1781980200,2425,8379,Acassuso,San Miguel,0,2,0,1
+1498360,1781982000,454,485,Temperley,San Martin Tucuman,1,1,1,0
+1498358,1781982000,461,462,San Martin S.J.,Agropecuario,2,0,1,0
+1498348,1781982000,1946,448,Chaco For Ever,Colon Santa Fe,1,0,0,0
+1498353,1782064800,1929,483,Deportivo Madryn,Los Andes,2,1,2,1
+1498357,1782066600,444,1963,Patronato,Midland,1,1,1,0
+1498347,1782066600,447,1965,Chacarita Juniors,Tristan Suarez,0,0,0,0
+1498355,1782066600,470,469,Ferro Carril Oeste,Deportivo Moron,1,0,0,0
+1498352,1782066600,1067,464,Defensores De Belgrano,All Boys,0,1,0,0
+1498345,1782066600,8375,466,Almirante Brown,Atletico Mitre,3,1,1,1
+1498346,1782070200,1951,439,Central Norte,Godoy Cruz,1,0,1,0
+1498354,1782070200,1954,1928,Deportivo Maipu,Gimnasia Y Tiro,0,0,0,0
+1498350,1782072000,3969,479,Club Atlético Güemes,Gimnasia Jujuy,1,3,1,2
+1498356,1782250200,484,465,Nueva Chicago,Atletico DE Rafaela,0,0,0,0
+1498620,1783188000,8377,1928,Colegiales,Gimnasia Y Tiro,1,2,1,1
+1498630,1783189800,454,1965,Temperley,Tristan Suarez,1,0,1,0
+1498613,1783189800,482,465,Almagro,Atletico DE Rafaela,1,0,0,0
+1498626,1783189800,484,3969,Nueva Chicago,Club Atlético Güemes,2,0,1,0
+1498621,1783189800,1067,469,Defensores De Belgrano,Deportivo Moron,2,1,0,1
+1498614,1783189800,8375,483,Almirante Brown,Los Andes,1,0,0,0
+1498619,1783191600,16612,439,Ciudad de Bolívar,Godoy Cruz,3,1,2,1
+1498628,1783198800,480,1948,Quilmes,Atlanta,2,1,0,0
+1498622,1783274400,1929,448,Deportivo Madryn,Colon Santa Fe,1,2,0,0
+1498615,1783274400,1936,1957,CA Estudiantes,Racing Cordoba,1,1,0,0
+1498627,1783276200,444,485,Patronato,San Martin Tucuman,0,1,0,1
+1498624,1783276200,470,1932,Ferro Carril Oeste,San Telmo,2,1,2,0
+1498618,1783276200,1946,2425,Chaco For Ever,Acassuso,1,1,1,0
+1498629,1783278000,461,447,San Martin S.J.,Chacarita Juniors,0,1,0,1
+1498616,1783278000,466,464,Atletico Mitre,All Boys,1,1,0,1
+1498625,1783278000,1963,479,Midland,Gimnasia Jujuy,1,1,0,1
+1498617,1783279800,1951,8379,Central Norte,San Miguel,1,1,1,1
+1498623,1783279800,1954,462,Deportivo Maipu,Agropecuario,2,0,2,0
+1498632,1783792800,464,8375,All Boys,Almirante Brown,1,1,0,1
+1498634,1783792800,465,1954,Atletico DE Rafaela,Deportivo Maipu,1,3,0,1
+1498638,1783792800,469,1929,Deportivo Moron,Deportivo Madryn,2,2,0,0
+1498642,1783792800,483,16612,Los Andes,Ciudad de Bolívar,3,1,1,0
+1498647,1783792800,1932,1946,San Telmo,Chaco For Ever,1,3,0,2
+1498635,1783792800,1936,466,CA Estudiantes,Atletico Mitre,3,0,3,0
+1498648,1783792800,1965,484,Tristan Suarez,Nueva Chicago,1,0,0,0
+1498646,1783792800,8379,470,San Miguel,Ferro Carril Oeste,0,1,0,1
+1498639,1783879200,479,447,Gimnasia Jujuy,Chacarita Juniors,1,1,0,1
+1498637,1783881000,448,1951,Colon Santa Fe,Central Norte,4,0,2,0
+1498631,1783882800,462,454,Agropecuario,Temperley,0,0,0,0
+1498644,1783882800,1957,2425,Racing Cordoba,Acassuso,3,2,1,0
+1498643,1783882800,1963,480,Midland,Quilmes,1,0,0,0
+1498636,1783882800,3969,461,Club Atlético Güemes,San Martin S.J.,0,2,0,1
+1498641,1783884600,439,1067,Godoy Cruz,Defensores De Belgrano,1,0,0,0
+1498640,1783886400,1928,444,Gimnasia Y Tiro,Patronato,1,1,0,1
+1498645,1783890000,485,482,San Martin Tucuman,Almagro,3,0,3,0
+1498633,1783987200,1948,8377,Atlanta,Colegiales,1,0,0,0
+1498660,1784311200,1954,485,Deportivo Maipu,San Martin Tucuman,0,0,0,0
+1498651,1784311200,8375,1936,Almirante Brown,CA Estudiantes,0,0,0,0
+1498652,1784314800,466,1957,Atletico Mitre,Racing Cordoba,1,0,0,0
+1498662,1784322000,484,462,Nueva Chicago,Agropecuario,1,1,0,0
+1498661,1784327400,470,448,Ferro Carril Oeste,Colon Santa Fe,2,0,1,0
+1498656,1784329200,16612,464,Ciudad de Bolívar,All Boys,0,0,0,0
+1498666,1784331000,454,465,Temperley,Atletico DE Rafaela,2,0,0,0
+1498671,1785002400,1936,16612,CA Estudiantes,Ciudad de Bolívar,1,2,1,2
+1498684,1785002400,1965,447,Tristan Suarez,Chacarita Juniors,1,0,0,0
+1498670,1785006000,465,484,Atletico DE Rafaela,Nueva Chicago,1,0,0,0
+1498682,1785016800,485,454,San Martin Tucuman,Temperley,1,2,0,1
+1498667,1785088800,462,461,Agropecuario,San Martin S.J.,2,1,0,1
+1498668,1785088800,464,1067,All Boys,Defensores De Belgrano,0,0,0,0
+1498678,1785088800,483,1929,Los Andes,Deportivo Madryn,0,0,0,0
+1498673,1785090600,448,1946,Colon Santa Fe,Chaco For Ever,0,1,0,1
+1498674,1785090600,469,470,Deportivo Moron,Ferro Carril Oeste,4,0,2,0
+1498683,1785090600,8379,2425,San Miguel,Acassuso,0,0,0,0
+1498672,1785092400,466,8375,Atletico Mitre,Almirante Brown,0,0,0,0
+1498675,1785092400,479,3969,Gimnasia Jujuy,Club Atlético Güemes,2,1,0,1
+1498681,1785092400,1957,1932,Racing Cordoba,San Telmo,2,1,1,0
+1498679,1785092400,1963,444,Midland,Patronato,1,0,0,0
+1498677,1785094200,439,1951,Godoy Cruz,Central Norte,2,1,2,1
+1498676,1785099600,1928,1954,Gimnasia Y Tiro,Deportivo Maipu,1,0,0,0
+1498680,1785103200,480,8377,Quilmes,Colegiales,0,1,0,0
+1498669,1785193200,1948,482,Atlanta,Almagro,1,3,0,3
+1498698,1785605400,484,485,Nueva Chicago,San Martin Tucuman,2,1,1,1
+1498697,1785607200,470,439,Ferro Carril Oeste,Godoy Cruz,1,3,1,2
+1498686,1785607200,482,1963,Almagro,Midland,1,1,0,0
+1498694,1785607200,1067,1936,Defensores De Belgrano,CA Estudiantes,1,1,0,0
+1498685,1785607200,2425,448,Acassuso,Colon Santa Fe,1,1,1,0
+1498693,1785607200,8377,479,Colegiales,Gimnasia Jujuy,2,1,0,0
+1498699,1785609000,444,480,Patronato,Quilmes,3,3,3,1
+1498700,1785609000,461,465,San Martin S.J.,Atletico DE Rafaela,1,1,0,0
+1498689,1785693600,447,462,Chacarita Juniors,Agropecuario,2,1,0,0
+1498701,1785693600,1932,8379,San Telmo,San Miguel,1,0,0,0
+1498687,1785693600,8375,1957,Almirante Brown,Racing Cordoba,2,0,1,0
+1498691,1785693600,16612,466,Ciudad de Bolívar,Atletico Mitre,0,2,0,1
+1498702,1785695400,454,1928,Temperley,Gimnasia Y Tiro,1,2,0,2
+1498696,1785695400,1954,1948,Deportivo Maipu,Atlanta,4,2,2,2
+1498695,1785697200,1929,464,Deportivo Madryn,All Boys,2,0,0,0
+1498690,1785697200,1946,469,Chaco For Ever,Deportivo Moron,2,0,0,0
+1498688,1785699000,1951,483,Central Norte,Los Andes,1,0,1,0
+1498692,1785783600,3969,1965,Club Atlético Güemes,Tristan Suarez,1,3,1,1
+1498650,1785952800,482,1928,Almagro,Gimnasia Y Tiro,0,2,0,1
+1498664,1785967200,480,479,Quilmes,Gimnasia Jujuy,2,0,0,0
+1498717,1786143600,1963,1954,Midland,Deportivo Maipu,2,0,1,0
+1498703,1786212000,462,3969,Agropecuario,Club Atlético Güemes,3,0,1,0
+1498708,1786212000,1936,1929,CA Estudiantes,Deportivo Madryn,0,1,0,0
+1498705,1786212000,8375,16612,Almirante Brown,Ciudad de Bolívar,2,0,0,0
+1498707,1786215600,465,447,Atletico DE Rafaela,Chacarita Juniors,1,0,1,0
+1498706,1786294800,1948,454,Atlanta,Temperley,1,0,0,0
+1498716,1786296600,483,470,Los Andes,Ferro Carril Oeste,1,2,0,1
+1498712,1786298400,469,2425,Deportivo Moron,Acassuso,4,1,3,1
+1498710,1786298400,8377,444,Colegiales,Patronato,2,2,0,1
+1498711,1786300200,448,1932,Colon Santa Fe,San Telmo,1,0,0,0
+1498709,1786302000,466,1067,Atletico Mitre,Defensores De Belgrano,2,1,1,1
+1498719,1786302000,1957,8379,Racing Cordoba,San Miguel,1,0,0,0
+1498715,1786303800,439,1946,Godoy Cruz,Chaco For Ever,2,1,2,0
+1498718,1786305600,480,482,Quilmes,Almagro,1,1,0,0
+1498714,1786307400,1928,484,Gimnasia Y Tiro,Nueva Chicago,2,0,1,0
+1498720,1786309200,485,461,San Martin Tucuman,San Martin S.J.,1,1,0,0
+1498704,1786384800,464,1951,All Boys,Central Norte,1,1,0,0
+1498713,1786384800,479,1965,Gimnasia Jujuy,Tristan Suarez,0,2,0,2
+1498721,1786730400,2425,1963,Acassuso,Midland,1,1,0,1
+1498724,1786750200,465,1067,Atletico DE Rafaela,Defensores De Belgrano,0,0,0,0
+1498722,1786816800,462,16612,Agropecuario,Ciudad de Bolívar,1,0,0,0
+1498729,1786816800,469,482,Deportivo Moron,Almagro,2,0,2,0
+1498730,1786816800,470,1948,Ferro Carril Oeste,Atlanta,3,1,1,0
+1498736,1786816800,8379,8377,San Miguel,Colegiales,2,0,1,0
+1498726,1786820400,466,3969,Atletico Mitre,Club Atlético Güemes,1,1,1,1
+1498728,1786822200,448,444,Colon Santa Fe,Patronato,3,0,1,0
+1498732,1786827600,439,1954,Godoy Cruz,Deportivo Maipu,1,2,1,0
+1498733,1786831200,480,1932,Quilmes,San Telmo,3,0,2,0
+1498725,1786831200,1936,447,CA Estudiantes,Chacarita Juniors,2,0,0,0
+1498738,1786903200,1965,8375,Tristan Suarez,Almirante Brown,3,1,2,0
+1498731,1786906800,479,1946,Gimnasia Jujuy,Chaco For Ever,1,0,0,0
+1498735,1786910400,485,1929,San Martin Tucuman,Deportivo Madryn,2,2,1,0
+1498727,1786910400,1951,1928,Central Norte,Gimnasia Y Tiro,0,0,0,0
+1498734,1786910400,1957,461,Racing Cordoba,San Martin S.J.,0,0,0,0
+1498737,1786914000,454,483,Temperley,Los Andes,3,0,1,0
+1498723,1786989600,464,484,All Boys,Nueva Chicago,1,0,1,0
+1498654,1787162400,447,3969,Chacarita Juniors,Club Atlético Güemes,0,0,0,0
+1498739,1787335200,2425,439,Acassuso,Godoy Cruz,0,1,0,0
+1498754,1787337000,1932,469,San Telmo,Deportivo Moron,2,2,0,2
+1498747,1787349600,1929,466,Deportivo Madryn,Atletico Mitre,4,0,1,0
+1498756,1787421600,1965,462,Tristan Suarez,Agropecuario,2,0,0,0
+1498751,1787423400,444,479,Patronato,Gimnasia Jujuy,3,3,1,1
+1498752,1787423400,461,1928,San Martin S.J.,Gimnasia Y Tiro,3,1,2,0
+1498740,1787423400,482,8377,Almagro,Colegiales,0,0,0,0
+1498750,1787423400,484,1948,Nueva Chicago,Atlanta,0,1,0,1
+1498746,1787423400,1067,8375,Defensores De Belgrano,Almirante Brown,0,2,0,1
+1498753,1787423400,8379,448,San Miguel,Colon Santa Fe,1,2,0,1
+1498743,1787425200,1946,483,Chaco For Ever,Los Andes,1,0,1,0
+1498741,1787446800,1951,1936,Central Norte,CA Estudiantes,2,1,0,0
+1498742,1787508000,447,485,Chacarita Juniors,San Martin Tucuman,1,2,1,0
+1498748,1787509800,1954,480,Deportivo Maipu,Quilmes,1,0,0,0
+1498744,1787509800,16612,1957,Ciudad de Bolívar,Racing Cordoba,1,1,1,1
+1498755,1787511600,454,1963,Temperley,Midland,2,1,0,1
+1498745,1787598000,3969,465,Club Atlético Güemes,Atletico DE Rafaela,0,0,0,0
+1498749,1787612400,470,464,Ferro Carril Oeste,All Boys,1,0,0,0
+1498659,1787695200,1929,439,Deportivo Madryn,Godoy Cruz,2,0,1,0
+1498590,1787767200,461,484,San Martin S.J.,Nueva Chicago,1,0,1,0
+1498655,1787767200,1946,8379,Chaco For Ever,San Miguel,3,0,0,0
+1498649,1787767200,2425,1932,Acassuso,San Telmo,1,2,0,0
+1498663,1787769000,444,1948,Patronato,Atlanta,2,0,1,0
+1498653,1787790600,1951,469,Central Norte,Deportivo Moron,0,0,0,0
+1498767,1787965200,1928,447,Gimnasia Y Tiro,Chacarita Juniors,1,0,0,0
+1498764,1788026400,8377,1954,Colegiales,Deportivo Maipu,1,0,0,0
+1498760,1788030000,465,1965,Atletico DE Rafaela,Tristan Suarez,2,1,0,1
+1498763,1788030000,16612,1067,Ciudad de Bolívar,Defensores De Belgrano,1,0,0,0
+1498770,1788031800,1963,484,Midland,Nueva Chicago,2,0,1,0
+1498762,1788112800,466,1951,Atletico Mitre,Central Norte,2,2,2,0
+1498758,1788112800,8375,1929,Almirante Brown,Deportivo Madryn,1,0,1,0
+1498771,1788114600,444,482,Patronato,Almagro,0,1,0,0
+1498757,1788114600,464,1946,All Boys,Chaco For Ever,0,0,0,0
+1498765,1788114600,469,8379,Deportivo Moron,San Miguel,2,1,0,0
+1498761,1788114600,1936,470,CA Estudiantes,Ferro Carril Oeste,2,2,1,0
+1498759,1788114600,1948,461,Atlanta,San Martin S.J.,0,1,0,0
+1498773,1788120000,1957,448,Racing Cordoba,Colon Santa Fe,1,0,1,0
+1498768,1788123600,439,1932,Godoy Cruz,San Telmo,3,0,1,0
+1498774,1788125400,485,3969,San Martin Tucuman,Club Atlético Güemes,1,1,0,1
+1498772,1788127200,480,454,Quilmes,Temperley,0,1,0,0
+1498769,1788213600,483,2425,Los Andes,Acassuso,0,0,0,0
+1498766,1788220800,479,462,Gimnasia Jujuy,Agropecuario,1,1,0,0
+1498657,1788390000,8377,1963,Colegiales,Midland,3,0,2,0
+1498783,1788546600,1067,1957,Defensores De Belgrano,Racing Cordoba,3,0,2,0
+1498786,1788562800,470,466,Ferro Carril Oeste,Atletico Mitre,0,0,0,0
+1498790,1788631200,1932,483,San Telmo,Los Andes,0,0,0,0
+1498792,1788631200,1965,485,Tristan Suarez,San Martin Tucuman,2,0,1,0
+1498779,1788633000,447,1948,Chacarita Juniors,Atlanta,0,1,0,1
+1498775,1788633000,2425,464,Acassuso,All Boys,0,1,0,0
+1498782,1788638400,448,469,Colon Santa Fe,Deportivo Moron,1,2,0,2
+1498776,1788717600,462,465,Agropecuario,Atletico DE Rafaela,2,0,1,0
+1498789,1788717600,8379,439,San Miguel,Godoy Cruz,1,2,0,2
+1498788,1788719400,461,1963,San Martin S.J.,Midland,3,2,1,0
+1498777,1788719400,482,479,Almagro,Gimnasia Jujuy,1,2,1,1
+1498791,1788721200,454,8377,Temperley,Colegiales,3,1,1,1
+1498784,1788721200,1929,16612,Deportivo Madryn,Ciudad de Bolívar,3,1,1,1
+1498780,1788721200,1946,1936,Chaco For Ever,CA Estudiantes,1,0,1,0
+1498785,1788721200,1954,444,Deportivo Maipu,Patronato,0,0,0,0
+1498778,1788724800,1951,8375,Central Norte,Almirante Brown,0,0,0,0
+1498781,1788724800,3969,1928,Club Atlético Güemes,Gimnasia Y Tiro,1,3,0,2
+1498787,1788811200,484,480,Nueva Chicago,Quilmes,1,0,1,0
+1498658,1788978600,1067,483,Defensores De Belgrano,Los Andes,1,1,0,1
+1498803,1789174800,1928,1965,Gimnasia Y Tiro,Tristan Suarez,0,0,0,0
+1498796,1789236000,1948,3969,Atlanta,Club Atlético Güemes,2,0,1,0
+1498800,1789236000,8377,484,Colegiales,Nueva Chicago,1,0,1,0
+1498793,1789237800,464,1932,All Boys,San Telmo,0,1,0,0
+1498794,1789237800,482,1954,Almagro,Deportivo Maipu,2,2,2,2
+1498799,1789239600,16612,1951,Ciudad de Bolívar,Central Norte,0,0,0,0
+1498808,1789243200,480,461,Quilmes,San Martin S.J.,1,0,0,0
+1498805,1789322400,483,8379,Los Andes,San Miguel,1,1,0,0
+1498807,1789324200,444,454,Patronato,Temperley,0,0,0,0
+1498797,1789324200,1936,2425,CA Estudiantes,Acassuso,1,0,0,0
+1498795,1789324200,8375,470,Almirante Brown,Ferro Carril Oeste,0,0,0,0
+1498798,1789326000,466,1946,Atletico Mitre,Chaco For Ever,0,0,0,0
+1498802,1789326000,479,465,Gimnasia Jujuy,Atletico DE Rafaela,2,1,1,0
+1498809,1789326000,1957,469,Racing Cordoba,Deportivo Moron,1,2,0,1
+1498806,1789327800,1963,447,Midland,Chacarita Juniors,1,0,1,0
+1498804,1789333200,439,448,Godoy Cruz,Colon Santa Fe,2,0,1,0
+1498810,1789335000,485,462,San Martin Tucuman,Agropecuario,3,0,0,0
+1498801,1789410600,1067,1929,Defensores De Belgrano,Deportivo Madryn,2,1,2,0
+1498665,1789581600,461,1965,San Martin S.J.,Tristan Suarez,0,0,0,0
+1498811,1789840800,2425,466,Acassuso,Atletico Mitre,2,0,0,0
+1498822,1789842600,470,16612,Ferro Carril Oeste,Ciudad de Bolívar,1,0,1,0
+1498826,1789842600,1932,1936,San Telmo,CA Estudiantes,0,1,0,0
+1498825,1789842600,8379,464,San Miguel,All Boys,1,1,0,0
+1498827,1789844400,454,482,Temperley,Almagro,3,1,1,1
+1498813,1789844400,465,485,Atletico DE Rafaela,San Martin Tucuman,4,2,2,2
+1498815,1789927200,447,480,Chacarita Juniors,Quilmes,3,0,1,0
+1498812,1789927200,462,1928,Agropecuario,Gimnasia Y Tiro,1,0,0,0
+1498821,1789927200,469,439,Deportivo Moron,Godoy Cruz,1,2,1,1
+1498819,1789930800,1929,1957,Deportivo Madryn,Racing Cordoba,2,0,0,0
+1498818,1789932600,448,483,Colon Santa Fe,Los Andes,3,0,3,0
+1498820,1789932600,1954,479,Deportivo Maipu,Gimnasia Jujuy,1,1,0,0
+1498824,1789934400,461,8377,San Martin S.J.,Colegiales,2,0,1,0
+1498816,1789934400,1946,8375,Chaco For Ever,Almirante Brown,1,0,1,0
+1498814,1789934400,1951,1067,Central Norte,Defensores De Belgrano,0,1,0,1
+1498817,1789934400,3969,1963,Club Atlético Güemes,Midland,0,2,0,1
+1498828,1790013600,1965,1948,Tristan Suarez,Atlanta,0,0,0,0
+1498823,1790028000,484,444,Nueva Chicago,Patronato,1,1,0,1
+1498833,1790447400,1936,8379,CA Estudiantes,San Miguel,2,1,0,0
+1498831,1790447400,8375,2425,Almirante Brown,Acassuso,0,1,0,0
+1498829,1790449200,464,448,All Boys,Colon Santa Fe,0,0,0,0
+1498845,1790449200,480,3969,Quilmes,Club Atlético Güemes,2,0,1,0
+1498835,1790449200,16612,1946,Ciudad de Bolívar,Chaco For Ever,2,1,0,0
+1498838,1790460000,1929,1951,Deportivo Madryn,Central Norte,0,0,0,0
+1498836,1790463600,8377,447,Colegiales,Chacarita Juniors,2,1,2,1
+1498830,1790533800,482,484,Almagro,Nueva Chicago,0,1,0,1
+1498842,1790533800,483,469,Los Andes,Deportivo Moron,2,1,0,1
+1498837,1790533800,1067,470,Defensores De Belgrano,Ferro Carril Oeste,0,1,0,1
+1498832,1790533800,1948,462,Atlanta,Agropecuario,1,0,1,0
+1498844,1790535600,444,461,Patronato,San Martin S.J.,3,0,2,0
+1498834,1790535600,466,1932,Atletico Mitre,San Telmo,0,2,0,1
+1498839,1790537400,1954,454,Deportivo Maipu,Temperley,1,0,0,0
+1498843,1790537400,1963,1965,Midland,Tristan Suarez,0,1,0,1
+1498846,1790539200,1957,439,Racing Cordoba,Godoy Cruz,2,2,0,1
+1498841,1790542800,1928,465,Gimnasia Y Tiro,Atletico DE Rafaela,1,0,1,0
+1498840,1790553600,479,485,Gimnasia Jujuy,San Martin Tucuman,2,2,0,2
+1498856,1790978400,470,1929,Ferro Carril Oeste,Deportivo Madryn,0,2,0,0
+1498854,1791050400,448,1936,Colon Santa Fe,CA Estudiantes,1,0,0,0
+1498863,1791050400,454,479,Temperley,Gimnasia Jujuy,2,1,2,1
+1498855,1791050400,469,464,Deportivo Moron,All Boys,2,1,1,0
+1498864,1791050400,1965,480,Tristan Suarez,Quilmes,0,0,0,0
+1498847,1791050400,2425,16612,Acassuso,Ciudad de Bolívar,0,1,0,0
+1498861,1791050400,8379,466,San Miguel,Atletico Mitre,0,2,0,0
+1498848,1791136800,462,1963,Agropecuario,Midland,0,0,0,0
+1498851,1791138600,447,444,Chacarita Juniors,Patronato,1,0,0,0
+1498862,1791138600,1932,8375,San Telmo,Almirante Brown,3,2,2,1
+1498850,1791142200,1951,1957,Central Norte,Racing Cordoba,1,1,1,0
+1498859,1791144000,461,482,San Martin S.J.,Almagro,1,2,0,0
+1498853,1791144000,3969,8377,Club Atlético Güemes,Colegiales,0,1,0,0
+1498852,1791145200,1946,1067,Chaco For Ever,Defensores De Belgrano,2,2,2,0
+1498849,1791145800,465,1948,Atletico DE Rafaela,Atlanta,2,3,1,1
+1498857,1791147600,439,483,Godoy Cruz,Los Andes,2,1,0,0
+1498860,1791149400,485,1928,San Martin Tucuman,Gimnasia Y Tiro,1,0,0,0
+1498858,1791230400,484,1954,Nueva Chicago,Deportivo Maipu,0,1,0,0
+1498873,1791655200,8377,1965,Colegiales,Tristan Suarez,0,0,0,0
+1498866,1791657000,482,447,Almagro,Chacarita Juniors,2,1,1,1
+1498880,1791658800,480,462,Quilmes,Agropecuario,0,1,0,1
+1498878,1791660600,1963,465,Midland,Atletico DE Rafaela,4,0,2,0
+1498875,1791741600,1929,1946,Deportivo Madryn,Chaco For Ever,1,2,1,1
+1498868,1791741600,1948,485,Atlanta,San Martin Tucuman,1,0,0,0
+1498874,1791743400,1067,2425,Defensores De Belgrano,Acassuso,0,3,0,2
+1498869,1791743400,1936,469,CA Estudiantes,Deportivo Moron,2,0,0,0
+1498867,1791743400,8375,8379,Almirante Brown,San Miguel,1,1,1,0
+1498879,1791745200,444,3969,Patronato,Club Atlético Güemes,2,0,0,0
+1498882,1791745200,454,484,Temperley,Nueva Chicago,2,1,0,0
+1498870,1791745200,466,448,Atletico Mitre,Colon Santa Fe,0,0,0,0
+1498877,1791745200,479,1928,Gimnasia Jujuy,Gimnasia Y Tiro,2,2,0,0
+1498871,1791748800,1951,470,Central Norte,Ferro Carril Oeste,1,1,1,1
+1498876,1791748800,1954,461,Deportivo Maipu,San Martin S.J.,1,1,1,0
+1498872,1791757800,16612,1932,Ciudad de Bolívar,San Telmo,1,0,0,0
+1498881,1791835200,1957,483,Racing Cordoba,Los Andes,1,0,0,0
+1498865,1791842400,464,439,All Boys,Godoy Cruz,0,0,0,0
+1498885,1792195200,465,480,Atletico DE Rafaela,Quilmes,1,0,1,0
+1498892,1792198800,1928,1948,Gimnasia Y Tiro,Atlanta,3,1,1,1
+1498886,1792258200,447,1954,Chacarita Juniors,Deportivo Maipu,1,0,1,0
+1498884,1792260000,462,8377,Agropecuario,Colegiales,0,3,0,1
+1498883,1792261800,2425,1929,Acassuso,Deportivo Madryn,0,0,0,0
+1498898,1792261800,8379,16612,San Miguel,Ciudad de Bolívar,1,2,0,2
+1498900,1792265400,1965,444,Tristan Suarez,Patronato,1,0,1,0
+1498889,1792270800,448,8375,Colon Santa Fe,Almirante Brown,2,2,0,0
+1498890,1792346400,469,466,Deportivo Moron,Atletico Mitre,0,2,0,1
+1498894,1792348200,483,464,Los Andes,All Boys,1,1,0,0
+1498895,1792348200,484,479,Nueva Chicago,Gimnasia Jujuy,0,1,0,0
+1498891,1792350000,470,1957,Ferro Carril Oeste,Racing Cordoba,1,0,0,0
+1498887,1792353600,1946,1951,Chaco For Ever,Central Norte,1,2,1,1
+1498888,1792353600,3969,482,Club Atlético Güemes,Almagro,2,1,1,1
+1498893,1792357200,439,1936,Godoy Cruz,CA Estudiantes,6,3,3,2
+1498896,1792357200,461,454,San Martin S.J.,Temperley,1,1,0,1
+1498897,1792359000,485,1963,San Martin Tucuman,Midland,3,2,0,1
+1498899,1792434600,1932,1067,San Telmo,Defensores De Belgrano,0,0,0,0
+1498901,1792866600,482,1965,Almagro,Tristan Suarez,1,1,0,0
+1498911,1792868400,470,1946,Ferro Carril Oeste,Chaco For Ever,0,3,0,2
+1498916,1792872000,480,485,Quilmes,San Martin Tucuman,2,1,1,1
+1498909,1792879200,1929,1932,Deportivo Madryn,San Telmo,4,1,2,0
+1498907,1792882800,8377,465,Colegiales,Atletico DE Rafaela,1,1,0,1
+1498906,1792886400,16612,448,Ciudad de Bolívar,Colon Santa Fe,0,2,0,0
+1498903,1792953000,1936,483,CA Estudiantes,Los Andes,1,1,1,0
+1498902,1792953000,8375,469,Almirante Brown,Deportivo Moron,1,0,1,0
+1498915,1792954800,444,462,Patronato,Agropecuario,0,2,0,1
+1498918,1792954800,454,447,Temperley,Chacarita Juniors,0,1,0,0
+1498912,1792954800,479,1948,Gimnasia Jujuy,Atlanta,1,2,0,0
+1498917,1792954800,1957,464,Racing Cordoba,All Boys,1,2,0,0
+1498904,1792958400,466,439,Atletico Mitre,Godoy Cruz,0,3,0,1
+1498905,1792958400,1951,2425,Central Norte,Acassuso,0,0,0,0
+1498910,1792958400,1954,3969,Deportivo Maipu,Club Atlético Güemes,3,1,1,0
+1498913,1792958400,1963,1928,Midland,Gimnasia Y Tiro,3,0,1,0
+1498914,1793030400,484,461,Nueva Chicago,San Martin S.J.,1,1,0,0
+1498908,1793039400,1067,8379,Defensores De Belgrano,San Miguel,0,0,0,0
+1498930,1793469600,439,8375,Godoy Cruz,Almirante Brown,2,1,1,0
+1498932,1793469600,461,479,San Martin S.J.,Gimnasia Jujuy,5,1,3,1
+1498920,1793469600,462,482,Agropecuario,Almagro,2,1,1,1
+1498935,1793469600,1932,1951,San Telmo,Central Norte,1,0,0,0
+1498922,1793469600,1948,1963,Atlanta,Midland,0,0,0,0
+1498936,1793469600,1965,1954,Tristan Suarez,Deportivo Maipu,0,0,0,0
+1498919,1793469600,2425,470,Acassuso,Ferro Carril Oeste,0,0,0,0
+1498926,1793469600,3969,454,Club Atlético Güemes,Temperley,2,2,0,2
+1498934,1793469600,8379,1929,San Miguel,Deportivo Madryn,0,1,0,0
+1498931,1793471400,483,466,Los Andes,Atletico Mitre,0,0,0,0
+1498928,1793473200,469,16612,Deportivo Moron,Ciudad de Bolívar,2,0,2,0
+1498925,1793476800,1946,1957,Chaco For Ever,Racing Cordoba,3,1,1,0
+1498927,1793480400,448,1067,Colon Santa Fe,Defensores De Belgrano,2,0,0,0
+1498933,1793568600,485,8377,San Martin Tucuman,Colegiales,0,0,0,0
+1498929,1793570400,1928,480,Gimnasia Y Tiro,Quilmes,0,1,0,1
+1498921,1793635200,464,1936,All Boys,CA Estudiantes,1,0,0,0
+1498924,1793642400,447,484,Chacarita Juniors,Nueva Chicago,2,0,0,0
+1498923,1793642400,465,444,Atletico DE Rafaela,Patronato,0,0,0,0

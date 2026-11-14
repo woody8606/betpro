@@ -1,0 +1,218 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1578554,1784988000,4667,7443,Cowdenbeath,Gala Fairydean Rovers,0,1,0,1
+1578550,1784988000,6728,7437,Auchinleck Talbot,Dalbeattie Star,6,0,4,0
+1578557,1784988000,6742,7439,Hill Of Beath Hawthorn,East Stirlingshire,1,2,0,0
+1578559,1784988000,6744,7434,Linlithgow Rose,Civil Service Strollers,1,1,1,0
+1578560,1784988000,6745,6759,Lochee United,Berwick Rangers,1,1,1,0
+1578556,1784988000,7444,7433,Gretna 2008,Caledonian Braves,2,3,0,1
+1578564,1784988000,7450,6731,Stirling University,Broxburn Athletic,0,1,0,1
+1578552,1784988000,15597,15602,Bo'ness United,Tranent Juniors,1,2,0,0
+1578561,1784988000,15600,7431,Musselburgh Athletic,Bonnyrigg Rose Athletic,0,3,0,1
+1578553,1784988000,17025,6747,Clydebank,Newton Stewart,4,2,2,2
+1578555,1784988000,17768,6756,Cumnock Juniors,Albion Rovers,1,0,0,0
+1578562,1784988000,19794,27926,Pollok,Troon FC,2,0,1,0
+1578551,1784988000,21900,16845,Beith,Celtic II,3,2,0,0
+1578558,1784988000,27924,7436,Largs Thistle,Cumbernauld Colts,2,0,2,0
+1578563,1784988000,27925,19793,Renfrew,Kilwinning Rangers,2,4,1,1
+1578566,1785264300,6731,7443,Broxburn Athletic,Gala Fairydean Rovers,1,0,0,0
+1578568,1785264300,7434,6742,Civil Service Strollers,Hill Of Beath Hawthorn,4,0,2,0
+1578569,1785264300,7436,19793,Cumbernauld Colts,Kilwinning Rangers,2,4,1,1
+1578565,1785264300,15597,7431,Bo'ness United,Bonnyrigg Rose Athletic,0,4,0,2
+1578570,1785264300,15602,4667,Tranent Juniors,Cowdenbeath,1,0,0,0
+1578567,1785264300,16845,17025,Celtic II,Clydebank,6,1,2,0
+1578573,1785350700,7439,1390,East Stirlingshire,Brechin,3,3,1,1
+1578574,1785350700,7444,6747,Gretna 2008,Newton Stewart,3,0,2,0
+1578572,1785350700,15598,6745,Dunipace,Lochee United,1,2,1,0
+1578571,1785350700,21900,17768,Beith,Cumnock Juniors,2,2,1,1
+1578575,1785350700,26605,27926, Johnstone Burgh,Troon FC,2,0,1,0
+1578576,1785350700,27925,19794,Renfrew,Pollok,1,4,0,4
+1578580,1785592800,6731,6745,Broxburn Athletic,Lochee United,3,0,1,0
+1578590,1785592800,6747,6728,Newton Stewart,Auchinleck Talbot,0,9,0,7
+1578577,1785592800,6756,27924,Albion Rovers,Largs Thistle,0,2,0,0
+1578578,1785592800,6759,6742,Berwick Rangers,Hill Of Beath Hawthorn,0,2,0,1
+1578579,1785592800,7431,1390,Bonnyrigg Rose Athletic,Brechin,1,2,1,2
+1578581,1785592800,7433,17768,Caledonian Braves,Cumnock Juniors,6,3,3,0
+1578583,1785592800,7434,4667,Civil Service Strollers,Cowdenbeath,3,2,1,0
+1578584,1785592800,7436,27925,Cumbernauld Colts,Renfrew,2,2,1,0
+1578585,1785592800,7437,19794,Dalbeattie Star,Pollok,0,2,0,1
+1578587,1785592800,7439,7450,East Stirlingshire,Stirling University,2,0,1,0
+1578588,1785592800,7443,15597,Gala Fairydean Rovers,Bo'ness United,1,3,1,0
+1578586,1785592800,15598,15600,Dunipace,Musselburgh Athletic,1,3,1,1
+1578591,1785592800,15602,6744,Tranent Juniors,Linlithgow Rose,1,0,1,0
+1578582,1785592800,16845,26605,Celtic II, Johnstone Burgh,1,1,1,1
+1578589,1785592800,19793,21900,Kilwinning Rangers,Beith,1,2,0,0
+1578592,1785592800,27926,7444,Troon FC,Gretna 2008,4,1,0,1
+1578597,1786197600,1390,6759,Brechin,Berwick Rangers,4,3,1,2
+1578599,1786197600,4667,6731,Cowdenbeath,Broxburn Athletic,0,2,0,0
+1578593,1786197600,6728,7436,Auchinleck Talbot,Cumbernauld Colts,1,0,0,0
+1578601,1786197600,6742,15598,Hill Of Beath Hawthorn,Dunipace,1,0,1,0
+1578604,1786197600,6744,7443,Linlithgow Rose,Gala Fairydean Rovers,5,0,1,0
+1578605,1786197600,6745,15600,Lochee United,Musselburgh Athletic,2,1,1,1
+1578606,1786197600,6747,19794,Newton Stewart,Pollok,2,2,1,2
+1578596,1786197600,7431,7439,Bonnyrigg Rose Athletic,East Stirlingshire,4,1,1,1
+1578600,1786197600,7444,19793,Gretna 2008,Kilwinning Rangers,1,5,0,3
+1578608,1786197600,7450,15602,Stirling University,Tranent Juniors,1,2,0,1
+1578595,1786197600,15597,7434,Bo'ness United,Civil Service Strollers,2,0,1,0
+1578598,1786197600,17025,27926,Clydebank,Troon FC,3,2,2,1
+1578594,1786197600,21900,7433,Beith,Caledonian Braves,2,4,2,2
+1578602,1786197600,26605,6756, Johnstone Burgh,Albion Rovers,2,2,2,0
+1578603,1786197600,27924,7437,Largs Thistle,Dalbeattie Star,1,0,1,0
+1578607,1786197600,27925,16845,Renfrew,Celtic II,3,5,2,5
+1578609,1786802400,6756,7433,Albion Rovers,Caledonian Braves,2,0,0,0
+1578610,1786802400,6759,7450,Berwick Rangers,Stirling University,3,2,2,1
+1578611,1786802400,7437,16845,Dalbeattie Star,Celtic II,1,5,0,2
+1578612,1786802400,7444,7436,Gretna 2008,Cumbernauld Colts,3,3,2,2
+1578614,1786802400,15600,6744,Musselburgh Athletic,Linlithgow Rose,0,2,0,1
+1578613,1786802400,27924,6728,Largs Thistle,Auchinleck Talbot,3,0,1,0
+1578615,1787078700,7433,17025,Caledonian Braves,Clydebank,2,2,1,1
+1578616,1787078700,17768,27924,Cumnock Juniors,Largs Thistle,1,1,1,0
+1578617,1787078700,19793,6756,Kilwinning Rangers,Albion Rovers,3,1,3,1
+1578618,1787165100,6728,21900,Auchinleck Talbot,Beith,7,1,4,1
+1578619,1787165100,19794,26605,Pollok, Johnstone Burgh,3,1,2,1
+1578620,1787165100,27926,27925,Troon FC,Renfrew,2,0,0,0
+1578621,1787337900,16845,17768,Celtic II,Cumnock Juniors,4,1,2,1
+1578627,1787407200,4667,7450,Cowdenbeath,Stirling University,4,2,3,1
+1578634,1787407200,6745,6744,Lochee United,Linlithgow Rose,5,2,2,1
+1578622,1787407200,6756,6728,Albion Rovers,Auchinleck Talbot,1,3,1,0
+1578624,1787407200,6759,7431,Berwick Rangers,Bonnyrigg Rose Athletic,0,2,0,2
+1578625,1787407200,7434,1390,Civil Service Strollers,Brechin,0,2,0,0
+1578628,1787407200,7436,7437,Cumbernauld Colts,Dalbeattie Star,2,2,1,0
+1578630,1787407200,7439,15602,East Stirlingshire,Tranent Juniors,0,3,0,2
+1578631,1787407200,7443,6742,Gala Fairydean Rovers,Hill Of Beath Hawthorn,3,4,1,2
+1578629,1787407200,15598,6731,Dunipace,Broxburn Athletic,2,2,1,0
+1578635,1787407200,15600,15597,Musselburgh Athletic,Bo'ness United,2,2,1,0
+1578626,1787407200,17025,7444,Clydebank,Gretna 2008,7,1,4,0
+1578633,1787407200,19793,27924,Kilwinning Rangers,Largs Thistle,2,0,0,0
+1578623,1787407200,21900,27926,Beith,Troon FC,1,3,1,1
+1578632,1787407200,26605,6747, Johnstone Burgh,Newton Stewart,3,2,2,0
+1578636,1787407200,27925,7433,Renfrew,Caledonian Braves,1,3,0,3
+1578637,1787942700,16845,6728,Celtic II,Auchinleck Talbot,2,2,1,1
+1578646,1788008400,27924,7444,Largs Thistle,Gretna 2008,3,2,1,1
+1578639,1788012000,1390,15600,Brechin,Musselburgh Athletic,3,1,1,1
+1578640,1788012000,6731,6759,Broxburn Athletic,Berwick Rangers,2,0,1,0
+1578647,1788012000,6744,4667,Linlithgow Rose,Cowdenbeath,3,2,1,1
+1578638,1788012000,7431,6742,Bonnyrigg Rose Athletic,Hill Of Beath Hawthorn,1,2,1,0
+1578641,1788012000,7433,19793,Caledonian Braves,Kilwinning Rangers,5,2,4,1
+1578644,1788012000,7443,6745,Gala Fairydean Rovers,Lochee United,2,3,1,3
+1578650,1788012000,7450,15597,Stirling University,Bo'ness United,2,5,0,3
+1578643,1788012000,15598,7439,Dunipace,East Stirlingshire,0,3,0,1
+1578651,1788012000,15602,7434,Tranent Juniors,Civil Service Strollers,4,0,3,0
+1578642,1788012000,17768,6747,Cumnock Juniors,Newton Stewart,5,0,1,0
+1578648,1788012000,19794,21900,Pollok,Beith,2,1,1,0
+1578645,1788012000,26605,7437, Johnstone Burgh,Dalbeattie Star,4,0,0,0
+1578649,1788012000,27925,17025,Renfrew,Clydebank,1,5,0,2
+1578652,1788012000,27926,7436,Troon FC,Cumbernauld Colts,1,3,1,2
+1578654,1789221600,6728,7433,Auchinleck Talbot,Caledonian Braves,3,1,2,1
+1578663,1789221600,6742,4667,Hill Of Beath Hawthorn,Cowdenbeath,2,0,0,0
+1578665,1789221600,6745,1390,Lochee United,Brechin,1,2,1,0
+1578667,1789221600,6747,27926,Newton Stewart,Troon FC,1,5,1,3
+1578656,1789221600,6759,15602,Berwick Rangers,Tranent Juniors,1,2,1,1
+1578658,1789221600,7434,7431,Civil Service Strollers,Bonnyrigg Rose Athletic,2,0,0,0
+1578660,1789221600,7436,26605,Cumbernauld Colts, Johnstone Burgh,4,4,3,1
+1578661,1789221600,7437,17768,Dalbeattie Star,Cumnock Juniors,1,6,1,2
+1578653,1789221600,7439,6744,East Stirlingshire,Linlithgow Rose,2,4,1,1
+1578662,1789221600,7444,19794,Gretna 2008,Pollok,2,3,0,0
+1578668,1789221600,7450,15598,Stirling University,Dunipace,1,0,0,0
+1578657,1789221600,15597,6731,Bo'ness United,Broxburn Athletic,1,2,0,1
+1578666,1789221600,15600,7443,Musselburgh Athletic,Gala Fairydean Rovers,2,0,1,0
+1578659,1789221600,17025,27924,Clydebank,Largs Thistle,4,0,2,0
+1578664,1789221600,19793,16845,Kilwinning Rangers,Celtic II,4,0,3,0
+1578655,1789221600,21900,6756,Beith,Albion Rovers,1,1,0,1
+1578674,1789497900,4667,7439,Cowdenbeath,East Stirlingshire,2,0,2,0
+1578680,1789497900,6742,15600,Hill Of Beath Hawthorn,Musselburgh Athletic,1,0,0,0
+1578676,1789497900,6744,15598,Linlithgow Rose,Dunipace,4,0,3,0
+1578669,1789497900,6756,19793,Albion Rovers,Kilwinning Rangers,0,3,0,1
+1578672,1789497900,7434,6759,Civil Service Strollers,Berwick Rangers,2,1,2,0
+1578675,1789497900,7436,7444,Cumbernauld Colts,Gretna 2008,3,2,2,1
+1578681,1789497900,15597,6745,Bo'ness United,Lochee United,0,5,0,2
+1578671,1789497900,16845,7437,Celtic II,Dalbeattie Star,2,0,2,0
+1578673,1789497900,17025,7433,Clydebank,Caledonian Braves,4,2,2,1
+1578677,1789584300,6728,27924,Auchinleck Talbot,Largs Thistle,0,1,0,0
+1578679,1789584300,7443,7431,Gala Fairydean Rovers,Bonnyrigg Rose Athletic,1,2,1,1
+1578683,1789584300,7450,1390,Stirling University,Brechin,0,1,0,1
+1578678,1789584300,17768,21900,Cumnock Juniors,Beith,2,0,2,0
+1578682,1789584300,19794,27925,Pollok,Renfrew,1,3,0,2
+1578684,1789584300,27926,26605,Troon FC, Johnstone Burgh,1,2,0,2
+1578689,1789826400,1390,6742,Brechin,Hill Of Beath Hawthorn,0,1,0,0
+1578692,1789826400,4667,6745,Cowdenbeath,Lochee United,3,1,1,1
+1578690,1789826400,6731,6744,Broxburn Athletic,Linlithgow Rose,0,4,0,1
+1578698,1789826400,6747,7437,Newton Stewart,Dalbeattie Star,2,1,0,1
+1578685,1789826400,6756,7436,Albion Rovers,Cumbernauld Colts,2,1,1,1
+1578686,1789826400,6759,15600,Berwick Rangers,Musselburgh Athletic,0,0,0,0
+1578688,1789826400,7431,7450,Bonnyrigg Rose Athletic,Stirling University,6,1,3,0
+1578695,1789826400,7444,16845,Gretna 2008,Celtic II,3,1,2,0
+1578687,1789826400,15597,7439,Bo'ness United,East Stirlingshire,2,0,1,0
+1578694,1789826400,15598,7434,Dunipace,Civil Service Strollers,2,1,1,0
+1578700,1789826400,15602,7443,Tranent Juniors,Gala Fairydean Rovers,2,1,1,0
+1578691,1789826400,17025,19794,Clydebank,Pollok,2,2,0,1
+1578696,1790102700,19793,6728,Kilwinning Rangers,Auchinleck Talbot,3,0,3,0
+1578697,1790187300,27924,26605,Largs Thistle, Johnstone Burgh,1,0,0,0
+1578693,1790189100,17768,27926,Cumnock Juniors,Troon FC,4,0,2,0
+1578699,1790189100,27925,21900,Renfrew,Beith,3,0,2,0
+1578703,1790431200,1390,15598,Brechin,Dunipace,3,0,1,0
+1578701,1790431200,6728,17768,Auchinleck Talbot,Cumnock Juniors,4,0,0,0
+1578708,1790431200,6742,6745,Hill Of Beath Hawthorn,Lochee United,1,1,0,1
+1578710,1790431200,6744,15597,Linlithgow Rose,Bo'ness United,4,1,1,0
+1578704,1790431200,7433,6747,Caledonian Braves,Newton Stewart,5,0,2,0
+1578705,1790431200,7434,7450,Civil Service Strollers,Stirling University,3,2,2,1
+1578706,1790431200,7437,7444,Dalbeattie Star,Gretna 2008,1,5,0,4
+1578707,1790431200,7439,6731,East Stirlingshire,Broxburn Athletic,1,2,1,0
+1578711,1790431200,15600,15602,Musselburgh Athletic,Tranent Juniors,1,1,0,1
+1578712,1790431200,19794,6756,Pollok,Albion Rovers,5,1,3,1
+1578702,1790431200,21900,27924,Beith,Largs Thistle,1,1,0,1
+1578709,1790431200,26605,27925, Johnstone Burgh,Renfrew,3,2,2,0
+1578713,1790431200,27926,19793,Troon FC,Kilwinning Rangers,2,4,1,1
+1578670,1791640800,6731,15602,Broxburn Athletic,Tranent Juniors,1,1,1,1
+1578723,1791640800,17768,27925,Cumnock Juniors,Renfrew,1,2,1,1
+1578714,1792176300,16845,7433,Celtic II,Caledonian Braves,0,1,0,1
+1578721,1792245600,4667,7431,Cowdenbeath,Bonnyrigg Rose Athletic,2,2,1,2
+1578718,1792245600,6731,15600,Broxburn Athletic,Musselburgh Athletic,0,0,0,0
+1578715,1792245600,6756,27926,Albion Rovers,Troon FC,1,2,1,0
+1578716,1792245600,6759,6744,Berwick Rangers,Linlithgow Rose,0,1,0,1
+1578719,1792245600,7434,7439,Civil Service Strollers,East Stirlingshire,3,3,3,1
+1578722,1792245600,7436,6747,Cumbernauld Colts,Newton Stewart,5,2,1,0
+1578725,1792245600,7444,26605,Gretna 2008, Johnstone Burgh,2,2,0,1
+1578728,1792245600,7450,6742,Stirling University,Hill Of Beath Hawthorn,1,2,1,1
+1578717,1792245600,15597,1390,Bo'ness United,Brechin,3,1,0,1
+1578724,1792245600,15598,7443,Dunipace,Gala Fairydean Rovers,1,5,1,3
+1578729,1792245600,15602,6745,Tranent Juniors,Lochee United,0,4,0,1
+1578720,1792245600,17025,21900,Clydebank,Beith,2,0,0,0
+1578726,1792245600,19793,7437,Kilwinning Rangers,Dalbeattie Star,4,0,1,0
+1578727,1792521900,27924,19794,Largs Thistle,Pollok,1,3,0,1
+1645808,1792850400,7443,6759,Gala Fairydean Rovers,Berwick Rangers,1,1,0,1
+1578731,1793130300,1390,7439,Brechin,East Stirlingshire,3,1,1,1
+1578730,1793130300,7431,15597,Bonnyrigg Rose Athletic,Bo'ness United,0,1,0,0
+1578732,1793130300,7433,6756,Caledonian Braves,Albion Rovers,1,1,0,1
+1578733,1793130300,17025,16845,Clydebank,Celtic II,2,3,1,1
+1578739,1793216700,7443,6731,Gala Fairydean Rovers,Broxburn Athletic,0,4,0,3
+1578745,1793216700,7450,6759,Stirling University,Berwick Rangers,1,0,0,0
+1578742,1793216700,27924,17768,Largs Thistle,Cumnock Juniors,2,1,2,1
+1578744,1793216700,27925,27926,Renfrew,Troon FC,4,5,2,4
+1578746,1793458800,6728,6756,Auchinleck Talbot,Albion Rovers,1,0,1,0
+1578748,1793458800,6731,7434,Broxburn Athletic,Civil Service Strollers,1,1,0,0
+1578754,1793458800,6744,7450,Linlithgow Rose,Stirling University,3,0,2,0
+1578755,1793458800,6745,7431,Lochee United,Bonnyrigg Rose Athletic,2,2,1,1
+1578757,1793458800,6747,19793,Newton Stewart,Kilwinning Rangers,1,3,1,1
+1578747,1793458800,6759,7439,Berwick Rangers,East Stirlingshire,2,5,2,2
+1578751,1793458800,7437,17025,Dalbeattie Star,Clydebank,2,8,0,5
+1578753,1793458800,7443,1390,Gala Fairydean Rovers,Brechin,2,3,1,2
+1578760,1793458800,15602,15597,Tranent Juniors,Bo'ness United,5,1,2,0
+1578750,1793458800,17768,7444,Cumnock Juniors,Gretna 2008,4,1,2,0
+1578761,1793458800,27926,27924,Troon FC,Largs Thistle,1,2,1,0
+1578765,1794063600,1390,6731,Brechin,Broxburn Athletic,4,0,2,0
+1578768,1794063600,4667,6759,Cowdenbeath,Berwick Rangers,2,1,0,1
+1578772,1794063600,6742,6744,Hill Of Beath Hawthorn,Linlithgow Rose,1,2,0,2
+1578762,1794063600,6756,27925,Albion Rovers,Renfrew,1,2,0,0
+1578764,1794063600,7431,15602,Bonnyrigg Rose Athletic,Tranent Juniors,0,1,0,1
+1578767,1794063600,7434,7443,Civil Service Strollers,Gala Fairydean Rovers,4,3,2,0
+1578769,1794063600,7436,17768,Cumbernauld Colts,Cumnock Juniors,2,2,1,0
+1578770,1794063600,7439,15600,East Stirlingshire,Musselburgh Athletic,0,0,0,0
+1578771,1794063600,7444,6728,Gretna 2008,Auchinleck Talbot,0,2,0,0
+1578776,1794063600,7450,6745,Stirling University,Lochee United,0,1,0,0
+1578763,1794063600,15597,15598,Bo'ness United,Dunipace,3,1,3,1
+1578766,1794063600,16845,21900,Celtic II,Beith,3,0,3,0
+1578775,1794063600,19794,7433,Pollok,Caledonian Braves,1,2,1,1
+1578773,1794063600,26605,17025, Johnstone Burgh,Clydebank,1,3,0,2
+1578774,1794063600,27924,6747,Largs Thistle,Newton Stewart,2,0,1,0
+1578777,1794063600,27926,7437,Troon FC,Dalbeattie Star,2,0,1,0
+1578867,1794600000,7444,7437,Gretna 2008,Dalbeattie Star,2,0,0,0

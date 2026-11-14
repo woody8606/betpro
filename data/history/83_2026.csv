@@ -160,3 +160,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1586300,1794056400,12893,14717,Vilzing,Landsberg,2,3,1,1
 1586297,1794142800,9332,4262,Nürnberg II,Eichstätt,3,2,1,1
 1586295,1794146400,12762,786,Eltersdorf,TSV 1860 München,0,1,0,1
+1586304,1794592800,9325,12893,Bayreuth,Vilzing,3,1,1,1
+1586305,1794592800,9326,9328,Buchbach,Greuther Fürth II,2,0,1,0

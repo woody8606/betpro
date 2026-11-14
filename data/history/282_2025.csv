@@ -1,0 +1,172 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1361602,1743798600,22462,22489,Bentín Tacna Heroica,UCV Moquegua,2,2,1,1
+1361599,1743876000,23311,2556,San Marcos,Molinos El Pirata,1,0,0,0
+1361601,1743883200,4226,10494,Santos,Comerciantes,1,1,0,0
+1361603,1743955200,2543,2549,Academia Cantolao,U. San Martin,0,0,0,0
+1361604,1743969600,2552,2568,Union Comercio,Deportivo Coopsol,3,1,1,1
+1361600,1743969600,22543,10014,FC Cajamarca,Deportivo Llacuabamba,2,0,1,0
+1362208,1744473600,2541,22543,Cesar Vallejo,FC Cajamarca,2,3,2,1
+1362214,1744480800,2549,2552,U. San Martin,Union Comercio,1,1,0,0
+1362209,1744488000,10014,23311,Deportivo Llacuabamba,San Marcos,1,0,0,0
+1362210,1744489800,2556,2551,Molinos El Pirata,Carlos A. Mannucci,0,1,0,1
+1362211,1744568100,2568,22462,Deportivo Coopsol,Bentín Tacna Heroica,0,2,0,0
+1362213,1744574400,10494,2543,Comerciantes,Academia Cantolao,2,0,1,0
+1362212,1744574400,22489,4226,UCV Moquegua,Santos,0,1,0,1
+1362217,1744921800,22543,22469,FC Cajamarca,Deportiva Agropecuaria,4,1,1,1
+1362216,1744999200,23311,2541,San Marcos,Cesar Vallejo,1,0,1,0
+1362220,1745007300,22462,2552,Bentín Tacna Heroica,Union Comercio,3,2,1,1
+1362218,1745078400,2543,22489,Academia Cantolao,UCV Moquegua,0,1,0,1
+1362219,1745093700,4226,2568,Santos,Deportivo Coopsol,1,1,1,1
+1362221,1745179200,10494,2549,Comerciantes,U. San Martin,2,1,1,0
+1362215,1745181000,2551,10014,Carlos A. Mannucci,Deportivo Llacuabamba,4,1,2,0
+1362226,1745596800,2568,2543,Deportivo Coopsol,Academia Cantolao,1,1,0,1
+1362222,1745613000,22469,23311,Deportiva Agropecuaria,San Marcos,0,0,0,0
+1362227,1745683200,22489,10494,UCV Moquegua,Comerciantes,1,2,0,0
+1362225,1745697600,2552,4226,Union Comercio,Santos,3,1,2,1
+1362224,1745697600,10014,2556,Deportivo Llacuabamba,Molinos El Pirata,4,0,1,0
+1362228,1745769600,2549,22462,U. San Martin,Bentín Tacna Heroica,2,1,2,0
+1362223,1745777700,2541,2551,Cesar Vallejo,Carlos A. Mannucci,2,0,1,0
+1362233,1746216000,4226,22462,Santos,Bentín Tacna Heroica,4,1,2,0
+1362230,1746225000,23311,22543,San Marcos,FC Cajamarca,2,0,1,0
+1362229,1746295200,2551,22469,Carlos A. Mannucci,Deportiva Agropecuaria,0,1,0,0
+1362234,1746303300,10494,2568,Comerciantes,Deportivo Coopsol,4,0,3,0
+1362232,1746374400,2543,2552,Academia Cantolao,Union Comercio,0,1,0,1
+1362231,1746388800,2556,2541,Molinos El Pirata,Cesar Vallejo,1,0,0,0
+1362235,1746389700,22489,2549,UCV Moquegua,U. San Martin,3,1,2,0
+1362240,1746907200,2568,22489,Deportivo Coopsol,UCV Moquegua,0,1,0,0
+1362236,1746907200,22469,2556,Deportiva Agropecuaria,Molinos El Pirata,1,2,0,1
+1362242,1746909000,4226,2549,Santos,U. San Martin,2,3,1,0
+1362237,1746979200,2541,10014,Cesar Vallejo,Deportivo Llacuabamba,4,1,2,1
+1362241,1746987300,22462,2543,Bentín Tacna Heroica,Academia Cantolao,2,1,0,1
+1362239,1746993600,2552,10494,Union Comercio,Comerciantes,2,1,1,0
+1362238,1746995400,22543,2551,FC Cajamarca,Carlos A. Mannucci,3,2,0,1
+1362246,1747497600,2543,4226,Academia Cantolao,Santos,1,2,1,0
+1362244,1747512000,10014,22469,Deportivo Llacuabamba,Deportiva Agropecuaria,2,1,1,0
+1362245,1747513800,2556,22543,Molinos El Pirata,FC Cajamarca,0,1,0,0
+1362249,1747584000,2549,2568,U. San Martin,Deportivo Coopsol,3,1,1,1
+1362247,1747592100,22489,2552,UCV Moquegua,Union Comercio,1,0,0,0
+1362248,1747599300,10494,22462,Comerciantes,Bentín Tacna Heroica,2,0,1,0
+1362243,1747600200,2551,23311,Carlos A. Mannucci,San Marcos,1,1,1,0
+1362252,1748030400,10014,22543,Deportivo Llacuabamba,FC Cajamarca,0,0,0,0
+1362251,1748109600,2541,22469,Cesar Vallejo,Deportiva Agropecuaria,1,3,0,1
+1362255,1748110500,22489,22462,UCV Moquegua,Bentín Tacna Heroica,2,1,1,1
+1362256,1748118600,2568,2552,Deportivo Coopsol,Union Comercio,3,4,1,3
+1362254,1748196000,2549,2543,U. San Martin,Academia Cantolao,1,0,0,0
+1362253,1748204100,10494,4226,Comerciantes,Santos,3,2,2,1
+1362250,1748205000,2556,23311,Molinos El Pirata,San Marcos,0,1,0,0
+1361598,1748464200,22469,2541,Deportiva Agropecuaria,Cesar Vallejo,0,1,0,0
+1362262,1748714400,2543,10494,Academia Cantolao,Comerciantes,1,1,1,0
+1362259,1748722500,2551,2556,Carlos A. Mannucci,Molinos El Pirata,1,0,1,0
+1362261,1748722500,4226,22489,Santos,UCV Moquegua,1,1,1,0
+1362258,1748732400,23311,10014,San Marcos,Deportivo Llacuabamba,3,0,2,0
+1362263,1748808000,2552,2549,Union Comercio,U. San Martin,1,2,0,1
+1362260,1748808000,22462,2568,Bentín Tacna Heroica,Deportivo Coopsol,2,0,1,0
+1362257,1748808900,22543,2541,FC Cajamarca,Cesar Vallejo,1,0,0,0
+1362265,1749319200,2541,23311,Cesar Vallejo,San Marcos,0,0,0,0
+1362267,1749319200,22489,2543,UCV Moquegua,Academia Cantolao,3,0,1,0
+1362268,1749327300,2568,4226,Deportivo Coopsol,Santos,0,2,0,1
+1362266,1749327300,22469,22543,Deportiva Agropecuaria,FC Cajamarca,1,0,1,0
+1362270,1749405600,2549,10494,U. San Martin,Comerciantes,0,3,0,0
+1362269,1749413700,2552,22462,Union Comercio,Bentín Tacna Heroica,3,1,1,1
+1362264,1749413700,10014,2551,Deportivo Llacuabamba,Carlos A. Mannucci,2,1,1,1
+1362271,1749853800,23311,22469,San Marcos,Deportiva Agropecuaria,0,1,0,0
+1362277,1749924000,22462,2549,Bentín Tacna Heroica,U. San Martin,2,0,1,0
+1362273,1749932100,2556,10014,Molinos El Pirata,Deportivo Llacuabamba,1,0,1,0
+1362274,1749932100,4226,2552,Santos,Union Comercio,2,1,2,0
+1362276,1749932100,10494,22489,Comerciantes,UCV Moquegua,1,1,0,0
+1362272,1750018500,2551,2541,Carlos A. Mannucci,Cesar Vallejo,0,2,0,0
+1362275,1750104000,2543,2568,Academia Cantolao,Deportivo Coopsol,1,2,1,1
+1362279,1750450500,22543,23311,FC Cajamarca,San Marcos,1,0,0,0
+1362280,1750528800,2541,2556,Cesar Vallejo,Molinos El Pirata,2,0,0,0
+1362283,1750536900,2568,10494,Deportivo Coopsol,Comerciantes,0,0,0,0
+1362278,1750536900,22469,2551,Deportiva Agropecuaria,Carlos A. Mannucci,1,1,0,0
+1362284,1750615200,2549,22489,U. San Martin,UCV Moquegua,1,2,1,1
+1362282,1750615200,22462,4226,Bentín Tacna Heroica,Santos,4,0,2,0
+1362281,1750623300,2552,2543,Union Comercio,Academia Cantolao,1,0,0,0
+1362290,1751054400,2543,22462,Academia Cantolao,Bentín Tacna Heroica,2,2,1,1
+1362291,1751126400,2549,4226,U. San Martin,Santos,2,0,2,0
+1362289,1751140800,22489,2568,UCV Moquegua,Deportivo Coopsol,1,2,0,2
+1362285,1751142600,2556,22469,Molinos El Pirata,Deportiva Agropecuaria,1,1,0,1
+1362286,1751227200,10014,2541,Deportivo Llacuabamba,Cesar Vallejo,0,0,0,0
+1362288,1751227200,10494,2552,Comerciantes,Union Comercio,2,1,1,0
+1362287,1751243400,2551,22543,Carlos A. Mannucci,FC Cajamarca,5,1,3,1
+1362293,1751745600,22469,10014,Deportiva Agropecuaria,Deportivo Llacuabamba,1,1,0,0
+1362294,1751745600,22543,2556,FC Cajamarca,Molinos El Pirata,3,0,1,0
+1362292,1751745600,23311,2551,San Marcos,Carlos A. Mannucci,0,1,0,0
+1362296,1751832000,2552,22489,Union Comercio,UCV Moquegua,1,1,1,1
+1362298,1751832000,2568,2549,Deportivo Coopsol,U. San Martin,2,0,1,0
+1362295,1751832000,4226,2543,Santos,Academia Cantolao,2,0,0,0
+1362297,1751832000,22462,10494,Bentín Tacna Heroica,Comerciantes,2,1,1,0
+1400294,1752940800,2549,2568,U. San Martin,Deportivo Coopsol,0,0,0,0
+1400292,1752948900,2541,22543,Cesar Vallejo,FC Cajamarca,0,0,0,0
+1405686,1753041600,2552,10494,Union Comercio,Comerciantes,2,0,2,0
+1400293,1753041600,22462,22489,Bentín Tacna Heroica,UCV Moquegua,2,2,1,0
+1405685,1753041600,22469,23311,Deportiva Agropecuaria,San Marcos,0,0,0,0
+1400295,1753120800,2556,10014,Molinos El Pirata,Deportivo Llacuabamba,4,1,0,1
+1410155,1753552800,22543,22462,FC Cajamarca,Bentín Tacna Heroica,1,2,0,1
+1413348,1753560900,4226,2552,Santos,Union Comercio,0,2,0,1
+1413349,1753560900,10494,22469,Comerciantes,Deportiva Agropecuaria,1,1,0,0
+1400296,1753632000,2543,2556,Academia Cantolao,Molinos El Pirata,2,1,2,0
+1400297,1753646400,10014,2549,Deportivo Llacuabamba,U. San Martin,4,1,1,1
+1410156,1753662600,2551,2541,Carlos A. Mannucci,Cesar Vallejo,1,0,1,0
+1418159,1754087400,23311,10494,San Marcos,Comerciantes,1,0,1,0
+1415225,1754157600,22462,2551,Bentín Tacna Heroica,Carlos A. Mannucci,1,0,0,0
+1414234,1754164800,2568,10014,Deportivo Coopsol,Deportivo Llacuabamba,1,0,0,0
+1415226,1754164800,22489,22543,UCV Moquegua,FC Cajamarca,2,0,1,0
+1414235,1754236800,2549,2543,U. San Martin,Academia Cantolao,0,1,0,0
+1418160,1754251200,22469,4226,Deportiva Agropecuaria,Santos,1,2,0,0
+1418161,1754683200,2543,2568,Academia Cantolao,Deportivo Coopsol,0,0,0,0
+1418162,1754762400,2541,22462,Cesar Vallejo,Bentín Tacna Heroica,4,2,0,1
+1418163,1754770500,4226,23311,Santos,San Marcos,3,0,2,0
+1418164,1754856000,2552,22469,Union Comercio,Deportiva Agropecuaria,2,0,0,0
+1418165,1754872200,2551,22489,Carlos A. Mannucci,UCV Moquegua,4,1,2,0
+1418166,1754935200,2556,2549,Molinos El Pirata,U. San Martin,2,1,0,1
+1430847,1755288000,10014,2543,Deportivo Llacuabamba,Academia Cantolao,4,3,2,1
+1430848,1755374400,10494,4226,Comerciantes,Santos,3,0,1,0
+1430849,1755383400,23311,2552,San Marcos,Union Comercio,1,4,0,2
+1421883,1755453600,22543,2551,FC Cajamarca,Carlos A. Mannucci,2,2,2,1
+1421152,1755460800,2568,2556,Deportivo Coopsol,Molinos El Pirata,0,0,0,0
+1421884,1755461700,22489,2541,UCV Moquegua,Cesar Vallejo,1,0,0,0
+1436802,1755972000,22489,22462,UCV Moquegua,Bentín Tacna Heroica,0,0,0,0
+1446023,1755972000,22489,22462,UCV Moquegua,Bentín Tacna Heroica,0,0,0,0
+1436803,1755980100,22543,2541,FC Cajamarca,Cesar Vallejo,2,0,0,0
+1440184,1756058400,23311,22469,San Marcos,Deportiva Agropecuaria,1,1,0,0
+1436256,1756065600,10014,2556,Deportivo Llacuabamba,Molinos El Pirata,2,1,0,0
+1436255,1756066500,2568,2549,Deportivo Coopsol,U. San Martin,2,4,2,2
+1440185,1756066500,10494,2552,Comerciantes,Union Comercio,0,1,0,1
+1446025,1756584000,2552,4226,Union Comercio,Santos,2,1,1,1
+1446024,1756584000,22469,10494,Deportiva Agropecuaria,Comerciantes,2,2,0,1
+1436257,1756656000,2549,10014,U. San Martin,Deportivo Llacuabamba,2,1,0,1
+1436805,1756665000,2541,2551,Cesar Vallejo,Carlos A. Mannucci,3,2,2,0
+1436804,1756670400,22462,22543,Bentín Tacna Heroica,FC Cajamarca,0,0,0,0
+1436258,1756749600,2556,2543,Molinos El Pirata,Academia Cantolao,3,1,0,0
+1437282,1757183400,22543,22489,FC Cajamarca,UCV Moquegua,2,1,1,1
+1440188,1757188800,4226,22469,Santos,Deportiva Agropecuaria,1,2,0,1
+1437284,1757188800,10014,2568,Deportivo Llacuabamba,Deportivo Coopsol,2,0,1,0
+1437285,1757260800,2543,2549,Academia Cantolao,U. San Martin,1,0,0,0
+1440189,1757275200,10494,23311,Comerciantes,San Marcos,6,0,4,0
+1437283,1757291400,2551,22462,Carlos A. Mannucci,Bentín Tacna Heroica,3,3,1,1
+1440190,1757793600,22469,2552,Deportiva Agropecuaria,Union Comercio,2,0,1,0
+1438663,1757865600,22462,2541,Bentín Tacna Heroica,Cesar Vallejo,1,2,0,0
+1438664,1757874600,22489,2551,UCV Moquegua,Carlos A. Mannucci,6,2,4,1
+1440191,1757889000,23311,4226,San Marcos,Santos,1,3,1,1
+1437287,1757959200,2549,2556,U. San Martin,Molinos El Pirata,3,0,2,0
+1437286,1757959200,2568,2543,Deportivo Coopsol,Academia Cantolao,1,0,0,0
+1469009,1758391200,2543,10014,Academia Cantolao,Deportivo Llacuabamba,1,0,1,0
+1471121,1758391200,2556,2568,Molinos El Pirata,Deportivo Coopsol,1,0,0,0
+1463476,1758477600,2541,22489,Cesar Vallejo,UCV Moquegua,1,1,0,1
+1463477,1758477600,2551,22543,Carlos A. Mannucci,FC Cajamarca,1,3,1,0
+1466636,1758485700,2552,23311,Union Comercio,San Marcos,5,0,3,0
+1466635,1758485700,4226,10494,Santos,Comerciantes,0,0,0,0
+1480055,1759687200,22489,22469,UCV Moquegua,Deportiva Agropecuaria,2,1,0,1
+1480056,1759695300,10494,2541,Comerciantes,Cesar Vallejo,0,0,0,0
+1481338,1760284800,22489,2552,UCV Moquegua,Union Comercio,2,1,1,1
+1481339,1760292000,2541,22543,Cesar Vallejo,FC Cajamarca,0,0,0,0
+1481340,1760896800,22543,2541,FC Cajamarca,Cesar Vallejo,3,0,2,0
+1481341,1760904900,2552,22489,Union Comercio,UCV Moquegua,1,1,0,0
+1483701,1761501600,22489,22543,UCV Moquegua,FC Cajamarca,2,1,1,1
+1483702,1761509700,2541,2552,Cesar Vallejo,Union Comercio,2,0,1,0
+1483703,1762106400,22543,22489,FC Cajamarca,UCV Moquegua,2,0,2,0
+1483704,1762114500,2552,2541,Union Comercio,Cesar Vallejo,2,2,1,0
+1485158,1762719300,2541,22489,Cesar Vallejo,UCV Moquegua,0,1,0,0
+1485157,1763316000,22489,2541,UCV Moquegua,Cesar Vallejo,3,2,2,2

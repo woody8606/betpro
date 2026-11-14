@@ -1,0 +1,36 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1620008,1790427600,12372,26581,Makedonikos Neapolis,Akrites Sykeon,0,2,0,2
+1620009,1790514000,12375,20056,Poseidon Nea Michaniona,PAO Kristoni,5,1,1,0
+1620038,1790514000,28146,26578,Agiou Nikolaou,Iraklis Therm.,1,1,0,1
+1620039,1790514000,28149,12366,Finikas Polichnis,Kilkisiakos,3,2,2,1
+1620040,1790514000,28152,28150,Panedessaikos,Mpam,1,1,1,0
+1620011,1791032400,12366,12372,Kilkisiakos,Makedonikos Neapolis,0,2,0,0
+1620041,1791032400,26578,28152,Iraklis Therm.,Panedessaikos,2,0,0,0
+1620010,1791032400,26581,12375,Akrites Sykeon,Poseidon Nea Michaniona,0,2,0,1
+1620043,1791032400,28154,28149,Polykastrou,Finikas Polichnis,0,1,0,0
+1620042,1791036000,28150,20056,Mpam,PAO Kristoni,3,1,1,0
+1620013,1791723600,12375,12366,Poseidon Nea Michaniona,Kilkisiakos,2,1,2,1
+1620012,1791723600,20056,26578,PAO Kristoni,Iraklis Therm.,0,0,0,0
+1620044,1791723600,28146,28154,Agiou Nikolaou,Polykastrou,1,0,1,0
+1620045,1791723600,28149,12372,Finikas Polichnis,Makedonikos Neapolis,2,1,1,1
+1620046,1791723600,28150,26581,Mpam,Akrites Sykeon,3,1,2,1
+1620048,1792328400,12366,28150,Kilkisiakos,Mpam,4,4,0,3
+1620015,1792328400,12372,12375,Makedonikos Neapolis,Poseidon Nea Michaniona,2,2,0,1
+1620014,1792328400,26578,26581,Iraklis Therm.,Akrites Sykeon,1,0,0,0
+1620047,1792328400,28146,28149,Agiou Nikolaou,Finikas Polichnis,3,1,1,0
+1620049,1792328400,28154,28152,Polykastrou,Panedessaikos,1,0,0,0
+1620016,1792843200,26578,12366,Iraklis Therm.,Kilkisiakos,0,0,0,0
+1620050,1792843200,28149,12375,Finikas Polichnis,Poseidon Nea Michaniona,2,1,1,0
+1620051,1792843200,28150,12372,Mpam,Makedonikos Neapolis,2,2,2,0
+1620052,1792843200,28152,28146,Panedessaikos,Agiou Nikolaou,0,2,0,0
+1620053,1792933200,20056,28154,PAO Kristoni,Polykastrou,1,0,1,0
+1620017,1793538000,12372,26578,Makedonikos Neapolis,Iraklis Therm.,0,0,0,0
+1620057,1793538000,12375,28150,Poseidon Nea Michaniona,Mpam,1,0,0,0
+1620054,1793538000,28146,20056,Agiou Nikolaou,PAO Kristoni,0,1,0,0
+1620055,1793538000,28152,28149,Panedessaikos,Finikas Polichnis,1,3,1,2
+1620056,1793538000,28154,26581,Polykastrou,Akrites Sykeon,2,3,0,3
+1620059,1794056400,28149,28150,Finikas Polichnis,Mpam,1,1,0,0
+1620060,1794142800,12366,28154,Kilkisiakos,Polykastrou,1,3,0,1
+1620061,1794142800,20056,28152,PAO Kristoni,Panedessaikos,3,1,1,0
+1620018,1794142800,26578,12375,Iraklis Therm.,Poseidon Nea Michaniona,1,0,0,0
+1620058,1794142800,26581,28146,Akrites Sykeon,Agiou Nikolaou,0,2,0,0

@@ -1,0 +1,336 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1401187,1755888300,8773,7730,Egham Town,Margate,0,2,,
+1401180,1755957600,4683,7719,Metropolitan Police,Hartley Wintney,1,1,,
+1401179,1755957600,4693,9011,Heybridge Swifts,Wroxham,1,1,,
+1401181,1755957600,7243,8811,Northwood,Hanworth Villa,3,1,,
+1401178,1755957600,7253,21713,Sutton Coldfield Town,Rugby Borough,3,2,,
+1401176,1755957600,7657,7676,Marlow,Three Bridges,0,3,,
+1401186,1755957600,7704,7614,Brightlingsea Regent,Barton Rovers,3,1,,
+1401190,1755957600,8667,24354,AFC Croydon Athletic,AFC Whyteleafe,1,3,,
+1401185,1755957600,8700,7226,Bashley,Frome Town,0,3,,
+1401189,1755957600,8717,7228,Brantham Athletic,Grays Athletic,0,4,,
+1401183,1755957600,8752,8708,Consett,Bishop Auckland,1,1,,
+1401188,1755957600,8789,8686,Garforth Town,Ashington AFC,3,0,,
+1401191,1755957600,8846,8793,Leighton Town,Gorleston,2,0,,
+1401182,1755957600,8928,8817,Sheppey United,Hassocks,1,1,,
+1401177,1755957600,8945,8989,Sporting Khalsa,Wellingborough Town,1,1,,
+1401184,1755957600,8995,19552,Westbury United,Falmouth Town,1,1,,
+1449297,1757097900,8685,7676,Ascot United,Three Bridges,2,0,2.0,0.0
+1402704,1757097900,8712,7760,Bootle,Witton Albion,2,3,1.0,1.0
+1449299,1757097900,8775,9011,Enfield 1893,Wroxham,1,0,0.0,0.0
+1402672,1757097900,11986,11936,Heaton Stannington,AFC Emley,2,0,1.0,0.0
+1402686,1757167200,1344,16998,Bury,Wythenshawe Town,3,1,3.0,0.0
+1402669,1757167200,4696,8906,Leatherhead,Raynes Park Vale,4,0,2.0,0.0
+1402688,1757167200,4705,8769,Harrow Borough,Eastbourne Town,1,0,0.0,0.0
+1402668,1757167200,7212,8831,Bedfont Sports,Horndean,0,0,0.0,0.0
+1402682,1757167200,7213,19551,Bedworth United,Darlaston Town,0,0,0.0,0.0
+1402714,1757167200,7215,16991,Bideford,Mousehole,3,1,2.0,1.0
+1402678,1757167200,7224,8707,East Grinstead Town,Binfield,3,3,1.0,1.0
+1449289,1757167200,7228,16990,Grays Athletic,Milton Keynes Irish,2,1,1.0,1.0
+1402701,1757167200,7232,7206,Herne Bay,Ashford United,0,3,0.0,0.0
+1449290,1757167200,7243,8702,Northwood,Beckenham Town,0,1,0.0,1.0
+1402664,1757167200,7250,7641,Sittingbourne,Faversham Town,2,1,1.0,0.0
+1402680,1757167200,7251,8724,South Park,Broadbridge Heath,1,2,1.0,1.0
+1449301,1757167200,7253,7651,Sutton Coldfield Town,Kidsgrove Athletic,3,2,0.0,0.0
+1402696,1757167200,7258,17078,VCD Athletic,Rayners Lane,0,0,0.0,0.0
+1446947,1757167200,7261,7730,Westfield (Surrey),Margate,4,2,3.0,0.0
+1402689,1757167200,7263,8709,Willand Rovers,Bishop's Cleeve,1,1,1.0,1.0
+1402684,1757167200,7264,17072,Witham Town,Newmarket,2,2,2.0,1.0
+1402719,1757167200,7617,7242,Belper Town,Newcastle Town,2,1,1.0,1.0
+1402706,1757167200,7621,8926,Bristol Manor Farm,Shaftesbury Town,0,2,0.0,1.0
+1449300,1757167200,7634,8945,Coleshill Town,Sporting Khalsa,1,0,1.0,0.0
+1402720,1757167200,7639,7620,Dunston UTS,Brighouse Town,4,1,3.0,1.0
+1402718,1757167200,7648,7642,Hertford Town,Felixstowe & Walton Utd,1,3,1.0,2.0
+1402715,1757167200,7654,7610,Maldon & Tiptree,AFC Dunstable,0,1,0.0,0.0
+1402716,1757167200,7659,7675,Moneyfields,Thame United,2,2,1.0,1.0
+1402671,1757167200,7662,4697,Ossett United,Nantwich Town,1,3,1.0,2.0
+1449295,1757167200,7666,8789,Runcorn Linnets,Garforth Town,1,1,1.0,0.0
+1452960,1757167200,7678,8802,Ware,Hadley,1,5,1.0,2.0
+1449292,1757167200,7682,7226,Winchester City,Frome Town,2,0,1.0,0.0
+1402687,1757167200,7700,4682,Biggleswade Town,Hitchin Town,1,3,1.0,1.0
+1449298,1757167200,7704,8846,Brightlingsea Regent,Leighton Town,0,3,0.0,0.0
+1449293,1757167200,7720,4683,Hayes & Yeading United,Metropolitan Police,1,0,0.0,0.0
+1452957,1757167200,7725,4706,Kingstonian,Merstham,1,0,0.0,0.0
+1402666,1757167200,7729,8847,Lowestoft Town,Leverstock Green,2,0,0.0,0.0
+1402697,1757167200,7731,8797,Matlock Town,Grimsby Borough,3,0,1.0,0.0
+1402679,1757167200,7733,7698,Mickleover Sports,Basford United,2,3,1.0,1.0
+1402708,1757167200,7748,8711,Stafford Rangers,Boldmere St. Michaels,1,0,1.0,0.0
+1402699,1757167200,7749,7677,Stalybridge Celtic,Trafford,2,0,1.0,0.0
+1402711,1757167200,7764,7218,Bowers & Pitsea,Cambridge City,0,3,0.0,0.0
+1402721,1757167200,8651,16994,Bradford (Park Avenue),Redcar Athletic,1,1,0.0,0.0
+1402683,1757167200,8658,7618,Concord Rangers,Biggleswade,2,2,2.0,2.0
+1402667,1757167200,8671,8785,AFC Portchester,Flackwell Heath,1,0,1.0,0.0
+1402677,1757167200,8690,7632,Avro,Clitheroe,1,3,1.0,1.0
+1402703,1757167200,8719,7660,Bridlington Town,Mossley,1,0,1.0,0.0
+1402705,1757167200,8751,8981,Congleton Town,Vauxhall Motors,3,1,1.0,1.0
+1449296,1757167200,8752,8804,Consett,Hallam,4,0,2.0,0.0
+1402676,1757167200,8754,7652,Coventry Sphinx,Lincoln United,0,2,0.0,1.0
+1402674,1757167200,8777,8762,Erith Town,Deal Town,1,1,0.0,1.0
+1402698,1757167200,8778,7751,Exmouth,Swindon Supermarine,1,1,0.0,1.0
+1402695,1757167200,8782,7699,Fareham Town,Beaconsfield Town,4,1,2.0,1.0
+1449294,1757167200,8817,8760,Hassocks,Crowborough Athletic,1,3,1.0,1.0
+1402722,1757167200,8849,7221,Lichfield City,Corby Town,1,2,0.0,1.0
+1466847,1757167200,8856,7624,Long Eaton United,Carlton Town,2,2,1.0,1.0
+1402681,1757167200,8870,8861,Malvern Town,Loughborough University,5,1,4.0,1.0
+1452961,1757167200,8880,24334,Newton Aycliffe,Blyth Town,3,0,2.0,0.0
+1402694,1757167200,8908,7259,Redbridge,Waltham Abbey,1,4,0.0,2.0
+1402670,1757167200,8915,8904,Rugby Town,Racing Club Warwick,4,1,1.0,1.0
+1452958,1757167200,8929,8681,Shepshed Dynamo,Anstey Nomads,0,4,0.0,2.0
+1402693,1757167200,8936,7694,Silsden,Atherton Collieries,1,0,1.0,0.0
+1402675,1757167200,8950,7208,Stanway Rovers,Aylesbury United,4,0,2.0,0.0
+1402690,1757167200,8955,8873,Stotfold,Mildenhall Town,0,2,0.0,1.0
+1402663,1757167200,8965,7679,Takeley,Welwyn Garden City,0,2,0.0,0.0
+1402710,1757167200,8966,7238,Tavistock,Larkhall Athletic,1,1,1.0,0.0
+1402707,1757167200,8985,21703,Walthamstow,Downham Town,3,2,2.0,0.0
+1402709,1757167200,12104,7255,London Lions,Tilbury,0,3,0.0,2.0
+1402673,1757167200,12149,7626,Shifnal Town FC,Chasetown,1,0,1.0,0.0
+1452959,1757167200,16984,19552,Brixham,Falmouth Town,0,4,,
+1402702,1757167200,16987,7231,Jersey Bulls,Hastings United,3,1,1.0,0.0
+1402692,1757167200,16992,8650,North Ferriby,Blyth Spartans,1,0,1.0,0.0
+1402700,1757167200,21706,7222,Hartpury University,Didcot Town,2,1,0.0,0.0
+1402713,1757167200,24335,7691,Bourne Town,AFC Rushden & Diamonds,0,2,0.0,2.0
+1402685,1757167200,24346,7241,Portishead Town,Melksham Town,4,0,3.0,0.0
+1402717,1757167200,24348,7672,Sporting Club Inkberrow,St Neots Town,0,0,0.0,0.0
+1402665,1757253600,7247,8862,Pontefract Collieries,Lower Breck,0,2,0.0,0.0
+1402712,1757253600,7703,7249,Bognor Regis Town,Sevenoaks Town,2,2,2.0,1.0
+1449302,1757253600,8941,7262,Southall,Whyteleafe,0,0,0.0,0.0
+1402691,1757253600,11998,7722,Littlehampton Town,Hendon,1,2,1.0,1.0
+1469781,1758048300,16998,1344,Wythenshawe Town,Bury,1,2,1.0,1.0
+1466831,1758307500,7618,4682,Biggleswade,Hitchin Town,3,1,2.0,0.0
+1466827,1758307500,7749,8862,Stalybridge Celtic,Lower Breck,0,3,0.0,1.0
+1466809,1758307500,8719,16992,Bridlington Town,North Ferriby,2,0,0.0,0.0
+1466822,1758307500,8775,7610,Enfield 1893,AFC Dunstable,1,3,0.0,2.0
+1466846,1758371400,4705,16987,Harrow Borough,Jersey Bulls,4,0,3.0,0.0
+1466819,1758376800,4696,7725,Leatherhead,Kingstonian,2,0,1.0,0.0
+1466839,1758376800,7213,8681,Bedworth United,Anstey Nomads,0,3,0.0,1.0
+1466838,1758376800,7218,7264,Cambridge City,Witham Town,3,3,3.0,3.0
+1466815,1758376800,7221,7253,Corby Town,Sutton Coldfield Town,3,0,1.0,0.0
+1466811,1758376800,7224,7258,East Grinstead Town,VCD Athletic,1,2,,
+1466808,1758376800,7228,7642,Grays Athletic,Felixstowe & Walton Utd,2,0,1.0,0.0
+1466834,1758376800,7259,7729,Waltham Abbey,Lowestoft Town,4,1,2.0,0.0
+1466825,1758376800,7261,7703,Westfield (Surrey),Bognor Regis Town,1,1,0.0,0.0
+1466810,1758376800,7634,7691,Coleshill Town,AFC Rushden & Diamonds,3,4,1.0,3.0
+1466829,1758376800,7652,8870,Lincoln United,Malvern Town,0,2,0.0,0.0
+1466824,1758376800,7675,7682,Thame United,Winchester City,3,1,1.0,0.0
+1466832,1758376800,7679,7255,Welwyn Garden City,Tilbury,2,2,0.0,1.0
+1466826,1758376800,7720,8941,Hayes & Yeading United,Southall,5,1,3.0,0.0
+1466813,1758376800,7731,7698,Matlock Town,Basford United,1,2,1.0,1.0
+1466818,1758376800,7751,7215,Swindon Supermarine,Bideford,1,1,0.0,1.0
+1466835,1758376800,7760,7639,Witton Albion,Dunston UTS,0,1,0.0,1.0
+1466833,1758376800,8651,8752,Bradford (Park Avenue),Consett,2,0,0.0,0.0
+1466837,1758376800,8671,8966,AFC Portchester,Tavistock,3,0,2.0,0.0
+1466841,1758376800,8702,7722,Beckenham Town,Hendon,2,5,1.0,2.0
+1466821,1758376800,8724,7212,Broadbridge Heath,Bedfont Sports,2,1,1.0,1.0
+1466843,1758376800,8751,7632,Congleton Town,Clitheroe,1,3,1.0,1.0
+1466840,1758376800,8760,7250,Crowborough Athletic,Sittingbourne,1,6,0.0,3.0
+1466823,1758376800,8762,7206,Deal Town,Ashford United,2,3,0.0,2.0
+1466844,1758376800,8782,8709,Fareham Town,Bishop's Cleeve,2,4,0.0,2.0
+1466812,1758376800,8802,8685,Hadley,Ascot United,2,2,1.0,1.0
+1466817,1758376800,8915,7617,Rugby Town,Belper Town,3,2,2.0,0.0
+1466816,1758376800,8926,19552,Shaftesbury Town,Falmouth Town,2,2,2.0,1.0
+1466836,1758376800,8936,4697,Silsden,Nantwich Town,3,0,0.0,0.0
+1466845,1758376800,8950,8873,Stanway Rovers,Mildenhall Town,3,0,1.0,0.0
+1466842,1758376800,8985,8846,Walthamstow,Leighton Town,5,3,1.0,0.0
+1466830,1758376800,11986,8880,Heaton Stannington,Newton Aycliffe,4,0,2.0,0.0
+1466814,1758376800,12149,7624,Shifnal Town FC,Carlton Town,2,1,1.0,0.0
+1466807,1758376800,21706,24346,Hartpury University,Portishead Town,4,2,1.0,1.0
+1466828,1758376800,24348,7748,Sporting Club Inkberrow,Stafford Rangers,4,3,3.0,2.0
+1475981,1759517100,9010,8915,Worcester City,Rugby Town,2,2,2.0,1.0
+1475977,1759518000,8651,11986,Bradford (Park Avenue),Heaton Stannington,2,1,2.0,0.0
+1475982,1759581000,8903,7221,Quorn,Corby Town,2,2,0.0,1.0
+1475959,1759586400,1843,7753,Havant & Wville,Tiverton Town,4,2,2.0,1.0
+1476017,1759586400,4691,12149,Gainsborough Trinity,Shifnal Town FC,3,2,2.0,0.0
+1476013,1759586400,4694,7756,Hyde United,Warrington Town,1,0,1.0,0.0
+1475966,1759586400,4696,7665,Leatherhead,Ramsgate,4,1,2.0,1.0
+1475965,1759586400,4705,7264,Harrow Borough,Witham Town,3,1,1.0,1.0
+1476006,1759586400,4713,7623,Whitehawk,Canvey Island,0,2,0.0,1.0
+1475987,1759586400,7205,7622,AFC Sudbury,Bury Town,4,0,1.0,0.0
+1475964,1759586400,7206,7618,Ashford United,Biggleswade,3,3,2.0,2.0
+1476012,1759586400,7207,4708,Aveley,St Albans City,0,2,0.0,1.0
+1475993,1759586400,7217,7739,Burgess Hill Town,Potters Bar Town,1,1,1.0,1.0
+1475978,1759586400,7250,14411,Sittingbourne,Hashtag United,1,0,1.0,0.0
+1475988,1759586400,7259,8985,Waltham Abbey,Walthamstow,6,0,2.0,0.0
+1475971,1759586400,7261,7216,Westfield (Surrey),Brentwood Town,1,2,0.0,1.0
+1475979,1759586400,7610,7716,AFC Dunstable,Folkestone Invicta,1,3,0.0,3.0
+1476015,1759586400,7615,8926,Basingstoke Town,Shaftesbury Town,2,1,1.0,1.0
+1475975,1759586400,7619,8661,Bracknell Town,Hungerford Town,6,3,2.0,2.0
+1475995,1759586400,7627,7255,Chertsey Town,Tilbury,1,2,0.0,1.0
+1475970,1759586400,7628,8783,Chichester City,Farnham Town,2,4,1.0,2.0
+1475967,1759586400,7631,7741,Cleethorpes Town,Redditch United,0,0,0.0,0.0
+1475960,1759586400,7636,7214,Cray Valley PM,Berkhamsted,1,0,1.0,0.0
+1475972,1759586400,7639,8918,Dunston UTS,Rylands,2,1,1.0,1.0
+1475998,1759586400,7640,7236,Evesham United,Ilkeston Town,0,2,0.0,2.0
+1475996,1759586400,7644,7239,Halesowen Town,Leek Town,1,2,0.0,1.0
+1475958,1759586400,7645,7228,Hanwell Town,Grays Athletic,2,1,0.0,0.0
+1466820,1759586400,7666,1344,Runcorn Linnets,Bury,7,0,2.0,0.0
+1476011,1759586400,7675,7696,Thame United,Banbury United,0,2,0.0,1.0
+1475974,1759586400,7691,8870,AFC Rushden & Diamonds,Malvern Town,3,1,1.0,1.0
+1476004,1759586400,7693,7632,Ashton United,Clitheroe,1,2,0.0,2.0
+1476019,1759586400,7697,7705,Barwell,Bromsgrove Sporting,0,3,0.0,1.0
+1476010,1759586400,7698,7692,Basford United,Alvechurch,0,0,0.0,0.0
+1475976,1759586400,7701,7711,Bishop's Stortford,Cray Wanderers,4,0,0.0,0.0
+1476016,1759586400,7707,7708,Carshalton Athletic,Cheshunt,1,2,1.0,1.0
+1475997,1759586400,7712,7215,Dorchester Town,Bideford,4,0,3.0,0.0
+1475992,1759586400,7720,8986,Hayes & Yeading United,Walton & Hersham,0,0,0.0,0.0
+1475983,1759586400,7728,7727,Lewes,Leiston,1,2,0.0,1.0
+1475989,1759586400,7742,8664,Royston Town,Welling United,0,3,0.0,1.0
+1476003,1759586400,7743,7671,Rushall Olympic,Spalding United,0,2,0.0,1.0
+1475985,1759586400,7747,8654,St Ives Town,Kettering Town,1,0,0.0,0.0
+1475999,1759586400,7757,8822,Whitby Town,Hebburn Town,1,2,0.0,1.0
+1475969,1759586400,7758,8665,Wimborne Town,Weymouth,2,0,0.0,0.0
+1475994,1759586400,7759,7258,Wingate & Finchley,VCD Athletic,4,1,1.0,0.0
+1475973,1759586400,7762,7738,Yate Town,Poole Town,1,2,0.0,0.0
+1475990,1759586400,8149,7722,Dulwich Hamlet,Hendon,0,1,0.0,1.0
+1476008,1759586400,8671,4711,AFC Portchester,Taunton Town,2,1,1.0,0.0
+1476005,1759586400,8681,4710,Anstey Nomads,Stourbridge,3,2,2.0,2.0
+1476007,1759586400,8709,7668,Bishop's Cleeve,Sholing,2,1,0.0,0.0
+1475980,1759586400,8719,1824,Bridlington Town,Guiseley AFC,2,4,1.0,1.0
+1475991,1759586400,8724,4678,Broadbridge Heath,Billericay Town,1,3,1.0,1.0
+1475963,1759586400,8737,7735,Chatham Town,Needham Market,0,0,0.0,0.0
+1476000,1759586400,8802,4690,Hadley,Dartford,2,1,1.0,0.0
+1476014,1759586400,8812,7721,Harborough Town,Hednesford Town,2,0,1.0,0.0
+1475961,1759586400,8899,7717,Plymouth Parkway,Gosport Borough,3,2,1.0,0.0
+1475984,1759586400,8950,7257,Stanway Rovers,Uxbridge,0,0,0.0,0.0
+1475962,1759586400,8953,8862,Stockton Town,Lower Breck,2,0,1.0,0.0
+1476002,1759586400,21706,8653,Hartpury University,Gloucester City,0,0,0.0,0.0
+1476009,1759586400,21712,4709,Real Bedford,Stamford,3,1,1.0,1.0
+1476001,1759586400,24348,7750,Sporting Club Inkberrow,Stratford Town,1,2,0.0,0.0
+1476018,1759862700,7265,7754,Workington,United of Manchester,0,2,0.0,1.0
+1476020,1759862700,7663,7726,Prescot Cables,Lancaster City,2,0,0.0,0.0
+1480367,1759862700,7666,7734,Runcorn Linnets,Morpeth Town,1,1,0.0,1.0
+1475968,1759862700,8936,7252,Silsden,Stocksbridge Park Steels,1,1,0.0,0.0
+1480701,1761331500,7639,8822,Dunston UTS,Hebburn Town,1,0,1.0,0.0
+1480696,1761400800,4678,7701,Billericay Town,Bishop's Stortford,0,5,0.0,2.0
+1481015,1761400800,4694,7252,Hyde United,Stocksbridge Park Steels,0,3,0.0,1.0
+1480706,1761400800,4696,7623,Leatherhead,Canvey Island,1,1,1.0,0.0
+1480713,1761400800,4708,7645,St Albans City,Hanwell Town,0,2,0.0,1.0
+1480715,1761400800,7205,7727,AFC Sudbury,Leiston,2,1,1.0,0.0
+1480698,1761400800,7216,8664,Brentwood Town,Welling United,3,0,2.0,0.0
+1480699,1761400800,7217,7716,Burgess Hill Town,Folkestone Invicta,1,4,1.0,3.0
+1480705,1761400800,7236,7747,Ilkeston Town,St Ives Town,3,1,1.0,1.0
+1480707,1761400800,7239,7705,Leek Town,Bromsgrove Sporting,3,0,0.0,0.0
+1480711,1761400800,7250,7636,Sittingbourne,Cray Valley PM,2,1,1.0,0.0
+1480716,1761400800,7255,8802,Tilbury,Hadley,1,0,0.0,0.0
+1480717,1761400800,7259,8737,Waltham Abbey,Chatham Town,0,2,0.0,1.0
+1480700,1761400800,7632,8953,Clitheroe,Stockton Town,4,2,3.0,2.0
+1481016,1761400800,7663,1824,Prescot Cables,Guiseley AFC,2,1,0.0,1.0
+1480712,1761400800,7671,7221,Spalding United,Corby Town,0,1,0.0,0.0
+1480693,1761400800,7692,9010,Alvechurch,Worcester City,0,0,0.0,0.0
+1480710,1761400800,7741,4691,Redditch United,Gainsborough Trinity,1,2,0.0,0.0
+1481014,1761400800,7754,7695,United of Manchester,Bamber Bridge,1,0,0.0,0.0
+1480719,1761400800,7758,8671,Wimborne Town,AFC Portchester,1,0,0.0,0.0
+1480720,1761400800,7759,7708,Wingate & Finchley,Cheshunt,0,1,0.0,1.0
+1481013,1761400800,8651,7734,Bradford (Park Avenue),Morpeth Town,1,1,1.0,0.0
+1480703,1761400800,8653,1843,Gloucester City,Havant & Wville,1,0,0.0,0.0
+1480694,1761400800,8681,7750,Anstey Nomads,Stratford Town,4,0,1.0,0.0
+1480702,1761400800,8783,8709,Farnham Town,Bishop's Cleeve,2,2,2.0,1.0
+1480704,1761400800,8812,7691,Harborough Town,AFC Rushden & Diamonds,4,1,2.0,0.0
+1480708,1761400800,8899,7738,Plymouth Parkway,Poole Town,1,1,0.0,1.0
+1480714,1761400800,8950,4705,Stanway Rovers,Harrow Borough,1,2,0.0,0.0
+1480718,1761400800,8986,7722,Walton & Hersham,Hendon,5,1,1.0,1.0
+1480709,1761400800,21712,7206,Real Bedford,Ashford United,3,2,3.0,2.0
+1480697,1761490800,7619,7696,Bracknell Town,Banbury United,1,0,0.0,0.0
+1480695,1761680700,7615,7712,Basingstoke Town,Dorchester Town,1,1,0.0,0.0
+1484380,1763218800,1380,7663,Macclesfield,Prescot Cables,1,0,0.0,0.0
+1484362,1763218800,1820,7632,Chester,Clitheroe,0,1,0.0,1.0
+1484365,1763218800,1821,7255,Dagenham & Redbridge,Tilbury,2,0,0.0,0.0
+1484391,1763218800,1827,1825,Torquay,Maidstone Utd,0,2,0.0,2.0
+1484729,1763218800,1829,7712,Dover,Dorchester Town,2,0,0.0,0.0
+1484367,1763218800,1840,7250,Ebbsfleet United,Sittingbourne,1,1,0.0,0.0
+1484364,1763218800,4679,7266,Chorley,Worksop Town,2,3,1.0,1.0
+1484383,1763218800,4684,7737,Oxford City,Peterborough Sports,1,2,0.0,1.0
+1484386,1763218800,4685,8653,Slough Town,Gloucester City,1,1,0.0,1.0
+1484375,1763218800,4695,7221,Kidderminster Harriers,Corby Town,3,0,1.0,0.0
+1484378,1763218800,4696,4680,Leatherhead,Hampton & Richmond,2,0,2.0,0.0
+1484361,1763218800,4702,4688,Chesham United,AFC Telford United,1,2,1.0,1.0
+1484388,1763218800,4707,1839,Spennymoor Town,AFC Fylde,2,3,2.0,1.0
+1484389,1763218800,7205,4692,AFC Sudbury,Hereford,1,5,1.0,2.0
+1484359,1763218800,7216,7690,Brentwood Town,AFC Hornchurch,0,0,0.0,0.0
+1484374,1763218800,7236,4703,Ilkeston Town,Curzon Ashton,0,1,0.0,0.0
+1484379,1763218800,7239,7745,Leek Town,Scarborough Athletic,1,0,0.0,0.0
+1484357,1763218800,7616,8681,Bedford Town,Anstey Nomads,0,1,0.0,0.0
+1484381,1763218800,7656,7252,Marine,Stocksbridge Park Steels,2,0,0.0,0.0
+1484355,1763218800,7692,21712,Alvechurch,Real Bedford,1,1,1.0,0.0
+1484358,1763218800,7701,7708,Bishop's Stortford,Cheshunt,1,1,0.0,0.0
+1484360,1763218800,7706,1826,Buxton,Southport,2,3,0.0,2.0
+1484369,1763218800,7716,7612,Folkestone Invicta,AFC Totton,1,2,1.0,1.0
+1484373,1763218800,7723,8783,Horsham,Farnham Town,2,0,0.0,0.0
+1484382,1763218800,7732,7645,Merthyr Town,Hanwell Town,2,3,1.0,1.0
+1484385,1763218800,7740,8651,Radcliffe,Bradford (Park Avenue),2,2,1.0,1.0
+1484387,1763218800,7746,7639,South Shields,Dunston UTS,6,2,4.0,1.0
+1484368,1763218800,7754,10157,United of Manchester,Darlington 1883,3,2,0.0,1.0
+1484393,1763218800,7758,8737,Wimborne Town,Chatham Town,0,1,0.0,0.0
+1484363,1763218800,8147,4687,Chippenham Town,Weston-super-Mare,0,1,0.0,1.0
+1484376,1763218800,8655,4705,King's Lynn Town,Harrow Borough,2,2,2.0,0.0
+1484377,1763218800,8656,1838,Leamington,Maidenhead,2,0,1.0,0.0
+1484356,1763218800,8657,7619,Bath City,Bracknell Town,1,1,0.0,0.0
+1484366,1763218800,8659,4704,Dorking Wanderers,Eastbourne Borough,3,2,2.0,1.0
+1484372,1763218800,8660,4689,Hemel Hempstead Town,Chelmsford City,0,0,0.0,0.0
+1484390,1763218800,8662,7761,Tonbridge Angels,Worthing,0,4,0.0,1.0
+1484371,1763218800,8812,7714,Harborough Town,Enfield Town,3,0,1.0,0.0
+1484384,1763218800,8899,7744,Plymouth Parkway,Salisbury,4,3,2.0,1.0
+1484392,1763218800,8986,7715,Walton & Hersham,Farnborough,2,1,1.0,1.0
+1484370,1763495100,4691,4677,Gainsborough Trinity,Alfreton Town,1,2,0.0,1.0
+1486836,1765630800,1840,1831,Ebbsfleet United,Braintree,3,1,1.0,1.0
+1486847,1765638000,1340,7737,Scunthorpe,Peterborough Sports,5,0,1.0,0.0
+1486849,1765638000,1341,4699,Southend,Truro City,4,0,2.0,0.0
+1486842,1765638000,1366,8681,Hartlepool,Anstey Nomads,1,2,0.0,1.0
+1486857,1765638000,1377,1825,Yeovil Town,Maidstone Utd,1,1,0.0,0.0
+1486838,1765638000,1378,4687,Forest Green,Weston-super-Mare,4,0,0.0,0.0
+1486832,1765638000,1821,7645,Dagenham & Redbridge,Hanwell Town,3,1,1.0,1.0
+1486835,1765638000,1822,1818,Eastleigh,Aldershot Town,2,1,1.0,0.0
+1486839,1765638000,1823,1375,Gateshead,Morecambe,0,3,0.0,2.0
+1486850,1765638000,1826,7239,Southport,Leek Town,3,1,0.0,0.0
+1486834,1765638000,1829,7690,Dover,AFC Hornchurch,1,4,0.0,2.0
+1486828,1765638000,1830,4701,Boreham Wood,Brackley Town,3,3,1.0,2.0
+1486848,1765638000,1834,1839,Solihull Moors,AFC Fylde,2,2,0.0,1.0
+1486855,1765638000,1836,7612,Woking,AFC Totton,2,0,2.0,0.0
+1486837,1765638000,1841,7754,FC Halifax Town,United of Manchester,4,0,0.0,0.0
+1486827,1765638000,4688,4700,AFC Telford United,Altrincham,4,3,0.0,2.0
+1486844,1765638000,4692,7740,Hereford,Radcliffe,1,1,0.0,1.0
+1486846,1765638000,4696,4705,Leatherhead,Harrow Borough,3,2,2.0,1.0
+1486831,1765638000,4703,7656,Curzon Ashton,Marine,1,2,1.0,1.0
+1486856,1765638000,7266,4695,Worksop Town,Kidderminster Harriers,0,0,0.0,0.0
+1486830,1765638000,7632,1828,Clitheroe,York,1,1,0.0,0.0
+1487263,1765638000,7692,4677,Alvechurch,Alfreton Town,2,2,0.0,2.0
+1486851,1765638000,7746,1380,South Shields,Macclesfield,0,1,0.0,1.0
+1486852,1765638000,7752,8146,Tamworth,Boston United,1,1,0.0,0.0
+1486840,1765638000,8653,7761,Gloucester City,Worthing,3,3,0.0,1.0
+1486845,1765638000,8656,1339,Leamington,Rochdale,0,1,0.0,0.0
+1486833,1765638000,8659,8657,Dorking Wanderers,Bath City,1,1,1.0,0.0
+1486843,1765638000,8660,7723,Hemel Hempstead Town,Horsham,0,2,0.0,0.0
+1486854,1765638000,8663,7708,Wealdstone,Cheshunt,2,1,0.0,0.0
+1486829,1765638000,8737,8899,Chatham Town,Plymouth Parkway,3,0,1.0,0.0
+1486841,1765638000,8812,1371,Harborough Town,Carlisle,1,2,0.0,1.0
+1486853,1765638000,8986,1835,Walton & Hersham,Sutton Utd,4,1,1.0,0.0
+1492109,1768057200,1377,7692,Yeovil Town,Alvechurch,0,0,0.0,0.0
+1492097,1768057200,1840,1378,Ebbsfleet United,Forest Green,0,2,0.0,1.0
+1492099,1768057200,4692,1839,Hereford,AFC Fylde,2,2,0.0,2.0
+1492102,1768057200,4696,7723,Leatherhead,Horsham,2,3,2.0,0.0
+1492103,1768057200,7656,8653,Marine,Gloucester City,1,1,0.0,1.0
+1492107,1768057200,8663,1821,Wealdstone,Dagenham & Redbridge,1,0,0.0,0.0
+1492095,1768057200,8737,1371,Chatham Town,Carlisle,1,0,1.0,0.0
+1492106,1768057200,8986,4701,Walton & Hersham,Brackley Town,1,0,0.0,0.0
+1492104,1768333500,1340,7632,Scunthorpe,Clitheroe,3,1,0.0,0.0
+1492096,1768333500,1822,1826,Eastleigh,Southport,0,2,0.0,1.0
+1492098,1768333500,1841,8681,FC Halifax Town,Anstey Nomads,4,0,0.0,0.0
+1492101,1768333500,4695,1375,Kidderminster Harriers,Morecambe,6,2,5.0,1.0
+1492105,1768333500,7752,1339,Tamworth,Rochdale,1,1,0.0,1.0
+1492094,1768333500,8657,1341,Bath City,Southend,1,3,0.0,1.0
+1492108,1768938300,1836,1380,Woking,Macclesfield,2,1,2.0,0.0
+1492100,1768938300,7690,4688,AFC Hornchurch,AFC Telford United,1,2,1.0,1.0
+1506876,1769871600,1340,7723,Scunthorpe,Horsham,1,2,1.0,2.0
+1506422,1769871600,1378,8663,Forest Green,Wealdstone,0,3,0.0,1.0
+1506872,1769871600,1839,1826,AFC Fylde,Southport,0,1,0.0,0.0
+1506874,1769871600,1841,4695,FC Halifax Town,Kidderminster Harriers,1,1,1.0,0.0
+1510231,1769871600,4688,1377,AFC Telford United,Yeovil Town,0,2,0.0,1.0
+1506875,1769871600,7752,7656,Tamworth,Marine,0,0,0.0,0.0
+1506873,1769871600,8737,1341,Chatham Town,Southend,0,1,0.0,0.0
+1510232,1769871600,8986,1836,Walton & Hersham,Woking,1,2,0.0,2.0
+1517033,1772290800,1826,1377,Southport,Yeovil Town,1,1,0.0,1.0
+1517031,1772290800,4695,8663,Kidderminster Harriers,Wealdstone,1,1,1.0,1.0
+1517032,1772290800,7656,1836,Marine,Woking,1,0,1.0,0.0
+1517030,1772290800,7723,1341,Horsham,Southend,1,2,1.0,2.0
+1528860,1774710000,1826,1341,Southport,Southend,1,3,1.0,0.0
+1528861,1774710000,8663,7656,Wealdstone,Marine,1,0,0.0,0.0
+1538430,1779031800,1341,8663,Southend,Wealdstone,0,0,0.0,0.0

@@ -1,0 +1,307 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1410465,1754067600,6948,6959,Polonia Środa,Stargard Szczeciński,4,2,1,0
+1410466,1754139600,21657,16246,Noteć Czarnków,Flota Świnoujście,1,1,0,0
+1410469,1754139600,26181,24329,Tłuchowia,Wybrzeże Rewalskie Rewal,1,2,0,1
+1410468,1754143200,6938,9133,Elana Toruń,Lech Poznań II,2,4,2,1
+1410471,1754143200,19693,24328,Luzino,Wda Świecie,1,0,0,0
+1410467,1754143200,19723,20625,Victoria Września,Cartusia Kartuzy,0,2,0,1
+1410472,1754146800,17398,16257,Kluczevia Stargard,Unia Swarzędz,2,2,1,0
+1410470,1754146800,26180,13843,Lipno Stęszew,Zawisza Bydgoszcz,2,3,1,2
+1410473,1754222400,16252,17399,Pogoń Szczecin II,Pogoń Nowe Skalmierzyce,4,1,3,1
+1410482,1754668800,13843,26181,Zawisza Bydgoszcz,Tłuchowia,4,0,4,0
+1410476,1754668800,16257,19693,Unia Swarzędz,Luzino,1,1,1,0
+1410477,1754733600,9133,26180,Lech Poznań II,Lipno Stęszew,2,3,0,1
+1410475,1754733600,17399,17398,Pogoń Nowe Skalmierzyce,Kluczevia Stargard,0,3,0,1
+1410479,1754733600,24328,19723,Wda Świecie,Victoria Września,2,1,1,0
+1410480,1754744400,6959,6938,Stargard Szczeciński,Elana Toruń,0,2,0,2
+1410474,1754748000,20625,16252,Cartusia Kartuzy,Pogoń Szczecin II,2,1,0,0
+1410481,1754748000,24329,21657,Wybrzeże Rewalskie Rewal,Noteć Czarnków,0,1,0,0
+1410478,1754751600,16246,6948,Flota Świnoujście,Polonia Środa,0,0,0,0
+1410486,1755252000,19693,9133,Luzino,Lech Poznań II,4,3,2,1
+1410643,1755270000,20625,6938,Cartusia Kartuzy,Elana Toruń,4,2,3,0
+1410483,1755270000,21657,13843,Noteć Czarnków,Zawisza Bydgoszcz,2,4,0,2
+1410491,1755273600,16257,17399,Unia Swarzędz,Pogoń Nowe Skalmierzyce,0,1,0,0
+1410484,1755338400,16252,6948,Pogoń Szczecin II,Polonia Środa,2,3,2,0
+1410490,1755352800,26181,16246,Tłuchowia,Flota Świnoujście,0,1,0,0
+1410488,1755356400,17398,6959,Kluczevia Stargard,Stargard Szczeciński,1,4,1,2
+1410485,1755356400,26180,24328,Lipno Stęszew,Wda Świecie,2,2,1,1
+1410487,1755435600,19723,24329,Victoria Września,Wybrzeże Rewalskie Rewal,2,0,0,0
+1410496,1755711000,13843,19723,Zawisza Bydgoszcz,Victoria Września,2,0,1,0
+1410498,1755856800,9133,17398,Lech Poznań II,Kluczevia Stargard,2,1,2,0
+1410499,1755878400,17399,26181,Pogoń Nowe Skalmierzyce,Tłuchowia,0,0,0,0
+1410497,1755882000,6948,6938,Polonia Środa,Elana Toruń,1,0,0,0
+1410494,1755943200,21657,16252,Noteć Czarnków,Pogoń Szczecin II,0,2,0,1
+1410492,1755954000,6959,26180,Stargard Szczeciński,Lipno Stęszew,3,1,2,1
+1410495,1755954000,24328,16257,Wda Świecie,Unia Swarzędz,0,3,0,2
+1410500,1755961200,16246,19693,Flota Świnoujście,Luzino,3,1,0,1
+1410503,1756306800,16252,13843,Pogoń Szczecin II,Zawisza Bydgoszcz,1,1,0,0
+1410505,1756306800,16257,9133,Unia Swarzędz,Lech Poznań II,1,4,0,2
+1410509,1756306800,17398,24328,Kluczevia Stargard,Wda Świecie,0,0,0,0
+1410501,1756306800,20625,6959,Cartusia Kartuzy,Stargard Szczeciński,0,1,0,1
+1410502,1756306800,26181,21657,Tłuchowia,Noteć Czarnków,0,0,0,0
+1410507,1756308600,19693,6948,Luzino,Polonia Środa,2,2,0,2
+1410659,1756310400,17399,6938,Pogoń Nowe Skalmierzyce,Elana Toruń,0,0,0,0
+1410506,1756310400,19723,16246,Victoria Września,Flota Świnoujście,1,2,1,0
+1410504,1756310400,26180,24329,Lipno Stęszew,Wybrzeże Rewalskie Rewal,2,0,1,0
+1410517,1756558800,26181,16257,Tłuchowia,Unia Swarzędz,1,2,1,0
+1410670,1756562400,19723,17399,Victoria Września,Pogoń Nowe Skalmierzyce,1,3,1,3
+1410518,1756566000,16246,26180,Flota Świnoujście,Lipno Stęszew,4,0,2,0
+1410515,1756569600,13843,17398,Zawisza Bydgoszcz,Kluczevia Stargard,4,2,3,0
+1410512,1756634400,24329,6938,Wybrzeże Rewalskie Rewal,Elana Toruń,0,3,0,0
+1410513,1756645200,6959,16252,Stargard Szczeciński,Pogoń Szczecin II,4,0,2,0
+1410514,1756650600,21657,19693,Noteć Czarnków,Luzino,0,2,0,1
+1410510,1756652400,6948,9133,Polonia Środa,Lech Poznań II,1,4,0,1
+1410511,1756652400,24328,20625,Wda Świecie,Cartusia Kartuzy,0,4,0,2
+1410523,1757084400,16257,13843,Unia Swarzędz,Zawisza Bydgoszcz,0,0,0,0
+1410520,1757156400,6938,16246,Elana Toruń,Flota Świnoujście,3,2,0,2
+1410519,1757156400,20625,6948,Cartusia Kartuzy,Polonia Środa,1,1,0,0
+1410522,1757163600,17398,24329,Kluczevia Stargard,Wybrzeże Rewalskie Rewal,0,0,0,0
+1410524,1757167200,19723,6959,Victoria Września,Stargard Szczeciński,1,3,0,0
+1410521,1757167200,26180,26181,Lipno Stęszew,Tłuchowia,0,2,0,1
+1410525,1757235600,19693,16252,Luzino,Pogoń Szczecin II,6,0,5,0
+1410526,1757246400,17399,24328,Pogoń Nowe Skalmierzyce,Wda Świecie,0,1,0,0
+1410534,1757689200,21657,19723,Noteć Czarnków,Victoria Września,0,1,0,1
+1410528,1757692800,13843,17399,Zawisza Bydgoszcz,Pogoń Nowe Skalmierzyce,3,0,2,0
+1410529,1757696400,6948,26180,Polonia Środa,Lipno Stęszew,2,0,1,0
+1410533,1757757600,24329,19693,Wybrzeże Rewalskie Rewal,Luzino,1,4,1,0
+1410532,1757768400,6959,9133,Stargard Szczeciński,Lech Poznań II,3,3,0,1
+1410531,1757768400,26181,20625,Tłuchowia,Cartusia Kartuzy,1,4,0,1
+1410535,1757775600,16246,17398,Flota Świnoujście,Kluczevia Stargard,2,1,0,1
+1410530,1757854800,16252,16257,Pogoń Szczecin II,Unia Swarzędz,2,3,0,1
+1410536,1757854800,24328,6938,Wda Świecie,Elana Toruń,2,5,0,3
+1410527,1758117600,9133,21657,Lech Poznań II,Noteć Czarnków,0,2,0,1
+1410493,1758117600,24329,20625,Wybrzeże Rewalskie Rewal,Cartusia Kartuzy,0,1,0,0
+1410541,1758290400,16257,6948,Unia Swarzędz,Polonia Środa,0,2,0,2
+1410544,1758369600,26180,6938,Lipno Stęszew,Elana Toruń,2,2,2,0
+1410545,1758373200,17398,26181,Kluczevia Stargard,Tłuchowia,3,0,1,0
+1410542,1758376800,19723,16252,Victoria Września,Pogoń Szczecin II,2,3,2,1
+1410537,1758394800,13843,24329,Zawisza Bydgoszcz,Wybrzeże Rewalskie Rewal,5,0,1,0
+1410540,1758448800,9133,24328,Lech Poznań II,Wda Świecie,6,0,2,0
+1410539,1758448800,19693,6959,Luzino,Stargard Szczeciński,2,2,1,2
+1410543,1758452400,20625,21657,Cartusia Kartuzy,Noteć Czarnków,3,2,1,1
+1410538,1758456000,17399,16246,Pogoń Nowe Skalmierzyce,Flota Świnoujście,0,2,0,0
+1410546,1758970800,20625,16257,Cartusia Kartuzy,Unia Swarzędz,1,0,1,0
+1410549,1758978000,6959,24328,Stargard Szczeciński,Wda Świecie,1,2,1,1
+1410552,1758978000,21657,17398,Noteć Czarnków,Kluczevia Stargard,1,1,1,1
+1410551,1758978000,26181,19723,Tłuchowia,Victoria Września,1,0,1,0
+1410547,1758988800,16252,26180,Pogoń Szczecin II,Lipno Stęszew,3,4,1,2
+1410553,1759057200,6938,19693,Elana Toruń,Luzino,2,1,0,1
+1410550,1759064400,16246,9133,Flota Świnoujście,Lech Poznań II,1,2,1,2
+1410554,1759064400,24329,17399,Wybrzeże Rewalskie Rewal,Pogoń Nowe Skalmierzyce,1,1,0,1
+1410548,1759071600,6948,13843,Polonia Środa,Zawisza Bydgoszcz,2,1,2,1
+1410556,1759507200,13843,6959,Zawisza Bydgoszcz,Stargard Szczeciński,2,0,1,0
+1410562,1759572000,9133,16252,Lech Poznań II,Pogoń Szczecin II,3,1,3,1
+1410555,1759572000,19693,26181,Luzino,Tłuchowia,6,2,2,2
+1410559,1759575600,16257,16246,Unia Swarzędz,Flota Świnoujście,0,1,0,0
+1410557,1759575600,17399,21657,Pogoń Nowe Skalmierzyce,Noteć Czarnków,0,0,0,0
+1410558,1759581000,26180,20625,Lipno Stęszew,Cartusia Kartuzy,1,0,0,0
+1410561,1759582800,24328,24329,Wda Świecie,Wybrzeże Rewalskie Rewal,2,0,0,0
+1410563,1759586400,19723,6948,Victoria Września,Polonia Środa,2,3,2,0
+1410560,1759665600,17398,6938,Kluczevia Stargard,Elana Toruń,1,2,1,2
+1410567,1760115600,6948,24328,Polonia Środa,Wda Świecie,5,1,2,1
+1410570,1760176800,20625,17398,Cartusia Kartuzy,Kluczevia Stargard,1,2,1,0
+1410572,1760184000,17399,19693,Pogoń Nowe Skalmierzyce,Luzino,1,2,0,1
+1410571,1760187600,6938,19723,Elana Toruń,Victoria Września,1,0,0,0
+1410564,1760187600,6959,16257,Stargard Szczeciński,Unia Swarzędz,1,1,1,1
+1410568,1760187600,16246,13843,Flota Świnoujście,Zawisza Bydgoszcz,1,0,0,0
+1410565,1760263200,16252,26181,Pogoń Szczecin II,Tłuchowia,2,3,1,1
+1410566,1760270400,21657,26180,Noteć Czarnków,Lipno Stęszew,3,1,1,0
+1410577,1760781600,26180,17399,Lipno Stęszew,Pogoń Nowe Skalmierzyce,0,1,0,0
+1410575,1760785200,9133,20625,Lech Poznań II,Cartusia Kartuzy,3,1,2,0
+1410578,1760785200,16257,21657,Unia Swarzędz,Noteć Czarnków,3,1,1,0
+1410573,1760788800,26181,6948,Tłuchowia,Polonia Środa,0,3,0,1
+1410581,1760792400,24328,16246,Wda Świecie,Flota Świnoujście,2,1,1,0
+1410579,1760794200,24329,6959,Wybrzeże Rewalskie Rewal,Stargard Szczeciński,0,2,0,1
+1410580,1760806800,13843,6938,Zawisza Bydgoszcz,Elana Toruń,1,1,0,1
+1410576,1760875200,17398,16252,Kluczevia Stargard,Pogoń Szczecin II,3,0,1,0
+1410569,1761141600,24329,9133,Wybrzeże Rewalskie Rewal,Lech Poznań II,0,2,0,1
+1410583,1761325200,6948,21657,Polonia Środa,Noteć Czarnków,2,6,1,3
+1410586,1761386400,26180,17398,Lipno Stęszew,Kluczevia Stargard,2,0,0,0
+1410590,1761393600,6938,16252,Elana Toruń,Pogoń Szczecin II,1,2,0,2
+1410587,1761397200,6959,17399,Stargard Szczeciński,Pogoń Nowe Skalmierzyce,1,1,1,0
+1410588,1761397200,16246,24329,Flota Świnoujście,Wybrzeże Rewalskie Rewal,0,1,0,0
+1410585,1761397200,19723,16257,Victoria Września,Unia Swarzędz,3,1,3,0
+1410582,1761397200,24328,13843,Wda Świecie,Zawisza Bydgoszcz,0,1,0,1
+1410589,1761476400,9133,26181,Lech Poznań II,Tłuchowia,2,1,0,1
+1410584,1761476400,20625,19693,Cartusia Kartuzy,Luzino,3,2,0,1
+1410595,1761912000,16257,6938,Unia Swarzędz,Elana Toruń,0,1,0,1
+1410597,1761912000,19693,26180,Luzino,Lipno Stęszew,1,2,0,1
+1410593,1761912000,26181,24328,Tłuchowia,Wda Świecie,0,2,0,0
+1410594,1761913800,17398,19723,Kluczevia Stargard,Victoria Września,0,1,0,0
+1410596,1761915600,17399,20625,Pogoń Nowe Skalmierzyce,Cartusia Kartuzy,1,0,1,0
+1410591,1761917400,24329,6948,Wybrzeże Rewalskie Rewal,Polonia Środa,0,2,0,1
+1410599,1762084800,21657,6959,Noteć Czarnków,Stargard Szczeciński,3,1,2,0
+1410592,1762095600,13843,9133,Zawisza Bydgoszcz,Lech Poznań II,3,1,1,0
+1410598,1762102800,16252,16246,Pogoń Szczecin II,Flota Świnoujście,3,3,3,1
+1410601,1762538400,6948,17398,Polonia Środa,Kluczevia Stargard,1,4,1,1
+1410607,1762599600,19693,13843,Luzino,Zawisza Bydgoszcz,2,1,2,1
+1410603,1762599600,20625,16246,Cartusia Kartuzy,Flota Świnoujście,1,0,0,0
+1410605,1762599600,26180,19723,Lipno Stęszew,Victoria Września,1,0,1,0
+1410608,1762603200,6959,26181,Stargard Szczeciński,Tłuchowia,3,2,1,2
+1410600,1762605000,24328,16252,Wda Świecie,Pogoń Szczecin II,2,0,1,0
+1410606,1762606800,21657,6938,Noteć Czarnków,Elana Toruń,0,1,0,1
+1410604,1762689600,9133,17399,Lech Poznań II,Pogoń Nowe Skalmierzyce,1,1,0,0
+1410602,1762689600,24329,16257,Wybrzeże Rewalskie Rewal,Unia Swarzędz,0,0,0,0
+1410574,1762860600,19693,19723,Luzino,Victoria Września,1,0,0,0
+1410609,1763139600,13843,20625,Zawisza Bydgoszcz,Cartusia Kartuzy,2,0,2,0
+1410616,1763208000,16257,26180,Unia Swarzędz,Lipno Stęszew,0,2,0,2
+1410612,1763208000,21657,24328,Noteć Czarnków,Wda Świecie,3,0,2,0
+1410615,1763208000,26181,6938,Tłuchowia,Elana Toruń,0,0,0,0
+1410614,1763209800,16246,6959,Flota Świnoujście,Stargard Szczeciński,1,1,1,0
+1410617,1763294400,17398,19693,Kluczevia Stargard,Luzino,1,2,0,1
+1410611,1763294400,17399,6948,Pogoń Nowe Skalmierzyce,Polonia Środa,1,2,1,0
+1410623,1763809200,13843,26180,Zawisza Bydgoszcz,Lipno Stęszew,1,1,0,1
+1410622,1763809200,24328,19693,Wda Świecie,Luzino,1,0,1,0
+1410618,1763812800,6959,6948,Stargard Szczeciński,Polonia Środa,0,1,0,0
+1410621,1763812800,16257,17398,Unia Swarzędz,Kluczevia Stargard,0,2,0,0
+1410624,1763812800,17399,16252,Pogoń Nowe Skalmierzyce,Pogoń Szczecin II,2,2,0,1
+1410620,1763812800,24329,26181,Wybrzeże Rewalskie Rewal,Tłuchowia,0,1,0,1
+1410626,1763895600,9133,6938,Lech Poznań II,Elana Toruń,1,2,1,2
+1410613,1764174600,16252,24329,Pogoń Szczecin II,Wybrzeże Rewalskie Rewal,5,1,4,0
+1410632,1764331200,19693,16257,Luzino,Unia Swarzędz,3,0,1,0
+1410629,1764414000,21657,24329,Noteć Czarnków,Wybrzeże Rewalskie Rewal,2,0,0,0
+1410633,1764417600,17398,17399,Kluczevia Stargard,Pogoń Nowe Skalmierzyce,2,1,0,1
+1410631,1764427500,19723,24328,Victoria Września,Wda Świecie,3,1,1,0
+1410630,1764437400,26180,9133,Lipno Stęszew,Lech Poznań II,1,0,1,0
+1410628,1764507600,16252,20625,Pogoń Szczecin II,Cartusia Kartuzy,5,0,5,0
+1410610,1765022400,19723,9133,Victoria Września,Lech Poznań II,0,0,0,0
+1410636,1772197200,13843,21657,Zawisza Bydgoszcz,Noteć Czarnków,5,0,2,0
+1410644,1772208000,24329,19723,Wybrzeże Rewalskie Rewal,Victoria Września,2,1,1,1
+1410637,1772276400,9133,19693,Lech Poznań II,Luzino,1,2,0,0
+1410639,1772276400,16246,26181,Flota Świnoujście,Tłuchowia,1,0,1,0
+1410638,1772276400,24328,26180,Wda Świecie,Lipno Stęszew,3,0,2,0
+1410640,1772280000,6959,17398,Stargard Szczeciński,Kluczevia Stargard,0,3,0,1
+1410489,1772283600,6938,20625,Elana Toruń,Cartusia Kartuzy,1,0,1,0
+1410642,1772362800,6948,16252,Polonia Środa,Pogoń Szczecin II,3,0,2,0
+1410641,1772362800,17399,16257,Pogoń Nowe Skalmierzyce,Unia Swarzędz,0,4,0,3
+1410653,1772798400,19693,16246,Luzino,Flota Świnoujście,2,0,2,0
+1410647,1772881200,16257,24328,Unia Swarzędz,Wda Świecie,0,0,0,0
+1410645,1772881200,20625,24329,Cartusia Kartuzy,Wybrzeże Rewalskie Rewal,4,1,3,1
+1410648,1772884800,17398,9133,Kluczevia Stargard,Lech Poznań II,1,0,0,0
+1410651,1772884800,19723,13843,Victoria Września,Zawisza Bydgoszcz,0,2,0,1
+1410652,1772884800,26180,6959,Lipno Stęszew,Stargard Szczeciński,1,2,1,2
+1410650,1772899200,16252,21657,Pogoń Szczecin II,Noteć Czarnków,1,2,1,2
+1410649,1772899200,26181,17399,Tłuchowia,Pogoń Nowe Skalmierzyce,1,3,0,1
+1410646,1772974800,6938,6948,Elana Toruń,Polonia Środa,0,3,0,0
+1410658,1773414000,6959,20625,Stargard Szczeciński,Cartusia Kartuzy,3,0,1,0
+1410656,1773421200,13843,16252,Zawisza Bydgoszcz,Pogoń Szczecin II,2,1,2,1
+1410657,1773424800,6948,19693,Polonia Środa,Luzino,1,2,1,0
+1410654,1773486000,24328,17398,Wda Świecie,Kluczevia Stargard,1,1,1,0
+1410655,1773489600,9133,16257,Lech Poznań II,Unia Swarzędz,2,0,0,0
+1410662,1773489600,24329,26180,Wybrzeże Rewalskie Rewal,Lipno Stęszew,1,1,0,1
+1410661,1773493200,21657,26181,Noteć Czarnków,Tłuchowia,1,1,1,1
+1410660,1773496800,16246,19723,Flota Świnoujście,Victoria Września,2,1,2,1
+1410508,1773504000,6938,17399,Elana Toruń,Pogoń Nowe Skalmierzyce,3,1,2,0
+1410635,1773763200,6938,6959,Elana Toruń,Stargard Szczeciński,1,0,1,0
+1410668,1774090800,9133,6948,Lech Poznań II,Polonia Środa,1,1,0,0
+1410663,1774094400,16257,26181,Unia Swarzędz,Tłuchowia,5,1,2,0
+1410667,1774094400,19693,21657,Luzino,Noteć Czarnków,3,0,3,0
+1410665,1774098000,17398,13843,Kluczevia Stargard,Zawisza Bydgoszcz,0,0,0,0
+1410516,1774098000,17399,19723,Pogoń Nowe Skalmierzyce,Victoria Września,1,2,1,1
+1410669,1774098000,20625,24328,Cartusia Kartuzy,Wda Świecie,1,1,1,1
+1413152,1774098000,26180,16246,Lipno Stęszew,Flota Świnoujście,2,3,0,3
+1410664,1774184400,16252,6959,Pogoń Szczecin II,Stargard Szczeciński,3,0,0,0
+1410666,1774285200,6938,24329,Elana Toruń,Wybrzeże Rewalskie Rewal,5,1,2,0
+1410625,1774443600,16246,21657,Flota Świnoujście,Noteć Czarnków,2,4,2,2
+1410677,1774623600,26181,26180,Tłuchowia,Lipno Stęszew,3,1,0,0
+1413153,1774699200,24329,17398,Wybrzeże Rewalskie Rewal,Kluczevia Stargard,0,4,0,3
+1410676,1774702800,24328,17399,Wda Świecie,Pogoń Nowe Skalmierzyce,3,1,2,0
+1480380,1774706400,6959,19723,Stargard Szczeciński,Victoria Września,2,3,2,0
+1410673,1774706400,16246,6938,Flota Świnoujście,Elana Toruń,2,2,1,0
+1410672,1774713600,6948,20625,Polonia Środa,Cartusia Kartuzy,2,1,0,0
+1410671,1774717200,13843,16257,Zawisza Bydgoszcz,Unia Swarzędz,1,0,1,0
+1410634,1775052000,26181,13843,Tłuchowia,Zawisza Bydgoszcz,0,1,0,1
+1410619,1775053800,20625,19723,Cartusia Kartuzy,Victoria Września,0,3,0,1
+1410627,1775055600,6948,16246,Polonia Środa,Flota Świnoujście,6,2,4,2
+1410681,1775224800,19693,24329,Luzino,Wybrzeże Rewalskie Rewal,2,1,1,1
+1410678,1775228400,16257,16252,Unia Swarzędz,Pogoń Szczecin II,1,0,0,0
+1410679,1775239680,6938,24328,Elana Toruń,Wda Świecie,0,1,0,0
+1410684,1775296800,9133,6959,Lech Poznań II,Stargard Szczeciński,1,1,0,1
+1410682,1775296800,17399,13843,Pogoń Nowe Skalmierzyce,Zawisza Bydgoszcz,0,1,0,0
+1410685,1775296800,19723,21657,Victoria Września,Noteć Czarnków,0,0,0,0
+1410683,1775300400,17398,16246,Kluczevia Stargard,Flota Świnoujście,2,3,0,1
+1410686,1775300400,26180,6948,Lipno Stęszew,Polonia Środa,1,1,1,0
+1410680,1775307600,20625,26181,Cartusia Kartuzy,Tłuchowia,0,0,0,0
+1410689,1775833200,24328,9133,Wda Świecie,Lech Poznań II,2,3,0,1
+1410687,1775840400,6948,16257,Polonia Środa,Unia Swarzędz,0,1,0,1
+1410688,1775908800,26181,17398,Tłuchowia,Kluczevia Stargard,0,3,0,1
+1410691,1775912400,6959,19693,Stargard Szczeciński,Luzino,1,4,0,1
+1410693,1775912400,21657,20625,Noteć Czarnków,Cartusia Kartuzy,3,2,2,1
+1480381,1775916000,16246,17399,Flota Świnoujście,Pogoń Nowe Skalmierzyce,0,2,0,0
+1410692,1775926800,6938,26180,Elana Toruń,Lipno Stęszew,1,1,0,0
+1410694,1775995200,16252,19723,Pogoń Szczecin II,Victoria Września,1,2,0,0
+1410690,1775995200,24329,13843,Wybrzeże Rewalskie Rewal,Zawisza Bydgoszcz,2,7,1,2
+1410674,1776258000,16252,19693,Pogoń Szczecin II,Luzino,1,2,0,2
+1410675,1776265200,21657,9133,Noteć Czarnków,Lech Poznań II,2,1,0,0
+1410696,1776513600,16257,20625,Unia Swarzędz,Cartusia Kartuzy,4,1,3,1
+1410699,1776513600,17398,21657,Kluczevia Stargard,Noteć Czarnków,3,0,0,0
+1410701,1776513600,24328,6959,Wda Świecie,Stargard Szczeciński,3,2,1,1
+1413154,1776524400,26180,16252,Lipno Stęszew,Pogoń Szczecin II,1,0,1,0
+1410698,1776531600,13843,6948,Zawisza Bydgoszcz,Polonia Środa,1,0,0,0
+1410697,1776592800,9133,16246,Lech Poznań II,Flota Świnoujście,3,1,2,0
+1410695,1776592800,19693,6938,Luzino,Elana Toruń,2,1,1,1
+1410702,1776592800,19723,26181,Victoria Września,Tłuchowia,2,0,1,0
+1410700,1776600000,17399,24329,Pogoń Nowe Skalmierzyce,Wybrzeże Rewalskie Rewal,0,0,0,0
+1410706,1777111200,16252,9133,Pogoń Szczecin II,Lech Poznań II,2,2,1,2
+1410708,1777114800,6959,13843,Stargard Szczeciński,Zawisza Bydgoszcz,2,3,1,3
+1410705,1777114800,20625,26180,Cartusia Kartuzy,Lipno Stęszew,0,1,0,0
+1410710,1777114800,21657,17399,Noteć Czarnków,Pogoń Nowe Skalmierzyce,1,2,0,2
+1410704,1777118400,26181,19693,Tłuchowia,Luzino,1,1,1,0
+1410711,1777125600,6948,19723,Polonia Środa,Victoria Września,0,0,0,0
+1410709,1777125600,24329,24328,Wybrzeże Rewalskie Rewal,Wda Świecie,1,1,0,0
+1410707,1777129200,16246,16257,Flota Świnoujście,Unia Swarzędz,2,2,0,1
+1410703,1777132800,6938,17398,Elana Toruń,Kluczevia Stargard,1,1,0,0
+1410715,1777561200,19693,17399,Luzino,Pogoń Nowe Skalmierzyce,4,3,2,1
+1410714,1777563000,9133,24329,Lech Poznań II,Wybrzeże Rewalskie Rewal,6,2,3,0
+1410720,1777629600,16257,6959,Unia Swarzędz,Stargard Szczeciński,0,0,0,0
+1410719,1777629600,24328,6948,Wda Świecie,Polonia Środa,3,2,2,2
+1410713,1777629600,26180,21657,Lipno Stęszew,Noteć Czarnków,1,0,1,0
+1410712,1777629600,26181,16252,Tłuchowia,Pogoń Szczecin II,3,3,1,1
+1410716,1777633200,17398,20625,Kluczevia Stargard,Cartusia Kartuzy,2,1,1,0
+1410718,1777640400,19723,6938,Victoria Września,Elana Toruń,3,2,1,0
+1410717,1777654800,13843,16246,Zawisza Bydgoszcz,Flota Świnoujście,0,1,0,0
+1410721,1778252400,6959,24329,Stargard Szczeciński,Wybrzeże Rewalskie Rewal,3,0,2,0
+1410726,1778254200,21657,16257,Noteć Czarnków,Unia Swarzędz,0,1,0,1
+1410725,1778259600,6948,26181,Polonia Środa,Tłuchowia,3,1,0,1
+1410724,1778320800,20625,9133,Cartusia Kartuzy,Lech Poznań II,0,0,0,0
+1410729,1778324400,17399,26180,Pogoń Nowe Skalmierzyce,Lipno Stęszew,2,0,1,0
+1410728,1778328000,16252,17398,Pogoń Szczecin II,Kluczevia Stargard,2,1,0,0
+1410727,1778331600,6938,13843,Elana Toruń,Zawisza Bydgoszcz,0,3,0,2
+1410722,1778331600,19723,19693,Victoria Września,Luzino,0,1,0,1
+1410723,1778338800,16246,24328,Flota Świnoujście,Wda Świecie,0,3,0,0
+1410731,1778684400,16252,6938,Pogoń Szczecin II,Elana Toruń,4,0,2,0
+1410730,1778684400,16257,19723,Unia Swarzędz,Victoria Września,2,1,0,0
+1410734,1778684400,17398,26180,Kluczevia Stargard,Lipno Stęszew,0,3,0,1
+1410738,1778684400,17399,6959,Pogoń Nowe Skalmierzyce,Stargard Szczeciński,0,0,0,0
+1410736,1778684400,19693,20625,Luzino,Cartusia Kartuzy,3,0,2,0
+1410735,1778684400,24329,16246,Wybrzeże Rewalskie Rewal,Flota Świnoujście,1,3,1,2
+1410737,1778684400,26181,9133,Tłuchowia,Lech Poznań II,3,1,0,1
+1410732,1778686200,21657,6948,Noteć Czarnków,Polonia Środa,2,0,1,0
+1410733,1778691600,13843,24328,Zawisza Bydgoszcz,Wda Świecie,1,0,1,0
+1410746,1778932800,19723,17398,Victoria Września,Kluczevia Stargard,2,1,1,1
+1410743,1778943600,24328,26181,Wda Świecie,Tłuchowia,1,2,1,1
+1410739,1778947200,20625,17399,Cartusia Kartuzy,Pogoń Nowe Skalmierzyce,0,1,0,0
+1410745,1779012000,9133,13843,Lech Poznań II,Zawisza Bydgoszcz,2,4,2,2
+1410740,1779012000,26180,19693,Lipno Stęszew,Luzino,0,5,0,2
+1410744,1779022800,6938,16257,Elana Toruń,Unia Swarzędz,0,4,0,1
+1410747,1779022800,6959,21657,Stargard Szczeciński,Noteć Czarnków,1,1,1,0
+1410741,1779022800,16246,16252,Flota Świnoujście,Pogoń Szczecin II,1,2,0,1
+1410742,1779026400,6948,24329,Polonia Środa,Wybrzeże Rewalskie Rewal,4,0,2,0
+1410755,1779463800,26181,6959,Tłuchowia,Stargard Szczeciński,1,4,0,2
+1410748,1779465600,16246,20625,Flota Świnoujście,Cartusia Kartuzy,0,0,0,0
+1410750,1779530400,17399,9133,Pogoń Nowe Skalmierzyce,Lech Poznań II,3,0,0,0
+1410752,1779534000,16257,24329,Unia Swarzędz,Wybrzeże Rewalskie Rewal,3,1,3,0
+1410756,1779541200,17398,6948,Kluczevia Stargard,Polonia Środa,1,2,1,0
+1410754,1779544800,19723,26180,Victoria Września,Lipno Stęszew,1,3,1,1
+1410753,1779548400,6938,21657,Elana Toruń,Noteć Czarnków,0,3,0,3
+1410749,1779555600,13843,19693,Zawisza Bydgoszcz,Luzino,2,0,0,0
+1410751,1779634800,16252,24328,Pogoń Szczecin II,Wda Świecie,13,1,6,0
+1410760,1780138800,19693,17398,Luzino,Kluczevia Stargard,3,2,2,1
+1410762,1780153200,6938,26181,Elana Toruń,Tłuchowia,2,5,1,2
+1410761,1780153200,6948,17399,Polonia Środa,Pogoń Nowe Skalmierzyce,2,1,1,0
+1410758,1780153200,6959,16246,Stargard Szczeciński,Flota Świnoujście,3,0,1,0
+1410759,1780153200,9133,19723,Lech Poznań II,Victoria Września,1,2,0,2
+1410763,1780153200,20625,13843,Cartusia Kartuzy,Zawisza Bydgoszcz,0,2,0,1
+1410765,1780153200,24328,21657,Wda Świecie,Noteć Czarnków,1,3,1,2
+1410764,1780153200,24329,16252,Wybrzeże Rewalskie Rewal,Pogoń Szczecin II,1,4,0,2
+1410757,1780153200,26180,16257,Lipno Stęszew,Unia Swarzędz,4,3,1,1

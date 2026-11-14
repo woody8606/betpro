@@ -1,0 +1,147 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1546893,1784988000,6729,7454,Banks O' Dee,Wick Academy,2,0,0,0
+1546894,1784988000,6760,7438,Brora Rangers,Deveronvale,3,0,2,0
+1546898,1784988000,6769,19792,Fraserburgh,Invergordon,0,0,0,0
+1546895,1784988000,7432,7445,Buckie Thistle,Inverurie Loco Works,2,0,0,0
+1546896,1784988000,7435,7452,Clachnacuddin,Turriff United,0,0,0,0
+1546897,1784988000,7441,7446,Forres Mechanics,Keith,5,1,2,1
+1546899,1784988000,7447,7521,Lossiemouth,Huntly,1,0,0,0
+1546900,1784988000,7448,7449,Nairn County,Rothes,3,0,1,0
+1546901,1784988000,7451,6768,Strathspey Thistle,Formartine United,1,2,1,2
+1546904,1785592800,6768,6760,Formartine United,Brora Rangers,1,4,0,4
+1546902,1785592800,7432,6729,Buckie Thistle,Banks O' Dee,7,2,3,0
+1546903,1785592800,7438,7452,Deveronvale,Turriff United,1,2,0,1
+1546907,1785592800,7445,7441,Inverurie Loco Works,Forres Mechanics,3,3,2,2
+1546908,1785592800,7446,7448,Keith,Nairn County,1,1,1,0
+1546909,1785592800,7449,6769,Rothes,Fraserburgh,0,7,0,4
+1546910,1785592800,7454,7451,Wick Academy,Strathspey Thistle,0,2,0,1
+1546905,1785592800,7521,7435,Huntly,Clachnacuddin,1,6,0,1
+1546906,1785592800,19792,7447,Invergordon,Lossiemouth,1,2,0,1
+1546911,1785956400,6729,7445,Banks O' Dee,Inverurie Loco Works,1,1,0,0
+1546912,1785956400,6760,7454,Brora Rangers,Wick Academy,8,0,3,0
+1546914,1785956400,6769,7446,Fraserburgh,Keith,1,0,0,0
+1546913,1785956400,7435,19792,Clachnacuddin,Invergordon,1,0,0,0
+1546916,1785956400,7447,7449,Lossiemouth,Rothes,4,1,4,1
+1546917,1785956400,7448,7441,Nairn County,Forres Mechanics,1,2,1,2
+1546918,1785956400,7451,7432,Strathspey Thistle,Buckie Thistle,0,2,0,1
+1546919,1785956400,7452,6768,Turriff United,Formartine United,1,0,0,0
+1546915,1785956400,7521,7438,Huntly,Deveronvale,1,0,1,0
+1546920,1786197600,6729,7451,Banks O' Dee,Strathspey Thistle,1,1,1,0
+1546922,1786197600,6768,7521,Formartine United,Huntly,2,2,1,2
+1546921,1786197600,7432,6760,Buckie Thistle,Brora Rangers,2,2,2,1
+1546923,1786197600,7441,6769,Forres Mechanics,Fraserburgh,0,2,0,1
+1546925,1786197600,7445,7448,Inverurie Loco Works,Nairn County,3,1,2,0
+1546926,1786197600,7446,7447,Keith,Lossiemouth,2,2,2,1
+1546928,1786197600,7454,7452,Wick Academy,Turriff United,0,2,0,0
+1546924,1786197600,19792,7438,Invergordon,Deveronvale,3,0,1,0
+1546929,1786802400,6760,6729,Brora Rangers,Banks O' Dee,4,2,4,1
+1546932,1786802400,6769,7448,Fraserburgh,Nairn County,2,0,0,0
+1546930,1786802400,7435,7446,Clachnacuddin,Keith,1,1,1,0
+1546931,1786802400,7438,7449,Deveronvale,Rothes,3,0,1,0
+1546935,1786802400,7447,7441,Lossiemouth,Forres Mechanics,2,1,1,0
+1546936,1786802400,7451,7445,Strathspey Thistle,Inverurie Loco Works,1,3,0,2
+1546937,1786802400,7452,7432,Turriff United,Buckie Thistle,1,2,1,2
+1546933,1786802400,7521,7454,Huntly,Wick Academy,3,0,2,0
+1546934,1786802400,19792,6768,Invergordon,Formartine United,1,2,0,1
+1546938,1787166000,6729,7452,Banks O' Dee,Turriff United,1,0,1,0
+1546940,1787166000,7441,7435,Forres Mechanics,Clachnacuddin,2,1,2,0
+1546941,1787166000,7445,6769,Inverurie Loco Works,Fraserburgh,2,1,2,0
+1546943,1787166000,7448,7447,Nairn County,Lossiemouth,1,1,0,0
+1546944,1787166000,7449,6768,Rothes,Formartine United,2,4,2,1
+1546945,1787166000,7451,6760,Strathspey Thistle,Brora Rangers,1,2,0,1
+1546946,1787166000,7454,19792,Wick Academy,Invergordon,1,2,0,1
+1546947,1787407200,6760,7445,Brora Rangers,Inverurie Loco Works,0,0,0,0
+1546950,1787407200,6768,7446,Formartine United,Keith,4,1,0,0
+1546948,1787407200,7435,7448,Clachnacuddin,Nairn County,6,1,4,1
+1546949,1787407200,7438,7441,Deveronvale,Forres Mechanics,1,1,1,0
+1546953,1787407200,7447,6769,Lossiemouth,Fraserburgh,0,4,0,2
+1546954,1787407200,7449,7454,Rothes,Wick Academy,3,2,1,0
+1546955,1787407200,7452,7451,Turriff United,Strathspey Thistle,1,2,0,2
+1546951,1787407200,7521,6729,Huntly,Banks O' Dee,2,2,1,1
+1546952,1787407200,19792,7432,Invergordon,Buckie Thistle,0,6,0,2
+1546956,1788012000,6729,19792,Banks O' Dee,Invergordon,6,3,4,1
+1546957,1788012000,6760,7452,Brora Rangers,Turriff United,3,1,2,1
+1546960,1788012000,6769,7435,Fraserburgh,Clachnacuddin,2,2,1,1
+1546958,1788012000,7432,7449,Buckie Thistle,Rothes,5,0,4,0
+1546959,1788012000,7441,6768,Forres Mechanics,Formartine United,1,2,0,1
+1546961,1788012000,7445,7447,Inverurie Loco Works,Lossiemouth,3,1,1,0
+1546962,1788012000,7446,7454,Keith,Wick Academy,4,1,3,1
+1546963,1788012000,7448,7438,Nairn County,Deveronvale,0,0,0,0
+1546964,1788012000,7451,7521,Strathspey Thistle,Huntly,3,0,1,0
+1546972,1788613200,7452,7445,Turriff United,Inverurie Loco Works,1,3,1,2
+1546967,1788616800,6768,7448,Formartine United,Nairn County,1,1,1,0
+1546965,1788616800,7435,7447,Clachnacuddin,Lossiemouth,4,0,3,0
+1546966,1788616800,7438,6769,Deveronvale,Fraserburgh,3,1,2,0
+1546970,1788616800,7446,7432,Keith,Buckie Thistle,3,2,1,1
+1546971,1788616800,7449,6729,Rothes,Banks O' Dee,0,5,0,2
+1546973,1788616800,7454,7441,Wick Academy,Forres Mechanics,1,0,1,0
+1546968,1788616800,7521,6760,Huntly,Brora Rangers,1,2,0,1
+1546969,1788616800,19792,7451,Invergordon,Strathspey Thistle,0,2,0,0
+1546939,1789221600,7432,7521,Buckie Thistle,Huntly,0,3,0,3
+1546993,1789221600,7435,6768,Clachnacuddin,Formartine United,1,1,1,0
+1547086,1789221600,7445,7451,Inverurie Loco Works,Strathspey Thistle,1,1,0,1
+1546942,1789221600,7446,7438,Keith,Deveronvale,2,0,0,0
+1546998,1789221600,7448,6729,Nairn County,Banks O' Dee,2,2,1,1
+1546974,1789585200,6729,7446,Banks O' Dee,Keith,4,1,0,0
+1546975,1789585200,6760,19792,Brora Rangers,Invergordon,7,2,3,0
+1546977,1789585200,6769,6768,Fraserburgh,Formartine United,1,1,1,1
+1546976,1789585200,7441,7432,Forres Mechanics,Buckie Thistle,2,1,0,1
+1546978,1789585200,7445,7435,Inverurie Loco Works,Clachnacuddin,1,0,1,0
+1546979,1789585200,7447,7438,Lossiemouth,Deveronvale,0,2,0,1
+1546980,1789585200,7448,7454,Nairn County,Wick Academy,2,0,2,0
+1546981,1789585200,7451,7449,Strathspey Thistle,Rothes,7,1,5,0
+1546982,1789585200,7452,7521,Turriff United,Huntly,2,1,2,1
+1546985,1789826400,6768,7447,Formartine United,Lossiemouth,3,0,3,0
+1546983,1789826400,7432,7448,Buckie Thistle,Nairn County,1,3,0,0
+1546984,1789826400,7438,7435,Deveronvale,Clachnacuddin,2,2,1,0
+1546986,1789826400,7441,6729,Forres Mechanics,Banks O' Dee,3,0,1,0
+1546989,1789826400,7446,7451,Keith,Strathspey Thistle,2,3,1,1
+1546990,1789826400,7449,6760,Rothes,Brora Rangers,0,8,0,4
+1546991,1789826400,7454,6769,Wick Academy,Fraserburgh,2,3,0,3
+1546987,1789826400,7521,7445,Huntly,Inverurie Loco Works,2,2,0,2
+1546988,1789826400,19792,7452,Invergordon,Turriff United,3,1,1,0
+1546999,1790362800,7451,7441,Strathspey Thistle,Forres Mechanics,0,1,0,0
+1546992,1790431200,6760,7446,Brora Rangers,Keith,5,0,3,0
+1546994,1790431200,7438,7445,Deveronvale,Inverurie Loco Works,4,5,0,2
+1546997,1790431200,7447,7454,Lossiemouth,Wick Academy,3,4,1,2
+1547000,1790431200,7452,7449,Turriff United,Rothes,4,1,4,0
+1546996,1790431200,7521,19792,Huntly,Invergordon,7,0,2,0
+1547001,1791399600,6729,6769,Banks O' Dee,Fraserburgh,1,3,1,3
+1547003,1791399600,6768,7438,Formartine United,Deveronvale,2,1,1,0
+1547002,1791399600,7432,7447,Buckie Thistle,Lossiemouth,2,4,0,3
+1547004,1791399600,7441,6760,Forres Mechanics,Brora Rangers,2,5,0,4
+1547005,1791399600,7445,19792,Inverurie Loco Works,Invergordon,1,0,1,0
+1547006,1791399600,7446,7452,Keith,Turriff United,1,0,1,0
+1547007,1791399600,7448,7451,Nairn County,Strathspey Thistle,3,2,1,0
+1547008,1791399600,7449,7521,Rothes,Huntly,1,3,1,3
+1547009,1791399600,7454,7435,Wick Academy,Clachnacuddin,0,4,0,1
+1547010,1791640800,6760,7448,Brora Rangers,Nairn County,2,1,1,1
+1547013,1791640800,6769,7451,Fraserburgh,Strathspey Thistle,2,2,0,1
+1547011,1791640800,7435,7432,Clachnacuddin,Buckie Thistle,3,0,2,0
+1547012,1791640800,7438,7454,Deveronvale,Wick Academy,2,1,2,1
+1547016,1791640800,7445,6768,Inverurie Loco Works,Formartine United,0,2,0,1
+1547017,1791640800,7447,6729,Lossiemouth,Banks O' Dee,0,6,0,3
+1547018,1791640800,7452,7441,Turriff United,Forres Mechanics,2,0,1,0
+1547014,1791640800,7521,7446,Huntly,Keith,2,0,1,0
+1547015,1791640800,19792,7449,Invergordon,Rothes,2,0,0,0
+1547026,1792177200,7451,7447,Strathspey Thistle,Lossiemouth,2,2,1,0
+1547019,1792245600,6729,7435,Banks O' Dee,Clachnacuddin,4,0,1,0
+1547022,1792245600,6769,6760,Fraserburgh,Brora Rangers,1,1,1,1
+1547020,1792245600,7432,7438,Buckie Thistle,Deveronvale,2,3,0,0
+1547021,1792245600,7441,7521,Forres Mechanics,Huntly,2,2,2,1
+1547023,1792245600,7446,19792,Keith,Invergordon,6,4,3,4
+1547024,1792245600,7448,7452,Nairn County,Turriff United,2,1,1,0
+1547025,1792245600,7449,7445,Rothes,Inverurie Loco Works,1,3,0,2
+1547027,1792245600,7454,6768,Wick Academy,Formartine United,2,1,1,1
+1547088,1792850400,7448,6769,Nairn County,Fraserburgh,2,2,1,0
+1547089,1792850400,7449,7438,Rothes,Deveronvale,0,3,0,1
+1547081,1792850400,7452,7454,Turriff United,Wick Academy,3,3,1,1
+1547028,1793458800,6760,7447,Brora Rangers,Lossiemouth,4,2,2,2
+1547029,1793458800,7435,7451,Clachnacuddin,Strathspey Thistle,3,1,1,0
+1547034,1793458800,7445,7454,Inverurie Loco Works,Wick Academy,2,0,0,0
+1547035,1793458800,7449,7446,Rothes,Keith,0,3,0,1
+1547036,1793458800,7452,6769,Turriff United,Fraserburgh,1,1,0,1
+1547032,1793458800,7521,7448,Huntly,Nairn County,4,0,2,0
+1547033,1793458800,19792,7441,Invergordon,Forres Mechanics,2,4,0,3
+1547076,1794060000,6769,7441,Fraserburgh,Forres Mechanics,4,1,2,1
+1547045,1794600000,7451,7438,Strathspey Thistle,Deveronvale,1,1,0,1

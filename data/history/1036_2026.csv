@@ -34,5 +34,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1598006,1793476800,19635,137,Blumenau,Figueirense,3,2,0,1
 1598007,1793556000,795,7860,Joinville,Metropolitano,3,0,2,0
 1598008,1793556000,10677,18271,Marcílio Dias,Barra,2,2,1,0
-1598009,1793556000,21207,7828,Santa Catarina,Hercílio Luz,2,3,0,1
+1598009,1793556000,21207,7828,Santa Catarina,Hercílio Luz,2,3,1,0
 1648441,1794074400,795,7828,Joinville,Hercílio Luz,0,1,0,0
+1648442,1794168000,10677,137,Marcílio Dias,Figueirense,1,0,0,0

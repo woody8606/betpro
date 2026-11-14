@@ -59,22 +59,22 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1635999,1792204200,24952,15937,Tigres de Alica,Reboceros La Piedad,4,0,2.0,0.0
 1636000,1792270800,15936,2293,Pioneros de Cancún,Jaguares de Chiapas,0,0,0.0,0.0
 1636001,1792278000,12793,22046,Inter Playa del Carmen,Racing de Veracruz,0,1,0.0,0.0
-1636002,1792281600,15932,2303,Irapuato,Zacatepec 1948,2,0,0.0,0.0
 1636003,1792281600,17787,24939,Lobos ULMX,Cordobés,2,0,1.0,0.0
+1636002,1792281600,15932,2303,Irapuato,Zacatepec 1948,2,0,0.0,0.0
 1636004,1792461900,24954,19907,Tapachula,Deportiva Venados,1,4,0.0,3.0
 1636005,1792800000,26525,17790,Chapulineros,Tritons Vallarta,2,1,1.0,0.0
 1636007,1792875600,15936,2303,Pioneros de Cancún,Zacatepec 1948,0,0,0.0,0.0
 1636006,1792877400,22046,19908,Racing de Veracruz,Los Cabos United,0,0,0.0,0.0
-1636008,1792882800,19907,24952,Deportiva Venados,Tigres de Alica,3,1,1.0,0.0
 1636009,1792882800,24954,28340,Tapachula,H2O Purepechas,1,0,0.0,0.0
+1636008,1792882800,19907,24952,Deportiva Venados,Tigres de Alica,3,1,1.0,0.0
 1636011,1792882800,12793,15932,Inter Playa del Carmen,Irapuato,1,4,1.0,2.0
 1636010,1792886400,2293,15937,Jaguares de Chiapas,Reboceros La Piedad,2,2,0.0,2.0
 1636012,1792886400,2308,24939,Celaya,Cordobés,2,1,2.0,0.0
 1636013,1792951200,17788,17787,Montañeses,Lobos ULMX,0,3,0.0,0.0
 1636015,1793410200,24952,24954,Tigres de Alica,Tapachula,4,1,3.0,1.0
 1636016,1793412000,15937,12793,Reboceros La Piedad,Inter Playa del Carmen,1,2,1.0,0.0
-1636017,1793482200,2303,22046,Zacatepec 1948,Racing de Veracruz,1,5,0.0,2.0
 1636018,1793482200,24939,2293,Cordobés,Jaguares de Chiapas,2,2,2.0,0.0
+1636017,1793482200,2303,22046,Zacatepec 1948,Racing de Veracruz,1,5,0.0,2.0
 1636014,1793484000,17790,15936,Tritons Vallarta,Pioneros de Cancún,3,2,2.0,1.0
 1636020,1793494800,17787,26525,Lobos ULMX,Chapulineros,1,1,1.0,0.0
 1636019,1793498400,15932,19907,Irapuato,Deportiva Venados,2,1,0.0,0.0
@@ -83,7 +83,12 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1636026,1793988000,24954,2303,Tapachula,Zacatepec 1948,2,4,1.0,2.0
 1636024,1794085200,15936,15937,Pioneros de Cancún,Reboceros La Piedad,1,0,1.0,0.0
 1636023,1794087000,22046,15932,Racing de Veracruz,Irapuato,0,1,0.0,0.0
+1636028,1794092400,12793,17787,Inter Playa del Carmen,Lobos ULMX,1,2,0.0,1.0
 1636025,1794092400,19907,17790,Deportiva Venados,Tritons Vallarta,1,1,0.0,0.0
-1636028,1794092400,12793,17787,Inter Playa del Carmen,Lobos ULMX,1,2,1.0,0.0
 1636027,1794096000,2293,28340,Jaguares de Chiapas,H2O Purepechas,1,1,1.0,0.0
 1636029,1794099600,2308,24952,Celaya,Tigres de Alica,1,1,0.0,0.0
+1636030,1794160800,17788,19908,Montañeses,Los Cabos United,2,1,1.0,0.0
+1636031,1794276300,26525,24939,Chapulineros,Cordobés,1,1,0.0,0.0
+1635997,1794499200,17790,28340,Tritons Vallarta,H2O Purepechas,0,0,0.0,0.0
+1636033,1794619800,24952,2293,Tigres de Alica,Jaguares de Chiapas,1,1,1.0,1.0
+1636034,1794621600,15937,22046,Reboceros La Piedad,Racing de Veracruz,0,2,0.0,1.0

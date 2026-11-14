@@ -1,0 +1,70 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1557006,1785592800,1391,6764,Alloa Athletic,East Fife,0,0,0,0
+1557009,1785592800,4251,248,Montrose,Hamilton Academical,0,5,0,2
+1557007,1785592800,6763,4668,Cove Rangers,Airdrie United,0,0,0,0
+1557008,1785592800,6765,1384,East Kilbride,Queen of the South,5,1,3,1
+1557010,1785592800,6777,902,Peterhead,Ross County,0,1,0,0
+1557013,1786197600,248,1391,Hamilton Academical,Alloa Athletic,1,0,1,0
+1557015,1786197600,902,4251,Ross County,Montrose,2,1,1,1
+1557014,1786197600,1384,6777,Queen of the South,Peterhead,0,1,0,1
+1557011,1786197600,4668,6765,Airdrie United,East Kilbride,1,1,0,0
+1557012,1786197600,6764,6763,East Fife,Cove Rangers,2,0,0,0
+1557018,1786802400,248,4668,Hamilton Academical,Airdrie United,4,0,1,0
+1557016,1786802400,1391,4251,Alloa Athletic,Montrose,3,0,2,0
+1557017,1786802400,6765,6763,East Kilbride,Cove Rangers,3,0,0,0
+1557019,1786802400,6777,6764,Peterhead,East Fife,2,1,0,0
+1557025,1787407200,1384,1391,Queen of the South,Alloa Athletic,0,2,0,0
+1557024,1787407200,4251,6765,Montrose,East Kilbride,3,0,2,0
+1557021,1787407200,4668,902,Airdrie United,Ross County,1,3,0,2
+1557022,1787407200,6763,6777,Cove Rangers,Peterhead,3,0,0,0
+1557023,1787407200,6764,248,East Fife,Hamilton Academical,0,0,0,0
+1557028,1788012000,248,6763,Hamilton Academical,Cove Rangers,1,0,1,0
+1557027,1788012000,1391,6777,Alloa Athletic,Peterhead,1,1,1,0
+1557029,1788012000,4251,1384,Montrose,Queen of the South,2,1,1,0
+1557026,1788012000,4668,6764,Airdrie United,East Fife,0,0,0,0
+1557030,1788021000,902,6765,Ross County,East Kilbride,4,0,1,0
+1557035,1788616800,1384,4668,Queen of the South,Airdrie United,2,1,0,1
+1557031,1788616800,6763,1391,Cove Rangers,Alloa Athletic,1,1,1,0
+1557032,1788616800,6764,902,East Fife,Ross County,2,2,0,0
+1557033,1788616800,6765,248,East Kilbride,Hamilton Academical,0,1,0,1
+1557034,1788616800,6777,4251,Peterhead,Montrose,0,3,0,2
+1557039,1789221600,1384,6764,Queen of the South,East Fife,1,1,0,0
+1557038,1789221600,4251,6763,Montrose,Cove Rangers,2,1,1,0
+1557036,1789221600,4668,1391,Airdrie United,Alloa Athletic,1,0,1,0
+1557037,1789221600,6765,6777,East Kilbride,Peterhead,3,1,1,0
+1557020,1789497900,902,1384,Ross County,Queen of the South,8,0,2,0
+1557044,1789826400,248,1384,Hamilton Academical,Queen of the South,4,1,3,1
+1557041,1789826400,1391,6765,Alloa Athletic,East Kilbride,1,2,0,1
+1557042,1789826400,6763,902,Cove Rangers,Ross County,0,2,0,1
+1557043,1789826400,6764,4251,East Fife,Montrose,1,2,0,1
+1557045,1789826400,6777,4668,Peterhead,Airdrie United,1,2,0,1
+1557050,1791036000,902,1391,Ross County,Alloa Athletic,4,1,1,0
+1557049,1791036000,1384,6763,Queen of the South,Cove Rangers,4,3,2,0
+1557046,1791036000,4668,4251,Airdrie United,Montrose,1,0,0,0
+1557047,1791036000,6764,6765,East Fife,East Kilbride,0,3,0,1
+1557048,1791045000,248,6777,Hamilton Academical,Peterhead,2,1,0,0
+1557051,1791640800,1391,248,Alloa Athletic,Hamilton Academical,0,3,0,3
+1557054,1791640800,4251,902,Montrose,Ross County,0,5,0,3
+1557052,1791640800,6763,6764,Cove Rangers,East Fife,1,1,1,0
+1557053,1791640800,6765,4668,East Kilbride,Airdrie United,2,2,2,1
+1557055,1791640800,6777,1384,Peterhead,Queen of the South,0,1,0,0
+1557060,1792245600,1384,902,Queen of the South,Ross County,1,7,0,5
+1557057,1792245600,6764,1391,East Fife,Alloa Athletic,0,3,0,1
+1557058,1792245600,6765,4251,East Kilbride,Montrose,1,1,0,0
+1557059,1792245600,6777,6763,Peterhead,Cove Rangers,2,0,0,0
+1557056,1792254600,4668,248,Airdrie United,Hamilton Academical,1,2,0,1
+1557063,1792850400,248,6764,Hamilton Academical,East Fife,2,1,1,0
+1557065,1792850400,902,4668,Ross County,Airdrie United,4,0,3,0
+1557061,1792850400,1391,1384,Alloa Athletic,Queen of the South,0,1,0,1
+1557064,1792850400,4251,6777,Montrose,Peterhead,3,0,2,0
+1557040,1793130300,902,248,Ross County,Hamilton Academical,1,1,1,1
+1557069,1793458800,248,4251,Hamilton Academical,Montrose,1,1,1,0
+1557066,1793458800,4668,6763,Airdrie United,Cove Rangers,0,1,0,0
+1557067,1793458800,6764,1384,East Fife,Queen of the South,2,0,2,0
+1557068,1793458800,6765,902,East Kilbride,Ross County,1,2,0,1
+1557070,1793458800,6777,1391,Peterhead,Alloa Athletic,2,1,1,0
+1557075,1794063600,902,6777,Ross County,Peterhead,4,1,1,0
+1557074,1794063600,1384,6765,Queen of the South,East Kilbride,1,2,1,1
+1557071,1794063600,1391,4668,Alloa Athletic,Airdrie United,2,3,1,2
+1557073,1794063600,4251,6764,Montrose,East Fife,1,2,1,1
+1557072,1794063600,6763,248,Cove Rangers,Hamilton Academical,4,0,1,0

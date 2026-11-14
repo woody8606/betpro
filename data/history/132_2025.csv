@@ -1,0 +1,396 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1334650,1741384800,18915,8392,Mercedes,Defensores de Cambaceres,1,0,0.0,0.0
+1334655,1741390200,8386,8381,Ituzaingó,Deportivo Español,3,0,2.0,0.0
+1334657,1741464000,1947,1958,Canuelas,Lujan,0,1,0.0,0.0
+1334662,1741464000,1955,8390,General Lamadrid,Centro Español,3,1,2.0,1.0
+1334653,1741464000,8396,8393,Lugano,Deportivo Muñiz,1,0,0.0,0.0
+1334652,1741464000,8397,8378,Puerto Nuevo,JJ Urquiza,1,2,0.0,1.0
+1334661,1741464000,23099,486,Estrella Del Sur,Juventud Unida,0,2,0.0,2.0
+1334658,1741550400,1964,8389,Victoriano Arenas,Argentino Rosario,1,2,0.0,1.0
+1334654,1741550400,8382,8391,Berazategui,Claypole,1,1,0.0,0.0
+1334660,1741636800,1931,8398,Sportivo Barracas,Yupanqui,1,0,1.0,0.0
+1334656,1741636800,1937,8394,Atletico Atlas,Deportivo Paraguayo,3,2,2.0,2.0
+1334659,1741636800,1967,3943,Central Ballester,Deportivo Camioneros,1,1,0.0,0.0
+1334670,1742063400,486,1955,Juventud Unida,General Lamadrid,3,1,1.0,0.0
+1334672,1742063400,3943,1931,Deportivo Camioneros,Sportivo Barracas,1,0,0.0,0.0
+1334673,1742063400,8389,1967,Argentino Rosario,Central Ballester,0,0,0.0,0.0
+1334671,1742063400,8398,23099,Yupanqui,Estrella Del Sur,0,0,0.0,0.0
+1334675,1742149800,1937,1947,Atletico Atlas,Canuelas,0,0,0.0,0.0
+1334674,1742149800,1958,1964,Lujan,Victoriano Arenas,3,1,2.0,1.0
+1334666,1742149800,8378,790,JJ Urquiza,Central Cordoba,1,1,0.0,1.0
+1334664,1742149800,8391,8396,Claypole,Lugano,1,2,0.0,1.0
+1334668,1742149800,8392,1940,Defensores de Cambaceres,Leandro N. Alem,0,1,0.0,1.0
+1334663,1742236200,8381,8382,Deportivo Español,Berazategui,1,1,1.0,0.0
+1334665,1742236200,8393,8397,Deportivo Muñiz,Puerto Nuevo,0,1,0.0,0.0
+1334669,1742236200,8394,8390,Deportivo Paraguayo,Centro Español,0,0,0.0,0.0
+1334667,1742322600,8384,18915,El Porvenir,Mercedes,2,1,1.0,0.0
+1334678,1742668200,790,8393,Central Cordoba,Deportivo Muñiz,1,0,0.0,0.0
+1334682,1742668200,1947,8394,Canuelas,Deportivo Paraguayo,2,0,1.0,0.0
+1334683,1742668200,1964,1937,Victoriano Arenas,Atletico Atlas,1,3,1.0,2.0
+1334684,1742668200,1967,1958,Central Ballester,Lujan,0,1,0.0,0.0
+1334688,1742668200,8390,486,Centro Español,Juventud Unida,0,1,0.0,1.0
+1334679,1742668200,8397,8391,Puerto Nuevo,Claypole,0,0,0.0,0.0
+1334685,1742754600,1931,8389,Sportivo Barracas,Argentino Rosario,0,1,0.0,1.0
+1334676,1742754600,1940,8384,Leandro N. Alem,El Porvenir,2,1,1.0,0.0
+1334687,1742754600,1955,8398,General Lamadrid,Yupanqui,0,0,0.0,0.0
+1334680,1742754600,8396,8381,Lugano,Deportivo Español,0,0,0.0,0.0
+1334686,1742770800,23099,3943,Estrella Del Sur,Deportivo Camioneros,0,0,0.0,0.0
+1334681,1743014100,8382,8386,Berazategui,Ituzaingó,0,1,0.0,0.0
+1334677,1743026400,18915,8378,Mercedes,JJ Urquiza,0,1,0.0,0.0
+1334700,1743273000,1937,1967,Atletico Atlas,Central Ballester,1,0,0.0,0.0
+1334694,1743273000,8384,8392,El Porvenir,Defensores de Cambaceres,2,1,1.0,1.0
+1334698,1743273000,8389,23099,Argentino Rosario,Estrella Del Sur,1,2,0.0,0.0
+1334691,1743273000,8391,790,Claypole,Central Cordoba,1,3,1.0,3.0
+1334696,1743273000,8398,8390,Yupanqui,Centro Español,1,3,0.0,3.0
+1334697,1743273300,3943,1955,Deportivo Camioneros,General Lamadrid,2,1,1.0,0.0
+1334689,1743285600,8386,8396,Ituzaingó,Lugano,2,0,1.0,0.0
+1334701,1743359400,1947,1964,Canuelas,Victoriano Arenas,1,1,0.0,0.0
+1334699,1743359400,1958,1931,Lujan,Sportivo Barracas,3,0,1.0,0.0
+1334693,1743359400,8378,1940,JJ Urquiza,Leandro N. Alem,1,0,1.0,0.0
+1334690,1743359400,8381,8397,Deportivo Español,Puerto Nuevo,2,0,0.0,0.0
+1334692,1743445800,8393,18915,Deportivo Muñiz,Mercedes,0,0,0.0,0.0
+1334695,1743445800,8394,486,Deportivo Paraguayo,Juventud Unida,1,0,0.0,0.0
+1334705,1743877800,790,8381,Central Cordoba,Deportivo Español,3,1,1.0,1.0
+1334703,1743877800,1940,8393,Leandro N. Alem,Deportivo Muñiz,2,0,2.0,0.0
+1334708,1743877800,1964,8394,Victoriano Arenas,Deportivo Paraguayo,3,0,1.0,0.0
+1334707,1743877800,8396,8382,Lugano,Berazategui,2,0,2.0,0.0
+1334706,1743877800,8397,8386,Puerto Nuevo,Ituzaingó,1,0,1.0,0.0
+1334704,1743886800,18915,8391,Mercedes,Claypole,0,1,0.0,0.0
+1334714,1743964200,486,8398,Juventud Unida,Yupanqui,1,1,1.0,1.0
+1334709,1743964200,1967,1947,Central Ballester,Canuelas,2,0,1.0,0.0
+1334702,1743964200,8392,8378,Defensores de Cambaceres,JJ Urquiza,1,2,1.0,0.0
+1334711,1743964200,23099,1958,Estrella Del Sur,Lujan,0,0,0.0,0.0
+1334712,1744049100,1955,8389,General Lamadrid,Argentino Rosario,3,1,1.0,0.0
+1334710,1744050600,1931,1937,Sportivo Barracas,Atletico Atlas,2,2,0.0,1.0
+1334713,1744050600,8390,3943,Centro Español,Deportivo Camioneros,0,3,0.0,2.0
+1471028,1744309800,8389,1940,Argentino Rosario,Leandro N. Alem,2,0,,
+1334726,1744482600,1947,1931,Canuelas,Sportivo Barracas,1,3,0.0,0.0
+1334727,1744482600,1964,1967,Victoriano Arenas,Central Ballester,0,0,0.0,0.0
+1334715,1744482600,8382,8397,Berazategui,Puerto Nuevo,3,0,1.0,0.0
+1334721,1744482600,8394,8398,Deportivo Paraguayo,Yupanqui,1,2,0.0,1.0
+1334722,1744552800,3943,486,Deportivo Camioneros,Juventud Unida,0,1,0.0,0.0
+1334725,1744569000,1937,23099,Atletico Atlas,Estrella Del Sur,2,4,0.0,1.0
+1334724,1744569000,1958,1955,Lujan,General Lamadrid,1,1,0.0,1.0
+1334720,1744569000,8378,8384,JJ Urquiza,El Porvenir,2,1,0.0,0.0
+1334717,1744569000,8381,18915,Deportivo Español,Mercedes,1,0,1.0,0.0
+1334718,1744569000,8391,1940,Claypole,Leandro N. Alem,1,1,1.0,0.0
+1334716,1744577100,8386,790,Ituzaingó,Central Cordoba,0,2,0.0,1.0
+1334723,1744655400,8389,8390,Argentino Rosario,Centro Español,1,0,1.0,0.0
+1334719,1744655400,8393,8392,Deportivo Muñiz,Defensores de Cambaceres,2,0,1.0,0.0
+1334739,1745001000,486,8389,Juventud Unida,Argentino Rosario,0,1,0.0,0.0
+1479408,1745001000,1967,8394,Central Ballester,Deportivo Paraguayo,3,1,2.0,0.0
+1334728,1745001000,8384,8393,El Porvenir,Deportivo Muñiz,2,0,0.0,0.0
+1334731,1745001000,18915,8386,Mercedes,Ituzaingó,1,0,1.0,0.0
+1334732,1745087400,790,8382,Central Cordoba,Berazategui,4,1,2.0,0.0
+1334733,1745087400,8397,8396,Puerto Nuevo,Lugano,1,0,0.0,0.0
+1334740,1745087400,8398,3943,Yupanqui,Deportivo Camioneros,0,2,0.0,2.0
+1334730,1745168700,1940,8381,Leandro N. Alem,Deportivo Español,2,0,1.0,0.0
+1334737,1745173800,1955,1937,General Lamadrid,Atletico Atlas,1,1,0.0,0.0
+1334729,1745173800,8392,8391,Defensores de Cambaceres,Claypole,2,1,1.0,1.0
+1334736,1745173800,23099,1947,Estrella Del Sur,Canuelas,1,0,0.0,0.0
+1334735,1745346600,1931,1964,Sportivo Barracas,Victoriano Arenas,2,0,2.0,0.0
+1334734,1745346600,1967,8394,Central Ballester,Deportivo Paraguayo,3,1,2.0,0.0
+1334738,1745346600,8390,1958,Centro Español,Lujan,1,2,1.0,0.0
+1334651,1745445600,790,8384,Central Cordoba,El Porvenir,3,1,0.0,0.0
+1334743,1745618400,8386,1940,Ituzaingó,Leandro N. Alem,2,1,0.0,0.0
+1334752,1745692200,1964,23099,Victoriano Arenas,Estrella Del Sur,0,0,0.0,0.0
+1334745,1745692200,8391,8384,Claypole,El Porvenir,4,2,1.0,2.0
+1334747,1745692200,8394,3943,Deportivo Paraguayo,Deportivo Camioneros,0,3,0.0,1.0
+1334741,1745692200,8396,790,Lugano,Central Cordoba,1,3,0.0,1.0
+1334748,1745692500,8389,8398,Argentino Rosario,Yupanqui,2,2,2.0,0.0
+1334751,1745762400,1947,1955,Canuelas,General Lamadrid,2,1,0.0,1.0
+1334753,1745762400,1967,1931,Central Ballester,Sportivo Barracas,0,0,0.0,0.0
+1334742,1745762400,8382,18915,Berazategui,Mercedes,3,1,1.0,0.0
+1334746,1745762400,8393,8378,Deportivo Muñiz,JJ Urquiza,1,1,1.0,1.0
+1334750,1745769600,1937,8390,Atletico Atlas,Centro Español,1,1,0.0,0.0
+1334749,1745769600,1958,486,Lujan,Juventud Unida,1,1,0.0,0.0
+1334744,1745865000,8381,8392,Deportivo Español,Defensores de Cambaceres,2,0,0.0,0.0
+1334765,1746198000,8398,1958,Yupanqui,Lujan,1,2,1.0,2.0
+1334757,1746209100,1940,8382,Leandro N. Alem,Berazategui,0,1,0.0,0.0
+1334763,1746210600,8390,1947,Centro Español,Canuelas,1,1,0.0,0.0
+1334756,1746210600,8392,8386,Defensores de Cambaceres,Ituzaingó,0,0,0.0,0.0
+1334758,1746210600,18915,8396,Mercedes,Lugano,1,1,1.0,0.0
+1334761,1746280800,23099,1967,Estrella Del Sur,Central Ballester,1,1,1.0,1.0
+1334764,1746297000,486,1937,Juventud Unida,Atletico Atlas,2,1,0.0,1.0
+1334766,1746297000,3943,8389,Deportivo Camioneros,Argentino Rosario,2,0,2.0,0.0
+1334754,1746297000,8378,8391,JJ Urquiza,Claypole,1,2,0.0,1.0
+1334755,1746297000,8384,8381,El Porvenir,Deportivo Español,0,1,0.0,0.0
+1334759,1746383400,790,8397,Central Cordoba,Puerto Nuevo,2,1,1.0,0.0
+1334760,1746469800,1931,8394,Sportivo Barracas,Deportivo Paraguayo,0,0,0.0,0.0
+1334762,1746556200,1955,1964,General Lamadrid,Victoriano Arenas,0,2,0.0,0.0
+1334776,1746901800,1947,486,Canuelas,Juventud Unida,2,0,2.0,0.0
+1334773,1746901800,8394,8389,Deportivo Paraguayo,Argentino Rosario,1,1,0.0,0.0
+1334770,1746918300,8386,8384,Ituzaingó,El Porvenir,2,1,1.0,0.0
+1334775,1746988200,1937,8398,Atletico Atlas,Yupanqui,1,4,0.0,1.0
+1334774,1746988200,1958,3943,Lujan,Deportivo Camioneros,0,1,0.0,1.0
+1334777,1746988200,1964,8390,Victoriano Arenas,Centro Español,3,1,2.0,1.0
+1334778,1746988200,1967,1955,Central Ballester,General Lamadrid,2,0,0.0,0.0
+1334769,1746988200,8382,8392,Berazategui,Defensores de Cambaceres,2,0,1.0,0.0
+1334768,1746988200,8396,1940,Lugano,Leandro N. Alem,0,2,0.0,0.0
+1334767,1746988200,8397,18915,Puerto Nuevo,Mercedes,1,2,1.0,1.0
+1334779,1747074600,1931,23099,Sportivo Barracas,Estrella Del Sur,2,0,1.0,0.0
+1334771,1747161000,8381,8378,Deportivo Español,JJ Urquiza,3,0,2.0,0.0
+1334772,1747161000,8391,8393,Claypole,Deportivo Muñiz,0,0,0.0,0.0
+1479407,1747593000,23099,8394,Estrella Del Sur,Deportivo Paraguayo,2,1,1.0,0.0
+1334789,1747765800,486,1964,Juventud Unida,Victoriano Arenas,0,1,0.0,0.0
+1334791,1747765800,3943,1937,Deportivo Camioneros,Atletico Atlas,4,1,3.0,0.0
+1334781,1747765800,8378,8386,JJ Urquiza,Ituzaingó,0,1,0.0,1.0
+1334782,1747765800,8384,8382,El Porvenir,Berazategui,0,1,0.0,0.0
+1334792,1747765800,8389,1958,Argentino Rosario,Lujan,0,0,0.0,0.0
+1334788,1747765800,8390,1967,Centro Español,Central Ballester,3,1,1.0,1.0
+1334783,1747765800,8392,8396,Defensores de Cambaceres,Lugano,2,0,0.0,0.0
+1334790,1747765800,8398,1947,Yupanqui,Canuelas,1,1,0.0,1.0
+1334787,1747766100,1955,1931,General Lamadrid,Sportivo Barracas,1,1,1.0,1.0
+1334784,1747852200,1940,8397,Leandro N. Alem,Puerto Nuevo,2,3,1.0,2.0
+1334780,1747852200,8393,8381,Deportivo Muñiz,Deportivo Español,0,0,0.0,0.0
+1334786,1747852200,23099,8394,Estrella Del Sur,Deportivo Paraguayo,2,1,1.0,0.0
+1334801,1748111400,1947,3943,Canuelas,Deportivo Camioneros,0,0,0.0,0.0
+1334802,1748111400,1964,8398,Victoriano Arenas,Yupanqui,0,2,0.0,1.0
+1334798,1748111400,8381,8391,Deportivo Español,Claypole,0,0,0.0,0.0
+1334797,1748111400,8386,8393,Ituzaingó,Deportivo Muñiz,0,0,0.0,0.0
+1334799,1748111400,8394,1958,Deportivo Paraguayo,Lujan,1,0,0.0,0.0
+1334794,1748111400,8397,8392,Puerto Nuevo,Defensores de Cambaceres,1,2,0.0,0.0
+1334796,1748189700,8382,8378,Berazategui,JJ Urquiza,1,0,1.0,0.0
+1334793,1748197800,790,1940,Central Cordoba,Leandro N. Alem,0,1,0.0,1.0
+1334800,1748197800,1937,8389,Atletico Atlas,Argentino Rosario,1,0,0.0,0.0
+1334795,1748197800,8396,8384,Lugano,El Porvenir,2,0,0.0,0.0
+1334804,1748284200,1931,8390,Sportivo Barracas,Centro Español,0,0,0.0,0.0
+1334805,1748284200,23099,1955,Estrella Del Sur,General Lamadrid,1,0,0.0,0.0
+1334814,1748716200,486,1931,Juventud Unida,Sportivo Barracas,1,3,1.0,1.0
+1334811,1748716200,1940,18915,Leandro N. Alem,Mercedes,1,2,0.0,1.0
+1334816,1748716200,3943,1964,Deportivo Camioneros,Victoriano Arenas,2,0,0.0,0.0
+1334809,1748716200,8384,8397,El Porvenir,Puerto Nuevo,3,1,2.0,0.0
+1334817,1748716200,8389,1947,Argentino Rosario,Canuelas,1,1,0.0,1.0
+1334810,1748716200,8392,790,Defensores de Cambaceres,Central Cordoba,2,1,1.0,0.0
+1334815,1748716200,8398,1967,Yupanqui,Central Ballester,4,1,1.0,1.0
+1334812,1748786400,1955,8394,General Lamadrid,Deportivo Paraguayo,0,2,0.0,1.0
+1334806,1748793600,8391,8386,Claypole,Ituzaingó,0,1,0.0,1.0
+1334818,1748802600,1958,1937,Lujan,Atletico Atlas,3,1,1.0,0.0
+1334808,1748802600,8378,8396,JJ Urquiza,Lugano,3,1,2.0,1.0
+1334807,1748802600,8393,8382,Deportivo Muñiz,Berazategui,1,0,0.0,0.0
+1334813,1748889000,8390,23099,Centro Español,Estrella Del Sur,1,2,0.0,1.0
+1334785,1749157200,18915,790,Mercedes,Central Cordoba,0,3,0.0,2.0
+1362310,1750431600,8398,1931,Yupanqui,Sportivo Barracas,1,1,1.0,1.0
+1362300,1750444200,8392,18915,Defensores de Cambaceres,Mercedes,2,1,1.0,0.0
+1362305,1750521900,8381,8386,Deportivo Español,Ituzaingó,0,0,0.0,0.0
+1362311,1750530600,486,23099,Juventud Unida,Estrella Del Sur,1,1,0.0,1.0
+1362307,1750530600,1958,1947,Lujan,Canuelas,0,0,0.0,0.0
+1362309,1750530600,3943,1967,Deportivo Camioneros,Central Ballester,0,0,0.0,0.0
+1362301,1750530600,8384,790,El Porvenir,Central Cordoba,0,0,0.0,0.0
+1362308,1750530600,8389,1964,Argentino Rosario,Victoriano Arenas,1,0,1.0,0.0
+1362312,1750530600,8390,1955,Centro Español,General Lamadrid,0,0,0.0,0.0
+1362302,1750617000,8378,8397,JJ Urquiza,Puerto Nuevo,2,0,1.0,0.0
+1362304,1750617000,8391,8382,Claypole,Berazategui,0,0,0.0,0.0
+1362303,1750617000,8393,8396,Deportivo Muñiz,Lugano,1,1,0.0,0.0
+1362306,1750703400,8394,1937,Deportivo Paraguayo,Atletico Atlas,2,1,1.0,0.0
+1362940,1751058000,18915,8384,Mercedes,El Porvenir,0,0,0.0,0.0
+1362941,1751135400,1940,8392,Leandro N. Alem,Defensores de Cambaceres,0,1,0.0,1.0
+1362948,1751135400,1947,1937,Canuelas,Atletico Atlas,2,1,1.0,1.0
+1362947,1751135400,1964,1958,Victoriano Arenas,Lujan,0,3,0.0,0.0
+1362936,1751135400,8382,8381,Berazategui,Deportivo Español,1,0,0.0,0.0
+1362942,1751135400,8390,8394,Centro Español,Deportivo Paraguayo,0,1,0.0,1.0
+1362944,1751135400,23099,8398,Estrella Del Sur,Yupanqui,1,0,0.0,0.0
+1362943,1751221800,1955,486,General Lamadrid,Juventud Unida,2,0,2.0,0.0
+1362937,1751221800,8396,8391,Lugano,Claypole,0,0,0.0,0.0
+1362938,1751221800,8397,8393,Puerto Nuevo,Deportivo Muñiz,0,1,0.0,0.0
+1362945,1751308200,1931,3943,Sportivo Barracas,Deportivo Camioneros,2,2,2.0,2.0
+1362946,1751308200,1967,8389,Central Ballester,Argentino Rosario,0,2,0.0,2.0
+1362939,1751308500,790,8378,Central Cordoba,JJ Urquiza,0,1,0.0,0.0
+1362954,1751666700,8386,8382,Ituzaingó,Berazategui,2,1,0.0,0.0
+1362959,1751740200,3943,23099,Deportivo Camioneros,Estrella Del Sur,0,0,0.0,0.0
+1362950,1751740200,8378,18915,JJ Urquiza,Mercedes,0,1,0.0,1.0
+1362958,1751740200,8389,1931,Argentino Rosario,Sportivo Barracas,1,0,0.0,0.0
+1362955,1751740200,8394,1947,Deportivo Paraguayo,Canuelas,0,0,0.0,0.0
+1362960,1751740200,8398,1955,Yupanqui,General Lamadrid,1,2,0.0,1.0
+1362961,1751826600,486,8390,Juventud Unida,Centro Español,2,2,0.0,1.0
+1362957,1751826600,1958,1967,Lujan,Central Ballester,3,1,1.0,0.0
+1362949,1751826600,8384,1940,El Porvenir,Leandro N. Alem,0,3,0.0,1.0
+1362953,1751913000,8381,8396,Deportivo Español,Lugano,1,2,1.0,1.0
+1362951,1751913000,8393,790,Deportivo Muñiz,Central Cordoba,1,0,0.0,0.0
+1362956,1751999400,1937,1964,Atletico Atlas,Victoriano Arenas,3,2,1.0,1.0
+1362952,1751999400,8391,8397,Claypole,Puerto Nuevo,4,1,2.0,1.0
+1362970,1752258600,1955,3943,General Lamadrid,Deportivo Camioneros,0,1,0.0,0.0
+1362968,1752345000,486,8394,Juventud Unida,Deportivo Paraguayo,2,0,0.0,0.0
+1362969,1752345000,8390,8398,Centro Español,Yupanqui,3,0,0.0,0.0
+1362962,1752345000,8396,8386,Lugano,Ituzaingó,1,2,1.0,1.0
+1362963,1752345000,8397,8381,Puerto Nuevo,Deportivo Español,1,2,0.0,0.0
+1362965,1752345000,18915,8393,Mercedes,Deportivo Muñiz,1,0,0.0,0.0
+1362966,1752422700,1940,8378,Leandro N. Alem,JJ Urquiza,0,1,0.0,0.0
+1362964,1752431400,790,8391,Central Cordoba,Claypole,3,0,3.0,0.0
+1362974,1752431400,1964,1947,Victoriano Arenas,Canuelas,0,0,0.0,0.0
+1362973,1752431400,1967,1937,Central Ballester,Atletico Atlas,0,0,0.0,0.0
+1362967,1752431400,8392,8384,Defensores de Cambaceres,El Porvenir,0,1,0.0,0.0
+1362971,1752516000,23099,8389,Estrella Del Sur,Argentino Rosario,0,0,0.0,0.0
+1362972,1752517800,1931,1958,Sportivo Barracas,Lujan,1,2,0.0,2.0
+1362979,1752877800,8386,8397,Ituzaingó,Puerto Nuevo,3,0,1.0,0.0
+1362987,1752933600,8398,486,Yupanqui,Juventud Unida,0,2,0.0,1.0
+1362982,1752949800,1947,1967,Canuelas,Central Ballester,0,0,0.0,0.0
+1362984,1752949800,1958,23099,Lujan,Estrella Del Sur,0,0,0.0,0.0
+1362986,1752949800,3943,8390,Deportivo Camioneros,Centro Español,1,0,0.0,0.0
+1362985,1752949800,8389,1955,Argentino Rosario,General Lamadrid,2,2,1.0,2.0
+1362976,1752949800,8393,1940,Deportivo Muñiz,Leandro N. Alem,0,1,0.0,1.0
+1362981,1752949800,8394,1964,Deportivo Paraguayo,Victoriano Arenas,0,0,0.0,0.0
+1362980,1753027200,8382,8396,Berazategui,Lugano,3,0,0.0,0.0
+1362975,1753036200,8378,8392,JJ Urquiza,Defensores de Cambaceres,2,1,0.0,1.0
+1362978,1753122600,8381,790,Deportivo Español,Central Cordoba,3,0,2.0,0.0
+1362983,1753209000,1937,1931,Atletico Atlas,Sportivo Barracas,0,2,0.0,1.0
+1362977,1753209000,8391,18915,Claypole,Mercedes,2,0,2.0,0.0
+1362995,1753554600,486,3943,Juventud Unida,Deportivo Camioneros,0,0,0.0,0.0
+1362997,1753554600,1955,1958,General Lamadrid,Lujan,1,1,1.0,0.0
+1362992,1753554600,8392,8393,Defensores de Cambaceres,Deportivo Muñiz,0,2,0.0,0.0
+1362994,1753554600,8398,8394,Yupanqui,Deportivo Paraguayo,1,1,1.0,0.0
+1362989,1753632300,790,8386,Central Cordoba,Ituzaingó,0,0,0.0,0.0
+1362990,1753635600,18915,8381,Mercedes,Deportivo Español,3,0,2.0,0.0
+1362998,1753639200,23099,1937,Estrella Del Sur,Atletico Atlas,1,2,1.0,0.0
+1362991,1753641000,1940,8391,Leandro N. Alem,Claypole,0,1,0.0,1.0
+1363000,1753641000,1967,1964,Central Ballester,Victoriano Arenas,2,2,1.0,1.0
+1362993,1753641000,8384,8378,El Porvenir,JJ Urquiza,0,0,0.0,0.0
+1362988,1753641000,8397,8382,Puerto Nuevo,Berazategui,0,4,0.0,1.0
+1362999,1753727400,1931,1947,Sportivo Barracas,Canuelas,1,0,0.0,0.0
+1362996,1753727400,8390,8389,Centro Español,Argentino Rosario,3,0,0.0,0.0
+1363004,1754085900,8386,18915,Ituzaingó,Mercedes,3,2,2.0,1.0
+1363011,1754159400,1958,8390,Lujan,Centro Español,1,0,0.0,0.0
+1363008,1754159400,1964,1931,Victoriano Arenas,Sportivo Barracas,1,0,0.0,0.0
+1363013,1754159400,3943,8398,Deportivo Camioneros,Yupanqui,2,0,1.0,0.0
+1363003,1754159400,8381,1940,Deportivo Español,Leandro N. Alem,0,0,0.0,0.0
+1363012,1754159400,8389,486,Argentino Rosario,Juventud Unida,1,1,1.0,0.0
+1363007,1754159400,8394,1967,Deportivo Paraguayo,Central Ballester,1,1,1.0,1.0
+1363010,1754245800,1937,1955,Atletico Atlas,General Lamadrid,1,3,1.0,1.0
+1363009,1754245800,1947,23099,Canuelas,Estrella Del Sur,1,3,0.0,2.0
+1363006,1754245800,8396,8397,Lugano,Puerto Nuevo,1,0,0.0,0.0
+1363005,1754332200,8382,790,Berazategui,Central Cordoba,1,1,0.0,0.0
+1363002,1754418600,8391,8392,Claypole,Defensores de Cambaceres,1,1,1.0,1.0
+1363001,1754418600,8393,8384,Deportivo Muñiz,El Porvenir,2,2,0.0,2.0
+1363015,1754686800,18915,8382,Mercedes,Berazategui,1,3,0.0,2.0
+1363014,1754756100,790,8396,Central Cordoba,Lugano,1,1,1.0,1.0
+1363022,1754764200,486,1958,Juventud Unida,Lujan,0,0,0.0,0.0
+1363020,1754764200,3943,8394,Deportivo Camioneros,Deportivo Paraguayo,1,0,1.0,0.0
+1363023,1754764200,8390,1937,Centro Español,Atletico Atlas,5,0,2.0,0.0
+1363017,1754764200,8392,8381,Defensores de Cambaceres,Deportivo Español,1,1,1.0,0.0
+1363021,1754764200,8398,8389,Yupanqui,Argentino Rosario,0,4,0.0,2.0
+1363025,1754848800,23099,1964,Estrella Del Sur,Victoriano Arenas,2,1,1.0,1.0
+1363016,1754850600,1940,8386,Leandro N. Alem,Ituzaingó,1,1,0.0,1.0
+1363019,1754850600,8378,8393,JJ Urquiza,Deportivo Muñiz,0,0,0.0,0.0
+1363018,1754850600,8384,8391,El Porvenir,Claypole,0,0,0.0,0.0
+1363026,1754937000,1931,1967,Sportivo Barracas,Central Ballester,4,2,2.0,0.0
+1363024,1754937000,1955,1947,General Lamadrid,Canuelas,2,1,0.0,0.0
+1363033,1755282600,8394,1931,Deportivo Paraguayo,Sportivo Barracas,0,1,0.0,1.0
+1363029,1755299100,8386,8392,Ituzaingó,Defensores de Cambaceres,1,0,1.0,0.0
+1363037,1755369000,1937,486,Atletico Atlas,Juventud Unida,1,0,0.0,0.0
+1363036,1755369000,1947,8390,Canuelas,Centro Español,0,1,0.0,1.0
+1363038,1755369000,1958,8398,Lujan,Yupanqui,1,0,1.0,0.0
+1363030,1755369000,8382,1940,Berazategui,Leandro N. Alem,5,1,3.0,1.0
+1363032,1755369000,8397,790,Puerto Nuevo,Central Cordoba,1,2,0.0,1.0
+1363035,1755455400,1964,1955,Victoriano Arenas,General Lamadrid,0,4,0.0,2.0
+1363039,1755455400,8389,3943,Argentino Rosario,Deportivo Camioneros,2,0,0.0,0.0
+1363031,1755455400,8396,18915,Lugano,Mercedes,0,1,0.0,1.0
+1363034,1755541800,1967,23099,Central Ballester,Estrella Del Sur,0,2,0.0,0.0
+1363028,1755541800,8381,8384,Deportivo Español,El Porvenir,0,2,0.0,2.0
+1363027,1755541800,8391,8378,Claypole,JJ Urquiza,0,0,0.0,0.0
+1363046,1755887400,8389,8394,Argentino Rosario,Deportivo Paraguayo,3,0,1.0,0.0
+1363047,1755961200,3943,1958,Deportivo Camioneros,Lujan,1,0,0.0,0.0
+1363049,1755973800,486,1947,Juventud Unida,Canuelas,0,1,0.0,1.0
+1363051,1755973800,1955,1967,General Lamadrid,Central Ballester,3,0,1.0,0.0
+1363050,1755973800,8390,1964,Centro Español,Victoriano Arenas,4,2,4.0,1.0
+1363052,1756058400,23099,1931,Estrella Del Sur,Sportivo Barracas,1,3,1.0,1.0
+1363041,1756060200,1940,8396,Leandro N. Alem,Lugano,0,0,0.0,0.0
+1363044,1756060200,8378,8381,JJ Urquiza,Deportivo Español,2,0,0.0,0.0
+1363043,1756060200,8384,8386,El Porvenir,Ituzaingó,1,1,0.0,0.0
+1363042,1756060200,8392,8382,Defensores de Cambaceres,Berazategui,0,1,0.0,1.0
+1363048,1756060200,8398,1937,Yupanqui,Atletico Atlas,1,2,1.0,1.0
+1363040,1756060200,18915,8397,Mercedes,Puerto Nuevo,1,1,0.0,0.0
+1363045,1756233000,8393,8391,Deportivo Muñiz,Claypole,1,0,1.0,0.0
+1363055,1756492200,8382,8384,Berazategui,El Porvenir,0,0,0.0,0.0
+1363054,1756508700,8386,8378,Ituzaingó,JJ Urquiza,1,0,1.0,0.0
+1363058,1756578600,790,18915,Central Cordoba,Mercedes,2,0,0.0,0.0
+1363063,1756578600,1947,8398,Canuelas,Yupanqui,0,0,0.0,0.0
+1363056,1756578600,8396,8392,Lugano,Defensores de Cambaceres,2,2,1.0,1.0
+1363057,1756578600,8397,1940,Puerto Nuevo,Leandro N. Alem,1,0,0.0,0.0
+1363060,1756837800,1931,1955,Sportivo Barracas,General Lamadrid,2,2,1.0,1.0
+1363064,1756837800,1937,3943,Atletico Atlas,Deportivo Camioneros,0,2,0.0,0.0
+1363065,1756837800,1958,8389,Lujan,Argentino Rosario,1,0,0.0,0.0
+1363062,1756837800,1964,486,Victoriano Arenas,Juventud Unida,1,1,1.0,1.0
+1363061,1756837800,1967,8390,Central Ballester,Centro Español,0,0,0.0,0.0
+1363053,1756837800,8381,8393,Deportivo Español,Deportivo Muñiz,1,0,0.0,0.0
+1363059,1756837800,8394,23099,Deportivo Paraguayo,Estrella Del Sur,1,2,1.0,1.0
+1363069,1757097000,8378,8382,JJ Urquiza,Berazategui,0,1,0.0,0.0
+1363068,1757097000,8384,8396,El Porvenir,Lugano,2,1,1.0,1.0
+1363067,1757097000,8392,8397,Defensores de Cambaceres,Puerto Nuevo,2,1,0.0,0.0
+1363078,1757269800,1955,23099,General Lamadrid,Estrella Del Sur,3,2,1.0,1.0
+1363073,1757269800,8389,1937,Argentino Rosario,Atletico Atlas,1,0,0.0,0.0
+1363066,1757356200,1940,790,Leandro N. Alem,Central Cordoba,1,1,1.0,0.0
+1363077,1757356200,8390,1931,Centro Español,Sportivo Barracas,1,1,1.0,1.0
+1363076,1757442600,486,1967,Juventud Unida,Central Ballester,0,0,0.0,0.0
+1363072,1757442600,1958,8394,Lujan,Deportivo Paraguayo,2,0,1.0,0.0
+1363074,1757442600,3943,1947,Deportivo Camioneros,Canuelas,4,1,2.0,0.0
+1363071,1757442600,8391,8381,Claypole,Deportivo Español,0,0,0.0,0.0
+1363075,1757442600,8398,1964,Yupanqui,Victoriano Arenas,2,0,1.0,0.0
+1363070,1757529000,8393,8386,Deportivo Muñiz,Ituzaingó,0,2,0.0,0.0
+1363087,1757959200,1931,486,Sportivo Barracas,Juventud Unida,0,1,0.0,0.0
+1363091,1757959200,1937,1958,Atletico Atlas,Lujan,1,1,1.0,0.0
+1363090,1757959200,1947,8389,Canuelas,Argentino Rosario,4,0,0.0,0.0
+1363089,1757959200,1964,3943,Victoriano Arenas,Deportivo Camioneros,1,1,1.0,0.0
+1363088,1757959200,1967,8398,Central Ballester,Yupanqui,0,1,0.0,1.0
+1363085,1757959200,8394,1955,Deportivo Paraguayo,General Lamadrid,2,0,0.0,0.0
+1363086,1757959200,23099,8390,Estrella Del Sur,Centro Español,1,1,0.0,1.0
+1363083,1758045600,790,8392,Central Cordoba,Defensores de Cambaceres,2,1,1.0,0.0
+1363080,1758045600,8382,8393,Berazategui,Deportivo Muñiz,4,0,1.0,0.0
+1363079,1758045600,8386,8391,Ituzaingó,Claypole,1,1,0.0,0.0
+1363081,1758045600,8396,8378,Lugano,JJ Urquiza,2,2,0.0,2.0
+1363082,1758045600,8397,8384,Puerto Nuevo,El Porvenir,1,2,0.0,1.0
+1363084,1758045600,18915,1940,Mercedes,Leandro N. Alem,0,1,0.0,0.0
+1471020,1758409800,8386,3943,Ituzaingó,Deportivo Camioneros,2,1,1.0,1.0
+1471021,1758477600,8397,1967,Puerto Nuevo,Central Ballester,0,2,0.0,1.0
+1476660,1758911400,8394,18915,Deportivo Paraguayo,Mercedes,0,0,0.0,0.0
+1471031,1758988800,8384,1958,El Porvenir,Lujan,1,1,0.0,1.0
+1471022,1758996300,3943,8386,Deportivo Camioneros,Ituzaingó,3,1,2.0,1.0
+1476661,1758997800,8396,1947,Lugano,Canuelas,0,2,0.0,0.0
+1471033,1759084200,486,790,Juventud Unida,Central Cordoba,1,2,1.0,1.0
+1471030,1759084200,1955,8382,General Lamadrid,Berazategui,2,0,1.0,0.0
+1476662,1759084200,8392,1937,Defensores de Cambaceres,Atletico Atlas,1,1,1.0,0.0
+1476663,1759084200,8398,8393,Yupanqui,Deportivo Muñiz,2,1,2.0,0.0
+1471034,1759170600,1931,8378,Sportivo Barracas,JJ Urquiza,3,0,3.0,0.0
+1471029,1759170600,1940,8389,Leandro N. Alem,Argentino Rosario,3,0,2.0,0.0
+1479405,1759170600,1964,8390,Victoriano Arenas,Centro Español,0,1,0.0,1.0
+1479406,1759170600,1967,8391,Central Ballester,Claypole,1,3,1.0,3.0
+1471032,1759257000,8381,23099,Deportivo Español,Estrella Del Sur,1,0,0.0,0.0
+1471026,1759516200,1958,8384,Lujan,El Porvenir,1,0,0.0,0.0
+1479409,1759527000,18915,8394,Mercedes,Deportivo Paraguayo,2,0,1.0,0.0
+1471025,1759602600,790,486,Central Cordoba,Juventud Unida,1,0,0.0,0.0
+1479412,1759602600,1947,8396,Canuelas,Lugano,3,1,2.0,1.0
+1479410,1759602600,8389,1940,Argentino Rosario,Leandro N. Alem,2,0,2.0,0.0
+1479411,1759602600,8393,8398,Deportivo Muñiz,Yupanqui,1,4,1.0,3.0
+1479413,1759687200,8382,1955,Berazategui,General Lamadrid,2,0,0.0,0.0
+1479414,1759689000,8378,1931,JJ Urquiza,Sportivo Barracas,0,2,0.0,0.0
+1479415,1759689000,8391,1967,Claypole,Central Ballester,3,1,1.0,0.0
+1479416,1759703400,23099,8381,Estrella Del Sur,Deportivo Español,1,1,1.0,1.0
+1479417,1759775400,1937,8392,Atletico Atlas,Defensores de Cambaceres,2,0,1.0,0.0
+1479418,1759775400,8390,1964,Centro Español,Victoriano Arenas,3,1,0.0,1.0
+1480653,1760207400,1947,8391,Canuelas,Claypole,1,2,0.0,1.0
+1480657,1760207400,8398,8390,Yupanqui,Centro Español,0,1,0.0,0.0
+1481763,1760277600,23098,8397,Deportivo Metalurgico,Puerto Nuevo,2,1,0.0,0.0
+1480656,1760293800,1940,8382,Leandro N. Alem,Berazategui,1,0,1.0,0.0
+1480658,1760380200,1931,1958,Sportivo Barracas,Lujan,0,0,0.0,0.0
+1480654,1760380200,1937,18915,Atletico Atlas,Mercedes,1,2,1.0,0.0
+1480655,1760380500,8381,790,Deportivo Español,Central Cordoba,1,2,1.0,0.0
+1481764,1760803500,790,8381,Central Cordoba,Deportivo Español,0,3,0.0,1.0
+1481769,1760812200,1958,1931,Lujan,Sportivo Barracas,1,1,1.0,0.0
+1481767,1760812200,8382,1940,Berazategui,Leandro N. Alem,1,2,1.0,0.0
+1481765,1760812200,8390,8398,Centro Español,Yupanqui,4,2,2.0,1.0
+1481766,1760882400,8397,23098,Puerto Nuevo,Deportivo Metalurgico,3,0,2.0,0.0
+1481768,1760898600,8391,1947,Claypole,Canuelas,1,1,0.0,0.0
+1481770,1760907600,18915,1937,Mercedes,Atletico Atlas,1,1,1.0,0.0
+1482513,1761244200,1940,1931,Leandro N. Alem,Sportivo Barracas,0,1,0.0,1.0
+1482512,1761244200,8381,8386,Deportivo Español,Ituzaingó,0,1,0.0,0.0
+1482934,1761762600,1931,1940,Sportivo Barracas,Leandro N. Alem,1,0,0.0,0.0
+1482933,1761779100,8386,8381,Ituzaingó,Deportivo Español,2,2,0.0,0.0
+1485197,1762194600,1931,8386,Sportivo Barracas,Ituzaingó,0,1,0.0,0.0
+1485198,1762281000,8381,1940,Deportivo Español,Leandro N. Alem,2,1,1.0,0.0
+1485196,1762639200,8386,1931,Ituzaingó,Sportivo Barracas,0,1,0.0,0.0
+1485199,1762711200,1940,8381,Leandro N. Alem,Deportivo Español,1,1,0.0,1.0
+1486193,1763157600,18915,8381,Mercedes,Deportivo Español,0,0,0.0,0.0
+1486190,1763236800,8390,8391,Centro Español,Claypole,1,1,1.0,1.0
+1486192,1763841600,8381,18915,Deportivo Español,Mercedes,2,1,2.0,1.0
+1486191,1763928000,8391,8390,Claypole,Centro Español,3,1,0.0,1.0
+1488499,1764532800,8391,8381,Claypole,Deportivo Español,0,0,0.0,0.0
+1488498,1765051200,8381,8391,Deportivo Español,Claypole,0,0,0.0,0.0

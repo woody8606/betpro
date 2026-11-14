@@ -1,0 +1,307 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1405019,1753469100,6771,15602,Hearts U21,Tranent Juniors,1,5,1,2
+1405020,1753469100,16845,6731,Celtic II,Broxburn Athletic,3,2,2,1
+1405025,1753538400,6744,7443,Linlithgow Rose,Gala Fairydean Rovers,1,2,0,1
+1405023,1753538400,6756,7436,Albion Rovers,Cumbernauld Colts,3,3,1,1
+1405027,1753538400,6759,4667,Berwick Rangers,Cowdenbeath,2,0,1,0
+1405021,1753538400,7431,7444,Bonnyrigg Rose Athletic,Gretna 2008,1,2,0,1
+1405024,1753538400,7433,7450,Caledonian Braves,Stirling University,3,0,1,0
+1405026,1753538400,15597,7434,Bo'ness United,Civil Service Strollers,3,0,0,0
+1405022,1753538400,17025,7439,Clydebank,East Stirlingshire,2,0,1,0
+1405030,1753814700,4667,15597,Cowdenbeath,Bo'ness United,1,0,1,0
+1405029,1753814700,6731,7433,Broxburn Athletic,Caledonian Braves,0,2,0,0
+1405031,1753814700,7434,16845,Civil Service Strollers,Celtic II,3,3,0,0
+1405033,1753814700,7436,17025,Cumbernauld Colts,Clydebank,1,2,1,1
+1405028,1753814700,7439,6756,East Stirlingshire,Albion Rovers,1,2,1,0
+1405032,1753814700,15602,6759,Tranent Juniors,Berwick Rangers,0,0,0,0
+1405036,1753901100,7443,7431,Gala Fairydean Rovers,Bonnyrigg Rose Athletic,0,3,0,2
+1405035,1753901100,7444,6771,Gretna 2008,Hearts U21,4,4,1,2
+1405034,1753901100,7450,6744,Stirling University,Linlithgow Rose,1,4,1,3
+1405037,1754073900,7436,16845,Cumbernauld Colts,Celtic II,3,3,0,2
+1405038,1754073900,7439,15597,East Stirlingshire,Bo'ness United,1,3,0,1
+1405045,1754143200,4667,7431,Cowdenbeath,Bonnyrigg Rose Athletic,2,1,0,1
+1405041,1754143200,6731,6759,Broxburn Athletic,Berwick Rangers,5,0,2,0
+1405039,1754143200,7434,17025,Civil Service Strollers,Clydebank,0,5,0,1
+1405042,1754143200,7443,7433,Gala Fairydean Rovers,Caledonian Braves,2,0,1,0
+1405044,1754143200,7444,6744,Gretna 2008,Linlithgow Rose,0,6,0,2
+1405040,1754143200,7450,6771,Stirling University,Hearts U21,1,2,0,0
+1405043,1754143200,15602,6756,Tranent Juniors,Albion Rovers,4,0,2,0
+1405046,1754678700,6771,7436,Hearts U21,Cumbernauld Colts,1,2,0,2
+1405048,1754748000,6744,6731,Linlithgow Rose,Broxburn Athletic,5,0,3,0
+1405050,1754748000,6756,7443,Albion Rovers,Gala Fairydean Rovers,2,1,0,1
+1405051,1754748000,6759,7439,Berwick Rangers,East Stirlingshire,2,2,1,2
+1405049,1754748000,7431,7450,Bonnyrigg Rose Athletic,Stirling University,1,1,0,1
+1405053,1754748000,7433,7434,Caledonian Braves,Civil Service Strollers,1,4,0,3
+1405052,1754748000,16845,15602,Celtic II,Tranent Juniors,3,2,1,1
+1405047,1754748000,17025,4667,Clydebank,Cowdenbeath,1,1,0,0
+1405054,1754750400,15597,7444,Bo'ness United,Gretna 2008,4,3,0,2
+1405057,1755352800,4667,6731,Cowdenbeath,Broxburn Athletic,1,2,1,0
+1405055,1755352800,6744,16845,Linlithgow Rose,Celtic II,3,0,3,0
+1405056,1755352800,7439,7436,East Stirlingshire,Cumbernauld Colts,0,4,0,3
+1405058,1755352800,7450,7444,Stirling University,Gretna 2008,3,2,0,1
+1405059,1755629100,6744,4667,Linlithgow Rose,Cowdenbeath,5,1,2,0
+1405065,1755629100,6756,6731,Albion Rovers,Broxburn Athletic,2,3,0,2
+1405066,1755629100,6759,7434,Berwick Rangers,Civil Service Strollers,1,1,0,1
+1405067,1755629100,6771,7443,Hearts U21,Gala Fairydean Rovers,0,2,0,1
+1405060,1755629100,7431,7436,Bonnyrigg Rose Athletic,Cumbernauld Colts,1,0,0,0
+1405064,1755629100,7433,7439,Caledonian Braves,East Stirlingshire,2,0,1,0
+1405061,1755629100,15597,15602,Bo'ness United,Tranent Juniors,1,0,0,0
+1405063,1755629100,16845,7444,Celtic II,Gretna 2008,5,3,2,0
+1405062,1755629100,17025,7450,Clydebank,Stirling University,2,1,0,0
+1405068,1755888300,7439,7431,East Stirlingshire,Bonnyrigg Rose Athletic,1,5,0,1
+1405072,1755957600,4667,7433,Cowdenbeath,Caledonian Braves,2,1,1,0
+1405071,1755957600,6731,6771,Broxburn Athletic,Hearts U21,3,3,1,2
+1405074,1755957600,7434,6744,Civil Service Strollers,Linlithgow Rose,0,2,0,1
+1405070,1755957600,7436,6759,Cumbernauld Colts,Berwick Rangers,3,2,3,0
+1405075,1755957600,7443,16845,Gala Fairydean Rovers,Celtic II,1,1,1,0
+1405069,1755957600,7444,6756,Gretna 2008,Albion Rovers,1,2,1,1
+1405073,1755957600,15602,17025,Tranent Juniors,Clydebank,0,5,0,3
+1405076,1756044000,7450,15597,Stirling University,Bo'ness United,1,1,0,1
+1405077,1756493100,6771,7433,Hearts U21,Caledonian Braves,1,1,1,1
+1405085,1756562400,4667,15602,Cowdenbeath,Tranent Juniors,1,1,0,1
+1405081,1756562400,6731,7450,Broxburn Athletic,Stirling University,5,1,4,0
+1405078,1756562400,6744,7436,Linlithgow Rose,Cumbernauld Colts,2,1,2,1
+1405084,1756562400,7431,16845,Bonnyrigg Rose Athletic,Celtic II,5,1,3,0
+1405080,1756562400,7443,7439,Gala Fairydean Rovers,East Stirlingshire,3,6,1,4
+1405079,1756562400,7444,7434,Gretna 2008,Civil Service Strollers,1,2,0,1
+1405083,1756562400,15597,6756,Bo'ness United,Albion Rovers,5,2,3,0
+1405082,1756562400,17025,6759,Clydebank,Berwick Rangers,3,3,1,2
+1405086,1756838700,6759,6771,Berwick Rangers,Hearts U21,2,0,0,0
+1405092,1756838700,7431,6756,Bonnyrigg Rose Athletic,Albion Rovers,1,1,1,1
+1405088,1756838700,7433,7444,Caledonian Braves,Gretna 2008,3,0,1,0
+1405087,1756838700,7436,4667,Cumbernauld Colts,Cowdenbeath,0,2,0,0
+1405090,1756838700,15602,7439,Tranent Juniors,East Stirlingshire,1,0,0,0
+1405089,1756838700,17025,15597,Clydebank,Bo'ness United,2,0,1,0
+1405093,1756925100,7443,6731,Gala Fairydean Rovers,Broxburn Athletic,2,1,1,1
+1405102,1757167200,6731,7439,Broxburn Athletic,East Stirlingshire,4,2,0,1
+1405098,1757167200,6744,15597,Linlithgow Rose,Bo'ness United,3,1,1,0
+1405097,1757167200,6756,4667,Albion Rovers,Cowdenbeath,1,0,0,0
+1405096,1757167200,6759,7443,Berwick Rangers,Gala Fairydean Rovers,2,3,1,2
+1405099,1757167200,7433,7436,Caledonian Braves,Cumbernauld Colts,4,1,4,0
+1405091,1757167200,7434,7450,Civil Service Strollers,Stirling University,2,5,0,2
+1405094,1757167200,7444,17025,Gretna 2008,Clydebank,0,2,0,1
+1405101,1757167200,15602,7431,Tranent Juniors,Bonnyrigg Rose Athletic,1,0,0,0
+1405095,1757529900,16845,7450,Celtic II,Stirling University,2,2,1,1
+1405100,1758048300,7434,6771,Civil Service Strollers,Hearts U21,2,2,0,2
+1405104,1758307500,7439,6744,East Stirlingshire,Linlithgow Rose,0,1,0,0
+1405103,1758307500,16845,7433,Celtic II,Caledonian Braves,1,1,0,0
+1405111,1758376800,7431,6759,Bonnyrigg Rose Athletic,Berwick Rangers,3,4,2,1
+1405109,1758376800,7436,7434,Cumbernauld Colts,Civil Service Strollers,4,0,2,0
+1405107,1758376800,7443,15602,Gala Fairydean Rovers,Tranent Juniors,1,3,1,2
+1405108,1758376800,7450,6756,Stirling University,Albion Rovers,4,1,1,0
+1405106,1758376800,15597,6731,Bo'ness United,Broxburn Athletic,1,2,1,1
+1405105,1758376800,17025,6771,Clydebank,Hearts U21,2,2,0,2
+1405110,1758377700,4667,7444,Cowdenbeath,Gretna 2008,4,2,0,1
+1405112,1758981600,16845,6771,Celtic II,Hearts U21,0,1,0,0
+1405116,1759257900,6756,6744,Albion Rovers,Linlithgow Rose,2,6,1,4
+1405113,1759257900,7434,15602,Civil Service Strollers,Tranent Juniors,1,0,0,0
+1405117,1759257900,15597,7431,Bo'ness United,Bonnyrigg Rose Athletic,1,1,1,1
+1405118,1759517100,6771,7431,Hearts U21,Bonnyrigg Rose Athletic,1,2,0,1
+1405120,1759586400,4667,7439,Cowdenbeath,East Stirlingshire,1,4,1,1
+1405122,1759586400,6731,7444,Broxburn Athletic,Gretna 2008,4,2,1,1
+1405125,1759586400,6744,7450,Linlithgow Rose,Stirling University,4,5,1,2
+1405124,1759586400,6759,16845,Berwick Rangers,Celtic II,1,3,0,1
+1405126,1759586400,7433,15597,Caledonian Braves,Bo'ness United,1,5,1,1
+1405119,1759586400,7443,7434,Gala Fairydean Rovers,Civil Service Strollers,0,2,0,2
+1405123,1759586400,15602,7436,Tranent Juniors,Cumbernauld Colts,2,0,1,0
+1405121,1759586400,17025,6756,Clydebank,Albion Rovers,4,2,2,1
+1405115,1760191200,7443,17025,Gala Fairydean Rovers,Clydebank,0,3,0,1
+1405131,1760467500,4667,7436,Cowdenbeath,Cumbernauld Colts,1,1,1,0
+1405130,1760467500,6731,7443,Broxburn Athletic,Gala Fairydean Rovers,1,0,0,0
+1405127,1760467500,6756,7431,Albion Rovers,Bonnyrigg Rose Athletic,0,3,0,1
+1405128,1760467500,6771,6759,Hearts U21,Berwick Rangers,1,3,1,1
+1405132,1760467500,15597,17025,Bo'ness United,Clydebank,2,5,0,4
+1405134,1760553900,7439,15602,East Stirlingshire,Tranent Juniors,2,4,2,3
+1405133,1760553900,7444,7433,Gretna 2008,Caledonian Braves,1,1,1,1
+1405135,1760553900,7450,7434,Stirling University,Civil Service Strollers,2,3,1,1
+1405136,1760726700,6771,6744,Hearts U21,Linlithgow Rose,3,0,2,0
+1405144,1760796000,6756,6759,Albion Rovers,Berwick Rangers,4,1,3,1
+1405139,1760796000,7431,17025,Bonnyrigg Rose Athletic,Clydebank,3,2,0,1
+1405138,1760796000,7433,4667,Caledonian Braves,Cowdenbeath,3,0,1,0
+1405143,1760796000,7434,6731,Civil Service Strollers,Broxburn Athletic,1,3,1,3
+1405141,1760796000,7436,7443,Cumbernauld Colts,Gala Fairydean Rovers,3,2,1,1
+1405137,1760796000,7444,15602,Gretna 2008,Tranent Juniors,0,2,0,1
+1405140,1760796000,7450,7439,Stirling University,East Stirlingshire,5,3,1,2
+1405142,1760796000,16845,15597,Celtic II,Bo'ness United,1,3,0,2
+1405145,1761331500,6771,16845,Hearts U21,Celtic II,0,1,0,0
+1405160,1761400800,6731,4667,Broxburn Athletic,Cowdenbeath,3,0,0,0
+1405154,1762009200,4667,7443,Cowdenbeath,Gala Fairydean Rovers,2,2,0,0
+1405149,1762009200,6759,6744,Berwick Rangers,Linlithgow Rose,3,1,1,1
+1405147,1762009200,7431,7434,Bonnyrigg Rose Athletic,Civil Service Strollers,2,0,1,0
+1405146,1762009200,7436,6731,Cumbernauld Colts,Broxburn Athletic,1,0,1,0
+1405150,1762009200,7439,7444,East Stirlingshire,Gretna 2008,2,3,1,1
+1405148,1762009200,15597,6771,Bo'ness United,Hearts U21,3,1,1,0
+1405152,1762009200,15602,7450,Tranent Juniors,Stirling University,5,2,2,1
+1405151,1762009200,17025,16845,Clydebank,Celtic II,4,0,1,0
+1405158,1762285500,6744,6756,Linlithgow Rose,Albion Rovers,2,1,1,1
+1405156,1762285500,6759,7433,Berwick Rangers,Caledonian Braves,1,4,0,2
+1405157,1762285500,7436,7439,Cumbernauld Colts,East Stirlingshire,3,2,1,1
+1405162,1762285500,7444,7450,Gretna 2008,Stirling University,2,2,1,1
+1405159,1762285500,15602,7434,Tranent Juniors,Civil Service Strollers,4,0,1,0
+1405164,1762544700,6771,7439,Hearts U21,East Stirlingshire,3,3,0,2
+1405167,1762614000,6731,17025,Broxburn Athletic,Clydebank,2,1,0,0
+1405171,1762614000,6744,15602,Linlithgow Rose,Tranent Juniors,1,1,1,0
+1405168,1762614000,7433,7431,Caledonian Braves,Bonnyrigg Rose Athletic,1,3,0,2
+1405166,1762614000,7434,4667,Civil Service Strollers,Cowdenbeath,1,4,1,2
+1405165,1762614000,7444,7436,Gretna 2008,Cumbernauld Colts,2,1,1,0
+1405169,1762614000,7450,6759,Stirling University,Berwick Rangers,5,2,1,1
+1405170,1762614000,15597,7443,Bo'ness United,Gala Fairydean Rovers,4,0,3,0
+1405163,1762614000,16845,6756,Celtic II,Albion Rovers,2,0,0,0
+1405155,1763218800,7431,15597,Bonnyrigg Rose Athletic,Bo'ness United,4,0,2,0
+1405161,1763218800,17025,7443,Clydebank,Gala Fairydean Rovers,2,1,2,1
+1405172,1763754300,7436,15597,Cumbernauld Colts,Bo'ness United,3,1,2,1
+1405177,1763823600,4667,16845,Cowdenbeath,Celtic II,2,1,1,1
+1405173,1763823600,6759,7444,Berwick Rangers,Gretna 2008,3,2,1,0
+1405176,1763823600,7431,6731,Bonnyrigg Rose Athletic,Broxburn Athletic,2,0,0,0
+1405180,1763823600,7439,7434,East Stirlingshire,Civil Service Strollers,0,2,0,1
+1405175,1763823600,7443,7450,Gala Fairydean Rovers,Stirling University,2,0,2,0
+1405178,1763823600,15602,7433,Tranent Juniors,Caledonian Braves,2,1,1,0
+1405174,1763823600,17025,6744,Clydebank,Linlithgow Rose,1,1,0,0
+1405198,1764421200,7443,6771,Gala Fairydean Rovers,Hearts U21,3,1,3,0
+1405114,1764428400,7433,6759,Caledonian Braves,Berwick Rangers,3,0,1,0
+1405181,1764963900,6771,4667,Hearts U21,Cowdenbeath,1,1,1,0
+1405186,1765033200,6744,7431,Linlithgow Rose,Bonnyrigg Rose Athletic,1,2,1,1
+1405189,1765033200,7433,17025,Caledonian Braves,Clydebank,4,1,1,0
+1405182,1765033200,7444,7443,Gretna 2008,Gala Fairydean Rovers,1,4,0,1
+1405184,1765033200,7450,7436,Stirling University,Cumbernauld Colts,0,1,0,1
+1405185,1765033200,15597,6759,Bo'ness United,Berwick Rangers,1,3,0,1
+1405183,1765033200,16845,7439,Celtic II,East Stirlingshire,4,2,2,0
+1405194,1765309500,6731,6756,Broxburn Athletic,Albion Rovers,3,0,0,0
+1405195,1765395900,7439,7433,East Stirlingshire,Caledonian Braves,0,3,0,3
+1405196,1765395900,7450,17025,Stirling University,Clydebank,2,3,1,1
+1405205,1765634400,15602,7444,Tranent Juniors,Gretna 2008,1,1,0,0
+1405202,1765638000,6756,15597,Albion Rovers,Bo'ness United,1,1,0,1
+1405203,1765638000,6759,6731,Berwick Rangers,Broxburn Athletic,0,5,0,2
+1405199,1765638000,7431,4667,Bonnyrigg Rose Athletic,Cowdenbeath,3,2,1,0
+1405207,1765638000,7433,6771,Caledonian Braves,Hearts U21,5,1,4,1
+1405200,1765638000,7436,6744,Cumbernauld Colts,Linlithgow Rose,0,2,0,2
+1405204,1765638000,7439,7450,East Stirlingshire,Stirling University,2,3,1,3
+1405201,1765638000,16845,7443,Celtic II,Gala Fairydean Rovers,1,2,0,2
+1405206,1765638000,17025,7434,Clydebank,Civil Service Strollers,1,0,0,0
+1405197,1765914300,7444,16845,Gretna 2008,Celtic II,4,5,1,2
+1405179,1766235600,6756,6771,Albion Rovers,Hearts U21,2,0,1,0
+1405215,1766519100,6771,7434,Hearts U21,Civil Service Strollers,1,2,1,2
+1405216,1766519100,7431,15602,Bonnyrigg Rose Athletic,Tranent Juniors,1,0,1,0
+1405210,1766519100,7436,7433,Cumbernauld Colts,Caledonian Braves,2,2,2,1
+1405212,1766847600,4667,6756,Cowdenbeath,Albion Rovers,1,0,1,0
+1405211,1766847600,7439,6731,East Stirlingshire,Broxburn Athletic,0,3,0,1
+1405213,1766847600,7443,6759,Gala Fairydean Rovers,Berwick Rangers,1,2,0,1
+1405214,1766847600,7450,16845,Stirling University,Celtic II,1,1,1,0
+1405209,1766847600,15597,6744,Bo'ness United,Linlithgow Rose,2,0,2,0
+1405208,1766847600,17025,7444,Clydebank,Gretna 2008,5,0,1,0
+1405217,1767383100,6771,7450,Hearts U21,Stirling University,2,1,1,0
+1405225,1767452400,6731,15597,Broxburn Athletic,Bo'ness United,1,2,1,1
+1405222,1767452400,7433,16845,Caledonian Braves,Celtic II,4,3,2,1
+1405233,1768057200,15597,7439,Bo'ness United,East Stirlingshire,2,0,1,0
+1405153,1768662000,6756,7433,Albion Rovers,Caledonian Braves,0,3,0,2
+1405191,1768662000,7436,7431,Cumbernauld Colts,Bonnyrigg Rose Athletic,0,1,0,0
+1405235,1769197500,16845,6759,Celtic II,Berwick Rangers,3,0,2,0
+1405242,1769266800,6744,7433,Linlithgow Rose,Caledonian Braves,4,0,2,0
+1405237,1769266800,7434,7431,Civil Service Strollers,Bonnyrigg Rose Athletic,1,5,1,2
+1405241,1769266800,7439,4667,East Stirlingshire,Cowdenbeath,1,4,1,2
+1405236,1769266800,7443,6756,Gala Fairydean Rovers,Albion Rovers,2,0,1,0
+1405239,1769266800,7444,6731,Gretna 2008,Broxburn Athletic,2,2,0,2
+1405240,1769266800,15597,7450,Bo'ness United,Stirling University,2,0,1,0
+1405238,1769266800,15602,6771,Tranent Juniors,Hearts U21,2,0,2,0
+1405243,1769266800,17025,7436,Clydebank,Cumbernauld Colts,1,3,0,2
+1405252,1770476400,6744,6771,Linlithgow Rose,Hearts U21,1,2,1,1
+1405246,1770476400,6756,15602,Albion Rovers,Tranent Juniors,0,1,0,1
+1405251,1770476400,7431,7439,Bonnyrigg Rose Athletic,East Stirlingshire,4,0,1,0
+1405247,1770476400,7434,7444,Civil Service Strollers,Gretna 2008,1,2,0,1
+1405245,1770476400,7443,4667,Gala Fairydean Rovers,Cowdenbeath,0,3,0,2
+1405249,1770476400,7450,6731,Stirling University,Broxburn Athletic,3,2,2,0
+1405244,1770476400,15597,7433,Bo'ness United,Caledonian Braves,2,3,1,3
+1405248,1770476400,16845,7436,Celtic II,Cumbernauld Colts,3,1,2,0
+1405253,1771011900,6771,15597,Hearts U21,Bo'ness United,2,1,2,0
+1405257,1771081200,6731,16845,Broxburn Athletic,Celtic II,1,1,1,0
+1405256,1771081200,7433,7443,Caledonian Braves,Gala Fairydean Rovers,4,1,1,0
+1405255,1771081200,7444,7431,Gretna 2008,Bonnyrigg Rose Athletic,2,1,1,1
+1405258,1771081200,17025,15602,Clydebank,Tranent Juniors,1,2,0,1
+1405262,1771616700,6771,6731,Hearts U21,Broxburn Athletic,0,1,0,0
+1405265,1771686000,7434,7433,Civil Service Strollers,Caledonian Braves,0,2,0,1
+1405269,1771686000,7436,6756,Cumbernauld Colts,Albion Rovers,4,0,1,0
+1405268,1771686000,7439,6759,East Stirlingshire,Berwick Rangers,1,3,0,0
+1405264,1771686000,7443,6744,Gala Fairydean Rovers,Linlithgow Rose,0,4,0,4
+1405267,1771686000,7444,15597,Gretna 2008,Bo'ness United,1,0,0,0
+1405266,1771686000,7450,7431,Stirling University,Bonnyrigg Rose Athletic,0,1,0,0
+1405270,1771686000,15602,4667,Tranent Juniors,Cowdenbeath,1,1,1,1
+1405263,1771686000,16845,17025,Celtic II,Clydebank,3,1,1,1
+1405226,1772221500,7436,6771,Cumbernauld Colts,Hearts U21,3,0,1,0
+1405192,1772290800,4667,6744,Cowdenbeath,Linlithgow Rose,1,2,1,1
+1405188,1772290800,6731,15602,Broxburn Athletic,Tranent Juniors,1,3,0,0
+1405250,1772290800,6759,17025,Berwick Rangers,Clydebank,1,2,1,1
+1405228,1772290800,7431,7443,Bonnyrigg Rose Athletic,Gala Fairydean Rovers,4,2,2,0
+1405187,1772290800,7434,6756,Civil Service Strollers,Albion Rovers,2,0,2,0
+1405271,1772826300,6771,7444,Hearts U21,Gretna 2008,1,1,0,0
+1405273,1772895600,6731,7434,Broxburn Athletic,Civil Service Strollers,2,2,1,2
+1405276,1772895600,6759,6756,Berwick Rangers,Albion Rovers,3,1,1,1
+1405275,1772895600,7433,6744,Caledonian Braves,Linlithgow Rose,0,1,0,0
+1405272,1772895600,7436,15602,Cumbernauld Colts,Tranent Juniors,1,2,0,1
+1405274,1772895600,7439,7443,East Stirlingshire,Gala Fairydean Rovers,2,1,1,1
+1405277,1772895600,7450,4667,Stirling University,Cowdenbeath,1,1,1,0
+1405279,1772895600,15597,16845,Bo'ness United,Celtic II,2,2,1,0
+1405278,1772895600,17025,7431,Clydebank,Bonnyrigg Rose Athletic,5,1,4,1
+1405227,1773171900,16845,7434,Celtic II,Civil Service Strollers,6,0,3,0
+1405280,1773494100,4667,6759,Cowdenbeath,Berwick Rangers,0,2,0,2
+1405286,1773500400,6744,7444,Linlithgow Rose,Gretna 2008,2,0,1,0
+1405281,1773500400,7431,6771,Bonnyrigg Rose Athletic,Hearts U21,4,0,1,0
+1405283,1773500400,7433,6731,Caledonian Braves,Broxburn Athletic,1,1,0,0
+1405287,1773500400,7434,15597,Civil Service Strollers,Bo'ness United,1,0,1,0
+1405285,1773500400,7439,17025,East Stirlingshire,Clydebank,0,6,0,2
+1405282,1773500400,7443,7436,Gala Fairydean Rovers,Cumbernauld Colts,2,3,1,1
+1405288,1773500400,15602,16845,Tranent Juniors,Celtic II,3,1,2,0
+1405254,1773776700,4667,7450,Cowdenbeath,Stirling University,1,2,1,1
+1405230,1773776700,6731,6744,Broxburn Athletic,Linlithgow Rose,1,6,1,3
+1405193,1773776700,7434,6759,Civil Service Strollers,Berwick Rangers,0,1,0,0
+1405289,1774035900,6771,17025,Hearts U21,Clydebank,0,8,0,4
+1405294,1774105200,6744,6759,Linlithgow Rose,Berwick Rangers,2,0,1,0
+1405295,1774105200,7433,6756,Caledonian Braves,Albion Rovers,3,4,2,2
+1405292,1774105200,7444,7439,Gretna 2008,East Stirlingshire,1,1,0,1
+1405291,1774105200,7450,15602,Stirling University,Tranent Juniors,0,5,0,1
+1405293,1774105200,15597,4667,Bo'ness United,Cowdenbeath,1,1,0,1
+1405297,1774105200,16845,7431,Celtic II,Bonnyrigg Rose Athletic,3,3,2,2
+1405229,1774381500,6756,7444,Albion Rovers,Gretna 2008,2,0,0,0
+1405218,1774467900,7434,7436,Civil Service Strollers,Cumbernauld Colts,0,5,0,1
+1405221,1774467900,15602,7443,Tranent Juniors,Gala Fairydean Rovers,2,1,1,1
+1405224,1774702800,6756,17025,Albion Rovers,Clydebank,0,1,0,1
+1405290,1774710000,6731,7436,Broxburn Athletic,Cumbernauld Colts,3,3,0,1
+1405219,1774710000,6744,7439,Linlithgow Rose,East Stirlingshire,4,3,1,1
+1405223,1774710000,6759,7431,Berwick Rangers,Bonnyrigg Rose Athletic,2,2,1,1
+1405296,1774710000,7434,7443,Civil Service Strollers,Gala Fairydean Rovers,2,1,1,0
+1405220,1774710000,7444,4667,Gretna 2008,Cowdenbeath,2,1,1,0
+1405190,1774710000,15602,15597,Tranent Juniors,Bo'ness United,1,1,0,1
+1405231,1775069100,4667,17025,Cowdenbeath,Clydebank,0,4,0,2
+1405260,1775069100,6744,7434,Linlithgow Rose,Civil Service Strollers,3,3,1,2
+1405284,1775069100,6756,7450,Albion Rovers,Stirling University,5,0,1,0
+1405261,1775069100,6759,7436,Berwick Rangers,Cumbernauld Colts,2,3,0,2
+1405298,1775241900,7439,6771,East Stirlingshire,Hearts U21,4,2,3,0
+1405301,1775311200,4667,7434,Cowdenbeath,Civil Service Strollers,4,0,3,0
+1405300,1775311200,6756,16845,Albion Rovers,Celtic II,3,2,2,1
+1405305,1775311200,6759,7450,Berwick Rangers,Stirling University,0,0,0,0
+1405304,1775311200,7431,7433,Bonnyrigg Rose Athletic,Caledonian Braves,3,2,2,1
+1405306,1775311200,7436,7444,Cumbernauld Colts,Gretna 2008,3,1,2,1
+1405302,1775311200,7443,15597,Gala Fairydean Rovers,Bo'ness United,3,1,3,0
+1405303,1775311200,15602,6744,Tranent Juniors,Linlithgow Rose,0,1,0,1
+1405299,1775311200,17025,6731,Clydebank,Broxburn Athletic,4,0,1,0
+1405259,1775587500,6756,7439,Albion Rovers,East Stirlingshire,1,0,0,0
+1405232,1775587500,6759,15602,Berwick Rangers,Tranent Juniors,0,0,0,0
+1405129,1775587500,16845,6744,Celtic II,Linlithgow Rose,1,3,1,2
+1405234,1775673900,7450,7433,Stirling University,Caledonian Braves,0,4,0,1
+1405307,1775846700,6771,6756,Hearts U21,Albion Rovers,3,0,0,0
+1405311,1775846700,16845,4667,Celtic II,Cowdenbeath,2,2,1,1
+1405313,1775916000,6731,7431,Broxburn Athletic,Bonnyrigg Rose Athletic,2,2,2,0
+1405310,1775916000,6744,17025,Linlithgow Rose,Clydebank,4,1,2,0
+1405315,1775916000,7433,15602,Caledonian Braves,Tranent Juniors,3,0,2,0
+1405312,1775916000,7434,7439,Civil Service Strollers,East Stirlingshire,1,0,0,0
+1405308,1775916000,7444,6759,Gretna 2008,Berwick Rangers,2,7,2,2
+1405314,1775916000,7450,7443,Stirling University,Gala Fairydean Rovers,0,2,0,0
+1405309,1775916000,15597,7436,Bo'ness United,Cumbernauld Colts,3,2,2,1
+1405317,1776520800,4667,6771,Cowdenbeath,Hearts U21,3,0,1,0
+1405323,1776520800,6756,7434,Albion Rovers,Civil Service Strollers,4,1,4,1
+1405322,1776520800,6759,15597,Berwick Rangers,Bo'ness United,4,2,3,0
+1405324,1776520800,7431,6744,Bonnyrigg Rose Athletic,Linlithgow Rose,1,2,0,1
+1405316,1776520800,7436,7450,Cumbernauld Colts,Stirling University,4,1,1,0
+1405320,1776520800,7439,16845,East Stirlingshire,Celtic II,3,2,1,0
+1405319,1776520800,7443,7444,Gala Fairydean Rovers,Gretna 2008,3,0,1,0
+1405318,1776520800,15602,6731,Tranent Juniors,Broxburn Athletic,3,0,1,0
+1405321,1776520800,17025,7433,Clydebank,Caledonian Braves,2,0,2,0

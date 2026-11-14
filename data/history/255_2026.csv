@@ -1,0 +1,388 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1491551,1772843400,20808,4000,Lexington,Louisville City,1,2,1,0
+1491549,1772924400,3990,4010,Charleston Battery,Pittsburgh Riverhounds,2,1,1,0
+1491556,1772929800,25959,3995,Sporting JAX,Hartford Athletic,0,3,0,1
+1491548,1772931600,3989,4021,Birmingham Legion,Tampa Bay Rowdies,0,1,0,0
+1491555,1772933400,4017,4009,San Antonio,Phoenix Rising,2,1,1,0
+1491550,1772935200,3993,3992,El Paso Locomotive,Colorado Springs,2,2,1,1
+1493551,1772938800,4007,3998,Orange County SC,Las Vegas Lights,1,1,1,0
+1491554,1772938800,4015,4022,Sacramento Republic,FC Tulsa,2,0,0,0
+1491552,1772938800,18375,10874,Monterey Bay,Oakland Roots,0,1,0,0
+1491557,1772996400,27252,3996,Brooklyn,Indy Eleven,1,0,1,0
+1493419,1773244800,3989,3995,Birmingham Legion,Hartford Athletic,0,0,0,0
+1493421,1773514800,3999,4010,Loudoun United,Pittsburgh Riverhounds,2,3,1,1
+1491561,1773518400,4000,9030,Louisville City,Miami FC,4,1,3,1
+1491559,1773518400,9043,27252,Detroit City,Brooklyn,3,0,2,0
+1493423,1773518400,22855,25959,Rhode Island,Sporting JAX,1,1,0,0
+1491558,1773522000,3992,3998,Colorado Springs,Las Vegas Lights,3,2,0,0
+1493420,1773529200,20808,4015,Lexington,Sacramento Republic,0,0,0,0
+1491560,1773532800,4022,4017,FC Tulsa,San Antonio,0,0,0,0
+1491563,1773540000,4009,4007,Phoenix Rising,Orange County SC,1,1,1,0
+1491562,1773540000,10874,4003,Oakland Roots,New Mexico United,2,1,1,0
+1493422,1773540000,18375,3993,Monterey Bay,El Paso Locomotive,0,3,0,1
+1491565,1774119600,3999,9030,Loudoun United,Miami FC,0,0,0,0
+1493427,1774123200,4000,22855,Louisville City,Rhode Island,4,2,1,1
+1493425,1774134000,3990,3989,Charleston Battery,Birmingham Legion,3,2,0,2
+1491564,1774134000,3996,9043,Indy Eleven,Detroit City,2,1,1,0
+1493424,1774134000,27252,3995,Brooklyn,Hartford Athletic,1,2,0,2
+1491567,1774135800,4021,4010,Tampa Bay Rowdies,Pittsburgh Riverhounds,3,0,1,0
+1493426,1774137600,4022,3998,FC Tulsa,Las Vegas Lights,3,2,1,1
+1493430,1774139400,4017,4003,San Antonio,New Mexico United,1,0,0,0
+1491566,1774144800,4007,3992,Orange County SC,Colorado Springs,1,0,0,0
+1493428,1774144800,4009,10874,Phoenix Rising,Oakland Roots,2,2,0,2
+1493429,1774144800,4015,18375,Sacramento Republic,Monterey Bay,1,1,0,0
+1493431,1774479600,20808,27252,Lexington,Brooklyn,3,0,0,0
+1493432,1774481400,25959,9030,Sporting JAX,Miami FC,2,4,2,1
+1491570,1774724400,4003,3992,New Mexico United,Colorado Springs,3,2,0,0
+1493434,1774728000,9043,3990,Detroit City,Charleston Battery,1,0,0,0
+1491568,1774731600,3995,3996,Hartford Athletic,Indy Eleven,2,2,1,0
+1491571,1774738800,4010,25959,Pittsburgh Riverhounds,Sporting JAX,3,2,2,0
+1493436,1774738800,9030,22855,Miami FC,Rhode Island,2,1,1,0
+1493439,1774740600,4021,3999,Tampa Bay Rowdies,Loudoun United,3,1,1,0
+1493433,1774740600,27252,4000,Brooklyn,Louisville City,0,1,0,0
+1493435,1774742400,4022,4009,FC Tulsa,Phoenix Rising,1,1,0,0
+1493437,1774742400,10874,4007,Oakland Roots,Orange County SC,0,1,0,0
+1493438,1774749600,4015,3993,Sacramento Republic,El Paso Locomotive,1,2,0,2
+1491569,1774751400,3998,18375,Las Vegas Lights,Monterey Bay,1,0,0,0
+1493440,1774814400,4017,20808,San Antonio,Lexington,2,0,1,0
+1493445,1775332800,4000,3990,Louisville City,Charleston Battery,0,2,0,1
+1491572,1775332800,9030,3995,Miami FC,Hartford Athletic,0,0,0,0
+1493448,1775332800,22855,9043,Rhode Island,Detroit City,0,0,0,0
+1493441,1775336400,3992,20808,Colorado Springs,Lexington,1,1,0,1
+1493444,1775336400,3999,3989,Loudoun United,Birmingham Legion,2,2,1,1
+1493443,1775343600,3996,4010,Indy Eleven,Pittsburgh Riverhounds,1,1,1,0
+1493450,1775345400,25959,4021,Sporting JAX,Tampa Bay Rowdies,0,1,0,0
+1493442,1775350800,3993,3998,El Paso Locomotive,Las Vegas Lights,3,2,2,1
+1493447,1775354400,4007,4003,Orange County SC,New Mexico United,0,1,0,1
+1493449,1775354400,4015,4009,Sacramento Republic,Phoenix Rising,2,0,2,0
+1493446,1775354400,18375,4017,Monterey Bay,San Antonio,0,0,0,0
+1493451,1775700000,4007,4017,Orange County SC,San Antonio,2,0,2,0
+1493452,1775860200,3999,4000,Loudoun United,Louisville City,3,3,2,2
+1493455,1775937600,9043,25959,Detroit City,Sporting JAX,1,0,1,0
+1493457,1775948400,3995,3993,Hartford Athletic,El Paso Locomotive,0,4,0,3
+1493458,1775948400,3996,18375,Indy Eleven,Monterey Bay,3,1,1,0
+1493460,1775948400,20808,22855,Lexington,Rhode Island,1,3,0,2
+1493454,1775948400,27252,3990,Brooklyn,Charleston Battery,3,0,2,0
+1493463,1775950200,4021,10874,Tampa Bay Rowdies,Oakland Roots,2,2,2,1
+1493456,1775952000,4022,4007,FC Tulsa,Orange County SC,0,1,0,0
+1493462,1775953800,4017,9030,San Antonio,Miami FC,0,0,0,0
+1493461,1775959200,4009,4003,Phoenix Rising,New Mexico United,3,0,1,0
+1493459,1775961000,3998,4015,Las Vegas Lights,Sacramento Republic,1,1,1,1
+1493453,1776027600,3989,4010,Birmingham Legion,Pittsburgh Riverhounds,1,0,1,0
+1493465,1776538800,3990,4021,Charleston Battery,Tampa Bay Rowdies,1,1,0,0
+1493466,1776546000,3992,18375,Colorado Springs,Monterey Bay,4,1,2,0
+1493469,1776546000,4000,25959,Louisville City,Sporting JAX,1,0,0,0
+1493468,1776553200,3995,3999,Hartford Athletic,Loudoun United,0,0,0,0
+1493473,1776553200,4010,9043,Pittsburgh Riverhounds,Detroit City,2,1,1,0
+1493470,1776553200,9030,4009,Miami FC,Phoenix Rising,0,3,0,1
+1493467,1776560400,3993,4017,El Paso Locomotive,San Antonio,2,3,1,2
+1493472,1776564000,4007,20808,Orange County SC,Lexington,0,0,0,0
+1493471,1776564000,10874,4022,Oakland Roots,FC Tulsa,1,1,1,0
+1493464,1776632400,3989,3996,Birmingham Legion,Indy Eleven,2,2,1,0
+1493474,1776812400,27252,4015,Brooklyn,Sacramento Republic,1,1,1,0
+1493476,1776900600,22855,3990,Rhode Island,Charleston Battery,4,0,0,0
+1493475,1776909600,10874,3998,Oakland Roots,Las Vegas Lights,4,2,2,0
+1493477,1777510800,3993,4022,El Paso Locomotive,FC Tulsa,1,4,0,1
+1493481,1777755600,3999,10874,Loudoun United,Oakland Roots,2,2,1,1
+1493479,1777759200,9043,4000,Detroit City,Louisville City,2,1,1,1
+1493478,1777762800,3990,25959,Charleston Battery,Sporting JAX,4,0,3,0
+1493483,1777762800,4010,4009,Pittsburgh Riverhounds,Phoenix Rising,0,1,0,0
+1493482,1777762800,9030,27252,Miami FC,Brooklyn,3,2,1,1
+1493487,1777764600,4021,3996,Tampa Bay Rowdies,Indy Eleven,1,0,0,0
+1493484,1777764600,22855,3989,Rhode Island,Birmingham Legion,1,3,1,1
+1493486,1777768200,4017,3992,San Antonio,Colorado Springs,3,3,1,1
+1493485,1777773600,4015,4007,Sacramento Republic,Orange County SC,3,2,0,1
+1493480,1777775400,3998,20808,Las Vegas Lights,Lexington,2,1,2,1
+1493488,1777849200,18375,4022,Monterey Bay,FC Tulsa,1,2,1,0
+1493489,1778115600,4003,3993,New Mexico United,El Paso Locomotive,2,2,2,1
+1493490,1778198400,3989,9030,Birmingham Legion,Miami FC,0,0,0,0
+1493492,1778283000,20808,18375,Lexington,Monterey Bay,3,1,2,0
+1493491,1778288400,3992,4007,Colorado Springs,Orange County SC,2,2,1,1
+1493494,1778367600,3995,9043,Hartford Athletic,Detroit City,2,1,0,0
+1493495,1778367600,3996,25959,Indy Eleven,Sporting JAX,2,1,0,1
+1493496,1778367600,4000,4010,Louisville City,Pittsburgh Riverhounds,0,2,0,1
+1493493,1778367600,27252,3999,Brooklyn,Loudoun United,0,1,0,1
+1493500,1778369400,22855,4021,Rhode Island,Tampa Bay Rowdies,1,1,0,1
+1493497,1778374800,4003,3998,New Mexico United,Las Vegas Lights,3,1,1,1
+1493499,1778378400,4009,4017,Phoenix Rising,San Antonio,1,1,0,1
+1493498,1778378400,10874,3993,Oakland Roots,El Paso Locomotive,2,1,1,1
+1493501,1779321600,9043,9030,Detroit City,Miami FC,2,1,0,0
+1493502,1779325200,4003,4021,New Mexico United,Tampa Bay Rowdies,0,1,0,1
+1493503,1779496200,4022,3995,FC Tulsa,Hartford Athletic,2,0,1,0
+1493506,1779573600,3999,9043,Loudoun United,Detroit City,0,0,0,0
+1493504,1779577200,3996,20808,Indy Eleven,Lexington,3,1,1,0
+1493507,1779577200,9030,4000,Miami FC,Louisville City,4,3,2,1
+1493513,1779579000,4021,4009,Tampa Bay Rowdies,Phoenix Rising,3,0,3,0
+1493511,1779579000,22855,27252,Rhode Island,Brooklyn,4,1,1,0
+1493512,1779582600,4017,4015,San Antonio,Sacramento Republic,2,1,2,0
+1493509,1779584400,4003,3990,New Mexico United,Charleston Battery,1,0,0,0
+1493510,1779588000,4007,10874,Orange County SC,Oakland Roots,3,2,1,1
+1493508,1779588000,18375,3989,Monterey Bay,Birmingham Legion,2,0,0,0
+1493505,1779589800,3998,3992,Las Vegas Lights,Colorado Springs,2,0,1,0
+1493514,1779924600,25959,4017,Sporting JAX,San Antonio,4,4,3,0
+1493515,1780178400,3990,9043,Charleston Battery,Detroit City,2,0,2,0
+1493517,1780182000,3995,4003,Hartford Athletic,New Mexico United,0,0,0,0
+1493518,1780182000,3996,22855,Indy Eleven,Rhode Island,1,0,0,0
+1493520,1780182000,4000,4021,Louisville City,Tampa Bay Rowdies,0,2,0,0
+1493524,1780182000,4010,9030,Pittsburgh Riverhounds,Miami FC,2,0,0,0
+1493522,1780185600,10874,3992,Oakland Roots,Colorado Springs,0,1,0,1
+1493516,1780189200,3993,20808,El Paso Locomotive,Lexington,1,4,0,2
+1493521,1780192800,18375,3999,Monterey Bay,Loudoun United,4,1,2,0
+1493519,1780194600,3998,4022,Las Vegas Lights,FC Tulsa,0,0,0,0
+1493523,1780194600,4009,4015,Phoenix Rising,Sacramento Republic,2,0,2,0
+1493525,1780250400,25959,27252,Sporting JAX,Brooklyn,2,2,1,2
+1493526,1780531200,3989,4000,Birmingham Legion,Louisville City,1,1,1,1
+1493530,1781132400,4021,3990,Tampa Bay Rowdies,Charleston Battery,2,2,1,0
+1493527,1781134200,9043,3993,Detroit City,El Paso Locomotive,1,1,0,1
+1493528,1781143200,18375,25959,Monterey Bay,Sporting JAX,2,1,1,0
+1493529,1781145000,4009,4000,Phoenix Rising,Louisville City,0,2,0,0
+1493536,1781388000,3999,22855,Loudoun United,Rhode Island,1,4,0,1
+1493540,1781391600,4010,3996,Pittsburgh Riverhounds,Indy Eleven,1,0,0,0
+1493535,1781391600,20808,4017,Lexington,San Antonio,2,0,0,0
+1493541,1781391600,25959,9043,Sporting JAX,Detroit City,2,6,1,3
+1493532,1781393400,3990,4022,Charleston Battery,FC Tulsa,5,1,3,1
+1493542,1781393400,4021,3995,Tampa Bay Rowdies,Hartford Athletic,0,1,0,1
+1493531,1781395200,3989,3998,Birmingham Legion,Las Vegas Lights,1,2,0,1
+1493537,1781395200,4000,27252,Louisville City,Brooklyn,2,2,1,1
+1493533,1781398800,3992,4015,Colorado Springs,Sacramento Republic,0,1,0,0
+1493534,1781398800,3993,4009,El Paso Locomotive,Phoenix Rising,1,1,0,0
+1493538,1781400600,4003,4007,New Mexico United,Orange County SC,1,1,1,1
+1493539,1781402400,10874,9030,Oakland Roots,Miami FC,0,0,0,0
+1493545,1781722800,10874,3989,Oakland Roots,Birmingham Legion,1,1,0,1
+1493543,1781742600,4022,18375,FC Tulsa,Monterey Bay,2,0,1,0
+1493549,1781996400,3995,4010,Hartford Athletic,Pittsburgh Riverhounds,0,0,0,0
+1493554,1781996400,25959,3990,Sporting JAX,Charleston Battery,2,5,1,3
+1493547,1781996400,27252,4021,Brooklyn,Tampa Bay Rowdies,0,2,0,2
+1493546,1782000000,3989,3999,Birmingham Legion,Loudoun United,1,1,0,0
+1493548,1782001800,4022,3992,FC Tulsa,Colorado Springs,1,2,1,0
+1493550,1782007200,18375,3993,Monterey Bay,El Paso Locomotive,1,0,0,0
+1493704,1782009000,3998,4007,Las Vegas Lights,Orange County SC,2,3,1,1
+1493552,1782009000,4009,10874,Phoenix Rising,Oakland Roots,3,4,0,0
+1493553,1782010800,4015,4003,Sacramento Republic,New Mexico United,0,1,0,0
+1493555,1782342000,3990,3999,Charleston Battery,Loudoun United,4,1,2,0
+1493557,1782342000,9030,4007,Miami FC,Orange County SC,2,4,1,1
+1493556,1782345600,3992,4017,Colorado Springs,San Antonio,1,2,1,1
+1493558,1783036800,3989,9043,Birmingham Legion,Detroit City,1,2,1,1
+1493559,1783121400,3999,25959,Loudoun United,Sporting JAX,2,2,0,1
+1493562,1783195200,3996,3990,Indy Eleven,Charleston Battery,2,0,0,0
+1493569,1783202400,4021,20808,Tampa Bay Rowdies,Lexington,1,4,0,3
+1493566,1783206000,4010,27252,Pittsburgh Riverhounds,Brooklyn,0,2,0,0
+1493567,1783207800,22855,4007,Rhode Island,Orange County SC,1,1,0,0
+1493564,1783209600,4000,3995,Louisville City,Hartford Athletic,1,0,0,0
+1493560,1783213200,3992,4009,Colorado Springs,Phoenix Rising,3,1,1,1
+1493568,1783213200,4017,18375,San Antonio,Monterey Bay,0,0,0,0
+1493565,1783215000,4003,10874,New Mexico United,Oakland Roots,2,1,2,0
+1493563,1783218600,3998,3993,Las Vegas Lights,El Paso Locomotive,1,2,1,1
+1493570,1783292400,9030,3989,Miami FC,Birmingham Legion,1,1,1,0
+1493571,1783551600,3995,4007,Hartford Athletic,Orange County SC,2,2,0,2
+1493572,1783564200,4015,22855,Sacramento Republic,Rhode Island,2,1,2,1
+1493574,1784156400,9030,3996,Miami FC,Indy Eleven,2,0,1,0
+1493573,1784156400,20808,4003,Lexington,New Mexico United,1,4,0,2
+1493575,1784158200,25959,4010,Sporting JAX,Pittsburgh Riverhounds,2,1,0,1
+1493581,1784390400,4010,4000,Pittsburgh Riverhounds,Louisville City,3,1,0,0
+1493579,1784415600,3999,4021,Loudoun United,Tampa Bay Rowdies,1,1,0,1
+1493577,1784415600,9043,3996,Detroit City,Indy Eleven,2,0,0,0
+1493584,1784415600,25959,27252,Sporting JAX,Brooklyn,2,2,2,0
+1493576,1784417400,3990,4015,Charleston Battery,Sacramento Republic,1,1,0,0
+1493582,1784417400,22855,3995,Rhode Island,Hartford Athletic,1,0,1,0
+1493578,1784421000,4022,3993,FC Tulsa,El Paso Locomotive,1,0,1,0
+1493583,1784422800,4017,3998,San Antonio,Las Vegas Lights,1,2,1,0
+1493580,1784428200,4009,18375,Phoenix Rising,Monterey Bay,3,2,1,1
+1493586,1784761200,20808,10874,Lexington,Oakland Roots,2,0,0,0
+1493585,1784768400,3992,9030,Colorado Springs,Miami FC,2,0,0,0
+1493593,1785020400,3996,3999,Indy Eleven,Loudoun United,0,1,0,0
+1493598,1785020400,4010,22855,Pittsburgh Riverhounds,Rhode Island,0,1,0,0
+1493594,1785020400,9030,4021,Miami FC,Tampa Bay Rowdies,2,3,1,2
+1493590,1785020400,9043,3998,Detroit City,Las Vegas Lights,0,1,0,1
+1493588,1785020400,27252,4017,Brooklyn,San Antonio,0,1,0,1
+1493592,1785025800,4022,20808,FC Tulsa,Lexington,0,0,0,0
+1493589,1785027600,3992,3990,Colorado Springs,Charleston Battery,2,1,0,0
+1493591,1785027600,3993,25959,El Paso Locomotive,Sporting JAX,2,0,1,0
+1493596,1785031200,10874,4015,Oakland Roots,Sacramento Republic,1,3,1,1
+1493595,1785031200,18375,4007,Monterey Bay,Orange County SC,1,2,0,0
+1493597,1785033000,4009,3995,Phoenix Rising,Hartford Athletic,0,0,0,0
+1493600,1785366000,4010,4022,Pittsburgh Riverhounds,FC Tulsa,0,1,0,1
+1493599,1785367800,4000,3989,Louisville City,Birmingham Legion,2,1,1,1
+1493611,1785546000,4017,3996,San Antonio,Indy Eleven,3,1,1,0
+1493605,1785625200,3999,3995,Loudoun United,Hartford Athletic,2,0,1,0
+1493606,1785625200,9030,9043,Miami FC,Detroit City,2,2,0,1
+1493604,1785625200,20808,18375,Lexington,Monterey Bay,3,2,2,2
+1493602,1785627000,3990,27252,Charleston Battery,Brooklyn,5,0,2,0
+1493612,1785628800,4021,4000,Tampa Bay Rowdies,Louisville City,5,4,0,3
+1493607,1785634200,4003,3992,New Mexico United,Colorado Springs,1,0,0,0
+1493609,1785636000,4007,3993,Orange County SC,El Paso Locomotive,2,0,1,0
+1493608,1785636000,10874,4010,Oakland Roots,Pittsburgh Riverhounds,0,1,0,1
+1493603,1785637800,3998,4009,Las Vegas Lights,Phoenix Rising,1,1,1,1
+1493610,1785639600,4015,25959,Sacramento Republic,Sporting JAX,5,0,4,0
+1493601,1785711600,3989,22855,Birmingham Legion,Rhode Island,1,0,0,0
+1493561,1785976200,4022,4015,FC Tulsa,Sacramento Republic,1,0,0,0
+1493613,1785978000,3993,18375,El Paso Locomotive,Monterey Bay,1,0,1,0
+1493614,1785983400,3998,10874,Las Vegas Lights,Oakland Roots,0,0,0,0
+1493619,1786230000,3999,3990,Loudoun United,Charleston Battery,0,1,0,0
+1493624,1786230000,4010,4015,Pittsburgh Riverhounds,Sacramento Republic,0,0,0,0
+1493621,1786230000,9030,3998,Miami FC,Las Vegas Lights,0,1,0,1
+1493618,1786230000,20808,4009,Lexington,Phoenix Rising,1,0,0,0
+1493625,1786231800,22855,3992,Rhode Island,Colorado Springs,2,0,0,0
+1493620,1786233600,4000,4017,Louisville City,San Antonio,1,1,1,0
+1493617,1786235400,4022,9043,FC Tulsa,Detroit City,0,1,0,0
+1493616,1786237200,3993,10874,El Paso Locomotive,Oakland Roots,1,0,1,0
+1493623,1786240800,4007,4021,Orange County SC,Tampa Bay Rowdies,0,3,0,1
+1493622,1786240800,18375,4003,Monterey Bay,New Mexico United,2,5,1,1
+1493626,1786309200,3996,3995,Indy Eleven,Hartford Athletic,1,1,1,0
+1493629,1786834800,3995,9030,Hartford Athletic,Miami FC,2,1,1,1
+1493634,1786834800,4010,3990,Pittsburgh Riverhounds,Charleston Battery,3,1,2,1
+1493628,1786834800,9043,3999,Detroit City,Loudoun United,0,0,0,0
+1493637,1786834800,25959,3996,Sporting JAX,Indy Eleven,0,1,0,0
+1493638,1786836600,4021,22855,Tampa Bay Rowdies,Rhode Island,2,0,0,0
+1493627,1786842000,3992,3989,Colorado Springs,Birmingham Legion,3,2,1,1
+1493636,1786842000,4017,3993,San Antonio,El Paso Locomotive,0,3,0,3
+1493631,1786843800,4003,4022,New Mexico United,FC Tulsa,1,0,0,0
+1493633,1786845600,4007,4000,Orange County SC,Louisville City,2,3,0,1
+1493632,1786845600,10874,18375,Oakland Roots,Monterey Bay,1,1,1,0
+1493630,1786847400,3998,27252,Las Vegas Lights,Brooklyn,2,1,0,1
+1493635,1786849200,4015,20808,Sacramento Republic,Lexington,1,0,0,0
+1493639,1787191200,4009,3992,Phoenix Rising,Colorado Springs,3,1,1,1
+1493647,1787437800,3999,4003,Loudoun United,New Mexico United,0,0,0,0
+1493645,1787439600,3996,4000,Indy Eleven,Louisville City,2,1,1,0
+1493644,1787439600,9043,4021,Detroit City,Tampa Bay Rowdies,1,0,1,0
+1493646,1787439600,20808,3998,Lexington,Las Vegas Lights,2,0,0,0
+1493641,1787439600,27252,4010,Brooklyn,Pittsburgh Riverhounds,0,1,0,0
+1493649,1787441400,22855,18375,Rhode Island,Monterey Bay,3,1,1,1
+1493640,1787443200,3989,25959,Birmingham Legion,Sporting JAX,2,3,0,0
+1493643,1787446800,3992,3993,Colorado Springs,El Paso Locomotive,0,1,0,0
+1493651,1787446800,4017,10874,San Antonio,Oakland Roots,0,1,0,0
+1493648,1787450400,4007,4022,Orange County SC,FC Tulsa,1,5,0,2
+1493650,1787454000,4015,4009,Sacramento Republic,Phoenix Rising,2,2,2,1
+1493642,1787612400,3990,9030,Charleston Battery,Miami FC,5,0,2,0
+1493652,1787792400,3993,4010,El Paso Locomotive,Pittsburgh Riverhounds,2,1,0,0
+1493653,1787794200,4003,20808,New Mexico United,Lexington,2,1,0,0
+1493665,1788037200,4010,4021,Pittsburgh Riverhounds,Tampa Bay Rowdies,0,0,0,0
+1493657,1788044400,3995,3989,Hartford Athletic,Birmingham Legion,3,2,2,2
+1493659,1788044400,20808,3992,Lexington,Colorado Springs,0,1,0,0
+1493654,1788044400,27252,25959,Brooklyn,Sporting JAX,4,1,3,0
+1493660,1788048000,4000,9043,Louisville City,Detroit City,0,0,0,0
+1493663,1788048000,10874,4007,Oakland Roots,Orange County SC,1,1,1,0
+1493656,1788049800,4022,22855,FC Tulsa,Rhode Island,1,0,1,0
+1493655,1788051600,3993,3999,El Paso Locomotive,Loudoun United,4,1,3,1
+1493662,1788053400,4003,4017,New Mexico United,San Antonio,1,2,0,1
+1493661,1788055200,18375,4015,Monterey Bay,Sacramento Republic,1,1,1,0
+1493658,1788057000,3998,3990,Las Vegas Lights,Charleston Battery,0,2,0,1
+1493664,1788057000,4009,3996,Phoenix Rising,Indy Eleven,2,1,2,1
+1493666,1788390000,3990,3995,Charleston Battery,Hartford Athletic,1,2,1,0
+1493667,1788562800,3999,3992,Loudoun United,Colorado Springs,4,5,1,1
+1493669,1788649200,3996,3989,Indy Eleven,Birmingham Legion,2,2,1,1
+1493668,1788649200,9043,3995,Detroit City,Hartford Athletic,1,1,0,0
+1493676,1788649200,25959,20808,Sporting JAX,Lexington,3,2,1,0
+1493677,1788651000,4021,27252,Tampa Bay Rowdies,Brooklyn,2,0,1,0
+1493674,1788651000,22855,4000,Rhode Island,Louisville City,1,1,0,1
+1493675,1788654600,4017,4022,San Antonio,FC Tulsa,0,0,0,0
+1493673,1788656400,4007,4015,Orange County SC,Sacramento Republic,1,1,0,0
+1493672,1788660000,18375,4009,Monterey Bay,Phoenix Rising,1,1,0,0
+1493670,1788661800,3998,4003,Las Vegas Lights,New Mexico United,1,2,1,1
+1493671,1788705900,9030,4010,Miami FC,Pittsburgh Riverhounds,2,2,1,1
+1493689,1789176600,4003,3996,New Mexico United,Indy Eleven,2,2,2,0
+1493678,1789178400,3992,4017,Colorado Springs,San Antonio,2,1,0,0
+1493688,1789254000,3989,3990,Birmingham Legion,Charleston Battery,2,2,2,2
+1493680,1789254000,3995,4021,Hartford Athletic,Tampa Bay Rowdies,3,1,1,0
+1493681,1789254000,4000,3993,Louisville City,El Paso Locomotive,1,2,0,2
+1493685,1789254000,4010,3999,Pittsburgh Riverhounds,Loudoun United,1,0,1,0
+1493687,1789254000,25959,22855,Sporting JAX,Rhode Island,0,3,0,1
+1493679,1789254000,27252,9030,Brooklyn,Miami FC,1,1,0,0
+1493683,1789264800,4007,3998,Orange County SC,Las Vegas Lights,0,2,0,1
+1493684,1789264800,4009,4022,Phoenix Rising,FC Tulsa,2,1,1,0
+1493686,1789264800,4015,9043,Sacramento Republic,Detroit City,1,0,1,0
+1493682,1789264800,10874,20808,Oakland Roots,Lexington,1,4,0,1
+1493544,1789513200,3996,27252,Indy Eleven,Brooklyn,4,0,3,0
+1493690,1789596000,3995,25959,Hartford Athletic,Sporting JAX,2,0,1,0
+1493587,1789605000,3989,4003,Birmingham Legion,New Mexico United,4,4,1,2
+1493692,1789858800,3990,18375,Charleston Battery,Monterey Bay,1,0,0,0
+1493697,1789858800,4000,3999,Louisville City,Loudoun United,2,1,2,1
+1493694,1789858800,9043,4010,Detroit City,Pittsburgh Riverhounds,1,0,0,0
+1493696,1789858800,20808,4007,Lexington,Orange County SC,6,0,4,0
+1493691,1789858800,27252,4022,Brooklyn,FC Tulsa,2,2,0,2
+1493700,1789860600,4021,3989,Tampa Bay Rowdies,Birmingham Legion,4,0,2,0
+1493699,1789860600,22855,9030,Rhode Island,Miami FC,1,2,1,1
+1493693,1789866000,3992,4003,Colorado Springs,New Mexico United,0,0,0,0
+1493698,1789869600,4009,3993,Phoenix Rising,El Paso Locomotive,1,3,1,1
+1493695,1789871400,3998,3995,Las Vegas Lights,Hartford Athletic,1,1,0,1
+1493701,1789938000,3996,10874,Indy Eleven,Oakland Roots,0,1,0,0
+1493702,1789945200,4015,4017,Sacramento Republic,San Antonio,0,0,0,0
+1493703,1790179200,3989,27252,Birmingham Legion,Brooklyn,4,0,1,0
+1493706,1790377200,3995,4000,Hartford Athletic,Louisville City,2,2,1,0
+1493715,1790379000,25959,3999,Sporting JAX,Loudoun United,1,4,1,1
+1493705,1790384400,3993,4022,El Paso Locomotive,FC Tulsa,1,1,1,1
+1493707,1790463600,3990,22855,Charleston Battery,Rhode Island,2,0,0,0
+1493709,1790463600,3996,9030,Indy Eleven,Miami FC,0,2,0,2
+1493708,1790463600,9043,3992,Detroit City,Colorado Springs,0,0,0,0
+1493714,1790469000,4017,4021,San Antonio,Tampa Bay Rowdies,0,0,0,0
+1493711,1790470800,4003,4015,New Mexico United,Sacramento Republic,2,3,0,1
+1493713,1790474400,4007,4010,Orange County SC,Pittsburgh Riverhounds,1,0,0,0
+1493712,1790474400,10874,4009,Oakland Roots,Phoenix Rising,3,0,2,0
+1493710,1790474400,18375,20808,Monterey Bay,Lexington,2,3,1,1
+1493718,1790809200,9030,25959,Miami FC,Sporting JAX,4,1,2,1
+1493716,1790809200,27252,9043,Brooklyn,Detroit City,1,3,0,0
+1493719,1790811000,22855,3996,Rhode Island,Indy Eleven,1,0,1,0
+1493717,1790812800,4022,4003,FC Tulsa,New Mexico United,1,0,1,0
+1493720,1790820000,4015,3998,Sacramento Republic,Las Vegas Lights,3,2,1,1
+1493728,1791064800,3999,3996,Loudoun United,Indy Eleven,1,1,0,1
+1493723,1791068400,9043,3989,Detroit City,Birmingham Legion,1,0,1,0
+1493727,1791068400,20808,3993,Lexington,El Paso Locomotive,3,1,1,1
+1493721,1791068400,27252,22855,Brooklyn,Rhode Island,1,3,0,2
+1493732,1791070200,4021,9030,Tampa Bay Rowdies,Miami FC,1,2,0,1
+1493724,1791072000,4022,4015,FC Tulsa,Sacramento Republic,1,1,1,0
+1493722,1791075600,3992,10874,Colorado Springs,Oakland Roots,0,0,0,0
+1493730,1791079200,4007,18375,Orange County SC,Monterey Bay,1,2,1,0
+1493726,1791081000,3998,4017,Las Vegas Lights,San Antonio,1,0,1,0
+1493729,1791151200,4003,4009,New Mexico United,Phoenix Rising,2,1,1,0
+1493733,1791588600,20808,4022,Lexington,FC Tulsa,0,0,0,0
+1493734,1791669600,3990,4000,Charleston Battery,Louisville City,0,2,0,0
+1493737,1791673200,3996,4021,Indy Eleven,Tampa Bay Rowdies,1,3,1,0
+1493742,1791673200,4010,3995,Pittsburgh Riverhounds,Hartford Athletic,2,1,1,1
+1493738,1791673200,9030,3999,Miami FC,Loudoun United,0,2,0,0
+1493735,1791673200,9043,22855,Detroit City,Rhode Island,1,0,0,0
+1493736,1791680400,3993,4007,El Paso Locomotive,Orange County SC,2,1,2,0
+1493739,1791680400,4003,18375,New Mexico United,Monterey Bay,3,1,2,0
+1493741,1791684000,4009,3998,Phoenix Rising,Las Vegas Lights,3,2,3,0
+1493743,1791684000,4015,3992,Sacramento Republic,Colorado Springs,1,1,0,0
+1493740,1791684000,10874,4017,Oakland Roots,San Antonio,0,0,0,0
+1493725,1792018800,3995,3990,Hartford Athletic,Charleston Battery,1,1,1,0
+1493744,1792018800,25959,3989,Sporting JAX,Birmingham Legion,0,1,0,1
+1491553,1792020600,22855,3999,Rhode Island,Loudoun United,1,0,1,0
+1493747,1792278000,3995,27252,Hartford Athletic,Brooklyn,2,3,1,0
+1493749,1792278000,4000,3996,Louisville City,Indy Eleven,4,1,3,0
+1493750,1792278000,9030,3990,Miami FC,Charleston Battery,1,2,1,0
+1493755,1792279800,4021,9043,Tampa Bay Rowdies,Detroit City,1,0,0,0
+1493753,1792279800,22855,4010,Rhode Island,Pittsburgh Riverhounds,1,1,0,0
+1493746,1792281600,4022,10874,FC Tulsa,Oakland Roots,2,4,1,1
+1493754,1792283400,4017,4003,San Antonio,New Mexico United,1,0,1,0
+1493745,1792285200,3993,4015,El Paso Locomotive,Sacramento Republic,0,1,0,0
+1493752,1792288800,4007,4009,Orange County SC,Phoenix Rising,1,3,0,2
+1493751,1792288800,18375,3992,Monterey Bay,Colorado Springs,0,1,0,1
+1493748,1792290600,3998,20808,Las Vegas Lights,Lexington,3,5,2,2
+1493756,1792357200,3989,3999,Birmingham Legion,Loudoun United,0,0,0,0
+1493615,1792621800,27252,3989,Brooklyn,Birmingham Legion,1,2,1,1
+1493731,1792625400,25959,4000,Sporting JAX,Louisville City,0,2,0,0
+1493761,1792875600,3999,27252,Loudoun United,Brooklyn,4,3,1,3
+1493757,1792879200,3990,3996,Charleston Battery,Indy Eleven,1,0,0,0
+1493760,1792882800,3995,22855,Hartford Athletic,Rhode Island,2,1,0,1
+1493762,1792882800,4000,9043,Louisville City,Detroit City,0,0,0,0
+1493765,1792882800,4010,3989,Pittsburgh Riverhounds,Birmingham Legion,2,1,0,0
+1493768,1792884600,4021,25959,Tampa Bay Rowdies,Sporting JAX,2,0,1,0
+1493758,1792886400,3992,4022,Colorado Springs,FC Tulsa,2,0,1,0
+1493759,1792886400,3993,4003,El Paso Locomotive,New Mexico United,0,1,0,0
+1493767,1792888200,4017,4007,San Antonio,Orange County SC,2,1,1,0
+1493764,1792893600,4009,20808,Phoenix Rising,Lexington,3,3,2,1
+1493766,1792893600,4015,10874,Sacramento Republic,Oakland Roots,3,2,1,2
+1493763,1792893600,18375,3998,Monterey Bay,Las Vegas Lights,2,1,0,0
+1647325,1793399400,4000,4010,Louisville City,Pittsburgh Riverhounds,0,0,0,0
+1647326,1793401200,3990,22855,Charleston Battery,Rhode Island,1,1,0,1
+1647327,1793403000,4021,9030,Tampa Bay Rowdies,Miami FC,1,1,1,1
+1647328,1793404800,9043,3995,Detroit City,Hartford Athletic,1,2,1,1
+1647329,1793408400,3993,4017,El Paso Locomotive,San Antonio,2,1,1,0
+1647330,1793559600,20808,3992,Lexington,Colorado Springs,1,1,1,0
+1647331,1793574000,4003,4009,New Mexico United,Phoenix Rising,2,0,1,0
+1647332,1793584800,4015,4022,Sacramento Republic,FC Tulsa,1,0,0,0
+1648445,1794096000,4000,9030,Louisville City,Miami FC,3,2,0,2
+1648446,1794097800,3990,3995,Charleston Battery,Hartford Athletic,3,3,0,3
+1648447,1794105000,4003,3992,New Mexico United,Colorado Springs,4,0,3,0
+1648448,1794106800,4015,3993,Sacramento Republic,El Paso Locomotive,2,1,1,1

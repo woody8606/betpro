@@ -1,0 +1,56 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1477421,1758938400,20672,26722,Miramar,Auckland FC 2,3,0,1,0
+1476994,1758942000,2535,20646,Wellington Phoenix II,Wellington Olympic,3,5,0,3
+1476993,1758942000,20649,20652,Auckland United,Christchurch United,0,2,0,1
+1476995,1759014000,20659,26120,Western Springs,West Suburbs,3,0,1,0
+1476996,1759021200,20660,20650,Coastal Spirit,Birkenhead United,1,2,1,0
+1476997,1759532400,20646,20659,Wellington Olympic,Western Springs,2,1,1,1
+1476998,1759539600,20652,20672,Christchurch United,Miramar,4,2,1,2
+1477422,1759543200,26722,2535,Auckland FC 2,Wellington Phoenix II,2,1,1,1
+1476999,1759626000,26120,20660,West Suburbs,Coastal Spirit,8,0,4,0
+1477000,1759633200,20650,2537,Birkenhead United,Auckland City,3,0,1,0
+1477003,1760144400,2535,20652,Wellington Phoenix II,Christchurch United,3,0,2,0
+1477001,1760144400,2537,26120,Auckland City,West Suburbs,3,2,2,1
+1477002,1760144400,20672,20649,Miramar,Auckland United,2,2,2,0
+1477004,1760230800,20660,20646,Coastal Spirit,Wellington Olympic,1,3,0,3
+1477423,1760241600,20659,26722,Western Springs,Auckland FC 2,1,1,0,0
+1477005,1760747400,20646,2537,Wellington Olympic,Auckland City,0,1,0,0
+1477424,1760749200,26722,20660,Auckland FC 2,Coastal Spirit,0,1,0,0
+1477006,1760751900,20652,20659,Christchurch United,Western Springs,1,2,0,0
+1477007,1760752800,20649,2535,Auckland United,Wellington Phoenix II,0,0,0,0
+1477008,1760835600,26120,20650,West Suburbs,Birkenhead United,3,1,2,0
+1477009,1761346800,20660,20652,Coastal Spirit,Christchurch United,0,0,0,0
+1477010,1761357600,2535,20672,Wellington Phoenix II,Miramar,1,4,1,2
+1477425,1761433200,2537,26722,Auckland City,Auckland FC 2,1,1,0,0
+1477011,1761444000,20650,20646,Birkenhead United,Wellington Olympic,2,4,2,1
+1477012,1761451200,20659,20649,Western Springs,Auckland United,2,1,1,0
+1477013,1761953400,20646,26120,Wellington Olympic,West Suburbs,1,0,0,0
+1477014,1761957000,20652,2537,Christchurch United,Auckland City,2,2,2,0
+1477015,1761958800,20672,20659,Miramar,Western Springs,1,2,1,1
+1477016,1761962400,20649,20660,Auckland United,Coastal Spirit,3,0,1,0
+1477426,1762045200,26722,20650,Auckland FC 2,Birkenhead United,3,0,3,0
+1477017,1762567200,2537,20649,Auckland City,Auckland United,4,2,3,1
+1477019,1762650000,20659,2535,Western Springs,Wellington Phoenix II,3,0,2,0
+1477018,1762650000,20660,20672,Coastal Spirit,Miramar,1,3,0,0
+1477427,1762650000,26120,26722,West Suburbs,Auckland FC 2,1,1,0,1
+1477020,1762653600,20650,20652,Birkenhead United,Christchurch United,3,0,3,0
+1477021,1763164800,2535,20660,Wellington Phoenix II,Coastal Spirit,1,0,0,0
+1477022,1763170200,20652,26120,Christchurch United,West Suburbs,3,1,3,0
+1477023,1763172000,20672,2537,Miramar,Auckland City,3,0,2,0
+1477428,1763175600,26722,20646,Auckland FC 2,Wellington Olympic,2,1,0,1
+1477024,1763179200,20649,20650,Auckland United,Birkenhead United,3,2,1,0
+1477025,1763767800,20646,20652,Wellington Olympic,Christchurch United,2,3,1,0
+1477026,1763773200,2537,2535,Auckland City,Wellington Phoenix II,2,0,1,0
+1477027,1763859600,20660,20659,Coastal Spirit,Western Springs,1,0,0,0
+1477028,1763859600,26120,20649,West Suburbs,Auckland United,1,0,0,0
+1477029,1763863200,20650,20672,Birkenhead United,Miramar,1,4,1,1
+1477030,1764378000,20672,26120,Miramar,West Suburbs,2,1,1,0
+1477032,1764381600,2535,20650,Wellington Phoenix II,Birkenhead United,2,3,1,1
+1477429,1764381600,20652,26722,Christchurch United,Auckland FC 2,1,4,0,2
+1477033,1764464400,20659,2537,Western Springs,Auckland City,1,3,1,1
+1477031,1764468000,20649,20646,Auckland United,Wellington Olympic,0,3,0,3
+1477034,1764982800,2537,20660,Auckland City,Coastal Spirit,3,0,0,0
+1477035,1764982800,20646,20672,Wellington Olympic,Miramar,2,1,1,1
+1477036,1765069200,26120,2535,West Suburbs,Wellington Phoenix II,2,7,1,2
+1477037,1765076400,20650,20659,Birkenhead United,Western Springs,3,1,2,0
+1477430,1765076400,26722,20649,Auckland FC 2,Auckland United,3,0,2,0

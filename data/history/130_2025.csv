@@ -1,0 +1,64 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1330788,1737591000,451,18764,Boca Juniors,Argentino Monte Maíz,5,0,2,0
+1330799,1738793700,446,1955,Lanus,General Lamadrid,4,0,2,0
+1330779,1738801800,434,8381,Gimnasia L.P.,Deportivo Español,1,0,0,0
+1330787,1739390400,485,448,San Martin Tucuman,Colon Santa Fe,0,0,0,0
+1330794,1739398500,1066,484,Gimnasia M.,Nueva Chicago,2,0,1,0
+1330790,1740010200,442,1957,Defensa Y Justicia,Racing Cordoba,3,1,2,0
+1330803,1740517800,450,23255,Estudiantes L.P.,Sarmiento de La Banda,2,1,1,0
+1330800,1740608100,438,1963,Velez Sarsfield,Midland,1,0,0,0
+1330795,1740616200,453,1966,Independiente,Sportivo Belgrano,2,0,1,0
+1330797,1740694200,439,8385,Godoy Cruz,Excursionistas,0,1,0,0
+1330782,1741204800,476,1932,Deportivo Riestra,San Telmo,2,2,2,0
+1330785,1741212900,441,8377,Union Santa Fe,Colegiales,3,1,1,1
+1330776,1741809600,1064,8376,Platense,Argentino Quilmes,2,0,0,0
+1330802,1741824600,445,1935,Huracan,San Martin Formosa,2,1,1,1
+1330796,1742409900,463,1928,Aldosivi,Gimnasia Y Tiro,1,1,1,1
+1330783,1742418000,456,2427,Talleres Cordoba,Deportivo Armenio,3,3,2,0
+1330786,1742429700,435,16612,River Plate,Ciudad de Bolívar,2,0,2,0
+1330774,1742682600,452,8382,Tigre,Berazategui,3,0,0,0
+1330773,1742689800,1065,480,Central Cordoba de Santiago,Quilmes,0,1,0,0
+1330780,1742760000,436,475,Racing Club,Santamarina,2,0,1,0
+1330772,1742768100,460,1950,San Lorenzo,Sportivo Las Parejas,0,0,0,0
+1330781,1743019200,461,479,San Martin S.J.,Gimnasia Jujuy,0,0,0,0
+1330775,1743544800,449,1938,Banfield,Villa Mitre,1,0,1,0
+1330789,1743620400,455,464,Atletico Tucuman,All Boys,2,1,0,0
+1330801,1743716700,478,1929,Instituto Cordoba,Deportivo Madryn,3,0,2,0
+1330791,1743725400,457,3975,Newells Old Boys,Kimberley Mar del Plata,0,0,0,0
+1330784,1744225200,437,483,Rosario Central,Los Andes,1,0,0,0
+1330778,1744243800,474,790,Sarmiento Junin,Central Cordoba,0,1,0,1
+1330777,1744830600,473,1936,Independ. Rivadavia,CA Estudiantes,1,0,1,0
+1330798,1744840200,458,1951,Argentinos JRS,Central Norte,3,0,1,0
+1330792,1744848600,440,2422,Belgrano Cordoba,Real Pilar,3,1,3,0
+1330793,1744920000,2432,1067,Barracas Central,Defensores De Belgrano,0,2,0,0
+1370783,1746988200,790,434,Central Cordoba,Gimnasia L.P.,1,1,0,0
+1357124,1747872600,446,438,Lanus,Velez Sarsfield,2,0,2,0
+1368407,1747959000,442,457,Defensa Y Justicia,Newells Old Boys,0,2,0,1
+1366329,1748100600,476,2427,Deportivo Riestra,Deportivo Armenio,2,2,1,1
+1372107,1748462400,8385,458,Excursionistas,Argentinos JRS,0,3,0,0
+1366327,1748794200,450,463,Estudiantes L.P.,Aldosivi,1,1,1,1
+1367657,1750977000,452,449,Tigre,Banfield,2,0,1,0
+1372108,1751069400,440,1067,Belgrano Cordoba,Defensores De Belgrano,3,2,1,1
+1370784,1751126400,437,441,Rosario Central,Union Santa Fe,0,0,0,0
+1357123,1751227200,1066,453,Gimnasia M.,Independiente,1,2,1,0
+1367446,1751492700,436,461,Racing Club,San Martin S.J.,3,1,1,1
+1372109,1751501700,1064,473,Platense,Independ. Rivadavia,2,2,1,1
+1368408,1751582700,478,445,Instituto Cordoba,Huracan,0,0,0,0
+1366820,1751744700,460,480,San Lorenzo,Quilmes,0,0,0,0
+1367656,1753315800,451,455,Boca Juniors,Atletico Tucuman,1,2,0,0
+1392343,1753900200,473,790,Independ. Rivadavia,Central Cordoba,2,1,1,1
+1377541,1754007000,463,458,Aldosivi,Argentinos JRS,1,2,1,0
+1392342,1754082900,440,453,Belgrano Cordoba,Independiente,2,0,1,0
+1392344,1754091900,446,445,Lanus,Huracan,2,0,0,0
+1399357,1754162100,460,452,San Lorenzo,Tigre,0,1,0,1
+1366328,1754179800,485,435,San Martin Tucuman,River Plate,0,3,0,1
+1392341,1754247600,436,476,Racing Club,Deportivo Riestra,3,0,3,0
+1413346,1755124200,455,457,Atletico Tucuman,Newells Old Boys,2,3,2,2
+1423752,1756426500,441,435,Union Santa Fe,River Plate,0,0,0,0
+1429527,1757117400,452,473,Tigre,Independ. Rivadavia,1,3,1,1
+1429528,1757376600,458,446,Argentinos JRS,Lanus,1,0,1,0
+1438717,1758142800,457,440,Newells Old Boys,Belgrano Cordoba,1,3,1,1
+1452079,1759438800,436,435,Racing Club,River Plate,0,1,0,1
+1472482,1761264600,440,458,Belgrano Cordoba,Argentinos JRS,1,2,1,0
+1480016,1761354600,473,435,Independ. Rivadavia,River Plate,0,0,0,0
+1484079,1762387800,473,458,Independ. Rivadavia,Argentinos JRS,2,2,1,0

@@ -1,0 +1,144 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1568725,1785513600,18385,21657,Gedania Gdansk,Noteć Czarnków,5,3,2.0,1.0
+1568726,1785578400,24786,16257,Grom Nowy Staw,Unia Swarzędz,2,3,0.0,1.0
+1568722,1785589200,6959,24328,Stargard Szczeciński,Wda Świecie,1,1,1.0,1.0
+1568729,1785589200,19723,9133,Victoria Września,Lech Poznań II,2,5,1.0,3.0
+1568724,1785592800,6938,26180,Elana Toruń,Lipno Stęszew,1,1,0.0,0.0
+1568721,1785596400,16245,6948,Bałtyk Koszalin,Polonia Środa,0,3,0.0,1.0
+1568727,1785596400,24327,19693,Kotwica Kórnik,Luzino,2,6,1.0,2.0
+1568728,1785600000,16246,12801,Flota Świnoujście,Kalisz,0,1,0.0,0.0
+1568736,1786122000,6948,19723,Polonia Środa,Victoria Września,1,0,1.0,0.0
+1568733,1786183200,9133,6934,Lech Poznań II,Chemik Bydgoszcz,1,1,1.0,1.0
+1568730,1786186800,6938,18385,Elana Toruń,Gedania Gdansk,2,2,1.0,1.0
+1568735,1786194000,21657,24786,Noteć Czarnków,Grom Nowy Staw,0,2,0.0,0.0
+1568732,1786201200,17398,6959,Kluczevia Stargard,Stargard Szczeciński,2,1,1.0,0.0
+1568738,1786201200,24328,26180,Wda Świecie,Lipno Stęszew,2,1,1.0,0.0
+1568737,1786204800,16246,24327,Flota Świnoujście,Kotwica Kórnik,2,0,,
+1568734,1786269600,19693,16245,Luzino,Bałtyk Koszalin,1,1,0.0,1.0
+1568731,1786287600,12801,16257,Kalisz,Unia Swarzędz,1,0,1.0,0.0
+1568746,1786723200,16257,21657,Unia Swarzędz,Noteć Czarnków,0,3,0.0,1.0
+1568747,1786723200,19723,19693,Victoria Września,Luzino,1,3,1.0,1.0
+1568741,1786725000,6934,6948,Chemik Bydgoszcz,Polonia Środa,1,4,1.0,4.0
+1568739,1786788000,16245,16246,Bałtyk Koszalin,Flota Świnoujście,1,2,0.0,0.0
+1568742,1786788000,18385,24328,Gedania Gdansk,Wda Świecie,1,1,1.0,0.0
+1568743,1786795200,24786,6938,Grom Nowy Staw,Elana Toruń,1,2,1.0,1.0
+1568740,1786798800,6959,9133,Stargard Szczeciński,Lech Poznań II,4,2,4.0,2.0
+1568744,1786806000,24327,12801,Kotwica Kórnik,Kalisz,2,2,1.0,0.0
+1568745,1786806000,26180,17398,Lipno Stęszew,Kluczevia Stargard,1,4,0.0,2.0
+1568752,1787133600,9133,26180,Lech Poznań II,Lipno Stęszew,1,0,1.0,0.0
+1568749,1787151600,12801,21657,Kalisz,Noteć Czarnków,0,1,0.0,0.0
+1568755,1787151600,16246,19723,Flota Świnoujście,Victoria Września,5,0,1.0,0.0
+1568753,1787151600,19693,6934,Luzino,Chemik Bydgoszcz,3,1,1.0,0.0
+1568756,1787151600,24328,24786,Wda Świecie,Grom Nowy Staw,4,2,1.0,2.0
+1568750,1787153400,17398,18385,Kluczevia Stargard,Gedania Gdansk,2,2,0.0,2.0
+1568748,1787155200,6938,16257,Elana Toruń,Unia Swarzędz,2,3,2.0,1.0
+1568751,1787155200,24327,16245,Kotwica Kórnik,Bałtyk Koszalin,0,1,0.0,0.0
+1568754,1787158800,6948,6959,Polonia Środa,Stargard Szczeciński,4,1,2.0,0.0
+1568759,1787392800,6934,16246,Chemik Bydgoszcz,Flota Świnoujście,1,1,0.0,1.0
+1568765,1787400000,19723,24327,Victoria Września,Kotwica Kórnik,1,0,0.0,0.0
+1568763,1787407200,21657,6938,Noteć Czarnków,Elana Toruń,3,1,1.0,0.0
+1568762,1787410800,26180,6948,Lipno Stęszew,Polonia Środa,2,3,0.0,1.0
+1568760,1787479200,18385,9133,Gedania Gdansk,Lech Poznań II,2,3,1.0,2.0
+1568758,1787482800,6959,19693,Stargard Szczeciński,Luzino,2,1,0.0,1.0
+1568764,1787482800,16257,24328,Unia Swarzędz,Wda Świecie,0,1,0.0,1.0
+1568761,1787486400,24786,17398,Grom Nowy Staw,Kluczevia Stargard,3,4,1.0,2.0
+1568757,1787493600,16245,12801,Bałtyk Koszalin,Kalisz,1,1,0.0,0.0
+1568768,1787929200,17398,16257,Kluczevia Stargard,Unia Swarzędz,2,0,0.0,0.0
+1568771,1787929200,19693,26180,Luzino,Lipno Stęszew,2,1,1.0,1.0
+1568774,1787929200,24328,21657,Wda Świecie,Noteć Czarnków,2,1,0.0,0.0
+1568769,1787931000,24327,6934,Kotwica Kórnik,Chemik Bydgoszcz,4,1,2.0,0.0
+1568772,1787936400,6948,18385,Polonia Środa,Gedania Gdansk,4,3,0.0,1.0
+1568770,1787997600,9133,24786,Lech Poznań II,Grom Nowy Staw,2,4,2.0,0.0
+1568767,1788012000,12801,6938,Kalisz,Elana Toruń,5,1,2.0,1.0
+1568766,1788012000,16245,19723,Bałtyk Koszalin,Victoria Września,2,0,0.0,0.0
+1568773,1788015600,16246,6959,Flota Świnoujście,Stargard Szczeciński,1,5,0.0,3.0
+1568782,1788535800,16257,9133,Unia Swarzędz,Lech Poznań II,1,1,1.0,1.0
+1568777,1788545280,6938,24328,Elana Toruń,Wda Świecie,1,2,0.0,0.0
+1568778,1788602400,18385,19693,Gedania Gdansk,Luzino,0,4,0.0,1.0
+1568779,1788606000,24786,6948,Grom Nowy Staw,Polonia Środa,4,4,2.0,2.0
+1568775,1788609600,6959,24327,Stargard Szczeciński,Kotwica Kórnik,2,4,2.0,2.0
+1568783,1788613200,19723,12801,Victoria Września,Kalisz,3,3,2.0,2.0
+1568781,1788613200,21657,17398,Noteć Czarnków,Kluczevia Stargard,3,1,1.0,0.0
+1568776,1788620400,6934,16245,Chemik Bydgoszcz,Bałtyk Koszalin,2,2,1.0,1.0
+1568780,1788620400,26180,16246,Lipno Stęszew,Flota Świnoujście,1,3,1.0,1.0
+1568789,1789133400,19693,24786,Luzino,Grom Nowy Staw,5,1,2.0,0.0
+1568790,1789146000,6948,16257,Polonia Środa,Unia Swarzędz,4,3,1.0,1.0
+1568788,1789207200,9133,21657,Lech Poznań II,Noteć Czarnków,2,1,1.0,0.0
+1568792,1789210800,19723,6934,Victoria Września,Chemik Bydgoszcz,2,2,1.0,1.0
+1568786,1789218000,17398,6938,Kluczevia Stargard,Elana Toruń,2,1,1.0,0.0
+1568785,1789221600,12801,24328,Kalisz,Wda Świecie,1,1,0.0,1.0
+1568784,1789221600,16245,6959,Bałtyk Koszalin,Stargard Szczeciński,0,2,0.0,1.0
+1568787,1789221600,24327,26180,Kotwica Kórnik,Lipno Stęszew,4,1,2.0,0.0
+1568791,1789225200,16246,18385,Flota Świnoujście,Gedania Gdansk,1,1,0.0,0.0
+1568794,1789812000,6934,12801,Chemik Bydgoszcz,Kalisz,1,1,0.0,1.0
+1568796,1789812000,18385,24327,Gedania Gdansk,Kotwica Kórnik,6,1,2.0,1.0
+1568801,1789812000,24328,17398,Wda Świecie,Kluczevia Stargard,1,2,0.0,1.0
+1568797,1789812000,24786,16246,Grom Nowy Staw,Flota Świnoujście,5,0,5.0,0.0
+1568800,1789815600,16257,19693,Unia Swarzędz,Luzino,1,3,1.0,0.0
+1568793,1789819200,6959,19723,Stargard Szczeciński,Victoria Września,1,1,0.0,0.0
+1568795,1789822800,6938,9133,Elana Toruń,Lech Poznań II,0,0,0.0,0.0
+1568799,1789822800,21657,6948,Noteć Czarnków,Polonia Środa,0,0,0.0,0.0
+1568798,1789826400,26180,16245,Lipno Stęszew,Bałtyk Koszalin,2,1,1.0,1.0
+1568808,1790416800,6948,6938,Polonia Środa,Elana Toruń,2,2,0.0,1.0
+1568807,1790416800,19693,21657,Luzino,Noteć Czarnków,2,0,0.0,0.0
+1568802,1790427600,16245,18385,Bałtyk Koszalin,Gedania Gdansk,3,1,1.0,1.0
+1568809,1790431200,16246,16257,Flota Świnoujście,Unia Swarzędz,0,2,0.0,1.0
+1568810,1790431200,19723,26180,Victoria Września,Lipno Stęszew,1,1,1.0,0.0
+1568805,1790431200,24327,24786,Kotwica Kórnik,Grom Nowy Staw,1,3,1.0,2.0
+1568803,1790434800,6934,6959,Chemik Bydgoszcz,Stargard Szczeciński,3,3,2.0,3.0
+1568804,1790510400,12801,17398,Kalisz,Kluczevia Stargard,1,0,1.0,0.0
+1568818,1791021600,16257,24327,Unia Swarzędz,Kotwica Kórnik,7,0,2.0,0.0
+1568813,1791021600,18385,19723,Gedania Gdansk,Victoria Września,0,0,0.0,0.0
+1568814,1791023400,24786,16245,Grom Nowy Staw,Bałtyk Koszalin,1,3,0.0,2.0
+1568812,1791025200,6938,19693,Elana Toruń,Luzino,3,1,1.0,0.0
+1568811,1791028800,6959,12801,Stargard Szczeciński,Kalisz,5,0,4.0,0.0
+1568817,1791028800,21657,16246,Noteć Czarnków,Flota Świnoujście,3,0,1.0,0.0
+1568816,1791028800,26180,6934,Lipno Stęszew,Chemik Bydgoszcz,0,1,0.0,0.0
+1568819,1791036000,24328,6948,Wda Świecie,Polonia Środa,0,4,0.0,1.0
+1568827,1791561600,6938,16246,Elana Toruń,Flota Świnoujście,1,0,0.0,0.0
+1568826,1791565200,6948,17398,Polonia Środa,Kluczevia Stargard,2,0,1.0,0.0
+1568825,1791626400,19693,24328,Luzino,Wda Świecie,3,0,1.0,0.0
+1568828,1791626400,19723,24786,Victoria Września,Grom Nowy Staw,1,0,0.0,0.0
+1568821,1791633600,6959,26180,Stargard Szczeciński,Lipno Stęszew,3,4,2.0,2.0
+1568824,1791637200,24327,21657,Kotwica Kórnik,Noteć Czarnków,1,1,1.0,1.0
+1568820,1791639000,16245,16257,Bałtyk Koszalin,Unia Swarzędz,1,1,0.0,0.0
+1568822,1791644400,6934,18385,Chemik Bydgoszcz,Gedania Gdansk,2,3,0.0,1.0
+1568823,1791648000,12801,9133,Kalisz,Lech Poznań II,2,4,0.0,3.0
+1568806,1791972000,9133,24328,Lech Poznań II,Wda Świecie,1,4,0.0,2.0
+1568830,1792231200,18385,6959,Gedania Gdansk,Stargard Szczeciński,2,2,2.0,2.0
+1568831,1792231200,24786,6934,Grom Nowy Staw,Chemik Bydgoszcz,2,0,1.0,0.0
+1568829,1792234800,6938,24327,Elana Toruń,Kotwica Kórnik,3,1,2.0,1.0
+1568836,1792234800,16257,19723,Unia Swarzędz,Victoria Września,0,0,0.0,0.0
+1568832,1792234800,17398,19693,Kluczevia Stargard,Luzino,3,2,2.0,1.0
+1568835,1792234800,21657,16245,Noteć Czarnków,Bałtyk Koszalin,0,3,0.0,1.0
+1568834,1792234800,26180,12801,Lipno Stęszew,Kalisz,1,0,0.0,0.0
+1568833,1792317600,9133,6948,Lech Poznań II,Polonia Środa,2,3,1.0,2.0
+1568837,1792324800,24328,16246,Wda Świecie,Flota Świnoujście,1,0,0.0,0.0
+1568840,1792836000,6934,16257,Chemik Bydgoszcz,Unia Swarzędz,1,3,1.0,1.0
+1568838,1792836000,16245,6938,Bałtyk Koszalin,Elana Toruń,2,3,0.0,1.0
+1568844,1792836000,19693,9133,Luzino,Lech Poznań II,2,4,0.0,3.0
+1568842,1792839600,24327,24328,Kotwica Kórnik,Wda Świecie,0,2,0.0,1.0
+1568843,1792839600,26180,18385,Lipno Stęszew,Gedania Gdansk,1,2,1.0,1.0
+1568839,1792843200,6959,24786,Stargard Szczeciński,Grom Nowy Staw,3,1,2.0,1.0
+1568841,1792843200,12801,6948,Kalisz,Polonia Środa,0,0,0.0,0.0
+1568845,1792843200,17398,16246,Kluczevia Stargard,Flota Świnoujście,2,2,2.0,0.0
+1568846,1792843200,19723,21657,Victoria Września,Noteć Czarnków,0,1,0.0,1.0
+1568851,1793444400,9133,16246,Lech Poznań II,Flota Świnoujście,8,1,3.0,0.0
+1568848,1793444400,18385,12801,Gedania Gdansk,Kalisz,0,0,0.0,0.0
+1568849,1793444400,24786,26180,Grom Nowy Staw,Lipno Stęszew,1,2,0.0,1.0
+1568847,1793448000,6938,19723,Elana Toruń,Victoria Września,0,0,0.0,0.0
+1568854,1793448000,16257,6959,Unia Swarzędz,Stargard Szczeciński,0,0,0.0,0.0
+1568850,1793448000,17398,24327,Kluczevia Stargard,Kotwica Kórnik,1,0,0.0,0.0
+1568852,1793448000,21657,6934,Noteć Czarnków,Chemik Bydgoszcz,1,4,0.0,2.0
+1568855,1793449800,24328,16245,Wda Świecie,Bałtyk Koszalin,1,1,0.0,1.0
+1568853,1793473200,6948,19693,Polonia Środa,Luzino,5,2,3.0,1.0
+1568815,1793790000,17398,9133,Kluczevia Stargard,Lech Poznań II,4,3,1.0,3.0
+1568858,1794049200,6934,6938,Chemik Bydgoszcz,Elana Toruń,2,1,1.0,0.0
+1568856,1794049200,16245,17398,Bałtyk Koszalin,Kluczevia Stargard,0,0,0.0,0.0
+1568859,1794049200,18385,24786,Gedania Gdansk,Grom Nowy Staw,1,2,0.0,1.0
+1568861,1794049200,24327,9133,Kotwica Kórnik,Lech Poznań II,1,4,1.0,1.0
+1568862,1794049200,26180,16257,Lipno Stęszew,Unia Swarzędz,1,2,0.0,0.0
+1568857,1794052800,6959,21657,Stargard Szczeciński,Noteć Czarnków,0,0,0.0,0.0
+1568860,1794052800,12801,19693,Kalisz,Luzino,1,1,1.0,0.0
+1568863,1794052800,16246,6948,Flota Świnoujście,Polonia Środa,1,0,0.0,0.0
+1568864,1794052800,19723,24328,Victoria Września,Wda Świecie,3,3,2.0,0.0

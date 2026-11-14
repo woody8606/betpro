@@ -1,0 +1,64 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1607663,1788544800,15406,4898,London City Lionesses W,Manchester United W,2,1,1,0
+1607664,1788608100,1853,14219,Chelsea W,Aston Villa W,1,1,1,0
+1607665,1788692400,1857,1850,Brighton W,Arsenal W,0,1,0,1
+1607666,1788692400,4899,1856,Tottenham Hotspur W,West Ham W,3,1,2,0
+1607667,1788699600,15402,1847,Charlton Athletic W,Liverpool W,0,4,0,1
+1607668,1788699600,15409,1855,Crystal Palace W,Everton W,1,0,1,0
+1607669,1788701400,1854,1845,Manchester City W,Birmingham City W,3,1,0,0
+1607670,1789213500,1856,15406,West Ham W,London City Lionesses W,2,1,1,0
+1607671,1789297200,4898,1853,Manchester United W,Chelsea W,0,5,0,2
+1607672,1789304400,1845,1857,Birmingham City W,Brighton W,2,2,1,0
+1607674,1789304400,1847,4899,Liverpool W,Tottenham Hotspur W,1,1,0,1
+1607673,1789304400,1855,15402,Everton W,Charlton Athletic W,1,0,0,0
+1607675,1789307100,1850,15409,Arsenal W,Crystal Palace W,0,0,0,0
+1607676,1789320600,14219,1854,Aston Villa W,Manchester City W,1,4,1,2
+1607677,1789754400,1854,1847,Manchester City W,Liverpool W,4,2,2,2
+1607678,1789817400,15402,15406,Charlton Athletic W,London City Lionesses W,1,4,1,3
+1607679,1789818300,1853,1845,Chelsea W,Birmingham City W,2,0,1,0
+1607680,1789835400,1850,4898,Arsenal W,Manchester United W,1,1,0,0
+1607683,1789909200,1856,1855,West Ham W,Everton W,0,1,0,0
+1607681,1789909200,1857,14219,Brighton W,Aston Villa W,1,1,1,0
+1607682,1789909200,15409,4899,Crystal Palace W,Tottenham Hotspur W,0,7,0,0
+1607684,1790425800,15402,1854,Charlton Athletic W,Manchester City W,0,1,0,1
+1607685,1790438400,15406,1857,London City Lionesses W,Brighton W,2,0,1,0
+1607686,1790510400,4898,1856,Manchester United W,West Ham W,2,1,1,0
+1607687,1790514000,1845,15409,Birmingham City W,Crystal Palace W,3,3,2,1
+1607688,1790514000,1847,1855,Liverpool W,Everton W,2,0,1,0
+1607689,1790514000,4899,14219,Tottenham Hotspur W,Aston Villa W,4,0,0,0
+1607690,1790523000,1853,1850,Chelsea W,Arsenal W,1,0,1,0
+1607692,1791030600,4898,1847,Manchester United W,Liverpool W,1,0,1,0
+1607695,1791118800,1855,1845,Everton W,Birmingham City W,2,1,1,1
+1607696,1791118800,1856,1853,West Ham W,Chelsea W,0,3,0,1
+1607694,1791118800,1857,15402,Brighton W,Charlton Athletic W,5,1,2,1
+1607691,1791118800,4899,15406,Tottenham Hotspur W,London City Lionesses W,1,6,0,3
+1607693,1791118800,14219,15409,Aston Villa W,Crystal Palace W,1,1,0,0
+1607697,1791127800,1854,1850,Manchester City W,Arsenal W,4,2,1,1
+1607699,1792237500,1850,1845,Arsenal W,Birmingham City W,1,1,0,0
+1607701,1792321200,1853,4899,Chelsea W,Tottenham Hotspur W,6,2,1,1
+1607702,1792321200,15409,1856,Crystal Palace W,West Ham W,0,1,0,1
+1607698,1792328400,14219,1847,Aston Villa W,Liverpool W,2,1,0,1
+1607700,1792328400,15402,4898,Charlton Athletic W,Manchester United W,1,3,1,3
+1607703,1792328400,15406,1855,London City Lionesses W,Everton W,2,1,2,0
+1607704,1792330200,1854,1857,Manchester City W,Brighton W,3,2,3,2
+1607711,1792842300,4899,1850,Tottenham Hotspur W,Arsenal W,1,2,1,1
+1607707,1792858500,1857,1856,Brighton W,West Ham W,3,0,1,0
+1607708,1792929600,15409,1853,Crystal Palace W,Chelsea W,1,3,1,0
+1607706,1792936800,1845,15402,Birmingham City W,Charlton Athletic W,1,0,0,0
+1607710,1792936800,1847,15406,Liverpool W,London City Lionesses W,2,2,1,2
+1607709,1792936800,1855,14219,Everton W,Aston Villa W,2,3,0,2
+1607705,1792951200,4898,1854,Manchester United W,Manchester City W,1,1,0,0
+1607712,1793450700,1855,4898,Everton W,Manchester United W,0,0,0,0
+1607713,1793534400,1850,14219,Arsenal W,Aston Villa W,1,1,0,1
+1607717,1793534400,15406,1854,London City Lionesses W,Manchester City W,1,2,0,0
+1607714,1793541600,1845,4899,Birmingham City W,Tottenham Hotspur W,1,4,0,1
+1607718,1793541600,1856,1847,West Ham W,Liverpool W,4,1,3,0
+1607715,1793541600,1857,15409,Brighton W,Crystal Palace W,2,1,0,1
+1607716,1793543400,15402,1853,Charlton Athletic W,Chelsea W,0,6,0,4
+1607722,1794055500,1853,1855,Chelsea W,Everton W,1,1,1,1
+1607723,1794055500,1854,1856,Manchester City W,West Ham W,5,0,1,0
+1607719,1794139200,1847,1850,Liverpool W,Arsenal W,1,2,1,2
+1607721,1794139200,14219,4898,Aston Villa W,Manchester United W,0,1,0,0
+1607725,1794146400,4899,1857,Tottenham Hotspur W,Brighton W,2,1,0,1
+1607724,1794146400,15409,15402,Crystal Palace W,Charlton Athletic W,3,2,0,0
+1607720,1794148200,15406,1845,London City Lionesses W,Birmingham City W,4,1,2,0

@@ -1,0 +1,463 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1499261,1771023600,8386,2427,Ituzaingó,Deportivo Armenio,0,1,0,1
+1499260,1771099200,471,468,Flandria,Brown DE Adrogue,3,1,3,0
+1499258,1771099200,3943,481,Deportivo Camioneros,Villa Dalmine,0,2,0,0
+1499264,1771099200,8380,8395,Villa San Carlos,Liniers,0,1,0,0
+1499262,1771099200,8387,2422,San Martín Burzaco,Real Pilar,1,2,0,1
+1499256,1771185600,1945,1927,Defensores Unidos,Talleres Remedios,0,0,0,0
+1499259,1771185600,2429,459,Dock Sud,Arsenal Sarandi,1,1,1,0
+1499254,1771185600,8376,1924,Argentino Quilmes,Deportivo Laferrere,1,1,0,1
+1499263,1771194600,8388,1956,Sportivo Italiano,UAI Urquiza,0,0,0,0
+1499257,1771196400,8383,8385,Deportivo Merlo,Excursionistas,1,2,1,1
+1499255,1771272000,8008,2430,Comunicaciones,Argentino de Merlo,1,0,1,0
+1499268,1771628400,8385,2429,Excursionistas,Dock Sud,1,0,0,0
+1499266,1771704000,459,8008,Arsenal Sarandi,Comunicaciones,2,0,0,0
+1499269,1771704000,1924,471,Deportivo Laferrere,Flandria,3,2,3,1
+1499265,1771704000,2430,1945,Argentino de Merlo,Defensores Unidos,1,0,0,0
+1499271,1771714800,2422,8388,Real Pilar,Sportivo Italiano,1,2,0,1
+1499274,1771790400,481,8383,Villa Dalmine,Deportivo Merlo,0,1,0,1
+1499272,1771790400,1927,8376,Talleres Remedios,Argentino Quilmes,1,0,0,0
+1499275,1771790400,8380,8386,Villa San Carlos,Ituzaingó,3,1,2,1
+1499270,1771790400,8395,8387,Liniers,San Martín Burzaco,0,0,0,0
+1499267,1771801200,468,2427,Brown DE Adrogue,Deportivo Armenio,0,0,0,0
+1499273,1771876800,1956,3943,UAI Urquiza,Deportivo Camioneros,0,0,0,0
+1499278,1772222400,1945,459,Defensores Unidos,Arsenal Sarandi,1,1,1,1
+1499282,1772222400,2429,481,Dock Sud,Villa Dalmine,0,1,0,0
+1499276,1772222400,8376,2430,Argentino Quilmes,Argentino de Merlo,0,1,0,0
+1499286,1772222400,8388,8395,Sportivo Italiano,Liniers,2,1,1,0
+1499279,1772235000,8383,1956,Deportivo Merlo,UAI Urquiza,0,0,0,0
+1499284,1772235000,8386,468,Ituzaingó,Brown DE Adrogue,1,1,0,0
+1499285,1772235000,8387,8380,San Martín Burzaco,Villa San Carlos,3,3,0,0
+1499283,1772308800,471,1927,Flandria,Talleres Remedios,1,0,1,0
+1499280,1772308800,2427,1924,Deportivo Armenio,Deportivo Laferrere,1,2,1,0
+1499281,1772308800,3943,2422,Deportivo Camioneros,Real Pilar,0,1,0,0
+1499277,1772308800,8008,8385,Comunicaciones,Excursionistas,1,1,1,0
+1499290,1772568000,1924,468,Deportivo Laferrere,Brown DE Adrogue,0,1,0,1
+1499297,1772568000,8380,8388,Villa San Carlos,Sportivo Italiano,0,1,0,0
+1499294,1772580600,1927,2427,Talleres Remedios,Deportivo Armenio,2,1,1,1
+1499287,1772580600,2430,471,Argentino de Merlo,Flandria,2,0,1,0
+1499293,1772580600,8387,8386,San Martín Burzaco,Ituzaingó,3,0,2,0
+1499288,1772654400,459,8376,Arsenal Sarandi,Argentino Quilmes,0,1,0,1
+1499296,1772654400,481,8008,Villa Dalmine,Comunicaciones,0,0,0,0
+1499295,1772654400,1956,2429,UAI Urquiza,Dock Sud,0,0,0,0
+1499291,1772654400,8395,3943,Liniers,Deportivo Camioneros,0,2,0,1
+1499292,1772667000,2422,8383,Real Pilar,Deportivo Merlo,1,3,1,1
+1499289,1772667000,8385,1945,Excursionistas,Defensores Unidos,1,0,1,0
+1499310,1773507600,459,2427,Arsenal Sarandi,Deportivo Armenio,2,1,0,1
+1499309,1773507600,2430,468,Argentino de Merlo,Brown DE Adrogue,0,0,0,0
+1499319,1773507600,8380,8383,Villa San Carlos,Deportivo Merlo,1,1,1,0
+1499311,1773514800,8385,471,Excursionistas,Flandria,2,0,0,0
+1499318,1773594000,481,8376,Villa Dalmine,Argentino Quilmes,1,1,1,0
+1499316,1773594000,1927,1924,Talleres Remedios,Deportivo Laferrere,2,0,1,0
+1499317,1773594000,1956,1945,UAI Urquiza,Defensores Unidos,2,2,2,1
+1499315,1773594000,8388,8386,Sportivo Italiano,Ituzaingó,0,0,0,0
+1499312,1773594000,8395,2429,Liniers,Dock Sud,3,2,1,2
+1499314,1773608400,8387,3943,San Martín Burzaco,Deportivo Camioneros,0,0,0,0
+1499313,1773615600,2422,8008,Real Pilar,Comunicaciones,2,0,1,0
+1499329,1774049400,8386,1927,Ituzaingó,Talleres Remedios,0,0,0,0
+1499321,1774112400,468,459,Brown DE Adrogue,Arsenal Sarandi,0,4,0,1
+1499328,1774112400,471,481,Flandria,Villa Dalmine,0,1,0,0
+1499323,1774112400,1945,2422,Defensores Unidos,Real Pilar,1,2,1,0
+1499325,1774116000,2427,8385,Deportivo Armenio,Excursionistas,0,2,0,1
+1499324,1774126800,8383,8387,Deportivo Merlo,San Martín Burzaco,0,4,0,2
+1499330,1774198800,1924,2430,Deportivo Laferrere,Argentino de Merlo,1,3,1,1
+1499326,1774198800,3943,8388,Deportivo Camioneros,Sportivo Italiano,2,1,1,0
+1499320,1774198800,8376,1956,Argentino Quilmes,UAI Urquiza,1,1,0,0
+1499327,1774290600,2429,8380,Dock Sud,Villa San Carlos,2,0,1,0
+1499322,1774306800,8008,8395,Comunicaciones,Liniers,2,0,0,0
+1499332,1774717200,459,1924,Arsenal Sarandi,Deportivo Laferrere,3,0,3,0
+1499339,1774717200,1956,471,UAI Urquiza,Flandria,2,0,1,0
+1499333,1774717200,3943,8386,Deportivo Camioneros,Ituzaingó,2,1,0,1
+1499341,1774717200,8380,8008,Villa San Carlos,Comunicaciones,0,1,0,0
+1499340,1774724400,481,2427,Villa Dalmine,Deportivo Armenio,2,0,1,0
+1499334,1774738800,8385,468,Excursionistas,Brown DE Adrogue,1,0,0,0
+1499338,1774803600,8388,8383,Sportivo Italiano,Deportivo Merlo,2,1,1,1
+1499335,1774803600,8395,1945,Liniers,Defensores Unidos,1,1,1,0
+1499336,1774810800,2422,8376,Real Pilar,Argentino Quilmes,3,2,0,1
+1499331,1774810800,2430,1927,Argentino de Merlo,Talleres Remedios,0,1,0,0
+1499337,1774810800,8387,2429,San Martín Burzaco,Dock Sud,1,1,0,1
+1499343,1775239200,468,481,Brown DE Adrogue,Villa Dalmine,1,4,0,3
+1499350,1775253600,8386,2430,Ituzaingó,Argentino de Merlo,0,1,0,1
+1499352,1775322000,1927,459,Talleres Remedios,Arsenal Sarandi,0,1,0,1
+1499345,1775322000,1945,8380,Defensores Unidos,Villa San Carlos,2,0,1,0
+1499349,1775325600,471,2422,Flandria,Real Pilar,1,3,1,1
+1499351,1775327400,1924,8385,Deportivo Laferrere,Excursionistas,1,0,1,0
+1499347,1775327400,2427,1956,Deportivo Armenio,UAI Urquiza,2,1,1,0
+1499342,1775329200,8376,8395,Argentino Quilmes,Liniers,1,2,1,0
+1499348,1775413800,2429,8388,Dock Sud,Sportivo Italiano,1,3,0,2
+1499344,1775413800,8008,8387,Comunicaciones,San Martín Burzaco,0,1,0,0
+1499346,1775422800,8383,3943,Deportivo Merlo,Deportivo Camioneros,1,1,0,1
+1499353,1775845800,459,2430,Arsenal Sarandi,Argentino de Merlo,3,0,2,0
+1499361,1775845800,1956,468,UAI Urquiza,Brown DE Adrogue,0,1,0,0
+1499357,1775845800,8395,471,Liniers,Flandria,0,1,0,0
+1499356,1775862000,8385,1927,Excursionistas,Talleres Remedios,1,1,1,0
+1499362,1775932200,481,1924,Villa Dalmine,Deportivo Laferrere,2,2,1,2
+1499358,1775932200,2422,2427,Real Pilar,Deportivo Armenio,0,1,0,0
+1499363,1775932200,8380,8376,Villa San Carlos,Argentino Quilmes,1,1,0,0
+1499359,1775932200,8387,1945,San Martín Burzaco,Defensores Unidos,1,1,1,0
+1499360,1775932200,8388,8008,Sportivo Italiano,Comunicaciones,1,1,0,1
+1499354,1775941200,8383,8386,Deportivo Merlo,Ituzaingó,3,2,0,1
+1499355,1776016800,3943,2429,Deportivo Camioneros,Dock Sud,0,0,0,0
+1499371,1776191400,471,8380,Flandria,Villa San Carlos,1,4,0,0
+1499374,1776191400,1927,481,Talleres Remedios,Villa Dalmine,0,2,0,1
+1499368,1776191400,1945,8388,Defensores Unidos,Sportivo Italiano,2,0,0,0
+1499364,1776191400,2430,8385,Argentino de Merlo,Excursionistas,1,1,1,1
+1499372,1776191400,8386,459,Ituzaingó,Arsenal Sarandi,0,0,0,0
+1499366,1776207600,468,2422,Brown DE Adrogue,Real Pilar,1,1,0,1
+1499373,1776207600,1924,1956,Deportivo Laferrere,UAI Urquiza,0,0,0,0
+1499369,1776277800,2427,8395,Deportivo Armenio,Liniers,1,0,1,0
+1499365,1776294000,8376,8387,Argentino Quilmes,San Martín Burzaco,3,0,1,0
+1499370,1776364200,2429,8383,Dock Sud,Deportivo Merlo,1,1,1,0
+1499367,1776364200,8008,3943,Comunicaciones,Deportivo Camioneros,1,2,1,1
+1499378,1776466800,8385,459,Excursionistas,Arsenal Sarandi,0,1,0,1
+1499383,1776537000,1956,1927,UAI Urquiza,Talleres Remedios,0,2,0,2
+1499382,1776537000,8388,8376,Sportivo Italiano,Argentino Quilmes,2,1,1,0
+1499380,1776546000,2422,1924,Real Pilar,Deportivo Laferrere,1,0,1,0
+1499381,1776553200,8387,471,San Martín Burzaco,Flandria,0,1,0,0
+1499379,1776618000,8395,468,Liniers,Brown DE Adrogue,1,0,1,0
+1499384,1776621600,481,2430,Villa Dalmine,Argentino de Merlo,1,0,1,0
+1499377,1776621600,2429,8386,Dock Sud,Ituzaingó,3,0,0,0
+1499385,1776621600,8380,2427,Villa San Carlos,Deportivo Armenio,4,1,1,1
+1499376,1776709800,3943,1945,Deportivo Camioneros,Defensores Unidos,1,0,0,0
+1499375,1776808800,8383,8008,Deportivo Merlo,Comunicaciones,2,0,0,0
+1499389,1777140000,468,8380,Brown DE Adrogue,Villa San Carlos,2,1,1,0
+1499393,1777141800,471,8388,Flandria,Sportivo Italiano,0,0,0,0
+1499391,1777141800,1945,8383,Defensores Unidos,Deportivo Merlo,1,1,1,1
+1499386,1777141800,2430,1956,Argentino de Merlo,UAI Urquiza,0,2,0,0
+1499387,1777141800,8376,3943,Argentino Quilmes,Deportivo Camioneros,0,0,0,0
+1499394,1777141800,8386,8385,Ituzaingó,Excursionistas,1,3,1,2
+1499392,1777219200,2427,8387,Deportivo Armenio,San Martín Burzaco,1,1,1,1
+1499388,1777228200,459,481,Arsenal Sarandi,Villa Dalmine,1,1,1,1
+1499395,1777228200,1924,8395,Deportivo Laferrere,Liniers,0,0,0,0
+1499396,1777228200,1927,2422,Talleres Remedios,Real Pilar,0,0,0,0
+1499390,1777228200,8008,2429,Comunicaciones,Dock Sud,2,0,1,0
+1499406,1777746600,481,8385,Villa Dalmine,Excursionistas,1,0,0,0
+1499405,1777746600,1956,459,UAI Urquiza,Arsenal Sarandi,0,1,0,0
+1499402,1777746600,2422,2430,Real Pilar,Argentino de Merlo,1,1,0,1
+1499400,1777746600,2429,1945,Dock Sud,Defensores Unidos,2,0,1,0
+1499399,1777746600,3943,471,Deportivo Camioneros,Flandria,0,0,0,0
+1499407,1777746600,8380,1924,Villa San Carlos,Deportivo Laferrere,0,2,0,1
+1499404,1777746600,8388,2427,Sportivo Italiano,Deportivo Armenio,1,0,1,0
+1499403,1777755600,8387,468,San Martín Burzaco,Brown DE Adrogue,0,0,0,0
+1499398,1777762800,8383,8376,Deportivo Merlo,Argentino Quilmes,1,0,0,0
+1499401,1777833000,8395,1927,Liniers,Talleres Remedios,0,1,0,1
+1499397,1777935600,8008,8386,Comunicaciones,Ituzaingó,3,2,2,1
+1499414,1778281200,8385,1956,Excursionistas,UAI Urquiza,0,0,0,0
+1499411,1778349600,468,8388,Brown DE Adrogue,Sportivo Italiano,0,0,0,0
+1499415,1778351400,471,8383,Flandria,Deportivo Merlo,2,0,1,0
+1499417,1778351400,1924,8387,Deportivo Laferrere,San Martín Burzaco,0,2,0,2
+1499418,1778351400,1927,8380,Talleres Remedios,Villa San Carlos,1,0,0,0
+1499412,1778351400,1945,8008,Defensores Unidos,Comunicaciones,1,1,0,1
+1499413,1778351400,2427,3943,Deportivo Armenio,Deportivo Camioneros,1,3,1,2
+1499408,1778351400,2430,8395,Argentino de Merlo,Liniers,0,1,0,0
+1499416,1778360400,8386,481,Ituzaingó,Villa Dalmine,0,2,0,1
+1499410,1778437800,459,2422,Arsenal Sarandi,Real Pilar,2,1,0,1
+1499409,1778437800,8376,2429,Argentino Quilmes,Dock Sud,0,2,0,0
+1499422,1778954400,3943,468,Deportivo Camioneros,Brown DE Adrogue,1,0,0,0
+1499420,1778956200,1945,8386,Defensores Unidos,Ituzaingó,2,1,1,1
+1499428,1778956200,1956,481,UAI Urquiza,Villa Dalmine,0,0,0,0
+1499425,1778956200,2422,8385,Real Pilar,Excursionistas,0,1,0,0
+1499423,1778956200,2429,471,Dock Sud,Flandria,0,0,0,0
+1499429,1778956200,8380,2430,Villa San Carlos,Argentino de Merlo,0,0,0,0
+1499426,1778956200,8387,1927,San Martín Burzaco,Talleres Remedios,0,2,0,1
+1499424,1778956200,8395,459,Liniers,Arsenal Sarandi,0,0,0,0
+1499421,1778968800,8383,2427,Deportivo Merlo,Deportivo Armenio,3,2,2,0
+1499419,1779042600,8008,8376,Comunicaciones,Argentino Quilmes,0,0,0,0
+1499427,1779129000,8388,1924,Sportivo Italiano,Deportivo Laferrere,1,1,1,0
+1499432,1779474600,459,8380,Arsenal Sarandi,Villa San Carlos,2,2,0,1
+1499433,1779487200,468,8383,Brown DE Adrogue,Deportivo Merlo,0,1,0,0
+1499437,1779489000,8386,1956,Ituzaingó,UAI Urquiza,1,1,1,0
+1499438,1779490800,1924,3943,Deportivo Laferrere,Deportivo Camioneros,0,2,0,1
+1499435,1779490800,8385,8395,Excursionistas,Liniers,4,1,1,0
+1499436,1779561000,471,8008,Flandria,Comunicaciones,1,2,0,0
+1499440,1779561000,481,2422,Villa Dalmine,Real Pilar,1,1,0,1
+1499439,1779561000,1927,8388,Talleres Remedios,Sportivo Italiano,0,1,0,0
+1499434,1779561000,2427,2429,Deportivo Armenio,Dock Sud,1,1,1,1
+1499430,1779561000,2430,8387,Argentino de Merlo,San Martín Burzaco,0,1,0,1
+1499431,1779561000,8376,1945,Argentino Quilmes,Defensores Unidos,1,0,0,0
+1499306,1779820200,471,459,Flandria,Arsenal Sarandi,0,0,0,0
+1499303,1779820200,2427,2430,Deportivo Armenio,Argentino de Merlo,2,0,0,0
+1499305,1779820200,2429,2422,Dock Sud,Real Pilar,2,0,1,0
+1499304,1779820200,3943,8380,Deportivo Camioneros,Villa San Carlos,3,0,1,0
+1499299,1779832800,468,1927,Brown DE Adrogue,Talleres Remedios,1,2,0,1
+1499300,1779832800,8008,1956,Comunicaciones,UAI Urquiza,3,0,1,0
+1499302,1779832800,8383,8395,Deportivo Merlo,Liniers,0,0,0,0
+1499307,1779834600,8386,1924,Ituzaingó,Deportivo Laferrere,0,2,0,1
+1499301,1779906600,1945,481,Defensores Unidos,Villa Dalmine,2,1,0,1
+1499298,1779906600,8376,8385,Argentino Quilmes,Excursionistas,2,2,1,1
+1499308,1779906600,8388,8387,Sportivo Italiano,San Martín Burzaco,1,2,0,0
+1499446,1780162200,2429,468,Dock Sud,Brown DE Adrogue,0,1,0,1
+1499442,1780162200,8008,2427,Comunicaciones,Deportivo Armenio,0,1,0,0
+1499448,1780165800,2422,1956,Real Pilar,UAI Urquiza,2,1,1,0
+1499447,1780241400,8395,481,Liniers,Villa Dalmine,1,0,0,0
+1499445,1780248600,3943,1927,Deportivo Camioneros,Talleres Remedios,1,4,0,1
+1499450,1780248600,8388,2430,Sportivo Italiano,Argentino de Merlo,0,2,0,1
+1499443,1780252200,1945,471,Defensores Unidos,Flandria,1,0,0,0
+1499451,1780252200,8380,8385,Villa San Carlos,Excursionistas,0,2,0,0
+1499449,1780264800,8387,459,San Martín Burzaco,Arsenal Sarandi,2,0,1,0
+1499441,1780338600,8376,8386,Argentino Quilmes,Ituzaingó,2,0,0,0
+1499444,1780437600,8383,1924,Deportivo Merlo,Deportivo Laferrere,2,1,0,1
+1499458,1780693200,8386,2422,Ituzaingó,Real Pilar,2,0,0,0
+1499460,1780700400,1927,8383,Talleres Remedios,Deportivo Merlo,2,0,1,0
+1499453,1780767000,459,8388,Arsenal Sarandi,Sportivo Italiano,1,3,0,2
+1499454,1780768800,468,8008,Brown DE Adrogue,Comunicaciones,1,2,0,0
+1499457,1780770600,471,8376,Flandria,Argentino Quilmes,0,1,0,0
+1499462,1780770600,481,8380,Villa Dalmine,Villa San Carlos,0,0,0,0
+1499455,1780770600,2427,1945,Deportivo Armenio,Defensores Unidos,3,0,1,0
+1499452,1780770600,2430,3943,Argentino de Merlo,Deportivo Camioneros,0,0,0,0
+1499456,1780770600,8385,8387,Excursionistas,San Martín Burzaco,2,0,1,0
+1499459,1780853400,1924,2429,Deportivo Laferrere,Dock Sud,2,1,2,1
+1499461,1780943400,1956,8395,UAI Urquiza,Liniers,2,1,1,1
+1499471,1781305200,8387,481,San Martín Burzaco,Villa Dalmine,0,2,0,1
+1499473,1781371800,8380,1956,Villa San Carlos,UAI Urquiza,0,0,0,0
+1499469,1781375400,471,8386,Flandria,Ituzaingó,3,2,1,0
+1499465,1781375400,1945,468,Defensores Unidos,Brown DE Adrogue,1,1,0,0
+1499468,1781375400,2429,1927,Dock Sud,Talleres Remedios,1,1,1,1
+1499467,1781375400,3943,459,Deportivo Camioneros,Arsenal Sarandi,1,2,0,2
+1499464,1781375400,8008,1924,Comunicaciones,Deportivo Laferrere,3,3,1,2
+1499472,1781375400,8388,8385,Sportivo Italiano,Excursionistas,0,1,0,0
+1499463,1781456400,8376,2427,Argentino Quilmes,Deportivo Armenio,1,1,1,0
+1499470,1781461800,8395,2422,Liniers,Real Pilar,0,1,0,1
+1499466,1781474400,8383,2430,Deportivo Merlo,Argentino de Merlo,2,2,0,2
+1499479,1781906400,8386,8395,Ituzaingó,Liniers,1,1,1,1
+1499480,1781976600,1924,1945,Deportivo Laferrere,Defensores Unidos,1,0,0,0
+1499483,1781976600,1956,8387,UAI Urquiza,San Martín Burzaco,0,0,0,0
+1499476,1781978400,468,8376,Brown DE Adrogue,Argentino Quilmes,2,4,0,2
+1499484,1781980200,481,8388,Villa Dalmine,Sportivo Italiano,2,1,0,1
+1499481,1781980200,2422,8380,Real Pilar,Villa San Carlos,1,1,1,0
+1499477,1781980200,2427,471,Deportivo Armenio,Flandria,2,1,1,0
+1499478,1781980200,8385,3943,Excursionistas,Deportivo Camioneros,1,1,0,0
+1499475,1782063000,459,8383,Arsenal Sarandi,Deportivo Merlo,4,2,3,1
+1499482,1782063000,1927,8008,Talleres Remedios,Comunicaciones,0,0,0,0
+1499474,1782063000,2430,2429,Argentino de Merlo,Dock Sud,3,1,0,0
+1499495,1782576000,481,3943,Villa Dalmine,Deportivo Camioneros,0,1,0,1
+1499492,1782576000,2422,8387,Real Pilar,San Martín Burzaco,0,0,0,0
+1499487,1782583200,468,471,Brown DE Adrogue,Flandria,2,0,0,0
+1499493,1782583200,1927,1945,Talleres Remedios,Defensores Unidos,1,0,1,0
+1499489,1782583200,8385,8383,Excursionistas,Deportivo Merlo,5,0,3,0
+1499488,1782585000,2427,8386,Deportivo Armenio,Ituzaingó,2,1,0,1
+1499490,1782662400,1924,8376,Deportivo Laferrere,Argentino Quilmes,1,1,0,1
+1499494,1782662400,1956,8388,UAI Urquiza,Sportivo Italiano,0,0,0,0
+1499491,1782662400,8395,8380,Liniers,Villa San Carlos,1,1,1,0
+1499486,1782669600,459,2429,Arsenal Sarandi,Dock Sud,0,0,0,0
+1499485,1782669600,2430,8008,Argentino de Merlo,Comunicaciones,3,2,3,0
+1499501,1783180800,3943,1956,Deportivo Camioneros,UAI Urquiza,4,0,2,0
+1499504,1783186200,8386,8380,Ituzaingó,Villa San Carlos,1,3,1,1
+1499503,1783188000,471,1924,Flandria,Deportivo Laferrere,1,2,1,1
+1499502,1783188000,2429,8385,Dock Sud,Excursionistas,3,1,2,0
+1499497,1783188000,8008,459,Comunicaciones,Arsenal Sarandi,1,2,1,1
+1499499,1783188000,8383,481,Deportivo Merlo,Villa Dalmine,1,2,1,1
+1499500,1783189800,2427,468,Deportivo Armenio,Brown DE Adrogue,0,0,0,0
+1499496,1783267200,8376,1927,Argentino Quilmes,Talleres Remedios,0,3,0,1
+1499506,1783267200,8388,2422,Sportivo Italiano,Real Pilar,1,1,1,0
+1499498,1783274400,1945,2430,Defensores Unidos,Argentino de Merlo,1,1,1,0
+1499505,1783274400,8387,8395,San Martín Burzaco,Liniers,1,1,1,0
+1499513,1783699200,2422,3943,Real Pilar,Deportivo Camioneros,2,1,2,1
+1499517,1783699200,8380,8387,Villa San Carlos,San Martín Burzaco,0,0,0,0
+1499508,1783702800,459,1945,Arsenal Sarandi,Defensores Unidos,3,1,2,1
+1499511,1783702800,1924,2427,Deportivo Laferrere,Deportivo Armenio,1,1,1,1
+1499509,1783706400,468,8386,Brown DE Adrogue,Ituzaingó,0,0,0,0
+1499516,1783706400,481,2429,Villa Dalmine,Dock Sud,2,1,1,1
+1499514,1783706400,1927,471,Talleres Remedios,Flandria,1,1,0,1
+1499515,1783706400,1956,8383,UAI Urquiza,Deportivo Merlo,0,0,0,0
+1499507,1783706400,2430,8376,Argentino de Merlo,Argentino Quilmes,3,0,1,0
+1499510,1783706400,8385,8008,Excursionistas,Comunicaciones,1,2,1,1
+1499512,1783706400,8395,8388,Liniers,Sportivo Italiano,0,1,0,1
+1499526,1784052000,471,2430,Flandria,Argentino de Merlo,1,0,0,0
+1499521,1784052000,1945,8385,Defensores Unidos,Excursionistas,0,2,0,0
+1499525,1784052000,2429,1956,Dock Sud,UAI Urquiza,0,0,0,0
+1499524,1784052000,3943,8395,Deportivo Camioneros,Liniers,1,0,0,0
+1499518,1784052000,8376,459,Argentino Quilmes,Arsenal Sarandi,1,0,1,0
+1499528,1784052000,8388,8380,Sportivo Italiano,Villa San Carlos,1,0,0,0
+1499523,1784053800,2427,1927,Deportivo Armenio,Talleres Remedios,2,1,0,0
+1499519,1784066400,468,1924,Brown DE Adrogue,Deportivo Laferrere,0,1,0,1
+1499520,1784066400,8008,481,Comunicaciones,Villa Dalmine,0,0,0,0
+1499522,1784066400,8383,2422,Deportivo Merlo,Real Pilar,3,2,2,1
+1499527,1784066400,8386,8387,Ituzaingó,San Martín Burzaco,1,2,0,1
+1499539,1784390400,8380,3943,Villa San Carlos,Deportivo Camioneros,0,2,0,1
+1499530,1784397600,459,471,Arsenal Sarandi,Flandria,1,0,1,0
+1499538,1784397600,481,1945,Villa Dalmine,Defensores Unidos,0,0,0,0
+1499532,1784397600,1924,8386,Deportivo Laferrere,Ituzaingó,2,0,1,0
+1499536,1784397600,1927,468,Talleres Remedios,Brown DE Adrogue,1,0,0,0
+1499537,1784397600,1956,8008,UAI Urquiza,Comunicaciones,0,2,0,1
+1499534,1784397600,2422,2429,Real Pilar,Dock Sud,0,1,0,0
+1499529,1784397600,2430,2427,Argentino de Merlo,Deportivo Armenio,2,2,0,2
+1499531,1784397600,8385,8376,Excursionistas,Argentino Quilmes,0,0,0,0
+1499535,1784397600,8387,8388,San Martín Burzaco,Sportivo Italiano,1,2,1,1
+1499533,1784397600,8395,8383,Liniers,Deportivo Merlo,1,1,1,1
+1499547,1784995200,2429,8395,Dock Sud,Liniers,1,1,0,1
+1499549,1784998800,8386,8388,Ituzaingó,Sportivo Italiano,0,0,0,0
+1499541,1785002400,468,2430,Brown DE Adrogue,Argentino de Merlo,1,0,1,0
+1499548,1785002400,471,8385,Flandria,Excursionistas,1,1,1,0
+1499543,1785002400,1945,1956,Defensores Unidos,UAI Urquiza,1,1,1,0
+1499546,1785002400,3943,8387,Deportivo Camioneros,San Martín Burzaco,2,0,1,0
+1499542,1785002400,8008,2422,Comunicaciones,Real Pilar,1,2,1,1
+1499540,1785002400,8376,481,Argentino Quilmes,Villa Dalmine,0,0,0,0
+1499545,1785004200,2427,459,Deportivo Armenio,Arsenal Sarandi,0,0,0,0
+1499544,1785016800,8383,8380,Deportivo Merlo,Villa San Carlos,1,2,1,1
+1499550,1785088800,1924,1927,Deportivo Laferrere,Talleres Remedios,0,2,0,0
+1499552,1785520800,459,468,Arsenal Sarandi,Brown DE Adrogue,1,1,1,0
+1499553,1785538800,8385,2427,Excursionistas,Deportivo Armenio,2,1,0,1
+1499560,1785607200,481,471,Villa Dalmine,Flandria,2,1,1,1
+1499558,1785607200,1927,8386,Talleres Remedios,Ituzaingó,0,0,0,0
+1499559,1785607200,1956,8376,UAI Urquiza,Argentino Quilmes,0,0,0,0
+1499555,1785607200,2422,1945,Real Pilar,Defensores Unidos,2,1,1,0
+1499551,1785607200,2430,1924,Argentino de Merlo,Deportivo Laferrere,1,3,1,2
+1499557,1785607200,8388,3943,Sportivo Italiano,Deportivo Camioneros,1,1,0,0
+1499554,1785607200,8395,8008,Liniers,Comunicaciones,0,0,0,0
+1499561,1785693600,8380,2429,Villa San Carlos,Dock Sud,1,1,1,1
+1499556,1785693600,8387,8383,San Martín Burzaco,Deportivo Merlo,1,1,1,1
+1499564,1786140000,8008,8380,Comunicaciones,Villa San Carlos,0,1,0,0
+1499570,1786140000,8386,3943,Ituzaingó,Deportivo Camioneros,0,1,0,0
+1499563,1786212000,468,8385,Brown DE Adrogue,Excursionistas,1,0,0,0
+1499569,1786212000,471,1956,Flandria,UAI Urquiza,1,1,0,1
+1499572,1786212000,1927,2430,Talleres Remedios,Argentino de Merlo,1,2,0,1
+1499565,1786212000,1945,8395,Defensores Unidos,Liniers,2,3,1,0
+1499562,1786212000,8376,2422,Argentino Quilmes,Real Pilar,0,0,0,0
+1499567,1786213800,2427,481,Deportivo Armenio,Villa Dalmine,1,0,0,0
+1499566,1786230000,8383,8388,Deportivo Merlo,Sportivo Italiano,0,4,0,3
+1499571,1786298400,1924,459,Deportivo Laferrere,Arsenal Sarandi,1,1,0,0
+1499568,1786298400,2429,8387,Dock Sud,San Martín Burzaco,4,1,1,1
+1499575,1786809600,3943,8383,Deportivo Camioneros,Deportivo Merlo,0,0,0,0
+1499574,1786816800,459,1927,Arsenal Sarandi,Talleres Remedios,0,1,0,0
+1499582,1786816800,481,468,Villa Dalmine,Brown DE Adrogue,1,0,1,0
+1499578,1786816800,2422,471,Real Pilar,Flandria,0,0,0,0
+1499573,1786816800,2430,8386,Argentino de Merlo,Ituzaingó,1,1,1,1
+1499576,1786816800,8385,1924,Excursionistas,Deportivo Laferrere,5,3,2,0
+1499579,1786816800,8387,8008,San Martín Burzaco,Comunicaciones,0,0,0,0
+1499580,1786816800,8388,2429,Sportivo Italiano,Dock Sud,4,0,2,0
+1499581,1786903200,1956,2427,UAI Urquiza,Deportivo Armenio,0,1,0,1
+1499583,1786903200,8380,1945,Villa San Carlos,Defensores Unidos,1,0,1,0
+1499577,1786903200,8395,8376,Liniers,Argentino Quilmes,0,1,0,0
+1499587,1787337000,8008,8388,Comunicaciones,Sportivo Italiano,1,0,1,0
+1499586,1787349600,468,1956,Brown DE Adrogue,UAI Urquiza,1,1,0,0
+1499593,1787349600,1924,481,Deportivo Laferrere,Villa Dalmine,0,2,0,2
+1499591,1787421600,471,8395,Flandria,Liniers,1,0,0,0
+1499594,1787421600,1927,8385,Talleres Remedios,Excursionistas,1,2,1,0
+1499588,1787421600,1945,8387,Defensores Unidos,San Martín Burzaco,2,0,2,0
+1499584,1787421600,2430,459,Argentino de Merlo,Arsenal Sarandi,0,0,0,0
+1499592,1787421600,8386,8383,Ituzaingó,Deportivo Merlo,0,0,0,0
+1499589,1787423400,2427,2422,Deportivo Armenio,Real Pilar,0,1,0,1
+1499585,1787436000,8376,8380,Argentino Quilmes,Villa San Carlos,0,2,0,0
+1499590,1787508000,2429,3943,Dock Sud,Deportivo Camioneros,2,2,0,2
+1499595,1787680800,459,8386,Arsenal Sarandi,Ituzaingó,2,0,1,0
+1499604,1787680800,481,1927,Villa Dalmine,Talleres Remedios,0,0,0,0
+1499603,1787680800,1956,1924,UAI Urquiza,Deportivo Laferrere,0,2,0,0
+1499600,1787680800,2422,468,Real Pilar,Brown DE Adrogue,2,0,2,0
+1499605,1787680800,8380,471,Villa San Carlos,Flandria,3,2,1,1
+1499601,1787680800,8387,8376,San Martín Burzaco,Argentino Quilmes,3,2,0,2
+1499602,1787680800,8388,1945,Sportivo Italiano,Defensores Unidos,0,2,0,1
+1499598,1787698800,8385,2430,Excursionistas,Argentino de Merlo,2,0,1,0
+1499597,1787760000,3943,8008,Deportivo Camioneros,Comunicaciones,2,0,2,0
+1499599,1787767200,8395,2427,Liniers,Deportivo Armenio,3,1,1,0
+1499596,1787781600,8383,2429,Deportivo Merlo,Dock Sud,1,2,0,0
+1499608,1788026400,459,8385,Arsenal Sarandi,Excursionistas,3,0,2,0
+1499609,1788026400,468,8395,Brown DE Adrogue,Liniers,1,1,0,1
+1499615,1788026400,1924,2422,Deportivo Laferrere,Real Pilar,1,1,1,1
+1499616,1788026400,1927,1956,Talleres Remedios,UAI Urquiza,1,0,1,0
+1499611,1788026400,1945,3943,Defensores Unidos,Deportivo Camioneros,0,0,0,0
+1499607,1788026400,8376,8388,Argentino Quilmes,Sportivo Italiano,0,2,0,0
+1499614,1788026400,8386,2429,Ituzaingó,Dock Sud,0,2,0,0
+1499612,1788103800,2427,8380,Deportivo Armenio,Villa San Carlos,1,0,1,0
+1499613,1788112800,471,8387,Flandria,San Martín Burzaco,2,0,2,0
+1499606,1788112800,2430,481,Argentino de Merlo,Villa Dalmine,0,0,0,0
+1499610,1788213600,8008,8383,Comunicaciones,Deportivo Merlo,1,0,1,0
+1499626,1788631200,481,459,Villa Dalmine,Arsenal Sarandi,0,1,0,0
+1499622,1788631200,2422,1927,Real Pilar,Talleres Remedios,0,2,0,1
+1499623,1788631200,8387,2427,San Martín Burzaco,Deportivo Armenio,0,0,0,0
+1499624,1788631200,8388,471,Sportivo Italiano,Flandria,3,1,1,1
+1499617,1788645600,8383,1945,Deportivo Merlo,Defensores Unidos,0,0,0,0
+1499619,1788710400,2429,8008,Dock Sud,Comunicaciones,0,1,0,1
+1499618,1788710400,3943,8376,Deportivo Camioneros,Argentino Quilmes,1,0,0,0
+1499625,1788717600,1956,2430,UAI Urquiza,Argentino de Merlo,2,0,2,0
+1499627,1788717600,8380,468,Villa San Carlos,Brown DE Adrogue,0,0,0,0
+1499621,1788717600,8395,1924,Liniers,Deportivo Laferrere,2,2,0,0
+1499620,1788822000,8385,8386,Excursionistas,Ituzaingó,2,1,0,1
+1499636,1789164000,8386,8008,Ituzaingó,Comunicaciones,2,2,1,1
+1499628,1789167600,2430,2422,Argentino de Merlo,Real Pilar,0,1,0,0
+1499630,1789236000,459,1956,Arsenal Sarandi,UAI Urquiza,2,0,1,0
+1499637,1789236000,1924,8380,Deportivo Laferrere,Villa San Carlos,1,1,1,0
+1499638,1789236000,1927,8395,Talleres Remedios,Liniers,0,2,0,2
+1499632,1789236000,1945,2429,Defensores Unidos,Dock Sud,3,0,0,0
+1499633,1789236000,2427,8388,Deportivo Armenio,Sportivo Italiano,1,0,0,0
+1499631,1789239600,468,8387,Brown DE Adrogue,San Martín Burzaco,0,2,0,1
+1499634,1789254000,8385,481,Excursionistas,Villa Dalmine,3,0,1,0
+1499635,1789322400,471,3943,Flandria,Deportivo Camioneros,2,1,0,1
+1499629,1789322400,8376,8383,Argentino Quilmes,Deportivo Merlo,1,0,0,0
+1499639,1789754400,8008,1945,Comunicaciones,Defensores Unidos,2,0,0,0
+1499641,1789837200,3943,2427,Deportivo Camioneros,Deportivo Armenio,1,2,0,1
+1499648,1789840800,481,8386,Villa Dalmine,Ituzaingó,3,1,3,0
+1499647,1789840800,1956,8385,UAI Urquiza,Excursionistas,1,2,1,1
+1499644,1789840800,2422,459,Real Pilar,Arsenal Sarandi,2,1,1,0
+1499645,1789840800,8387,1924,San Martín Burzaco,Deportivo Laferrere,2,1,2,0
+1499646,1789840800,8388,468,Sportivo Italiano,Brown DE Adrogue,0,0,0,0
+1499642,1789927200,2429,8376,Dock Sud,Argentino Quilmes,0,0,0,0
+1499649,1789927200,8380,1927,Villa San Carlos,Talleres Remedios,0,0,0,0
+1499643,1789927200,8395,2430,Liniers,Argentino de Merlo,1,2,0,0
+1499640,1789934400,8383,471,Deportivo Merlo,Flandria,2,1,1,0
+1499657,1790373600,8386,1945,Ituzaingó,Defensores Unidos,0,1,0,0
+1499655,1790377200,8385,2422,Excursionistas,Real Pilar,3,0,1,0
+1499652,1790445600,459,8395,Arsenal Sarandi,Liniers,2,0,2,0
+1499653,1790445600,468,3943,Brown DE Adrogue,Deportivo Camioneros,3,0,2,0
+1499659,1790445600,1927,8387,Talleres Remedios,San Martín Burzaco,3,2,1,1
+1499650,1790445600,2430,8380,Argentino de Merlo,Villa San Carlos,0,1,0,0
+1499654,1790447400,2427,8383,Deportivo Armenio,Deportivo Merlo,1,0,1,0
+1499658,1790460000,1924,8388,Deportivo Laferrere,Sportivo Italiano,1,2,1,1
+1499660,1790532000,481,1956,Villa Dalmine,UAI Urquiza,0,0,0,0
+1499651,1790532000,8376,8008,Argentino Quilmes,Comunicaciones,0,0,0,0
+1499656,1790618400,471,2429,Flandria,Dock Sud,1,2,0,0
+1499662,1791050400,1945,8376,Defensores Unidos,Argentino Quilmes,1,1,0,0
+1499667,1791050400,2422,481,Real Pilar,Villa Dalmine,2,0,2,0
+1499665,1791050400,2429,2427,Dock Sud,Deportivo Armenio,0,3,0,2
+1499664,1791050400,3943,1924,Deportivo Camioneros,Deportivo Laferrere,1,2,1,0
+1499671,1791050400,8380,459,Villa San Carlos,Arsenal Sarandi,1,0,0,0
+1499668,1791050400,8387,2430,San Martín Burzaco,Argentino de Merlo,2,1,1,0
+1499666,1791050400,8395,8385,Liniers,Excursionistas,1,0,0,0
+1499661,1791136800,8008,471,Comunicaciones,Flandria,1,1,1,0
+1499669,1791136800,8388,1927,Sportivo Italiano,Talleres Remedios,2,0,0,0
+1499670,1791223200,1956,8386,UAI Urquiza,Ituzaingó,3,2,0,0
+1499663,1791237600,8383,468,Deportivo Merlo,Brown DE Adrogue,0,0,0,0
+1499680,1791586800,1927,3943,Talleres Remedios,Deportivo Camioneros,1,1,0,0
+1499676,1791586800,8385,8380,Excursionistas,Villa San Carlos,4,0,3,0
+1499673,1791655200,459,8387,Arsenal Sarandi,San Martín Burzaco,3,1,0,1
+1499677,1791655200,471,1945,Flandria,Defensores Unidos,1,0,1,0
+1499682,1791655200,481,8395,Villa Dalmine,Liniers,1,1,1,1
+1499679,1791655200,1924,8383,Deportivo Laferrere,Deportivo Merlo,1,1,0,0
+1499678,1791655200,8386,8376,Ituzaingó,Argentino Quilmes,2,2,0,1
+1499675,1791657000,2427,8008,Deportivo Armenio,Comunicaciones,0,0,0,0
+1499672,1791741600,2430,8388,Argentino de Merlo,Sportivo Italiano,1,2,0,0
+1499674,1791828000,468,2429,Brown DE Adrogue,Dock Sud,1,0,0,0
+1499681,1791828000,1956,2422,UAI Urquiza,Real Pilar,1,0,0,0
+1499688,1792245600,2429,1924,Dock Sud,Deportivo Laferrere,1,2,0,0
+1499689,1792245600,8395,1956,Liniers,UAI Urquiza,1,1,1,0
+1499687,1792252800,3943,2430,Deportivo Camioneros,Argentino de Merlo,3,2,1,1
+1499685,1792260000,1945,2427,Defensores Unidos,Deportivo Armenio,0,0,0,0
+1499684,1792260000,8008,468,Comunicaciones,Brown DE Adrogue,0,0,0,0
+1499683,1792260000,8376,471,Argentino Quilmes,Flandria,0,1,0,0
+1499693,1792260000,8380,481,Villa San Carlos,Villa Dalmine,3,0,1,0
+1499691,1792260000,8387,8385,San Martín Burzaco,Excursionistas,1,1,1,0
+1499692,1792260000,8388,459,Sportivo Italiano,Arsenal Sarandi,0,0,0,0
+1499690,1792274400,2422,8386,Real Pilar,Ituzaingó,0,0,0,0
+1499686,1792274400,8383,1927,Deportivo Merlo,Talleres Remedios,2,1,2,0
+1499695,1792864800,459,3943,Arsenal Sarandi,Deportivo Camioneros,2,1,0,0
+1499704,1792864800,481,8387,Villa Dalmine,San Martín Burzaco,1,0,1,0
+1499700,1792864800,1924,8008,Deportivo Laferrere,Comunicaciones,1,0,1,0
+1499694,1792864800,2430,8383,Argentino de Merlo,Deportivo Merlo,1,0,1,0
+1499698,1792864800,8385,8388,Excursionistas,Sportivo Italiano,4,0,3,0
+1499699,1792864800,8386,471,Ituzaingó,Flandria,1,3,1,0
+1499697,1792866600,2427,8376,Deportivo Armenio,Argentino Quilmes,0,1,0,1
+1499701,1792879200,2422,8395,Real Pilar,Liniers,2,1,1,0
+1499702,1792951200,1927,2429,Talleres Remedios,Dock Sud,4,0,3,0
+1499703,1793037600,1956,8380,UAI Urquiza,Villa San Carlos,2,0,0,0
+1499696,1793052000,468,1945,Brown DE Adrogue,Defensores Unidos,0,1,0,0
+1499715,1793462400,8380,2422,Villa San Carlos,Real Pilar,1,1,1,1
+1499709,1793466000,3943,8385,Deportivo Camioneros,Excursionistas,2,1,0,0
+1499714,1793466000,8388,481,Sportivo Italiano,Villa Dalmine,1,0,1,0
+1499711,1793469600,471,2427,Flandria,Deportivo Armenio,1,1,0,1
+1499708,1793473200,8383,459,Deportivo Merlo,Arsenal Sarandi,1,1,1,1
+1499710,1793548800,2429,2430,Dock Sud,Argentino de Merlo,1,2,1,1
+1499707,1793642400,1945,1924,Defensores Unidos,Deportivo Laferrere,1,1,1,0
+1499706,1793642400,8008,1927,Comunicaciones,Talleres Remedios,1,0,1,0
+1499705,1793642400,8376,468,Argentino Quilmes,Brown DE Adrogue,0,1,0,0
+1499713,1793642400,8387,1956,San Martín Burzaco,UAI Urquiza,2,3,1,0
+1499712,1793642400,8395,8386,Liniers,Ituzaingó,2,0,0,0

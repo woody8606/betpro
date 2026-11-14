@@ -1,0 +1,187 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1383046,1754143200,248,4251,Hamilton Academical,Montrose,2,0,1,0
+1383045,1754143200,6763,1384,Cove Rangers,Queen of the South,0,2,0,1
+1383047,1754143200,6773,903,Kelty Hearts,Inverness CT,0,3,0,2
+1383048,1754143200,6777,6764,Peterhead,East Fife,4,1,3,1
+1383044,1754143200,6784,1391,Stenhousemuir,Alloa Athletic,1,2,1,1
+1383050,1754748000,903,6777,Inverness CT,Peterhead,2,0,1,0
+1383052,1754748000,1384,248,Queen of the South,Hamilton Academical,1,4,0,2
+1383051,1754748000,4251,6773,Montrose,Kelty Hearts,1,2,1,1
+1383049,1754748000,6764,1391,East Fife,Alloa Athletic,0,1,0,0
+1383053,1754748000,6784,6763,Stenhousemuir,Cove Rangers,1,0,1,0
+1383055,1755352800,248,6764,Hamilton Academical,East Fife,1,2,1,0
+1383056,1755352800,903,6784,Inverness CT,Stenhousemuir,1,2,1,1
+1383058,1755352800,1384,6777,Queen of the South,Peterhead,4,0,1,0
+1383054,1755352800,6763,4251,Cove Rangers,Montrose,3,3,2,1
+1383059,1755957600,1391,248,Alloa Athletic,Hamilton Academical,1,0,0,0
+1383061,1755957600,4251,903,Montrose,Inverness CT,0,2,0,2
+1383060,1755957600,6764,6773,East Fife,Kelty Hearts,2,1,1,1
+1383062,1755957600,6777,6763,Peterhead,Cove Rangers,3,1,2,0
+1383063,1755957600,6784,1384,Stenhousemuir,Queen of the South,0,0,0,0
+1383065,1756562400,903,1391,Inverness CT,Alloa Athletic,1,0,0,0
+1383067,1756562400,1384,6773,Queen of the South,Kelty Hearts,2,1,1,0
+1383066,1756562400,4251,6777,Montrose,Peterhead,2,1,2,1
+1383068,1756562400,6784,6764,Stenhousemuir,East Fife,1,1,0,0
+1383064,1756571400,248,6763,Hamilton Academical,Cove Rangers,0,0,0,0
+1383069,1757772000,1391,4251,Alloa Athletic,Montrose,0,1,0,0
+1383071,1757772000,6764,1384,East Fife,Queen of the South,2,1,1,1
+1383072,1757772000,6773,6784,Kelty Hearts,Stenhousemuir,0,1,0,1
+1383073,1757772000,6777,248,Peterhead,Hamilton Academical,2,2,1,1
+1383070,1757781000,6763,903,Cove Rangers,Inverness CT,0,1,0,0
+1383077,1758376800,1384,903,Queen of the South,Inverness CT,0,2,0,1
+1383074,1758376800,1391,6763,Alloa Athletic,Cove Rangers,2,1,2,0
+1383075,1758376800,6764,4251,East Fife,Montrose,1,1,1,1
+1383076,1758376800,6773,248,Kelty Hearts,Hamilton Academical,0,4,0,3
+1383078,1758376800,6784,6777,Stenhousemuir,Peterhead,3,1,1,1
+1383080,1758981600,248,6784,Hamilton Academical,Stenhousemuir,2,0,1,0
+1383081,1758981600,903,6764,Inverness CT,East Fife,4,1,1,1
+1383082,1758981600,4251,1384,Montrose,Queen of the South,2,1,0,0
+1383079,1758981600,6763,6773,Cove Rangers,Kelty Hearts,0,2,0,1
+1383083,1758981600,6777,1391,Peterhead,Alloa Athletic,2,1,2,1
+1383085,1759586400,248,903,Hamilton Academical,Inverness CT,3,1,1,0
+1383084,1759586400,6764,6763,East Fife,Cove Rangers,2,0,1,0
+1383086,1759586400,6773,6777,Kelty Hearts,Peterhead,1,2,1,1
+1383088,1759586400,6784,4251,Stenhousemuir,Montrose,3,1,2,0
+1383087,1759595400,1384,1391,Queen of the South,Alloa Athletic,1,0,0,0
+1383057,1759862700,6773,1391,Kelty Hearts,Alloa Athletic,0,2,0,1
+1383091,1760796000,903,6773,Inverness CT,Kelty Hearts,2,2,1,2
+1383089,1760796000,1391,6764,Alloa Athletic,East Fife,1,1,0,0
+1383092,1760796000,4251,248,Montrose,Hamilton Academical,0,4,0,1
+1383090,1760796000,6763,6784,Cove Rangers,Stenhousemuir,0,1,0,0
+1383093,1760805000,6777,1384,Peterhead,Queen of the South,3,0,2,0
+1383094,1761331500,248,1384,Hamilton Academical,Queen of the South,1,2,0,1
+1383098,1761400800,1391,6784,Alloa Athletic,Stenhousemuir,0,0,0,0
+1383096,1761400800,4251,6763,Montrose,Cove Rangers,0,3,0,1
+1383095,1761400800,6773,6764,Kelty Hearts,East Fife,0,3,0,1
+1383097,1761400800,6777,903,Peterhead,Inverness CT,0,1,0,0
+1383102,1762009200,903,4251,Inverness CT,Montrose,1,0,0,0
+1383103,1762009200,1384,6784,Queen of the South,Stenhousemuir,1,1,1,0
+1383099,1762009200,1391,6773,Alloa Athletic,Kelty Hearts,3,0,2,0
+1383100,1762009200,6763,6777,Cove Rangers,Peterhead,1,2,1,1
+1383101,1762009200,6764,248,East Fife,Hamilton Academical,1,1,0,0
+1383104,1762614000,248,6777,Hamilton Academical,Peterhead,3,0,2,0
+1383105,1762614000,903,6763,Inverness CT,Cove Rangers,1,0,1,0
+1383107,1762614000,1384,6764,Queen of the South,East Fife,3,0,2,0
+1383106,1762614000,4251,1391,Montrose,Alloa Athletic,0,4,0,1
+1383108,1762614000,6784,6773,Stenhousemuir,Kelty Hearts,2,2,0,1
+1383110,1763218800,6763,248,Cove Rangers,Hamilton Academical,2,1,2,1
+1383112,1763218800,6773,1384,Kelty Hearts,Queen of the South,1,1,0,0
+1383113,1763218800,6777,4251,Peterhead,Montrose,1,1,0,0
+1383111,1763226000,6764,6784,East Fife,Stenhousemuir,1,0,0,0
+1383115,1763823600,248,6773,Hamilton Academical,Kelty Hearts,3,1,1,1
+1383117,1763823600,4251,6764,Montrose,East Fife,2,1,2,1
+1383114,1763823600,6763,1391,Cove Rangers,Alloa Athletic,0,0,0,0
+1383118,1763823600,6777,6784,Peterhead,Stenhousemuir,1,4,0,1
+1383116,1763832600,903,1384,Inverness CT,Queen of the South,4,0,2,0
+1383109,1764099900,1391,903,Alloa Athletic,Inverness CT,1,1,0,1
+1383122,1765033200,1384,6763,Queen of the South,Cove Rangers,1,1,0,1
+1383119,1765033200,1391,6777,Alloa Athletic,Peterhead,4,0,1,0
+1383121,1765033200,6773,4251,Kelty Hearts,Montrose,0,3,0,2
+1383123,1765033200,6784,248,Stenhousemuir,Hamilton Academical,0,0,0,0
+1383126,1765638000,903,248,Inverness CT,Hamilton Academical,4,0,2,0
+1383124,1765638000,1391,1384,Alloa Athletic,Queen of the South,0,2,0,1
+1383127,1765638000,4251,6784,Montrose,Stenhousemuir,3,0,2,0
+1383125,1765638000,6763,6764,Cove Rangers,East Fife,0,1,0,0
+1383128,1765638000,6777,6773,Peterhead,Kelty Hearts,3,2,1,0
+1383130,1766242800,248,1391,Hamilton Academical,Alloa Athletic,1,0,1,0
+1383132,1766242800,1384,4251,Queen of the South,Montrose,1,0,0,0
+1383129,1766242800,6764,6777,East Fife,Peterhead,0,1,0,1
+1383131,1766242800,6773,6763,Kelty Hearts,Cove Rangers,2,5,2,1
+1383133,1766242800,6784,903,Stenhousemuir,Inverness CT,1,0,0,0
+1383138,1766847600,1384,248,Queen of the South,Hamilton Academical,4,1,2,0
+1383134,1766847600,1391,6784,Alloa Athletic,Stenhousemuir,0,0,0,0
+1383136,1766847600,4251,903,Montrose,Inverness CT,2,1,0,1
+1383135,1766847600,6764,6773,East Fife,Kelty Hearts,0,1,0,1
+1383137,1766847600,6777,6763,Peterhead,Cove Rangers,0,4,0,2
+1383142,1767452400,6773,1391,Kelty Hearts,Alloa Athletic,1,1,0,0
+1383143,1767452400,6784,1384,Stenhousemuir,Queen of the South,2,0,1,0
+1383147,1768057200,1384,6773,Queen of the South,Kelty Hearts,3,1,0,1
+1383145,1768057200,6763,903,Cove Rangers,Inverness CT,0,0,0,0
+1383148,1768057200,6784,6764,Stenhousemuir,East Fife,5,0,2,0
+1383146,1768662000,6777,248,Peterhead,Hamilton Academical,2,3,1,1
+1383144,1768938300,1391,4251,Alloa Athletic,Montrose,4,1,2,0
+1383120,1768938300,6764,903,East Fife,Inverness CT,0,2,0,0
+1383150,1769266800,248,6763,Hamilton Academical,Cove Rangers,2,0,0,0
+1383151,1769266800,903,1391,Inverness CT,Alloa Athletic,3,1,0,1
+1383149,1769266800,6764,1384,East Fife,Queen of the South,1,5,0,2
+1383152,1769275800,6773,6784,Kelty Hearts,Stenhousemuir,0,2,0,2
+1383157,1769871600,1384,903,Queen of the South,Inverness CT,2,2,1,1
+1383154,1769871600,1391,6763,Alloa Athletic,Cove Rangers,2,2,1,0
+1383155,1769871600,6764,4251,East Fife,Montrose,2,3,1,2
+1383156,1769871600,6773,248,Kelty Hearts,Hamilton Academical,0,0,0,0
+1383158,1769871600,6784,6777,Stenhousemuir,Peterhead,2,2,0,1
+1383161,1770476400,903,6764,Inverness CT,East Fife,3,0,1,0
+1383159,1770476400,6763,1384,Cove Rangers,Queen of the South,1,1,0,1
+1383153,1770752700,4251,6777,Montrose,Peterhead,1,1,1,0
+1383167,1771081200,1384,1391,Queen of the South,Alloa Athletic,1,2,0,1
+1383164,1771081200,6764,6763,East Fife,Cove Rangers,2,1,0,1
+1383166,1771081200,6773,6777,Kelty Hearts,Peterhead,1,1,0,1
+1383168,1771081200,6784,4251,Stenhousemuir,Montrose,2,2,1,0
+1383165,1771090200,248,903,Hamilton Academical,Inverness CT,0,1,0,1
+1383139,1771357500,6763,4251,Cove Rangers,Montrose,3,1,2,0
+1383140,1771358400,248,6764,Hamilton Academical,East Fife,1,0,1,0
+1383171,1771686000,903,6784,Inverness CT,Stenhousemuir,1,1,1,1
+1383169,1771686000,1391,248,Alloa Athletic,Hamilton Academical,3,0,0,0
+1383172,1771686000,4251,1384,Montrose,Queen of the South,3,2,2,0
+1383170,1771686000,6763,6773,Cove Rangers,Kelty Hearts,1,1,0,1
+1383173,1771686000,6777,6764,Peterhead,East Fife,3,1,2,1
+1383175,1772290800,248,4251,Hamilton Academical,Montrose,1,1,0,1
+1383177,1772290800,1384,6777,Queen of the South,Peterhead,0,2,0,1
+1383174,1772290800,6764,1391,East Fife,Alloa Athletic,0,2,0,1
+1383176,1772290800,6773,903,Kelty Hearts,Inverness CT,0,0,0,0
+1383178,1772290800,6784,6763,Stenhousemuir,Cove Rangers,1,0,1,0
+1383162,1772567100,4251,6773,Montrose,Kelty Hearts,1,1,1,0
+1383160,1772568000,248,6784,Hamilton Academical,Stenhousemuir,0,1,0,0
+1383182,1772895600,903,4251,Inverness CT,Montrose,3,1,1,0
+1383183,1772895600,1384,6784,Queen of the South,Stenhousemuir,1,1,0,1
+1383179,1772895600,1391,6773,Alloa Athletic,Kelty Hearts,2,1,0,1
+1383180,1772895600,6763,6777,Cove Rangers,Peterhead,2,1,1,1
+1383181,1772895600,6764,248,East Fife,Hamilton Academical,0,3,0,1
+1383163,1773171900,6777,1391,Peterhead,Alloa Athletic,3,1,2,0
+1383184,1773500400,248,1384,Hamilton Academical,Queen of the South,1,3,1,1
+1383185,1773500400,903,6763,Inverness CT,Cove Rangers,1,1,1,0
+1383186,1773500400,6773,6764,Kelty Hearts,East Fife,1,1,0,1
+1383188,1773500400,6777,6784,Peterhead,Stenhousemuir,0,1,0,0
+1383187,1773509400,4251,1391,Montrose,Alloa Athletic,5,4,2,2
+1383141,1773776700,903,6777,Inverness CT,Peterhead,3,1,2,0
+1383192,1774105200,1384,6764,Queen of the South,East Fife,2,2,2,1
+1383189,1774105200,1391,903,Alloa Athletic,Inverness CT,1,1,1,0
+1383190,1774105200,6763,248,Cove Rangers,Hamilton Academical,2,2,0,2
+1383191,1774105200,6777,4251,Peterhead,Montrose,1,1,0,1
+1383193,1774105200,6784,6773,Stenhousemuir,Kelty Hearts,2,0,1,0
+1383197,1774640700,903,1384,Inverness CT,Queen of the South,1,1,0,1
+1383195,1774706400,6764,6784,East Fife,Stenhousemuir,2,2,0,1
+1383196,1774710000,248,6773,Hamilton Academical,Kelty Hearts,1,2,1,1
+1383194,1774710000,1391,6777,Alloa Athletic,Peterhead,1,2,1,0
+1383201,1775311200,4251,6764,Montrose,East Fife,1,0,0,0
+1383199,1775311200,6763,1391,Cove Rangers,Alloa Athletic,0,1,0,0
+1383200,1775311200,6773,1384,Kelty Hearts,Queen of the South,1,1,0,0
+1383203,1775311200,6784,248,Stenhousemuir,Hamilton Academical,3,0,2,0
+1383198,1775587500,4251,6763,Montrose,Cove Rangers,2,3,0,1
+1383205,1775916000,248,1391,Hamilton Academical,Alloa Athletic,1,0,0,0
+1383207,1775916000,1384,6763,Queen of the South,Cove Rangers,2,0,0,0
+1383204,1775916000,6764,6777,East Fife,Peterhead,2,1,1,0
+1383206,1775916000,6773,4251,Kelty Hearts,Montrose,3,1,0,0
+1383208,1775925000,6784,903,Stenhousemuir,Inverness CT,1,1,0,1
+1383202,1776192300,6777,903,Peterhead,Inverness CT,0,2,0,1
+1383211,1776520800,903,6773,Inverness CT,Kelty Hearts,1,0,0,0
+1383209,1776520800,1391,6764,Alloa Athletic,East Fife,2,0,1,0
+1383212,1776520800,4251,248,Montrose,Hamilton Academical,0,2,0,1
+1383210,1776520800,6763,6784,Cove Rangers,Stenhousemuir,2,0,1,0
+1383213,1776520800,6777,1384,Peterhead,Queen of the South,1,1,0,0
+1383215,1777125600,248,6777,Hamilton Academical,Peterhead,3,1,1,0
+1383217,1777125600,1384,4251,Queen of the South,Montrose,2,2,0,1
+1383214,1777125600,6764,903,East Fife,Inverness CT,1,1,0,0
+1383216,1777125600,6773,6763,Kelty Hearts,Cove Rangers,0,2,0,2
+1383218,1777125600,6784,1391,Stenhousemuir,Alloa Athletic,1,0,0,0
+1383221,1777730400,903,248,Inverness CT,Hamilton Academical,2,1,2,0
+1383219,1777730400,1391,1384,Alloa Athletic,Queen of the South,1,4,1,1
+1383222,1777730400,4251,6784,Montrose,Stenhousemuir,0,2,0,1
+1383220,1777730400,6763,6764,Cove Rangers,East Fife,0,0,0,0
+1383223,1777730400,6777,6773,Peterhead,Kelty Hearts,0,2,0,0
+1543769,1778006700,4250,248,Forfar Athletic,Hamilton Academical,1,3,0,1
+1543768,1778006700,6762,6781,Clyde,Spartans,2,0,1,0
+1543770,1778335200,248,4250,Hamilton Academical,Forfar Athletic,2,1,0,0
+1543771,1778335200,6781,6762,Spartans,Clyde,1,1,1,0
+1544687,1778611500,6762,248,Clyde,Hamilton Academical,1,1,1,1
+1544688,1778870700,248,6762,Hamilton Academical,Clyde,4,3,2,2

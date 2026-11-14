@@ -1,0 +1,623 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1441431,1755957600,3567,7401,Altınordu,Erbaaspor,1,1,1,0
+1441432,1755957600,15101,3596,Arnavutköy Belediyespor,Kırklarelispor,0,0,0,0
+1441433,1755964800,1010,7392,Ankaragücü,24 Erzincanspor,1,1,1,0
+1441434,1755964800,7407,6529,Karacabey Belediyespor,Kepezspor,1,1,1,0
+1441435,1756040400,999,1003,Yeni Malatyaspor,Bursaspor,0,8,0,3
+1441436,1756040400,6536,6533,Muş Sport Klübü,Mardin 1969,1,0,1,0
+1441439,1756042200,3581,3590,Ankara Demirspor,Fethiyespor,1,0,0,0
+1441437,1756042200,3594,780,Kastamonuspor,Ankaraspor,0,1,0,1
+1441438,1756042200,6340,6507,1461 Trabzon FK,68 Aksaray Belediyespor,0,0,0,0
+1441441,1756044000,6538,6511,Somaspor,Güzide Gebzespor,1,2,0,1
+1441440,1756044000,7406,7403,Beyoğlu Yeni Çarşı,İskenderunspor,0,0,0,0
+1441442,1756044000,21993,24601,Aliağa FAŞ, Kahramanmaraş İstiklal Spor,2,1,2,1
+1441447,1756051200,3564,6523,Adanaspor,Isparta 32 Spor,0,6,0,3
+1441444,1756051200,3571,22009,Elazığspor,Adana 01 FK,4,4,1,1
+1441443,1756051200,3613,3609,Şanlıurfaspor,Beykoz Anadolu,2,0,0,0
+1441446,1756051200,6526,7396,Karaman FK,Bucaspor 1928,3,3,1,1
+1441448,1756051200,6546,3599,Yeni Mersin Idmanyurdu,Menemen FK,1,4,0,4
+1441445,1756051200,7395,3612,Batman Petrolspor,İnegölspor,2,1,0,1
+1441449,1756553400,7401,7395,Erbaaspor,Batman Petrolspor,1,3,1,2
+1441460,1756555200,780,7414,Ankaraspor,Muğlaspor,2,2,2,1
+1441450,1756558800,6533,3581,Mardin 1969,Ankara Demirspor,2,2,2,2
+1441464,1756558800,24601,999, Kahramanmaraş İstiklal Spor,Yeni Malatyaspor,2,0,2,0
+1441465,1756560600,6507,6546,68 Aksaray Belediyespor,Yeni Mersin Idmanyurdu,2,0,0,0
+1441459,1756560600,7403,3567,İskenderunspor,Altınordu,4,0,3,0
+1441457,1756560600,22009,1010,Adana 01 FK,Ankaragücü,1,0,1,0
+1441463,1756562400,3596,3564,Kırklarelispor,Adanaspor,4,0,1,0
+1441462,1756562400,3612,7407,İnegölspor,Karacabey Belediyespor,2,1,2,1
+1441466,1756562400,6511,21993,Güzide Gebzespor,Aliağa FAŞ,1,0,0,0
+1441461,1756562400,6529,6526,Kepezspor,Karaman FK,0,0,0,0
+1441453,1756569600,1003,6340,Bursaspor,1461 Trabzon FK,1,0,1,0
+1441455,1756569600,3590,6538,Fethiyespor,Somaspor,1,1,0,0
+1441456,1756569600,3599,15101,Menemen FK,Arnavutköy Belediyespor,0,3,0,1
+1441454,1756569600,6523,6536,Isparta 32 Spor,Muş Sport Klübü,1,0,0,0
+1441452,1756569600,7392,7406,24 Erzincanspor,Beyoğlu Yeni Çarşı,2,2,0,0
+1441451,1756569600,7396,3613,Bucaspor 1928,Şanlıurfaspor,0,2,0,0
+1441458,1756648800,3609,3594,Beykoz Anadolu,Kastamonuspor,2,0,1,0
+1441468,1757246400,6340,24601,1461 Trabzon FK, Kahramanmaraş İstiklal Spor,2,0,2,0
+1441476,1757246400,6538,6533,Somaspor,Mardin 1969,0,4,0,2
+1441467,1757248200,999,6511,Yeni Malatyaspor,Güzide Gebzespor,1,4,0,4
+1441469,1757248200,6536,3581,Muş Sport Klübü,Ankara Demirspor,1,1,1,1
+1441471,1757250000,3564,3599,Adanaspor,Menemen FK,0,5,0,1
+1441470,1757250000,3594,7396,Kastamonuspor,Bucaspor 1928,2,0,1,0
+1441474,1757251800,7406,22009,Beyoğlu Yeni Çarşı,Adana 01 FK,0,0,0,0
+1441475,1757251800,15101,6507,Arnavutköy Belediyespor,68 Aksaray Belediyespor,1,1,0,0
+1441472,1757253600,3567,7392,Altınordu,24 Erzincanspor,0,1,0,0
+1441477,1757253600,21993,3590,Aliağa FAŞ,Fethiyespor,3,0,2,0
+1441478,1757260800,1010,3571,Ankaragücü,Elazığspor,1,4,1,2
+1441480,1757260800,3613,6529,Şanlıurfaspor,Kepezspor,2,1,2,0
+1441484,1757260800,6523,3596,Isparta 32 Spor,Kırklarelispor,5,1,1,1
+1441481,1757260800,6526,3612,Karaman FK,İnegölspor,0,2,0,1
+1441483,1757260800,6546,1003,Yeni Mersin Idmanyurdu,Bursaspor,0,1,0,1
+1441479,1757260800,7395,7403,Batman Petrolspor,İskenderunspor,2,0,1,0
+1441482,1757260800,7407,7401,Karacabey Belediyespor,Erbaaspor,1,2,0,2
+1441473,1757264400,7414,3609,Muğlaspor,Beykoz Anadolu,0,0,0,0
+1441487,1757766600,6533,21993,Mardin 1969,Aliağa FAŞ,1,0,1,0
+1441485,1757766600,7401,6526,Erbaaspor,Karaman FK,2,0,1,0
+1441486,1757766600,24601,6546, Kahramanmaraş İstiklal Spor,Yeni Mersin Idmanyurdu,5,0,1,0
+1441491,1757768400,3581,6538,Ankara Demirspor,Somaspor,1,0,0,0
+1441490,1757768400,6507,3564,68 Aksaray Belediyespor,Adanaspor,5,1,1,0
+1441488,1757768400,7403,7407,İskenderunspor,Karacabey Belediyespor,0,2,0,1
+1441489,1757768400,22009,3567,Adana 01 FK,Altınordu,0,0,0,0
+1441495,1757770200,3596,6536,Kırklarelispor,Muş Sport Klübü,1,4,1,3
+1441494,1757770200,3609,780,Beykoz Anadolu,Ankaraspor,0,2,0,0
+1441493,1757770200,3612,3613,İnegölspor,Şanlıurfaspor,1,2,1,0
+1441496,1757770200,6511,6340,Güzide Gebzespor,1461 Trabzon FK,2,2,2,0
+1441492,1757770200,6529,3594,Kepezspor,Kastamonuspor,1,4,0,2
+1441500,1757779200,1003,15101,Bursaspor,Arnavutköy Belediyespor,3,1,2,1
+1441498,1757779200,3571,7406,Elazığspor,Beyoğlu Yeni Çarşı,1,1,0,0
+1441501,1757779200,3590,999,Fethiyespor,Yeni Malatyaspor,6,1,2,0
+1441502,1757779200,3599,6523,Menemen FK,Isparta 32 Spor,3,1,2,1
+1441497,1757779200,7392,7395,24 Erzincanspor,Batman Petrolspor,0,4,0,1
+1441499,1757779200,7396,7414,Bucaspor 1928,Muğlaspor,0,5,0,4
+1441518,1758452400,6536,6538,Muş Sport Klübü,Somaspor,4,0,1,0
+1441513,1758456000,999,6533,Yeni Malatyaspor,Mardin 1969,1,2,1,1
+1441516,1758456000,6340,3590,1461 Trabzon FK,Fethiyespor,2,2,0,1
+1441509,1758457800,780,7396,Ankaraspor,Bucaspor 1928,3,2,2,0
+1441505,1758457800,3594,3612,Kastamonuspor,İnegölspor,1,3,0,1
+1441512,1758459600,3564,1003,Adanaspor,Bursaspor,0,6,0,2
+1441504,1758459600,3567,3571,Altınordu,Elazığspor,1,2,0,2
+1441515,1758459600,3596,3599,Kırklarelispor,Menemen FK,0,0,0,0
+1441503,1758459600,7406,1010,Beyoğlu Yeni Çarşı,Ankaragücü,1,2,1,1
+1441520,1758459600,15101,24601,Arnavutköy Belediyespor, Kahramanmaraş İstiklal Spor,0,3,0,1
+1441519,1758459600,21993,3581,Aliağa FAŞ,Ankara Demirspor,2,0,1,0
+1441517,1758466800,6546,6511,Yeni Mersin Idmanyurdu,Güzide Gebzespor,0,1,0,1
+1441506,1758470400,3613,7401,Şanlıurfaspor,Erbaaspor,2,2,2,1
+1441514,1758470400,6523,6507,Isparta 32 Spor,68 Aksaray Belediyespor,0,0,0,0
+1441508,1758470400,6526,7403,Karaman FK,İskenderunspor,1,3,0,0
+1441507,1758470400,7395,22009,Batman Petrolspor,Adana 01 FK,3,1,2,0
+1441510,1758470400,7407,7392,Karacabey Belediyespor,24 Erzincanspor,1,0,0,0
+1441511,1758556800,7414,6529,Muğlaspor,Kepezspor,4,0,2,0
+1441535,1758988800,3599,6536,Menemen FK,Muş Sport Klübü,4,1,2,0
+1441533,1759057200,6507,3596,68 Aksaray Belediyespor,Kırklarelispor,0,0,0,0
+1441524,1759057200,7401,3594,Erbaaspor,Kastamonuspor,2,3,1,1
+1441536,1759060800,6533,6340,Mardin 1969,1461 Trabzon FK,2,1,2,1
+1441531,1759060800,24601,3564, Kahramanmaraş İstiklal Spor,Adanaspor,6,0,5,0
+1441532,1759062600,3581,999,Ankara Demirspor,Yeni Malatyaspor,1,1,1,0
+1441522,1759062600,7403,3613,İskenderunspor,Şanlıurfaspor,1,3,0,1
+1441527,1759062600,22009,7407,Adana 01 FK,Karacabey Belediyespor,2,1,2,1
+1441529,1759064400,3612,7414,İnegölspor,Muğlaspor,0,2,0,0
+1441538,1759064400,6511,15101,Güzide Gebzespor,Arnavutköy Belediyespor,1,0,1,0
+1441528,1759064400,6529,780,Kepezspor,Ankaraspor,0,2,0,0
+1441537,1759064400,6538,21993,Somaspor,Aliağa FAŞ,0,3,0,1
+1441530,1759075200,1003,6523,Bursaspor,Isparta 32 Spor,0,1,0,0
+1441521,1759075200,1010,3567,Ankaragücü,Altınordu,1,1,0,1
+1441523,1759075200,3571,7395,Elazığspor,Batman Petrolspor,1,2,0,1
+1441534,1759075200,3590,6546,Fethiyespor,Yeni Mersin Idmanyurdu,2,0,1,0
+1441526,1759075200,7392,6526,24 Erzincanspor,Karaman FK,2,1,1,1
+1441525,1759075200,7396,3609,Bucaspor 1928,Beykoz Anadolu,0,1,0,1
+1441552,1759660200,6340,3581,1461 Trabzon FK,Ankara Demirspor,3,4,2,0
+1441556,1759662000,6536,21993,Muş Sport Klübü,Aliağa FAŞ,2,2,2,0
+1441550,1759663800,999,6538,Yeni Malatyaspor,Somaspor,1,7,1,4
+1441546,1759665600,780,3612,Ankaraspor,İnegölspor,1,1,1,1
+1441549,1759665600,3564,6511,Adanaspor,Güzide Gebzespor,0,6,0,3
+1441540,1759665600,3594,7403,Kastamonuspor,İskenderunspor,0,2,0,1
+1441545,1759667400,3567,7406,Altınordu,Beyoğlu Yeni Çarşı,0,2,0,1
+1441543,1759667400,3609,6529,Beykoz Anadolu,Kepezspor,0,1,0,0
+1441554,1759667400,15101,3590,Arnavutköy Belediyespor,Fethiyespor,2,0,0,0
+1441548,1759669200,3596,1003,Kırklarelispor,Bursaspor,2,1,0,0
+1441544,1759669200,6526,22009,Karaman FK,Adana 01 FK,1,3,1,0
+1441542,1759669200,7407,3571,Karacabey Belediyespor,Elazığspor,0,3,0,1
+1441551,1759680000,3599,6507,Menemen FK,68 Aksaray Belediyespor,1,1,1,0
+1441541,1759680000,3613,7392,Şanlıurfaspor,24 Erzincanspor,3,1,0,0
+1441553,1759680000,6523,24601,Isparta 32 Spor, Kahramanmaraş İstiklal Spor,0,0,0,0
+1441555,1759680000,6546,6533,Yeni Mersin Idmanyurdu,Mardin 1969,0,6,0,1
+1441539,1759680000,7395,1010,Batman Petrolspor,Ankaragücü,2,1,2,1
+1441547,1759766400,7414,7401,Muğlaspor,Erbaaspor,2,1,1,1
+1441568,1760185800,21993,999,Aliağa FAŞ,Yeni Malatyaspor,8,1,4,0
+1441561,1760187600,7406,7395,Beyoğlu Yeni Çarşı,Batman Petrolspor,0,0,0,0
+1441574,1760266800,6533,15101,Mardin 1969,Arnavutköy Belediyespor,1,0,0,0
+1441572,1760266800,6538,6340,Somaspor,1461 Trabzon FK,0,3,0,1
+1441565,1760266800,7401,780,Erbaaspor,Ankaraspor,1,0,1,0
+1441570,1760268600,24601,3596, Kahramanmaraş İstiklal Spor,Kırklarelispor,3,2,1,1
+1441573,1760270400,3581,6546,Ankara Demirspor,Yeni Mersin Idmanyurdu,0,0,0,0
+1441569,1760270400,6507,6536,68 Aksaray Belediyespor,Muş Sport Klübü,1,0,0,0
+1441562,1760270400,7403,7414,İskenderunspor,Muğlaspor,2,1,0,1
+1441559,1760270400,22009,3613,Adana 01 FK,Şanlıurfaspor,0,1,0,1
+1441563,1760272200,3612,3609,İnegölspor,Beykoz Anadolu,3,1,2,1
+1441564,1760272200,6529,7396,Kepezspor,Bucaspor 1928,1,0,0,0
+1441571,1760274000,6511,6523,Güzide Gebzespor,Isparta 32 Spor,1,1,0,0
+1441566,1760284800,1003,3599,Bursaspor,Menemen FK,3,0,1,0
+1441557,1760284800,1010,7407,Ankaragücü,Karacabey Belediyespor,2,0,0,0
+1441560,1760284800,3571,6526,Elazığspor,Karaman FK,2,0,1,0
+1441567,1760284800,3590,3564,Fethiyespor,Adanaspor,7,0,2,0
+1441558,1760284800,7392,3594,24 Erzincanspor,Kastamonuspor,2,0,1,0
+1441580,1760788800,3609,7401,Beykoz Anadolu,Erbaaspor,0,1,0,1
+1441583,1760788800,7407,7406,Karacabey Belediyespor,Beyoğlu Yeni Çarşı,0,3,0,3
+1441592,1760788800,15101,3581,Arnavutköy Belediyespor,Ankara Demirspor,0,1,0,0
+1441578,1760868000,3594,22009,Kastamonuspor,Adana 01 FK,1,0,0,0
+1441591,1760868000,6340,21993,1461 Trabzon FK,Aliağa FAŞ,0,3,0,1
+1441586,1760868000,6536,999,Muş Sport Klübü,Yeni Malatyaspor,3,1,3,0
+1441579,1760873400,780,7403,Ankaraspor,İskenderunspor,2,1,1,0
+1441585,1760873400,3564,6533,Adanaspor,Mardin 1969,2,5,0,5
+1441587,1760875200,3596,6511,Kırklarelispor,Güzide Gebzespor,0,0,0,0
+1441584,1760875200,6507,1003,68 Aksaray Belediyespor,Bursaspor,1,2,0,2
+1441582,1760875200,7414,7392,Muğlaspor,24 Erzincanspor,2,0,2,0
+1441575,1760878800,6526,1010,Karaman FK,Ankaragücü,0,0,0,0
+1441590,1760889600,3599,24601,Menemen FK, Kahramanmaraş İstiklal Spor,1,1,0,0
+1441576,1760889600,3613,3571,Şanlıurfaspor,Elazığspor,0,2,0,0
+1441588,1760889600,6523,3590,Isparta 32 Spor,Fethiyespor,2,1,1,1
+1441589,1760889600,6546,6538,Yeni Mersin Idmanyurdu,Somaspor,4,0,2,0
+1441577,1760889600,7395,3567,Batman Petrolspor,Altınordu,1,1,0,1
+1441581,1760889600,7396,3612,Bucaspor 1928,İnegölspor,3,3,2,2
+1441604,1761386400,999,6340,Yeni Malatyaspor,1461 Trabzon FK,0,4,0,2
+1441600,1761391800,22009,7414,Adana 01 FK,Muğlaspor,2,1,2,0
+1441596,1761393600,3567,7407,Altınordu,Karacabey Belediyespor,0,1,0,1
+1441603,1761393600,3581,3564,Ankara Demirspor,Adanaspor,5,0,1,0
+1441601,1761393600,3612,6529,İnegölspor,Kepezspor,3,0,0,0
+1441609,1761393600,21993,6546,Aliağa FAŞ,Yeni Mersin Idmanyurdu,3,0,2,0
+1441605,1761400800,3590,3596,Fethiyespor,Kırklarelispor,1,1,0,0
+1441602,1761408000,1003,6536,Bursaspor,Muş Sport Klübü,2,2,1,0
+1441593,1761408000,1010,3613,Ankaragücü,Şanlıurfaspor,4,1,1,1
+1441607,1761472800,6533,6523,Mardin 1969,Isparta 32 Spor,4,0,3,0
+1441598,1761472800,7401,7396,Erbaaspor,Bucaspor 1928,4,3,3,0
+1441597,1761476400,7392,780,24 Erzincanspor,Ankaraspor,2,4,1,2
+1441606,1761476400,24601,6507, Kahramanmaraş İstiklal Spor,68 Aksaray Belediyespor,2,1,0,1
+1441595,1761478200,7403,3609,İskenderunspor,Beykoz Anadolu,2,0,1,0
+1441608,1761480000,6511,3599,Güzide Gebzespor,Menemen FK,1,1,0,0
+1441610,1761480000,6538,15101,Somaspor,Arnavutköy Belediyespor,1,3,1,1
+1441599,1761480000,7406,6526,Beyoğlu Yeni Çarşı,Karaman FK,1,1,1,1
+1441594,1761494400,3571,3594,Elazığspor,Kastamonuspor,1,2,0,0
+1441612,1762005600,7396,7403,Bucaspor 1928,İskenderunspor,0,1,0,0
+1441611,1762077600,3594,1010,Kastamonuspor,Ankaragücü,0,2,0,2
+1441624,1762077600,3596,6533,Kırklarelispor,Mardin 1969,1,1,0,1
+1441615,1762077600,3609,7392,Beykoz Anadolu,24 Erzincanspor,1,4,0,2
+1441623,1762077600,6507,6511,68 Aksaray Belediyespor,Güzide Gebzespor,3,0,1,0
+1441626,1762077600,6523,3581,Isparta 32 Spor,Ankara Demirspor,4,0,2,0
+1441627,1762077600,6536,6340,Muş Sport Klübü,1461 Trabzon FK,4,0,2,0
+1441618,1762081200,780,22009,Ankaraspor,Adana 01 FK,4,0,1,0
+1441616,1762081200,6526,3567,Karaman FK,Altınordu,2,0,1,0
+1441619,1762081200,6529,7401,Kepezspor,Erbaaspor,1,6,1,4
+1441622,1762081200,6546,999,Yeni Mersin Idmanyurdu,Yeni Malatyaspor,3,1,1,1
+1441628,1762081200,15101,21993,Arnavutköy Belediyespor,Aliağa FAŞ,1,0,1,0
+1441620,1762084800,1003,24601,Bursaspor, Kahramanmaraş İstiklal Spor,2,1,0,0
+1441621,1762084800,3564,6538,Adanaspor,Somaspor,0,0,0,0
+1441625,1762084800,3599,3590,Menemen FK,Fethiyespor,2,1,1,1
+1441614,1762084800,3613,7406,Şanlıurfaspor,Beyoğlu Yeni Çarşı,3,2,1,0
+1441613,1762084800,7407,7395,Karacabey Belediyespor,Batman Petrolspor,2,4,1,2
+1441617,1762084800,7414,3571,Muğlaspor,Elazığspor,2,1,1,1
+1441629,1762596000,1010,7414,Ankaragücü,Muğlaspor,0,1,0,1
+1441630,1762596000,3567,3613,Altınordu,Şanlıurfaspor,0,2,0,0
+1441632,1762596000,3571,780,Elazığspor,Ankaraspor,1,2,0,0
+1441631,1762596000,7395,6526,Batman Petrolspor,Karaman FK,0,2,0,1
+1441640,1762599600,999,15101,Yeni Malatyaspor,Arnavutköy Belediyespor,0,0,0,0
+1441634,1762599600,7392,7396,24 Erzincanspor,Bucaspor 1928,2,2,0,2
+1441637,1762599600,7401,3612,Erbaaspor,İnegölspor,0,5,0,1
+1441636,1762599600,7403,6529,İskenderunspor,Kepezspor,2,1,0,0
+1441633,1762599600,7406,3594,Beyoğlu Yeni Çarşı,Kastamonuspor,0,1,0,1
+1441639,1762599600,21993,3564,Aliağa FAŞ,Adanaspor,7,1,5,0
+1441635,1762614000,22009,3609,Adana 01 FK,Beykoz Anadolu,1,0,1,0
+1441646,1762682400,24601,6536, Kahramanmaraş İstiklal Spor,Muş Sport Klübü,2,0,1,0
+1441642,1762686000,3581,3596,Ankara Demirspor,Kırklarelispor,4,0,3,0
+1441641,1762686000,3590,6507,Fethiyespor,68 Aksaray Belediyespor,1,1,0,1
+1441643,1762686000,6340,6546,1461 Trabzon FK,Yeni Mersin Idmanyurdu,2,2,0,0
+1441645,1762686000,6533,3599,Mardin 1969,Menemen FK,2,1,1,0
+1441638,1762689600,6511,1003,Güzide Gebzespor,Bursaspor,4,1,3,1
+1441644,1762689600,6538,6523,Somaspor,Isparta 32 Spor,1,1,0,0
+1441647,1764151200,780,1010,Ankaraspor,Ankaragücü,2,1,1,1
+1441649,1764151200,3594,3567,Kastamonuspor,Altınordu,7,1,4,1
+1441650,1764151200,3609,3571,Beykoz Anadolu,Elazığspor,0,7,0,2
+1441651,1764151200,3612,7403,İnegölspor,İskenderunspor,1,0,1,0
+1441654,1764154800,6529,7392,Kepezspor,24 Erzincanspor,1,3,1,0
+1441652,1764154800,7396,22009,Bucaspor 1928,Adana 01 FK,2,1,2,1
+1441648,1764158400,3613,7395,Şanlıurfaspor,Batman Petrolspor,0,2,0,1
+1441653,1764158400,6526,7407,Karaman FK,Karacabey Belediyespor,1,1,1,1
+1441655,1764158400,7414,7406,Muğlaspor,Beyoğlu Yeni Çarşı,1,0,1,0
+1441671,1764410400,6536,6546,Muş Sport Klübü,Yeni Mersin Idmanyurdu,5,0,1,0
+1441670,1764417600,6523,21993,Isparta 32 Spor,Aliağa FAŞ,1,1,0,0
+1441672,1764417600,15101,6340,Arnavutköy Belediyespor,1461 Trabzon FK,2,3,0,1
+1441659,1764496800,7407,3613,Karacabey Belediyespor,Şanlıurfaspor,1,2,0,0
+1441673,1764496800,24601,6511, Kahramanmaraş İstiklal Spor,Güzide Gebzespor,1,0,0,0
+1441668,1764500400,6507,6533,68 Aksaray Belediyespor,Mardin 1969,0,3,0,2
+1441662,1764500400,7392,3612,24 Erzincanspor,İnegölspor,0,1,0,1
+1441660,1764500400,7403,7401,İskenderunspor,Erbaaspor,1,0,0,0
+1441663,1764500400,7406,780,Beyoğlu Yeni Çarşı,Ankaraspor,1,1,0,1
+1441664,1764500400,22009,6529,Adana 01 FK,Kepezspor,2,0,0,0
+1441665,1764504000,1003,3590,Bursaspor,Fethiyespor,3,0,2,0
+1441661,1764504000,3567,7414,Altınordu,Muğlaspor,0,1,0,0
+1441658,1764504000,3571,7396,Elazığspor,Bucaspor 1928,0,1,0,0
+1441667,1764504000,3596,6538,Kırklarelispor,Somaspor,3,0,1,0
+1441669,1764504000,3599,3581,Menemen FK,Ankara Demirspor,0,1,0,1
+1441657,1764504000,7395,3594,Batman Petrolspor,Kastamonuspor,2,1,1,1
+1441656,1764511200,1010,3609,Ankaragücü,Beykoz Anadolu,1,1,0,1
+1441677,1765015200,780,3567,Ankaraspor,Altınordu,1,1,0,0
+1441686,1765015200,3581,6507,Ankara Demirspor,68 Aksaray Belediyespor,2,2,0,2
+1441684,1765015200,6340,3564,1461 Trabzon FK,Adanaspor,2,0,1,0
+1441678,1765015200,6529,3571,Kepezspor,Elazığspor,0,6,0,4
+1441683,1765015200,6533,1003,Mardin 1969,Bursaspor,1,2,1,1
+1441682,1765018800,3612,22009,İnegölspor,Adana 01 FK,0,0,0,0
+1441688,1765018800,6538,3599,Somaspor,Menemen FK,1,4,0,1
+1441690,1765018800,6546,15101,Yeni Mersin Idmanyurdu,Arnavutköy Belediyespor,4,3,2,2
+1441681,1765018800,7401,7392,Erbaaspor,24 Erzincanspor,1,3,1,1
+1441675,1765029600,3613,6526,Şanlıurfaspor,Karaman FK,2,0,1,0
+1441674,1765029600,7396,1010,Bucaspor 1928,Ankaragücü,0,1,0,1
+1441691,1765101600,6511,6536,Güzide Gebzespor,Muş Sport Klübü,1,1,0,0
+1441679,1765101600,7414,7395,Muğlaspor,Batman Petrolspor,2,0,1,0
+1441689,1765103400,3590,24601,Fethiyespor, Kahramanmaraş İstiklal Spor,2,4,1,2
+1441676,1765105200,3594,7407,Kastamonuspor,Karacabey Belediyespor,2,1,0,0
+1441687,1765105200,21993,3596,Aliağa FAŞ,Kırklarelispor,3,0,1,0
+1441680,1765108800,3609,7406,Beykoz Anadolu,Beyoğlu Yeni Çarşı,5,1,1,0
+1441704,1765537200,6507,6538,68 Aksaray Belediyespor,Somaspor,1,3,0,2
+1441693,1765537200,6526,3594,Karaman FK,Kastamonuspor,1,2,1,1
+1441694,1765537200,7395,780,Batman Petrolspor,Ankaraspor,4,4,2,0
+1441698,1765537200,7406,7396,Beyoğlu Yeni Çarşı,Bucaspor 1928,3,0,0,0
+1441700,1765537200,7407,7414,Karacabey Belediyespor,Muğlaspor,0,1,0,1
+1441708,1765537200,15101,6536,Arnavutköy Belediyespor,Muş Sport Klübü,2,3,0,3
+1441699,1765537200,22009,7401,Adana 01 FK,Erbaaspor,3,0,1,0
+1441692,1765540800,1010,6529,Ankaragücü,Kepezspor,2,0,2,0
+1441697,1765540800,3571,3612,Elazığspor,İnegölspor,4,2,2,2
+1441706,1765540800,3590,6511,Fethiyespor,Güzide Gebzespor,0,0,0,0
+1441701,1765548000,1003,3581,Bursaspor,Ankara Demirspor,4,0,2,0
+1441707,1765548000,3599,21993,Menemen FK,Aliağa FAŞ,2,1,0,0
+1441702,1765620000,3564,6546,Adanaspor,Yeni Mersin Idmanyurdu,0,3,0,2
+1441705,1765620000,6523,6340,Isparta 32 Spor,1461 Trabzon FK,1,2,1,2
+1441709,1765620000,24601,6533, Kahramanmaraş İstiklal Spor,Mardin 1969,0,1,0,1
+1441695,1765623600,7392,7403,24 Erzincanspor,İskenderunspor,0,1,0,1
+1441696,1765627200,3567,3609,Altınordu,Beykoz Anadolu,0,4,0,1
+1441711,1765879200,3594,3613,Kastamonuspor,Şanlıurfaspor,2,4,2,1
+1441725,1765879200,6536,3590,Muş Sport Klübü,Fethiyespor,2,0,0,0
+1441716,1765882800,780,7407,Ankaraspor,Karacabey Belediyespor,0,0,0,0
+1441718,1765882800,6529,7406,Kepezspor,Beyoğlu Yeni Çarşı,0,1,0,0
+1441717,1765882800,7414,6526,Muğlaspor,Karaman FK,0,0,0,0
+1441724,1765882800,21993,6507,Aliağa FAŞ,68 Aksaray Belediyespor,1,1,1,1
+1441710,1765886400,3612,1010,İnegölspor,Ankaragücü,1,2,1,0
+1441719,1765886400,6538,1003,Somaspor,Bursaspor,0,3,0,1
+1441726,1765965600,3581,24601,Ankara Demirspor, Kahramanmaraş İstiklal Spor,0,3,0,3
+1441727,1765965600,6533,6511,Mardin 1969,Güzide Gebzespor,2,2,1,0
+1441715,1765965600,7401,3571,Erbaaspor,Elazığspor,0,4,0,3
+1441723,1765969200,6546,6523,Yeni Mersin Idmanyurdu,Isparta 32 Spor,3,5,0,4
+1441714,1765969200,7403,22009,İskenderunspor,Adana 01 FK,2,3,2,1
+1441720,1765969200,15101,3564,Arnavutköy Belediyespor,Adanaspor,5,0,3,0
+1441712,1765972800,3609,7395,Beykoz Anadolu,Batman Petrolspor,0,1,0,0
+1441713,1765972800,7396,3567,Bucaspor 1928,Altınordu,1,2,1,0
+1441722,1766052000,6340,3596,1461 Trabzon FK,Kırklarelispor,2,1,1,0
+1441731,1766224800,3613,7414,Şanlıurfaspor,Muğlaspor,0,0,0,0
+1441734,1766232000,6526,780,Karaman FK,Ankaraspor,1,1,0,1
+1441736,1766232000,7406,3612,Beyoğlu Yeni Çarşı,İnegölspor,2,3,0,0
+1441737,1766239200,1003,21993,Bursaspor,Aliağa FAŞ,0,0,0,0
+1441730,1766311200,7395,7396,Batman Petrolspor,Bucaspor 1928,1,0,1,0
+1441733,1766311200,22009,7392,Adana 01 FK,24 Erzincanspor,1,0,0,0
+1441745,1766311200,24601,6538, Kahramanmaraş İstiklal Spor,Somaspor,6,0,3,0
+1441743,1766314800,3590,6533,Fethiyespor,Mardin 1969,0,0,0,0
+1441728,1766318400,1010,7401,Ankaragücü,Erbaaspor,1,0,1,0
+1441735,1766318400,3567,6529,Altınordu,Kepezspor,2,2,2,1
+1441744,1766318400,6511,3581,Güzide Gebzespor,Ankara Demirspor,2,0,0,0
+1441742,1766318400,6523,15101,Isparta 32 Spor,Arnavutköy Belediyespor,0,1,0,1
+1441732,1766318400,7407,3609,Karacabey Belediyespor,Beykoz Anadolu,3,1,3,0
+1441738,1766397600,3564,6536,Adanaspor,Muş Sport Klübü,2,8,0,3
+1441741,1766397600,3599,6340,Menemen FK,1461 Trabzon FK,2,2,1,0
+1441740,1766401200,3596,6546,Kırklarelispor,Yeni Mersin Idmanyurdu,1,1,0,1
+1441729,1766404800,3571,7403,Elazığspor,İskenderunspor,1,3,1,1
+1441747,1766833200,780,3613,Ankaraspor,Şanlıurfaspor,2,1,0,0
+1441751,1766916000,6529,7395,Kepezspor,Batman Petrolspor,1,4,0,1
+1441754,1766916000,7401,7406,Erbaaspor,Beyoğlu Yeni Çarşı,0,2,0,1
+1441746,1766916000,7403,1010,İskenderunspor,Ankaragücü,4,2,0,1
+1441750,1766923200,3609,6526,Beykoz Anadolu,Karaman FK,2,0,1,0
+1441753,1766923200,3612,3567,İnegölspor,Altınordu,3,1,2,0
+1441748,1766923200,7392,3571,24 Erzincanspor,Elazığspor,1,1,0,0
+1441752,1766923200,7396,7407,Bucaspor 1928,Karacabey Belediyespor,1,4,1,2
+1441749,1766923200,7414,3594,Muğlaspor,Kastamonuspor,1,1,1,0
+1441757,1768039200,780,3594,Ankaraspor,Kastamonuspor,2,2,1,0
+1441769,1768039200,3590,3581,Fethiyespor,Ankara Demirspor,0,1,0,0
+1441761,1768039200,7403,7406,İskenderunspor,Beyoğlu Yeni Çarşı,1,1,1,0
+1441772,1768039200,24601,21993, Kahramanmaraş İstiklal Spor,Aliağa FAŞ,2,0,0,0
+1441770,1768046400,6511,6538,Güzide Gebzespor,Somaspor,0,1,0,1
+1441765,1768046400,6523,3564,Isparta 32 Spor,Adanaspor,7,0,3,0
+1441756,1768125600,3609,3613,Beykoz Anadolu,Şanlıurfaspor,0,4,0,2
+1441759,1768125600,3612,7395,İnegölspor,Batman Petrolspor,1,1,1,0
+1441766,1768125600,6507,6340,68 Aksaray Belediyespor,1461 Trabzon FK,1,1,1,0
+1441763,1768125600,6529,7407,Kepezspor,Karacabey Belediyespor,2,1,0,1
+1441771,1768125600,6533,6536,Mardin 1969,Muş Sport Klübü,0,3,0,1
+1441760,1768125600,7396,6526,Bucaspor 1928,Karaman FK,5,0,3,0
+1441762,1768125600,7401,3567,Erbaaspor,Altınordu,0,1,0,0
+1441758,1768125600,22009,3571,Adana 01 FK,Elazığspor,4,0,1,0
+1441767,1768132800,3596,15101,Kırklarelispor,Arnavutköy Belediyespor,1,1,0,0
+1441755,1768132800,7392,1010,24 Erzincanspor,Ankaragücü,0,2,0,2
+1441774,1768644000,3594,3609,Kastamonuspor,Beykoz Anadolu,1,1,1,0
+1441786,1768644000,6536,6523,Muş Sport Klübü,Isparta 32 Spor,3,1,0,0
+1441776,1768651200,3567,7403,Altınordu,İskenderunspor,1,1,1,1
+1441787,1768651200,6538,3590,Somaspor,Fethiyespor,1,2,0,1
+1441785,1768651200,6546,6507,Yeni Mersin Idmanyurdu,68 Aksaray Belediyespor,1,8,0,5
+1441781,1768651200,7414,780,Muğlaspor,Ankaraspor,1,0,1,0
+1441773,1768658400,1010,22009,Ankaragücü,Adana 01 FK,0,0,0,0
+1441789,1768730400,3581,6533,Ankara Demirspor,Mardin 1969,0,4,0,2
+1441782,1768730400,6340,1003,1461 Trabzon FK,Bursaspor,2,1,1,0
+1441778,1768730400,7406,7392,Beyoğlu Yeni Çarşı,24 Erzincanspor,2,0,2,0
+1441783,1768737600,3564,3596,Adanaspor,Kırklarelispor,0,8,0,5
+1441775,1768737600,3613,7396,Şanlıurfaspor,Bucaspor 1928,4,2,2,0
+1441779,1768737600,6526,6529,Karaman FK,Kepezspor,0,4,0,1
+1441777,1768737600,7395,7401,Batman Petrolspor,Erbaaspor,3,0,1,0
+1441780,1768737600,7407,3612,Karacabey Belediyespor,İnegölspor,0,1,0,0
+1441788,1768737600,15101,3599,Arnavutköy Belediyespor,Menemen FK,1,2,0,1
+1441790,1768737600,21993,6511,Aliağa FAŞ,Güzide Gebzespor,1,0,1,0
+1441791,1769166000,3571,1010,Elazığspor,Ankaragücü,5,0,2,0
+1441799,1769166000,22009,7406,Adana 01 FK,Beyoğlu Yeni Çarşı,0,0,0,0
+1441807,1769248800,3581,6536,Ankara Demirspor,Muş Sport Klübü,1,3,1,2
+1441804,1769248800,6507,15101,68 Aksaray Belediyespor,Arnavutköy Belediyespor,0,1,0,0
+1441795,1769248800,7392,3567,24 Erzincanspor,Altınordu,2,0,1,0
+1441792,1769248800,7396,3594,Bucaspor 1928,Kastamonuspor,0,1,0,0
+1441798,1769248800,7401,7407,Erbaaspor,Karacabey Belediyespor,2,0,1,0
+1441803,1769256000,3596,6523,Kırklarelispor,Isparta 32 Spor,1,2,0,0
+1441801,1769256000,3599,3564,Menemen FK,Adanaspor,3,0,3,0
+1441796,1769256000,3609,7414,Beykoz Anadolu,Muğlaspor,1,2,0,1
+1441797,1769256000,3612,6526,İnegölspor,Karaman FK,6,1,4,1
+1441793,1769256000,7403,7395,İskenderunspor,Batman Petrolspor,2,2,2,1
+1441800,1769263200,1003,6546,Bursaspor,Yeni Mersin Idmanyurdu,3,0,1,0
+1441806,1769263200,3590,21993,Fethiyespor,Aliağa FAŞ,1,3,0,1
+1441823,1769508000,6340,6511,1461 Trabzon FK,Güzide Gebzespor,1,1,1,0
+1441814,1769515200,7406,3571,Beyoğlu Yeni Çarşı,Elazığspor,0,0,0,0
+1441821,1769590800,6536,3596,Muş Sport Klübü,Kırklarelispor,1,0,1,0
+1441813,1769594400,780,3609,Ankaraspor,Beykoz Anadolu,1,1,1,1
+1441811,1769594400,3594,6529,Kastamonuspor,Kepezspor,1,1,0,0
+1441824,1769598000,6538,3581,Somaspor,Ankara Demirspor,2,1,1,1
+1441819,1769601600,3564,6507,Adanaspor,68 Aksaray Belediyespor,0,4,0,3
+1441815,1769601600,3567,22009,Altınordu,Adana 01 FK,0,3,0,1
+1441810,1769601600,3613,3612,Şanlıurfaspor,İnegölspor,0,0,0,0
+1441817,1769601600,6526,7401,Karaman FK,Erbaaspor,2,1,0,0
+1441825,1769601600,6546,24601,Yeni Mersin Idmanyurdu, Kahramanmaraş İstiklal Spor,0,6,0,5
+1441809,1769601600,7395,7392,Batman Petrolspor,24 Erzincanspor,4,0,2,0
+1441812,1769601600,7407,7403,Karacabey Belediyespor,İskenderunspor,4,3,2,2
+1441816,1769601600,7414,7396,Muğlaspor,Bucaspor 1928,2,1,1,0
+1441818,1769601600,15101,1003,Arnavutköy Belediyespor,Bursaspor,0,1,0,1
+1441826,1769601600,21993,6533,Aliağa FAŞ,Mardin 1969,2,0,1,0
+1441822,1769608800,6523,3599,Isparta 32 Spor,Menemen FK,1,0,0,0
+1441840,1769857200,3590,6340,Fethiyespor,1461 Trabzon FK,4,1,2,0
+1441827,1769860800,1010,7406,Ankaragücü,Beyoğlu Yeni Çarşı,3,2,2,2
+1441843,1769940000,3581,21993,Ankara Demirspor,Aliağa FAŞ,1,2,0,0
+1441838,1769940000,6507,6523,68 Aksaray Belediyespor,Isparta 32 Spor,2,2,2,2
+1441835,1769940000,6529,7414,Kepezspor,Muğlaspor,1,2,0,0
+1441833,1769940000,7396,780,Bucaspor 1928,Ankaraspor,2,4,0,2
+1441830,1769940000,7401,3613,Erbaaspor,Şanlıurfaspor,0,0,0,0
+1441832,1769940000,7403,6526,İskenderunspor,Karaman FK,3,1,0,0
+1441831,1769940000,22009,7395,Adana 01 FK,Batman Petrolspor,1,1,0,1
+1441844,1769940000,24601,15101, Kahramanmaraş İstiklal Spor,Arnavutköy Belediyespor,1,1,1,0
+1441828,1769947200,3571,3567,Elazığspor,Altınordu,2,0,0,0
+1441839,1769947200,3599,3596,Menemen FK,Kırklarelispor,0,0,0,0
+1441829,1769947200,3612,3594,İnegölspor,Kastamonuspor,2,2,2,1
+1441842,1769947200,6538,6536,Somaspor,Muş Sport Klübü,1,2,1,0
+1441836,1769954400,1003,3564,Bursaspor,Adanaspor,6,0,2,0
+1441848,1770544800,3594,7401,Kastamonuspor,Erbaaspor,1,1,0,1
+1441857,1770544800,3596,6507,Kırklarelispor,68 Aksaray Belediyespor,0,2,0,1
+1441860,1770544800,6340,6533,1461 Trabzon FK,Mardin 1969,0,1,0,0
+1441850,1770544800,6526,7392,Karaman FK,24 Erzincanspor,0,5,0,4
+1441859,1770544800,6536,3599,Muş Sport Klübü,Menemen FK,4,1,2,0
+1441847,1770544800,7395,3571,Batman Petrolspor,Elazığspor,2,0,1,0
+1441852,1770552000,780,6529,Ankaraspor,Kepezspor,1,1,1,1
+1441845,1770552000,3567,1010,Altınordu,Ankaragücü,1,1,1,0
+1441846,1770552000,3613,7403,Şanlıurfaspor,İskenderunspor,2,0,1,0
+1441854,1770552000,6523,1003,Isparta 32 Spor,Bursaspor,1,1,1,1
+1441853,1770552000,7414,3612,Muğlaspor,İnegölspor,3,0,1,0
+1441855,1770638400,3564,24601,Adanaspor, Kahramanmaraş İstiklal Spor,1,7,0,3
+1441849,1770638400,3609,7396,Beykoz Anadolu,Bucaspor 1928,1,1,0,1
+1441851,1770638400,7407,22009,Karacabey Belediyespor,Adana 01 FK,1,1,0,0
+1441862,1770638400,15101,6511,Arnavutköy Belediyespor,Güzide Gebzespor,0,2,0,1
+1441861,1770638400,21993,6538,Aliağa FAŞ,Somaspor,3,3,2,1
+1441865,1771063200,7392,3613,24 Erzincanspor,Şanlıurfaspor,3,1,2,0
+1441877,1771063200,24601,6523, Kahramanmaraş İstiklal Spor,Isparta 32 Spor,2,1,2,1
+1441876,1771066800,3581,6340,Ankara Demirspor,1461 Trabzon FK,1,0,0,0
+1441866,1771070400,3571,7407,Elazığspor,Karacabey Belediyespor,1,2,0,1
+1441870,1771070400,3612,780,İnegölspor,Ankaraspor,2,2,1,1
+1441867,1771070400,6529,3609,Kepezspor,Beykoz Anadolu,2,3,0,1
+1441869,1771070400,7406,3567,Beyoğlu Yeni Çarşı,Altınordu,1,1,0,1
+1441880,1771070400,21993,6536,Aliağa FAŞ,Muş Sport Klübü,4,0,2,0
+1441875,1771149600,6507,3599,68 Aksaray Belediyespor,Menemen FK,2,1,1,0
+1441871,1771149600,7401,7414,Erbaaspor,Muğlaspor,0,1,0,0
+1441868,1771149600,22009,6526,Adana 01 FK,Karaman FK,0,0,0,0
+1441863,1771156800,1010,7395,Ankaragücü,Batman Petrolspor,1,1,1,1
+1441878,1771156800,3590,15101,Fethiyespor,Arnavutköy Belediyespor,0,0,0,0
+1441873,1771156800,6511,3564,Güzide Gebzespor,Adanaspor,7,0,4,0
+1441864,1771156800,7403,3594,İskenderunspor,Kastamonuspor,2,0,1,0
+1441872,1771164000,1003,3596,Bursaspor,Kırklarelispor,4,0,3,0
+1441808,1771239600,6533,6538,Mardin 1969,Somaspor,3,0,1,0
+1441805,1771408800,24601,6340, Kahramanmaraş İstiklal Spor,1461 Trabzon FK,4,1,1,1
+1441794,1771416000,6529,3613,Kepezspor,Şanlıurfaspor,2,3,1,1
+1441891,1771668000,3564,3590,Adanaspor,Fethiyespor,0,6,0,2
+1441889,1771675200,780,7401,Ankaraspor,Erbaaspor,3,1,0,0
+1441887,1771675200,3609,3612,Beykoz Anadolu,İnegölspor,0,2,0,1
+1441895,1771675200,6523,6511,Isparta 32 Spor,Güzide Gebzespor,2,2,0,1
+1441890,1771678800,3599,1003,Menemen FK,Bursaspor,1,3,1,2
+1441882,1771754400,3594,7392,Kastamonuspor,24 Erzincanspor,1,0,0,0
+1441896,1771754400,6340,6538,1461 Trabzon FK,Somaspor,1,0,0,0
+1441884,1771754400,6526,3571,Karaman FK,Elazığspor,0,5,0,4
+1441893,1771754400,6536,6507,Muş Sport Klübü,68 Aksaray Belediyespor,1,1,1,0
+1441885,1771754400,7395,7406,Batman Petrolspor,Beyoğlu Yeni Çarşı,4,1,1,0
+1441894,1771761600,3596,24601,Kırklarelispor, Kahramanmaraş İstiklal Spor,3,2,1,2
+1441883,1771761600,3613,22009,Şanlıurfaspor,Adana 01 FK,1,2,0,2
+1441888,1771761600,7396,6529,Bucaspor 1928,Kepezspor,0,1,0,0
+1441881,1771761600,7407,1010,Karacabey Belediyespor,Ankaragücü,0,2,0,0
+1441886,1771761600,7414,7403,Muğlaspor,İskenderunspor,0,0,0,0
+1441898,1771761600,15101,6533,Arnavutköy Belediyespor,Mardin 1969,1,0,1,0
+1441904,1772272800,7401,3609,Erbaaspor,Beykoz Anadolu,2,1,1,1
+1441899,1772280000,1010,6526,Ankaragücü,Karaman FK,1,0,1,0
+1441912,1772280000,3590,6523,Fethiyespor,Isparta 32 Spor,1,1,1,1
+1441905,1772280000,3612,7396,İnegölspor,Bucaspor 1928,4,0,2,0
+1441911,1772280000,6511,3596,Güzide Gebzespor,Kırklarelispor,1,0,0,0
+1441907,1772280000,7406,7407,Beyoğlu Yeni Çarşı,Karacabey Belediyespor,0,0,0,0
+1441915,1772280000,21993,6340,Aliağa FAŞ,1461 Trabzon FK,1,0,0,0
+1441908,1772281800,1003,6507,Bursaspor,68 Aksaray Belediyespor,6,0,3,0
+1441909,1772359200,6533,3564,Mardin 1969,Adanaspor,5,0,3,0
+1441906,1772359200,7392,7414,24 Erzincanspor,Muğlaspor,0,0,0,0
+1441914,1772359200,24601,3599, Kahramanmaraş İstiklal Spor,Menemen FK,3,0,1,0
+1441901,1772366400,3567,7395,Altınordu,Batman Petrolspor,0,4,0,1
+1441900,1772366400,3571,3613,Elazığspor,Şanlıurfaspor,1,0,0,0
+1441916,1772366400,3581,15101,Ankara Demirspor,Arnavutköy Belediyespor,3,0,1,0
+1441903,1772366400,7403,780,İskenderunspor,Ankaraspor,1,0,0,0
+1441902,1772366400,22009,3594,Adana 01 FK,Kastamonuspor,1,1,0,0
+1441919,1772800200,3609,7403,Beykoz Anadolu,İskenderunspor,1,2,0,0
+1441922,1772800200,7396,7401,Bucaspor 1928,Erbaaspor,1,1,0,1
+1441918,1772879400,3594,3571,Kastamonuspor,Elazığspor,0,0,0,0
+1441917,1772879400,3613,1010,Şanlıurfaspor,Ankaragücü,2,2,1,0
+1441921,1772886600,780,7392,Ankaraspor,24 Erzincanspor,1,1,0,0
+1441925,1772886600,6529,3612,Kepezspor,İnegölspor,0,0,0,0
+1441920,1772886600,7407,3567,Karacabey Belediyespor,Altınordu,2,1,1,0
+1441924,1772886600,7414,22009,Muğlaspor,Adana 01 FK,2,0,0,0
+1441931,1772964000,6523,6533,Isparta 32 Spor,Mardin 1969,1,0,0,0
+1441923,1772964000,6526,7406,Karaman FK,Beyoğlu Yeni Çarşı,1,2,1,0
+1441930,1772965800,6507,24601,68 Aksaray Belediyespor, Kahramanmaraş İstiklal Spor,3,1,1,1
+1441926,1772965800,6536,1003,Muş Sport Klübü,Bursaspor,0,1,0,1
+1441929,1772967600,3596,3590,Kırklarelispor,Fethiyespor,1,2,1,1
+1441927,1772971200,3564,3581,Adanaspor,Ankara Demirspor,0,3,0,1
+1441932,1772973000,3599,6511,Menemen FK,Güzide Gebzespor,1,2,0,1
+1441934,1772973000,15101,6538,Arnavutköy Belediyespor,Somaspor,0,0,0,0
+1441936,1773145800,7403,7396,İskenderunspor,Bucaspor 1928,1,1,0,0
+1441941,1773223200,3571,7414,Elazığspor,Muğlaspor,1,0,0,0
+1441943,1773223200,7401,6529,Erbaaspor,Kepezspor,0,0,0,0
+1441939,1773225000,7392,3609,24 Erzincanspor,Beykoz Anadolu,4,0,1,0
+1441937,1773225000,7395,7407,Batman Petrolspor,Karacabey Belediyespor,4,1,0,1
+1441942,1773225000,22009,780,Adana 01 FK,Ankaraspor,3,2,1,0
+1441935,1773232200,1010,3594,Ankaragücü,Kastamonuspor,1,0,1,0
+1441940,1773318600,3567,6526,Altınordu,Karaman FK,5,1,3,0
+1441938,1773318600,7406,3613,Beyoğlu Yeni Çarşı,Şanlıurfaspor,2,1,1,1
+1441953,1773482400,24601,1003, Kahramanmaraş İstiklal Spor,Bursaspor,0,0,0,0
+1441957,1773484200,6533,3596,Mardin 1969,Kırklarelispor,3,0,1,0
+1441959,1773491400,3581,6523,Ankara Demirspor,Isparta 32 Spor,1,3,0,2
+1441958,1773491400,3590,3599,Fethiyespor,Menemen FK,0,1,0,0
+1441961,1773491400,21993,15101,Aliağa FAŞ,Arnavutköy Belediyespor,3,0,3,0
+1441954,1773568800,6538,3564,Somaspor,Adanaspor,5,0,0,0
+1441960,1773570600,6340,6536,1461 Trabzon FK,Muş Sport Klübü,1,1,0,0
+1441947,1773577800,780,3571,Ankaraspor,Elazığspor,2,3,1,1
+1441950,1773577800,3609,22009,Beykoz Anadolu,Adana 01 FK,1,3,1,0
+1441952,1773577800,3612,7401,İnegölspor,Erbaaspor,1,2,0,1
+1441956,1773577800,6511,6507,Güzide Gebzespor,68 Aksaray Belediyespor,1,0,0,0
+1441951,1773577800,6529,7403,Kepezspor,İskenderunspor,1,1,0,0
+1441949,1773577800,7396,7392,Bucaspor 1928,24 Erzincanspor,0,4,0,0
+1441944,1773577800,7414,1010,Muğlaspor,Ankaragücü,2,0,1,0
+1441948,1773657000,3594,7406,Kastamonuspor,Beyoğlu Yeni Çarşı,0,2,0,1
+1441945,1773657000,3613,3567,Şanlıurfaspor,Altınordu,0,0,0,0
+1441946,1773657000,6526,7395,Karaman FK,Batman Petrolspor,0,6,0,3
+1441969,1774348200,7392,6529,24 Erzincanspor,Kepezspor,2,1,1,0
+1441975,1774350000,3596,3581,Kırklarelispor,Ankara Demirspor,2,0,1,0
+1441974,1774350000,6507,3590,68 Aksaray Belediyespor,Fethiyespor,0,2,0,0
+1441979,1774350000,6536,24601,Muş Sport Klübü, Kahramanmaraş İstiklal Spor,5,1,2,0
+1441966,1774350000,7403,3612,İskenderunspor,İnegölspor,1,1,0,0
+1441967,1774350000,22009,7396,Adana 01 FK,Bucaspor 1928,2,1,2,0
+1441965,1774357200,3571,3609,Elazığspor,Beykoz Anadolu,3,1,1,0
+1441977,1774357200,6523,6538,Isparta 32 Spor,Somaspor,2,1,0,0
+1441971,1774368000,1003,6511,Bursaspor,Güzide Gebzespor,2,0,0,0
+1441972,1774436400,3564,21993,Adanaspor,Aliağa FAŞ,1,8,1,0
+1441978,1774436400,3599,6533,Menemen FK,Mardin 1969,1,3,1,1
+1441964,1774443600,3567,3594,Altınordu,Kastamonuspor,1,0,0,0
+1441963,1774443600,7395,3613,Batman Petrolspor,Şanlıurfaspor,2,1,1,1
+1441970,1774443600,7406,7414,Beyoğlu Yeni Çarşı,Muğlaspor,1,1,1,1
+1441968,1774443600,7407,6526,Karacabey Belediyespor,Karaman FK,1,0,1,0
+1441962,1774450800,1010,780,Ankaragücü,Ankaraspor,2,1,1,0
+1441996,1774695600,6340,15101,1461 Trabzon FK,Arnavutköy Belediyespor,0,1,0,1
+1441984,1774695600,7401,7403,Erbaaspor,İskenderunspor,2,0,2,0
+1441988,1774701000,6529,22009,Kepezspor,Adana 01 FK,1,3,1,2
+1441989,1774702800,3590,1003,Fethiyespor,Bursaspor,1,1,0,1
+1441986,1774702800,3612,7392,İnegölspor,24 Erzincanspor,4,0,2,0
+1441991,1774702800,6538,3596,Somaspor,Kırklarelispor,2,0,1,0
+1441982,1774702800,7396,3571,Bucaspor 1928,Elazığspor,1,5,0,2
+1441987,1774782000,780,7406,Ankaraspor,Beyoğlu Yeni Çarşı,0,2,0,0
+1441981,1774782000,3594,7395,Kastamonuspor,Batman Petrolspor,1,2,1,2
+1441983,1774782000,3613,7407,Şanlıurfaspor,Karacabey Belediyespor,2,2,2,2
+1441992,1774782000,6533,6507,Mardin 1969,68 Aksaray Belediyespor,1,0,0,0
+1441993,1774785600,3581,3599,Ankara Demirspor,Menemen FK,2,0,2,0
+1441980,1774789200,3609,1010,Beykoz Anadolu,Ankaragücü,1,3,1,1
+1441997,1774789200,6511,24601,Güzide Gebzespor, Kahramanmaraş İstiklal Spor,1,0,1,0
+1441985,1774789200,7414,3567,Muğlaspor,Altınordu,0,1,0,0
+1441994,1774789200,21993,6523,Aliağa FAŞ,Isparta 32 Spor,1,5,0,5
+1441998,1775217600,1010,7396,Ankaragücü,Bucaspor 1928,1,0,1,0
+1442015,1775296800,6536,6511,Muş Sport Klübü,Güzide Gebzespor,3,1,0,1
+1442013,1775296800,24601,3590, Kahramanmaraş İstiklal Spor,Fethiyespor,4,0,1,0
+1442008,1775300400,3564,6340,Adanaspor,1461 Trabzon FK,0,3,0,1
+1442001,1775304000,3567,780,Altınordu,Ankaraspor,1,0,0,0
+1442002,1775304000,3571,6529,Elazığspor,Kepezspor,3,1,2,1
+1442011,1775304000,3596,21993,Kırklarelispor,Aliağa FAŞ,1,2,0,0
+1442010,1775304000,6507,3581,68 Aksaray Belediyespor,Ankara Demirspor,2,2,2,0
+1441999,1775304000,6526,3613,Karaman FK,Şanlıurfaspor,1,3,0,2
+1442005,1775304000,7392,7401,24 Erzincanspor,Erbaaspor,3,2,2,2
+1442003,1775304000,7395,7414,Batman Petrolspor,Muğlaspor,1,0,1,0
+1442004,1775304000,7406,3609,Beyoğlu Yeni Çarşı,Beykoz Anadolu,1,0,0,0
+1442000,1775304000,7407,3594,Karacabey Belediyespor,Kastamonuspor,4,0,2,0
+1442006,1775304000,22009,3612,Adana 01 FK,İnegölspor,4,1,0,0
+1442007,1775307600,1003,6533,Bursaspor,Mardin 1969,2,0,0,0
+1442012,1775307600,3599,6538,Menemen FK,Somaspor,2,1,0,0
+1442021,1775646000,3612,3571,İnegölspor,Elazığspor,2,2,0,1
+1442018,1775649600,780,7395,Ankaraspor,Batman Petrolspor,2,3,1,1
+1442017,1775649600,3594,6526,Kastamonuspor,Karaman FK,2,2,1,1
+1442020,1775649600,3609,3567,Beykoz Anadolu,Altınordu,2,1,0,0
+1442022,1775649600,7396,7406,Bucaspor 1928,Beyoğlu Yeni Çarşı,1,1,1,0
+1442023,1775649600,7401,22009,Erbaaspor,Adana 01 FK,0,2,0,2
+1442019,1775649600,7403,7392,İskenderunspor,24 Erzincanspor,2,1,2,0
+1442016,1775653200,6529,1010,Kepezspor,Ankaragücü,2,3,1,0
+1442024,1775653200,7414,7407,Muğlaspor,Karacabey Belediyespor,0,3,0,1
+1442037,1775988000,6538,6507,Somaspor,68 Aksaray Belediyespor,0,0,0,0
+1442025,1775995200,1010,3612,Ankaragücü,İnegölspor,1,2,0,0
+1442028,1775995200,3567,7396,Altınordu,Bucaspor 1928,2,0,0,0
+1442030,1775995200,3571,7401,Elazığspor,Erbaaspor,3,0,0,0
+1442034,1775995200,3581,1003,Ankara Demirspor,Bursaspor,0,1,0,1
+1442026,1775995200,3613,3594,Şanlıurfaspor,Kastamonuspor,5,2,3,0
+1442038,1775995200,6340,6523,1461 Trabzon FK,Isparta 32 Spor,1,3,0,1
+1442039,1775995200,6511,3590,Güzide Gebzespor,Fethiyespor,1,2,0,1
+1442032,1775995200,6526,7414,Karaman FK,Muğlaspor,0,4,0,2
+1442042,1775995200,6533,24601,Mardin 1969, Kahramanmaraş İstiklal Spor,2,1,1,0
+1442041,1775995200,6536,15101,Muş Sport Klübü,Arnavutköy Belediyespor,2,1,0,0
+1442027,1775995200,7395,3609,Batman Petrolspor,Beykoz Anadolu,0,1,0,1
+1442033,1775995200,7406,6529,Beyoğlu Yeni Çarşı,Kepezspor,1,0,1,0
+1442031,1775995200,7407,780,Karacabey Belediyespor,Ankaraspor,3,3,1,1
+1442040,1775995200,21993,3599,Aliağa FAŞ,Menemen FK,5,0,2,0
+1442029,1775995200,22009,7403,Adana 01 FK,İskenderunspor,2,0,2,0
+1442053,1776513600,3564,15101,Adanaspor,Arnavutköy Belediyespor,0,1,0,1
+1442049,1776600000,780,6526,Ankaraspor,Karaman FK,5,4,3,1
+1442052,1776600000,1003,6538,Bursaspor,Somaspor,5,1,1,0
+1442058,1776600000,3590,6536,Fethiyespor,Muş Sport Klübü,1,1,1,1
+1442055,1776600000,3596,6340,Kırklarelispor,1461 Trabzon FK,1,2,1,0
+1442047,1776600000,3609,7407,Beykoz Anadolu,Karacabey Belediyespor,2,2,1,0
+1442051,1776600000,3612,7406,İnegölspor,Beyoğlu Yeni Çarşı,1,1,1,1
+1442057,1776600000,6507,21993,68 Aksaray Belediyespor,Aliağa FAŞ,1,1,1,0
+1442060,1776600000,6511,6533,Güzide Gebzespor,Mardin 1969,1,2,0,2
+1442050,1776600000,6529,3567,Kepezspor,Altınordu,2,4,0,2
+1442048,1776600000,7392,22009,24 Erzincanspor,Adana 01 FK,3,0,1,0
+1442045,1776600000,7396,7395,Bucaspor 1928,Batman Petrolspor,3,3,2,0
+1442043,1776600000,7401,1010,Erbaaspor,Ankaragücü,1,1,1,1
+1442044,1776600000,7403,3571,İskenderunspor,Elazığspor,0,1,0,0
+1442046,1776600000,7414,3613,Muğlaspor,Şanlıurfaspor,0,0,0,0
+1442059,1776600000,24601,3581, Kahramanmaraş İstiklal Spor,Ankara Demirspor,2,0,0,0
+1442067,1777032000,7407,7396,Karacabey Belediyespor,Bucaspor 1928,0,1,0,1
+1442077,1777111200,3581,6511,Ankara Demirspor,Güzide Gebzespor,2,2,2,1
+1442066,1777113000,7395,6529,Batman Petrolspor,Kepezspor,6,0,3,0
+1442061,1777118400,1010,7403,Ankaragücü,İskenderunspor,4,1,4,0
+1442068,1777118400,3567,3612,Altınordu,İnegölspor,2,2,1,0
+1442063,1777118400,3571,7392,Elazığspor,24 Erzincanspor,2,0,1,0
+1442064,1777118400,3594,7414,Kastamonuspor,Muğlaspor,0,3,0,1
+1442062,1777118400,3613,780,Şanlıurfaspor,Ankaraspor,2,1,1,0
+1442074,1777118400,6340,3599,1461 Trabzon FK,Menemen FK,4,5,4,3
+1442065,1777118400,6526,3609,Karaman FK,Beykoz Anadolu,3,2,1,1
+1442076,1777118400,6533,3590,Mardin 1969,Fethiyespor,0,0,0,0
+1442071,1777118400,6536,3564,Muş Sport Klübü,Adanaspor,6,0,1,0
+1442078,1777118400,6538,24601,Somaspor, Kahramanmaraş İstiklal Spor,2,3,1,0
+1442069,1777118400,7406,7401,Beyoğlu Yeni Çarşı,Erbaaspor,3,1,2,0
+1442075,1777118400,15101,6523,Arnavutköy Belediyespor,Isparta 32 Spor,2,0,1,0
+1442070,1777118400,21993,1003,Aliağa FAŞ,Bursaspor,0,5,0,2
+1543041,1777554000,22009,3571,Adana 01 FK,Elazığspor,2,4,0,1
+1543042,1777554000,24601,6533, Kahramanmaraş İstiklal Spor,Mardin 1969,0,0,0,0
+1543044,1777557600,21993,6536,Aliağa FAŞ,Muş Sport Klübü,1,1,0,1
+1543043,1777568400,3613,7414,Şanlıurfaspor,Muğlaspor,0,1,0,0
+1543046,1777896000,6533,24601,Mardin 1969, Kahramanmaraş İstiklal Spor,0,0,0,0
+1543045,1777896000,6536,21993,Muş Sport Klübü,Aliağa FAŞ,0,0,0,0
+1543047,1777899600,7414,3613,Muğlaspor,Şanlıurfaspor,1,1,0,1
+1543048,1777914000,3571,22009,Elazığspor,Adana 01 FK,2,1,1,0
+1544130,1778335200,6533,6536,Mardin 1969,Muş Sport Klübü,2,1,1,0
+1544218,1778428800,7414,3571,Muğlaspor,Elazığspor,0,0,0,0
