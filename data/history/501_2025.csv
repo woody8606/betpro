@@ -1,0 +1,72 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1474945,1748451600,24113,10485,Capitán Figari,Sport Colonial,0,4,0,1
+1474964,1748460600,26687,26689,Sportivo Oliveño,Libertad de San Patricio,2,2,0,1
+1474965,1748469600,26688,2134,San Pedro Del Parana,Fulgencio Yegros,2,1,0,0
+1474946,1748534400,10475,17179,Cristóbal Colón JAS,29 de Setiembre,4,1,2,1
+1378876,1748543400,17178,2134,24 de Setiembre,Fulgencio Yegros,3,3,0,0
+1474947,1748552400,2129,10471,Sport Colombia,Atlántida,0,2,0,1
+1474948,1748979000,10472,1178,Atlético Colegiales,General Diaz,0,1,0,0
+1378877,1749065400,10478,2132,Humaitá,Cristobal Colon,7,1,4,1
+1474949,1749074400,17183,21374,Benjamín Aceval,3 de Noviembre,1,0,0,0
+1474950,1749670200,17186,10473,Deportivo Pinozá,Atlético Juventud,0,1,0,0
+1474951,1749679200,10477,10465,General Caballero CG,12 de Octubre SD,1,1,0,1
+1427368,1749744000,10463,19119,1 de Marzo Pilar,Nacional de Yby Yaú,0,4,0,1
+1427369,1750188600,1188,10488,3 de Febrero,Sportivo Limpeño,1,3,0,0
+1474952,1750197600,24115,1181,Pilcomayo,General Caballero JLM,2,2,0,0
+1474953,1750262400,26684,26312,Club 10 de Mayo,Minga Guazu,0,3,0,3
+1474954,1750271400,10463,21381,1 de Marzo Pilar,Oriental,2,2,0,1
+1474955,1750870800,10482,3832,Presidente Hayes,12 de Octubre,1,3,0,0
+1474956,1750953600,10483,2136,Silvio Pettirossi,Sportivo Iteno,3,1,3,0
+1378878,1750962600,2127,2139,Olimpia De Ita,Martin Ledesma,1,2,1,0
+1427370,1751990400,19119,2130,Nacional de Yby Yaú,Fernando De La Mora,0,2,0,0
+1474957,1751999400,19121,17183,Primavera de Curuguaty,Benjamín Aceval,1,2,1,1
+1474925,1752008400,10478,1186,Humaitá,Independiente F.b.c.,1,0,1,0
+1474958,1752085800,17178,10462,24 de Setiembre,1 de Marzo Fernando Mora,4,0,3,0
+1474959,1752094800,10485,25590,Sport Colonial,Guaraní de Fram,0,6,0,3
+1474960,1752163200,10473,18311,Atlético Juventud,Pastoreo,1,2,1,1
+1474927,1752172200,26312,1185,Minga Guazu,Rubio NU,2,2,2,0
+1474935,1752181200,26683,2125,Deportivo Union de Vh,Club Sp. San Lorenzo,1,5,1,3
+1474936,1752595200,24115,26311,Pilcomayo,1 de Enero,0,3,0,2
+1474937,1752604200,1178,1189,General Diaz,Deportivo Santani,0,1,0,1
+1427372,1752613200,10471,2135,Atlántida,Resistencia,2,3,0,0
+1474938,1752681600,26687,10488,Sportivo Oliveño,Sportivo Limpeño,1,5,0,3
+1474939,1752690600,10477,23155,General Caballero CG,Encarnación,0,4,0,1
+1474940,1752768000,26685,1184,Torres Cue - Paso Yobai,Club River Plate,1,2,0,1
+1474923,1752777000,10483,1180,Silvio Pettirossi,Deportivo Capiata,0,0,0,0
+1474941,1752786000,3832,2138,12 de Octubre,Guairena FC,3,0,1,0
+1474963,1753286400,26688,1177,San Pedro Del Parana,SOL DE America,0,7,0,2
+1474942,1753295400,10479,10491,Independiente Nanawa,Tacuary,1,3,0,0
+1427373,1753304400,10475,20786,Cristóbal Colón JAS,Sportivo Carapeguá,0,2,0,0
+1427375,1754429400,2139,23154,Martin Ledesma,12 de Junio VH,0,2,0,2
+1431046,1755016200,1184,1189,Club River Plate,Deportivo Santani,1,0,0,0
+1431047,1755025200,10488,1187,Sportivo Limpeño,Sportivo Trinidense,0,4,0,4
+1474943,1755034200,26311,1175,1 de Enero,Nacional Asuncion,0,5,0,2
+1433473,1755118800,26312,1183,Minga Guazu,Sportivo Luqueno,1,1,0,0
+1447021,1756243800,23155,2140,Encarnación,2 de Mayo,1,2,1,0
+1433474,1756312200,10483,2135,Silvio Pettirossi,Resistencia,0,2,0,1
+1433475,1756321200,10478,1181,Humaitá,General Caballero JLM,2,4,2,3
+1433476,1756330200,18311,1176,Pastoreo,Cerro Porteno,0,3,0,1
+1433477,1756407600,17183,1174,Benjamín Aceval,Club Guarani,0,3,0,0
+1433478,1756416600,17178,1179,24 de Setiembre,Libertad Asuncion,0,5,0,1
+1474944,1756830600,3832,25590,12 de Octubre,Guaraní de Fram,3,1,2,1
+1433480,1756839600,1177,10476,SOL DE America,Deportivo Recoleta,1,0,0,0
+1433481,1756848600,20786,10474,Sportivo Carapeguá,Atlético Tembetary,0,1,0,1
+1433482,1756917000,2125,10491,Club Sp. San Lorenzo,Tacuary,1,1,1,0
+1433483,1756926000,2130,1182,Fernando De La Mora,Olimpia,0,3,0,2
+1433484,1756935000,23154,10487,12 de Junio VH,Sportivo Ameliano,0,0,0,0
+1474928,1758742200,10487,1181,Sportivo Ameliano,General Caballero JLM,0,0,0,0
+1474929,1758751200,1182,10474,Olimpia,Atlético Tembetary,2,2,2,2
+1474930,1758825000,2140,26312,2 de Mayo,Minga Guazu,2,1,2,1
+1474931,1758835800,1184,2135,Club River Plate,Resistencia,1,1,0,1
+1474961,1759347000,3832,10491,12 de Octubre,Tacuary,1,0,0,0
+1474933,1759356000,1179,1174,Libertad Asuncion,Club Guarani,2,2,1,2
+1474934,1759442400,1187,1175,Sportivo Trinidense,Nacional Asuncion,0,0,0,0
+1474932,1759874400,1176,1177,Cerro Porteno,SOL DE America,1,0,1,0
+1481509,1761082200,10474,2140,Atlético Tembetary,2 de Mayo,0,2,0,0
+1481511,1761163200,1175,3832,Nacional Asuncion,12 de Octubre,2,0,1,0
+1481510,1761172200,1174,1184,Club Guarani,Club River Plate,2,0,2,0
+1481512,1761255000,1176,1181,Cerro Porteno,General Caballero JLM,0,0,0,0
+1484755,1762374600,1181,1175,General Caballero JLM,Nacional Asuncion,2,1,2,0
+1484756,1762383600,2140,1174,2 de Mayo,Club Guarani,1,0,0,0
+1486094,1763155800,1174,1175,Club Guarani,Nacional Asuncion,0,4,0,2
+1485759,1763326800,2140,1181,2 de Mayo,General Caballero JLM,0,1,0,0
