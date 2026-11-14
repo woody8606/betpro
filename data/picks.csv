@@ -268,3 +268,8 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-14,13:00,1586641,Germany - Regionalliga - Nord,Weiche Flensburg - Werder Bremen II,sigur,O15,0.8849,0.9238,0.8682,,,,,,,,
 2026-11-14,15:00,1635812,World - UEFA U19 Championship - Qualification,Serbia U19 - Azerbaijan U19,sigur,O15,0.9095,0.9691,0.884,1.04,Betfair,3.0,,,,,
 2026-11-14,21:00,1648798,Argentina - Primera B Metropolitana,Comunicaciones - Arsenal Sarandi,bomba scor,CS_0_0,0.2506,0.2506,,6.0,Betfair,3.0,,,,,
+2026-11-14,14:30,1649962,World - SAFF Championship,Bangladesh - Pakistan,value,O35,0.3601,0.3789,0.3521,2.88,Betfair,3.0,0.0372,,,,
+2026-11-14,14:00,1579532,Netherlands - Tweede Divisie,Quick Boys - Almere City II,sigur,O15,0.8744,0.852,0.884,,,,,,,,
+2026-11-14,15:00,1585329,England - National League,Carlisle - Boston United,sigur,O15,0.8666,0.9088,0.8484,1.1,Betfair,3.0,,,,,
+2026-11-14,18:00,1618471,Netherlands - Derde Divisie,Roosendaal - GOES,sigur,O15,0.8644,0.8644,,,,,,,,,
+2026-11-14,19:00,1551880,Netherlands - Eerste Divisie,Dordrecht - Heracles,sigur,O15,0.8706,0.9066,0.8551,1.1,Betfair,3.0,,,,,
