@@ -273,3 +273,6 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-14,15:00,1585329,England - National League,Carlisle - Boston United,sigur,O15,0.8666,0.9088,0.8484,1.1,Betfair,3.0,,,,,
 2026-11-14,18:00,1618471,Netherlands - Derde Divisie,Roosendaal - GOES,sigur,O15,0.8644,0.8644,,,,,,,,,
 2026-11-14,19:00,1551880,Netherlands - Eerste Divisie,Dordrecht - Heracles,sigur,O15,0.8706,0.9066,0.8551,1.1,Betfair,3.0,,,,,
+2026-11-14,15:00,1647480,England - FA Trophy,Darlington 1883 - Bury,value,O35,0.4033,0.4709,0.3744,2.6,Betfair,3.0,0.0486,,,,
+2026-11-14,15:00,1647474,England - FA Trophy,Billericay Town - Waltham Abbey,sigur,O15,0.8628,0.9295,0.8342,,,,,,,,
+2026-11-14,15:00,1547039,Scotland - Football League - Highland League,Clachnacuddin - Brora Rangers,sigur,O15,0.8639,0.8639,,,,,,,,,
