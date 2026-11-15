@@ -262,6 +262,47 @@ with tab_live:
                                  column_config={"Min": st.column_config.NumberColumn("Min", format="%d'")})
         else:
             st.info("Acum nu se joaca niciun meci analizat de bot.")
+
+        # ---- Yankee: 4 meciuri din prima repriza (11 pariuri: 6 duble, 4 triple, 1 de 4)
+        st.subheader("🎰 Yankee recomandat (4 meciuri)")
+        LAB = {"O05HT": "Over 0.5 pauza", "O15HT": "Over 1.5 pauza", "O25HT": "Over 2.5 pauza", "GGHT": "GG pauza"}
+        cand = []
+        for f in fx:
+            st_ = f["fixture"]["status"]
+            mn = int(st_.get("elapsed") or 0)
+            if st_["short"] != "1H" or mn > 32:
+                continue
+            pr, _ = calc(f)
+            opts_ = [(mk, pr[mk]) for mk in LAB if 0.45 <= pr.get(mk, 0) <= 0.8]
+            if opts_:
+                mk, pv = min(opts_, key=lambda x: abs(x[1] - 0.62))
+                cand.append(dict(f=f, mk=mk, p=pv, mn=mn))
+        cand.sort(key=lambda c: (-c["p"], c["mn"]))
+        legs = cand[:4]
+        if len(legs) < 4:
+            st.info("Acum nu sunt 4 meciuri potrivite in primele 30 de minute. Se reface singur la fiecare minut.")
+        else:
+            st.dataframe(pd.DataFrame([{"Min": f"{c['mn']}'", "Meci": title(c["f"]), "Pariu": LAB[c["mk"]],
+                                        "Sansa": f"{c['p']:.0%}", "Cota minima Betfair": round(1 / c["p"], 2)}
+                                       for c in legs]), hide_index=True, width="stretch")
+            from itertools import combinations, product
+            ps = [c["p"] for c in legs]
+            os_ = [1 / c["p"] for c in legs]
+            p_any, p_all, ev = 0.0, math.prod(ps), 0.0
+            for outcome in product([0, 1], repeat=4):
+                pr_ = math.prod(p if w else 1 - p for p, w in zip(ps, outcome))
+                won = [i for i, w in enumerate(outcome) if w]
+                ret = sum(math.prod(os_[i] for i in comb) for k in (2, 3, 4) for comb in combinations(won, k))
+                if len(won) >= 2:
+                    p_any += pr_
+                ev += pr_ * ret
+            full = sum(math.prod(os_[i] for i in comb) for k in (2, 3, 4) for comb in combinations(range(4), k))
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Iese ceva (min. 2 din 4)", f"{p_any:.0%}")
+            c2.metric("Ies toate 4", f"{p_all:.0%}")
+            c3.metric("Daca ies toate (la 1 per pariu)", f"{full:.1f} unitati")
+            st.caption("Yankee = 11 pariuri (6 duble + 4 triple + 1 de 4 meciuri), miza x 11. Ex: £0.50 pe pariu = £5.50 in total. "
+                       "Pune-l doar daca la Betfair fiecare cota e PESTE 'cota minima'. Lista se schimba pe masura ce trec minutele.")
     live_panel()
 
 # ---------------------------------------------------------------- BILETUL MEU
