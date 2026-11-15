@@ -1,0 +1,234 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1511494,1771628400,2345,2346,San Marcos de Arica,Deportes Santa Cruz,1,1,1,1
+1511495,1771686000,2333,5644,Santiago Wanderers,Recoleta,0,2,0,1
+1511496,1771707600,2321,2322,Union Espanola,San Luis,2,0,1,0
+1511491,1771716600,2319,2340,Deportes Iquique,Union San Felipe,5,0,2,0
+1511493,1771794000,2344,2327,Rangers de Talca,Antofagasta,0,2,0,1
+1511492,1771803000,2342,2343,D. Puerto Montt,Deportes Copiapo,2,0,1,0
+1511489,1771880400,2332,2317,Cobreloa,Deportes Temuco,3,1,3,1
+1511490,1771889400,2316,2336,Curico Unido,Magallanes,1,2,1,1
+1511502,1772226000,5644,2321,Recoleta,Union Espanola,2,1,1,1
+1511498,1772235000,2346,2332,Deportes Santa Cruz,Cobreloa,0,0,0,0
+1511503,1772312400,2340,2333,Union San Felipe,Santiago Wanderers,1,1,0,1
+1511499,1772321400,2343,2344,Deportes Copiapo,Rangers de Talca,2,0,1,0
+1511497,1772377200,2327,2342,Antofagasta,D. Puerto Montt,1,2,0,1
+1511500,1772407800,2317,2319,Deportes Temuco,Deportes Iquique,1,1,0,0
+1511501,1772485200,2336,2345,Magallanes,San Marcos de Arica,1,1,0,0
+1511504,1772494200,2322,2316,San Luis,Curico Unido,1,1,1,0
+1511510,1772830800,2340,2327,Union San Felipe,Antofagasta,2,0,1,0
+1511505,1772917200,2332,2316,Cobreloa,Curico Unido,5,1,3,0
+1511507,1772926200,2319,2345,Deportes Iquique,San Marcos de Arica,0,0,0,0
+1511508,1773003600,2342,5644,D. Puerto Montt,Recoleta,3,1,2,1
+1511509,1773012600,2344,2322,Rangers de Talca,San Luis,1,1,1,0
+1511511,1773090000,2333,2346,Santiago Wanderers,Deportes Santa Cruz,3,2,2,2
+1511506,1773099000,2343,2317,Deportes Copiapo,Deportes Temuco,1,1,0,0
+1511512,1773180000,2321,2336,Union Espanola,Magallanes,1,2,1,1
+1511518,1773435600,5644,2340,Recoleta,Union San Felipe,2,0,1,0
+1511515,1773444600,2319,2332,Deportes Iquique,Cobreloa,1,2,1,2
+1511517,1773522000,2336,2317,Magallanes,Deportes Temuco,0,1,0,1
+1511519,1773531000,2322,2343,San Luis,Deportes Copiapo,2,2,0,1
+1511513,1773586800,2327,2321,Antofagasta,Union Espanola,2,1,1,0
+1511514,1773608400,2316,2344,Curico Unido,Rangers de Talca,1,0,1,0
+1511516,1773617400,2342,2346,D. Puerto Montt,Deportes Santa Cruz,2,0,1,0
+1511520,1773703800,2345,2333,San Marcos de Arica,Santiago Wanderers,0,0,0,0
+1511528,1774049400,2321,2342,Union Espanola,D. Puerto Montt,2,1,2,0
+1511525,1774126800,2344,5644,Rangers de Talca,Recoleta,2,4,2,2
+1511521,1774135800,2346,2316,Deportes Santa Cruz,Curico Unido,4,2,2,0
+1511527,1774191600,2333,2327,Santiago Wanderers,Antofagasta,2,2,1,0
+1511523,1774213200,2343,2319,Deportes Copiapo,Deportes Iquique,2,0,1,0
+1511524,1774222200,2317,2322,Deportes Temuco,San Luis,1,1,1,0
+1511526,1774299600,2340,2345,Union San Felipe,San Marcos de Arica,1,1,0,1
+1511522,1774308600,2332,2336,Cobreloa,Magallanes,1,1,1,0
+1511534,1774645200,5644,2317,Recoleta,Deportes Temuco,1,5,0,1
+1511536,1774710000,2345,2321,San Marcos de Arica,Union Espanola,2,0,1,0
+1511532,1774731600,2342,2333,D. Puerto Montt,Santiago Wanderers,0,2,0,2
+1511531,1774740600,2316,2343,Curico Unido,Deportes Copiapo,1,1,0,1
+1511529,1774796400,2327,2319,Antofagasta,Deportes Iquique,4,0,3,0
+1511530,1774818000,2332,2340,Cobreloa,Union San Felipe,2,0,1,0
+1511535,1774827000,2322,2346,San Luis,Deportes Santa Cruz,3,2,1,2
+1511533,1774904400,2336,2344,Magallanes,Rangers de Talca,3,2,3,2
+1511544,1775865600,2321,2332,Union Espanola,Cobreloa,1,1,0,0
+1511542,1775934000,2340,2316,Union San Felipe,Curico Unido,0,0,0,0
+1511537,1775943000,2346,2336,Deportes Santa Cruz,Magallanes,2,2,0,0
+1511539,1775952000,2319,2342,Deportes Iquique,D. Puerto Montt,0,0,0,0
+1511538,1776011400,2343,5644,Deportes Copiapo,Recoleta,2,4,2,2
+1511543,1776020400,2333,2322,Santiago Wanderers,San Luis,3,1,1,1
+1511540,1776029400,2317,2327,Deportes Temuco,Antofagasta,3,3,3,1
+1511541,1776038400,2344,2345,Rangers de Talca,San Marcos de Arica,2,3,0,1
+1511549,1776470400,2344,2321,Rangers de Talca,Union Espanola,1,1,1,1
+1511550,1776529800,5644,2316,Recoleta,Curico Unido,2,2,1,1
+1511548,1776538800,2336,2333,Magallanes,Santiago Wanderers,2,3,0,1
+1511552,1776547800,2345,2332,San Marcos de Arica,Cobreloa,2,1,1,0
+1511546,1776556800,2346,2340,Deportes Santa Cruz,Union San Felipe,1,3,1,1
+1511545,1776627000,2327,2343,Antofagasta,Deportes Copiapo,1,0,0,0
+1511551,1776636000,2322,2319,San Luis,Deportes Iquique,2,1,1,1
+1511547,1776729600,2342,2317,D. Puerto Montt,Deportes Temuco,1,0,1,0
+1511559,1777134600,2340,2336,Union San Felipe,Magallanes,0,1,0,1
+1511554,1777134600,2343,2345,Deportes Copiapo,San Marcos de Arica,0,3,0,0
+1511555,1777161600,2316,2342,Curico Unido,D. Puerto Montt,2,1,1,0
+1511557,1777163400,2317,2344,Deportes Temuco,Rangers de Talca,2,1,0,0
+1511558,1777221000,5644,2327,Recoleta,Antofagasta,0,2,0,0
+1511553,1777230000,2332,2322,Cobreloa,San Luis,3,1,2,1
+1511560,1777248000,2321,2346,Union Espanola,Deportes Santa Cruz,2,0,1,0
+1511556,1777334400,2319,2333,Deportes Iquique,Santiago Wanderers,2,1,1,1
+1511568,1777593600,2321,2316,Union Espanola,Curico Unido,2,0,0,0
+1511561,1777757400,2346,2319,Deportes Santa Cruz,Deportes Iquique,2,2,2,1
+1511564,1777766400,2344,2342,Rangers de Talca,D. Puerto Montt,0,1,0,0
+1511563,1777825800,2336,2343,Magallanes,Deportes Copiapo,2,3,0,1
+1511567,1777834800,2333,2317,Santiago Wanderers,Deportes Temuco,2,2,2,1
+1511562,1777843800,2332,2327,Cobreloa,Antofagasta,2,0,1,0
+1511565,1777932000,2322,2340,San Luis,Union San Felipe,4,0,2,0
+1511566,1777941000,2345,5644,San Marcos de Arica,Recoleta,1,0,0,0
+1511572,1778284800,2319,2344,Deportes Iquique,Rangers de Talca,1,1,0,0
+1511574,1778284800,2342,2336,D. Puerto Montt,Magallanes,2,0,2,0
+1511575,1778344200,5644,2346,Recoleta,Deportes Santa Cruz,1,0,1,0
+1511573,1778353200,2317,2321,Deportes Temuco,Union Espanola,0,1,0,0
+1511576,1778371200,2333,2332,Santiago Wanderers,Cobreloa,5,1,1,1
+1511569,1778430600,2327,2322,Antofagasta,San Luis,3,1,2,0
+1511570,1778430600,2343,2340,Deportes Copiapo,Union San Felipe,2,1,2,1
+1511571,1778544000,2316,2345,Curico Unido,San Marcos de Arica,2,2,1,0
+1511580,1778949000,2336,5644,Magallanes,Recoleta,3,2,2,0
+1511578,1778958000,2332,2343,Cobreloa,Deportes Copiapo,4,1,2,0
+1511581,1778958000,2340,2344,Union San Felipe,Rangers de Talca,2,1,1,0
+1511579,1778967000,2316,2333,Curico Unido,Santiago Wanderers,0,3,0,2
+1511582,1779044400,2322,2342,San Luis,D. Puerto Montt,4,1,2,1
+1511583,1779053400,2345,2327,San Marcos de Arica,Antofagasta,1,1,0,0
+1511584,1779145200,2321,2319,Union Espanola,Deportes Iquique,2,1,0,1
+1511577,1779145200,2346,2317,Deportes Santa Cruz,Deportes Temuco,2,3,2,2
+1511591,1779390000,5644,2332,Recoleta,Cobreloa,2,2,1,1
+1511590,1779494400,2344,2333,Rangers de Talca,Santiago Wanderers,0,2,0,1
+1511587,1779571800,2319,2316,Deportes Iquique,Curico Unido,1,1,0,0
+1511588,1779580800,2317,2340,Deportes Temuco,Union San Felipe,5,0,2,0
+1511585,1779640200,2327,2346,Antofagasta,Deportes Santa Cruz,1,1,1,0
+1511589,1779649200,2342,2345,D. Puerto Montt,San Marcos de Arica,0,2,0,2
+1511592,1779667200,2322,2336,San Luis,Magallanes,2,1,1,1
+1511586,1779753600,2343,2321,Deportes Copiapo,Union Espanola,3,1,3,1
+1511600,1780158600,2333,2321,Santiago Wanderers,Union Espanola,2,2,1,2
+1511597,1780158600,5644,2322,Recoleta,San Luis,0,0,0,0
+1511598,1780167600,2340,2342,Union San Felipe,D. Puerto Montt,1,0,0,0
+1511599,1780185600,2345,2317,San Marcos de Arica,Deportes Temuco,0,1,0,0
+1511596,1780245000,2336,2319,Magallanes,Deportes Iquique,4,3,2,0
+1511594,1780263000,2332,2344,Cobreloa,Rangers de Talca,2,0,2,0
+1511595,1780354800,2316,2327,Curico Unido,Antofagasta,1,0,0,0
+1511593,1780354800,2346,2343,Deportes Santa Cruz,Deportes Copiapo,1,1,1,0
+1511607,1780704000,2322,2345,San Luis,San Marcos de Arica,1,0,1,0
+1511605,1780763400,2342,2332,D. Puerto Montt,Cobreloa,1,1,0,0
+1511602,1780763400,2343,2333,Deportes Copiapo,Santiago Wanderers,1,0,1,0
+1511603,1780792200,2319,5644,Deportes Iquique,Recoleta,1,1,1,0
+1511606,1780792200,2344,2346,Rangers de Talca,Deportes Santa Cruz,0,1,0,0
+1511601,1780860600,2327,2336,Antofagasta,Magallanes,0,0,0,0
+1511604,1780961400,2317,2316,Deportes Temuco,Curico Unido,0,1,0,1
+1511608,1780961400,2321,2340,Union Espanola,Union San Felipe,2,2,1,1
+1511619,1784939400,2319,2317,Deportes Iquique,Deportes Temuco,1,0,1,0
+1511623,1784997000,2333,2340,Santiago Wanderers,Union San Felipe,2,0,1,0
+1511618,1785006000,2316,2322,Curico Unido,San Luis,1,2,0,1
+1511617,1785015000,2332,2346,Cobreloa,Deportes Santa Cruz,4,2,2,1
+1511620,1785083400,2342,2327,D. Puerto Montt,Antofagasta,3,2,1,1
+1511621,1785083400,2344,2343,Rangers de Talca,Deportes Copiapo,0,0,0,0
+1511622,1785101400,2345,2336,San Marcos de Arica,Magallanes,2,0,1,0
+1511624,1785193200,2321,5644,Union Espanola,Recoleta,2,1,0,0
+1511631,1785535200,2322,2344,San Luis,Rangers de Talca,1,1,0,0
+1511632,1785544200,2345,2319,San Marcos de Arica,Deportes Iquique,1,1,0,0
+1511625,1785610800,2327,2340,Antofagasta,Union San Felipe,5,1,2,0
+1511627,1785619800,2316,2332,Curico Unido,Cobreloa,0,0,0,0
+1511629,1785688200,2336,2321,Magallanes,Union Espanola,3,2,2,1
+1511630,1785697200,5644,2342,Recoleta,D. Puerto Montt,0,1,0,1
+1511626,1785706200,2346,2333,Deportes Santa Cruz,Santiago Wanderers,1,3,0,1
+1511628,1785801600,2317,2343,Deportes Temuco,Deportes Copiapo,1,4,1,1
+1511640,1786140000,2321,2327,Union Espanola,Antofagasta,0,3,0,1
+1511633,1786149000,2346,2342,Deportes Santa Cruz,D. Puerto Montt,0,0,0,0
+1511638,1786206600,2340,5644,Union San Felipe,Recoleta,0,0,0,0
+1511639,1786215600,2333,2345,Santiago Wanderers,San Marcos de Arica,1,1,0,0
+1511634,1786224600,2332,2319,Cobreloa,Deportes Iquique,1,1,0,0
+1511636,1786233600,2317,2336,Deportes Temuco,Magallanes,3,4,2,1
+1511635,1786293000,2343,2322,Deportes Copiapo,San Luis,1,1,0,1
+1511637,1786302000,2344,2316,Rangers de Talca,Curico Unido,0,0,0,0
+1511644,1786489200,2342,2321,D. Puerto Montt,Union Espanola,0,1,0,0
+1511645,1786561200,2336,2332,Magallanes,Cobreloa,2,2,1,1
+1511646,1786572000,5644,2344,Recoleta,Rangers de Talca,4,2,1,1
+1511641,1786581000,2327,2333,Antofagasta,Santiago Wanderers,0,0,0,0
+1511648,1786581000,2345,2340,San Marcos de Arica,Union San Felipe,0,1,0,0
+1511647,1786658400,2322,2317,San Luis,Deportes Temuco,1,1,0,1
+1511642,1786667400,2316,2346,Curico Unido,Deportes Santa Cruz,1,2,0,1
+1511643,1786667400,2319,2343,Deportes Iquique,Deportes Copiapo,4,0,1,0
+1511653,1786820400,2344,2336,Rangers de Talca,Magallanes,2,3,2,1
+1511656,1786838400,2321,2345,Union Espanola,San Marcos de Arica,2,1,2,1
+1511655,1786897800,2333,2342,Santiago Wanderers,D. Puerto Montt,1,1,1,0
+1511654,1786906800,2340,2332,Union San Felipe,Cobreloa,0,1,0,0
+1511651,1786924800,2319,2327,Deportes Iquique,Antofagasta,1,1,0,0
+1511650,1787004000,2343,2316,Deportes Copiapo,Curico Unido,4,0,2,0
+1511649,1787004000,2346,2322,Deportes Santa Cruz,San Luis,0,2,0,2
+1511652,1787013000,2317,5644,Deportes Temuco,Recoleta,1,1,0,1
+1511664,1787358600,2345,2344,San Marcos de Arica,Rangers de Talca,1,2,1,1
+1511662,1787416200,5644,2343,Recoleta,Deportes Copiapo,2,1,1,1
+1511661,1787425200,2336,2346,Magallanes,Deportes Santa Cruz,1,0,0,0
+1511660,1787425200,2342,2319,D. Puerto Montt,Deportes Iquique,0,4,0,2
+1511658,1787434200,2332,2321,Cobreloa,Union Espanola,0,1,0,0
+1511657,1787518800,2327,2317,Antofagasta,Deportes Temuco,3,1,2,0
+1511659,1787527800,2316,2340,Curico Unido,Union San Felipe,2,0,1,0
+1511663,1787614200,2322,2333,San Luis,Santiago Wanderers,0,1,0,1
+1511670,1788021000,2340,2346,Union San Felipe,Deportes Santa Cruz,0,0,0,0
+1511671,1788030000,2333,2336,Santiago Wanderers,Magallanes,2,1,0,0
+1511672,1788039000,2321,2344,Union Espanola,Rangers de Talca,0,1,0,0
+1511668,1788048000,2319,2322,Deportes Iquique,San Luis,0,1,0,0
+1511666,1788107400,2343,2327,Deportes Copiapo,Antofagasta,0,4,0,1
+1511669,1788116400,2317,2342,Deportes Temuco,D. Puerto Montt,3,1,0,1
+1511667,1788125400,2316,5644,Curico Unido,Recoleta,0,0,0,0
+1511665,1788220800,2332,2345,Cobreloa,San Marcos de Arica,2,0,0,0
+1511680,1788559200,2333,2319,Santiago Wanderers,Deportes Iquique,1,0,1,0
+1511677,1788559200,2344,2317,Rangers de Talca,Deportes Temuco,1,0,1,0
+1511675,1788568200,2342,2316,D. Puerto Montt,Curico Unido,2,0,0,0
+1511676,1788625800,2336,2340,Magallanes,Union San Felipe,0,0,0,0
+1511674,1788634800,2346,2321,Deportes Santa Cruz,Union Espanola,1,1,0,1
+1511678,1788643800,2322,2332,San Luis,Cobreloa,4,2,2,0
+1511679,1788652800,2345,2343,San Marcos de Arica,Deportes Copiapo,2,1,0,1
+1511673,1788708600,2327,5644,Antofagasta,Recoleta,1,2,0,1
+1511686,1788901200,2342,2344,D. Puerto Montt,Rangers de Talca,1,2,0,1
+1511683,1788910200,2316,2321,Curico Unido,Union Espanola,2,1,1,1
+1511685,1788910200,2317,2333,Deportes Temuco,Santiago Wanderers,3,0,1,0
+1511687,1788987600,5644,2345,Recoleta,San Marcos de Arica,2,1,0,1
+1511684,1788996600,2319,2346,Deportes Iquique,Deportes Santa Cruz,0,1,0,0
+1511682,1788996600,2343,2336,Deportes Copiapo,Magallanes,1,1,0,1
+1511681,1789081200,2327,2332,Antofagasta,Cobreloa,0,0,0,0
+1511691,1789313400,2336,2342,Magallanes,D. Puerto Montt,2,0,1,0
+1511695,1789322400,2345,2316,San Marcos de Arica,Curico Unido,3,0,1,0
+1511689,1789419600,2346,5644,Deportes Santa Cruz,Recoleta,0,0,0,0
+1511692,1789428600,2344,2319,Rangers de Talca,Deportes Iquique,1,2,0,1
+1511694,1789506000,2322,2327,San Luis,Antofagasta,2,1,1,0
+1511696,1789515000,2321,2317,Union Espanola,Deportes Temuco,1,1,0,0
+1511693,1790436600,2340,2343,Union San Felipe,Deportes Copiapo,1,4,0,1
+1511690,1790445600,2332,2333,Cobreloa,Santiago Wanderers,1,0,0,0
+1511688,1790802000,2340,2322,Union San Felipe,San Luis,0,1,0,0
+1511613,1791041400,2336,2316,Magallanes,Curico Unido,1,0,0,0
+1511611,1791050400,2343,2342,Deportes Copiapo,D. Puerto Montt,3,0,1,0
+1511614,1791050400,5644,2333,Recoleta,Santiago Wanderers,2,1,2,0
+1511612,1791059400,2317,2332,Deportes Temuco,Cobreloa,0,1,0,0
+1511610,1791068400,2346,2345,Deportes Santa Cruz,San Marcos de Arica,1,2,1,2
+1511609,1791127800,2327,2344,Antofagasta,Rangers de Talca,2,0,0,0
+1511615,1791136800,2340,2319,Union San Felipe,Deportes Iquique,0,2,0,0
+1511616,1791145800,2322,2321,San Luis,Union Espanola,2,0,1,0
+1511703,1791646200,5644,2336,Recoleta,Magallanes,1,2,1,1
+1511704,1791655200,2333,2316,Santiago Wanderers,Curico Unido,1,2,1,0
+1511700,1791664200,2317,2346,Deportes Temuco,Deportes Santa Cruz,2,1,1,0
+1511697,1791732600,2327,2345,Antofagasta,San Marcos de Arica,3,0,2,0
+1511698,1791741600,2343,2332,Deportes Copiapo,Cobreloa,2,1,0,0
+1511701,1791819000,2342,2322,D. Puerto Montt,San Luis,0,1,0,1
+1511702,1791828000,2344,2340,Rangers de Talca,Union San Felipe,4,0,4,0
+1511699,1791837000,2319,2321,Deportes Iquique,Union Espanola,1,0,1,0
+1511711,1792184400,2333,2344,Santiago Wanderers,Rangers de Talca,4,1,2,0
+1511708,1792251000,2336,2322,Magallanes,San Luis,0,1,0,0
+1511706,1792260000,2332,5644,Cobreloa,Recoleta,6,1,3,0
+1511707,1792337400,2316,2319,Curico Unido,Deportes Iquique,2,2,1,1
+1511709,1792337400,2340,2317,Union San Felipe,Deportes Temuco,2,2,2,0
+1511710,1792346400,2345,2342,San Marcos de Arica,D. Puerto Montt,0,0,0,0
+1511705,1792353600,2346,2327,Deportes Santa Cruz,Antofagasta,0,0,0,0
+1511712,1792447200,2321,2343,Union Espanola,Deportes Copiapo,1,0,1,0
+1511715,1792796400,2319,2336,Deportes Iquique,Magallanes,4,1,2,0
+1511720,1792873800,2321,2333,Union Espanola,Santiago Wanderers,1,2,1,1
+1511719,1792873800,2322,5644,San Luis,Recoleta,1,1,0,1
+1511717,1792873800,2342,2340,D. Puerto Montt,Union San Felipe,3,1,2,0
+1511714,1792873800,2343,2346,Deportes Copiapo,Deportes Santa Cruz,1,1,0,1
+1511718,1792873800,2344,2332,Rangers de Talca,Cobreloa,0,1,0,0
+1511716,1792951200,2317,2345,Deportes Temuco,San Marcos de Arica,1,2,1,2
+1511713,1792960200,2327,2316,Antofagasta,Curico Unido,4,0,2,0
+1511723,1793405700,2316,2317,Curico Unido,Deportes Temuco,4,1,4,0

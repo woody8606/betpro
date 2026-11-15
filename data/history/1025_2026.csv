@@ -1,0 +1,86 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1565424,1784448000,16856,6819,Dinamo Vladivostok,Novosibirsk,1,2,0,1
+1565425,1784458800,21538,2004,Dinamo Kirov,Volgar Astrakhan,0,0,0,0
+1565426,1784467800,6814,6795,Mashuk-KMV,Dinamo Bryansk,0,0,0,0
+1583826,1784469600,19453,6787,Rodina Moskva II,Alaniya Vladikavkaz,2,1,0,1
+1565427,1784471400,1995,6802,FK Sokol Saratov,Kaluga,1,1,1,0
+1583827,1784995200,19453,16856,Rodina Moskva II,Dinamo Vladivostok,0,0,0,0
+1565430,1785063600,6802,6819,Kaluga,Novosibirsk,0,1,0,1
+1565428,1785070800,6795,6787,Dinamo Bryansk,Alaniya Vladikavkaz,0,4,0,2
+1565431,1785076200,1995,21538,FK Sokol Saratov,Dinamo Kirov,0,1,0,0
+1565432,1785078000,2004,6814,Volgar Astrakhan,Mashuk-KMV,1,2,1,1
+1583829,1785657600,16856,6795,Dinamo Vladivostok,Dinamo Bryansk,1,2,0,1
+1583832,1785664800,6819,19453,Novosibirsk,Rodina Moskva II,1,3,0,2
+1583830,1785668400,21538,6802,Dinamo Kirov,Kaluga,1,0,1,0
+1583828,1785675600,6787,2004,Alaniya Vladikavkaz,Volgar Astrakhan,1,1,0,0
+1583831,1785677400,6814,1995,Mashuk-KMV,FK Sokol Saratov,1,1,1,1
+1583834,1786186800,6802,19453,Kaluga,Rodina Moskva II,0,0,0,0
+1583835,1786186800,21538,6814,Dinamo Kirov,Mashuk-KMV,0,0,0,0
+1583833,1786194000,6795,6819,Dinamo Bryansk,Novosibirsk,1,0,0,0
+1583836,1786197600,1995,6787,FK Sokol Saratov,Alaniya Vladikavkaz,2,1,1,1
+1583837,1786201200,2004,16856,Volgar Astrakhan,Dinamo Vladivostok,1,0,0,0
+1583839,1786867200,16856,1995,Dinamo Vladivostok,FK Sokol Saratov,1,0,0,0
+1583842,1786874400,6819,2004,Novosibirsk,Volgar Astrakhan,2,2,1,1
+1583838,1786885200,6787,21538,Alaniya Vladikavkaz,Dinamo Kirov,2,0,1,0
+1583840,1786887000,6814,6802,Mashuk-KMV,Kaluga,1,1,1,0
+1583841,1786892400,19453,6795,Rodina Moskva II,Dinamo Bryansk,3,1,3,1
+1583843,1787396400,6802,6795,Kaluga,Dinamo Bryansk,0,1,0,1
+1583844,1787396400,21538,16856,Dinamo Kirov,Dinamo Vladivostok,1,2,1,1
+1583846,1787407200,1995,6819,FK Sokol Saratov,Novosibirsk,2,2,0,0
+1583845,1787407200,6814,6787,Mashuk-KMV,Alaniya Vladikavkaz,0,0,0,0
+1583847,1787410800,2004,19453,Volgar Astrakhan,Rodina Moskva II,0,1,0,0
+1583849,1788076800,16856,6814,Dinamo Vladivostok,Mashuk-KMV,1,0,1,0
+1583852,1788084000,6819,21538,Novosibirsk,Dinamo Kirov,0,1,0,1
+1583850,1788087600,6802,6787,Kaluga,Alaniya Vladikavkaz,1,1,0,0
+1583848,1788094800,6795,2004,Dinamo Bryansk,Volgar Astrakhan,1,1,1,1
+1583851,1788102000,19453,1995,Rodina Moskva II,FK Sokol Saratov,4,0,1,0
+1583854,1788606000,21538,19453,Dinamo Kirov,Rodina Moskva II,3,2,1,1
+1583856,1788616800,1995,6795,FK Sokol Saratov,Dinamo Bryansk,2,2,1,0
+1583857,1788620400,2004,6802,Volgar Astrakhan,Kaluga,1,1,1,0
+1583853,1788696000,6787,16856,Alaniya Vladikavkaz,Dinamo Vladivostok,0,0,0,0
+1583855,1788701400,6814,6819,Mashuk-KMV,Novosibirsk,3,1,2,1
+1583861,1789207200,6819,6787,Novosibirsk,Alaniya Vladikavkaz,0,0,0,0
+1583860,1789225200,19453,6814,Rodina Moskva II,Mashuk-KMV,3,1,1,0
+1583859,1789297200,6802,16856,Kaluga,Dinamo Vladivostok,1,1,1,0
+1583858,1789304400,6795,21538,Dinamo Bryansk,Dinamo Kirov,0,1,0,1
+1583862,1789311600,2004,1995,Volgar Astrakhan,FK Sokol Saratov,1,1,1,0
+1583864,1789876800,16856,19453,Dinamo Vladivostok,Rodina Moskva II,0,1,0,0
+1583867,1789898400,6819,6802,Novosibirsk,Kaluga,3,0,2,0
+1583863,1789905600,6787,6795,Alaniya Vladikavkaz,Dinamo Bryansk,0,2,0,0
+1583866,1789997400,6814,2004,Mashuk-KMV,Volgar Astrakhan,0,0,0,0
+1583865,1789997400,21538,1995,Dinamo Kirov,FK Sokol Saratov,3,1,0,1
+1583869,1790506800,6802,21538,Kaluga,Dinamo Kirov,1,2,1,0
+1583871,1790514000,1995,6814,FK Sokol Saratov,Mashuk-KMV,0,0,0,0
+1583868,1790514000,6795,16856,Dinamo Bryansk,Dinamo Vladivostok,1,1,1,0
+1583872,1790517600,2004,6787,Volgar Astrakhan,Alaniya Vladikavkaz,4,4,2,1
+1583870,1790517600,19453,6819,Rodina Moskva II,Novosibirsk,1,3,1,2
+1583874,1791086400,16856,2004,Dinamo Vladivostok,Volgar Astrakhan,0,0,0,0
+1583877,1791108000,6819,6795,Novosibirsk,Dinamo Bryansk,2,0,2,0
+1583873,1791115200,6787,1995,Alaniya Vladikavkaz,FK Sokol Saratov,2,0,1,0
+1583875,1791118800,6814,21538,Mashuk-KMV,Dinamo Kirov,1,1,0,1
+1583876,1791122400,19453,6802,Rodina Moskva II,Kaluga,3,0,1,0
+1583879,1791630000,6802,6814,Kaluga,Mashuk-KMV,0,0,0,0
+1583880,1791630000,21538,6787,Dinamo Kirov,Alaniya Vladikavkaz,0,1,0,1
+1583881,1791720000,1995,16856,FK Sokol Saratov,Dinamo Vladivostok,0,3,0,2
+1583878,1791723600,6795,19453,Dinamo Bryansk,Rodina Moskva II,2,3,1,1
+1583882,1791727200,2004,6819,Volgar Astrakhan,Novosibirsk,1,1,0,0
+1583885,1792296000,16856,21538,Dinamo Vladivostok,Dinamo Kirov,2,3,0,1
+1583887,1792317600,6819,1995,Novosibirsk,FK Sokol Saratov,0,0,0,0
+1583883,1792324800,6787,6814,Alaniya Vladikavkaz,Mashuk-KMV,3,3,0,3
+1583884,1792328400,6795,6802,Dinamo Bryansk,Kaluga,1,4,1,1
+1583886,1792332000,19453,2004,Rodina Moskva II,Volgar Astrakhan,1,1,0,0
+1583891,1792839600,1995,19453,FK Sokol Saratov,Rodina Moskva II,3,0,1,0
+1583889,1792839600,21538,6819,Dinamo Kirov,Novosibirsk,6,1,2,0
+1583892,1792843200,2004,6795,Volgar Astrakhan,Dinamo Bryansk,0,1,0,0
+1583890,1792843200,6814,16856,Mashuk-KMV,Dinamo Vladivostok,2,2,2,2
+1583888,1792850400,6787,6802,Alaniya Vladikavkaz,Kaluga,2,1,0,1
+1583894,1793419200,16856,6787,Dinamo Vladivostok,Alaniya Vladikavkaz,3,0,3,0
+1583897,1793440800,6819,6814,Novosibirsk,Mashuk-KMV,1,1,0,0
+1583895,1793444400,6802,2004,Kaluga,Volgar Astrakhan,2,2,0,1
+1583896,1793448000,19453,21538,Rodina Moskva II,Dinamo Kirov,1,1,0,0
+1583893,1793451600,6795,1995,Dinamo Bryansk,FK Sokol Saratov,0,1,0,0
+1583899,1794110400,16856,6802,Dinamo Vladivostok,Kaluga,2,1,1,0
+1583902,1794132000,1995,2004,FK Sokol Saratov,Volgar Astrakhan,2,0,1,0
+1583900,1794135600,21538,6795,Dinamo Kirov,Dinamo Bryansk,3,1,3,0
+1583898,1794146400,6787,6819,Alaniya Vladikavkaz,Novosibirsk,0,0,0,0
+1583901,1794222000,6814,19453,Mashuk-KMV,Rodina Moskva II,3,0,2,0

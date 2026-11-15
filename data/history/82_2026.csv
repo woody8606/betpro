@@ -63,3 +63,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1593168,1794150000,21564,24130,Mainz 05 W,Stuttgart W,1,3,0,1
 1593167,1794243600,1871,20501,FC Koln W,RB Leipzig W,3,1,2,1
 1593171,1794591000,20498,21564,Hamburger SV W,Mainz 05 W,6,1,4,1
+1593172,1794654000,1858,1867,1899 Hoffenheim W,SC Freiburg W,1,0,0,0
+1593175,1794661200,1870,24133,Werder Bremen W,Union Berlin W,2,0,2,0
+1593176,1794675300,1863,1860,VfL Wolfsburg W,Bayern Munich W,1,4,0,2

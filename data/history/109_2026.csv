@@ -134,3 +134,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1561715,1794135600,6950,3482,Rekord Bielsko-Biała,Chojniczanka Chojnice,1,2,0,0
 1561714,1794137400,16264,6942,Avia Świdnik,Hutnik Kraków,2,1,0,1
 1561727,1794589200,6964,16255,Znicz Pruszków,Sokół Kleczew,2,2,0,2
+1561724,1794654000,6941,6942,Górnik Łęczna,Hutnik Kraków,1,0,0,0
+1561726,1794654000,12834,16264,Podhale Nowy Targ,Avia Świdnik,1,0,1,0
+1561729,1794657600,12900,14143,Śląsk Wrocław II,Lechia Zielona Góra,0,1,0,1
+1561723,1794668400,3482,13843,Chojniczanka Chojnice,Zawisza Bydgoszcz,0,2,0,1

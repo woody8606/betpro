@@ -1,0 +1,253 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1348244,1740180600,2333,2324,Santiago Wanderers,Universidad de Concepcion,0,0,0,0
+1348245,1740180600,5635,2317,Concepción,Deportes Temuco,2,2,0,0
+1348240,1740258000,2336,5644,Magallanes,Recoleta,3,0,3,0
+1348241,1740258000,2343,2335,Deportes Copiapo,Santiago Morning,2,2,0,1
+1348238,1740267000,2322,2327,San Luis,Antofagasta,0,0,0,0
+1348239,1740344400,2332,2340,Cobreloa,Union San Felipe,1,1,1,0
+1348243,1740353400,2346,2344,Deportes Santa Cruz,Rangers de Talca,0,3,0,3
+1348242,1740441600,2345,2316,San Marcos de Arica,Curico Unido,1,2,0,1
+1348253,1740776400,2335,2317,Santiago Morning,Deportes Temuco,2,1,1,1
+1348251,1740776400,5644,2346,Recoleta,Deportes Santa Cruz,3,2,2,2
+1348250,1740785400,2324,2336,Universidad de Concepcion,Magallanes,2,1,1,0
+1348248,1740862800,2344,2322,Rangers de Talca,San Luis,2,2,1,0
+1348246,1740871800,2345,2332,San Marcos de Arica,Cobreloa,1,1,1,0
+1348252,1740949200,2327,5635,Antofagasta,Concepción,3,1,1,1
+1348249,1740949200,2340,2333,Union San Felipe,Santiago Wanderers,0,1,0,0
+1348247,1740958200,2316,2343,Curico Unido,Deportes Copiapo,1,1,0,1
+1348254,1741381200,2336,2345,Magallanes,San Marcos de Arica,0,1,0,0
+1348261,1741390200,2332,2324,Cobreloa,Universidad de Concepcion,0,2,0,0
+1348256,1741467600,2317,2340,Deportes Temuco,Union San Felipe,2,1,1,0
+1348260,1741467600,2343,2344,Deportes Copiapo,Rangers de Talca,3,0,2,0
+1348257,1741532400,5635,5644,Concepción,Recoleta,0,1,0,0
+1348259,1741554000,2335,2316,Santiago Morning,Curico Unido,0,0,0,0
+1348258,1741563000,2322,2346,San Luis,Deportes Santa Cruz,1,1,0,0
+1348255,1741647600,2333,2327,Santiago Wanderers,Antofagasta,4,0,2,0
+1348681,1741986000,2340,2343,Union San Felipe,Deportes Copiapo,0,1,0,0
+1348263,1741994100,2324,2322,Universidad de Concepcion,San Luis,1,2,1,2
+1348262,1742072400,2344,2332,Rangers de Talca,Cobreloa,1,1,0,1
+1348264,1742137200,2345,2333,San Marcos de Arica,Santiago Wanderers,1,2,1,1
+1348267,1742167800,2346,5635,Deportes Santa Cruz,Concepción,2,0,0,0
+1348268,1742245200,2327,2317,Antofagasta,Deportes Temuco,0,0,0,0
+1348266,1742245200,5644,2335,Recoleta,Santiago Morning,1,0,0,0
+1348265,1742254200,2316,2336,Curico Unido,Magallanes,1,1,0,0
+1348270,1743196500,2332,2327,Cobreloa,Antofagasta,4,2,3,2
+1348274,1743204600,2324,2346,Universidad de Concepcion,Deportes Santa Cruz,1,0,0,0
+1348273,1743282000,2340,5644,Union San Felipe,Recoleta,0,0,0,0
+1348271,1743366600,2336,2322,Magallanes,San Luis,1,0,0,0
+1348276,1743377400,2316,5635,Curico Unido,Concepción,2,3,2,1
+1348275,1743453000,2335,2344,Santiago Morning,Rangers de Talca,0,1,0,0
+1348269,1743463800,2317,2345,Deportes Temuco,San Marcos de Arica,1,3,0,0
+1348272,1743463800,2343,2333,Deportes Copiapo,Santiago Wanderers,3,0,2,0
+1348279,1744416000,2322,2340,San Luis,Union San Felipe,2,1,1,1
+1348277,1744473600,5644,2327,Recoleta,Antofagasta,1,2,1,0
+1348282,1744484400,2344,2316,Rangers de Talca,Curico Unido,0,1,0,0
+1348280,1744493400,2332,2336,Cobreloa,Magallanes,2,0,0,0
+1348278,1744561800,5635,2343,Concepción,Deportes Copiapo,2,0,0,0
+1348284,1744570800,2333,2317,Santiago Wanderers,Deportes Temuco,2,1,1,0
+1348281,1744581600,2346,2335,Deportes Santa Cruz,Santiago Morning,0,2,0,1
+1348283,1744590600,2345,2324,San Marcos de Arica,Universidad de Concepcion,1,0,0,0
+1348287,1744993800,2317,2322,Deportes Temuco,San Luis,0,1,0,0
+1348288,1744993800,2333,5644,Santiago Wanderers,Recoleta,1,1,0,1
+1348289,1745004600,2316,2346,Curico Unido,Deportes Santa Cruz,2,3,2,1
+1348285,1745080200,2335,2345,Santiago Morning,San Marcos de Arica,0,1,0,0
+1348286,1745089200,2343,2332,Deportes Copiapo,Cobreloa,1,1,0,0
+1348682,1745166600,2327,2340,Antofagasta,Union San Felipe,2,2,0,1
+1348290,1745175600,2336,2344,Magallanes,Rangers de Talca,1,1,0,1
+1348291,1745184600,2324,5635,Universidad de Concepcion,Concepción,1,2,1,2
+1348294,1745683200,2346,2343,Deportes Santa Cruz,Deportes Copiapo,0,1,0,1
+1348299,1745683200,5644,2324,Recoleta,Universidad de Concepcion,1,0,0,0
+1348295,1745694000,2344,2333,Rangers de Talca,Santiago Wanderers,3,3,0,3
+1348298,1745703000,2317,2316,Deportes Temuco,Curico Unido,0,0,0,0
+1348292,1745771400,2327,2345,Antofagasta,San Marcos de Arica,2,3,2,1
+1348414,1745771400,2335,5635,Santiago Morning,Concepción,0,3,0,2
+1348296,1745780400,2340,2336,Union San Felipe,Magallanes,1,0,0,0
+1348293,1745789400,2322,2332,San Luis,Cobreloa,1,1,0,0
+1348304,1746212400,2324,2344,Universidad de Concepcion,Rangers de Talca,0,0,0,0
+1348683,1746298800,2316,2340,Curico Unido,Union San Felipe,3,0,1,0
+1348305,1746307800,2332,5635,Cobreloa,Concepción,2,1,0,0
+1348302,1746316800,2345,5644,San Marcos de Arica,Recoleta,2,1,1,0
+1348300,1746376200,2335,2327,Santiago Morning,Antofagasta,1,1,0,0
+1348306,1746385200,2343,2317,Deportes Copiapo,Deportes Temuco,3,0,2,0
+1348301,1746394200,2333,2322,Santiago Wanderers,San Luis,0,1,0,0
+1348303,1746471600,2336,2346,Magallanes,Deportes Santa Cruz,3,0,2,0
+1348307,1747499400,5635,2345,Concepción,San Marcos de Arica,1,0,0,0
+1348308,1747499400,5644,2332,Recoleta,Cobreloa,0,1,0,1
+1348684,1747508400,2340,2344,Union San Felipe,Rangers de Talca,0,2,0,0
+1348313,1747517400,2322,2316,San Luis,Curico Unido,1,0,0,0
+1348312,1747585800,2324,2335,Universidad de Concepcion,Santiago Morning,5,1,2,0
+1348309,1747585800,2327,2343,Antofagasta,Deportes Copiapo,1,0,1,0
+1348310,1747594800,2346,2333,Deportes Santa Cruz,Santiago Wanderers,2,2,0,2
+1348311,1747603800,2317,2336,Deportes Temuco,Magallanes,3,0,1,0
+1348318,1748037600,2332,2346,Cobreloa,Deportes Santa Cruz,1,1,0,0
+1348315,1748046600,2345,2322,San Marcos de Arica,San Luis,2,1,1,0
+1348319,1748104200,2336,5635,Magallanes,Concepción,0,0,0,0
+1348316,1748104200,2343,5644,Deportes Copiapo,Recoleta,3,0,2,0
+1348321,1748113200,2344,2317,Rangers de Talca,Deportes Temuco,2,3,1,1
+1348314,1748190600,2316,2327,Curico Unido,Antofagasta,1,0,1,0
+1348320,1748199600,2340,2324,Union San Felipe,Universidad de Concepcion,1,2,1,1
+1348317,1748208600,2333,2335,Santiago Wanderers,Santiago Morning,2,3,0,0
+1348324,1748631600,5644,2322,Recoleta,San Luis,3,1,1,1
+1348323,1748649600,2345,2343,San Marcos de Arica,Deportes Copiapo,0,1,0,0
+1348328,1748718000,2316,2324,Curico Unido,Universidad de Concepcion,1,2,1,1
+1348322,1748727000,2317,2332,Deportes Temuco,Cobreloa,2,0,2,0
+1348327,1748795400,2327,2344,Antofagasta,Rangers de Talca,1,1,1,0
+1348326,1748795400,2335,2336,Santiago Morning,Magallanes,0,0,0,0
+1348685,1748804400,2346,2340,Deportes Santa Cruz,Union San Felipe,1,1,0,1
+1348325,1748813400,5635,2333,Concepción,Santiago Wanderers,0,0,0,0
+1348329,1749313800,2340,2345,Union San Felipe,San Marcos de Arica,1,2,1,1
+1348332,1749409200,2344,5644,Rangers de Talca,Recoleta,1,1,1,0
+1348344,1749918600,2317,2324,Deportes Temuco,Universidad de Concepcion,0,0,0,0
+1348340,1749927600,2316,5644,Curico Unido,Recoleta,1,1,0,0
+1348337,1749936600,2333,2332,Santiago Wanderers,Cobreloa,5,1,3,0
+1348342,1749945600,2345,2346,San Marcos de Arica,Deportes Santa Cruz,2,1,2,0
+1348341,1750005000,2327,2336,Antofagasta,Magallanes,5,0,3,0
+1348339,1750014000,2335,2340,Santiago Morning,Union San Felipe,2,1,1,0
+1348343,1750023000,5635,2344,Concepción,Rangers de Talca,1,2,1,1
+1348338,1750118400,2343,2322,Deportes Copiapo,San Luis,3,0,2,0
+1348351,1750437000,2340,5635,Union San Felipe,Concepción,2,1,2,0
+1348350,1750446000,2332,2316,Cobreloa,Curico Unido,3,2,2,0
+1348352,1750446000,5644,2317,Recoleta,Deportes Temuco,2,2,1,1
+1348348,1750523400,2336,2333,Magallanes,Santiago Wanderers,0,0,0,0
+1348345,1750532400,2344,2345,Rangers de Talca,San Marcos de Arica,1,2,0,0
+1348349,1750550400,2322,2335,San Luis,Santiago Morning,0,0,0,0
+1348346,1750609800,2346,2327,Deportes Santa Cruz,Antofagasta,3,0,0,0
+1348347,1750618800,2324,2343,Universidad de Concepcion,Deportes Copiapo,1,0,1,0
+1348336,1751731200,2346,2317,Deportes Santa Cruz,Deportes Temuco,2,0,1,0
+1348330,1751752800,2324,2327,Universidad de Concepcion,Antofagasta,0,1,0,0
+1348334,1751752800,2333,2316,Santiago Wanderers,Curico Unido,2,1,1,1
+1348333,1751819400,2332,2335,Cobreloa,Santiago Morning,0,1,0,0
+1348331,1751828400,2336,2343,Magallanes,Deportes Copiapo,0,1,0,1
+1348335,1751837400,2322,5635,San Luis,Concepción,0,2,0,1
+1348357,1752336000,2316,2345,Curico Unido,San Marcos de Arica,5,3,1,2
+1348354,1752336000,2340,2332,Union San Felipe,Cobreloa,3,0,1,0
+1348358,1752346800,2344,2346,Rangers de Talca,Deportes Santa Cruz,2,2,1,1
+1348359,1752361200,2324,2333,Universidad de Concepcion,Santiago Wanderers,0,3,0,2
+1348353,1752424200,2327,2322,Antofagasta,San Luis,1,2,1,1
+1348356,1752424200,2335,2343,Santiago Morning,Deportes Copiapo,1,0,0,0
+1348355,1752433200,5644,2336,Recoleta,Magallanes,2,0,1,0
+1348360,1752442200,2317,5635,Deportes Temuco,Concepción,2,1,1,0
+1348361,1752942600,2332,2345,Cobreloa,San Marcos de Arica,2,0,1,0
+1348366,1752951600,2346,5644,Deportes Santa Cruz,Recoleta,0,0,0,0
+1348367,1752966000,5635,2327,Concepción,Antofagasta,0,0,0,0
+1348362,1753029000,2343,2316,Deportes Copiapo,Curico Unido,1,1,1,0
+1348365,1753038000,2336,2324,Magallanes,Universidad de Concepcion,1,2,1,0
+1348368,1753047000,2317,2335,Deportes Temuco,Santiago Morning,2,1,0,0
+1348363,1753056000,2322,2344,San Luis,Rangers de Talca,1,2,0,1
+1348364,1753144200,2333,2340,Santiago Wanderers,Union San Felipe,1,3,1,0
+1348372,1753470000,5644,5635,Recoleta,Concepción,2,3,1,1
+1348371,1753547400,2340,2317,Union San Felipe,Deportes Temuco,1,0,1,0
+1348373,1753547400,2346,2322,Deportes Santa Cruz,San Luis,2,2,1,0
+1348374,1753556400,2316,2335,Curico Unido,Santiago Morning,0,1,0,1
+1348376,1753570800,2324,2332,Universidad de Concepcion,Cobreloa,0,1,0,1
+1348370,1753633800,2327,2333,Antofagasta,Santiago Wanderers,4,1,3,1
+1348375,1753642800,2344,2343,Rangers de Talca,Deportes Copiapo,0,0,0,0
+1348369,1753748100,2345,2336,San Marcos de Arica,Magallanes,2,2,0,1
+1348382,1754074800,2335,5644,Santiago Morning,Recoleta,0,2,0,0
+1348381,1754152200,2336,2316,Magallanes,Curico Unido,0,0,0,0
+1348377,1754161200,2332,2344,Cobreloa,Rangers de Talca,4,1,2,1
+1348379,1754179200,2322,2324,San Luis,Universidad de Concepcion,1,0,0,0
+1348384,1754238600,2317,2327,Deportes Temuco,Antofagasta,2,2,0,1
+1348378,1754247600,2343,2340,Deportes Copiapo,Union San Felipe,0,0,0,0
+1348380,1754265600,2333,2345,Santiago Wanderers,San Marcos de Arica,1,0,1,0
+1348383,1754350200,5635,2346,Concepción,Deportes Santa Cruz,1,0,0,0
+1348387,1754694000,2322,2336,San Luis,Magallanes,0,1,0,0
+1348391,1754757000,2344,2335,Rangers de Talca,Santiago Morning,0,0,0,0
+1348390,1754766000,2346,2324,Deportes Santa Cruz,Universidad de Concepcion,1,2,1,2
+1348388,1754775000,2333,2343,Santiago Wanderers,Deportes Copiapo,1,0,0,0
+1348385,1754784000,2345,2317,San Marcos de Arica,Deportes Temuco,0,0,0,0
+1348386,1754843400,2327,2332,Antofagasta,Cobreloa,3,0,2,0
+1348389,1754852400,5644,2340,Recoleta,Union San Felipe,2,1,1,0
+1348392,1754861400,5635,2316,Concepción,Curico Unido,0,0,0,0
+1348399,1755275400,2324,2345,Universidad de Concepcion,San Marcos de Arica,4,1,2,0
+1348397,1755284400,2335,2346,Santiago Morning,Deportes Santa Cruz,0,1,0,0
+1348400,1755293400,2317,2333,Deportes Temuco,Santiago Wanderers,0,2,0,1
+1348395,1755361800,2340,2322,Union San Felipe,San Luis,1,0,1,0
+1348398,1755370800,2316,2344,Curico Unido,Rangers de Talca,0,1,0,1
+1348394,1755379800,2343,5635,Deportes Copiapo,Concepción,2,1,2,0
+1348393,1755448200,2327,5644,Antofagasta,Recoleta,0,0,0,0
+1348396,1755457200,2336,2332,Magallanes,Cobreloa,3,4,1,4
+1348401,1755907200,2345,2335,San Marcos de Arica,Santiago Morning,2,1,1,0
+1348404,1755966600,2340,2327,Union San Felipe,Antofagasta,0,2,0,0
+1348405,1755966600,5644,2333,Recoleta,Santiago Wanderers,1,1,0,0
+1348407,1755975600,2344,2336,Rangers de Talca,Magallanes,0,0,0,0
+1348402,1756053000,2332,2343,Cobreloa,Deportes Copiapo,1,1,0,0
+1348406,1756062000,2346,2316,Deportes Santa Cruz,Curico Unido,2,0,1,0
+1348408,1756071000,5635,2324,Concepción,Universidad de Concepcion,1,4,0,1
+1348403,1756162800,2322,2317,San Luis,Deportes Temuco,1,1,0,1
+1348413,1756494000,2336,2340,Magallanes,Union San Felipe,2,0,0,0
+1348297,1756508400,5635,2335,Concepción,Santiago Morning,4,1,2,1
+1348411,1756571400,2343,2346,Deportes Copiapo,Deportes Santa Cruz,2,0,0,0
+1348415,1756580400,2316,2317,Curico Unido,Deportes Temuco,1,1,1,1
+1348412,1756657800,2333,2344,Santiago Wanderers,Rangers de Talca,0,0,0,0
+1348410,1756666800,2332,2322,Cobreloa,San Luis,1,1,1,0
+1348409,1756675800,2345,2327,San Marcos de Arica,Antofagasta,0,0,0,0
+1348416,1756767600,2324,5644,Universidad de Concepcion,Recoleta,1,0,1,0
+1348418,1757176200,2322,2333,San Luis,Santiago Wanderers,3,2,1,1
+1348422,1757176200,2344,2324,Rangers de Talca,Universidad de Concepcion,0,1,0,1
+1348419,1757185200,2340,2316,Union San Felipe,Curico Unido,4,2,2,0
+1348424,1757194200,2317,2343,Deportes Temuco,Deportes Copiapo,2,2,0,1
+1348417,1757259000,2327,2335,Antofagasta,Santiago Morning,4,0,1,0
+1348421,1757268000,2346,2336,Deportes Santa Cruz,Magallanes,0,3,0,1
+1348423,1757277000,5635,2332,Concepción,Cobreloa,4,0,1,0
+1348420,1757354400,5644,2345,Recoleta,San Marcos de Arica,0,0,0,0
+1348430,1757703600,2335,2324,Santiago Morning,Universidad de Concepcion,0,0,0,0
+1348429,1757777400,2336,2317,Magallanes,Deportes Temuco,2,0,1,0
+1348431,1757786400,2316,2322,Curico Unido,San Luis,1,3,1,2
+1348426,1757862000,2332,5644,Cobreloa,Recoleta,4,0,1,0
+1348432,1757862000,2344,2340,Rangers de Talca,Union San Felipe,2,1,1,0
+1348428,1757881800,2333,2346,Santiago Wanderers,Deportes Santa Cruz,1,1,0,0
+1348425,1757881800,2345,5635,San Marcos de Arica,Concepción,3,0,1,0
+1348427,1757977200,2343,2327,Deportes Copiapo,Antofagasta,1,1,0,0
+1348438,1759530600,5635,2336,Concepción,Magallanes,2,1,1,0
+1348435,1759590000,5644,2343,Recoleta,Deportes Copiapo,0,1,0,0
+1348437,1759600800,2346,2332,Deportes Santa Cruz,Cobreloa,1,2,0,0
+1348439,1759615200,2324,2340,Universidad de Concepcion,Union San Felipe,2,1,2,0
+1348433,1759678200,2327,2316,Antofagasta,Curico Unido,0,2,0,1
+1348434,1759687200,2322,2345,San Luis,San Marcos de Arica,1,1,1,0
+1348436,1759687200,2335,2333,Santiago Morning,Santiago Wanderers,1,1,0,1
+1348440,1759696200,2317,2344,Deportes Temuco,Rangers de Talca,1,1,1,0
+1348446,1760196600,2336,2335,Magallanes,Santiago Morning,0,1,0,1
+1348442,1760214600,2343,2345,Deportes Copiapo,San Marcos de Arica,3,1,0,0
+1348444,1760223600,2333,5635,Santiago Wanderers,Concepción,2,2,2,1
+1348445,1760283000,2340,2346,Union San Felipe,Deportes Santa Cruz,0,0,0,0
+1348441,1760292000,2332,2317,Cobreloa,Deportes Temuco,2,1,0,1
+1348448,1760301000,2324,2316,Universidad de Concepcion,Curico Unido,2,0,0,0
+1348443,1760396400,2322,5644,San Luis,Recoleta,0,0,0,0
+1348447,1760396400,2344,2327,Rangers de Talca,Antofagasta,2,1,1,0
+1348452,1760725800,5644,2344,Recoleta,Rangers de Talca,2,3,1,1
+1348453,1760734800,2335,2332,Santiago Morning,Cobreloa,3,0,2,0
+1348454,1760801400,2316,2333,Curico Unido,Santiago Wanderers,1,0,0,0
+1348449,1760801400,2345,2340,San Marcos de Arica,Union San Felipe,1,0,1,0
+1348450,1760887800,2327,2324,Antofagasta,Universidad de Concepcion,3,0,1,0
+1348451,1760896800,2343,2336,Deportes Copiapo,Magallanes,2,0,1,0
+1348456,1760905800,2317,2346,Deportes Temuco,Deportes Santa Cruz,0,0,0,0
+1348455,1760905800,5635,2322,Concepción,San Luis,2,2,1,1
+1348458,1761345000,2322,2343,San Luis,Deportes Copiapo,0,0,0,0
+1348464,1761345000,2324,2317,Universidad de Concepcion,Deportes Temuco,3,2,2,1
+1348459,1761406200,2340,2335,Union San Felipe,Santiago Morning,2,0,0,0
+1348462,1761406200,2346,2345,Deportes Santa Cruz,San Marcos de Arica,1,0,1,0
+1348460,1761406200,5644,2316,Recoleta,Curico Unido,1,1,0,0
+1348461,1761492600,2336,2327,Magallanes,Antofagasta,1,0,0,0
+1348457,1761501600,2332,2333,Cobreloa,Santiago Wanderers,2,0,0,0
+1348463,1761519600,2344,5635,Rangers de Talca,Concepción,1,0,0,0
+1348472,1761933600,2317,5644,Deportes Temuco,Recoleta,3,0,2,0
+1348471,1761942600,5635,2340,Concepción,Union San Felipe,2,1,1,0
+1348465,1761951600,2345,2344,San Marcos de Arica,Rangers de Talca,3,0,1,0
+1348467,1762023600,2343,2324,Deportes Copiapo,Universidad de Concepcion,0,3,0,1
+1348468,1762034400,2333,2336,Santiago Wanderers,Magallanes,1,2,1,0
+1348470,1762106400,2316,2332,Curico Unido,Cobreloa,0,2,0,1
+1348466,1762106400,2327,2346,Antofagasta,Deportes Santa Cruz,2,1,2,1
+1348469,1762106400,2335,2322,Santiago Morning,San Luis,3,0,2,0
+1485776,1763499600,5635,2327,Concepción,Antofagasta,2,1,2,1
+1485777,1763508600,2344,2345,Rangers de Talca,San Marcos de Arica,0,2,0,1
+1486077,1763593200,2333,2332,Santiago Wanderers,Cobreloa,2,2,1,0
+1485778,1763910000,2327,5635,Antofagasta,Concepción,1,1,0,0
+1485779,1763910000,2345,2344,San Marcos de Arica,Rangers de Talca,1,0,0,0
+1486078,1763931600,2332,2333,Cobreloa,Santiago Wanderers,2,2,1,1
+1488176,1764190800,2345,2332,San Marcos de Arica,Cobreloa,2,1,1,0
+1488177,1764199800,5635,2343,Concepción,Deportes Copiapo,1,0,0,0
+1488179,1764545400,2332,2345,Cobreloa,San Marcos de Arica,3,1,3,0
+1488178,1764545400,2343,5635,Deportes Copiapo,Concepción,1,1,1,0
+1488663,1764802800,5635,2332,Concepción,Cobreloa,1,1,0,0
+1488664,1765149300,2332,5635,Cobreloa,Concepción,2,3,0,1

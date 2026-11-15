@@ -1,0 +1,386 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1324894,1739595600,756,2235,Thespakusatsu Gunma,FC Ryukyu,0,0,0,0
+1324893,1739595600,7145,4324,Tochigi City,Sagamihara,2,1,1,1
+1324892,1739682000,315,7129,Tochigi SC,Kochi United,1,0,1,0
+1324895,1739682000,4314,4319,Azul Claro Numazu,Gainare Tottori,3,0,1,0
+1324897,1739682000,7135,4318,Nara Club,Fukushima United,2,2,2,2
+1324896,1739682000,7138,297,Osaka,FC Gifu,1,1,1,0
+1324898,1739682000,10409,4323,Tegevajaro Miyazaki,Parceiro Nagano,0,1,0,1
+1324899,1739685600,2236,317,Kagoshima United,Kamatamare Sanuki,1,1,1,0
+1324902,1740200400,756,7145,Thespakusatsu Gunma,Tochigi City,2,0,2,0
+1324908,1740200400,805,4323,Kitakyushu,Parceiro Nagano,2,0,0,0
+1324911,1740200400,2235,7138,FC Ryukyu,Osaka,0,1,0,0
+1324903,1740200400,4324,315,Sagamihara,Tochigi SC,1,0,1,0
+1324905,1740286800,297,4326,FC Gifu,Vanraure Hachinohe,0,1,0,0
+1324906,1740286800,317,7135,Kamatamare Sanuki,Nara Club,2,0,1,0
+1324910,1740286800,2236,300,Kagoshima United,Kanazawa,1,2,0,2
+1324904,1740286800,4314,304,Azul Claro Numazu,Matsumoto Yamaga,1,1,0,0
+1324907,1740286800,7129,4319,Kochi United,Gainare Tottori,0,0,0,0
+1324909,1740286800,10409,4318,Tegevajaro Miyazaki,Fukushima United,3,1,1,1
+1324916,1740805200,297,805,FC Gifu,Kitakyushu,2,1,0,1
+1324921,1740805200,2235,4318,FC Ryukyu,Fukushima United,0,1,0,1
+1324915,1740805200,4323,756,Parceiro Nagano,Thespakusatsu Gunma,3,2,1,1
+1324914,1740805200,4324,2236,Sagamihara,Kagoshima United,0,2,0,0
+1324917,1740805200,7135,304,Nara Club,Matsumoto Yamaga,2,1,0,1
+1324913,1740805200,7145,4314,Tochigi City,Azul Claro Numazu,0,0,0,0
+1324912,1740891600,315,10409,Tochigi SC,Tegevajaro Miyazaki,1,2,1,1
+1324919,1740891600,317,300,Kamatamare Sanuki,Kanazawa,1,1,1,1
+1324918,1740891600,4319,4326,Gainare Tottori,Vanraure Hachinohe,1,1,1,0
+1324920,1740891600,7129,7138,Kochi United,Osaka,1,2,0,0
+1324923,1741406400,4318,297,Fukushima United,FC Gifu,4,3,0,2
+1324929,1741410000,805,317,Kitakyushu,Kamatamare Sanuki,2,0,2,0
+1324924,1741410000,4323,7145,Parceiro Nagano,Tochigi City,1,2,1,2
+1324928,1741410000,7135,2235,Nara Club,FC Ryukyu,2,1,0,1
+1324927,1741410000,7138,4319,Osaka,Gainare Tottori,1,0,0,0
+1324931,1741413600,2236,756,Kagoshima United,Thespakusatsu Gunma,5,2,2,1
+1324925,1741496400,300,7129,Kanazawa,Kochi United,1,2,0,1
+1324926,1741496400,4314,315,Azul Claro Numazu,Tochigi SC,0,0,0,0
+1324922,1741496400,4326,4324,Vanraure Hachinohe,Sagamihara,1,2,0,2
+1324930,1741496400,10409,304,Tegevajaro Miyazaki,Matsumoto Yamaga,0,0,0,0
+1324940,1742011200,7129,2236,Kochi United,Kagoshima United,2,2,0,1
+1324939,1742014800,317,2235,Kamatamare Sanuki,FC Ryukyu,1,0,0,0
+1324941,1742014800,805,4326,Kitakyushu,Vanraure Hachinohe,1,0,0,0
+1324936,1742014800,4324,7135,Sagamihara,Nara Club,1,1,1,1
+1324933,1742101200,315,7138,Tochigi SC,Osaka,1,0,0,0
+1324935,1742101200,756,4319,Thespakusatsu Gunma,Gainare Tottori,2,0,2,0
+1324934,1742101200,7145,10409,Tochigi City,Tegevajaro Miyazaki,3,2,3,0
+1324938,1742119200,297,300,FC Gifu,Kanazawa,1,2,1,0
+1324942,1742702400,4326,7129,Vanraure Hachinohe,Kochi United,3,2,0,1
+1324943,1742706000,304,4324,Matsumoto Yamaga,Sagamihara,2,0,1,0
+1324949,1742706000,317,7145,Kamatamare Sanuki,Tochigi City,0,1,0,0
+1324951,1742706000,2235,315,FC Ryukyu,Tochigi SC,2,1,1,0
+1324950,1742706000,2236,805,Kagoshima United,Kitakyushu,1,0,0,0
+1324945,1742706000,4314,10409,Azul Claro Numazu,Tegevajaro Miyazaki,0,1,0,0
+1324948,1742706000,4319,297,Gainare Tottori,FC Gifu,3,0,0,0
+1324944,1742706000,4323,4318,Parceiro Nagano,Fukushima United,2,0,0,0
+1324947,1742706000,7135,756,Nara Club,Thespakusatsu Gunma,3,1,1,1
+1324946,1742706000,7138,300,Osaka,Kanazawa,1,0,0,0
+1324958,1743224400,297,304,FC Gifu,Matsumoto Yamaga,1,1,0,1
+1324952,1743307200,4326,7135,Vanraure Hachinohe,Nara Club,1,1,1,0
+1324957,1743310800,300,4323,Kanazawa,Parceiro Nagano,3,1,2,0
+1324954,1743310800,315,7145,Tochigi SC,Tochigi City,1,1,1,0
+1324955,1743310800,756,805,Thespakusatsu Gunma,Kitakyushu,0,2,0,1
+1324953,1743310800,4318,4319,Fukushima United,Gainare Tottori,3,0,2,0
+1324956,1743310800,4324,317,Sagamihara,Kamatamare Sanuki,1,1,1,1
+1324960,1743310800,7129,2235,Kochi United,FC Ryukyu,1,1,1,1
+1324959,1743310800,7138,4314,Osaka,Azul Claro Numazu,3,1,0,0
+1324961,1743310800,10409,2236,Tegevajaro Miyazaki,Kagoshima United,1,1,0,0
+1324965,1743829200,304,7129,Matsumoto Yamaga,Kochi United,0,5,0,5
+1324964,1743829200,756,10409,Thespakusatsu Gunma,Tegevajaro Miyazaki,0,0,0,0
+1324970,1743829200,805,7138,Kitakyushu,Osaka,1,0,0,0
+1324968,1743829200,7135,297,Nara Club,FC Gifu,1,1,1,1
+1324971,1743840000,2235,4324,FC Ryukyu,Sagamihara,2,0,1,0
+1324966,1743912000,4323,2236,Parceiro Nagano,Kagoshima United,1,3,0,0
+1324962,1743915600,315,4326,Tochigi SC,Vanraure Hachinohe,0,1,0,0
+1324967,1743915600,4314,317,Azul Claro Numazu,Kamatamare Sanuki,1,1,1,1
+1324969,1743915600,4319,300,Gainare Tottori,Kanazawa,1,1,1,0
+1324963,1743915600,7145,4318,Tochigi City,Fukushima United,2,2,1,0
+1324972,1744434000,4318,805,Fukushima United,Kitakyushu,1,0,0,0
+1324977,1744434000,7138,4326,Osaka,Vanraure Hachinohe,1,0,1,0
+1324980,1744434000,10409,4319,Tegevajaro Miyazaki,Gainare Tottori,2,1,1,1
+1324981,1744516800,2236,4314,Kagoshima United,Azul Claro Numazu,1,1,1,1
+1324974,1744516800,4323,2235,Parceiro Nagano,FC Ryukyu,1,1,0,0
+1324976,1744520400,297,315,FC Gifu,Tochigi SC,0,1,0,1
+1324975,1744520400,300,7135,Kanazawa,Nara Club,2,1,1,0
+1324978,1744520400,317,304,Kamatamare Sanuki,Matsumoto Yamaga,0,2,0,2
+1324973,1744520400,4324,756,Sagamihara,Thespakusatsu Gunma,1,1,1,0
+1324979,1744520400,7129,7145,Kochi United,Tochigi City,0,5,0,2
+1324987,1744952400,7138,756,Osaka,Thespakusatsu Gunma,4,3,0,2
+1324988,1745038980,7135,4314,Nara Club,Azul Claro Numazu,1,0,1,0
+1324983,1745121600,4318,7129,Fukushima United,Kochi United,3,4,1,2
+1324982,1745121600,4326,4323,Vanraure Hachinohe,Parceiro Nagano,1,0,1,0
+1324986,1745125200,297,317,FC Gifu,Kamatamare Sanuki,1,0,1,0
+1324985,1745125200,304,7145,Matsumoto Yamaga,Tochigi City,0,1,0,0
+1324984,1745125200,315,300,Tochigi SC,Kanazawa,0,1,0,0
+1324990,1745125200,805,4324,Kitakyushu,Sagamihara,1,1,0,1
+1324989,1745125200,4319,2236,Gainare Tottori,Kagoshima United,0,0,0,0
+1324991,1745136000,2235,10409,FC Ryukyu,Tegevajaro Miyazaki,1,1,1,0
+1324932,1745402400,4318,4314,Fukushima United,Azul Claro Numazu,1,1,1,0
+1324901,1745643600,805,304,Kitakyushu,Matsumoto Yamaga,1,2,0,0
+1324900,1745726400,4326,300,Vanraure Hachinohe,Kanazawa,2,0,1,0
+1324998,1746248400,317,4318,Kamatamare Sanuki,Fukushima United,1,2,0,1
+1324993,1746248400,756,297,Thespakusatsu Gunma,FC Gifu,1,1,0,0
+1324999,1746248400,805,315,Kitakyushu,Tochigi SC,0,0,0,0
+1325001,1746248400,2236,7135,Kagoshima United,Nara Club,1,2,0,0
+1324996,1746248400,4314,4326,Azul Claro Numazu,Vanraure Hachinohe,0,1,0,1
+1324997,1746248400,4319,2235,Gainare Tottori,FC Ryukyu,2,0,1,0
+1324992,1746248400,7145,7138,Tochigi City,Osaka,2,1,2,0
+1325000,1746248400,10409,7129,Tegevajaro Miyazaki,Kochi United,3,2,0,2
+1324994,1746252000,304,300,Matsumoto Yamaga,Kanazawa,2,1,1,1
+1324995,1746262800,4323,4324,Parceiro Nagano,Sagamihara,1,1,0,0
+1325003,1746507300,4318,756,Fukushima United,Thespakusatsu Gunma,2,4,0,2
+1325006,1746507600,300,805,Kanazawa,Kitakyushu,0,1,0,1
+1325004,1746507600,315,4323,Tochigi SC,Parceiro Nagano,1,0,0,0
+1325005,1746507600,4324,4319,Sagamihara,Gainare Tottori,1,0,0,0
+1325002,1746507600,4326,7145,Vanraure Hachinohe,Tochigi City,0,0,0,0
+1325010,1746507600,7129,317,Kochi United,Kamatamare Sanuki,0,2,0,0
+1325009,1746507600,7135,10409,Nara Club,Tegevajaro Miyazaki,0,1,0,0
+1325011,1746522000,2235,2236,FC Ryukyu,Kagoshima United,1,2,1,1
+1325007,1746525600,297,4314,FC Gifu,Azul Claro Numazu,3,2,3,1
+1325008,1746612000,7138,304,Osaka,Matsumoto Yamaga,1,0,1,0
+1324937,1747216800,304,4323,Matsumoto Yamaga,Parceiro Nagano,2,2,0,1
+1325013,1747458000,756,7129,Thespakusatsu Gunma,Kochi United,2,2,1,1
+1325020,1747458000,2236,4318,Kagoshima United,Fukushima United,5,0,0,0
+1325017,1747458000,7135,315,Nara Club,Tochigi SC,0,0,0,0
+1325012,1747458000,7145,297,Tochigi City,FC Gifu,1,0,0,0
+1325019,1747458000,10409,300,Tegevajaro Miyazaki,Kanazawa,1,1,0,0
+1325021,1747476000,2235,805,FC Ryukyu,Kitakyushu,0,1,0,1
+1325015,1747540800,304,4319,Matsumoto Yamaga,Gainare Tottori,1,0,0,0
+1325018,1747544400,317,4326,Kamatamare Sanuki,Vanraure Hachinohe,2,1,2,1
+1325016,1747544400,4314,4323,Azul Claro Numazu,Parceiro Nagano,0,0,0,0
+1325014,1747544400,4324,7138,Sagamihara,Osaka,1,2,0,0
+1325025,1748667600,756,4314,Thespakusatsu Gunma,Azul Claro Numazu,0,0,0,0
+1325031,1748667600,805,10409,Kitakyushu,Tegevajaro Miyazaki,1,1,0,0
+1325030,1748667600,4319,7145,Gainare Tottori,Tochigi City,1,0,0,0
+1325026,1748667600,4323,7135,Parceiro Nagano,Nara Club,1,0,1,0
+1325029,1748667600,7138,2236,Osaka,Kagoshima United,3,0,2,0
+1325024,1748685600,315,317,Tochigi SC,Kamatamare Sanuki,1,0,0,0
+1325027,1748754000,300,2235,Kanazawa,FC Ryukyu,1,2,1,1
+1325023,1748754000,4318,4324,Fukushima United,Sagamihara,3,3,2,2
+1325022,1748754000,4326,304,Vanraure Hachinohe,Matsumoto Yamaga,2,0,2,0
+1325028,1748772000,297,7129,FC Gifu,Kochi United,1,1,1,1
+1325035,1749272400,304,4318,Matsumoto Yamaga,Fukushima United,1,2,1,1
+1325038,1749272400,317,7138,Kamatamare Sanuki,Osaka,0,3,0,0
+1325041,1749286800,2236,297,Kagoshima United,FC Gifu,3,2,1,1
+1325033,1749290400,315,756,Tochigi SC,Thespakusatsu Gunma,0,1,0,0
+1325040,1749290400,10409,4324,Tegevajaro Miyazaki,Sagamihara,4,2,1,1
+1325032,1749355380,4326,2235,Vanraure Hachinohe,FC Ryukyu,1,0,0,0
+1325037,1749358800,4319,4323,Gainare Tottori,Parceiro Nagano,2,0,1,0
+1325036,1749358980,4314,300,Azul Claro Numazu,Kanazawa,3,1,1,0
+1325039,1749358980,7129,7135,Kochi United,Nara Club,3,2,1,1
+1325034,1749358980,7145,805,Tochigi City,Kitakyushu,1,0,0,0
+1325048,1749877200,805,4314,Kitakyushu,Azul Claro Numazu,1,0,1,0
+1325045,1749880800,4323,297,Parceiro Nagano,FC Gifu,1,2,1,2
+1325047,1749880800,7135,4319,Nara Club,Gainare Tottori,1,0,0,0
+1325044,1749888000,4324,7129,Sagamihara,Kochi United,0,0,0,0
+1325046,1749891600,300,7145,Kanazawa,Tochigi City,1,2,1,1
+1325051,1749891600,2235,304,FC Ryukyu,Matsumoto Yamaga,0,3,0,1
+1325050,1749891600,2236,4326,Kagoshima United,Vanraure Hachinohe,1,1,1,1
+1325049,1749895200,10409,7138,Tegevajaro Miyazaki,Osaka,0,0,0,0
+1325042,1749970800,4318,315,Fukushima United,Tochigi SC,2,2,1,0
+1325043,1749981600,756,317,Thespakusatsu Gunma,Kamatamare Sanuki,3,3,1,2
+1325060,1750482000,317,4323,Kamatamare Sanuki,Parceiro Nagano,0,1,0,0
+1325061,1750482000,7129,805,Kochi United,Kitakyushu,3,2,0,1
+1325054,1750496400,300,4324,Kanazawa,Sagamihara,0,0,0,0
+1325053,1750496400,304,2236,Matsumoto Yamaga,Kagoshima United,1,1,1,1
+1325055,1750496400,4314,2235,Azul Claro Numazu,FC Ryukyu,0,2,0,2
+1325058,1750496400,7135,7145,Nara Club,Tochigi City,2,1,1,1
+1325056,1750500000,297,10409,FC Gifu,Tegevajaro Miyazaki,2,3,2,2
+1325059,1750500000,4319,315,Gainare Tottori,Tochigi SC,2,1,1,0
+1325052,1750568400,4326,756,Vanraure Hachinohe,Thespakusatsu Gunma,2,0,1,0
+1325057,1750572000,7138,4318,Osaka,Fukushima United,7,1,4,0
+1325062,1750996800,4318,4326,Fukushima United,Vanraure Hachinohe,0,1,0,1
+1325069,1751101200,805,4319,Kitakyushu,Gainare Tottori,1,2,1,1
+1325071,1751101200,2235,297,FC Ryukyu,FC Gifu,1,0,0,0
+1325066,1751101200,4324,4314,Sagamihara,Azul Claro Numazu,3,1,3,0
+1325064,1751101200,7145,2236,Tochigi City,Kagoshima United,2,1,0,0
+1325063,1751104800,315,304,Tochigi SC,Matsumoto Yamaga,3,1,2,1
+1325065,1751104800,756,300,Thespakusatsu Gunma,Kanazawa,0,1,0,0
+1325070,1751104800,10409,317,Tegevajaro Miyazaki,Kamatamare Sanuki,1,0,0,0
+1325068,1751191200,7129,4323,Kochi United,Parceiro Nagano,1,0,0,0
+1325067,1751277600,7138,7135,Osaka,Nara Club,1,1,0,1
+1325076,1751706000,300,4318,Kanazawa,Fukushima United,2,1,1,0
+1325074,1751706000,304,756,Matsumoto Yamaga,Thespakusatsu Gunma,1,3,0,2
+1325077,1751706000,4314,7129,Azul Claro Numazu,Kochi United,4,0,1,0
+1325079,1751706000,7135,805,Nara Club,Kitakyushu,4,0,1,0
+1325073,1751706000,7145,2235,Tochigi City,FC Ryukyu,3,2,1,1
+1325072,1751707800,4326,10409,Vanraure Hachinohe,Tegevajaro Miyazaki,2,1,2,0
+1325081,1751709600,2236,315,Kagoshima United,Tochigi SC,1,0,1,0
+1325080,1751709600,4319,317,Gainare Tottori,Kamatamare Sanuki,1,0,0,0
+1325075,1751792400,4323,7138,Parceiro Nagano,Osaka,0,0,0,0
+1325078,1751796000,297,4324,FC Gifu,Sagamihara,1,1,1,0
+1325085,1752310800,304,7135,Matsumoto Yamaga,Nara Club,3,0,2,0
+1325088,1752310800,317,315,Kamatamare Sanuki,Tochigi SC,4,1,1,1
+1325090,1752310800,805,7145,Kitakyushu,Tochigi City,1,3,1,2
+1325086,1752310800,4314,2236,Azul Claro Numazu,Kagoshima United,0,0,0,0
+1325084,1752310800,4324,4318,Sagamihara,Fukushima United,0,1,0,1
+1325089,1752310800,7129,300,Kochi United,Kanazawa,1,1,0,1
+1325087,1752310800,7138,10409,Osaka,Tegevajaro Miyazaki,0,0,0,0
+1325082,1752312600,4326,297,Vanraure Hachinohe,FC Gifu,5,1,3,1
+1325083,1752314400,756,4323,Thespakusatsu Gunma,Parceiro Nagano,0,0,0,0
+1325091,1752314400,2235,4319,FC Ryukyu,Gainare Tottori,1,0,0,0
+1325099,1752915600,317,7129,Kamatamare Sanuki,Kochi United,1,2,1,0
+1325095,1752915600,4323,304,Parceiro Nagano,Matsumoto Yamaga,1,0,1,0
+1325094,1752915600,7145,756,Tochigi City,Thespakusatsu Gunma,1,1,0,0
+1325096,1752919200,300,4326,Kanazawa,Vanraure Hachinohe,0,1,0,0
+1325098,1752919200,4319,4314,Gainare Tottori,Azul Claro Numazu,4,3,2,1
+1325092,1753002000,4318,2235,Fukushima United,FC Ryukyu,3,3,2,1
+1325093,1753005600,315,4324,Tochigi SC,Sagamihara,1,2,1,1
+1325097,1753092000,297,7135,FC Gifu,Nara Club,1,1,1,0
+1325101,1753092000,2236,7138,Kagoshima United,Osaka,2,1,1,1
+1325100,1753092000,10409,805,Tegevajaro Miyazaki,Kitakyushu,1,3,0,0
+1325106,1753520400,304,297,Matsumoto Yamaga,FC Gifu,1,0,1,0
+1325111,1753520400,2235,4323,FC Ryukyu,Parceiro Nagano,2,0,2,0
+1325107,1753520400,4314,805,Azul Claro Numazu,Kitakyushu,1,3,0,0
+1325105,1753520400,4324,10409,Sagamihara,Tegevajaro Miyazaki,1,0,0,0
+1325110,1753520400,7129,4318,Kochi United,Fukushima United,1,0,0,0
+1325109,1753520400,7135,300,Nara Club,Kanazawa,2,1,2,1
+1325108,1753520400,7138,317,Osaka,Kamatamare Sanuki,2,1,0,1
+1325103,1753520400,7145,315,Tochigi City,Tochigi SC,0,1,0,1
+1325102,1753522200,4326,4319,Vanraure Hachinohe,Gainare Tottori,3,2,1,1
+1325104,1753524000,756,2236,Thespakusatsu Gunma,Kagoshima United,2,3,1,2
+1325119,1755334800,317,297,Kamatamare Sanuki,FC Gifu,1,1,0,1
+1325120,1755334800,805,7135,Kitakyushu,Nara Club,0,1,0,0
+1325112,1755334800,4318,7145,Fukushima United,Tochigi City,2,2,1,1
+1325116,1755334800,4323,4326,Parceiro Nagano,Vanraure Hachinohe,0,1,0,1
+1325117,1755338400,300,10409,Kanazawa,Tegevajaro Miyazaki,2,3,0,2
+1325115,1755338400,304,2235,Matsumoto Yamaga,FC Ryukyu,1,1,0,1
+1325113,1755338400,315,4314,Tochigi SC,Azul Claro Numazu,3,2,1,1
+1325114,1755338400,756,7138,Thespakusatsu Gunma,Osaka,2,0,2,0
+1325121,1755338400,2236,4324,Kagoshima United,Sagamihara,3,0,1,0
+1325118,1755338400,4319,7129,Gainare Tottori,Kochi United,1,0,0,0
+1325131,1755939600,2235,317,FC Ryukyu,Kamatamare Sanuki,1,1,0,0
+1325125,1755939600,4324,805,Sagamihara,Kitakyushu,1,0,0,0
+1325127,1755939600,7135,7129,Nara Club,Kochi United,3,0,2,0
+1325123,1755939600,7145,300,Tochigi City,Kanazawa,1,2,0,1
+1325122,1755941400,4326,7138,Vanraure Hachinohe,Osaka,1,1,0,0
+1325124,1755943200,756,315,Thespakusatsu Gunma,Tochigi SC,0,1,0,1
+1325128,1755943200,4319,304,Gainare Tottori,Matsumoto Yamaga,0,0,0,0
+1325129,1755943200,10409,4314,Tegevajaro Miyazaki,Azul Claro Numazu,2,1,2,1
+1325126,1756029600,297,4318,FC Gifu,Fukushima United,0,2,0,2
+1325130,1756029600,2236,4323,Kagoshima United,Parceiro Nagano,6,0,2,0
+1325134,1756544400,304,4326,Matsumoto Yamaga,Vanraure Hachinohe,0,0,0,0
+1325137,1756544400,4314,7145,Azul Claro Numazu,Tochigi City,4,5,2,2
+1325132,1756544400,4318,2236,Fukushima United,Kagoshima United,2,2,1,1
+1325135,1756544400,4323,805,Parceiro Nagano,Kitakyushu,1,1,0,1
+1325141,1756544400,7129,10409,Kochi United,Tegevajaro Miyazaki,1,2,0,2
+1325139,1756544400,7138,4324,Osaka,Sagamihara,0,2,0,0
+1325138,1756548000,297,2235,FC Gifu,FC Ryukyu,1,0,0,0
+1325136,1756548000,300,4319,Kanazawa,Gainare Tottori,2,0,2,0
+1325133,1756548000,315,7135,Tochigi SC,Nara Club,1,1,1,0
+1325140,1756630800,317,756,Kamatamare Sanuki,Thespakusatsu Gunma,3,2,2,0
+1325148,1757149200,805,297,Kitakyushu,FC Gifu,0,1,0,0
+1325151,1757149200,2235,756,FC Ryukyu,Thespakusatsu Gunma,3,2,2,1
+1325144,1757149200,4324,4323,Sagamihara,Parceiro Nagano,2,1,0,0
+1325146,1757149200,7135,317,Nara Club,Kamatamare Sanuki,4,3,0,0
+1325143,1757149200,7145,304,Tochigi City,Matsumoto Yamaga,3,2,2,2
+1325142,1757151000,4326,4314,Vanraure Hachinohe,Azul Claro Numazu,1,0,1,0
+1325150,1757152800,2236,7129,Kagoshima United,Kochi United,4,1,1,0
+1325147,1757152800,4319,4318,Gainare Tottori,Fukushima United,1,2,0,1
+1325149,1757152800,10409,315,Tegevajaro Miyazaki,Tochigi SC,2,3,1,2
+1325145,1757235600,300,7138,Kanazawa,Osaka,2,1,2,0
+1325154,1757754000,304,4314,Matsumoto Yamaga,Azul Claro Numazu,2,0,1,0
+1325159,1757754000,805,756,Kitakyushu,Thespakusatsu Gunma,1,0,1,0
+1325152,1757754000,4318,317,Fukushima United,Kamatamare Sanuki,4,2,1,0
+1325153,1757754000,4324,297,Sagamihara,FC Gifu,0,5,0,2
+1325157,1757754000,7135,2236,Nara Club,Kagoshima United,0,2,0,1
+1325155,1757757600,4323,4319,Parceiro Nagano,Gainare Tottori,1,1,1,1
+1325158,1757840400,7129,315,Kochi United,Tochigi SC,0,1,0,1
+1325160,1757844000,10409,4326,Tegevajaro Miyazaki,Vanraure Hachinohe,1,0,0,0
+1325156,1757923200,7138,7145,Osaka,Tochigi City,1,0,0,0
+1325161,1757926800,2235,300,FC Ryukyu,Kanazawa,1,0,1,0
+1325168,1758276000,7138,805,Osaka,Kitakyushu,0,3,0,2
+1325166,1758358800,4314,7135,Azul Claro Numazu,Nara Club,1,0,0,0
+1325164,1758358800,7145,7129,Tochigi City,Kochi United,3,0,1,0
+1325162,1758360600,4326,4318,Vanraure Hachinohe,Fukushima United,1,0,1,0
+1325167,1758362400,297,4323,FC Gifu,Parceiro Nagano,2,1,1,1
+1325163,1758362400,315,2235,Tochigi SC,FC Ryukyu,4,1,3,0
+1325171,1758362400,2236,10409,Kagoshima United,Tegevajaro Miyazaki,2,0,0,0
+1325169,1758362400,4319,756,Gainare Tottori,Thespakusatsu Gunma,3,1,0,0
+1325170,1758438000,317,4324,Kamatamare Sanuki,Sagamihara,2,0,2,0
+1325172,1758859200,4326,2236,Vanraure Hachinohe,Kagoshima United,1,0,1,0
+1325177,1758963600,300,317,Kanazawa,Kamatamare Sanuki,2,1,0,0
+1325180,1758963600,805,7129,Kitakyushu,Kochi United,0,2,0,1
+1325178,1758963600,4314,297,Azul Claro Numazu,FC Gifu,1,2,0,0
+1325179,1758963600,7135,7138,Nara Club,Osaka,1,1,1,0
+1325174,1758963600,7145,4319,Tochigi City,Gainare Tottori,1,0,1,0
+1325175,1758967200,756,4324,Thespakusatsu Gunma,Sagamihara,1,1,0,0
+1325181,1758967200,10409,2235,Tegevajaro Miyazaki,FC Ryukyu,4,2,3,0
+1325176,1759032000,304,315,Matsumoto Yamaga,Tochigi SC,1,1,0,0
+1325173,1759032000,4318,4323,Fukushima United,Parceiro Nagano,1,4,1,2
+1325186,1759554000,297,756,FC Gifu,Thespakusatsu Gunma,2,1,1,1
+1325185,1759554000,4323,300,Parceiro Nagano,Kanazawa,1,3,1,1
+1325191,1759568400,2235,7135,FC Ryukyu,Nara Club,0,2,0,1
+1325190,1759568400,2236,7145,Kagoshima United,Tochigi City,0,3,0,2
+1325184,1759568400,4324,4326,Sagamihara,Vanraure Hachinohe,0,1,0,0
+1325182,1759636800,4318,304,Fukushima United,Matsumoto Yamaga,1,0,0,0
+1325183,1759640400,315,805,Tochigi SC,Kitakyushu,0,1,0,1
+1325188,1759640400,317,10409,Kamatamare Sanuki,Tegevajaro Miyazaki,1,5,0,2
+1325187,1759640400,4319,7138,Gainare Tottori,Osaka,1,2,0,1
+1325189,1759640400,7129,4314,Kochi United,Azul Claro Numazu,0,1,0,1
+1325198,1760090400,7138,2235,Osaka,FC Ryukyu,3,0,0,0
+1325201,1760158800,805,2236,Kitakyushu,Kagoshima United,1,1,0,1
+1325193,1760158800,7145,7135,Tochigi City,Nara Club,3,0,1,0
+1325197,1760245200,300,4314,Kanazawa,Azul Claro Numazu,3,1,3,1
+1325192,1760245200,315,4318,Tochigi SC,Fukushima United,1,0,0,0
+1325194,1760245200,756,4326,Thespakusatsu Gunma,Vanraure Hachinohe,0,4,0,3
+1325199,1760245200,4319,4324,Gainare Tottori,Sagamihara,2,1,1,1
+1325200,1760245200,7129,297,Kochi United,FC Gifu,1,3,0,3
+1325196,1760331600,4323,317,Parceiro Nagano,Kamatamare Sanuki,1,0,1,0
+1325165,1760522400,300,304,Kanazawa,Matsumoto Yamaga,1,0,1,0
+1325203,1760763600,756,4318,Thespakusatsu Gunma,Fukushima United,1,2,0,1
+1325207,1760763600,7135,4323,Nara Club,Parceiro Nagano,2,0,1,0
+1325210,1760767200,2236,4319,Kagoshima United,Gainare Tottori,3,1,0,1
+1325211,1760778000,2235,7129,FC Ryukyu,Kochi United,2,1,1,0
+1325202,1760846400,4326,315,Vanraure Hachinohe,Tochigi SC,2,0,2,0
+1325205,1760850000,300,297,Kanazawa,FC Gifu,4,1,1,1
+1325208,1760850000,317,805,Kamatamare Sanuki,Kitakyushu,1,4,0,1
+1325206,1760850000,4314,7138,Azul Claro Numazu,Osaka,1,2,1,1
+1325204,1760850000,4324,304,Sagamihara,Matsumoto Yamaga,1,0,0,0
+1325209,1760850000,10409,7145,Tegevajaro Miyazaki,Tochigi City,1,1,0,0
+1325218,1761300000,7138,315,Osaka,Tochigi SC,0,1,0,1
+1325217,1761368400,297,2236,FC Gifu,Kagoshima United,1,3,1,1
+1325214,1761368400,756,7135,Thespakusatsu Gunma,Nara Club,2,0,2,0
+1325221,1761368400,805,2235,Kitakyushu,FC Ryukyu,2,1,0,0
+1325216,1761368400,4323,4314,Parceiro Nagano,Azul Claro Numazu,2,1,0,1
+1325213,1761368400,7145,4326,Tochigi City,Vanraure Hachinohe,1,0,0,0
+1325215,1761454800,304,317,Matsumoto Yamaga,Kamatamare Sanuki,1,2,0,0
+1325212,1761454800,4318,300,Fukushima United,Kanazawa,0,1,0,0
+1325219,1761454800,4319,10409,Gainare Tottori,Tegevajaro Miyazaki,1,4,1,2
+1325220,1761454800,7129,4324,Kochi United,Sagamihara,0,1,0,0
+1325226,1762056000,300,756,Kanazawa,Thespakusatsu Gunma,1,3,1,1
+1325222,1762056000,4326,805,Vanraure Hachinohe,Kitakyushu,1,2,0,0
+1325224,1762059600,315,297,Tochigi SC,FC Gifu,1,2,1,0
+1325228,1762059600,317,4319,Kamatamare Sanuki,Gainare Tottori,0,1,0,1
+1325230,1762059600,2236,304,Kagoshima United,Matsumoto Yamaga,3,2,0,1
+1325227,1762059600,4314,4324,Azul Claro Numazu,Sagamihara,0,0,0,0
+1325223,1762059600,4318,7138,Fukushima United,Osaka,0,1,0,0
+1325229,1762059600,10409,7135,Tegevajaro Miyazaki,Nara Club,2,2,1,1
+1325225,1762066800,4323,7129,Parceiro Nagano,Kochi United,0,1,0,1
+1325231,1762153200,2235,7145,FC Ryukyu,Tochigi City,2,2,1,1
+1325195,1762338600,304,10409,Matsumoto Yamaga,Tegevajaro Miyazaki,1,2,0,0
+1325237,1762578000,7135,4326,Nara Club,Vanraure Hachinohe,1,1,0,0
+1325233,1762578000,7145,317,Tochigi City,Kamatamare Sanuki,3,1,0,1
+1325232,1762664580,315,2236,Tochigi SC,Kagoshima United,2,0,0,0
+1325239,1762664580,805,4318,Kitakyushu,Fukushima United,1,2,0,1
+1325234,1762664580,4324,300,Sagamihara,Kanazawa,1,0,1,0
+1325238,1762664580,7129,304,Kochi United,Matsumoto Yamaga,0,1,0,1
+1325240,1762664580,10409,756,Tegevajaro Miyazaki,Thespakusatsu Gunma,1,2,0,0
+1325241,1762671600,2235,4314,FC Ryukyu,Azul Claro Numazu,2,3,1,1
+1325235,1762682400,297,4319,FC Gifu,Gainare Tottori,2,4,1,2
+1325236,1762754400,7138,4323,Osaka,Parceiro Nagano,3,0,1,0
+1325248,1763182800,297,7145,FC Gifu,Tochigi City,2,0,1,0
+1325245,1763182800,4323,10409,Parceiro Nagano,Tegevajaro Miyazaki,0,1,0,1
+1325251,1763182800,7129,4326,Kochi United,Vanraure Hachinohe,0,0,0,0
+1325246,1763269200,300,315,Kanazawa,Tochigi SC,2,0,1,0
+1325244,1763269200,304,7138,Matsumoto Yamaga,Osaka,1,1,0,1
+1325250,1763269200,317,2236,Kamatamare Sanuki,Kagoshima United,0,0,0,0
+1325247,1763269200,4314,756,Azul Claro Numazu,Thespakusatsu Gunma,1,2,0,2
+1325242,1763269200,4318,7135,Fukushima United,Nara Club,2,1,1,1
+1325249,1763269200,4319,805,Gainare Tottori,Kitakyushu,3,2,3,0
+1325243,1763269200,4324,2235,Sagamihara,FC Ryukyu,4,1,2,0
+1325261,1763870400,2236,2235,Kagoshima United,FC Ryukyu,1,1,0,1
+1325252,1763870400,4326,317,Vanraure Hachinohe,Kamatamare Sanuki,0,1,0,1
+1325253,1763874000,315,4319,Tochigi SC,Gainare Tottori,2,1,1,0
+1325255,1763874000,756,304,Thespakusatsu Gunma,Matsumoto Yamaga,6,2,2,2
+1325259,1763874000,805,300,Kitakyushu,Kanazawa,2,1,0,1
+1325256,1763874000,4314,4318,Azul Claro Numazu,Fukushima United,1,3,0,1
+1325254,1763874000,7145,4323,Tochigi City,Parceiro Nagano,3,0,0,0
+1325260,1763874000,10409,297,Tegevajaro Miyazaki,FC Gifu,2,1,1,1
+1325258,1763960400,7135,4324,Nara Club,Sagamihara,2,1,2,0
+1325257,1763960400,7138,7129,Osaka,Kochi United,1,0,0,0
+1325267,1764396000,297,7138,FC Gifu,Osaka,2,3,1,0
+1325266,1764396000,300,2236,Kanazawa,Kagoshima United,4,2,3,1
+1325264,1764396000,304,805,Matsumoto Yamaga,Kitakyushu,2,1,1,1
+1325269,1764396000,317,4314,Kamatamare Sanuki,Azul Claro Numazu,1,0,0,0
+1325271,1764396000,2235,4326,FC Ryukyu,Vanraure Hachinohe,1,1,0,0
+1325262,1764396000,4318,10409,Fukushima United,Tegevajaro Miyazaki,2,1,1,0
+1325268,1764396000,4319,7135,Gainare Tottori,Nara Club,2,1,0,0
+1325265,1764396000,4323,315,Parceiro Nagano,Tochigi SC,0,4,0,1
+1325263,1764396000,4324,7145,Sagamihara,Tochigi City,0,5,0,2
+1325270,1764396000,7129,756,Kochi United,Thespakusatsu Gunma,0,1,0,1
+1488549,1765080000,7117,4314,Biwako Shiga,Azul Claro Numazu,3,2,2,1
+1488550,1765083600,7138,300,Osaka,Kanazawa,1,0,0,0
+1488551,1765087200,10409,2236,Tegevajaro Miyazaki,Kagoshima United,2,0,1,0
+1488552,1765688400,4314,7117,Azul Claro Numazu,Biwako Shiga,1,1,1,1
+1489456,1765688400,7138,10409,Osaka,Tegevajaro Miyazaki,0,4,0,2

@@ -78,7 +78,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1577517,1788539400,3984,3985,Tekstilshchik,Torpedo Moskva,1,4,0,2
 1577521,1788609600,1089,2001,Enisey,FK Neftekhimik,0,2,0,0
 1577513,1788609600,6790,19449,Chelyabinsk,Spartak Kostroma,0,1,0,1
-1577515,1788609600,6811,1087,Leningradets,Ska-khabarovsk,3,2,2,1
 1577518,1788613200,1078,6833,FC UFA,Veles,1,1,1,1
 1577519,1788613200,6834,1077,Volga Ulyanovsk,Arsenal Tula,3,0,1,0
 1577514,1788616800,1998,2010,Shinnik Yaroslavl,Rotor Volgograd,2,2,1,1
@@ -153,3 +152,4 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1577577,1794142800,2010,6811,Rotor Volgograd,Leningradets,1,1,0,1
 1577580,1794157200,19449,2011,Spartak Kostroma,Nizhny Novgorod,0,4,0,3
 1577583,1794241800,6833,6801,Veles,KAMAZ,2,1,2,0
+1577601,1794663000,6834,3985,Volga Ulyanovsk,Torpedo Moskva,0,1,0,1

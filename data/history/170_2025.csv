@@ -1,0 +1,241 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1358020,1742038200,2626,5682,Nantong Zhiyun,Shanghai Jiading,1,0,0,0
+1358022,1742038200,5657,5684,Guangxi Baoyun,Shenyang Urban,0,3,0,1
+1358019,1742038200,21262,5679,Chongqing Tongliang Long,Qingdao Red Lions,1,1,1,1
+1358021,1742038200,23269,17271,Guangzhou E-Power,Yanbian Longding,4,0,2,0
+1358023,1742108400,1445,17264,Heilongjiang Lava Spring,Hebei Kungfu,2,2,0,0
+1358024,1742108400,23265,17263,Shenzhen Juniors,Dongguan United,2,1,1,1
+1358025,1742122800,5688,23286,Suzhou Dongwu,Shaanxi Union,0,0,0,0
+1358026,1742124600,16619,5652,Nanjing City,Dalian Huayi,1,2,0,0
+1358027,1743233400,5679,17271,Qingdao Red Lions,Yanbian Longding,1,1,0,0
+1358028,1743247800,2626,17264,Nantong Zhiyun,Hebei Kungfu,0,2,0,1
+1358029,1743247800,21262,5684,Chongqing Tongliang Long,Shenyang Urban,2,1,1,1
+1358030,1743318000,5652,23269,Dalian Huayi,Guangzhou E-Power,0,2,0,0
+1358031,1743319800,5682,23265,Shanghai Jiading,Shenzhen Juniors,2,1,1,0
+1358032,1743319800,17263,5688,Dongguan United,Suzhou Dongwu,0,2,0,1
+1358033,1743319800,23286,1445,Shaanxi Union,Heilongjiang Lava Spring,3,1,2,0
+1358034,1743334200,5657,16619,Guangxi Baoyun,Nanjing City,0,1,0,0
+1358035,1743836400,1445,23269,Heilongjiang Lava Spring,Guangzhou E-Power,1,1,0,1
+1358036,1743838200,5679,5652,Qingdao Red Lions,Dalian Huayi,0,0,0,0
+1358037,1743838200,5682,17264,Shanghai Jiading,Hebei Kungfu,0,2,0,0
+1358038,1743850800,5688,5657,Suzhou Dongwu,Guangxi Baoyun,0,0,0,0
+1358039,1743922800,5684,17271,Shenyang Urban,Yanbian Longding,2,1,1,1
+1358040,1743924600,17263,23286,Dongguan United,Shaanxi Union,2,1,2,0
+1358041,1743926400,23265,21262,Shenzhen Juniors,Chongqing Tongliang Long,0,3,0,2
+1358042,1743939000,16619,2626,Nanjing City,Nantong Zhiyun,0,0,0,0
+1358684,1744441200,1445,5679,Heilongjiang Lava Spring,Qingdao Red Lions,1,0,0,0
+1358045,1744457400,16619,5682,Nanjing City,Shanghai Jiading,1,1,1,0
+1358043,1744457400,21262,23286,Chongqing Tongliang Long,Shaanxi Union,2,1,0,0
+1358044,1744457400,23269,5684,Guangzhou E-Power,Shenyang Urban,0,2,0,2
+1358046,1744527600,5652,5688,Dalian Huayi,Suzhou Dongwu,0,0,0,0
+1358047,1744531200,23265,5657,Shenzhen Juniors,Guangxi Baoyun,2,0,2,0
+1358685,1744543800,2626,17263,Nantong Zhiyun,Dongguan United,2,0,2,0
+1358686,1744543800,17264,17271,Hebei Kungfu,Yanbian Longding,2,0,2,0
+1358049,1745305200,17271,5652,Yanbian Longding,Dalian Huayi,3,2,1,1
+1358050,1745307000,23286,16619,Shaanxi Union,Nanjing City,1,1,1,1
+1358051,1745319600,5682,5679,Shanghai Jiading,Qingdao Red Lions,2,0,1,0
+1358048,1745319600,5684,23265,Shenyang Urban,Shenzhen Juniors,7,1,3,1
+1358052,1745321400,2626,21262,Nantong Zhiyun,Chongqing Tongliang Long,2,4,1,3
+1358053,1745393400,17263,1445,Dongguan United,Heilongjiang Lava Spring,0,0,0,0
+1358054,1745407800,5657,23269,Guangxi Baoyun,Guangzhou E-Power,1,3,0,2
+1358687,1745407800,17264,5688,Hebei Kungfu,Suzhou Dongwu,1,1,1,0
+1358056,1745650800,5652,2626,Dalian Huayi,Nantong Zhiyun,1,1,0,1
+1358055,1745650800,17271,23265,Yanbian Longding,Shenzhen Juniors,1,0,0,0
+1358057,1745652600,5679,5684,Qingdao Red Lions,Shenyang Urban,1,3,1,3
+1358688,1745667000,16619,21262,Nanjing City,Chongqing Tongliang Long,0,1,0,0
+1358058,1745737200,1445,5657,Heilongjiang Lava Spring,Guangxi Baoyun,2,2,0,2
+1358059,1745739000,23286,17264,Shaanxi Union,Hebei Kungfu,0,1,0,1
+1358060,1745751600,5688,5682,Suzhou Dongwu,Shanghai Jiading,2,0,0,0
+1358061,1745753400,23269,17263,Guangzhou E-Power,Dongguan United,2,0,0,0
+1358062,1746255600,5652,5657,Dalian Huayi,Guangxi Baoyun,2,1,1,1
+1358063,1746270000,5688,2626,Suzhou Dongwu,Nantong Zhiyun,2,0,2,0
+1358064,1746271800,21262,1445,Chongqing Tongliang Long,Heilongjiang Lava Spring,2,1,1,0
+1358065,1746271800,23265,16619,Shenzhen Juniors,Nanjing City,4,3,3,0
+1358066,1746342000,5684,23286,Shenyang Urban,Shaanxi Union,2,1,0,0
+1358067,1746356400,5682,17271,Shanghai Jiading,Yanbian Longding,0,0,0,0
+1358068,1746358200,17263,5679,Dongguan United,Qingdao Red Lions,1,1,1,1
+1358689,1746358200,17264,23269,Hebei Kungfu,Guangzhou E-Power,1,2,1,0
+1358069,1746860400,1445,5682,Heilongjiang Lava Spring,Shanghai Jiading,0,1,0,0
+1358070,1746876600,2626,23265,Nantong Zhiyun,Shenzhen Juniors,5,0,2,0
+1358072,1746876600,5657,17264,Guangxi Baoyun,Hebei Kungfu,1,4,1,2
+1358071,1746876600,23269,21262,Guangzhou E-Power,Chongqing Tongliang Long,1,5,1,3
+1358073,1746946800,5684,5652,Shenyang Urban,Dalian Huayi,2,1,1,0
+1358074,1746946800,17271,23286,Yanbian Longding,Shaanxi Union,2,0,1,0
+1358075,1746948600,5679,5688,Qingdao Red Lions,Suzhou Dongwu,0,1,0,0
+1358076,1746963000,17263,16619,Dongguan United,Nanjing City,1,3,1,3
+1358077,1747393200,5652,23265,Dalian Huayi,Shenzhen Juniors,2,1,1,1
+1358078,1747395000,5657,17263,Guangxi Baoyun,Dongguan United,0,1,0,1
+1358079,1747395000,16619,5688,Nanjing City,Suzhou Dongwu,2,1,0,0
+1358080,1747465200,1445,5684,Heilongjiang Lava Spring,Shenyang Urban,3,3,1,1
+1358081,1747467000,23286,2626,Shaanxi Union,Nantong Zhiyun,3,2,0,2
+1358084,1747481400,17264,5679,Hebei Kungfu,Qingdao Red Lions,0,2,0,1
+1358082,1747481400,21262,17271,Chongqing Tongliang Long,Yanbian Longding,1,0,0,0
+1358083,1747481400,23269,5682,Guangzhou E-Power,Shanghai Jiading,2,0,0,0
+1358085,1748170800,5652,17263,Dalian Huayi,Dongguan United,1,0,0,0
+1358087,1748170800,5682,23286,Shanghai Jiading,Shaanxi Union,2,4,0,3
+1358086,1748170800,5688,5684,Suzhou Dongwu,Shenyang Urban,1,1,0,0
+1358088,1748172600,17264,16619,Hebei Kungfu,Nanjing City,2,0,1,0
+1358089,1748172600,21262,5657,Chongqing Tongliang Long,Guangxi Baoyun,0,0,0,0
+1358090,1748242800,17271,1445,Yanbian Longding,Heilongjiang Lava Spring,3,0,2,0
+1358091,1748244600,5679,2626,Qingdao Red Lions,Nantong Zhiyun,0,1,0,0
+1358092,1748259000,23265,23269,Shenzhen Juniors,Guangzhou E-Power,2,1,2,0
+1358093,1748689200,5684,17264,Shenyang Urban,Hebei Kungfu,1,0,0,0
+1358094,1748691000,5657,5679,Guangxi Baoyun,Qingdao Red Lions,1,0,1,0
+1358095,1748691000,16619,23269,Nanjing City,Guangzhou E-Power,2,4,1,0
+1358096,1748691000,17263,21262,Dongguan United,Chongqing Tongliang Long,1,1,1,1
+1358097,1748761200,17271,5688,Yanbian Longding,Suzhou Dongwu,2,1,1,1
+1358098,1748763000,23286,23265,Shaanxi Union,Shenzhen Juniors,3,2,2,1
+1358099,1748775600,5682,5652,Shanghai Jiading,Dalian Huayi,3,0,1,0
+1358100,1748777400,2626,1445,Nantong Zhiyun,Heilongjiang Lava Spring,1,1,0,1
+1358101,1749898800,5684,5682,Shenyang Urban,Shanghai Jiading,3,0,2,0
+1358103,1749900600,5657,2626,Guangxi Baoyun,Nantong Zhiyun,1,2,1,1
+1358104,1749900600,17263,17271,Dongguan United,Yanbian Longding,2,2,2,1
+1358102,1749900600,21262,5652,Chongqing Tongliang Long,Dalian Huayi,1,1,1,0
+1358106,1749987000,1445,16619,Heilongjiang Lava Spring,Nanjing City,2,1,2,1
+1358105,1749987000,5679,23286,Qingdao Red Lions,Shaanxi Union,1,1,0,1
+1358107,1749987000,23265,17264,Shenzhen Juniors,Hebei Kungfu,4,0,2,0
+1358690,1749987000,23269,5688,Guangzhou E-Power,Suzhou Dongwu,3,2,0,0
+1358110,1750505400,2626,5684,Nantong Zhiyun,Shenyang Urban,2,2,2,0
+1358111,1750505400,17264,21262,Hebei Kungfu,Chongqing Tongliang Long,3,1,1,0
+1358112,1750575600,17271,5657,Yanbian Longding,Guangxi Baoyun,1,0,1,0
+1358114,1750590000,5682,17263,Shanghai Jiading,Dongguan United,2,1,2,1
+1358113,1750590000,5688,23265,Suzhou Dongwu,Shenzhen Juniors,0,0,0,0
+1358115,1750591800,16619,5679,Nanjing City,Qingdao Red Lions,2,0,1,0
+1358118,1751108400,5682,5657,Shanghai Jiading,Guangxi Baoyun,3,1,1,0
+1358116,1751108400,5684,16619,Shenyang Urban,Nanjing City,1,1,0,1
+1358119,1751108400,5688,21262,Suzhou Dongwu,Chongqing Tongliang Long,1,3,1,0
+1358117,1751108400,23286,5652,Shaanxi Union,Dalian Huayi,2,1,1,1
+1358120,1751110200,23265,1445,Shenzhen Juniors,Heilongjiang Lava Spring,1,1,0,0
+1358121,1751180400,17271,2626,Yanbian Longding,Nantong Zhiyun,1,0,0,0
+1358691,1751196600,17264,17263,Hebei Kungfu,Dongguan United,2,2,2,1
+1358122,1751196600,23269,5679,Guangzhou E-Power,Qingdao Red Lions,0,0,0,0
+1358123,1751713200,5652,17264,Dalian Huayi,Hebei Kungfu,3,1,2,0
+1358126,1751715000,1445,5688,Heilongjiang Lava Spring,Suzhou Dongwu,3,1,1,1
+1358124,1751715000,5657,23286,Guangxi Baoyun,Shaanxi Union,0,0,0,0
+1358125,1751715000,5679,23265,Qingdao Red Lions,Shenzhen Juniors,0,2,0,1
+1358127,1751801400,2626,23269,Nantong Zhiyun,Guangzhou E-Power,0,1,0,0
+1358692,1751801400,16619,17271,Nanjing City,Yanbian Longding,1,1,0,0
+1358129,1751801400,17263,5684,Dongguan United,Shenyang Urban,0,2,0,0
+1358128,1751801400,21262,5682,Chongqing Tongliang Long,Shanghai Jiading,4,0,2,0
+1358130,1752314400,17271,23269,Yanbian Longding,Guangzhou E-Power,2,0,0,0
+1358131,1752318000,5684,5657,Shenyang Urban,Guangxi Baoyun,1,0,0,0
+1358132,1752318000,23286,5688,Shaanxi Union,Suzhou Dongwu,1,3,0,2
+1358133,1752319800,5679,21262,Qingdao Red Lions,Chongqing Tongliang Long,3,4,2,2
+1358134,1752319800,17263,23265,Dongguan United,Shenzhen Juniors,2,1,2,1
+1358135,1752404400,5652,16619,Dalian Huayi,Nanjing City,3,1,1,1
+1358136,1752404400,5682,2626,Shanghai Jiading,Nantong Zhiyun,0,1,0,1
+1358137,1752406200,17264,1445,Hebei Kungfu,Heilongjiang Lava Spring,1,1,1,1
+1358693,1752838200,23269,5652,Guangzhou E-Power,Dalian Huayi,2,2,0,2
+1358138,1752919200,17271,5679,Yanbian Longding,Qingdao Red Lions,1,0,1,0
+1358139,1752922800,5684,21262,Shenyang Urban,Chongqing Tongliang Long,4,2,4,1
+1358140,1752922800,5688,17263,Suzhou Dongwu,Dongguan United,0,1,0,0
+1358141,1752924600,17264,2626,Hebei Kungfu,Nantong Zhiyun,3,1,0,0
+1358143,1753011000,1445,23286,Heilongjiang Lava Spring,Shaanxi Union,2,0,0,0
+1358142,1753011000,16619,5657,Nanjing City,Guangxi Baoyun,2,1,0,1
+1358144,1753097400,23265,5682,Shenzhen Juniors,Shanghai Jiading,1,2,1,1
+1358145,1753524000,17271,5684,Yanbian Longding,Shenyang Urban,0,1,0,0
+1358146,1753527600,23286,17263,Shaanxi Union,Dongguan United,3,1,2,0
+1358694,1753529400,17264,5682,Hebei Kungfu,Shanghai Jiading,0,0,0,0
+1358147,1753529400,21262,23265,Chongqing Tongliang Long,Shenzhen Juniors,2,1,0,0
+1358148,1753614000,5652,5679,Dalian Huayi,Qingdao Red Lions,2,1,0,0
+1358149,1753615800,2626,16619,Nantong Zhiyun,Nanjing City,0,1,0,1
+1358151,1753615800,5657,5688,Guangxi Baoyun,Suzhou Dongwu,0,0,0,0
+1358150,1753615800,23269,1445,Guangzhou E-Power,Heilongjiang Lava Spring,0,1,0,0
+1358152,1754128800,17271,17264,Yanbian Longding,Hebei Kungfu,1,1,0,1
+1358154,1754132400,5682,16619,Shanghai Jiading,Nanjing City,1,1,0,1
+1358695,1754132400,5684,23269,Shenyang Urban,Guangzhou E-Power,2,2,0,1
+1358153,1754132400,23286,21262,Shaanxi Union,Chongqing Tongliang Long,0,3,0,2
+1358155,1754134200,5657,23265,Guangxi Baoyun,Shenzhen Juniors,3,2,1,1
+1358696,1754218800,5688,5652,Suzhou Dongwu,Dalian Huayi,0,4,0,1
+1358156,1754220600,5679,1445,Qingdao Red Lions,Heilongjiang Lava Spring,0,2,0,1
+1358697,1754220600,17263,2626,Dongguan United,Nantong Zhiyun,1,1,0,0
+1358157,1754737200,5652,17271,Dalian Huayi,Yanbian Longding,0,0,0,0
+1358159,1754739000,16619,23286,Nanjing City,Shaanxi Union,3,3,3,3
+1358158,1754739000,21262,2626,Chongqing Tongliang Long,Nantong Zhiyun,0,2,0,0
+1358160,1754739000,23265,5684,Shenzhen Juniors,Shenyang Urban,2,3,1,1
+1358161,1754823600,5688,17264,Suzhou Dongwu,Hebei Kungfu,1,1,1,1
+1358164,1754825400,1445,17263,Heilongjiang Lava Spring,Dongguan United,3,0,0,0
+1358163,1754825400,5679,5682,Qingdao Red Lions,Shanghai Jiading,1,0,0,0
+1358162,1754825400,23269,5657,Guangzhou E-Power,Guangxi Baoyun,0,1,0,0
+1358165,1755342000,5682,5688,Shanghai Jiading,Suzhou Dongwu,0,0,0,0
+1358698,1755342000,5684,5679,Shenyang Urban,Qingdao Red Lions,2,1,1,0
+1358166,1755343800,2626,5652,Nantong Zhiyun,Dalian Huayi,2,0,2,0
+1358167,1755343800,5657,1445,Guangxi Baoyun,Heilongjiang Lava Spring,3,1,2,0
+1358168,1755343800,17263,23269,Dongguan United,Guangzhou E-Power,2,3,1,1
+1358170,1755430200,17264,23286,Hebei Kungfu,Shaanxi Union,1,1,0,1
+1358169,1755430200,21262,16619,Chongqing Tongliang Long,Nanjing City,1,0,0,0
+1358171,1755430200,23265,17271,Shenzhen Juniors,Yanbian Longding,2,1,1,1
+1358109,1755946800,23286,23269,Shaanxi Union,Guangzhou E-Power,1,2,0,0
+1358108,1757156400,5652,1445,Dalian Huayi,Heilongjiang Lava Spring,2,1,2,1
+1358172,1757746800,17271,5682,Yanbian Longding,Shanghai Jiading,1,0,0,0
+1358173,1757761200,23286,5684,Shaanxi Union,Shenyang Urban,3,1,1,1
+1358175,1757763000,5657,5652,Guangxi Baoyun,Dalian Huayi,1,1,0,0
+1358176,1757763000,16619,23265,Nanjing City,Shenzhen Juniors,3,0,1,0
+1358174,1757763000,23269,17264,Guangzhou E-Power,Hebei Kungfu,2,0,0,0
+1358179,1757849400,1445,21262,Heilongjiang Lava Spring,Chongqing Tongliang Long,3,1,3,0
+1358177,1757849400,2626,5688,Nantong Zhiyun,Suzhou Dongwu,2,0,0,0
+1358178,1757849400,5679,17263,Qingdao Red Lions,Dongguan United,0,1,0,1
+1358182,1758366000,5682,1445,Shanghai Jiading,Heilongjiang Lava Spring,0,2,0,1
+1358180,1758366000,5688,5679,Suzhou Dongwu,Qingdao Red Lions,1,0,1,0
+1358181,1758366000,23286,17271,Shaanxi Union,Yanbian Longding,0,1,0,0
+1358183,1758367800,17264,5657,Hebei Kungfu,Guangxi Baoyun,1,0,0,0
+1358185,1758445200,23265,2626,Shenzhen Juniors,Nantong Zhiyun,0,3,0,0
+1358184,1758452400,5652,5684,Dalian Huayi,Shenyang Urban,1,1,1,0
+1358187,1758454200,16619,17263,Nanjing City,Dongguan United,1,1,1,0
+1358186,1758454200,21262,23269,Chongqing Tongliang Long,Guangzhou E-Power,0,1,0,1
+1358188,1758886200,2626,23286,Nantong Zhiyun,Shaanxi Union,1,1,0,0
+1358189,1758886200,5679,17264,Qingdao Red Lions,Hebei Kungfu,0,1,0,0
+1358190,1758886200,17263,5657,Dongguan United,Guangxi Baoyun,1,2,0,0
+1358191,1758956400,17271,21262,Yanbian Longding,Chongqing Tongliang Long,3,0,0,0
+1358194,1758970800,5682,23269,Shanghai Jiading,Guangzhou E-Power,2,2,1,1
+1358192,1758970800,5684,1445,Shenyang Urban,Heilongjiang Lava Spring,0,0,0,0
+1358193,1758970800,5688,16619,Suzhou Dongwu,Nanjing City,1,0,0,0
+1358195,1758972600,23265,5652,Shenzhen Juniors,Dalian Huayi,1,3,0,2
+1358198,1759577400,1445,17271,Heilongjiang Lava Spring,Yanbian Longding,2,1,1,0
+1358196,1759577400,2626,5679,Nantong Zhiyun,Qingdao Red Lions,7,1,3,0
+1358197,1759577400,17263,5652,Dongguan United,Dalian Huayi,2,0,0,0
+1358699,1759647600,5684,5688,Shenyang Urban,Suzhou Dongwu,2,0,0,0
+1358700,1759649400,23286,5682,Shaanxi Union,Shanghai Jiading,3,1,1,1
+1358200,1759663800,5657,21262,Guangxi Baoyun,Chongqing Tongliang Long,1,2,0,1
+1358201,1759663800,16619,17264,Nanjing City,Hebei Kungfu,1,3,1,1
+1358199,1759663800,23269,23265,Guangzhou E-Power,Shenzhen Juniors,1,0,1,0
+1358701,1760180400,5652,5682,Dalian Huayi,Shanghai Jiading,1,2,1,1
+1358702,1760182200,17264,5684,Hebei Kungfu,Shenyang Urban,1,2,1,1
+1358202,1760182200,21262,17263,Chongqing Tongliang Long,Dongguan United,2,0,2,0
+1358203,1760182200,23269,16619,Guangzhou E-Power,Nanjing City,4,1,3,0
+1358704,1760254200,23265,23286,Shenzhen Juniors,Shaanxi Union,3,3,2,1
+1358204,1760266800,5688,17271,Suzhou Dongwu,Yanbian Longding,1,1,1,0
+1358703,1760268600,1445,2626,Heilongjiang Lava Spring,Nantong Zhiyun,1,1,1,1
+1358205,1760268600,5679,5657,Qingdao Red Lions,Guangxi Baoyun,1,1,1,1
+1358705,1760770800,17271,17263,Yanbian Longding,Dongguan United,4,1,1,1
+1358706,1760772600,5682,5684,Shanghai Jiading,Shenyang Urban,0,3,0,2
+1358707,1760785200,5652,21262,Dalian Huayi,Chongqing Tongliang Long,1,2,1,1
+1358206,1760785200,5688,23269,Suzhou Dongwu,Guangzhou E-Power,0,1,0,0
+1358207,1760787000,17264,23265,Hebei Kungfu,Shenzhen Juniors,1,0,1,0
+1358208,1760859000,23286,5679,Shaanxi Union,Qingdao Red Lions,2,0,2,0
+1358209,1760873400,2626,5657,Nantong Zhiyun,Guangxi Baoyun,3,0,2,0
+1358210,1760873400,16619,1445,Nanjing City,Heilongjiang Lava Spring,2,0,1,0
+1358708,1761377400,23265,5688,Shenzhen Juniors,Suzhou Dongwu,0,2,0,1
+1358213,1761391800,1445,5652,Heilongjiang Lava Spring,Dalian Huayi,2,1,1,0
+1358211,1761391800,5679,16619,Qingdao Red Lions,Nanjing City,2,3,1,0
+1358212,1761391800,17263,5682,Dongguan United,Shanghai Jiading,2,1,1,0
+1358214,1761462000,5684,2626,Shenyang Urban,Nantong Zhiyun,1,0,0,0
+1358217,1761478200,5657,17271,Guangxi Baoyun,Yanbian Longding,0,2,0,0
+1358215,1761478200,21262,17264,Chongqing Tongliang Long,Hebei Kungfu,0,0,0,0
+1358216,1761478200,23269,23286,Guangzhou E-Power,Shaanxi Union,2,2,0,0
+1358224,1761978600,1445,23265,Heilongjiang Lava Spring,Shenzhen Juniors,1,1,1,0
+1358218,1761978600,2626,17271,Nantong Zhiyun,Yanbian Longding,0,1,0,0
+1358222,1761978600,5652,23286,Dalian Huayi,Shaanxi Union,3,0,1,0
+1358220,1761978600,5657,5682,Guangxi Baoyun,Shanghai Jiading,2,1,2,0
+1358221,1761978600,5679,23269,Qingdao Red Lions,Guangzhou E-Power,2,4,0,2
+1358709,1761978600,16619,5684,Nanjing City,Shenyang Urban,1,1,0,0
+1358223,1761978600,17263,17264,Dongguan United,Hebei Kungfu,0,0,0,0
+1358219,1761978600,21262,5688,Chongqing Tongliang Long,Suzhou Dongwu,0,0,0,0
+1358230,1762583400,5682,21262,Shanghai Jiading,Chongqing Tongliang Long,0,2,0,0
+1358225,1762583400,5684,17263,Shenyang Urban,Dongguan United,5,0,1,0
+1358227,1762583400,5688,1445,Suzhou Dongwu,Heilongjiang Lava Spring,1,0,0,0
+1358229,1762583400,17264,5652,Hebei Kungfu,Dalian Huayi,2,2,2,0
+1358228,1762583400,17271,16619,Yanbian Longding,Nanjing City,6,1,1,1
+1358231,1762583400,23265,5679,Shenzhen Juniors,Qingdao Red Lions,2,1,1,0
+1358226,1762583400,23269,2626,Guangzhou E-Power,Nantong Zhiyun,3,1,0,0
+1358232,1762583400,23286,5657,Shaanxi Union,Guangxi Baoyun,5,1,2,0

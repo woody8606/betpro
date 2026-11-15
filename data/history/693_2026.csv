@@ -1,0 +1,37 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1642606,1790505000,13921,15236,Ethnikos Asteras,Pannaxiakos,2,3,0,1
+1642610,1790514000,2086,18057,Acharnaikos,AE Mykonos,0,3,0,1
+1642607,1790514000,5064,24879,Thyella Diastavroseos,Nea Ionia,2,1,0,0
+1642609,1790514000,15229,6304,Asteras Varis,Ilisiakos,0,2,0,1
+1642608,1790514000,24860,13915,Saronikos Anavyssou,Asteras Magoula,1,0,1,0
+1642611,1791118800,6304,24860,Ilisiakos,Saronikos Anavyssou,2,0,0,0
+1642613,1791118800,13915,13921,Asteras Magoula,Ethnikos Asteras,1,0,1,0
+1642612,1791118800,15235,15229,Ilioupoli,Asteras Varis,1,1,0,1
+1642615,1791118800,24879,2086,Nea Ionia,Acharnaikos,4,0,1,0
+1642614,1791196200,18057,15236,AE Mykonos,Pannaxiakos,1,0,1,0
+1642618,1791711000,18057,13915,AE Mykonos,Asteras Magoula,0,0,0,0
+1642620,1791723600,5064,15235,Thyella Diastavroseos,Ilioupoli,1,0,0,0
+1642616,1791723600,13921,6304,Ethnikos Asteras,Ilisiakos,0,1,0,0
+1642617,1791723600,15229,24860,Asteras Varis,Saronikos Anavyssou,1,0,0,0
+1642619,1791801000,15236,24879,Pannaxiakos,Nea Ionia,2,0,0,0
+1642625,1792328400,5064,15229,Thyella Diastavroseos,Asteras Varis,0,1,0,1
+1642621,1792328400,6304,18057,Ilisiakos,AE Mykonos,1,0,1,0
+1642622,1792328400,15235,2086,Ilioupoli,Acharnaikos,2,1,1,0
+1642624,1792328400,24860,13921,Saronikos Anavyssou,Ethnikos Asteras,0,1,0,0
+1642623,1792328400,24879,13915,Nea Ionia,Asteras Magoula,0,1,0,0
+1642628,1792918800,18057,24860,AE Mykonos,Saronikos Anavyssou,3,0,0,0
+1642630,1792931400,15236,15235,Pannaxiakos,Ilioupoli,3,3,3,1
+1642626,1792933200,2086,5064,Acharnaikos,Thyella Diastavroseos,0,4,0,2
+1642627,1792933200,15229,13921,Asteras Varis,Ethnikos Asteras,1,0,0,0
+1642629,1792933200,24879,6304,Nea Ionia,Ilisiakos,1,0,1,0
+1642635,1793451600,5064,15236,Thyella Diastavroseos,Pannaxiakos,0,0,0,0
+1642631,1793538000,2086,15229,Acharnaikos,Asteras Varis,1,2,0,2
+1642632,1793538000,13921,18057,Ethnikos Asteras,AE Mykonos,0,3,0,2
+1642633,1793538000,15235,13915,Ilioupoli,Asteras Magoula,0,1,0,1
+1642634,1793538000,24860,24879,Saronikos Anavyssou,Nea Ionia,0,2,0,1
+1642636,1794056400,6304,15235,Ilisiakos,Ilioupoli,2,0,2,0
+1642640,1794141000,15236,2086,Pannaxiakos,Acharnaikos,4,1,3,0
+1642638,1794142800,13915,5064,Asteras Magoula,Thyella Diastavroseos,0,0,0,0
+1642637,1794142800,15229,18057,Asteras Varis,AE Mykonos,1,0,1,0
+1642639,1794142800,24879,13921,Nea Ionia,Ethnikos Asteras,1,0,0,0
+1642642,1794661200,18057,24879,AE Mykonos,Nea Ionia,1,2,0,1

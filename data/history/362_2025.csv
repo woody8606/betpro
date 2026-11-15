@@ -1,0 +1,183 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1353640,1740763800,3859,3872,Dainava,Kauno Žalgiris,1,3,0,1
+1353641,1740835800,3858,3861,Banga,Hegelmann Litauen,2,0,1,0
+1353642,1740843000,638,612,FK Trakai,Suduva Marijampole,3,4,2,2
+1353643,1740916800,3874,3870,Panevėžys,Šiauliai,1,3,1,2
+1353644,1740932700,586,3860,FK Zalgiris Vilnius,Džiugas Telšiai,2,1,1,1
+1353645,1741368600,638,586,FK Trakai,FK Zalgiris Vilnius,3,3,1,3
+1353646,1741438800,3870,3859,Šiauliai,Dainava,2,2,1,0
+1353647,1741446000,3872,3860,Kauno Žalgiris,Džiugas Telšiai,1,2,1,0
+1353648,1741521600,3861,3874,Hegelmann Litauen,Panevėžys,2,1,1,0
+1353649,1741537500,612,3858,Suduva Marijampole,Banga,1,0,0,0
+1353650,1741971600,3859,3860,Dainava,Džiugas Telšiai,0,2,0,1
+1353651,1742047200,3861,3870,Hegelmann Litauen,Šiauliai,1,0,0,0
+1353652,1742050800,586,3858,FK Zalgiris Vilnius,Banga,1,1,0,0
+1353653,1742130000,3874,612,Panevėžys,Suduva Marijampole,2,0,0,0
+1353654,1742142300,638,3872,FK Trakai,Kauno Žalgiris,0,0,0,0
+1353655,1743181200,612,3860,Suduva Marijampole,Džiugas Telšiai,1,0,1,0
+1353656,1743256800,3870,3872,Šiauliai,Kauno Žalgiris,2,3,2,1
+1353657,1743260400,3861,638,Hegelmann Litauen,FK Trakai,2,1,2,0
+1353658,1743336000,3874,3858,Panevėžys,Banga,1,1,0,1
+1353702,1743348300,3859,586,Dainava,FK Zalgiris Vilnius,0,1,0,0
+1353660,1743784200,612,3859,Suduva Marijampole,Dainava,1,0,1,0
+1353661,1743858000,638,3874,FK Trakai,Panevėžys,3,1,0,0
+1353662,1743861600,3858,3870,Banga,Šiauliai,1,2,1,0
+1353663,1743944400,3860,3861,Džiugas Telšiai,Hegelmann Litauen,0,2,0,0
+1353664,1743953100,586,3872,FK Zalgiris Vilnius,Kauno Žalgiris,0,0,0,0
+1353665,1744455600,3874,3860,Panevėžys,Džiugas Telšiai,0,1,0,1
+1353666,1744462800,3870,586,Šiauliai,FK Zalgiris Vilnius,2,0,1,0
+1353667,1744466400,3858,638,Banga,FK Trakai,1,3,0,2
+1353668,1744466400,3872,612,Kauno Žalgiris,Suduva Marijampole,0,0,0,0
+1353669,1744470000,3861,3859,Hegelmann Litauen,Dainava,3,2,0,2
+1353670,1744817400,3858,3860,Banga,Džiugas Telšiai,0,1,0,0
+1353672,1744819200,3870,638,Šiauliai,FK Trakai,2,2,1,0
+1353671,1744819200,3872,3861,Kauno Žalgiris,Hegelmann Litauen,3,1,1,0
+1353673,1744821000,586,612,FK Zalgiris Vilnius,Suduva Marijampole,3,0,1,0
+1353674,1744821000,3859,3874,Dainava,Panevėžys,1,3,1,2
+1353677,1745078400,612,3870,Suduva Marijampole,Šiauliai,1,1,1,0
+1353675,1745078400,3874,3872,Panevėžys,Kauno Žalgiris,0,2,0,0
+1353676,1745080200,638,3860,FK Trakai,Džiugas Telšiai,0,1,0,0
+1353678,1745154000,3858,3859,Banga,Dainava,2,1,1,0
+1353679,1745162700,3861,586,Hegelmann Litauen,FK Zalgiris Vilnius,2,1,2,1
+1353680,1745600400,586,3874,FK Zalgiris Vilnius,Panevėžys,2,3,2,1
+1353681,1745665200,3860,3870,Džiugas Telšiai,Šiauliai,0,1,0,1
+1353682,1745686800,3859,638,Dainava,FK Trakai,1,1,1,0
+1353683,1745760600,3872,3858,Kauno Žalgiris,Banga,0,1,0,0
+1353684,1745767500,612,3861,Suduva Marijampole,Hegelmann Litauen,4,0,4,0
+1353685,1746201600,3870,3861,Šiauliai,Hegelmann Litauen,0,3,0,0
+1353686,1746280800,3858,586,Banga,FK Zalgiris Vilnius,2,0,1,0
+1353687,1746286200,3860,3859,Džiugas Telšiai,Dainava,2,0,2,0
+1353688,1746363600,612,3874,Suduva Marijampole,Panevėžys,0,0,0,0
+1353689,1746372300,3872,638,Kauno Žalgiris,FK Trakai,3,1,1,0
+1353690,1746808200,586,638,FK Zalgiris Vilnius,FK Trakai,2,0,1,0
+1353691,1746810000,3860,3872,Džiugas Telšiai,Kauno Žalgiris,0,1,0,0
+1353692,1746882000,3874,3861,Panevėžys,Hegelmann Litauen,3,0,0,0
+1353693,1746972000,3858,612,Banga,Suduva Marijampole,0,1,0,1
+1353694,1746977100,3859,3870,Dainava,Šiauliai,1,2,1,1
+1353695,1747414800,3859,612,Dainava,Suduva Marijampole,0,3,0,1
+1353696,1747483200,3861,3860,Hegelmann Litauen,Džiugas Telšiai,1,0,1,0
+1353697,1747490400,3874,638,Panevėžys,FK Trakai,3,0,2,0
+1353699,1747491900,3872,586,Kauno Žalgiris,FK Zalgiris Vilnius,3,0,2,0
+1353698,1747573200,3870,3858,Šiauliai,Banga,3,0,2,0
+1353701,1748017800,3858,3874,Banga,Panevėžys,1,1,0,1
+1353700,1748017800,3872,3870,Kauno Žalgiris,Šiauliai,3,0,1,0
+1353703,1748102400,638,3861,FK Trakai,Hegelmann Litauen,2,4,2,2
+1353659,1748179800,586,3859,FK Zalgiris Vilnius,Dainava,1,1,0,1
+1353704,1748188800,3860,612,Džiugas Telšiai,Suduva Marijampole,1,1,0,1
+1353705,1748620800,3872,3859,Kauno Žalgiris,Dainava,4,0,1,0
+1353706,1748696400,3860,586,Džiugas Telšiai,FK Zalgiris Vilnius,1,1,1,1
+1353707,1748703600,3861,3858,Hegelmann Litauen,Banga,2,0,0,0
+1353708,1748784600,612,638,Suduva Marijampole,FK Trakai,4,1,3,0
+1353709,1748791500,3870,3874,Šiauliai,Panevėžys,2,1,0,0
+1353710,1749830400,612,3872,Suduva Marijampole,Kauno Žalgiris,0,0,0,0
+1353711,1749832200,586,3870,FK Zalgiris Vilnius,Šiauliai,0,0,0,0
+1353712,1749834900,3860,3874,Džiugas Telšiai,Panevėžys,1,1,0,1
+1353714,1749918600,638,3858,FK Trakai,Banga,1,2,0,0
+1353713,1749920400,3859,3861,Dainava,Hegelmann Litauen,2,2,1,0
+1353718,1750350600,612,586,Suduva Marijampole,FK Zalgiris Vilnius,2,2,1,1
+1353717,1750350600,3874,3859,Panevėžys,Dainava,2,0,0,0
+1353716,1750352400,638,3870,FK Trakai,Šiauliai,1,0,0,0
+1353719,1750352400,3860,3858,Džiugas Telšiai,Banga,0,1,0,1
+1353715,1750352400,3861,3872,Hegelmann Litauen,Kauno Žalgiris,1,2,0,1
+1353720,1750779000,586,3861,FK Zalgiris Vilnius,Hegelmann Litauen,0,1,0,1
+1353721,1750779000,3859,3858,Dainava,Banga,2,1,0,1
+1353722,1750780800,3872,3874,Kauno Žalgiris,Panevėžys,3,0,1,0
+1353724,1750867200,3860,638,Džiugas Telšiai,FK Trakai,2,1,0,1
+1353723,1750867200,3870,612,Šiauliai,Suduva Marijampole,2,2,0,0
+1353726,1751202000,638,3859,FK Trakai,Dainava,0,2,0,2
+1353725,1751205600,3870,3860,Šiauliai,Džiugas Telšiai,5,0,2,0
+1353727,1751210700,3874,586,Panevėžys,FK Zalgiris Vilnius,2,4,2,2
+1353729,1751299200,3858,3872,Banga,Kauno Žalgiris,0,2,0,0
+1353728,1751299200,3861,612,Hegelmann Litauen,Suduva Marijampole,0,2,0,1
+1381439,1751644800,586,3858,FK Zalgiris Vilnius,Banga,1,0,1,0
+1381441,1751727600,638,3872,FK Trakai,Kauno Žalgiris,1,5,0,3
+1381440,1751727600,3861,3870,Hegelmann Litauen,Šiauliai,5,2,1,1
+1381442,1751809500,3859,3860,Dainava,Džiugas Telšiai,0,2,0,1
+1381443,1751904000,3874,612,Panevėžys,Suduva Marijampole,1,2,1,2
+1381444,1752249600,638,3870,FK Trakai,Šiauliai,0,2,0,1
+1381446,1752420300,3860,3858,Džiugas Telšiai,Banga,0,0,0,0
+1381448,1752512400,3859,3874,Dainava,Panevėžys,0,3,0,2
+1381449,1752940800,586,3860,FK Zalgiris Vilnius,Džiugas Telšiai,2,0,0,0
+1381450,1753025100,3874,3870,Panevėžys,Šiauliai,2,0,1,0
+1381451,1753029000,612,638,Suduva Marijampole,FK Trakai,0,0,0,0
+1381453,1753115400,3872,3859,Kauno Žalgiris,Dainava,3,0,1,0
+1381455,1753623900,612,3860,Suduva Marijampole,Džiugas Telšiai,2,3,0,2
+1383774,1753718400,3870,3859,Šiauliai,Dainava,3,1,1,1
+1381458,1753722000,3861,638,Hegelmann Litauen,FK Trakai,3,0,1,0
+1381459,1754064000,638,3874,FK Trakai,Panevėžys,1,3,0,2
+1381460,1754234700,3859,612,Dainava,Suduva Marijampole,2,2,0,0
+1381461,1754323200,3858,3870,Banga,Šiauliai,1,0,1,0
+1381462,1754325000,3860,3861,Džiugas Telšiai,Hegelmann Litauen,0,1,0,1
+1381463,1754326800,586,3872,FK Zalgiris Vilnius,Kauno Žalgiris,1,2,0,1
+1381445,1754582400,586,612,FK Zalgiris Vilnius,Suduva Marijampole,1,0,1,0
+1381464,1754668800,3874,3860,Panevėžys,Džiugas Telšiai,0,1,0,1
+1381465,1754839500,3861,3859,Hegelmann Litauen,Dainava,0,1,0,0
+1381467,1754841600,3858,638,Banga,FK Trakai,2,0,1,0
+1381468,1754928000,3870,586,Šiauliai,FK Zalgiris Vilnius,2,2,1,1
+1381452,1755100800,3858,3861,Banga,Hegelmann Litauen,0,1,0,1
+1383773,1755444300,612,3858,Suduva Marijampole,Banga,2,1,0,1
+1383775,1755446400,3860,3872,Džiugas Telšiai,Kauno Žalgiris,1,2,0,1
+1383776,1755446400,3861,3874,Hegelmann Litauen,Panevėžys,3,1,3,1
+1383777,1755450000,586,638,FK Zalgiris Vilnius,FK Trakai,2,1,1,1
+1381454,1755705600,586,3859,FK Zalgiris Vilnius,Dainava,1,1,0,0
+1381456,1755705600,3870,3872,Šiauliai,Kauno Žalgiris,2,2,1,2
+1381457,1755705600,3874,3858,Panevėžys,Banga,1,0,0,0
+1383779,1755878400,638,3860,FK Trakai,Džiugas Telšiai,0,2,0,1
+1442243,1756044000,3859,3858,Dainava,Banga,0,5,0,2
+1442244,1756049100,3874,3872,Panevėžys,Kauno Žalgiris,1,0,0,0
+1437253,1756051200,3861,586,Hegelmann Litauen,FK Zalgiris Vilnius,2,2,2,0
+1383778,1756137600,3870,612,Šiauliai,Suduva Marijampole,2,1,1,0
+1381447,1756310400,3872,3861,Kauno Žalgiris,Hegelmann Litauen,2,1,0,0
+1383781,1756562400,3858,3872,Banga,Kauno Žalgiris,0,0,0,0
+1383783,1756566000,638,3859,FK Trakai,Dainava,2,1,2,0
+1383780,1756569600,612,3861,Suduva Marijampole,Hegelmann Litauen,2,1,1,1
+1383782,1756648800,3860,3870,Džiugas Telšiai,Šiauliai,1,3,1,2
+1383784,1756653900,586,3874,FK Zalgiris Vilnius,Panevėžys,2,1,1,0
+1399275,1757692800,612,3874,Suduva Marijampole,Panevėžys,1,1,0,1
+1399276,1757696400,3860,3859,Džiugas Telšiai,Dainava,1,1,0,0
+1399277,1757772000,3858,586,Banga,FK Zalgiris Vilnius,0,2,0,1
+1399278,1757854800,3872,638,Kauno Žalgiris,FK Trakai,6,1,3,0
+1399279,1757863500,3870,3861,Šiauliai,Hegelmann Litauen,0,1,0,0
+1399281,1758299400,638,586,FK Trakai,FK Zalgiris Vilnius,0,2,0,1
+1399280,1758299400,3859,3870,Dainava,Šiauliai,0,3,0,1
+1399283,1758463200,3872,3860,Kauno Žalgiris,Džiugas Telšiai,2,1,2,1
+1399282,1758463200,3874,3861,Panevėžys,Hegelmann Litauen,0,1,0,0
+1399284,1758468300,3858,612,Banga,Suduva Marijampole,0,1,0,1
+1381466,1758729600,3872,612,Kauno Žalgiris,Suduva Marijampole,1,1,0,0
+1468991,1758900600,3858,3860,Banga,Džiugas Telšiai,0,1,0,0
+1469283,1758978000,3870,638,Šiauliai,FK Trakai,2,1,2,0
+1468994,1759161600,612,586,Suduva Marijampole,FK Zalgiris Vilnius,1,3,0,2
+1468993,1759334400,3861,3872,Hegelmann Litauen,Kauno Žalgiris,1,1,1,0
+1468992,1759334400,3874,3859,Panevėžys,Dainava,3,1,1,0
+1477879,1759593600,3859,3872,Dainava,Kauno Žalgiris,0,1,0,1
+1469284,1759599000,638,612,FK Trakai,Suduva Marijampole,0,0,0,0
+1477880,1759669200,3860,586,Džiugas Telšiai,FK Zalgiris Vilnius,1,2,1,1
+1468995,1759677900,3870,3874,Šiauliai,Panevėžys,3,3,1,1
+1468996,1759681800,3861,3858,Hegelmann Litauen,Banga,0,0,0,0
+1477881,1760716800,3872,3870,Kauno Žalgiris,Šiauliai,3,1,1,0
+1477882,1760788800,3858,3874,Banga,Panevėžys,2,2,1,2
+1468998,1760792400,3859,586,Dainava,FK Zalgiris Vilnius,1,1,0,0
+1468997,1760799600,638,3861,FK Trakai,Hegelmann Litauen,2,0,0,0
+1468999,1760801100,3860,612,Džiugas Telšiai,Suduva Marijampole,0,0,0,0
+1477883,1761147000,3870,3858,Šiauliai,Banga,1,3,0,0
+1477885,1761148800,3872,586,Kauno Žalgiris,FK Zalgiris Vilnius,1,2,0,0
+1477884,1761148800,3874,638,Panevėžys,FK Trakai,0,1,0,0
+1477886,1761233400,3861,3860,Hegelmann Litauen,Džiugas Telšiai,4,1,2,0
+1469000,1761235200,612,3859,Suduva Marijampole,Dainava,2,1,0,0
+1469285,1761480000,638,3858,FK Trakai,Banga,2,2,1,2
+1469002,1761487200,3860,3874,Džiugas Telšiai,Panevėžys,1,4,0,3
+1477887,1761495900,586,3870,FK Zalgiris Vilnius,Šiauliai,1,0,1,0
+1469003,1761584400,612,3872,Suduva Marijampole,Kauno Žalgiris,1,0,0,0
+1469001,1761584400,3859,3861,Dainava,Hegelmann Litauen,0,2,0,1
+1469005,1762084800,3872,3874,Kauno Žalgiris,Panevėžys,3,2,1,1
+1469006,1762088400,3860,638,Džiugas Telšiai,FK Trakai,4,1,1,0
+1477888,1762095600,3858,3859,Banga,Dainava,6,0,2,0
+1477889,1762100700,586,3861,FK Zalgiris Vilnius,Hegelmann Litauen,3,1,2,1
+1469004,1762100700,612,3870,Suduva Marijampole,Šiauliai,2,2,0,1
+1469007,1762606800,3859,638,Dainava,FK Trakai,1,1,0,0
+1477891,1762606800,3861,612,Hegelmann Litauen,Suduva Marijampole,2,1,0,0
+1469286,1762606800,3870,3860,Šiauliai,Džiugas Telšiai,2,2,1,2
+1469008,1762606800,3872,3858,Kauno Žalgiris,Banga,0,0,0,0
+1477890,1762606800,3874,586,Panevėžys,FK Zalgiris Vilnius,3,1,2,1
+1485629,1763208000,14384,638,Neptūną Klaipėda,FK Trakai,0,0,0,0
+1485630,1763812800,638,14384,FK Trakai,Neptūną Klaipėda,2,1,1,1

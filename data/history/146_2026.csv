@@ -31,3 +31,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1557311,1794054600,6344,1790,Club Brugge W,OH Leuven W,1,1,1,1
 1557313,1794076200,1789,27853,Gent W,RAAL La Louviere W,0,2,0,1
 1557314,1794076200,1791,14035,Standard Liege W,Zulte-Waregem W,1,0,0,0
+1557318,1794659400,14035,1789,Zulte-Waregem W,Gent W,0,1,0,0
+1557316,1794668400,27853,1791,RAAL La Louviere W,Standard Liege W,4,0,2,0

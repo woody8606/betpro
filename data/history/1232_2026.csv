@@ -1,0 +1,59 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1553035,1781208000,22469,2558,Deportiva Agropecuaria,Comerciantes Unidos,2,0,0,0
+1553036,1781287200,26867,10492,Minas,ADT,0,0,0,0
+1553037,1781295300,22462,2554,Bentín Tacna Heroica,FBC Melgar,3,2,2,1
+1553038,1781312400,2556,2540,Molinos El Pirata,Universitario,2,0,0,0
+1553039,1781366400,2549,2544,U. San Martin,Sport Boys,2,2,1,0
+1553040,1781374500,2551,2560,Carlos A. Mannucci,Alianza Atletico,0,1,0,0
+1553041,1781382600,10494,2546,Comerciantes,Sporting Cristal,1,1,0,1
+1553042,1781393400,2550,2562,Deportivo Binacional,Cienciano,0,2,0,0
+1553043,1781452800,2542,2572,Ayacucho FC,Club Deportivo Los Chankas,0,1,0,1
+1553044,1781460900,2548,2555,Alianza Universidad,Sport Huancayo,1,1,0,0
+1553045,1781469000,2541,2553,Cesar Vallejo,Alianza Lima,0,0,0,0
+1553046,1781478000,20960,10013,Deportivo Garcilaso,Cusco,0,0,0,0
+1553047,1781546400,10014,2539,Deportivo Llacuabamba,UTC Cajamarca,2,2,0,0
+1553048,1781554500,20324,2552,Estudiantil CNI,Union Comercio,1,3,0,1
+1553049,1781892000,10492,2548,ADT,Alianza Universidad,3,1,2,1
+1553050,1781901000,2560,2541,Alianza Atletico,Cesar Vallejo,2,0,0,0
+1553051,1781971200,2543,2549,Academia Cantolao,U. San Martin,4,3,2,1
+1553052,1781979300,22543,10014,FC Cajamarca,Deportivo Llacuabamba,1,1,0,0
+1553053,1781985600,2552,10494,Union Comercio,Comerciantes,0,1,0,0
+1553054,1781987400,22479,22469,Juan Pablo II College,Deportiva Agropecuaria,0,0,0,0
+1553055,1782003600,2551,2553,Carlos A. Mannucci,Alianza Lima,3,1,1,0
+1553056,1782057600,22489,22462,UCV Moquegua,Bentín Tacna Heroica,3,2,2,2
+1553057,1782065700,26867,2555,Minas,Sport Huancayo,1,2,1,1
+1553058,1782072000,4226,2542,Santos,Ayacucho FC,2,1,0,0
+1553059,1782073800,20324,2546,Estudiantil CNI,Sporting Cristal,1,2,0,0
+1553060,1782082800,2562,20960,Cienciano,Deportivo Garcilaso,2,1,1,1
+1553061,1782151200,2550,10013,Deportivo Binacional,Cusco,4,3,2,2
+1553062,1782159300,2564,2556,Atletico Grau,Molinos El Pirata,3,2,2,0
+1553063,1782496800,2539,22543,UTC Cajamarca,FC Cajamarca,3,1,1,0
+1553064,1782504900,2548,26867,Alianza Universidad,Minas,3,1,1,0
+1553065,1782504900,2555,10492,Sport Huancayo,ADT,1,0,1,0
+1553066,1782514800,2540,2564,Universitario,Atletico Grau,1,1,1,0
+1553067,1782583200,2558,22479,Comerciantes Unidos,Juan Pablo II College,0,0,0,0
+1553068,1782591300,10494,20324,Comerciantes,Estudiantil CNI,0,0,0,0
+1553069,1782591300,2546,2552,Sporting Cristal,Union Comercio,2,0,0,0
+1553070,1782606600,2544,2543,Sport Boys,Academia Cantolao,3,0,0,0
+1553071,1782669600,2553,2560,Alianza Lima,Alianza Atletico,1,2,0,1
+1553072,1782669600,2541,2551,Cesar Vallejo,Carlos A. Mannucci,2,3,1,2
+1553073,1782677700,2572,4226,Club Deportivo Los Chankas,Santos,3,0,2,0
+1553074,1782687600,10013,2562,Cusco,Cienciano,1,2,1,1
+1553075,1782756000,2554,22489,FBC Melgar,UCV Moquegua,0,0,0,0
+1553076,1782764100,20960,2550,Deportivo Garcilaso,Deportivo Binacional,4,1,2,1
+1568104,1783627200,2564,2551,Atletico Grau,Carlos A. Mannucci,1,1,1,1
+1568103,1783706400,2562,10492,Cienciano,ADT,2,3,0,1
+1568101,1783715400,2560,2556,Alianza Atletico,Molinos El Pirata,3,2,1,1
+1568106,1783731600,2544,10494,Sport Boys,Comerciantes,1,0,0,0
+1568107,1783792800,2555,2572,Sport Huancayo,Club Deportivo Los Chankas,3,1,0,0
+1568108,1783801800,2546,22462,Sporting Cristal,Bentín Tacna Heroica,1,1,0,1
+1568105,1783879200,22489,20960,UCV Moquegua,Deportivo Garcilaso,0,0,0,0
+1568102,1783888200,2539,22469,UTC Cajamarca,Deportiva Agropecuaria,4,1,3,1
+1589394,1787688000,2560,2539,Alianza Atletico,UTC Cajamarca,1,1,1,1
+1589395,1787774400,2564,2544,Atletico Grau,Sport Boys,2,2,1,0
+1589396,1787774400,2546,2555,Sporting Cristal,Sport Huancayo,4,1,1,1
+1589393,1787860800,10492,22489,ADT,UCV Moquegua,2,0,1,0
+1635840,1790532000,2544,2560,Sport Boys,Alianza Atletico,3,0,1,0
+1635841,1790540100,10492,2546,ADT,Sporting Cristal,0,1,0,1
+1635842,1790884800,2546,10492,Sporting Cristal,ADT,5,0,2,0
+1635843,1791316800,2560,2544,Alianza Atletico,Sport Boys,3,0,1,0

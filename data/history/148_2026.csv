@@ -99,7 +99,13 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1582916,1793541600,5917,5964,SG-Tertre-Hautrage,Union Namur,1,1,1.0,1.0
 1582912,1793541600,20403,5942,RUS Binche,Stockay-Warfusée,1,0,0.0,0.0
 1582917,1794076200,5832,5747,Huy,Aywaille,0,1,0.0,0.0
-1582919,1794076200,5893,5770,Ostiches,Crossing Schaerbeek,1,5,,
-1582922,1794076200,22256,8461,Stade Verviers,La Calamine,1,0,,
-1582920,1794078000,5764,20403,Braine,RUS Binche,2,0,,
-1582921,1794078000,5913,5793,Richelle United,Entité Manageoise,0,2,,
+1582919,1794076200,5893,5770,Ostiches,Crossing Schaerbeek,1,5,0.0,1.0
+1582922,1794076200,22256,8461,Stade Verviers,La Calamine,1,0,0.0,0.0
+1582920,1794078000,5764,20403,Braine,RUS Binche,2,0,0.0,0.0
+1582921,1794078000,5913,5793,Richelle United,Entité Manageoise,0,2,0.0,0.0
+1582925,1794144600,5942,24556,Stockay-Warfusée,Stade Mouscronnois,1,1,0.0,0.0
+1582918,1794144600,5964,24386,Union Namur,AS Eupen II,1,3,1.0,2.0
+1582923,1794146400,5806,5737,Ganshoren,Acren-Lessines,2,1,0.0,0.0
+1582924,1794146400,5836,5917,Jette,SG-Tertre-Hautrage,2,2,0.0,1.0
+1582926,1794681000,8461,5942,La Calamine,Stockay-Warfusée,0,0,0.0,0.0
+1582927,1794682800,24556,5764,Stade Mouscronnois,Braine,0,2,0.0,1.0

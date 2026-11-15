@@ -1,0 +1,312 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1454914,1757250000,1583,19986,Robur Siena,Tau Altopascio,0,1,0,1
+1454912,1757250000,1680,19977,Prato,Orvietana Calcio,0,1,0,0
+1454911,1757250000,1699,9495,Gavorrano,Cannara,2,1,1,1
+1454908,1757250000,9435,26506,Ghivizzano Borgo Mozzano,Camaiore,5,0,2,0
+1454913,1757250000,9441,9499,Seravezza,Grosseto,2,1,0,0
+1454907,1757250000,9496,9500,Foligno Calcio,Montevarchi Calcio,4,2,2,1
+1454910,1757250000,9502,9505,San Donato Tavarnelle,Sporting Trestina,2,1,2,0
+1454915,1757250000,17550,9504,Sansepolcro,Scandicci,1,0,0,0
+1454909,1757250000,19988,17831,Terranuova Traiana,Poggibonsi,2,0,1,0
+1454916,1757854800,9495,9441,Cannara,Seravezza,0,1,0,0
+1454921,1757854800,9499,9496,Grosseto,Foligno Calcio,1,0,0,0
+1454918,1757854800,9500,9502,Montevarchi Calcio,San Donato Tavarnelle,1,1,1,0
+1454923,1757854800,9504,19988,Scandicci,Terranuova Traiana,2,1,0,1
+1454924,1757854800,9505,9435,Sporting Trestina,Ghivizzano Borgo Mozzano,3,0,2,0
+1454922,1757854800,17831,1699,Poggibonsi,Gavorrano,1,2,0,0
+1454919,1757854800,19977,1583,Orvietana Calcio,Robur Siena,0,2,0,0
+1454920,1757854800,19986,17550,Tau Altopascio,Sansepolcro,2,0,0,0
+1454917,1757854800,26506,1680,Camaiore,Prato,2,1,0,0
+1454926,1758373200,1583,17831,Robur Siena,Poggibonsi,2,0,1,0
+1454928,1758373200,1680,9504,Prato,Scandicci,2,0,0,0
+1454933,1758373200,9435,19986,Ghivizzano Borgo Mozzano,Tau Altopascio,0,0,0,0
+1454930,1758373200,9496,26506,Foligno Calcio,Camaiore,2,2,1,0
+1454932,1758373200,9499,9500,Grosseto,Montevarchi Calcio,3,1,1,1
+1454927,1758373200,9502,19977,San Donato Tavarnelle,Orvietana Calcio,3,1,2,0
+1454925,1758373200,17550,1699,Sansepolcro,Gavorrano,1,1,0,0
+1454929,1758373200,19988,9495,Terranuova Traiana,Cannara,0,1,0,1
+1454931,1758459600,9441,9505,Seravezza,Sporting Trestina,1,0,0,0
+1454934,1758718800,1699,19988,Gavorrano,Terranuova Traiana,0,1,0,1
+1454938,1758718800,9495,9499,Cannara,Grosseto,2,3,0,2
+1454941,1758718800,9500,9441,Montevarchi Calcio,Seravezza,3,2,2,0
+1454937,1758718800,9504,1583,Scandicci,Robur Siena,1,1,0,1
+1454940,1758718800,17831,17550,Poggibonsi,Sansepolcro,2,2,1,1
+1454939,1758718800,19977,9435,Orvietana Calcio,Ghivizzano Borgo Mozzano,1,2,0,1
+1454936,1758718800,19986,1680,Tau Altopascio,Prato,3,2,2,1
+1454935,1758718800,26506,9502,Camaiore,San Donato Tavarnelle,1,2,0,2
+1454942,1758738600,9505,9496,Sporting Trestina,Foligno Calcio,0,1,0,0
+1454950,1759064400,1583,19988,Robur Siena,Terranuova Traiana,2,0,0,0
+1454948,1759064400,1680,1699,Prato,Gavorrano,2,0,1,0
+1454945,1759064400,9435,17831,Ghivizzano Borgo Mozzano,Poggibonsi,1,1,0,1
+1454949,1759064400,9441,19977,Seravezza,Orvietana Calcio,1,0,1,0
+1454947,1759064400,9496,19986,Foligno Calcio,Tau Altopascio,2,0,2,0
+1454944,1759064400,9499,26506,Grosseto,Camaiore,1,1,0,0
+1454951,1759064400,9500,9505,Montevarchi Calcio,Sporting Trestina,1,1,0,1
+1454943,1759064400,9502,9504,San Donato Tavarnelle,Scandicci,0,0,0,0
+1454946,1759064400,17550,9495,Sansepolcro,Cannara,0,0,0,0
+1454957,1759582800,9505,9499,Sporting Trestina,Grosseto,0,1,0,0
+1454960,1759582800,19977,9496,Orvietana Calcio,Foligno Calcio,3,1,1,1
+1454959,1759669200,1699,1583,Gavorrano,Robur Siena,0,1,0,0
+1454952,1759669200,9495,9500,Cannara,Montevarchi Calcio,0,0,0,0
+1454953,1759669200,9504,9435,Scandicci,Ghivizzano Borgo Mozzano,2,0,1,0
+1454955,1759669200,17831,1680,Poggibonsi,Prato,1,2,1,1
+1454956,1759669200,19986,9502,Tau Altopascio,San Donato Tavarnelle,3,0,3,0
+1454954,1759669200,19988,17550,Terranuova Traiana,Sansepolcro,0,0,0,0
+1454958,1759669200,26506,9441,Camaiore,Seravezza,2,0,0,0
+1454964,1760274000,1583,9495,Robur Siena,Cannara,2,0,1,0
+1454969,1760274000,1680,17550,Prato,Sansepolcro,2,1,0,0
+1454963,1760274000,9435,19988,Ghivizzano Borgo Mozzano,Terranuova Traiana,3,0,2,0
+1454962,1760274000,9441,9504,Seravezza,Scandicci,1,0,1,0
+1454961,1760274000,9496,17831,Foligno Calcio,Poggibonsi,3,1,1,1
+1454967,1760274000,9499,19986,Grosseto,Tau Altopascio,3,0,2,0
+1454968,1760274000,9500,19977,Montevarchi Calcio,Orvietana Calcio,0,4,0,2
+1454965,1760274000,9502,1699,San Donato Tavarnelle,Gavorrano,1,1,0,0
+1454966,1760274000,9505,26506,Sporting Trestina,Camaiore,2,0,1,0
+1454975,1760878800,1699,9435,Gavorrano,Ghivizzano Borgo Mozzano,0,2,0,1
+1454970,1760878800,9495,9505,Cannara,Sporting Trestina,1,1,1,1
+1454972,1760878800,9504,9496,Scandicci,Foligno Calcio,0,2,0,1
+1454974,1760878800,17550,1583,Sansepolcro,Robur Siena,0,1,0,0
+1454971,1760878800,17831,9502,Poggibonsi,San Donato Tavarnelle,0,1,0,1
+1454976,1760878800,19977,9499,Orvietana Calcio,Grosseto,0,1,0,1
+1454977,1760878800,19986,9441,Tau Altopascio,Seravezza,2,2,0,1
+1454978,1760878800,19988,1680,Terranuova Traiana,Prato,2,1,1,0
+1454973,1760878800,26506,9500,Camaiore,Montevarchi Calcio,2,3,2,1
+1454984,1761485400,1680,9495,Prato,Cannara,3,1,0,0
+1454982,1761485400,9435,1583,Ghivizzano Borgo Mozzano,Robur Siena,1,1,1,0
+1454986,1761485400,9441,1699,Seravezza,Gavorrano,2,1,1,0
+1454985,1761485400,9496,19988,Foligno Calcio,Terranuova Traiana,0,0,0,0
+1454979,1761485400,9499,17831,Grosseto,Poggibonsi,3,1,0,0
+1454983,1761485400,9500,9504,Montevarchi Calcio,Scandicci,0,0,0,0
+1454981,1761485400,9502,17550,San Donato Tavarnelle,Sansepolcro,1,0,1,0
+1454987,1761485400,9505,19986,Sporting Trestina,Tau Altopascio,0,1,0,0
+1454980,1761485400,26506,19977,Camaiore,Orvietana Calcio,2,2,1,2
+1454989,1762090200,1583,1680,Robur Siena,Prato,0,0,0,0
+1454991,1762090200,1699,9496,Gavorrano,Foligno Calcio,0,2,0,0
+1454996,1762090200,9495,26506,Cannara,Camaiore,2,1,1,1
+1454994,1762090200,9504,9499,Scandicci,Grosseto,1,2,1,1
+1454988,1762090200,17550,9435,Sansepolcro,Ghivizzano Borgo Mozzano,1,2,1,2
+1454992,1762090200,17831,9441,Poggibonsi,Seravezza,1,1,1,0
+1454993,1762090200,19977,9505,Orvietana Calcio,Sporting Trestina,1,2,0,1
+1454995,1762090200,19986,9500,Tau Altopascio,Montevarchi Calcio,3,0,1,0
+1454990,1762090200,19988,9502,Terranuova Traiana,San Donato Tavarnelle,1,0,1,0
+1454998,1762695000,9435,9495,Ghivizzano Borgo Mozzano,Cannara,3,0,1,0
+1455001,1762695000,9441,17550,Seravezza,Sansepolcro,2,0,1,0
+1455004,1762695000,9496,1583,Foligno Calcio,Robur Siena,3,1,1,0
+1455000,1762695000,9499,19988,Grosseto,Terranuova Traiana,4,0,3,0
+1455003,1762695000,9500,1699,Montevarchi Calcio,Gavorrano,0,1,0,0
+1454997,1762695000,9502,1680,San Donato Tavarnelle,Prato,0,2,0,1
+1454999,1762695000,9505,17831,Sporting Trestina,Poggibonsi,1,0,0,0
+1455005,1762695000,19977,19986,Orvietana Calcio,Tau Altopascio,0,2,0,0
+1455002,1762695000,26506,9504,Camaiore,Scandicci,0,1,0,0
+1455014,1763299800,1583,9502,Robur Siena,San Donato Tavarnelle,0,2,0,1
+1455013,1763299800,1680,9435,Prato,Ghivizzano Borgo Mozzano,2,1,1,1
+1455011,1763299800,1699,9499,Gavorrano,Grosseto,2,4,1,1
+1455007,1763299800,9495,19977,Cannara,Orvietana Calcio,0,0,0,0
+1455006,1763299800,9504,9505,Scandicci,Sporting Trestina,2,2,2,0
+1455010,1763299800,17550,9496,Sansepolcro,Foligno Calcio,1,0,0,0
+1455009,1763299800,17831,9500,Poggibonsi,Montevarchi Calcio,0,1,0,0
+1455008,1763299800,19986,26506,Tau Altopascio,Camaiore,1,0,0,0
+1455012,1763299800,19988,9441,Terranuova Traiana,Seravezza,1,1,0,0
+1455019,1763904600,9441,1680,Seravezza,Prato,1,0,0,0
+1455016,1763904600,9496,9435,Foligno Calcio,Ghivizzano Borgo Mozzano,1,1,1,1
+1455017,1763904600,9499,1583,Grosseto,Robur Siena,1,1,1,0
+1455021,1763904600,9500,17550,Montevarchi Calcio,Sansepolcro,1,1,0,0
+1455022,1763904600,9502,9495,San Donato Tavarnelle,Cannara,1,1,0,0
+1455020,1763904600,9505,19988,Sporting Trestina,Terranuova Traiana,1,1,0,0
+1455018,1763904600,19977,17831,Orvietana Calcio,Poggibonsi,4,0,1,0
+1455015,1763904600,19986,9504,Tau Altopascio,Scandicci,2,2,1,1
+1455023,1763904600,26506,1699,Camaiore,Gavorrano,1,4,1,2
+1455025,1764509400,1583,9441,Robur Siena,Seravezza,0,2,0,2
+1455028,1764509400,1680,9496,Prato,Foligno Calcio,3,1,2,1
+1455029,1764509400,1699,9505,Gavorrano,Sporting Trestina,1,1,1,0
+1455024,1764509400,9435,9502,Ghivizzano Borgo Mozzano,San Donato Tavarnelle,1,1,0,1
+1455031,1764509400,9495,19986,Cannara,Tau Altopascio,0,2,0,0
+1455032,1764509400,9504,19977,Scandicci,Orvietana Calcio,1,1,1,0
+1455026,1764509400,17550,9499,Sansepolcro,Grosseto,0,2,0,1
+1455030,1764509400,17831,26506,Poggibonsi,Camaiore,1,2,1,1
+1455027,1764509400,19988,9500,Terranuova Traiana,Montevarchi Calcio,1,0,0,0
+1455035,1765114200,9441,9435,Seravezza,Ghivizzano Borgo Mozzano,2,0,1,0
+1455034,1765114200,9496,9502,Foligno Calcio,San Donato Tavarnelle,1,1,1,1
+1455039,1765114200,9499,1680,Grosseto,Prato,1,0,0,0
+1455040,1765114200,9500,1583,Montevarchi Calcio,Robur Siena,1,0,0,0
+1455033,1765114200,9504,9495,Scandicci,Cannara,2,0,1,0
+1455038,1765114200,9505,17550,Sporting Trestina,Sansepolcro,1,0,0,0
+1455041,1765114200,19977,1699,Orvietana Calcio,Gavorrano,0,0,0,0
+1455037,1765114200,19986,17831,Tau Altopascio,Poggibonsi,2,1,0,1
+1455036,1765114200,26506,19988,Camaiore,Terranuova Traiana,0,1,0,0
+1455046,1765719000,1680,9505,Prato,Sporting Trestina,2,1,1,0
+1455047,1765719000,1699,9504,Gavorrano,Scandicci,1,0,0,0
+1455045,1765719000,9435,9500,Ghivizzano Borgo Mozzano,Montevarchi Calcio,0,2,0,1
+1455044,1765719000,9496,9441,Foligno Calcio,Seravezza,1,1,1,0
+1455048,1765719000,9502,9499,San Donato Tavarnelle,Grosseto,0,1,0,0
+1455043,1765719000,17550,19977,Sansepolcro,Orvietana Calcio,2,2,1,0
+1455050,1765719000,17831,9495,Poggibonsi,Cannara,3,2,2,1
+1455042,1765719000,19988,19986,Terranuova Traiana,Tau Altopascio,1,0,0,0
+1455049,1765805400,1583,26506,Robur Siena,Camaiore,0,3,0,1
+1455056,1766323800,9441,9502,Seravezza,San Donato Tavarnelle,2,0,1,0
+1455055,1766323800,9495,9496,Cannara,Foligno Calcio,2,4,0,3
+1455053,1766323800,9499,9435,Grosseto,Ghivizzano Borgo Mozzano,1,0,1,0
+1455058,1766323800,9500,1680,Montevarchi Calcio,Prato,0,0,0,0
+1455057,1766323800,9504,17831,Scandicci,Poggibonsi,1,1,1,1
+1455051,1766323800,9505,1583,Sporting Trestina,Robur Siena,0,2,0,1
+1455054,1766323800,19977,19988,Orvietana Calcio,Terranuova Traiana,2,0,0,0
+1455052,1766323800,19986,1699,Tau Altopascio,Gavorrano,6,1,3,1
+1455059,1766323800,26506,17550,Camaiore,Sansepolcro,1,1,1,0
+1455065,1767533400,9495,1699,Cannara,Gavorrano,1,4,1,2
+1455060,1767533400,9499,9441,Grosseto,Seravezza,2,1,1,1
+1455068,1767533400,9500,9496,Montevarchi Calcio,Foligno Calcio,1,1,1,0
+1455066,1767533400,9504,17550,Scandicci,Sansepolcro,5,0,3,0
+1455062,1767533400,17831,19988,Poggibonsi,Terranuova Traiana,0,1,0,0
+1455064,1767533400,19977,1680,Orvietana Calcio,Prato,1,2,1,0
+1455061,1767533400,19986,1583,Tau Altopascio,Robur Siena,0,0,0,0
+1455067,1767533400,26506,9435,Camaiore,Ghivizzano Borgo Mozzano,2,2,2,1
+1455077,1768138200,1583,19977,Robur Siena,Orvietana Calcio,5,1,1,1
+1455069,1768138200,1680,26506,Prato,Camaiore,1,2,0,2
+1455074,1768138200,1699,17831,Gavorrano,Poggibonsi,1,2,1,0
+1455075,1768138200,9435,9505,Ghivizzano Borgo Mozzano,Sporting Trestina,3,2,1,1
+1455073,1768138200,9441,9495,Seravezza,Cannara,3,0,1,0
+1455076,1768138200,9496,9499,Foligno Calcio,Grosseto,2,1,1,0
+1455072,1768138200,9502,9500,San Donato Tavarnelle,Montevarchi Calcio,0,0,0,0
+1455071,1768138200,17550,19986,Sansepolcro,Tau Altopascio,0,2,0,2
+1455070,1768138200,19988,9504,Terranuova Traiana,Scandicci,1,1,1,0
+1455063,1768397400,9505,9502,Sporting Trestina,San Donato Tavarnelle,3,3,1,1
+1455084,1768743000,1699,17550,Gavorrano,Sansepolcro,1,1,0,1
+1455086,1768743000,9495,19988,Cannara,Terranuova Traiana,1,2,1,1
+1455082,1768743000,9500,9499,Montevarchi Calcio,Grosseto,0,3,0,1
+1455085,1768743000,9504,1680,Scandicci,Prato,2,0,1,0
+1455083,1768743000,9505,9441,Sporting Trestina,Seravezza,1,0,1,0
+1455081,1768743000,17831,1583,Poggibonsi,Robur Siena,1,0,0,0
+1455080,1768743000,19977,9502,Orvietana Calcio,San Donato Tavarnelle,1,0,0,0
+1455078,1768743000,19986,9435,Tau Altopascio,Ghivizzano Borgo Mozzano,2,1,2,0
+1455079,1768743000,26506,9496,Camaiore,Foligno Calcio,2,3,1,2
+1455091,1769347800,1583,9504,Robur Siena,Scandicci,0,1,0,1
+1455087,1769347800,1680,19986,Prato,Tau Altopascio,2,2,2,1
+1455089,1769347800,9435,19977,Ghivizzano Borgo Mozzano,Orvietana Calcio,1,1,1,0
+1455088,1769347800,9441,9500,Seravezza,Montevarchi Calcio,1,1,1,0
+1455092,1769347800,9496,9505,Foligno Calcio,Sporting Trestina,3,1,2,1
+1455093,1769347800,9499,9495,Grosseto,Cannara,6,0,2,0
+1455090,1769347800,9502,26506,San Donato Tavarnelle,Camaiore,0,2,0,0
+1455095,1769347800,17550,17831,Sansepolcro,Poggibonsi,0,0,0,0
+1455094,1769347800,19988,1699,Terranuova Traiana,Gavorrano,1,0,1,0
+1455102,1769952600,1699,1680,Gavorrano,Prato,2,1,2,1
+1455098,1769952600,9495,17550,Cannara,Sansepolcro,1,0,0,0
+1455096,1769952600,9504,9502,Scandicci,San Donato Tavarnelle,0,0,0,0
+1455104,1769952600,9505,9500,Sporting Trestina,Montevarchi Calcio,0,1,0,0
+1455101,1769952600,17831,9435,Poggibonsi,Ghivizzano Borgo Mozzano,1,0,0,0
+1455103,1769952600,19977,9441,Orvietana Calcio,Seravezza,0,1,0,1
+1455099,1769952600,19986,9496,Tau Altopascio,Foligno Calcio,3,1,1,0
+1455100,1769952600,19988,1583,Terranuova Traiana,Robur Siena,0,1,0,1
+1455097,1769952600,26506,9499,Camaiore,Grosseto,1,0,0,0
+1455106,1770557400,1583,1699,Robur Siena,Gavorrano,1,0,1,0
+1455109,1770557400,1680,17831,Prato,Poggibonsi,2,1,2,1
+1455110,1770557400,9435,9504,Ghivizzano Borgo Mozzano,Scandicci,1,1,0,1
+1455112,1770557400,9496,19977,Foligno Calcio,Orvietana Calcio,0,0,0,0
+1455107,1770557400,9499,9505,Grosseto,Sporting Trestina,2,1,0,0
+1455113,1770557400,9500,9495,Montevarchi Calcio,Cannara,0,0,0,0
+1455105,1770557400,9502,19986,San Donato Tavarnelle,Tau Altopascio,2,2,0,0
+1455108,1770557400,17550,19988,Sansepolcro,Terranuova Traiana,0,2,0,2
+1455111,1770566400,9441,26506,Seravezza,Camaiore,3,1,2,0
+1455119,1771162200,1699,9502,Gavorrano,San Donato Tavarnelle,1,1,0,0
+1455122,1771162200,9495,1583,Cannara,Robur Siena,0,4,0,1
+1455117,1771162200,9504,9441,Scandicci,Seravezza,1,1,0,0
+1455120,1771162200,17550,1680,Sansepolcro,Prato,0,0,0,0
+1455121,1771162200,17831,9496,Poggibonsi,Foligno Calcio,1,0,0,0
+1455116,1771162200,19977,9500,Orvietana Calcio,Montevarchi Calcio,0,1,0,0
+1455115,1771162200,19986,9499,Tau Altopascio,Grosseto,0,1,0,0
+1455118,1771162200,19988,9435,Terranuova Traiana,Ghivizzano Borgo Mozzano,1,1,0,0
+1455114,1771162200,26506,9505,Camaiore,Sporting Trestina,1,2,0,2
+1455130,1771680600,9505,9495,Sporting Trestina,Cannara,2,1,1,0
+1455128,1771767000,1583,17550,Robur Siena,Sansepolcro,3,1,2,1
+1455126,1771767000,1680,19988,Prato,Terranuova Traiana,1,0,1,0
+1455125,1771767000,9435,1699,Ghivizzano Borgo Mozzano,Gavorrano,6,2,2,1
+1455127,1771767000,9441,19986,Seravezza,Tau Altopascio,0,0,0,0
+1455129,1771767000,9496,9504,Foligno Calcio,Scandicci,0,1,0,1
+1455123,1771767000,9499,19977,Grosseto,Orvietana Calcio,0,1,0,1
+1455124,1771767000,9500,26506,Montevarchi Calcio,Camaiore,2,0,1,0
+1455131,1771767000,9502,17831,San Donato Tavarnelle,Poggibonsi,0,1,0,1
+1455138,1772371800,1583,9435,Robur Siena,Ghivizzano Borgo Mozzano,4,1,3,1
+1455133,1772371800,1699,9441,Gavorrano,Seravezza,1,1,0,1
+1455140,1772371800,9495,1680,Cannara,Prato,0,2,0,0
+1455139,1772371800,9504,9500,Scandicci,Montevarchi Calcio,1,1,0,0
+1455135,1772371800,17550,9502,Sansepolcro,San Donato Tavarnelle,1,1,0,1
+1455137,1772371800,17831,9499,Poggibonsi,Grosseto,0,1,0,0
+1455132,1772371800,19977,26506,Orvietana Calcio,Camaiore,0,2,0,0
+1455136,1772371800,19986,9505,Tau Altopascio,Sporting Trestina,0,1,0,1
+1455134,1772371800,19988,9496,Terranuova Traiana,Foligno Calcio,2,0,1,0
+1455144,1773581400,1680,1583,Prato,Robur Siena,3,3,2,1
+1455141,1773581400,9441,17831,Seravezza,Poggibonsi,2,2,2,1
+1455146,1773581400,9496,1699,Foligno Calcio,Gavorrano,2,0,0,0
+1455149,1773581400,9499,9504,Grosseto,Scandicci,1,1,1,0
+1455145,1773581400,9500,19986,Montevarchi Calcio,Tau Altopascio,2,0,0,0
+1455143,1773581400,9502,19988,San Donato Tavarnelle,Terranuova Traiana,0,1,0,0
+1455142,1773581400,9505,19977,Sporting Trestina,Orvietana Calcio,1,1,0,1
+1455148,1773581400,26506,9495,Camaiore,Cannara,2,0,1,0
+1455152,1774186200,1583,9496,Robur Siena,Foligno Calcio,3,2,2,0
+1455153,1774186200,1680,9502,Prato,San Donato Tavarnelle,1,0,0,0
+1455151,1774186200,1699,9500,Gavorrano,Montevarchi Calcio,0,0,0,0
+1455150,1774186200,9495,9435,Cannara,Ghivizzano Borgo Mozzano,2,1,1,1
+1455157,1774186200,9504,26506,Scandicci,Camaiore,2,1,2,0
+1455154,1774186200,17550,9441,Sansepolcro,Seravezza,1,1,1,0
+1455155,1774186200,17831,9505,Poggibonsi,Sporting Trestina,1,2,0,1
+1455158,1774186200,19986,19977,Tau Altopascio,Orvietana Calcio,2,1,0,1
+1455156,1774186200,19988,9499,Terranuova Traiana,Grosseto,0,1,0,1
+1455147,1774447200,9435,17550,Ghivizzano Borgo Mozzano,Sansepolcro,2,0,0,0
+1455164,1774706400,9499,1699,Grosseto,Gavorrano,1,1,0,0
+1455159,1774706400,9500,17831,Montevarchi Calcio,Poggibonsi,1,1,0,0
+1455161,1774706400,9505,9504,Sporting Trestina,Scandicci,1,1,0,0
+1455166,1774706400,26506,19986,Camaiore,Tau Altopascio,1,1,0,1
+1455163,1774789200,9435,1680,Ghivizzano Borgo Mozzano,Prato,0,3,0,3
+1455160,1774789200,9441,19988,Seravezza,Terranuova Traiana,2,0,0,0
+1455162,1774789200,9496,17550,Foligno Calcio,Sansepolcro,2,0,1,0
+1455165,1774789200,9502,1583,San Donato Tavarnelle,Robur Siena,2,3,0,2
+1455167,1774789200,19977,9495,Orvietana Calcio,Cannara,0,0,0,0
+1455175,1775134800,1699,26506,Gavorrano,Camaiore,1,0,1,0
+1455176,1775134800,9435,9496,Ghivizzano Borgo Mozzano,Foligno Calcio,0,0,0,0
+1455169,1775134800,9495,9502,Cannara,San Donato Tavarnelle,1,0,1,0
+1455172,1775134800,9504,19986,Scandicci,Tau Altopascio,4,3,2,2
+1455173,1775134800,17550,9500,Sansepolcro,Montevarchi Calcio,0,0,0,0
+1455170,1775134800,17831,19977,Poggibonsi,Orvietana Calcio,0,0,0,0
+1455168,1775145600,1583,9499,Robur Siena,Grosseto,1,1,1,1
+1455171,1775154600,1680,9441,Prato,Seravezza,1,0,0,0
+1455174,1775221200,19988,9505,Terranuova Traiana,Sporting Trestina,0,0,0,0
+1455179,1775998800,9441,1583,Seravezza,Robur Siena,1,4,0,2
+1455184,1775998800,9496,1680,Foligno Calcio,Prato,0,2,0,1
+1455182,1775998800,9499,17550,Grosseto,Sansepolcro,2,2,2,2
+1455178,1775998800,9500,19988,Montevarchi Calcio,Terranuova Traiana,1,1,1,0
+1455177,1775998800,9502,9435,San Donato Tavarnelle,Ghivizzano Borgo Mozzano,1,0,0,0
+1455180,1775998800,9505,1699,Sporting Trestina,Gavorrano,1,1,1,0
+1455183,1775998800,19977,9504,Orvietana Calcio,Scandicci,0,1,0,0
+1455181,1775998800,19986,9495,Tau Altopascio,Cannara,1,0,0,0
+1455185,1775998800,26506,17831,Camaiore,Poggibonsi,1,1,0,1
+1455192,1776603600,1583,9500,Robur Siena,Montevarchi Calcio,0,0,0,0
+1455193,1776603600,1680,9499,Prato,Grosseto,1,0,1,0
+1455188,1776603600,1699,19977,Gavorrano,Orvietana Calcio,0,1,0,0
+1455191,1776603600,9435,9441,Ghivizzano Borgo Mozzano,Seravezza,1,0,1,0
+1455187,1776603600,9495,9504,Cannara,Scandicci,1,1,0,0
+1455186,1776603600,9502,9496,San Donato Tavarnelle,Foligno Calcio,1,0,0,0
+1455189,1776603600,17550,9505,Sansepolcro,Sporting Trestina,1,1,0,0
+1455190,1776603600,17831,19986,Poggibonsi,Tau Altopascio,0,0,0,0
+1455194,1776603600,19988,26506,Terranuova Traiana,Camaiore,2,1,0,0
+1455201,1777208400,9441,9496,Seravezza,Foligno Calcio,0,0,0,0
+1455198,1777208400,9495,17831,Cannara,Poggibonsi,3,2,1,1
+1455203,1777208400,9499,9502,Grosseto,San Donato Tavarnelle,0,2,0,1
+1455196,1777208400,9500,9435,Montevarchi Calcio,Ghivizzano Borgo Mozzano,1,0,0,0
+1455195,1777208400,9504,1699,Scandicci,Gavorrano,1,3,1,1
+1455199,1777208400,9505,1680,Sporting Trestina,Prato,0,2,0,1
+1455200,1777208400,19977,17550,Orvietana Calcio,Sansepolcro,3,2,1,2
+1455197,1777208400,19986,19988,Tau Altopascio,Terranuova Traiana,3,2,1,0
+1455202,1777208400,26506,1583,Camaiore,Robur Siena,2,5,2,1
+1455205,1777728600,9435,9499,Ghivizzano Borgo Mozzano,Grosseto,0,3,0,2
+1455212,1777813200,1583,9505,Robur Siena,Sporting Trestina,4,4,1,2
+1455207,1777813200,1680,9500,Prato,Montevarchi Calcio,1,0,1,0
+1455209,1777813200,1699,19986,Gavorrano,Tau Altopascio,1,2,1,0
+1455211,1777813200,9496,9495,Foligno Calcio,Cannara,1,0,1,0
+1455206,1777813200,9502,9441,San Donato Tavarnelle,Seravezza,1,1,0,1
+1455204,1777813200,17550,26506,Sansepolcro,Camaiore,0,0,0,0
+1455208,1777813200,17831,9504,Poggibonsi,Scandicci,1,0,0,0
+1455210,1777813200,19988,19977,Terranuova Traiana,Orvietana Calcio,0,0,0,0
+1544201,1778421600,1680,1583,Prato,Robur Siena,1,1,0,0
+1544199,1778421600,1699,26506,Gavorrano,Camaiore,3,2,2,2
+1544200,1778421600,19977,17831,Orvietana Calcio,Poggibonsi,0,0,0,0
+1544202,1778425200,19986,9441,Tau Altopascio,Seravezza,0,2,0,1
+1544743,1779026400,1680,9441,Prato,Seravezza,1,2,0,2

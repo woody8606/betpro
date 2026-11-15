@@ -1,0 +1,70 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1328107,1742443200,4326,311,Vanraure Hachinohe,Albirex Niigata,1,1,1,1
+1328112,1742446800,297,307,FC Gifu,Yokohama FC,0,2,0,2
+1328110,1742446800,300,284,Kanazawa,Shonan Bellmare,0,1,0,0
+1328115,1742446800,317,291,Kamatamare Sanuki,Cerezo Osaka,1,5,0,1
+1328117,1742446800,805,310,Kitakyushu,Fagiano Okayama,1,0,1,0
+1328119,1742446800,2235,316,FC Ryukyu,Avispa Fukuoka,0,2,0,0
+1328111,1742446800,4314,281,Azul Claro Numazu,Kashiwa Reysol,0,1,0,1
+1328114,1742446800,4319,302,Gainare Tottori,Kyoto Sanga,0,2,0,1
+1328109,1742446800,4323,306,Parceiro Nagano,Tokyo Verdy,0,0,0,0
+1328116,1742446800,7129,293,Kochi United,Gamba Osaka,1,2,0,2
+1328113,1742446800,7135,292,Nara Club,FC Tokyo,0,1,0,0
+1328108,1742446800,7145,290,Tochigi City,Kashima,0,1,0,0
+1328118,1742446800,10409,288,Tegevajaro Miyazaki,Nagoya Grampus,0,3,0,0
+1328120,1742979600,4324,283,Sagamihara,Shimizu S-pulse,1,3,0,1
+1328132,1742983200,298,309,Oita Trinita,Renofa Yamaguchi,2,3,0,1
+1328127,1742983200,304,295,Matsumoto Yamaga,Sagan Tosu,0,0,0,0
+1328122,1742983200,305,314,Mito Hollyhock,Roasso Kumamoto,1,0,1,0
+1328126,1742983200,308,4317,Ventforet Kofu,Fujieda MYFC,2,1,1,0
+1328125,1742983200,313,7127,Omiya Ardija,Iwaki,2,2,1,1
+1328123,1742983200,315,286,Tochigi SC,Vegalta Sendai,0,0,0,0
+1328130,1742983200,318,4315,Ehime FC,Blaublitz Akita,0,2,0,1
+1328124,1742983200,756,285,Thespakusatsu Gunma,V-varen Nagasaki,1,1,1,0
+1328133,1742983200,2236,312,Kagoshima United,Montedio Yamagata,0,2,0,2
+1328121,1742983200,4318,279,Fukushima United,Consadole Sapporo,3,3,1,2
+1328128,1742983200,4322,301,Kataller Toyama,JEF United Chiba,4,2,2,1
+1328129,1742983200,7138,280,Osaka,Jubilo Iwata,1,2,1,1
+1366881,1744192800,280,283,Jubilo Iwata,Shimizu S-pulse,2,1,0,1
+1366883,1744192800,285,284,V-varen Nagasaki,Shonan Bellmare,1,1,0,1
+1366882,1744192800,304,311,Matsumoto Yamaga,Albirex Niigata,0,2,0,1
+1366880,1744192800,308,303,Ventforet Kofu,Machida Zelvia,0,1,0,1
+1366879,1744192800,309,290,Renofa Yamaguchi,Kashima,1,1,0,0
+1366884,1744192800,312,302,Montedio Yamagata,Kyoto Sanga,0,1,0,1
+1328131,1744192800,10075,299,Imabari,Tokushima Vortis,2,1,0,0
+1366886,1744797600,305,293,Mito Hollyhock,Gamba Osaka,0,1,0,0
+1366888,1744797600,313,292,Omiya Ardija,FC Tokyo,1,1,0,0
+1366890,1744797600,315,316,Tochigi SC,Avispa Fukuoka,1,2,0,1
+1364749,1744797600,805,307,Kitakyushu,Yokohama FC,1,2,0,1
+1366887,1744797600,4315,306,Blaublitz Akita,Tokyo Verdy,1,1,1,0
+1366885,1744797600,4318,281,Fukushima United,Kashiwa Reysol,2,3,2,2
+1366889,1744797600,4322,288,Kataller Toyama,Nagoya Grampus,0,0,0,0
+1370675,1744797600,10075,291,Imabari,Cerezo Osaka,3,3,2,2
+1371740,1747819800,307,303,Yokohama FC,Machida Zelvia,1,1,0,1
+1372032,1747821600,280,293,Jubilo Iwata,Gamba Osaka,1,1,0,1
+1372034,1747821600,284,292,Shonan Bellmare,FC Tokyo,1,0,0,0
+1372035,1747821600,302,291,Kyoto Sanga,Cerezo Osaka,1,4,1,0
+1371741,1747821600,309,281,Renofa Yamaguchi,Kashiwa Reysol,0,2,0,0
+1372033,1747821600,311,306,Albirex Niigata,Tokyo Verdy,0,2,0,2
+1372036,1747821600,4322,316,Kataller Toyama,Avispa Fukuoka,1,2,0,2
+1376366,1749031200,284,280,Shonan Bellmare,Jubilo Iwata,2,0,2,0
+1376370,1749031200,291,307,Cerezo Osaka,Yokohama FC,4,1,0,0
+1376372,1749031200,306,281,Tokyo Verdy,Kashiwa Reysol,0,3,0,1
+1376368,1749031200,316,282,Avispa Fukuoka,Sanfrecce Hiroshima,1,0,0,0
+1376367,1749358800,280,284,Jubilo Iwata,Shonan Bellmare,1,0,0,0
+1376369,1749362400,282,316,Sanfrecce Hiroshima,Avispa Fukuoka,2,1,1,0
+1376371,1749373200,307,291,Yokohama FC,Cerezo Osaka,3,0,1,0
+1376373,1749376800,281,306,Kashiwa Reysol,Tokyo Verdy,2,1,0,1
+1451711,1756893600,284,282,Shonan Bellmare,Sanfrecce Hiroshima,3,2,1,1
+1451712,1756893600,296,281,Yokohama F. Marinos,Kashiwa Reysol,1,4,0,1
+1451710,1756893600,307,289,Yokohama FC,Vissel Kobe,2,0,0,0
+1451713,1756895400,287,294,Urawa,Kawasaki Frontale,1,1,1,0
+1451714,1757237400,282,284,Sanfrecce Hiroshima,Shonan Bellmare,4,1,1,1
+1451715,1757239200,281,296,Kashiwa Reysol,Yokohama F. Marinos,1,0,0,0
+1451716,1757239200,289,307,Vissel Kobe,Yokohama FC,1,0,0,0
+1451717,1757239200,294,287,Kawasaki Frontale,Urawa,2,2,1,0
+1466746,1759917600,294,281,Kawasaki Frontale,Kashiwa Reysol,3,1,2,0
+1466747,1759917600,307,282,Yokohama FC,Sanfrecce Hiroshima,0,2,0,1
+1466748,1760248800,282,307,Sanfrecce Hiroshima,Yokohama FC,2,1,1,1
+1466749,1760252400,281,294,Kashiwa Reysol,Kawasaki Frontale,4,1,1,1
+1484745,1761969900,281,282,Kashiwa Reysol,Sanfrecce Hiroshima,1,3,0,3
