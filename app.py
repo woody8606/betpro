@@ -298,10 +298,11 @@ with tab_live:
                 ev += pr_ * ret
             full = sum(math.prod(os_[i] for i in comb) for k in (2, 3, 4) for comb in combinations(range(4), k))
             c1, c2, c3 = st.columns(3)
-            c1.metric("Iese ceva (min. 2 din 4)", f"{p_any:.0%}")
+            c1.metric("Prinzi macar 2 din 4", f"{p_any:.0%}")
             c2.metric("Ies toate 4", f"{p_all:.0%}")
             c3.metric("Daca ies toate (la 1 per pariu)", f"{full:.1f} unitati")
             st.caption("Yankee = 11 pariuri (6 duble + 4 triple + 1 de 4 meciuri), miza x 11. Ex: £0.50 pe pariu = £5.50 in total. "
+                       "Atentie: cu 2 din 4 iei inapoi doar o parte din bani; profit faci de obicei cu 3 sau 4 din 4. "
                        "Pune-l doar daca la Betfair fiecare cota e PESTE 'cota minima'. Lista se schimba pe masura ce trec minutele.")
     live_panel()
 
