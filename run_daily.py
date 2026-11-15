@@ -94,6 +94,7 @@ def save_matches(today, matches, n_leagues):
     for m in matches:
         o = m.get("odds") or {"best": {}, "ref": {}}
         out.append(dict(fid=m["fid"], kickoff=m["kickoff"], league=m["league"], name=m["name"],
+                        lam={k: round(float(m["lam"][k]), 4) for k in ("lH", "lA", "lHTh", "lHTa")},
                         p={k: round(v, 4) for k, v in m["p"].items()},
                         odds={"best": {k: [v[0], v[1], v[2]] for k, v in o["best"].items()},
                               "ref": {k: [round(v[0], 4), v[1]] for k, v in o["ref"].items()}}))

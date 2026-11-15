@@ -1,12 +1,15 @@
 """BET PRO - aplicatia (Streamlit). Pornire locala: streamlit run app.py"""
 import json
 import math
+import os
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
-from betpro import picks
+import requests
+
+from betpro import live, picks
 from betpro.model import label
 
 ROOT = Path(__file__).resolve().parent
@@ -48,7 +51,7 @@ matches = data["matches"]
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")
 
-tab_azi, tab_bilet, tab_jurnal = st.tabs(["📋 Azi", "🎟️ Biletul meu", "📒 Jurnal"])
+tab_azi, tab_live, tab_bilet, tab_jurnal = st.tabs(["📋 Azi", "🔴 LIVE", "🎟️ Biletul meu", "📒 Jurnal"])
 
 # ---------------------------------------------------------------- AZI
 with tab_azi:
@@ -107,6 +110,91 @@ with tab_azi:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
             "Cota": c["odds"]} for k in ("HTFT", "CS") for c in b[k]]), hide_index=True, width="stretch")
+
+
+# ---------------------------------------------------------------- LIVE
+def api_key():
+    try:
+        return st.secrets["API_FOOTBALL_KEY"]
+    except Exception:
+        return os.environ.get("API_FOOTBALL_KEY", "")
+
+
+@st.cache_data(ttl=60, show_spinner=False)
+def live_fixtures(key):
+    r = requests.get("https://v3.football.api-sports.io/fixtures", params={"live": "all"},
+                     headers={"x-apisports-key": key}, timeout=30)
+    return r.json().get("response", []) or []
+
+
+@st.cache_data(ttl=90, show_spinner=False)
+def live_corners(key, ids):
+    out = {}
+    ids = list(ids)
+    for i in range(0, len(ids), 20):
+        r = requests.get("https://v3.football.api-sports.io/fixtures", params={"ids": "-".join(map(str, ids[i:i + 20]))},
+                         headers={"x-apisports-key": key}, timeout=30)
+        for fx in r.json().get("response", []) or []:
+            tot, ok = 0, False
+            for tm in fx.get("statistics") or []:
+                for it in tm.get("statistics") or []:
+                    if it.get("type") == "Corner Kicks":
+                        tot += int(it.get("value") or 0)
+                        ok = True
+            out[fx["fixture"]["id"]] = tot if ok else None
+    return out
+
+
+with tab_live:
+    @st.fragment(run_every="60s")
+    def live_panel():
+        key = api_key()
+        if not key:
+            st.warning("Pentru LIVE, aplicatia are nevoie de cheia API in Streamlit (Settings > Secrets).")
+            return
+        known = {m["fid"]: m for m in matches if m.get("lam")}
+        try:
+            fx = [f for f in live_fixtures(key) if f["fixture"]["id"] in known]
+        except Exception as ex:
+            st.error(f"Nu pot lua meciurile live: {ex}")
+            return
+        if not fx:
+            st.info("Acum nu se joaca niciun meci analizat de bot. Pagina se actualizeaza singura la fiecare minut.")
+            return
+        corners = {}
+        try:
+            corners = live_corners(key, tuple(sorted(f["fixture"]["id"] for f in fx)))
+        except Exception:
+            pass
+
+        def c(p):
+            if p >= 0.995:
+                return "✅"
+            if p <= 0.005:
+                return "❌"
+            return f"{p:.0%} · {1 / p:.2f}"
+        rows = []
+        for f in fx:
+            st_ = f["fixture"]["status"]
+            m = known[f["fixture"]["id"]]
+            sc = f.get("score") or {}
+            ht = sc.get("halftime") or {}
+            g = f.get("goals") or {}
+            cn = corners.get(f["fixture"]["id"])
+            p = live.probs(m["lam"], st_.get("elapsed") or 0, st_["short"], g.get("home"), g.get("away"),
+                           ht.get("home"), ht.get("away"), cn)
+            row = {"Min": f"{st_.get('elapsed') or 0}'" if st_["short"] != "HT" else "Pauza",
+                   "Meci": f"{f['teams']['home']['name']} {g.get('home', 0)}-{g.get('away', 0)} {f['teams']['away']['name']}",
+                   "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "GG": c(p["GG"]),
+                   "Over 1.5": c(p["O15"]), "Over 2.5": c(p["O25"]), "Over 3.5": c(p["O35"])}
+            if cn is not None:
+                row["Cornere"] = f"{cn} (→{p['C_exp']:.1f})"
+                row["Cornere O9.5"] = c(p["C9.5"])
+            rows.append(row)
+        st.caption("Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
+                   "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari.")
+        st.dataframe(pd.DataFrame(rows), hide_index=True, width="stretch")
+    live_panel()
 
 # ---------------------------------------------------------------- BILETUL MEU
 with tab_bilet:
