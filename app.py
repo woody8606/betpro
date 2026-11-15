@@ -174,10 +174,6 @@ with tab_live:
             st.info("Acum nu se joaca niciun meci analizat de bot. Pagina se actualizeaza singura la fiecare minut.")
             return
         corners = {}
-        try:
-            corners = live_corners(key, tuple(sorted(f["fixture"]["id"] for f in fx)))
-        except Exception:
-            pass
 
         def c(p):
             if p >= 0.995:
@@ -229,24 +225,19 @@ with tab_live:
             row = {"_fid": f["fixture"]["id"], "Min": 90 if final else int(st_.get("elapsed") or 0), "Meci": title(f),
                    "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]),
                    "GG pauza": c(p["GGHT"])}
-            if cn is not None:
-                row["Cornere"] = f"{cn} (→{p['C_exp']:.1f})"
-                row["Cornere O9.5"] = c(p["C9.5"])
-            else:
-                row["Cornere"] = "-"
-                row["Cornere O9.5"] = "-"
+            row["_rep1"] = st_["short"] == "1H"
             rows.append(row)
         st.caption("Bifeaza ⭐ in stanga la meciurile pe care le joci: urca sus, in 'Meciurile mele' (verde = iesit, rosu = pierdut). "
                    "Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
-                   "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari. "
-                   "Cornere '-' = liga nu are statistici live.")
+                   "Se actualizeaza singur la fiecare minut. Aici apar doar meciurile din prima repriza.")
         # ⭐ = meciurile mele (bifate cu mouse-ul), pastrate in adresa paginii
         if rows:
             df = pd.DataFrame(rows)
             df.insert(0, "⭐", df["_fid"].isin(marked))
+            df = df[df["⭐"] | df["_rep1"]]                      # pauza si repriza 2 dispar (raman doar cele bifate)
             df = df.sort_values(["⭐", "Min"], ascending=[False, False]).reset_index(drop=True)
             ed = st.data_editor(df, hide_index=True, width="stretch", disabled=[c for c in df.columns if c != "⭐"],
-                                column_config={"_fid": None,
+                                column_config={"_fid": None, "_rep1": None,
                                                "⭐": st.column_config.CheckboxColumn("⭐", help="Bifeaza meciurile pe care le joci"),
                                                "Min": st.column_config.NumberColumn("Min", format="%d'")})
             new_marked = set(int(x) for x in ed.loc[ed["⭐"], "_fid"])
@@ -256,7 +247,7 @@ with tab_live:
                     st.query_params["m"] = ",".join(map(str, sorted(new_marked)))
                 except Exception:
                     pass
-            mine = ed[ed["⭐"]].drop(columns=["⭐", "_fid"])
+            mine = ed[ed["⭐"]].drop(columns=["⭐", "_fid", "_rep1"])
             if len(mine):
                 def paint(v):
                     if v == "✅":
