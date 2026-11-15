@@ -146,6 +146,17 @@ def live_corners(key, ids):
     return out
 
 
+@st.cache_data(ttl=90, show_spinner=False)
+def fixtures_by_ids(key, ids):
+    out = []
+    ids = list(ids)
+    for i in range(0, len(ids), 20):
+        r = requests.get("https://v3.football.api-sports.io/fixtures", params={"ids": "-".join(map(str, ids[i:i + 20]))},
+                         headers={"x-apisports-key": key}, timeout=30)
+        out += r.json().get("response", []) or []
+    return out
+
+
 with tab_live:
     @st.fragment(run_every="60s")
     def live_panel():
@@ -159,7 +170,7 @@ with tab_live:
         except Exception as ex:
             st.error(f"Nu pot lua meciurile live: {ex}")
             return
-        if not fx:
+        if not fx and not st.query_params.get("w", ""):
             st.info("Acum nu se joaca niciun meci analizat de bot. Pagina se actualizeaza singura la fiecare minut.")
             return
         corners = {}
@@ -174,19 +185,87 @@ with tab_live:
             if p <= 0.005:
                 return "❌"
             return f"{p:.0%} · {1 / p:.2f}"
-        rows = []
-        for f in fx:
+
+        def calc(f):
             st_ = f["fixture"]["status"]
             m = known[f["fixture"]["id"]]
             sc = f.get("score") or {}
             ht = sc.get("halftime") or {}
             g = f.get("goals") or {}
             cn = corners.get(f["fixture"]["id"])
-            p = live.probs(m["lam"], st_.get("elapsed") or 0, st_["short"], g.get("home"), g.get("away"),
-                           ht.get("home"), ht.get("away"), cn)
+            if cn is None:
+                for tm in f.get("statistics") or []:
+                    for it in tm.get("statistics") or []:
+                        if it.get("type") == "Corner Kicks":
+                            cn = (cn or 0) + int(it.get("value") or 0)
+            return live.probs(m["lam"], st_.get("elapsed") or 0, st_["short"], g.get("home"), g.get("away"),
+                              ht.get("home"), ht.get("away"), cn), cn
+
+        def title(f):
+            g = f.get("goals") or {}
+            return f"{f['teams']['home']['name']} {g.get('home', 0)}-{g.get('away', 0)} {f['teams']['away']['name']}"
+
+        # ---- meciurile urmarite (raman si dupa refresh, in adresa paginii)
+        try:
+            watched = [w for w in st.query_params.get("w", "").split(",") if ":" in w]
+        except Exception:
+            watched = []
+        live_ids = {f["fixture"]["id"] for f in fx}
+        missing = tuple(sorted({int(w.split(":")[0]) for w in watched} - live_ids))
+        extra = []
+        if missing:
+            try:
+                extra = [f for f in fixtures_by_ids(key, missing) if f["fixture"]["id"] in known]
+            except Exception:
+                extra = []
+        allfx = {f["fixture"]["id"]: f for f in fx + extra}
+        WMK = {"O0.5 pauza": "O05HT", "O1.5 pauza": "O15HT", "O2.5 pauza": "O25HT", "GG": "GG",
+               "Over 1.5": "O15", "Over 2.5": "O25", "Over 3.5": "O35", "Cornere O9.5": "C9.5"}
+        opts = {}
+        for fid, f in sorted(allfx.items(), key=lambda kv: kv[1]["teams"]["home"]["name"]):
+            for nm, mk in WMK.items():
+                opts[f"{fid}:{mk}"] = f"{f['teams']['home']['name']} - {f['teams']['away']['name']} | {nm}"
+        sel = st.multiselect("⭐ Urmaresc (alege meciul si pariul)", list(opts), default=[w for w in watched if w in opts],
+                             format_func=lambda k: opts[k], key="watch_sel")
+        if sel != watched:
+            try:
+                st.query_params["w"] = ",".join(sel)
+            except Exception:
+                pass
+        if sel:
+            wrows, colors = [], []
+            for w in sel:
+                fid, mk = w.split(":")
+                f = allfx.get(int(fid))
+                if not f:
+                    continue
+                pr, _ = calc(f)
+                v = pr.get(mk)
+                st_ = f["fixture"]["status"]
+                done = st_["short"] in ("FT", "AET", "PEN")
+                if v is None:
+                    stat, col = "fara date", "#eeeeee"
+                elif v >= 0.995:
+                    stat, col = "IESIT ✅", "#c6efce"
+                elif v <= 0.005 or done:
+                    stat, col = "PIERDUT ❌", "#ffc7ce"
+                else:
+                    stat, col = f"in joc · {v:.0%} (cota corecta {1 / v:.2f})", "#ffeb9c"
+                wrows.append({"Min": "Final" if done else f"{st_.get('elapsed') or 0}'", "Meci": title(f),
+                              "Pariu": opts[w].split(" | ")[1], "Stare": stat})
+                colors.append(col)
+            if wrows:
+                wdf = pd.DataFrame(wrows)
+                sty = wdf.style.apply(lambda r: [f"background-color:{colors[r.name]};color:#111"] * len(r), axis=1)
+                st.dataframe(sty, hide_index=True, width="stretch")
+            st.divider()
+
+        rows = []
+        for f in fx:
+            st_ = f["fixture"]["status"]
+            p, cn = calc(f)
             stare = {"1H": "Rep. 1", "HT": "Pauza", "2H": "Rep. 2"}.get(st_["short"], st_["short"])
-            row = {"Min": int(st_.get("elapsed") or 0), "Stare": stare,
-                   "Meci": f"{f['teams']['home']['name']} {g.get('home', 0)}-{g.get('away', 0)} {f['teams']['away']['name']}",
+            row = {"Min": int(st_.get("elapsed") or 0), "Stare": stare, "Meci": title(f),
                    "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]), "GG": c(p["GG"]),
                    "Over 1.5": c(p["O15"]), "Over 2.5": c(p["O25"]), "Over 3.5": c(p["O35"])}
             if cn is not None:
@@ -199,9 +278,12 @@ with tab_live:
         st.caption("Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
                    "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari. "
                    "Cornere '-' = liga nu are statistici live.")
-        df = pd.DataFrame(rows).sort_values("Min", ascending=False)
-        st.dataframe(df, hide_index=True, width="stretch",
-                     column_config={"Min": st.column_config.NumberColumn("Min", format="%d'")})
+        if rows:
+            df = pd.DataFrame(rows).sort_values("Min", ascending=False)
+            st.dataframe(df, hide_index=True, width="stretch",
+                         column_config={"Min": st.column_config.NumberColumn("Min", format="%d'")})
+        else:
+            st.info("Acum nu se joaca niciun meci analizat de bot.")
     live_panel()
 
 # ---------------------------------------------------------------- BILETUL MEU
