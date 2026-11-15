@@ -47,7 +47,8 @@ st.title("⚽ BET PRO")
 if not data:
     st.warning("Inca nu sunt date. Botul ruleaza dimineata pe GitHub.")
     st.stop()
-all_matches = data["matches"]
+# doar meciurile pe care Betfair le are (au cote Betfair in API)
+all_matches = [m for m in data["matches"] if (m.get("odds") or {}).get("best")]
 matches = [m for m in all_matches if not m.get("started")]   # Azi / Biletul meu: doar ce n-a inceput
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")

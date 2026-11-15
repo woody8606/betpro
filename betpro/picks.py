@@ -91,6 +91,8 @@ def big_matches(matches: list, n: int = 25):
         lg = m["league"].lower()
         if not any(w in lg for w in BIG_WORDS) or "u19" in lg or "u21" in lg or "women" in lg:
             continue
+        if not (m.get("odds") or {}).get("best"):
+            continue                                   # Betfair nu are meciul
         row = {"match": m, "mk": {}}
         for mk in ("1", "X", "2", "O25", "GG", "O15HT"):
             b = blend(m, mk)
