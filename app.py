@@ -170,7 +170,7 @@ with tab_live:
         except Exception as ex:
             st.error(f"Nu pot lua meciurile live: {ex}")
             return
-        if not fx and not st.query_params.get("w", "") and not st.query_params.get("m", ""):
+        if not fx and not st.query_params.get("m", ""):
             st.info("Acum nu se joaca niciun meci analizat de bot. Pagina se actualizeaza singura la fiecare minut.")
             return
         corners = {}
@@ -206,16 +206,12 @@ with tab_live:
             return f"{f['teams']['home']['name']} {g.get('home', 0)}-{g.get('away', 0)} {f['teams']['away']['name']}"
 
         # ---- meciurile urmarite (raman si dupa refresh, in adresa paginii)
-        try:
-            watched = [w for w in st.query_params.get("w", "").split(",") if ":" in w]
-        except Exception:
-            watched = []
         live_ids = {f["fixture"]["id"] for f in fx}
         try:
             marked = {int(x) for x in st.query_params.get("m", "").split(",") if x.strip().isdigit()}
         except Exception:
             marked = set()
-        missing = tuple(sorted(({int(w.split(":")[0]) for w in watched} | marked) - live_ids))
+        missing = tuple(sorted(marked - live_ids))
         extra = []
         if missing:
             try:
@@ -223,59 +219,16 @@ with tab_live:
             except Exception:
                 extra = []
         allfx = {f["fixture"]["id"]: f for f in fx + extra}
-        WMK = {"O0.5 pauza": "O05HT", "O1.5 pauza": "O15HT", "O2.5 pauza": "O25HT", "GG": "GG",
-               "Over 1.5": "O15", "Over 2.5": "O25", "Over 3.5": "O35", "Cornere O9.5": "C9.5"}
-        opts = {}
-        for fid, f in sorted(allfx.items(), key=lambda kv: kv[1]["teams"]["home"]["name"]):
-            for nm, mk in WMK.items():
-                opts[f"{fid}:{mk}"] = f"{f['teams']['home']['name']} - {f['teams']['away']['name']} | {nm}"
-        mine_box = st.container()          # aici apar meciurile bifate (le umplem dupa tabelul mare)
-        with st.expander("🎯 Urmaresc un pariu anume (galben in joc, verde iesit, rosu pierdut)"):
-            sel = st.multiselect("Alege meciul si pariul", list(opts), default=[w for w in watched if w in opts],
-                                 format_func=lambda k: opts[k], key="watch_sel")
-        if sel != watched:
-            try:
-                st.query_params["w"] = ",".join(sel)
-            except Exception:
-                pass
-        if sel:
-          with mine_box:
-            wrows, colors = [], []
-            for w in sel:
-                fid, mk = w.split(":")
-                f = allfx.get(int(fid))
-                if not f:
-                    continue
-                pr, _ = calc(f)
-                v = pr.get(mk)
-                st_ = f["fixture"]["status"]
-                done = st_["short"] in ("FT", "AET", "PEN")
-                if v is None:
-                    stat, col = "fara date", "#eeeeee"
-                elif v >= 0.995:
-                    stat, col = "IESIT ✅", "#c6efce"
-                elif v <= 0.005 or done:
-                    stat, col = "PIERDUT ❌", "#ffc7ce"
-                else:
-                    stat, col = f"in joc · {v:.0%} (cota corecta {1 / v:.2f})", "#ffeb9c"
-                wrows.append({"Min": "Final" if done else f"{st_.get('elapsed') or 0}'", "Meci": title(f),
-                              "Pariu": opts[w].split(" | ")[1], "Stare": stat})
-                colors.append(col)
-            if wrows:
-                wdf = pd.DataFrame(wrows)
-                sty = wdf.style.apply(lambda r: [f"background-color:{colors[r.name]};color:#111"] * len(r), axis=1)
-                st.dataframe(sty, hide_index=True, width="stretch")
-            st.divider()
+        mine_box = st.container()          # aici apar meciurile bifate
 
         rows = []
         for f in fx + [f for f in extra if f["fixture"]["id"] in marked]:
             st_ = f["fixture"]["status"]
             p, cn = calc(f)
-            stare = {"1H": "Rep. 1", "HT": "Pauza", "2H": "Rep. 2", "FT": "Final", "AET": "Final", "PEN": "Final"}.get(
-                st_["short"], st_["short"])
-            row = {"_fid": f["fixture"]["id"], "Min": 90 if stare == "Final" else int(st_.get("elapsed") or 0), "Stare": stare, "Meci": title(f),
-                   "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]), "GG": c(p["GG"]),
-                   "Over 1.5": c(p["O15"]), "Over 2.5": c(p["O25"]), "Over 3.5": c(p["O35"])}
+            final = st_["short"] in ("FT", "AET", "PEN")
+            row = {"_fid": f["fixture"]["id"], "Min": 90 if final else int(st_.get("elapsed") or 0), "Meci": title(f),
+                   "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]),
+                   "GG pauza": c(p["GGHT"])}
             if cn is not None:
                 row["Cornere"] = f"{cn} (→{p['C_exp']:.1f})"
                 row["Cornere O9.5"] = c(p["C9.5"])

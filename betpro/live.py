@@ -43,10 +43,13 @@ def probs(lam: dict, minute: int, status: str, hg: int, ag: int, hthg=None, htag
         out["O05HT"] = 1.0 if goals_ht >= 1 else _pois_ge(h1 + a1, 1)
         out["O15HT"] = 1.0 if goals_ht >= 2 else _pois_ge(h1 + a1, 2 - goals_ht)
         out["O25HT"] = 1.0 if goals_ht >= 3 else _pois_ge(h1 + a1, 3 - goals_ht)
+        out["GGHT"] = (1.0 if hg >= 1 else _pois_ge(h1, 1)) * (1.0 if ag >= 1 else _pois_ge(a1, 1))
     else:
         out["O05HT"] = float(goals_ht >= 1)
         out["O15HT"] = float(goals_ht >= 2)
         out["O25HT"] = float(goals_ht >= 3)
+        hh, ha = (hg, ag) if status == "HT" else (int(hthg or 0), int(htag or 0))
+        out["GGHT"] = float(hh >= 1 and ha >= 1)
     tot = hg + ag
     for k, line in (("O15", 2), ("O25", 3), ("O35", 4)):
         out[k] = 1.0 if tot >= line else _pois_ge(hr + ar, line - tot)
