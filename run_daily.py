@@ -98,6 +98,19 @@ def save_matches(today, matches, n_leagues):
                         p={k: round(v, 4) for k, v in m["p"].items()},
                         odds={"best": {k: [v[0], v[1], v[2]] for k, v in o["best"].items()},
                               "ref": {k: [round(v[0], 4), v[1]] for k, v in o["ref"].items()}}))
+    # pastram si meciurile analizate mai devreme azi (care intre timp au inceput) - de ele are nevoie LIVE
+    p = config.DATA / "today.json"
+    if p.exists():
+        try:
+            old = json.loads(p.read_text(encoding="utf-8"))
+            if old.get("date") == today:
+                have = {m["fid"] for m in out}
+                for m in old.get("matches", []):
+                    if m["fid"] not in have:
+                        m["started"] = True
+                        out.append(m)
+        except (ValueError, KeyError):
+            pass
     js = dict(date=today, updated=dt.datetime.now(ZoneInfo(config.TZ)).strftime("%H:%M"), leagues=n_leagues, matches=out)
     (config.DATA / "today.json").write_text(json.dumps(js, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 

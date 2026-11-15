@@ -47,7 +47,8 @@ st.title("⚽ BET PRO")
 if not data:
     st.warning("Inca nu sunt date. Botul ruleaza dimineata pe GitHub.")
     st.stop()
-matches = data["matches"]
+all_matches = data["matches"]
+matches = [m for m in all_matches if not m.get("started")]   # Azi / Biletul meu: doar ce n-a inceput
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")
 
@@ -152,7 +153,7 @@ with tab_live:
         if not key:
             st.warning("Pentru LIVE, aplicatia are nevoie de cheia API in Streamlit (Settings > Secrets).")
             return
-        known = {m["fid"]: m for m in matches if m.get("lam")}
+        known = {m["fid"]: m for m in all_matches if m.get("lam")}
         try:
             fx = [f for f in live_fixtures(key) if f["fixture"]["id"] in known]
         except Exception as ex:
