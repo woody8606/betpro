@@ -190,9 +190,13 @@ with tab_live:
             if cn is not None:
                 row["Cornere"] = f"{cn} (→{p['C_exp']:.1f})"
                 row["Cornere O9.5"] = c(p["C9.5"])
+            else:
+                row["Cornere"] = "-"
+                row["Cornere O9.5"] = "-"
             rows.append(row)
         st.caption("Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
-                   "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari.")
+                   "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari. "
+                   "Cornere '-' = liga nu are statistici live.")
         st.dataframe(pd.DataFrame(rows), hide_index=True, width="stretch")
     live_panel()
 
