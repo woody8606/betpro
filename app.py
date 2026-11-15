@@ -24,7 +24,7 @@ div[data-testid="stMetricValue"]{font-size:1.4rem}
 BUILD_MARKETS = ["O15", "O25", "O35", "GG", "H15", "A15", "O05HT", "O15HT", "O25HT", "1", "X", "2"]
 
 
-@st.cache_data(ttl=300)
+@st.cache_data(ttl=120)
 def load_today():
     p = DATA / "today.json"
     if not p.exists():
