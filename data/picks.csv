@@ -360,3 +360,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-15,14:30,1645873,Cameroon - Elite One,Aigle Royal - PWD Bamenda,sigur,O05HT,0.7081,0.8018,0.6457,1.44,Betfair,3.0,0.0197,,,,
 2026-11-15,15:00,1593170,Germany - Frauen Bundesliga,Nürnberg W - FC Koln W,sigur,O25,0.6822,0.7842,0.6142,1.45,Betfair,3.0,-0.0108,,,,
 2026-11-15,21:00,1511721,Chile - Primera B,Deportes Santa Cruz - Rangers de Talca,sigur,O15,0.7068,0.7153,0.7011,1.4,Betfair,3.0,-0.0105,,,,
+2026-11-15,15:15,1570018,Spain - Segunda División,Granada CF - Las Palmas,value,H15,0.5119,0.559,0.4805,2.0,Betfair,3.0,0.0238,,,,
+2026-11-15,16:00,1573041,Spain - Segunda División RFEF - Group 4,Mijas Las Lagunas - Estepona,value,O35,0.3545,0.4038,0.3216,3.1,Betfair,3.0,0.0988,,,,
+2026-11-15,16:00,1562704,Czech-Republic - 3. liga - CFL A,Písek - Benešov,value,O15HT,0.5111,0.5797,0.4654,2.0,Betfair,3.0,0.0222,,,,
+2026-11-15,19:45,1528985,World - UEFA Nations League,Croatia - Czech Republic,value,A15,0.268,0.3309,0.2261,4.0,Betfair,3.0,0.072,,,,
