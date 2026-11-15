@@ -39,9 +39,9 @@ def note(t):
     return f"<p style='font-style:italic;color:#555;margin:2px 0 8px'>{e(t)}</p>"
 
 
-def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, yt, log):
+def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, yt, log, big=None):
     o = [f"<div style='{CSS}'>", f"<h1 style='font-size:22px;margin:0'>BET PRO - {e(date)}</h1>",
-         note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 30/70 cu sansa corecta "
+         note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 40/60 cu sansa corecta "
               "a caselor (Pinnacle sau media caselor). Nicio selectie nu e sigura.")]
 
     # mementouri cerute de Urs
@@ -59,7 +59,7 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
         o.append(f"<p style='font-weight:700'>{e(line)}</p>")
     s = st.get("sigur")
     if s:
-        o.append(f"<p style='font-weight:700'>Cele mai sigure: {s['won']} din {s['n']} iesite ({s['won'] / s['n']:.0%}).</p>")
+        o.append(f"<p style='font-weight:700'>Sigure: {s['won']} din {s['n']} iesite ({s['won'] / s['n']:.0%}).</p>")
 
     # ieri
     if len(yp) or len(yt):
@@ -95,13 +95,29 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
                        [YEL] * len(suspect)))
 
     # sigure
-    o.append(h2("2. Cele mai sigure - Over 1.5, Over 2.5 sau GG"))
+    o.append(h2("2. Sigure jucabile - sansa mare, cota de minim 1.25"))
+    o.append(note("Doar pariuri unde cota Betfair e de cel putin 1.25 si nu e sub cota corecta."))
     if sure:
-        o.append(table(["Ora", "Meci", "Liga", "Piata", "Sansa", "Cota minima", "Cota casei"],
+        o.append(table(["Ora", "Meci", "Liga", "Piata", "Sansa", "Cota corecta", "Cota Betfair"],
                        [[e(c["match"]["kickoff"]), e(c["match"]["name"]), e(c["match"]["league"]), e(label(c["mk"])),
-                         pct(c["p"]), odd(1 / c["p"]), odd(c["odds"])] for c in sure]))
+                         pct(c["p"]), odd(1 / c["p"]), f"<b>{odd(c['odds'])}</b>"] for c in sure]))
     else:
-        o.append("<p>Azi nu e nimic peste 75%.</p>")
+        o.append("<p>Azi nu e nimic sigur la o cota care sa merite.</p>")
+
+    # meciurile mari
+    if big:
+        o.append(h2("2b. Meciurile mari - cota corecta a botului si cota Betfair"))
+        o.append(note("In fiecare casuta: cota corecta / cota Betfair. Verde = Betfair plateste peste cota corecta."))
+
+        def cell(v):
+            if not v:
+                return "-"
+            p_, o_ = v
+            txt = f"{1 / p_:.2f} / {odd(o_)}"
+            return f"<span style='background:{GREEN};padding:1px 4px'><b>{txt}</b></span>" if o_ and p_ * o_ >= 1.02 else txt
+        o.append(table(["Ora", "Meci", "1", "X", "2", "Over 2.5", "GG", "O1.5 pauza"],
+                       [[e(r["match"]["kickoff"]), e(r["match"]["name"])] + [cell(r["mk"].get(k)) for k in
+                        ("1", "X", "2", "O25", "GG", "O15HT")] for r in big]))
 
     # bilete
     o.append(h2("3. Bilete pe cote tinta"))

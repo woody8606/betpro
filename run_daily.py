@@ -129,7 +129,8 @@ def main():
     yp, yt = journal.yesterday(today)
     log.append(f"cereri API: {api.calls}, ramase azi: {api.remaining}")
 
-    html = report.build(today, n_leagues, len(matches), value, suspect, sure, tix, bombs, st, yp, yt, "; ".join(log))
+    html = report.build(today, n_leagues, len(matches), value, suspect, sure, tix, bombs, st, yp, yt, "; ".join(log),
+                        big=picks.big_matches(matches))
     (config.REPORTS / f"{today}.html").write_text(html, encoding="utf-8")
     (config.REPORTS / "latest.html").write_text(html, encoding="utf-8")
     print("\n".join(log))

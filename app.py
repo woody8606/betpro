@@ -69,12 +69,29 @@ with tab_azi:
                 "Sansa bot %": pct(c["p_bot"]), "Sansa casei %": pct(c["p_ref"]), "Avantaj %": round(100 * c["edge"])}
                 for c in suspect]), hide_index=True, width="stretch")
 
-    st.subheader("Cele mai sigure")
+    st.subheader("Sigure jucabile (cota ≥ 1.25)")
     sure = picks.sure_picks(matches)
     if sure:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
-            "Cota minima": round(1 / c["p"], 2), "Cota": c["odds"]} for c in sure]), hide_index=True, width="stretch")
+            "Cota corecta": round(1 / c["p"], 2), "Cota": c["odds"]} for c in sure]), hide_index=True, width="stretch")
+    else:
+        st.info("Azi nu e nimic sigur la o cota care sa merite.")
+
+    big = picks.big_matches(matches)
+    if big:
+        st.subheader("Meciurile mari")
+        st.caption("Cota corecta / cota Betfair. ✅ = Betfair plateste peste cota corecta.")
+
+        def cell(v):
+            if not v:
+                return "-"
+            p_, o_ = v
+            return f"{1 / p_:.2f} / {o_:.2f}" + (" ✅" if o_ and p_ * o_ >= 1.02 else "") if o_ else f"{1 / p_:.2f} / -"
+        st.dataframe(pd.DataFrame([{"Ora": r["match"]["kickoff"], "Meci": r["match"]["name"],
+                                    **{k: cell(r["mk"].get(mk)) for k, mk in (("1", "1"), ("X", "X"), ("2", "2"),
+                                       ("Over 2.5", "O25"), ("GG", "GG"), ("O1.5 pauza", "O15HT"))}} for r in big]),
+                     hide_index=True, width="stretch")
 
     st.subheader("Bilete gata facute")
     for t in picks.tickets(matches):
@@ -168,7 +185,7 @@ with tab_jurnal:
         st.info("Jurnalul porneste de azi. Rezultatele apar a doua zi dimineata.")
     else:
         done = pk[pk["result"].isin(["iesit", "pierdut"])]
-        for kind, nume in (("value", "Value"), ("sigur", "Cele mai sigure"), ("bomba HT/FT", "Bombe HT/FT"),
+        for kind, nume in (("value", "Value"), ("sigur", "Sigure"), ("bomba HT/FT", "Bombe HT/FT"),
                            ("bomba scor", "Bombe scor corect")):
             s = done[done["kind"] == kind]
             if s.empty:

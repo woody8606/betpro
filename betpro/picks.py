@@ -4,8 +4,11 @@ import math
 from . import config
 from .model import label
 
-VALUE_MARKETS = ["O05HT", "O15HT", "O25HT", "O15", "O25", "O35", "GG", "H15", "A15"]
-SURE_MARKETS = ["O15", "O25", "GG"]
+VALUE_MARKETS = ["O05HT", "O15HT", "O25HT", "O15", "O25", "O35", "GG", "H15", "A15", "1", "X", "2"]
+SURE_MARKETS = ["O15", "O25", "GG", "H15", "A15", "O05HT", "O15HT", "1", "2"]
+BIG_WORDS = ["premier league", "la liga", "serie a", "bundesliga", "ligue 1", "liga i", "eredivisie", "primeira liga",
+             "championship", "champions league", "europa league", "conference league", "nations league",
+             "qualification", "super lig", "jupiler", "superliga", "premiership"]
 TICKET_MARKETS = ["O15", "O25", "GG", "H15", "A15"]
 
 
@@ -60,19 +63,42 @@ def value_picks(matches: list):
 
 
 def sure_picks(matches: list, n: int = 10):
+    """Sigure JUCABILE: sansa mare, cota Betfair de minim 1.25 si macar cat cota corecta."""
     out = []
     for m in matches:
         best = None
         for mk in SURE_MARKETS:
             b = blend(m, mk)
-            if b and b[0] >= config.SURE_MIN and (best is None or b[0] > best["p"]):
-                o = (m["odds"] or {}).get("best", {}).get(mk) if m.get("odds") else None
-                best = dict(match=m, mk=mk, p=b[0], p_bot=b[1], p_ref=b[2], odds=o[0] if o else None,
-                            book=o[1] if o else "", book_id=o[2] if o else None)
+            o = (m.get("odds") or {}).get("best", {}).get(mk) if m.get("odds") else None
+            if not b or not o or b[2] is None or o[0] < config.SURE_MIN_ODDS:
+                continue
+            p = b[0]
+            if p < config.SURE_MIN or p * o[0] < 0.98:
+                continue
+            c = dict(match=m, mk=mk, p=p, p_bot=b[1], p_ref=b[2], odds=o[0], book=o[1], book_id=o[2], edge=p * o[0] - 1)
+            if best is None or c["p"] * c["odds"] > best["p"] * best["odds"]:
+                best = c
         if best:
             out.append(best)
     out.sort(key=lambda c: -c["p"])
     return sorted(out[:n], key=lambda c: (c["match"]["kickoff"], c["match"]["name"]))
+
+
+def big_matches(matches: list, n: int = 25):
+    """Meciurile mari (campionate de top, cupe europene, nationale): cifrele botului pe pietele principale."""
+    out = []
+    for m in matches:
+        lg = m["league"].lower()
+        if not any(w in lg for w in BIG_WORDS) or "u19" in lg or "u21" in lg or "women" in lg:
+            continue
+        row = {"match": m, "mk": {}}
+        for mk in ("1", "X", "2", "O25", "GG", "O15HT"):
+            b = blend(m, mk)
+            o = (m.get("odds") or {}).get("best", {}).get(mk) if m.get("odds") else None
+            if b:
+                row["mk"][mk] = (b[0], o[0] if o else None)
+        out.append(row)
+    return sorted(out, key=lambda r: (r["match"]["kickoff"], r["match"]["name"]))[:n]
 
 
 def tickets(matches: list):
