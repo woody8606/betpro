@@ -185,7 +185,7 @@ with tab_live:
                            ht.get("home"), ht.get("away"), cn)
             row = {"Min": f"{st_.get('elapsed') or 0}'" if st_["short"] != "HT" else "Pauza",
                    "Meci": f"{f['teams']['home']['name']} {g.get('home', 0)}-{g.get('away', 0)} {f['teams']['away']['name']}",
-                   "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "GG": c(p["GG"]),
+                   "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]), "GG": c(p["GG"]),
                    "Over 1.5": c(p["O15"]), "Over 2.5": c(p["O25"]), "Over 3.5": c(p["O35"])}
             if cn is not None:
                 row["Cornere"] = f"{cn} (→{p['C_exp']:.1f})"
