@@ -170,7 +170,7 @@ with tab_live:
         except Exception as ex:
             st.error(f"Nu pot lua meciurile live: {ex}")
             return
-        if not fx and not st.query_params.get("w", ""):
+        if not fx and not st.query_params.get("w", "") and not st.query_params.get("m", ""):
             st.info("Acum nu se joaca niciun meci analizat de bot. Pagina se actualizeaza singura la fiecare minut.")
             return
         corners = {}
@@ -211,7 +211,11 @@ with tab_live:
         except Exception:
             watched = []
         live_ids = {f["fixture"]["id"] for f in fx}
-        missing = tuple(sorted({int(w.split(":")[0]) for w in watched} - live_ids))
+        try:
+            marked = {int(x) for x in st.query_params.get("m", "").split(",") if x.strip().isdigit()}
+        except Exception:
+            marked = set()
+        missing = tuple(sorted(({int(w.split(":")[0]) for w in watched} | marked) - live_ids))
         extra = []
         if missing:
             try:
@@ -225,14 +229,17 @@ with tab_live:
         for fid, f in sorted(allfx.items(), key=lambda kv: kv[1]["teams"]["home"]["name"]):
             for nm, mk in WMK.items():
                 opts[f"{fid}:{mk}"] = f"{f['teams']['home']['name']} - {f['teams']['away']['name']} | {nm}"
-        sel = st.multiselect("⭐ Urmaresc (alege meciul si pariul)", list(opts), default=[w for w in watched if w in opts],
-                             format_func=lambda k: opts[k], key="watch_sel")
+        mine_box = st.container()          # aici apar meciurile bifate (le umplem dupa tabelul mare)
+        with st.expander("🎯 Urmaresc un pariu anume (galben in joc, verde iesit, rosu pierdut)"):
+            sel = st.multiselect("Alege meciul si pariul", list(opts), default=[w for w in watched if w in opts],
+                                 format_func=lambda k: opts[k], key="watch_sel")
         if sel != watched:
             try:
                 st.query_params["w"] = ",".join(sel)
             except Exception:
                 pass
         if sel:
+          with mine_box:
             wrows, colors = [], []
             for w in sel:
                 fid, mk = w.split(":")
@@ -261,11 +268,12 @@ with tab_live:
             st.divider()
 
         rows = []
-        for f in fx:
+        for f in fx + [f for f in extra if f["fixture"]["id"] in marked]:
             st_ = f["fixture"]["status"]
             p, cn = calc(f)
-            stare = {"1H": "Rep. 1", "HT": "Pauza", "2H": "Rep. 2"}.get(st_["short"], st_["short"])
-            row = {"Min": int(st_.get("elapsed") or 0), "Stare": stare, "Meci": title(f),
+            stare = {"1H": "Rep. 1", "HT": "Pauza", "2H": "Rep. 2", "FT": "Final", "AET": "Final", "PEN": "Final"}.get(
+                st_["short"], st_["short"])
+            row = {"_fid": f["fixture"]["id"], "Min": 90 if stare == "Final" else int(st_.get("elapsed") or 0), "Stare": stare, "Meci": title(f),
                    "O0.5 pauza": c(p["O05HT"]), "O1.5 pauza": c(p["O15HT"]), "O2.5 pauza": c(p["O25HT"]), "GG": c(p["GG"]),
                    "Over 1.5": c(p["O15"]), "Over 2.5": c(p["O25"]), "Over 3.5": c(p["O35"])}
             if cn is not None:
@@ -275,13 +283,38 @@ with tab_live:
                 row["Cornere"] = "-"
                 row["Cornere O9.5"] = "-"
             rows.append(row)
-        st.caption("Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
+        st.caption("Bifeaza ⭐ in stanga la meciurile pe care le joci: urca sus, in 'Meciurile mele' (verde = iesit, rosu = pierdut). "
+                   "Sansa botului acum · cota corecta. Joaca doar daca Betfair LIVE da PESTE cota corecta. "
                    "Se actualizeaza singur la fiecare minut. Botul nu vede cartonase rosii sau accidentari. "
                    "Cornere '-' = liga nu are statistici live.")
+        # ⭐ = meciurile mele (bifate cu mouse-ul), pastrate in adresa paginii
         if rows:
-            df = pd.DataFrame(rows).sort_values("Min", ascending=False)
-            st.dataframe(df, hide_index=True, width="stretch",
-                         column_config={"Min": st.column_config.NumberColumn("Min", format="%d'")})
+            df = pd.DataFrame(rows)
+            df.insert(0, "⭐", df["_fid"].isin(marked))
+            df = df.sort_values(["⭐", "Min"], ascending=[False, False]).reset_index(drop=True)
+            ed = st.data_editor(df, hide_index=True, width="stretch", disabled=[c for c in df.columns if c != "⭐"],
+                                column_config={"_fid": None,
+                                               "⭐": st.column_config.CheckboxColumn("⭐", help="Bifeaza meciurile pe care le joci"),
+                                               "Min": st.column_config.NumberColumn("Min", format="%d'")})
+            new_marked = set(int(x) for x in ed.loc[ed["⭐"], "_fid"])
+            # meciurile bifate care s-au terminat raman pana le debifezi
+            if new_marked != marked:
+                try:
+                    st.query_params["m"] = ",".join(map(str, sorted(new_marked)))
+                except Exception:
+                    pass
+            mine = ed[ed["⭐"]].drop(columns=["⭐", "_fid"])
+            if len(mine):
+                def paint(v):
+                    if v == "✅":
+                        return "background-color:#7fd88f;color:#111;font-weight:700"
+                    if v == "❌":
+                        return "background-color:#f4a3ad;color:#111"
+                    return "background-color:#fff2b3;color:#111"
+                with mine_box:
+                    st.markdown("**⭐ Meciurile mele**")
+                    st.dataframe(mine.style.map(paint), hide_index=True, width="stretch",
+                                 column_config={"Min": st.column_config.NumberColumn("Min", format="%d'")})
         else:
             st.info("Acum nu se joaca niciun meci analizat de bot.")
     live_panel()
