@@ -296,3 +296,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1549552,1794169800,2544,2539,Sport Boys,UTC Cajamarca,0,0,0,0
 1549547,1794178800,20960,2558,Deportivo Garcilaso,Comerciantes Unidos,0,0,0,0
 1549553,1794187800,2540,22489,Universitario,UCV Moquegua,2,2,1,1
+1549557,1794765600,2558,2544,Comerciantes Unidos,Sport Boys,3,3,2,1
+1549559,1794773700,22479,20960,Juan Pablo II College,Deportivo Garcilaso,2,2,1,1
