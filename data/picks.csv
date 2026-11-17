@@ -383,7 +383,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-16,19:30,1570014,Spain - Segunda División,Albacete - Celta de Vigo II,value,A15,0.3204,0.3664,0.2898,3.2,Betfair,3.0,0.0254,3.25,-0.0154,pierdut,-1.0
 2026-11-16,19:45,1545662,World - UEFA Nations League,FYR Macedonia - Slovenia,value,X,0.2671,0.312,0.2373,3.9,Betfair,3.0,0.0419,3.9,0.0,pierdut,-1.0
 2026-11-16,19:45,1545652,World - UEFA Nations League,Switzerland - Scotland,value,O35,0.2738,0.3019,0.255,3.8,Betfair,3.0,0.0403,2.75,0.3818,iesit,2.8
-2026-11-16,10:00,1581975,Ukraine - Persha Liga,UCSA - Polissya II,sigur,O05HT,0.767,0.8413,0.7174,1.29,Betfair,3.0,-0.0106,,,,
+2026-11-16,10:00,1581975,Ukraine - Persha Liga,UCSA - Polissya II,sigur,O05HT,0.767,0.8413,0.7174,1.29,Betfair,3.0,-0.0106,,,iesit,0.29
 2026-11-16,14:00,1632094,World - U20 Elite League,Italy U20 - Switzerland U20,sigur,O25,0.6695,0.7287,0.63,1.47,Betfair,3.0,-0.0159,,,pierdut,-1.0
 2026-11-16,15:00,1528987,World - UEFA Nations League,Faroe Islands - Moldova,sigur,O15,0.7003,0.7426,0.6721,1.4,Betfair,3.0,-0.0196,,,pierdut,-1.0
 2026-11-16,13:00,1636986,Greece - Super League 2,Niki Volos - Pyrgos 1968,bomba scor,CS_1_0,0.169,0.169,,6.0,Betfair,3.0,,,,pierdut,-1.0
