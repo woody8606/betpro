@@ -42,6 +42,17 @@ class LeagueModel:
         self.ts = df["ts"].to_numpy()
         self.hg = df["hg"].to_numpy(float)
         self.ag = df["ag"].to_numpy(float)
+        # forma echipelor: jumatate goluri, jumatate xG (ocazii) unde avem xG
+        self.hf, self.af = self.hg.copy(), self.ag.copy()
+        self.n_xg = 0
+        if "hxg" in df:
+            hx = pd.to_numeric(df["hxg"], errors="coerce").to_numpy(float)
+            ax = pd.to_numeric(df["axg"], errors="coerce").to_numpy(float)
+            ok = (hx >= 0) & (ax >= 0)
+            self.n_xg = int(ok.sum())
+            w = config.XG_WEIGHT
+            self.hf[ok] = (1 - w) * self.hg[ok] + w * hx[ok]
+            self.af[ok] = (1 - w) * self.ag[ok] + w * ax[ok]
         self.hhg = pd.to_numeric(df["hhg"], errors="coerce").to_numpy(float)
         self.hag = pd.to_numeric(df["hag"], errors="coerce").to_numpy(float)
         self.home_idx = defaultdict(list)
@@ -70,7 +81,7 @@ class LeagueModel:
             return n, None
         w = config.DECAY ** np.arange(n)
         sel = np.array(sel)
-        gf, ga = (self.hg, self.ag) if home else (self.ag, self.hg)
+        gf, ga = (self.hf, self.af) if home else (self.af, self.hf)
         hf, ha = (self.hhg, self.hag) if home else (self.hag, self.hhg)
         hmask = ~np.isnan(hf[sel]) & ~np.isnan(ha[sel])
         wh = w[hmask]

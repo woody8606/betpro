@@ -11,7 +11,7 @@ import traceback
 from collections import defaultdict
 from zoneinfo import ZoneInfo
 
-from betpro import config, crossmodel, history, journal, mailer, picks, report
+from betpro import config, crossmodel, history, xg, journal, mailer, picks, report
 from betpro.api import Api
 from betpro.model import LeagueModel, probabilities
 from betpro.odds import odds_for_date
@@ -24,6 +24,25 @@ def kickoff(iso: str) -> str:
         return iso[11:16]
 
 
+def injuries(api, day: str, log: list) -> dict:
+    """Jucatorii care lipsesc (accidentati / suspendati) la meciurile zilei: {fid: {team_id: [nume]}}."""
+    out = defaultdict(lambda: defaultdict(list))
+    try:
+        for it in api.response("/injuries", date=day):
+            pl = it.get("player") or {}
+            if (pl.get("type") or "").lower().startswith("missing"):
+                out[it["fixture"]["id"]][it["team"]["id"]].append(pl.get("name", "?"))
+    except Exception as ex:
+        log.append(f"accidentari: {ex}")
+    log.append(f"accidentari pentru {len(out)} meciuri")
+    return out
+
+
+def inj_for(inj: dict, f: dict) -> dict:
+    d = inj.get(f["fixture"]["id"], {})
+    return {"h": d.get(f["teams"]["home"]["id"], []), "a": d.get(f["teams"]["away"]["id"], [])}
+
+
 def analyse(api, today: str, log: list):
     fixtures = api.response("/fixtures", date=today, timezone=config.TZ)
     now = dt.datetime.now(dt.timezone.utc).timestamp()
@@ -34,15 +53,23 @@ def analyse(api, today: str, log: list):
     odds = odds_for_date(api, today)
     log.append(f"cote pentru {len(odds)} meciuri")
 
+    inj = injuries(api, today, log)
     by_league = defaultdict(list)
     for f in fixtures:
         if f["fixture"]["id"] in odds:          # fara cote nu putem face value; sarim liga
             by_league[(f["league"]["id"], f["league"]["season"])].append(f)
 
     matches, n_leagues = [], 0
+    budget = config.XG_BUDGET
     for (lid, season), fx in by_league.items():
         try:
             hist = history.league_history(api, lid, season)
+            if lid in xg.TOP_LEAGUES and budget > 0:
+                used = xg.backfill(api, lid, season, budget)
+                used += xg.backfill(api, lid, season - 1, budget - used)
+                budget -= used
+                if used:
+                    hist = history.league_history(api, lid, season)
         except Exception as ex:
             log.append(f"liga {lid}: {ex}")
             continue
@@ -61,6 +88,7 @@ def analyse(api, today: str, log: list):
                 fid=f["fixture"]["id"], kickoff=kickoff(f["fixture"]["date"]),
                 league=f"{lg.get('country', '')} - {lg['name']}", name=f"{th['name']} - {ta['name']}",
                 lam=lam, p=probabilities(lam), odds=odds.get(f["fixture"]["id"]),
+                inj=inj_for(inj, f),
             ))
         n_leagues += used
     # meciuri intre competitii diferite (nationale, cupe europene): modelul pe forta echipelor
@@ -82,6 +110,7 @@ def analyse(api, today: str, log: list):
             fid=f["fixture"]["id"], kickoff=kickoff(f["fixture"]["date"]),
             league=f"{lg.get('country', '')} - {lg['name']}", name=f"{th['name']} - {ta['name']}",
             lam=lam, p=probabilities(lam), odds=odds.get(f["fixture"]["id"]),
+            inj=inj_for(inj, f),
         ))
         n_cross += 1
     log.append(f"analizate {len(matches)} meciuri din {n_leagues} ligi (+{n_cross} cupe/nationale)")
@@ -95,6 +124,7 @@ def save_matches(today, matches, n_leagues):
         o = m.get("odds") or {"best": {}, "ref": {}}
         out.append(dict(fid=m["fid"], kickoff=m["kickoff"], league=m["league"], name=m["name"],
                         lam={k: round(float(m["lam"][k]), 4) for k in ("lH", "lA", "lHTh", "lHTa")},
+                        inj=m.get("inj") or {"h": [], "a": []},
                         p={k: round(v, 4) for k, v in m["p"].items()},
                         odds={"best": {k: [v[0], v[1], v[2]] for k, v in o["best"].items()},
                               "ref": {k: [round(v[0], 4), v[1]] for k, v in o["ref"].items()}}))
@@ -115,12 +145,29 @@ def save_matches(today, matches, n_leagues):
     (config.DATA / "today.json").write_text(json.dumps(js, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
+def evening(day: str):
+    """Seara: analizeaza meciurile de maine si noteaza ponturile la cotele de acum (inainte sa se miste piata)."""
+    log = []
+    api = Api(config.API_KEY)
+    matches, n_leagues = analyse(api, day, log)
+    value, _ = picks.value_picks(matches)
+    sure = picks.sure_picks(matches)
+    journal.save_today(day, value, sure, [], {"HTFT": [], "CS": []})
+    print("\n".join(log))
+    print(f"seara pentru {day}: value {len(value)}, sigure {len(sure)}, cereri API {api.calls}")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-email", action="store_true")
     ap.add_argument("--date")
+    ap.add_argument("--maine", action="store_true", help="seara: noteaza ponturile pentru maine, la cotele de acum")
     args = ap.parse_args()
     today = args.date or dt.datetime.now(ZoneInfo(config.TZ)).date().isoformat()
+    if args.maine:
+        today = (dt.date.fromisoformat(today) + dt.timedelta(days=1)).isoformat()
+        return evening(today)
     log = []
     api = Api(config.API_KEY)
     config.DATA.mkdir(parents=True, exist_ok=True)

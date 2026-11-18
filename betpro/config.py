@@ -22,6 +22,8 @@ NMAX = 20           # cate meciuri (acasa / in deplasare) intra in forma unei ec
 K_SHRINK = 5.0      # meciuri "imaginare" de medie a ligii
 MIN_FORMA = 5       # sub atatea meciuri pe teren, echipa nu e analizata
 HTFT_CAP = 0.7      # HT/FT nu poate trece de 70% din sansa rezultatului final
+XG_WEIGHT = 0.5      # cat conteaza xG (ocaziile) fata de goluri in forma echipelor
+XG_BUDGET = 900      # cate cereri pe rulare pentru strans xG (cate 20 de meciuri pe cerere)
 
 # piata
 W_MARKET = float(os.environ.get("W_MARKET", "0.6"))   # cat conteaza sansa casei fata de bot

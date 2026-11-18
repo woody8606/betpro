@@ -45,7 +45,9 @@ def save_today(date: str, value, sure, tix, bombs):
     new = pd.DataFrame(rows, columns=PCOLS)
     if len(df):
         key = set(zip(df["date"].astype(str), df["fid"].astype(int), df["kind"], df["market"]))
-        new = new[[ (str(r.date), int(r.fid), r.kind, r.market) not in key for r in new.itertuples()]]
+        vkey = set(zip(df.loc[df["kind"] == "value", "date"].astype(str), df.loc[df["kind"] == "value", "fid"].astype(int)))
+        new = new[[(str(r.date), int(r.fid), r.kind, r.market) not in key
+                   and not (r.kind == "value" and (str(r.date), int(r.fid)) in vkey) for r in new.itertuples()]]
     pd.concat([df, new], ignore_index=True).to_csv(PICKS, index=False)
 
     tdf = _read(TICKETS, TCOLS)

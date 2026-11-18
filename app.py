@@ -38,6 +38,14 @@ def load_csv(name):
     return pd.read_csv(p) if p.exists() else pd.DataFrame()
 
 
+def lips(m):
+    inj = m.get("inj") or {}
+    h, a = inj.get("h") or [], inj.get("a") or []
+    if not h and not a:
+        return "-"
+    return ("⚠️ " if len(h) + len(a) >= 3 else "") + f"{len(h)}/{len(a)}: " + ", ".join(h + a)
+
+
 def pct(x):
     return None if x is None or (isinstance(x, float) and math.isnan(x)) else round(100 * x)
 
@@ -64,7 +72,8 @@ with tab_azi:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]),
             "Cota": c["odds"], "Sansa %": pct(c["p"]), "Avantaj %": round(100 * c["edge"], 1),
-            "Liga": c["match"]["league"]} for c in value]), hide_index=True, width="stretch")
+            "Lipsesc (gazde/oaspeti)": lips(c["match"]), "Liga": c["match"]["league"]} for c in value]),
+            hide_index=True, width="stretch")
     else:
         st.info("Azi nu e niciun value realist.")
     if suspect:

@@ -8,11 +8,15 @@ on:
     - cron: "17 6 * * *"
     - cron: "17 7 * * *"
     - cron: "43 11,15 * * *"  # actualizari pentru aplicatie, fara email
+    - cron: "7 19 * * *"      # seara: ponturile de maine la cotele de seara
   workflow_dispatch:
     inputs:
       email:
         description: "Trimite emailul? (da/nu)"
         default: "da"
+      mod:
+        description: "zi = azi; maine = seara, ponturile pentru maine"
+        default: "zi"
 
 permissions:
   contents: write
@@ -38,7 +42,9 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
-          if [ "${{ github.event.inputs.email }}" = "nu" ] || [ "${{ github.event.schedule }}" = "43 11,15 * * *" ]; then
+          if [ "${{ github.event.inputs.mod }}" = "maine" ] || [ "${{ github.event.schedule }}" = "7 19 * * *" ]; then
+            python run_daily.py --maine
+          elif [ "${{ github.event.inputs.email }}" = "nu" ] || [ "${{ github.event.schedule }}" = "43 11,15 * * *" ]; then
             python run_daily.py --no-email
           else
             python run_daily.py

@@ -46,6 +46,11 @@ def load(api, league: int, season: int, refresh: bool) -> pd.DataFrame:
     rows = [r for r in (fixture_row(f) for f in api.response("/fixtures", league=league, season=season, status=FINISHED)) if r]
     df = pd.DataFrame(rows, columns=COLS)
     df.sort_values("ts", inplace=True)
+    # pastram xG-ul deja strans pentru meciurile vechi
+    if p.exists():
+        old = pd.read_csv(p)
+        if "hxg" in old:
+            df = df.merge(old[["fid", "hxg", "axg"]], on="fid", how="left")
     df.to_csv(p, index=False)
     p.with_suffix(".day").write_text(today)
     return df

@@ -22,6 +22,17 @@ def odd(x):
     return "-" if not x else f"{x:.2f}"
 
 
+def lipsesc(m):
+    """Jucatorii care lipsesc: '2 / 0' cu numele la mouse (si scrise mic dedesubt)."""
+    inj = m.get("inj") or {}
+    h, a = inj.get("h") or [], inj.get("a") or []
+    if not h and not a:
+        return "-"
+    names = "; ".join(x for x in (", ".join(h), ", ".join(a)) if x)
+    warn = "&#9888; " if len(h) + len(a) >= 3 else ""
+    return f"{warn}{len(h)} / {len(a)}<br><small style='color:#777'>{e(names)}</small>"
+
+
 def table(head, rows, colors=None):
     h = "".join(f"<th style='{TH}'>{e(c)}</th>" for c in head)
     body = ""
@@ -80,10 +91,11 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
     o.append(h2("1. VALUE - cota casei e peste cota corecta (un pariu pe meci)"))
     o.append(note("Avantaj = sansa finala x cota - 1. Aratam doar avantaje intre 3% si 15%. Miza mica si egala pe fiecare (o unitate)."))
     if value:
-        o.append(table(["Ora", "Meci", "Liga", "Piata", "Sansa bot", "Sansa casei", "Sansa finala", "Cota", "Casa", "Avantaj"],
+        o.append(table(["Ora", "Meci", "Liga", "Piata", "Sansa bot", "Sansa casei", "Sansa finala", "Cota", "Casa", "Avantaj",
+                        "Lipsesc"],
                        [[e(c["match"]["kickoff"]), e(c["match"]["name"]), e(c["match"]["league"]), e(label(c["mk"])),
                          pct(c["p_bot"]), f"{pct(c['p_ref'])} <small>({e(c['src'])})</small>", pct(c["p"]),
-                         f"<b>{odd(c['odds'])}</b>", e(c["book"]), f"+{c['edge']:.0%}"] for c in value]))
+                         f"<b>{odd(c['odds'])}</b>", e(c["book"]), f"+{c['edge']:.0%}", lipsesc(c["match"])] for c in value]))
     else:
         o.append("<p>Azi nu e niciun value realist. Nu e nimic de jucat la value - si asta e o recomandare.</p>")
     if suspect:
