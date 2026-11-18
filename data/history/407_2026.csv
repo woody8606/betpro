@@ -118,7 +118,9 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1564929,1794599100,5345,2275,Loughgall,Glenavon FC,1,6,1.0,3.0
 1564931,1794599100,5346,22541,Newry City AFC,Strabane Athletic,3,0,1.0,0.0
 1564932,1794599100,5349,5342,Queen's University,Dundela,1,2,0.0,1.0
-1564928,1794599100,5353,11110,Institute,Armagh City,5,0,,
+1564928,1794599100,5353,11110,Institute,Armagh City,5,0,3.0,0.0
 1564926,1794599100,11109,5339,Annagh United,Ballinamallard United,3,1,1.0,1.0
 1564930,1794599100,11118,5355,Newington Youth,Warrenpoint Town,1,1,1.0,1.0
 1564933,1794599100,17241,5343,Rathfriland,H&W Welders,2,0,0.0,0.0
+1564909,1794944700,5355,2275,Warrenpoint Town,Glenavon FC,0,3,0.0,2.0
+1564907,1794944700,17241,11117,Rathfriland,Moyola Park,1,2,,

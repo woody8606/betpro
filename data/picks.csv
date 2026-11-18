@@ -399,32 +399,48 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-16,19:30,1650171,Venezuela - Segunda División,Aragua FC - Deportivo Lara,bomba scor,CS_0_0,0.1512,0.1512,,8.5,Betfair,3.0,,,,pierdut,-1.0
 2026-11-16,19:45,1528990,World - UEFA Nations League,Germany - Netherlands,value,2,0.2865,0.3099,0.2709,3.6,Betfair,3.0,0.0313,3.5,0.0286,pierdut,-1.0
 2026-11-16,20:30,1600697,Chile - Segunda División,Santiago Morning - Deportes Rengo,bomba scor,CS_0_1,0.1172,0.1172,,13.0,Betfair,3.0,,,,pierdut,-1.0
-2026-11-17,11:00,1635767,World - UEFA U19 Championship - Qualification,Hungary U19 - Czechia U19,value,O35,0.3406,0.3725,0.3193,3.1,Betfair,3.0,0.0559,,,,
-2026-11-17,12:00,1635822,World - UEFA U19 Championship - Qualification,Northern Ireland U19 - Switzerland U19,value,X,0.2507,0.2739,0.2353,4.1,Betfair,3.0,0.0279,,,,
-2026-11-17,13:00,1545887,World - Africa Cup of Nations - Qualification,Burundi - Zambia,value,O25,0.3869,0.4354,0.3545,2.75,Betfair,3.0,0.0639,,,,
-2026-11-17,19:00,1545896,World - Africa Cup of Nations - Qualification,Liberia - Cape Verde Islands,value,O15HT,0.3292,0.3768,0.2975,3.3,Betfair,3.0,0.0864,,,,
-2026-11-17,19:45,1528999,World - UEFA Nations League,Bosnia & Herzegovina - Romania,value,1,0.5404,0.6065,0.4964,1.91,Betfair,3.0,0.0322,,,,
-2026-11-17,19:45,1528995,World - UEFA Nations League,Hungary - Northern Ireland,value,2,0.2729,0.3271,0.2368,4.0,Betfair,3.0,0.0916,,,,
-2026-11-17,19:45,1528998,World - UEFA Nations League,Poland - Sweden,value,O35,0.3955,0.4362,0.3683,2.63,Betfair,3.0,0.0401,,,,
-2026-11-17,19:45,1587848,England - National League - North,Spennymoor Town - Chester,value,1,0.2626,0.3255,0.2207,4.0,Betfair,3.0,0.0505,,,,
-2026-11-17,10:00,1635758,World - UEFA U19 Championship - Qualification,Denmark U19 - Bosnia-Herzegovina U19,sigur,O25,0.688,0.8193,0.6005,1.53,Betfair,3.0,0.0527,,,,
-2026-11-17,17:45,1645404,World - UEFA U21 Championship - Qualification,Republic of Ireland U21 - Finland U21,sigur,O05HT,0.7591,0.9037,0.6627,1.4,Betfair,3.0,0.0627,,,,
-2026-11-17,19:00,1588885,England - EFL Trophy,Luton - Peterborough,sigur,1,0.6768,0.7595,0.6217,1.47,Betfair,3.0,-0.0051,,,,
-2026-11-17,19:00,1640017,World - CONCACAF Nations League,St. Lucia - Barbados,sigur,O25,0.7111,0.8341,0.6291,1.5,Betfair,3.0,0.0666,,,,
-2026-11-17,19:45,1528993,World - UEFA Nations League,Denmark - Norway,sigur,O25,0.6879,0.7325,0.6581,4.33,Betfair,3.0,1.9784,,,,
-2026-11-17,23:15,1648330,Argentina - Torneo Federal A,Olimpo Bahia Blanca - Kimberley Mar del Plata,bomba scor,CS_0_0,0.2855,0.2855,,6.5,Betfair,3.0,,,,,
-2026-11-17,15:00,1635754,World - UEFA U19 Championship - Qualification,Faroe Islands U19 - Azerbaijan U19,value,H15,0.4933,0.4933,0.4933,2.25,Betfair,3.0,0.1099,,,,
-2026-11-17,15:00,1635806,World - UEFA U19 Championship - Qualification,Sweden U19 - Portugal U19,value,O15HT,0.4575,0.5198,0.416,2.25,Betfair,3.0,0.0295,,,,
-2026-11-17,15:30,1635782,World - UEFA U19 Championship - Qualification,San Marino U19 - Georgia U19,value,O15HT,0.4905,0.4322,0.5294,2.1,Betfair,3.0,0.0301,,,,
-2026-11-17,16:00,1645402,World - UEFA U21 Championship - Qualification,Czechia U21 - Turkey U21,value,1,0.4884,0.5204,0.467,2.1,Betfair,3.0,0.0256,,,,
-2026-11-17,17:00,1632252,World - U20 Elite League,Romania U20 - Poland U20,value,A15,0.511,0.5475,0.4867,2.25,Betfair,3.0,0.1498,,,,
-2026-11-17,19:00,1640016,World - CONCACAF Nations League,St. Kitts and Nevis - Bonaire,value,2,0.2593,0.267,0.2542,4.33,Betfair,3.0,0.1229,,,,
-2026-11-17,19:45,1528993,World - UEFA Nations League,Denmark - Norway,value,2,0.381,0.3665,0.3907,2.7,Betfair,3.0,0.0288,,,,
-2026-11-17,19:45,1587846,England - National League - North,South Shields - Harborough Town,value,1,0.6301,0.6842,0.5941,1.67,Betfair,3.0,0.0523,,,,
-2026-11-17,19:45,1588398,England - National League - South,Tonbridge Angels - Chesham United,value,2,0.2794,0.3484,0.2333,3.8,Betfair,3.0,0.0616,,,,
-2026-11-17,23:15,1648330,Argentina - Torneo Federal A,Olimpo Bahia Blanca - Kimberley Mar del Plata,value,X,0.3578,0.4004,0.3294,3.1,Betfair,3.0,0.1092,,,,
-2026-11-17,15:00,1635806,World - UEFA U19 Championship - Qualification,Sweden U19 - Portugal U19,sigur,O25,0.6659,0.7541,0.6071,1.53,Betfair,3.0,0.0188,,,,
-2026-11-17,19:00,1545896,World - Africa Cup of Nations - Qualification,Liberia - Cape Verde Islands,sigur,O15,0.7214,0.7881,0.677,1.36,Betfair,3.0,-0.0189,,,,
-2026-11-17,19:45,1528999,World - UEFA Nations League,Bosnia & Herzegovina - Romania,bomba HT/FT,HTFT_1_1,0.3108,0.3108,0.2629,3.25,Betfair,3.0,,,,,
-2026-11-17,19:45,1528995,World - UEFA Nations League,Hungary - Northern Ireland,bomba scor,CS_0_0,0.1365,0.1365,0.1118,7.5,Betfair,3.0,,,,,
-2026-11-17,22:00,1649150,Brazil - Copa do Brasil U20,Atlético Mineiro U20 - São Paulo U20,bomba scor,CS_1_0,0.1359,0.1359,,7.5,Betfair,3.0,,,,,
+2026-11-17,11:00,1635767,World - UEFA U19 Championship - Qualification,Hungary U19 - Czechia U19,value,O35,0.3406,0.3725,0.3193,3.1,Betfair,3.0,0.0559,3.1,0.0,pierdut,-1.0
+2026-11-17,12:00,1635822,World - UEFA U19 Championship - Qualification,Northern Ireland U19 - Switzerland U19,value,X,0.2507,0.2739,0.2353,4.1,Betfair,3.0,0.0279,4.1,0.0,pierdut,-1.0
+2026-11-17,13:00,1545887,World - Africa Cup of Nations - Qualification,Burundi - Zambia,value,O25,0.3869,0.4354,0.3545,2.75,Betfair,3.0,0.0639,2.75,0.0,pierdut,-1.0
+2026-11-17,19:00,1545896,World - Africa Cup of Nations - Qualification,Liberia - Cape Verde Islands,value,O15HT,0.3292,0.3768,0.2975,3.3,Betfair,3.0,0.0864,3.3,0.0,pierdut,-1.0
+2026-11-17,19:45,1528999,World - UEFA Nations League,Bosnia & Herzegovina - Romania,value,1,0.5404,0.6065,0.4964,1.91,Betfair,3.0,0.0322,2.0,-0.045,iesit,0.91
+2026-11-17,19:45,1528995,World - UEFA Nations League,Hungary - Northern Ireland,value,2,0.2729,0.3271,0.2368,4.0,Betfair,3.0,0.0916,4.2,-0.0476,pierdut,-1.0
+2026-11-17,19:45,1528998,World - UEFA Nations League,Poland - Sweden,value,O35,0.3955,0.4362,0.3683,2.63,Betfair,3.0,0.0401,2.3,0.1435,pierdut,-1.0
+2026-11-17,19:45,1587848,England - National League - North,Spennymoor Town - Chester,value,1,0.2626,0.3255,0.2207,4.0,Betfair,3.0,0.0505,4.2,-0.0476,pierdut,-1.0
+2026-11-17,10:00,1635758,World - UEFA U19 Championship - Qualification,Denmark U19 - Bosnia-Herzegovina U19,sigur,O25,0.688,0.8193,0.6005,1.53,Betfair,3.0,0.0527,,,pierdut,-1.0
+2026-11-17,17:45,1645404,World - UEFA U21 Championship - Qualification,Republic of Ireland U21 - Finland U21,sigur,O05HT,0.7591,0.9037,0.6627,1.4,Betfair,3.0,0.0627,,,pierdut,-1.0
+2026-11-17,19:00,1588885,England - EFL Trophy,Luton - Peterborough,sigur,1,0.6768,0.7595,0.6217,1.47,Betfair,3.0,-0.0051,,,iesit,0.47
+2026-11-17,19:00,1640017,World - CONCACAF Nations League,St. Lucia - Barbados,sigur,O25,0.7111,0.8341,0.6291,1.5,Betfair,3.0,0.0666,,,pierdut,-1.0
+2026-11-17,19:45,1528993,World - UEFA Nations League,Denmark - Norway,sigur,O25,0.6879,0.7325,0.6581,4.33,Betfair,3.0,1.9784,,,iesit,3.33
+2026-11-17,23:15,1648330,Argentina - Torneo Federal A,Olimpo Bahia Blanca - Kimberley Mar del Plata,bomba scor,CS_0_0,0.2855,0.2855,,6.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-17,15:00,1635754,World - UEFA U19 Championship - Qualification,Faroe Islands U19 - Azerbaijan U19,value,H15,0.4933,0.4933,0.4933,2.25,Betfair,3.0,0.1099,2.25,0.0,pierdut,-1.0
+2026-11-17,15:00,1635806,World - UEFA U19 Championship - Qualification,Sweden U19 - Portugal U19,value,O15HT,0.4575,0.5198,0.416,2.25,Betfair,3.0,0.0295,2.25,0.0,pierdut,-1.0
+2026-11-17,15:30,1635782,World - UEFA U19 Championship - Qualification,San Marino U19 - Georgia U19,value,O15HT,0.4905,0.4322,0.5294,2.1,Betfair,3.0,0.0301,2.1,0.0,pierdut,-1.0
+2026-11-17,16:00,1645402,World - UEFA U21 Championship - Qualification,Czechia U21 - Turkey U21,value,1,0.4884,0.5204,0.467,2.1,Betfair,3.0,0.0256,2.1,0.0,pierdut,-1.0
+2026-11-17,17:00,1632252,World - U20 Elite League,Romania U20 - Poland U20,value,A15,0.511,0.5475,0.4867,2.25,Betfair,3.0,0.1498,2.25,0.0,pierdut,-1.0
+2026-11-17,19:00,1640016,World - CONCACAF Nations League,St. Kitts and Nevis - Bonaire,value,2,0.2593,0.267,0.2542,4.33,Betfair,3.0,0.1229,4.33,0.0,pierdut,-1.0
+2026-11-17,19:45,1528993,World - UEFA Nations League,Denmark - Norway,value,2,0.381,0.3665,0.3907,2.7,Betfair,3.0,0.0288,2.7,0.0,iesit,1.7
+2026-11-17,19:45,1587846,England - National League - North,South Shields - Harborough Town,value,1,0.6301,0.6842,0.5941,1.67,Betfair,3.0,0.0523,,,anulat,0.0
+2026-11-17,19:45,1588398,England - National League - South,Tonbridge Angels - Chesham United,value,2,0.2794,0.3484,0.2333,3.8,Betfair,3.0,0.0616,3.8,0.0,pierdut,-1.0
+2026-11-17,23:15,1648330,Argentina - Torneo Federal A,Olimpo Bahia Blanca - Kimberley Mar del Plata,value,X,0.3578,0.4004,0.3294,3.1,Betfair,3.0,0.1092,3.1,0.0,iesit,2.1
+2026-11-17,15:00,1635806,World - UEFA U19 Championship - Qualification,Sweden U19 - Portugal U19,sigur,O25,0.6659,0.7541,0.6071,1.53,Betfair,3.0,0.0188,,,pierdut,-1.0
+2026-11-17,19:00,1545896,World - Africa Cup of Nations - Qualification,Liberia - Cape Verde Islands,sigur,O15,0.7214,0.7881,0.677,1.36,Betfair,3.0,-0.0189,,,iesit,0.36
+2026-11-17,19:45,1528999,World - UEFA Nations League,Bosnia & Herzegovina - Romania,bomba HT/FT,HTFT_1_1,0.3108,0.3108,0.2629,3.25,Betfair,3.0,,,,pierdut,-1.0
+2026-11-17,19:45,1528995,World - UEFA Nations League,Hungary - Northern Ireland,bomba scor,CS_0_0,0.1365,0.1365,0.1118,7.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-17,22:00,1649150,Brazil - Copa do Brasil U20,Atlético Mineiro U20 - São Paulo U20,bomba scor,CS_1_0,0.1359,0.1359,,7.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,10:00,1591688,Turkey - 2. Lig,1461 Trabzon FK -  Kahramanmaraş İstiklal Spor,value,O15HT,0.4294,0.4941,0.3862,2.5,Betfair,3.0,0.0734,,,,
+2026-11-18,10:00,1591392,Turkey - 2. Lig,Hatayspor - İnegöl Kafkas Gençlik,value,O15HT,0.412,0.4642,0.3772,2.5,Betfair,3.0,0.0301,,,,
+2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,value,A15,0.4522,0.5237,0.4046,2.38,Betfair,3.0,0.0763,,,,
+2026-11-18,11:00,1591388,Turkey - 2. Lig,Arnavutköy Belediyespor - 68 Aksaray Belediyespor,value,O15HT,0.402,0.4702,0.3566,2.63,Betfair,3.0,0.0574,,,,
+2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,value,O35,0.4004,0.439,0.3747,2.55,Betfair,3.0,0.0211,,,,
+2026-11-18,12:30,1591686,Turkey - 2. Lig,Karacabey Belediyespor - Beyoğlu Yeni Çarşı,value,O35,0.3587,0.4003,0.3309,2.88,Betfair,3.0,0.033,,,,
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,value,2,0.4283,0.4535,0.4114,2.5,Betfair,3.0,0.0707,,,,
+2026-11-18,19:45,1597403,England - Non League Premier - Southern South,Gosport Borough - Chertsey Town,value,1,0.3858,0.4203,0.3627,2.88,Betfair,3.0,0.111,,,,
+2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,value,O15HT,0.3212,0.3571,0.2972,3.3,Betfair,3.0,0.0599,,,,
+2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,sigur,O15,0.7596,0.8253,0.7159,1.33,Betfair,3.0,0.0103,,,,
+2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,sigur,O05HT,0.7896,0.8728,0.7342,1.25,Betfair,3.0,-0.013,,,,
+2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,sigur,O15,0.7286,0.8426,0.6526,1.36,Betfair,3.0,-0.0091,,,,
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba HT/FT,HTFT_2_2,0.2562,0.2562,0.2219,4.0,Betfair,3.0,,,,,
+2026-11-18,19:00,1612680,England - WSL Cup,Manchester United W - Everton W,bomba scor,CS_1_0,0.1758,0.1758,,8.0,Betfair,3.0,,,,,
+2026-11-18,19:30,1650156,Uruguay - Segunda División,Atenas - Fenix,bomba scor,CS_2_0,0.1133,0.1133,,9.5,Betfair,3.0,,,,,
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba scor,CS_1_1,0.1016,0.1016,,10.0,Betfair,3.0,,,,,
