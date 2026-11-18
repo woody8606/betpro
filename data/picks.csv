@@ -465,3 +465,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-18,18:00,1644369,Spain - Copa del Rey,Portugalete - Real Unión,sigur,O15,0.7713,0.8602,0.7121,1.36,Betfair,3.0,0.049,,,,
 2026-11-18,19:30,1616430,Spain - Tercera División RFEF - Group 13,Alcantarilla - SFC Minerva,bomba scor,CS_1_0,0.1726,0.1726,,6.0,Betfair,3.0,,,,,
 2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,bomba scor,CS_1_0,0.1593,0.1593,,7.0,Betfair,3.0,,,,,
+2026-11-18,20:00,1549554,Peru - Primera División,Alianza Atletico - FBC Melgar,value,O35,0.3021,0.2634,0.3278,3.4,Betfair,3.0,0.027,,,,
+2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,bomba scor,CS_0_0,0.1351,0.1351,,10.0,Betfair,3.0,,,,,
