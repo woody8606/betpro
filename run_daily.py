@@ -24,16 +24,21 @@ def kickoff(iso: str) -> str:
         return iso[11:16]
 
 
-def injuries(api, day: str, log: list) -> dict:
-    """Jucatorii care lipsesc (accidentati / suspendati) la meciurile zilei: {fid: {team_id: [nume]}}."""
+def injuries(api, fixtures: list, log: list) -> dict:
+    """Jucatorii care lipsesc (accidentati / suspendati): {fid: {team_id: [nume]}}. Cate 20 de meciuri pe cerere."""
     out = defaultdict(lambda: defaultdict(list))
-    try:
-        for it in api.response("/injuries", date=day):
-            pl = it.get("player") or {}
-            if (pl.get("type") or "").lower().startswith("missing"):
-                out[it["fixture"]["id"]][it["team"]["id"]].append(pl.get("name", "?"))
-    except Exception as ex:
-        log.append(f"accidentari: {ex}")
+    ids = [f["fixture"]["id"] for f in fixtures]
+    errs = 0
+    for i in range(0, len(ids), 20):
+        try:
+            for it in api.response("/injuries", ids="-".join(map(str, ids[i:i + 20]))):
+                pl = it.get("player") or {}
+                if (pl.get("type") or "").lower().startswith("missing"):
+                    out[it["fixture"]["id"]][it["team"]["id"]].append(pl.get("name", "?"))
+        except Exception as ex:
+            errs += 1
+            if errs == 1:
+                log.append(f"accidentari: {ex}")
     log.append(f"accidentari pentru {len(out)} meciuri")
     return out
 
@@ -53,7 +58,7 @@ def analyse(api, today: str, log: list):
     odds = odds_for_date(api, today)
     log.append(f"cote pentru {len(odds)} meciuri")
 
-    inj = injuries(api, today, log)
+    inj = injuries(api, [f for f in fixtures if f["fixture"]["id"] in odds], log)
     by_league = defaultdict(list)
     for f in fixtures:
         if f["fixture"]["id"] in odds:          # fara cote nu putem face value; sarim liga
