@@ -513,3 +513,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-19,12:30,1594904,Egypt - Second League,Baladiyyat Al Mehalla - Haras El Hodood,bomba scor,CS_0_0,0.2125,0.2125,,5.5,Betfair,3.0,,,,,
 2026-11-19,17:00,1650232,Sweden - Damallsvenskan,KIF Örebro W - Rosengård W,bomba scor,CS_1_0,0.1367,0.1367,,15.0,Betfair,3.0,,,,,
 2026-11-19,14:30,1645894,Cameroon - Elite One,Aigle Royal - Colombe,bomba scor,CS_0_0,0.133,0.133,,9.0,Betfair,3.0,,,,,
+2026-11-19,22:30,1647624,Venezuela - Copa Venezuela,Deportivo La Guaira - Anzoátegui FC,value,O35,0.3748,0.4358,0.3341,2.75,Betfair,3.0,0.0307,,,,
+2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,bomba scor,CS_0_2,0.1086,0.1086,,10.0,Betfair,3.0,,,,,
