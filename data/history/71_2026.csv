@@ -340,5 +340,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1492449,1794006000,136,124,Vitoria,Fluminense,0,3,0,2,0.82,1.9
 1492455,1794691800,7848,1062,Mirassol,Atletico-MG,0,0,0,0,0.78,1.2
 1492312,1794699000,132,133,Chapecoense-sc,Vasco DA Gama,0,2,0,1,0.49,2.27
-1492451,1795041000,147,128,Coritiba,Santos,0,1,0,0,,
-1492456,1795042800,1198,132,Remo,Chapecoense-sc,2,0,2,0,,
+1492451,1795041000,147,128,Coritiba,Santos,0,1,0,0,0.65,1.69
+1492456,1795042800,1198,132,Remo,Chapecoense-sc,2,0,2,0,2.44,0.88

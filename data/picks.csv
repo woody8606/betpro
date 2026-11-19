@@ -428,45 +428,45 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-17,19:45,1528999,World - UEFA Nations League,Bosnia & Herzegovina - Romania,bomba HT/FT,HTFT_1_1,0.3108,0.3108,0.2629,3.25,Betfair,3.0,,,,pierdut,-1.0
 2026-11-17,19:45,1528995,World - UEFA Nations League,Hungary - Northern Ireland,bomba scor,CS_0_0,0.1365,0.1365,0.1118,7.5,Betfair,3.0,,,,pierdut,-1.0
 2026-11-17,22:00,1649150,Brazil - Copa do Brasil U20,Atlético Mineiro U20 - São Paulo U20,bomba scor,CS_1_0,0.1359,0.1359,,7.5,Betfair,3.0,,,,pierdut,-1.0
-2026-11-18,10:00,1591688,Turkey - 2. Lig,1461 Trabzon FK -  Kahramanmaraş İstiklal Spor,value,O15HT,0.4294,0.4941,0.3862,2.5,Betfair,3.0,0.0734,,,,
-2026-11-18,10:00,1591392,Turkey - 2. Lig,Hatayspor - İnegöl Kafkas Gençlik,value,O15HT,0.412,0.4642,0.3772,2.5,Betfair,3.0,0.0301,,,,
-2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,value,A15,0.4522,0.5237,0.4046,2.38,Betfair,3.0,0.0763,,,,
-2026-11-18,11:00,1591388,Turkey - 2. Lig,Arnavutköy Belediyespor - 68 Aksaray Belediyespor,value,O15HT,0.402,0.4702,0.3566,2.63,Betfair,3.0,0.0574,,,,
-2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,value,O35,0.4004,0.439,0.3747,2.55,Betfair,3.0,0.0211,,,,
-2026-11-18,12:30,1591686,Turkey - 2. Lig,Karacabey Belediyespor - Beyoğlu Yeni Çarşı,value,O35,0.3587,0.4003,0.3309,2.88,Betfair,3.0,0.033,,,,
-2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,value,2,0.4283,0.4535,0.4114,2.5,Betfair,3.0,0.0707,,,,
-2026-11-18,19:45,1597403,England - Non League Premier - Southern South,Gosport Borough - Chertsey Town,value,1,0.3858,0.4203,0.3627,2.88,Betfair,3.0,0.111,,,,
-2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,value,O15HT,0.3212,0.3571,0.2972,3.3,Betfair,3.0,0.0599,,,,
-2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,sigur,O15,0.7596,0.8253,0.7159,1.33,Betfair,3.0,0.0103,,,,
-2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,sigur,O05HT,0.7896,0.8728,0.7342,1.25,Betfair,3.0,-0.013,,,,
-2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,sigur,O15,0.7286,0.8426,0.6526,1.36,Betfair,3.0,-0.0091,,,,
-2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba HT/FT,HTFT_2_2,0.2562,0.2562,0.2219,4.0,Betfair,3.0,,,,,
-2026-11-18,19:00,1612680,England - WSL Cup,Manchester United W - Everton W,bomba scor,CS_1_0,0.1758,0.1758,,8.0,Betfair,3.0,,,,,
-2026-11-18,19:30,1650156,Uruguay - Segunda División,Atenas - Fenix,bomba scor,CS_2_0,0.1133,0.1133,,9.5,Betfair,3.0,,,,,
-2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba scor,CS_1_1,0.1016,0.1016,,10.0,Betfair,3.0,,,,,
-2026-11-18,11:30,1599280,Poland - Central Youth League,Raków Częstochowa U19 - Legia Warszawa U19,value,1,0.269,0.207,0.3104,3.9,Betfair,3.0,0.0492,,,,
-2026-11-18,17:00,1616433,Spain - Tercera División RFEF - Group 13,Cartagena LU II - Santomera,value,O15HT,0.399,0.437,0.3737,2.6,Betfair,3.0,0.0375,,,,
-2026-11-18,17:30,1645824,Serbia - Cup,Zemun - Radnicki 1923,value,O15HT,0.3147,0.3254,0.3075,3.6,Betfair,3.0,0.1328,,,,
-2026-11-18,17:45,1638333,World - UEFA Champions League Women,Real Madrid W - Inter Milano W,value,O35,0.5005,0.4993,0.5013,2.05,Betfair,3.0,0.0261,,,,
-2026-11-18,19:45,1597419,England - Non League Premier - Southern South,Frome Town - Gloucester City,value,2,0.3924,0.4239,0.3714,2.63,Betfair,3.0,0.0321,,,,
-2026-11-18,20:00,1616432,Spain - Tercera División RFEF - Group 13,Cotillas CD - Unión Molinense,value,1,0.2643,0.3174,0.2289,3.9,Betfair,3.0,0.0308,,,,
-2026-11-18,13:30,1649064,Italy - Coppa Italia Serie D,Piacenza - Lucchese,sigur,H15,0.6706,0.7511,0.617,1.5,Betfair,3.0,0.0059,,,,
-2026-11-18,19:00,1614288,Spain - Tercera División RFEF - Group 6,Buñol - Hércules II,bomba scor,CS_0_0,0.1574,0.1574,,6.5,Betfair,3.0,,,,,
-2026-11-18,16:00,1647529,Slovenia - Cup,Rače - Radomlje,bomba scor,CS_1_0,0.1405,0.1405,,15.0,Betfair,3.0,,,,,
-2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,value,1,0.4134,0.4777,0.3705,2.55,Betfair,3.0,0.0542,,,,
-2026-11-18,16:00,1647530,Slovenia - Cup,Tabor Sežana - Fužinar,value,O35,0.4745,0.4953,0.4607,2.25,Betfair,3.0,0.0677,,,,
-2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,value,X,0.2698,0.306,0.2457,4.0,Betfair,3.0,0.0792,,,,
-2026-11-18,18:00,1644369,Spain - Copa del Rey,Portugalete - Real Unión,value,O15HT,0.3702,0.4325,0.3286,3.0,Betfair,3.0,0.1105,,,,
-2026-11-18,18:00,1644384,Spain - Copa del Rey,Utebo - Sabadell,value,X,0.2783,0.3247,0.2473,4.0,Betfair,3.0,0.1132,,,,
-2026-11-18,19:00,1644334,Spain - Copa del Rey,Alcoyano - Mallorca,value,X,0.2632,0.3088,0.2328,4.2,Betfair,3.0,0.1052,,,,
-2026-11-18,19:30,1644373,Spain - Copa del Rey,Reddis - Barakaldo,value,1,0.3011,0.3688,0.2559,3.7,Betfair,3.0,0.1139,,,,
-2026-11-18,19:30,1616429,Spain - Tercera División RFEF - Group 13,Águilas II - UCAM Murcia II,value,O15HT,0.369,0.4379,0.323,3.0,Betfair,3.0,0.1069,,,,
-2026-11-18,16:00,1647530,Slovenia - Cup,Tabor Sežana - Fužinar,sigur,O25,0.6824,0.706,0.6667,1.45,Betfair,3.0,-0.0105,,,,
-2026-11-18,18:00,1644369,Spain - Copa del Rey,Portugalete - Real Unión,sigur,O15,0.7713,0.8602,0.7121,1.36,Betfair,3.0,0.049,,,,
-2026-11-18,19:30,1616430,Spain - Tercera División RFEF - Group 13,Alcantarilla - SFC Minerva,bomba scor,CS_1_0,0.1726,0.1726,,6.0,Betfair,3.0,,,,,
-2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,bomba scor,CS_1_0,0.1593,0.1593,,7.0,Betfair,3.0,,,,,
-2026-11-18,20:00,1549554,Peru - Primera División,Alianza Atletico - FBC Melgar,value,O35,0.3021,0.2634,0.3278,3.4,Betfair,3.0,0.027,,,,
-2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,bomba scor,CS_0_0,0.1351,0.1351,,10.0,Betfair,3.0,,,,,
+2026-11-18,10:00,1591688,Turkey - 2. Lig,1461 Trabzon FK -  Kahramanmaraş İstiklal Spor,value,O15HT,0.4294,0.4941,0.3862,2.5,Betfair,3.0,0.0734,2.5,0.0,pierdut,-1.0
+2026-11-18,10:00,1591392,Turkey - 2. Lig,Hatayspor - İnegöl Kafkas Gençlik,value,O15HT,0.412,0.4642,0.3772,2.5,Betfair,3.0,0.0301,2.5,0.0,pierdut,-1.0
+2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,value,A15,0.4522,0.5237,0.4046,2.38,Betfair,3.0,0.0763,2.2,0.0818,iesit,1.38
+2026-11-18,11:00,1591388,Turkey - 2. Lig,Arnavutköy Belediyespor - 68 Aksaray Belediyespor,value,O15HT,0.402,0.4702,0.3566,2.63,Betfair,3.0,0.0574,2.75,-0.0436,pierdut,-1.0
+2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,value,O35,0.4004,0.439,0.3747,2.55,Betfair,3.0,0.0211,2.55,0.0,pierdut,-1.0
+2026-11-18,12:30,1591686,Turkey - 2. Lig,Karacabey Belediyespor - Beyoğlu Yeni Çarşı,value,O35,0.3587,0.4003,0.3309,2.88,Betfair,3.0,0.033,2.88,0.0,pierdut,-1.0
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,value,2,0.4283,0.4535,0.4114,2.5,Betfair,3.0,0.0707,2.15,0.1628,pierdut,-1.0
+2026-11-18,19:45,1597403,England - Non League Premier - Southern South,Gosport Borough - Chertsey Town,value,1,0.3858,0.4203,0.3627,2.88,Betfair,3.0,0.111,2.5,0.152,pierdut,-1.0
+2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,value,O15HT,0.3212,0.3571,0.2972,3.3,Betfair,3.0,0.0599,3.2,0.0312,iesit,2.3
+2026-11-18,10:00,1591389,Turkey - 2. Lig,Çorluspor 1947 - Muş Sport Klübü,sigur,O15,0.7596,0.8253,0.7159,1.33,Betfair,3.0,0.0103,,,iesit,0.33
+2026-11-18,12:00,1591685,Turkey - 2. Lig,İnegölspor - İskenderunspor,sigur,O05HT,0.7896,0.8728,0.7342,1.25,Betfair,3.0,-0.013,,,pierdut,-1.0
+2026-11-18,23:00,1647625,Venezuela - Copa Venezuela,UCV - Caracas FC,sigur,O15,0.7286,0.8426,0.6526,1.36,Betfair,3.0,-0.0091,,,iesit,0.36
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba HT/FT,HTFT_2_2,0.2562,0.2562,0.2219,4.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,19:00,1612680,England - WSL Cup,Manchester United W - Everton W,bomba scor,CS_1_0,0.1758,0.1758,,8.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,19:30,1650156,Uruguay - Segunda División,Atenas - Fenix,bomba scor,CS_2_0,0.1133,0.1133,,9.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,13:00,1619195,England - Professional Development League,Peterborough United U21 - Bolton Wanderers Res.,bomba scor,CS_1_1,0.1016,0.1016,,10.0,Betfair,3.0,,,,iesit,9.0
+2026-11-18,11:30,1599280,Poland - Central Youth League,Raków Częstochowa U19 - Legia Warszawa U19,value,1,0.269,0.207,0.3104,3.9,Betfair,3.0,0.0492,3.9,0.0,pierdut,-1.0
+2026-11-18,17:00,1616433,Spain - Tercera División RFEF - Group 13,Cartagena LU II - Santomera,value,O15HT,0.399,0.437,0.3737,2.6,Betfair,3.0,0.0375,2.75,-0.0545,iesit,1.6
+2026-11-18,17:30,1645824,Serbia - Cup,Zemun - Radnicki 1923,value,O15HT,0.3147,0.3254,0.3075,3.6,Betfair,3.0,0.1328,2.75,0.3091,pierdut,-1.0
+2026-11-18,17:45,1638333,World - UEFA Champions League Women,Real Madrid W - Inter Milano W,value,O35,0.5005,0.4993,0.5013,2.05,Betfair,3.0,0.0261,1.65,0.2424,iesit,1.05
+2026-11-18,19:45,1597419,England - Non League Premier - Southern South,Frome Town - Gloucester City,value,2,0.3924,0.4239,0.3714,2.63,Betfair,3.0,0.0321,2.3,0.1435,iesit,1.63
+2026-11-18,20:00,1616432,Spain - Tercera División RFEF - Group 13,Cotillas CD - Unión Molinense,value,1,0.2643,0.3174,0.2289,3.9,Betfair,3.0,0.0308,3.5,0.1143,pierdut,-1.0
+2026-11-18,13:30,1649064,Italy - Coppa Italia Serie D,Piacenza - Lucchese,sigur,H15,0.6706,0.7511,0.617,1.5,Betfair,3.0,0.0059,,,iesit,0.5
+2026-11-18,19:00,1614288,Spain - Tercera División RFEF - Group 6,Buñol - Hércules II,bomba scor,CS_0_0,0.1574,0.1574,,6.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,16:00,1647529,Slovenia - Cup,Rače - Radomlje,bomba scor,CS_1_0,0.1405,0.1405,,15.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,value,1,0.4134,0.4777,0.3705,2.55,Betfair,3.0,0.0542,2.55,0.0,iesit,1.55
+2026-11-18,16:00,1647530,Slovenia - Cup,Tabor Sežana - Fužinar,value,O35,0.4745,0.4953,0.4607,2.25,Betfair,3.0,0.0677,,,anulat,0.0
+2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,value,X,0.2698,0.306,0.2457,4.0,Betfair,3.0,0.0792,4.0,0.0,pierdut,-1.0
+2026-11-18,18:00,1644369,Spain - Copa del Rey,Portugalete - Real Unión,value,O15HT,0.3702,0.4325,0.3286,3.0,Betfair,3.0,0.1105,3.0,0.0,pierdut,-1.0
+2026-11-18,18:00,1644384,Spain - Copa del Rey,Utebo - Sabadell,value,X,0.2783,0.3247,0.2473,4.0,Betfair,3.0,0.1132,3.9,0.0256,pierdut,-1.0
+2026-11-18,19:00,1644334,Spain - Copa del Rey,Alcoyano - Mallorca,value,X,0.2632,0.3088,0.2328,4.2,Betfair,3.0,0.1052,5.0,-0.16,iesit,3.2
+2026-11-18,19:30,1644373,Spain - Copa del Rey,Reddis - Barakaldo,value,1,0.3011,0.3688,0.2559,3.7,Betfair,3.0,0.1139,3.5,0.0571,pierdut,-1.0
+2026-11-18,19:30,1616429,Spain - Tercera División RFEF - Group 13,Águilas II - UCAM Murcia II,value,O15HT,0.369,0.4379,0.323,3.0,Betfair,3.0,0.1069,3.0,0.0,pierdut,-1.0
+2026-11-18,16:00,1647530,Slovenia - Cup,Tabor Sežana - Fužinar,sigur,O25,0.6824,0.706,0.6667,1.45,Betfair,3.0,-0.0105,,,anulat,0.0
+2026-11-18,18:00,1644369,Spain - Copa del Rey,Portugalete - Real Unión,sigur,O15,0.7713,0.8602,0.7121,1.36,Betfair,3.0,0.049,,,pierdut,-1.0
+2026-11-18,19:30,1616430,Spain - Tercera División RFEF - Group 13,Alcantarilla - SFC Minerva,bomba scor,CS_1_0,0.1726,0.1726,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,bomba scor,CS_1_0,0.1593,0.1593,,7.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-18,20:00,1549554,Peru - Primera División,Alianza Atletico - FBC Melgar,value,O35,0.3021,0.2634,0.3278,3.4,Betfair,3.0,0.027,3.3,0.0303,pierdut,-1.0
+2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,bomba scor,CS_0_0,0.1351,0.1351,,10.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-19,01:30,1650229,Panama - Liga Panameña de Fútbol,Independiente de La Chorrera - Tauro FC,value,O15HT,0.3943,0.4383,0.365,2.75,Betfair,3.0,0.0844,,,,
 2026-11-19,12:30,1647527,Slovenia - Cup,Dob - Bistrica,value,O15HT,0.4204,0.4641,0.3912,2.55,Betfair,3.0,0.0719,,,,
 2026-11-19,12:30,1594905,Egypt - Second League,El Dakhleya - Ismaily SC,value,A15,0.3872,0.4375,0.3537,2.75,Betfair,3.0,0.0647,,,,
@@ -476,7 +476,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-19,20:00,1638286,World - UEFA Champions League Women,Arsenal W - Lyon W,value,O35,0.4065,0.4239,0.3949,2.55,Betfair,3.0,0.0366,,,,
 2026-11-19,12:30,1594907,Egypt - Second League,Pharco - El Entag EL Harby,sigur,O15,0.7329,0.8228,0.673,1.4,Betfair,3.0,0.0261,,,,
 2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,O25,0.674,0.7436,0.6275,1.5,Betfair,3.0,0.0109,,,,
-2026-11-18,22:30,1492451,Brazil - Serie A,Coritiba - Santos,value,1,0.2893,0.3304,0.2619,3.6,Betfair,3.0,0.0415,,,,
+2026-11-18,22:30,1492451,Brazil - Serie A,Coritiba - Santos,value,1,0.2893,0.3304,0.2619,3.6,Betfair,3.0,0.0415,3.6,0.0,pierdut,-1.0
 2026-11-20,08:30,1640371,Australia - Australian Championship,Sydney United - Sutherland Sharks,value,X,0.2772,0.3112,0.2546,3.75,Betfair,3.0,0.0396,,,,
 2026-11-20,10:00,1556150,Japan - J1 League,Vissel Kobe - Mito Hollyhock,value,O35,0.3319,0.3614,0.3122,3.1,Betfair,3.0,0.0288,,,,
 2026-11-20,10:30,1601934,Azerbaijan - Premyer Liqa,Imisli FK - Zira,value,1,0.2597,0.3227,0.2178,4.2,Betfair,3.0,0.0909,,,,
@@ -500,3 +500,16 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-20,17:30,1576233,Germany - 2. Bundesliga,Arminia Bielefeld - 1. FC Magdeburg,sigur,O05HT,0.775,0.8597,0.7185,1.29,Betfair,3.0,-0.0003,,,,
 2026-11-20,19:00,1551893,Netherlands - Eerste Divisie,Jong Utrecht - Emmen,sigur,O25,0.7116,0.7616,0.6783,1.4,Betfair,3.0,-0.0037,,,,
 2026-11-20,19:45,1576012,Wales - Premier League,Airbus UK - Colwyn Bay,sigur,O05HT,0.7671,0.851,0.7111,1.3,Betfair,3.0,-0.0028,,,,
+2026-11-19,12:30,1647524,Slovenia - Cup,Beltinci - Celje,value,O15HT,0.4693,0.5159,0.4382,2.2,Betfair,3.0,0.0324,,,,
+2026-11-19,14:20,1647214,Kuwait - Division 1,Khaitan - Yarmouk,value,O15HT,0.376,0.4327,0.3383,2.75,Betfair,3.0,0.0341,,,,
+2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,value,2,0.4362,0.5055,0.39,2.38,Betfair,3.0,0.0382,,,,
+2026-11-19,16:45,1611455,Algeria - Ligue 1,MC Alger - Olympique Akbou,value,X,0.265,0.2909,0.2477,4.0,Betfair,3.0,0.06,,,,
+2026-11-19,19:00,1611454,Algeria - Ligue 1,JS Kabylie - USM Alger,value,H15,0.3821,0.4188,0.3577,2.75,Betfair,3.0,0.0508,,,,
+2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,value,O25,0.4102,0.4783,0.3648,2.55,Betfair,3.0,0.0459,,,,
+2026-11-19,22:30,1492459,Brazil - Serie A,Vitoria - RB Bragantino,value,1,0.3886,0.4425,0.3527,2.63,Betfair,3.0,0.0221,,,,
+2026-11-19,12:30,1594908,Egypt - Second League,Tersana - Itesalat,sigur,O15,0.6565,0.7857,0.5703,1.67,Betfair,3.0,0.0963,,,,
+2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,GG,0.6522,0.7313,0.5995,1.53,Betfair,3.0,-0.0021,,,,
+2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,sigur,O15,0.6706,0.7301,0.6309,1.47,Betfair,3.0,-0.0142,,,,
+2026-11-19,12:30,1594904,Egypt - Second League,Baladiyyat Al Mehalla - Haras El Hodood,bomba scor,CS_0_0,0.2125,0.2125,,5.5,Betfair,3.0,,,,,
+2026-11-19,17:00,1650232,Sweden - Damallsvenskan,KIF Örebro W - Rosengård W,bomba scor,CS_1_0,0.1367,0.1367,,15.0,Betfair,3.0,,,,,
+2026-11-19,14:30,1645894,Cameroon - Elite One,Aigle Royal - Colombe,bomba scor,CS_0_0,0.133,0.133,,9.0,Betfair,3.0,,,,,
