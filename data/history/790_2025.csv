@@ -1,0 +1,154 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1474269,1756479600,24841,26682,CIL Blaj,Unirea Sântana,1,2,1.0,2.0
+1474197,1756479600,24842,14596,Timişul Şag,Universitatea Alba Iulia,2,3,1.0,2.0
+1474199,1756566000,6911,6876,Unirea Alba Iulia,Metalurgistul Cugir,1,2,0.0,1.0
+1474198,1756566000,7483,21680,Progresul Pecica,Viitorul Arad,0,1,0.0,1.0
+1474271,1756566000,26680,2606,Hidro Mecanica Sugag,FC Politehnica Timisoara,0,0,0.0,0.0
+1474270,1756566000,26681,6865,Unirea DMO,Ghiroda şi Giarmata Vii,1,2,0.0,1.0
+1474200,1757080800,2606,24842,FC Politehnica Timisoara,Timişul Şag,5,0,3.0,0.0
+1474273,1757080800,6876,26681,Metalurgistul Cugir,Unirea DMO,4,0,1.0,0.0
+1474272,1757080800,21680,26682,Viitorul Arad,Unirea Sântana,1,2,1.0,1.0
+1474274,1757167200,6865,26680,Ghiroda şi Giarmata Vii,Hidro Mecanica Sugag,3,2,1.0,1.0
+1474201,1757167200,7483,6911,Progresul Pecica,Unirea Alba Iulia,0,4,0.0,1.0
+1474202,1757167200,14596,24841,Universitatea Alba Iulia,CIL Blaj,2,0,1.0,0.0
+1474203,1757685600,6911,21680,Unirea Alba Iulia,Viitorul Arad,2,0,1.0,0.0
+1474204,1757685600,24841,2606,CIL Blaj,FC Politehnica Timisoara,2,1,1.0,1.0
+1474205,1757685600,24842,6865,Timişul Şag,Ghiroda şi Giarmata Vii,3,0,2.0,0.0
+1474275,1757685600,26682,14596,Unirea Sântana,Universitatea Alba Iulia,3,0,1.0,0.0
+1474277,1757772000,26680,6876,Hidro Mecanica Sugag,Metalurgistul Cugir,0,5,0.0,3.0
+1474276,1757772000,26681,7483,Unirea DMO,Progresul Pecica,1,1,0.0,1.0
+1474208,1758290400,6865,24841,Ghiroda şi Giarmata Vii,CIL Blaj,2,0,1.0,0.0
+1474207,1758290400,6876,24842,Metalurgistul Cugir,Timişul Şag,2,0,2.0,0.0
+1474278,1758290400,6911,26681,Unirea Alba Iulia,Unirea DMO,4,1,3.0,0.0
+1474279,1758290400,7483,26680,Progresul Pecica,Hidro Mecanica Sugag,5,0,,
+1474206,1758290400,21680,14596,Viitorul Arad,Universitatea Alba Iulia,2,1,,
+1474280,1758376800,2606,26682,FC Politehnica Timisoara,Unirea Sântana,2,0,0.0,0.0
+1474211,1758636000,14596,2606,Universitatea Alba Iulia,FC Politehnica Timisoara,0,4,0.0,2.0
+1474210,1758636000,24841,6876,CIL Blaj,Metalurgistul Cugir,1,2,,
+1474209,1758636000,24842,7483,Timişul Şag,Progresul Pecica,0,3,0.0,3.0
+1474283,1758636000,26680,6911,Hidro Mecanica Sugag,Unirea Alba Iulia,1,6,,
+1474282,1758636000,26681,21680,Unirea DMO,Viitorul Arad,1,2,,
+1474281,1758636000,26682,6865,Unirea Sântana,Ghiroda şi Giarmata Vii,1,2,0.0,1.0
+1474212,1758895200,6865,14596,Ghiroda şi Giarmata Vii,Universitatea Alba Iulia,2,0,1.0,0.0
+1474284,1758895200,6876,26682,Metalurgistul Cugir,Unirea Sântana,1,2,0.0,1.0
+1474214,1758895200,6911,24842,Unirea Alba Iulia,Timişul Şag,3,1,2.0,1.0
+1474213,1758895200,7483,24841,Progresul Pecica,CIL Blaj,1,0,1.0,0.0
+1474215,1758895200,21680,2606,Viitorul Arad,FC Politehnica Timisoara,2,3,2.0,2.0
+1474285,1758981600,26681,26680,Unirea DMO,Hidro Mecanica Sugag,2,1,1.0,0.0
+1474218,1759492800,14596,6876,Universitatea Alba Iulia,Metalurgistul Cugir,2,2,1.0,1.0
+1474217,1759492800,24841,6911,CIL Blaj,Unirea Alba Iulia,0,3,0.0,1.0
+1474287,1759492800,24842,26681,Timişul Şag,Unirea DMO,0,2,0.0,2.0
+1474216,1759579200,2606,6865,FC Politehnica Timisoara,Ghiroda şi Giarmata Vii,2,0,0.0,0.0
+1476423,1759579200,26680,21680,Hidro Mecanica Sugag,Viitorul Arad,1,3,0.0,1.0
+1474286,1759579200,26682,7483,Unirea Sântana,Progresul Pecica,0,0,0.0,0.0
+1474221,1760097600,6876,2606,Metalurgistul Cugir,FC Politehnica Timisoara,2,1,1.0,0.0
+1474289,1760097600,6911,26682,Unirea Alba Iulia,Unirea Sântana,5,0,2.0,0.0
+1474219,1760097600,21680,6865,Viitorul Arad,Ghiroda şi Giarmata Vii,3,0,0.0,0.0
+1474220,1760184000,7483,14596,Progresul Pecica,Universitatea Alba Iulia,2,1,2.0,1.0
+1474288,1760184000,26680,24842,Hidro Mecanica Sugag,Timişul Şag,2,7,1.0,5.0
+1474290,1760184000,26681,24841,Unirea DMO,CIL Blaj,1,2,1.0,1.0
+1474225,1760702400,14596,6911,Universitatea Alba Iulia,Unirea Alba Iulia,0,6,0.0,5.0
+1474291,1760702400,24841,26680,CIL Blaj,Hidro Mecanica Sugag,6,0,5.0,0.0
+1474224,1760702400,24842,21680,Timişul Şag,Viitorul Arad,2,2,1.0,1.0
+1474222,1760788800,2606,7483,FC Politehnica Timisoara,Progresul Pecica,4,0,3.0,0.0
+1474223,1760788800,6865,6876,Ghiroda şi Giarmata Vii,Metalurgistul Cugir,1,0,0.0,0.0
+1480405,1760788800,26682,26681,Unirea Sântana,Unirea DMO,1,0,1.0,0.0
+1474226,1761307200,7483,6865,Progresul Pecica,Ghiroda şi Giarmata Vii,3,1,1.0,0.0
+1474228,1761307200,21680,6876,Viitorul Arad,Metalurgistul Cugir,2,1,1.0,1.0
+1474229,1761307200,24842,24841,Timişul Şag,CIL Blaj,1,1,0.0,1.0
+1474227,1761393600,6911,2606,Unirea Alba Iulia,FC Politehnica Timisoara,1,2,1.0,1.0
+1474292,1761393600,26680,26682,Hidro Mecanica Sugag,Unirea Sântana,0,2,,
+1474293,1761393600,26681,14596,Unirea DMO,Universitatea Alba Iulia,1,3,0.0,1.0
+1474230,1761915600,6876,7483,Metalurgistul Cugir,Progresul Pecica,2,1,1.0,1.0
+1474294,1761915600,14596,26680,Universitatea Alba Iulia,Hidro Mecanica Sugag,6,0,1.0,0.0
+1474231,1761915600,24841,21680,CIL Blaj,Viitorul Arad,0,2,0.0,1.0
+1474295,1761998400,2606,26681,FC Politehnica Timisoara,Unirea DMO,5,0,3.0,0.0
+1474232,1761998400,6865,6911,Ghiroda şi Giarmata Vii,Unirea Alba Iulia,1,1,0.0,1.0
+1474296,1761998400,26682,24842,Unirea Sântana,Timişul Şag,1,0,0.0,0.0
+1474234,1762516800,14596,24842,Universitatea Alba Iulia,Timişul Şag,0,1,0.0,0.0
+1474235,1762516800,21680,7483,Viitorul Arad,Progresul Pecica,2,0,0.0,0.0
+1474299,1762603200,2606,26680,FC Politehnica Timisoara,Hidro Mecanica Sugag,6,0,3.0,0.0
+1474298,1762603200,6865,26681,Ghiroda şi Giarmata Vii,Unirea DMO,4,2,2.0,0.0
+1474233,1762603200,6876,6911,Metalurgistul Cugir,Unirea Alba Iulia,0,4,0.0,1.0
+1474297,1762603200,26682,24841,Unirea Sântana,CIL Blaj,2,0,0.0,0.0
+1474237,1763121600,6911,7483,Unirea Alba Iulia,Progresul Pecica,6,1,4.0,1.0
+1474236,1763121600,24841,14596,CIL Blaj,Universitatea Alba Iulia,2,1,1.0,0.0
+1474238,1763121600,24842,2606,Timişul Şag,FC Politehnica Timisoara,1,2,0.0,0.0
+1474300,1763208000,26680,6865,Hidro Mecanica Sugag,Ghiroda şi Giarmata Vii,2,2,1.0,2.0
+1474302,1763208000,26681,6876,Unirea DMO,Metalurgistul Cugir,0,1,0.0,0.0
+1474301,1763208000,26682,21680,Unirea Sântana,Viitorul Arad,0,2,0.0,0.0
+1474304,1763726400,6876,26680,Metalurgistul Cugir,Hidro Mecanica Sugag,9,1,4.0,0.0
+1474303,1763726400,7483,26681,Progresul Pecica,Unirea DMO,2,1,1.0,0.0
+1474305,1763726400,14596,26682,Universitatea Alba Iulia,Unirea Sântana,6,1,1.0,1.0
+1474239,1763726400,21680,6911,Viitorul Arad,Unirea Alba Iulia,1,2,0.0,1.0
+1474241,1763812800,2606,24841,FC Politehnica Timisoara,CIL Blaj,4,0,1.0,0.0
+1474240,1763812800,6865,24842,Ghiroda şi Giarmata Vii,Timişul Şag,2,3,0.0,2.0
+1474244,1764331200,14596,21680,Universitatea Alba Iulia,Viitorul Arad,0,1,0.0,0.0
+1474242,1764331200,24841,6865,CIL Blaj,Ghiroda şi Giarmata Vii,2,1,,
+1474243,1764331200,24842,6876,Timişul Şag,Metalurgistul Cugir,0,0,,
+1474308,1764417600,26680,7483,Hidro Mecanica Sugag,Progresul Pecica,2,3,0.0,0.0
+1474306,1764417600,26681,6911,Unirea DMO,Unirea Alba Iulia,0,7,0.0,6.0
+1474307,1764417600,26682,2606,Unirea Sântana,FC Politehnica Timisoara,0,0,0.0,0.0
+1474246,1764936000,6876,24841,Metalurgistul Cugir,CIL Blaj,3,1,2.0,0.0
+1474309,1764936000,21680,26681,Viitorul Arad,Unirea DMO,1,2,0.0,2.0
+1474245,1765022400,2606,14596,FC Politehnica Timisoara,Universitatea Alba Iulia,4,1,2.0,0.0
+1474310,1765022400,6865,26682,Ghiroda şi Giarmata Vii,Unirea Sântana,1,1,1.0,1.0
+1474311,1765022400,6911,26680,Unirea Alba Iulia,Hidro Mecanica Sugag,5,0,1.0,0.0
+1474247,1765022400,7483,24842,Progresul Pecica,Timişul Şag,5,0,3.0,0.0
+1474251,1765540800,14596,6865,Universitatea Alba Iulia,Ghiroda şi Giarmata Vii,1,3,0.0,1.0
+1474249,1765540800,24841,7483,CIL Blaj,Progresul Pecica,3,0,2.0,0.0
+1474248,1765540800,24842,6911,Timişul Şag,Unirea Alba Iulia,1,4,0.0,1.0
+1474250,1765627200,2606,21680,FC Politehnica Timisoara,Viitorul Arad,1,0,1.0,0.0
+1474313,1765627200,26680,26681,Hidro Mecanica Sugag,Unirea DMO,0,2,0.0,2.0
+1474312,1765627200,26682,6876,Unirea Sântana,Metalurgistul Cugir,3,2,2.0,0.0
+1474254,1772193600,6876,14596,Metalurgistul Cugir,Universitatea Alba Iulia,2,1,1.0,1.0
+1474315,1772193600,7483,26682,Progresul Pecica,Unirea Sântana,1,0,1.0,0.0
+1474316,1772193600,21680,26680,Viitorul Arad,Hidro Mecanica Sugag,3,0,,
+1474252,1772280000,6865,2606,Ghiroda şi Giarmata Vii,FC Politehnica Timisoara,0,1,0.0,0.0
+1474253,1772280000,6911,24841,Unirea Alba Iulia,CIL Blaj,3,0,0.0,0.0
+1474314,1772280000,26681,24842,Unirea DMO,Timişul Şag,0,1,0.0,0.0
+1474255,1772802000,6865,21680,Ghiroda şi Giarmata Vii,Viitorul Arad,2,1,1.0,1.0
+1474319,1772802000,24841,26681,CIL Blaj,Unirea DMO,2,0,1.0,0.0
+1474318,1772802000,24842,26680,Timişul Şag,Hidro Mecanica Sugag,3,0,,
+1474256,1772888400,2606,6876,FC Politehnica Timisoara,Metalurgistul Cugir,2,0,1.0,0.0
+1474257,1772888400,14596,7483,Universitatea Alba Iulia,Progresul Pecica,1,0,0.0,0.0
+1474317,1772888400,26682,6911,Unirea Sântana,Unirea Alba Iulia,0,1,0.0,1.0
+1474259,1773406800,6876,6865,Metalurgistul Cugir,Ghiroda şi Giarmata Vii,0,0,0.0,0.0
+1474260,1773406800,7483,2606,Progresul Pecica,FC Politehnica Timisoara,2,2,1.0,1.0
+1474261,1773406800,21680,24842,Viitorul Arad,Timişul Şag,3,2,1.0,0.0
+1474258,1773493200,6911,14596,Unirea Alba Iulia,Universitatea Alba Iulia,3,0,2.0,0.0
+1474321,1773493200,26680,24841,Hidro Mecanica Sugag,CIL Blaj,0,3,,
+1474320,1773493200,26681,26682,Unirea DMO,Unirea Sântana,1,1,0.0,1.0
+1474262,1774011600,6865,7483,Ghiroda şi Giarmata Vii,Progresul Pecica,2,0,0.0,0.0
+1474264,1774011600,6876,21680,Metalurgistul Cugir,Viitorul Arad,1,0,,
+1474323,1774011600,14596,26681,Universitatea Alba Iulia,Unirea DMO,1,0,0.0,0.0
+1474263,1774011600,24841,24842,CIL Blaj,Timişul Şag,2,1,2.0,1.0
+1474265,1774098000,2606,6911,FC Politehnica Timisoara,Unirea Alba Iulia,0,0,0.0,0.0
+1474322,1774098000,26682,26680,Unirea Sântana,Hidro Mecanica Sugag,3,0,,
+1474324,1774616400,24842,26682,Timişul Şag,Unirea Sântana,2,3,1.0,1.0
+1474266,1774702800,6911,6865,Unirea Alba Iulia,Ghiroda şi Giarmata Vii,2,1,2.0,1.0
+1474268,1774702800,7483,6876,Progresul Pecica,Metalurgistul Cugir,3,3,2.0,1.0
+1474267,1774702800,21680,24841,Viitorul Arad,CIL Blaj,3,0,2.0,0.0
+1474325,1774702800,26680,14596,Hidro Mecanica Sugag,Universitatea Alba Iulia,0,3,,
+1474326,1774702800,26681,2606,Unirea DMO,FC Politehnica Timisoara,0,3,0.0,0.0
+1539194,1775224800,6865,26681,Ghiroda şi Giarmata Vii,Unirea DMO,1,0,1.0,0.0
+1539195,1775224800,7483,24842,Progresul Pecica,Timişul Şag,0,2,0.0,1.0
+1539193,1775224800,24841,14596,CIL Blaj,Universitatea Alba Iulia,0,0,0.0,0.0
+1539197,1775829600,24842,24841,Timişul Şag,CIL Blaj,1,0,0.0,0.0
+1539198,1775829600,26681,7483,Unirea DMO,Progresul Pecica,1,5,0.0,3.0
+1539196,1775829600,26682,6865,Unirea Sântana,Ghiroda şi Giarmata Vii,2,0,1.0,0.0
+1539199,1776434400,24841,26681,CIL Blaj,Unirea DMO,1,0,0.0,0.0
+1539200,1776520800,7483,26682,Progresul Pecica,Unirea Sântana,1,2,0.0,1.0
+1539201,1776520800,14596,24842,Universitatea Alba Iulia,Timişul Şag,1,1,1.0,0.0
+1539202,1777039200,6865,7483,Ghiroda şi Giarmata Vii,Progresul Pecica,1,1,1.0,0.0
+1539204,1777125600,26681,14596,Unirea DMO,Universitatea Alba Iulia,1,5,0.0,0.0
+1539203,1777125600,26682,24841,Unirea Sântana,CIL Blaj,1,1,0.0,0.0
+1539207,1777647600,14596,26682,Universitatea Alba Iulia,Unirea Sântana,2,2,2.0,0.0
+1539205,1777647600,24841,6865,CIL Blaj,Ghiroda şi Giarmata Vii,1,1,1.0,0.0
+1539206,1777647600,24842,26681,Timişul Şag,Unirea DMO,2,1,1.0,0.0
+1539209,1778241600,7483,24841,Progresul Pecica,CIL Blaj,4,0,2.0,0.0
+1539208,1778252400,6865,14596,Ghiroda şi Giarmata Vii,Universitatea Alba Iulia,4,0,2.0,0.0
+1539210,1778338800,26682,24842,Unirea Sântana,Timişul Şag,4,0,1.0,0.0
+1539213,1778943600,14596,7483,Universitatea Alba Iulia,Progresul Pecica,6,2,2.0,0.0
+1539211,1778943600,24842,6865,Timişul Şag,Ghiroda şi Giarmata Vii,4,3,2.0,2.0
+1539212,1778943600,26681,26682,Unirea DMO,Unirea Sântana,1,2,0.0,1.0

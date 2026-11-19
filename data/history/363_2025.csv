@@ -1,0 +1,378 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1482296,1760781600,4127,26880,Mebrat Hayl,Sheger Ketema,1,0,0,0
+1482144,1760788800,4125,4123,Welwalo Adigrat Uni,Sidama Bunna,1,4,1,0
+1482297,1760792400,26881,4126,Negelle Arsi,Arba Minch Kenema,1,1,1,1
+1482143,1760799600,4115,4111,Dire Dawa Kenema,Awassa Kenema,0,2,0,1
+1482145,1760875200,4116,4119,Ethiopia Bunna,Kedus Giorgis,0,1,0,0
+1482146,1760875200,4117,4130,Fasil Ketema,Ethiopia Nigd Bank,1,1,1,1
+1482147,1760886000,4120,4124,Mekelakeya,Welayta Dicha,1,0,0,0
+1482148,1760954400,4110,20030,Adama Kenema,Ethiopian Medhin,0,0,0,0
+1482149,1760965200,4112,9983,Bahardar,Hadiya Hosaena,3,1,1,0
+1482150,1760965200,9986,4121,Suhul Shire,Mekelle Kenema,1,0,1,0
+1482298,1761213600,4116,26881,Ethiopia Bunna,Negelle Arsi,2,1,1,1
+1482151,1761220800,4125,4117,Welwalo Adigrat Uni,Fasil Ketema,0,2,0,0
+1482299,1761224400,26880,4110,Sheger Ketema,Adama Kenema,0,0,0,0
+1482158,1761231600,4124,4115,Welayta Dicha,Dire Dawa Kenema,0,1,0,0
+1482153,1761300000,4126,4112,Arba Minch Kenema,Bahardar,1,1,0,0
+1482155,1761310800,9983,4127,Hadiya Hosaena,Mebrat Hayl,0,0,0,0
+1482156,1761318000,4130,9986,Ethiopia Nigd Bank,Suhul Shire,0,0,0,0
+1482154,1761397200,4123,4111,Sidama Bunna,Awassa Kenema,1,0,0,0
+1482159,1761645600,4127,4126,Mebrat Hayl,Arba Minch Kenema,3,1,0,1
+1482161,1761652800,9986,4125,Suhul Shire,Welwalo Adigrat Uni,0,0,0,0
+1482160,1761656400,4112,4116,Bahardar,Ethiopia Bunna,0,0,0,0
+1482165,1761663600,4120,4130,Mekelakeya,Ethiopia Nigd Bank,3,1,2,0
+1482163,1761739200,4111,4124,Awassa Kenema,Welayta Dicha,2,1,2,1
+1482301,1761742800,26881,4119,Negelle Arsi,Kedus Giorgis,0,1,0,0
+1482162,1761750000,4117,4123,Fasil Ketema,Sidama Bunna,1,0,1,0
+1482164,1761825600,4110,9983,Adama Kenema,Hadiya Hosaena,0,0,0,0
+1482167,1762077600,4116,4127,Ethiopia Bunna,Mebrat Hayl,0,1,0,0
+1482173,1762084800,4123,4124,Sidama Bunna,Welayta Dicha,2,0,1,0
+1482302,1762088400,26881,4112,Negelle Arsi,Bahardar,0,0,0,0
+1482169,1762095600,4117,9986,Fasil Ketema,Suhul Shire,1,0,1,0
+1482170,1762164000,9983,20030,Hadiya Hosaena,Ethiopian Medhin,1,2,1,1
+1482303,1762174800,4119,26880,Kedus Giorgis,Sheger Ketema,0,1,0,0
+1482172,1762257600,4126,4110,Arba Minch Kenema,Adama Kenema,0,1,0,1
+1482171,1762257600,4130,4115,Ethiopia Nigd Bank,Dire Dawa Kenema,2,0,1,0
+1482168,1762268400,4125,4120,Welwalo Adigrat Uni,Mekelakeya,0,2,0,2
+1482304,1762516800,4127,26881,Mebrat Hayl,Negelle Arsi,0,0,0,0
+1482175,1762520400,4124,4121,Welayta Dicha,Mekelle Kenema,2,2,0,1
+1482176,1762596000,4112,4119,Bahardar,Kedus Giorgis,1,3,1,3
+1482178,1762603200,9986,4123,Suhul Shire,Sidama Bunna,1,2,1,0
+1482177,1762606800,20030,4126,Ethiopian Medhin,Arba Minch Kenema,0,0,0,0
+1482179,1762614000,4115,4125,Dire Dawa Kenema,Welwalo Adigrat Uni,2,1,1,0
+1482180,1762682400,4110,4116,Adama Kenema,Ethiopia Bunna,1,0,0,0
+1482181,1762689600,4111,4130,Awassa Kenema,Ethiopia Nigd Bank,1,1,1,1
+1482305,1762693200,26880,9983,Sheger Ketema,Hadiya Hosaena,1,1,1,1
+1482182,1762700400,4120,4117,Mekelakeya,Fasil Ketema,0,0,0,0
+1482157,1763294400,4119,20030,Kedus Giorgis,Ethiopian Medhin,1,0,1,0
+1482183,1763640000,4123,4121,Sidama Bunna,Mekelle Kenema,0,0,0,0
+1482306,1763643600,26881,4110,Negelle Arsi,Adama Kenema,2,1,0,0
+1482184,1763719200,4125,4111,Welwalo Adigrat Uni,Awassa Kenema,0,1,0,0
+1482185,1763726400,4116,20030,Ethiopia Bunna,Ethiopian Medhin,2,3,0,3
+1482186,1763730000,4130,4124,Ethiopia Nigd Bank,Welayta Dicha,1,1,0,1
+1482187,1763737200,4119,9983,Kedus Giorgis,Hadiya Hosaena,0,1,0,1
+1482188,1763805600,9986,4120,Suhul Shire,Mekelakeya,2,2,1,2
+1482307,1763812800,4126,26880,Arba Minch Kenema,Sheger Ketema,0,1,0,0
+1482189,1763816400,4117,4115,Fasil Ketema,Dire Dawa Kenema,0,0,0,0
+1482190,1763823600,4112,4127,Bahardar,Mebrat Hayl,2,0,0,0
+1482192,1764072000,4110,4112,Adama Kenema,Bahardar,1,0,0,0
+1482191,1764072000,4124,4125,Welayta Dicha,Welwalo Adigrat Uni,2,1,1,1
+1482308,1764082800,20030,26881,Ethiopian Medhin,Negelle Arsi,0,1,0,0
+1482193,1764151200,4120,4123,Mekelakeya,Sidama Bunna,1,2,1,1
+1482195,1764158400,4127,4119,Mebrat Hayl,Kedus Giorgis,1,0,0,0
+1482194,1764162000,4111,4117,Awassa Kenema,Fasil Ketema,0,1,0,0
+1482309,1764169200,26880,4116,Sheger Ketema,Ethiopia Bunna,1,2,1,1
+1482196,1764237600,4115,9986,Dire Dawa Kenema,Suhul Shire,0,2,0,1
+1482197,1764248400,4121,4130,Mekelle Kenema,Ethiopia Nigd Bank,2,2,1,1
+1482198,1764248400,9983,4126,Hadiya Hosaena,Arba Minch Kenema,1,1,0,1
+1482199,1764496800,4117,4124,Fasil Ketema,Welayta Dicha,1,1,1,0
+1482200,1764504000,4112,20030,Bahardar,Ethiopian Medhin,1,0,0,0
+1482201,1764507600,4125,4121,Welwalo Adigrat Uni,Mekelle Kenema,1,0,1,0
+1482202,1764514800,4127,4110,Mebrat Hayl,Adama Kenema,0,0,0,0
+1482203,1764583200,9986,4111,Suhul Shire,Awassa Kenema,1,0,1,0
+1482205,1764594000,4116,9983,Ethiopia Bunna,Hadiya Hosaena,1,0,1,0
+1482204,1764594000,4123,4130,Sidama Bunna,Ethiopia Nigd Bank,1,0,1,0
+1482207,1764676800,4119,4126,Kedus Giorgis,Arba Minch Kenema,1,0,1,0
+1482206,1764676800,4120,4115,Mekelakeya,Dire Dawa Kenema,1,1,0,1
+1482310,1764687600,26881,26880,Negelle Arsi,Sheger Ketema,2,2,0,0
+1482208,1764936000,4124,9986,Welayta Dicha,Suhul Shire,1,1,0,0
+1482209,1764939600,20030,4127,Ethiopian Medhin,Mebrat Hayl,1,1,1,0
+1482210,1765015200,4130,4125,Ethiopia Nigd Bank,Welwalo Adigrat Uni,1,2,1,0
+1482211,1765022400,4110,4119,Adama Kenema,Kedus Giorgis,1,0,1,0
+1482212,1765026000,4115,4123,Dire Dawa Kenema,Sidama Bunna,0,0,0,0
+1482311,1765033200,26880,4112,Sheger Ketema,Bahardar,3,1,1,1
+1482213,1765101600,4111,4120,Awassa Kenema,Mekelakeya,1,1,0,1
+1482312,1765108800,9983,26881,Hadiya Hosaena,Negelle Arsi,1,2,1,1
+1482214,1765112400,4121,4117,Mekelle Kenema,Fasil Ketema,1,1,0,0
+1482215,1765119600,4126,4116,Arba Minch Kenema,Ethiopia Bunna,0,0,0,0
+1482300,1765364400,20030,26880,Ethiopian Medhin,Sheger Ketema,1,0,0,0
+1482216,1766145600,4130,4126,Ethiopia Nigd Bank,Arba Minch Kenema,3,1,1,0
+1482223,1766145600,9986,4112,Suhul Shire,Bahardar,0,0,0,0
+1482217,1766156400,4121,9983,Mekelle Kenema,Hadiya Hosaena,1,2,1,0
+1482221,1766224800,4125,4116,Welwalo Adigrat Uni,Ethiopia Bunna,1,1,1,1
+1482314,1766232000,4124,26880,Welayta Dicha,Sheger Ketema,3,1,0,1
+1482313,1766235600,4117,26881,Fasil Ketema,Negelle Arsi,1,0,0,0
+1482219,1766242800,4111,20030,Awassa Kenema,Ethiopian Medhin,2,1,1,1
+1482218,1766311200,4115,4110,Dire Dawa Kenema,Adama Kenema,1,1,1,1
+1482220,1766322000,4120,4127,Mekelakeya,Mebrat Hayl,0,0,0,0
+1482222,1766322000,4123,4119,Sidama Bunna,Kedus Giorgis,1,1,1,0
+1482316,1766570400,26881,4125,Negelle Arsi,Welwalo Adigrat Uni,1,0,1,0
+1482225,1766577600,4126,4121,Arba Minch Kenema,Mekelle Kenema,0,2,0,1
+1482228,1766581200,4112,4117,Bahardar,Fasil Ketema,0,0,0,0
+1482226,1766588400,9983,4124,Hadiya Hosaena,Welayta Dicha,2,1,2,0
+1482230,1766656800,4127,9986,Mebrat Hayl,Suhul Shire,1,0,0,0
+1482315,1766664000,26880,4111,Sheger Ketema,Awassa Kenema,1,2,1,0
+1482224,1766667600,4116,4115,Ethiopia Bunna,Dire Dawa Kenema,1,2,1,0
+1482229,1766674800,4119,4130,Kedus Giorgis,Ethiopia Nigd Bank,1,1,1,0
+1482227,1766750400,4110,4120,Adama Kenema,Mekelakeya,1,3,0,2
+1482231,1766754000,20030,4123,Ethiopian Medhin,Sidama Bunna,1,1,1,1
+1482232,1767002400,4117,4127,Fasil Ketema,Mebrat Hayl,1,0,0,0
+1482233,1767009600,4124,4126,Welayta Dicha,Arba Minch Kenema,0,0,0,0
+1482236,1767013200,4125,4112,Welwalo Adigrat Uni,Bahardar,0,0,0,0
+1482234,1767020400,4121,4119,Mekelle Kenema,Kedus Giorgis,1,1,0,1
+1482318,1767088800,4115,26881,Dire Dawa Kenema,Negelle Arsi,0,3,0,1
+1482237,1767096000,4111,9983,Awassa Kenema,Hadiya Hosaena,0,1,0,1
+1482235,1767099600,9986,4110,Suhul Shire,Adama Kenema,0,1,0,0
+1482317,1767106800,4123,26880,Sidama Bunna,Sheger Ketema,2,0,0,0
+1482238,1767182400,4120,4116,Mekelakeya,Ethiopia Bunna,0,1,0,1
+1482239,1767186000,4130,20030,Ethiopia Nigd Bank,Ethiopian Medhin,2,1,0,1
+1482246,1767434400,4110,4117,Adama Kenema,Fasil Ketema,0,0,0,0
+1482240,1767441600,4119,4124,Kedus Giorgis,Welayta Dicha,1,1,0,1
+1482243,1767445200,4127,4125,Mebrat Hayl,Welwalo Adigrat Uni,0,0,0,0
+1482242,1767452400,4126,4111,Arba Minch Kenema,Awassa Kenema,0,0,0,0
+1482320,1767520800,26881,4120,Negelle Arsi,Mekelakeya,2,0,2,0
+1482319,1767528000,26880,4130,Sheger Ketema,Ethiopia Nigd Bank,1,1,1,1
+1482241,1767531600,4116,9986,Ethiopia Bunna,Suhul Shire,1,3,1,2
+1482245,1767538800,9983,4123,Hadiya Hosaena,Sidama Bunna,0,2,0,2
+1482244,1767614400,4112,4115,Bahardar,Dire Dawa Kenema,0,0,0,0
+1482247,1767618000,20030,4121,Ethiopian Medhin,Mekelle Kenema,0,1,0,1
+1482321,1767866400,9986,26881,Suhul Shire,Negelle Arsi,0,1,0,1
+1482248,1767877200,4123,4126,Sidama Bunna,Arba Minch Kenema,0,0,0,0
+1482249,1767877200,4125,4110,Welwalo Adigrat Uni,Adama Kenema,1,1,1,0
+1482250,1767960000,4111,4119,Awassa Kenema,Kedus Giorgis,1,0,0,0
+1482255,1767960000,4115,4127,Dire Dawa Kenema,Mebrat Hayl,0,0,0,0
+1482322,1767970800,4121,26880,Mekelle Kenema,Sheger Ketema,0,0,0,0
+1482252,1768039200,4120,4112,Mekelakeya,Bahardar,1,2,0,0
+1482253,1768046400,4130,9983,Ethiopia Nigd Bank,Hadiya Hosaena,0,0,0,0
+1482251,1768050000,4117,4116,Fasil Ketema,Ethiopia Bunna,0,2,0,0
+1482254,1768057200,4124,20030,Welayta Dicha,Ethiopian Medhin,1,2,1,1
+1482256,1768478400,20030,4125,Ethiopian Medhin,Welwalo Adigrat Uni,0,0,0,0
+1482260,1768482000,4112,4121,Bahardar,Mekelle Kenema,0,0,0,0
+1482324,1768557600,26880,4117,Sheger Ketema,Fasil Ketema,0,0,0,0
+1482323,1768564800,26881,4124,Negelle Arsi,Welayta Dicha,1,1,0,0
+1482261,1768568400,9983,9986,Hadiya Hosaena,Suhul Shire,3,1,1,1
+1482259,1768575600,4127,4130,Mebrat Hayl,Ethiopia Nigd Bank,2,1,1,0
+1482258,1768644000,4126,4120,Arba Minch Kenema,Mekelakeya,0,2,0,0
+1482263,1768651200,4116,4111,Ethiopia Bunna,Awassa Kenema,1,1,1,0
+1482262,1768654800,4119,4115,Kedus Giorgis,Dire Dawa Kenema,4,0,2,0
+1482257,1768662000,4110,4123,Adama Kenema,Sidama Bunna,2,2,0,2
+1482265,1768910400,4124,4112,Welayta Dicha,Bahardar,0,0,0,0
+1482264,1768921200,4121,4127,Mekelle Kenema,Mebrat Hayl,2,1,2,0
+1482325,1768989600,4125,26880,Welwalo Adigrat Uni,Sheger Ketema,1,1,1,1
+1482270,1768996800,4130,4110,Ethiopia Nigd Bank,Adama Kenema,2,3,1,2
+1482268,1769000400,9986,4126,Suhul Shire,Arba Minch Kenema,1,0,1,0
+1482326,1769007600,4111,26881,Awassa Kenema,Negelle Arsi,2,0,1,0
+1482269,1769076000,4115,20030,Dire Dawa Kenema,Ethiopian Medhin,0,0,0,0
+1482271,1769086800,4120,4119,Mekelakeya,Kedus Giorgis,2,0,2,0
+1482267,1769086800,4123,4116,Sidama Bunna,Ethiopia Bunna,3,0,1,0
+1482272,1769335200,9983,4125,Hadiya Hosaena,Welwalo Adigrat Uni,1,2,0,1
+1482276,1769342400,4110,4121,Adama Kenema,Mekelle Kenema,0,0,0,0
+1482274,1769346000,4126,4117,Arba Minch Kenema,Fasil Ketema,2,3,1,2
+1482273,1769353200,4112,4111,Bahardar,Awassa Kenema,0,0,0,0
+1482275,1769421600,4119,9986,Kedus Giorgis,Suhul Shire,0,0,0,0
+1482279,1769432400,4127,4124,Mebrat Hayl,Welayta Dicha,0,0,0,0
+1482277,1769432400,20030,4120,Ethiopian Medhin,Mekelakeya,0,1,0,1
+1482328,1769515200,26880,4115,Sheger Ketema,Dire Dawa Kenema,0,0,0,0
+1482327,1769515200,26881,4123,Negelle Arsi,Sidama Bunna,1,0,0,0
+1482278,1769526000,4116,4130,Ethiopia Bunna,Ethiopia Nigd Bank,0,1,0,0
+1482284,1769774400,4111,4127,Awassa Kenema,Mebrat Hayl,2,0,0,0
+1482283,1769774400,9986,20030,Suhul Shire,Ethiopian Medhin,0,0,0,0
+1482282,1769785200,4124,4110,Welayta Dicha,Adama Kenema,1,1,1,0
+1482285,1769853600,4115,9983,Dire Dawa Kenema,Hadiya Hosaena,2,0,0,0
+1482329,1769864400,4120,26880,Mekelakeya,Sheger Ketema,0,1,0,0
+1482280,1769864400,4123,4112,Sidama Bunna,Bahardar,1,1,0,0
+1482281,1769940000,4125,4126,Welwalo Adigrat Uni,Arba Minch Kenema,1,2,0,0
+1482286,1769947200,4121,4116,Mekelle Kenema,Ethiopia Bunna,1,1,1,1
+1482287,1769950800,4117,4119,Fasil Ketema,Kedus Giorgis,1,0,0,0
+1482330,1769958000,4130,26881,Ethiopia Nigd Bank,Negelle Arsi,0,2,0,1
+1482331,1770199200,26880,9986,Sheger Ketema,Suhul Shire,0,0,0,0
+1482288,1770206400,4127,4123,Mebrat Hayl,Sidama Bunna,0,0,0,0
+1482294,1770210000,4110,4111,Adama Kenema,Awassa Kenema,0,2,0,2
+1482289,1770210000,9983,4120,Hadiya Hosaena,Mekelakeya,1,1,1,1
+1482291,1770285600,20030,4117,Ethiopian Medhin,Fasil Ketema,0,0,0,0
+1482292,1770292800,4112,4130,Bahardar,Ethiopia Nigd Bank,2,2,0,0
+1482293,1770296400,4119,4125,Kedus Giorgis,Welwalo Adigrat Uni,1,1,1,1
+1482332,1770303600,26881,4121,Negelle Arsi,Mekelle Kenema,1,0,1,0
+1482295,1770379200,4126,4115,Arba Minch Kenema,Dire Dawa Kenema,1,1,1,1
+1482290,1770382800,4116,4124,Ethiopia Bunna,Welayta Dicha,1,0,1,0
+1482266,1770638400,4117,9983,Fasil Ketema,Hadiya Hosaena,0,1,0,0
+1521073,1771675200,4124,4120,Welayta Dicha,Mekelakeya,4,3,0,2
+1521071,1771675200,9983,4112,Hadiya Hosaena,Bahardar,0,1,0,1
+1521074,1771686000,4130,4117,Ethiopia Nigd Bank,Fasil Ketema,3,1,1,0
+1521075,1771686000,20030,4110,Ethiopian Medhin,Adama Kenema,0,1,0,0
+1521077,1771761600,4111,4115,Awassa Kenema,Dire Dawa Kenema,1,1,0,1
+1521076,1771761600,4126,26881,Arba Minch Kenema,Negelle Arsi,1,1,0,1
+1521079,1771772400,4123,4125,Sidama Bunna,Welwalo Adigrat Uni,0,0,0,0
+1521078,1771772400,26880,4127,Sheger Ketema,Mebrat Hayl,0,0,0,0
+1521080,1771851600,4121,9986,Mekelle Kenema,Suhul Shire,1,0,0,0
+1521081,1772024400,20030,4119,Ethiopian Medhin,Kedus Giorgis,3,0,1,0
+1521082,1772107200,4110,26880,Adama Kenema,Sheger Ketema,3,3,1,0
+1521083,1772107200,4115,4124,Dire Dawa Kenema,Welayta Dicha,0,2,0,0
+1521084,1772118000,4120,4121,Mekelakeya,Mekelle Kenema,0,0,0,0
+1521085,1772118000,26881,4116,Negelle Arsi,Ethiopia Bunna,0,1,0,0
+1521086,1772193600,4127,9983,Mebrat Hayl,Hadiya Hosaena,0,1,0,0
+1521087,1772193600,9986,4130,Suhul Shire,Ethiopia Nigd Bank,2,1,0,0
+1521088,1772204400,4112,4126,Bahardar,Arba Minch Kenema,0,2,0,2
+1521089,1772204400,4117,4125,Fasil Ketema,Welwalo Adigrat Uni,1,2,1,0
+1521090,1772283600,4111,4123,Awassa Kenema,Sidama Bunna,1,2,0,1
+1522256,1772539200,4119,26881,Kedus Giorgis,Negelle Arsi,0,0,0,0
+1522255,1772539200,4130,4120,Ethiopia Nigd Bank,Mekelakeya,0,2,0,1
+1522258,1772550000,4125,9986,Welwalo Adigrat Uni,Suhul Shire,1,0,1,0
+1522257,1772550000,26880,20030,Sheger Ketema,Ethiopian Medhin,1,1,0,0
+1522259,1772625600,4116,4112,Ethiopia Bunna,Bahardar,2,0,1,0
+1522260,1772625600,4123,4117,Sidama Bunna,Fasil Ketema,1,0,0,0
+1522262,1772636400,4124,4111,Welayta Dicha,Awassa Kenema,1,1,1,1
+1522261,1772636400,4126,4127,Arba Minch Kenema,Mebrat Hayl,1,4,0,3
+1522264,1772715600,4121,4115,Mekelle Kenema,Dire Dawa Kenema,1,2,0,1
+1522263,1772715600,9983,4110,Hadiya Hosaena,Adama Kenema,1,1,0,0
+1522265,1772971200,4120,4125,Mekelakeya,Welwalo Adigrat Uni,0,0,0,0
+1522266,1772971200,26880,4119,Sheger Ketema,Kedus Giorgis,1,0,0,0
+1522268,1772982000,4124,4123,Welayta Dicha,Sidama Bunna,3,1,2,0
+1522267,1772982000,4127,4116,Mebrat Hayl,Ethiopia Bunna,2,1,1,0
+1522269,1773057600,4112,26881,Bahardar,Negelle Arsi,0,0,0,0
+1522270,1773057600,9986,4117,Suhul Shire,Fasil Ketema,1,1,0,0
+1522271,1773068400,4115,4130,Dire Dawa Kenema,Ethiopia Nigd Bank,1,2,0,1
+1522272,1773068400,20030,9983,Ethiopian Medhin,Hadiya Hosaena,1,1,1,1
+1522273,1773147600,4110,4126,Adama Kenema,Arba Minch Kenema,0,2,0,1
+1522274,1773147600,4111,4121,Awassa Kenema,Mekelle Kenema,1,0,0,0
+1522275,1773403200,4117,4120,Fasil Ketema,Mekelakeya,0,0,0,0
+1522276,1773403200,9983,26880,Hadiya Hosaena,Sheger Ketema,0,2,0,0
+1522278,1773414000,4119,4112,Kedus Giorgis,Bahardar,0,2,0,0
+1522277,1773414000,4123,9986,Sidama Bunna,Suhul Shire,2,0,0,0
+1522280,1773489600,4125,4115,Welwalo Adigrat Uni,Dire Dawa Kenema,1,0,1,0
+1522279,1773489600,4126,20030,Arba Minch Kenema,Ethiopian Medhin,0,2,0,2
+1522281,1773500400,4116,4110,Ethiopia Bunna,Adama Kenema,3,2,2,2
+1522282,1773500400,4130,4111,Ethiopia Nigd Bank,Awassa Kenema,4,2,2,1
+1522283,1773579600,4121,4124,Mekelle Kenema,Welayta Dicha,0,0,0,0
+1522284,1773579600,26881,4127,Negelle Arsi,Mebrat Hayl,0,2,0,2
+1533801,1775210400,4127,4112,Mebrat Hayl,Bahardar,0,0,0,0
+1533802,1775217600,4115,4117,Dire Dawa Kenema,Fasil Ketema,0,0,0,0
+1533803,1775221200,26880,4126,Sheger Ketema,Arba Minch Kenema,1,2,0,2
+1533804,1775228400,4120,9986,Mekelakeya,Suhul Shire,1,1,0,0
+1533805,1775296800,9983,4119,Hadiya Hosaena,Kedus Giorgis,1,2,0,1
+1533806,1775304000,4124,4130,Welayta Dicha,Ethiopia Nigd Bank,0,0,0,0
+1533807,1775307600,20030,4116,Ethiopian Medhin,Ethiopia Bunna,0,1,0,0
+1533808,1775314800,4121,4123,Mekelle Kenema,Sidama Bunna,0,1,0,1
+1533809,1775390400,4110,26881,Adama Kenema,Negelle Arsi,1,2,0,0
+1533810,1775394000,4111,4125,Awassa Kenema,Welwalo Adigrat Uni,2,2,1,0
+1533811,1775642400,4116,26880,Ethiopia Bunna,Sheger Ketema,1,1,0,1
+1533812,1775649600,4130,4121,Ethiopia Nigd Bank,Mekelle Kenema,3,0,2,0
+1533813,1775653200,4119,4127,Kedus Giorgis,Mebrat Hayl,2,1,0,1
+1533814,1775660400,9986,4115,Suhul Shire,Dire Dawa Kenema,0,1,0,1
+1533815,1775728800,26881,20030,Negelle Arsi,Ethiopian Medhin,1,1,1,0
+1533816,1775736000,4117,4111,Fasil Ketema,Awassa Kenema,1,0,0,0
+1533817,1775739600,4126,9983,Arba Minch Kenema,Hadiya Hosaena,0,1,0,1
+1533818,1775746800,4125,4124,Welwalo Adigrat Uni,Welayta Dicha,0,1,0,0
+1533819,1775822400,4112,4110,Bahardar,Adama Kenema,2,1,1,1
+1533820,1775826000,4123,4120,Sidama Bunna,Mekelakeya,1,3,1,1
+1533821,1776074400,26880,26881,Sheger Ketema,Negelle Arsi,1,1,0,0
+1533822,1776081600,4121,4125,Mekelle Kenema,Welwalo Adigrat Uni,2,1,1,0
+1533823,1776085200,4126,4119,Arba Minch Kenema,Kedus Giorgis,2,2,1,2
+1533825,1776160800,4110,4127,Adama Kenema,Mebrat Hayl,0,1,0,1
+1533826,1776168000,4130,4123,Ethiopia Nigd Bank,Sidama Bunna,0,1,0,1
+1533827,1776171600,9983,4116,Hadiya Hosaena,Ethiopia Bunna,2,2,1,2
+1533828,1776178800,4124,4117,Welayta Dicha,Fasil Ketema,0,1,0,1
+1533824,1776254400,4111,9986,Awassa Kenema,Suhul Shire,0,0,0,0
+1533829,1776254400,20030,4112,Ethiopian Medhin,Bahardar,1,1,1,0
+1533830,1776265200,4115,4120,Dire Dawa Kenema,Mekelakeya,1,2,1,2
+1533832,1776513600,4117,4121,Fasil Ketema,Mekelle Kenema,0,3,0,0
+1533834,1776524400,4125,4130,Welwalo Adigrat Uni,Ethiopia Nigd Bank,2,0,1,0
+1533831,1776592800,4116,4126,Ethiopia Bunna,Arba Minch Kenema,1,1,1,0
+1533836,1776600000,4123,4115,Sidama Bunna,Dire Dawa Kenema,2,0,0,0
+1533833,1776603600,26881,9983,Negelle Arsi,Hadiya Hosaena,1,1,0,0
+1533838,1776610800,4120,4111,Mekelakeya,Awassa Kenema,0,0,0,0
+1533835,1776679200,4112,26880,Bahardar,Sheger Ketema,0,2,0,2
+1533839,1776690000,4127,20030,Mebrat Hayl,Ethiopian Medhin,1,1,0,0
+1533840,1776690000,9986,4124,Suhul Shire,Welayta Dicha,0,1,0,0
+1533837,1776772800,4119,4110,Kedus Giorgis,Adama Kenema,1,0,0,0
+1521072,1777204800,4119,4116,Kedus Giorgis,Ethiopia Bunna,1,3,1,1
+1541025,1777456800,20030,4111,Ethiopian Medhin,Awassa Kenema,2,1,1,1
+1541026,1777464000,4127,4120,Mebrat Hayl,Mekelakeya,0,1,0,0
+1541027,1777467600,26880,4124,Sheger Ketema,Welayta Dicha,0,0,0,0
+1541028,1777474800,4110,4115,Adama Kenema,Dire Dawa Kenema,1,1,1,0
+1541029,1777543200,9983,4121,Hadiya Hosaena,Mekelle Kenema,1,1,0,0
+1541030,1777550400,26881,4117,Negelle Arsi,Fasil Ketema,0,0,0,0
+1541031,1777554000,4126,4130,Arba Minch Kenema,Ethiopia Nigd Bank,0,0,0,0
+1541032,1777561200,4116,4125,Ethiopia Bunna,Welwalo Adigrat Uni,2,4,2,2
+1541033,1777633200,4119,4123,Kedus Giorgis,Sidama Bunna,0,0,0,0
+1541034,1777640400,4112,9986,Bahardar,Suhul Shire,1,1,1,1
+1541035,1777890600,4124,9983,Welayta Dicha,Hadiya Hosaena,1,0,1,0
+1541037,1777899600,4120,4110,Mekelakeya,Adama Kenema,0,0,0,0
+1541036,1777901400,4111,26880,Awassa Kenema,Sheger Ketema,1,1,1,0
+1541038,1777975200,4130,4119,Ethiopia Nigd Bank,Kedus Giorgis,2,0,0,0
+1541039,1777982400,4115,4116,Dire Dawa Kenema,Ethiopia Bunna,0,0,0,0
+1541040,1777986000,4121,4126,Mekelle Kenema,Arba Minch Kenema,0,2,0,1
+1541041,1777993200,9986,4127,Suhul Shire,Mebrat Hayl,1,0,1,0
+1541042,1778068800,4117,4112,Fasil Ketema,Bahardar,0,2,0,0
+1541043,1778068800,4123,20030,Sidama Bunna,Ethiopian Medhin,0,1,0,0
+1541044,1778079600,4125,26881,Welwalo Adigrat Uni,Negelle Arsi,1,2,1,1
+1541045,1778320800,4119,4121,Kedus Giorgis,Mekelle Kenema,1,0,0,0
+1541046,1778328000,4110,9986,Adama Kenema,Suhul Shire,4,0,2,0
+1541047,1778331600,9983,4111,Hadiya Hosaena,Awassa Kenema,1,0,0,0
+1541048,1778338800,4116,4120,Ethiopia Bunna,Mekelakeya,1,1,1,1
+1541049,1778407200,26880,4123,Sheger Ketema,Sidama Bunna,1,0,1,0
+1541050,1778414400,4112,4125,Bahardar,Welwalo Adigrat Uni,0,0,0,0
+1541051,1778418000,4126,4124,Arba Minch Kenema,Welayta Dicha,2,3,0,1
+1541052,1778425200,4127,4117,Mebrat Hayl,Fasil Ketema,3,1,0,0
+1541053,1778500800,20030,4130,Ethiopian Medhin,Ethiopia Nigd Bank,2,1,0,0
+1541054,1778504400,26881,4115,Negelle Arsi,Dire Dawa Kenema,3,0,2,0
+1541055,1778752800,4123,9983,Sidama Bunna,Hadiya Hosaena,0,1,0,0
+1541056,1778760000,9986,4116,Suhul Shire,Ethiopia Bunna,1,0,1,0
+1541057,1778763600,4124,4119,Welayta Dicha,Kedus Giorgis,0,0,0,0
+1541058,1778770800,4120,26881,Mekelakeya,Negelle Arsi,4,0,2,0
+1541059,1778839200,4121,20030,Mekelle Kenema,Ethiopian Medhin,1,1,0,0
+1541060,1778850000,4115,4112,Dire Dawa Kenema,Bahardar,0,2,0,1
+1541061,1778850000,4130,26880,Ethiopia Nigd Bank,Sheger Ketema,2,1,1,0
+1541062,1778932800,4111,4126,Awassa Kenema,Arba Minch Kenema,0,0,0,0
+1541063,1778932800,4125,4127,Welwalo Adigrat Uni,Mebrat Hayl,2,1,1,1
+1541064,1778943600,4117,4110,Fasil Ketema,Adama Kenema,3,1,1,1
+1541065,1779184800,20030,4124,Ethiopian Medhin,Welayta Dicha,0,0,0,0
+1541066,1779195600,4112,4120,Bahardar,Mekelakeya,1,1,1,0
+1541067,1779195600,9983,4130,Hadiya Hosaena,Ethiopia Nigd Bank,0,0,0,0
+1541068,1779271200,26880,4121,Sheger Ketema,Mekelle Kenema,0,1,0,0
+1541069,1779278400,4116,4117,Ethiopia Bunna,Fasil Ketema,2,1,0,1
+1541070,1779282000,4119,4111,Kedus Giorgis,Awassa Kenema,1,0,1,0
+1541071,1779289200,4127,4115,Mebrat Hayl,Dire Dawa Kenema,1,1,1,0
+1541072,1779364800,4110,4125,Adama Kenema,Welwalo Adigrat Uni,0,0,0,0
+1541073,1779364800,4126,4123,Arba Minch Kenema,Sidama Bunna,0,3,0,2
+1541074,1779375600,26881,9986,Negelle Arsi,Suhul Shire,0,0,0,0
+1541077,1779969600,4111,4116,Awassa Kenema,Ethiopia Bunna,1,0,0,0
+1541076,1779969600,4115,4119,Dire Dawa Kenema,Kedus Giorgis,1,2,1,2
+1541078,1779980400,4120,4126,Mekelakeya,Arba Minch Kenema,1,2,0,1
+1541080,1780056000,9986,9983,Suhul Shire,Hadiya Hosaena,1,1,0,1
+1541082,1780066800,4117,26880,Fasil Ketema,Sheger Ketema,0,1,0,0
+1541079,1780122600,4130,4127,Ethiopia Nigd Bank,Mebrat Hayl,2,1,1,0
+1541075,1780135200,4123,4110,Sidama Bunna,Adama Kenema,1,0,1,0
+1541083,1780146000,4121,4112,Mekelle Kenema,Bahardar,0,0,0,0
+1541084,1780146000,4125,20030,Welwalo Adigrat Uni,Ethiopian Medhin,1,1,1,1
+1541081,1780574400,4124,26881,Welayta Dicha,Negelle Arsi,0,0,0,0
+1541085,1781438400,4116,4123,Ethiopia Bunna,Sidama Bunna,1,2,1,1
+1541086,1781438400,4119,4120,Kedus Giorgis,Mekelakeya,3,0,1,0
+1541087,1781449200,20030,4115,Ethiopian Medhin,Dire Dawa Kenema,1,0,1,0
+1541088,1781517600,26881,4111,Negelle Arsi,Awassa Kenema,2,1,1,0
+1541089,1781524800,4126,9986,Arba Minch Kenema,Suhul Shire,2,0,1,0
+1541090,1781528400,4110,4130,Adama Kenema,Ethiopia Nigd Bank,2,1,1,0
+1541091,1781535600,9983,4117,Hadiya Hosaena,Fasil Ketema,0,1,0,1
+1541092,1781604000,4127,4121,Mebrat Hayl,Mekelle Kenema,0,0,0,0
+1541093,1781614800,4112,4124,Bahardar,Welayta Dicha,0,2,0,1
+1541094,1781614800,26880,4125,Sheger Ketema,Welwalo Adigrat Uni,0,0,0,0
+1541095,1781949600,4130,4116,Ethiopia Nigd Bank,Ethiopia Bunna,0,0,0,0
+1541104,1781960400,4115,26880,Dire Dawa Kenema,Sheger Ketema,2,0,1,0
+1541097,1781960400,4123,26881,Sidama Bunna,Negelle Arsi,1,1,1,0
+1541099,1782036000,4111,4112,Awassa Kenema,Bahardar,0,0,0,0
+1541102,1782043200,4120,20030,Mekelakeya,Ethiopian Medhin,1,0,0,0
+1541101,1782046800,4121,4110,Mekelle Kenema,Adama Kenema,0,0,0,0
+1541096,1782111600,9986,4119,Suhul Shire,Kedus Giorgis,0,0,0,0
+1541098,1782129600,4117,4126,Fasil Ketema,Arba Minch Kenema,2,0,1,0
+1541103,1782129600,4124,4127,Welayta Dicha,Mebrat Hayl,1,2,1,1
+1541100,1782140400,4125,9983,Welwalo Adigrat Uni,Hadiya Hosaena,0,1,0,1
+1541105,1782468000,26881,4130,Negelle Arsi,Ethiopia Nigd Bank,2,0,1,0
+1541106,1782475200,4119,4117,Kedus Giorgis,Fasil Ketema,1,0,1,0
+1541107,1782478800,4116,4121,Ethiopia Bunna,Mekelle Kenema,3,0,1,0
+1541108,1782486000,4126,4125,Arba Minch Kenema,Welwalo Adigrat Uni,0,1,0,1
+1541110,1782561600,9983,4115,Hadiya Hosaena,Dire Dawa Kenema,1,1,1,0
+1541111,1782572400,20030,9986,Ethiopian Medhin,Suhul Shire,0,3,0,2
+1541109,1782630000,4110,4124,Adama Kenema,Welayta Dicha,0,2,0,0
+1541112,1782640800,4112,4123,Bahardar,Sidama Bunna,0,1,0,1
+1541113,1782651600,4127,4111,Mebrat Hayl,Awassa Kenema,1,1,1,0
+1541114,1782651600,26880,4120,Sheger Ketema,Mekelakeya,2,0,2,0
+1541116,1782907200,4115,4126,Dire Dawa Kenema,Arba Minch Kenema,2,1,0,1
+1541117,1782907200,4121,26881,Mekelle Kenema,Negelle Arsi,3,0,2,0
+1541120,1782918000,4117,20030,Fasil Ketema,Ethiopian Medhin,1,0,0,0
+1541121,1782993600,4111,4110,Awassa Kenema,Adama Kenema,2,3,1,3
+1541118,1782993600,4125,4119,Welwalo Adigrat Uni,Kedus Giorgis,1,1,1,1
+1541124,1782993600,9986,26880,Suhul Shire,Sheger Ketema,0,2,0,0
+1541119,1783062000,4130,4112,Ethiopia Nigd Bank,Bahardar,2,2,1,0
+1541115,1783072800,4124,4116,Welayta Dicha,Ethiopia Bunna,0,0,0,0
+1541122,1783083600,4120,9983,Mekelakeya,Hadiya Hosaena,0,0,0,0
+1541123,1783256400,4123,4127,Sidama Bunna,Mebrat Hayl,0,1,0,0

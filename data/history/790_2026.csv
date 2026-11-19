@@ -1,0 +1,79 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1633614,1787929200,6865,24842,Ghiroda şi Giarmata Vii,Timişul Şag,0,2,,
+1633617,1787929200,28329,6853,Poli Timisoara 2,Cetate Deva,1,4,,
+1633615,1788015600,6876,24841,Metalurgistul Cugir,CIL Blaj,0,2,0.0,0.0
+1633618,1788015600,6911,26682,Unirea Alba Iulia,Unirea Sântana,1,0,0.0,0.0
+1633616,1788015600,19178,14596,Nera Bogodinţi,Universitatea Alba Iulia,0,0,0.0,0.0
+1633619,1788015600,21680,7483,Viitorul Arad,Progresul Pecica,0,0,0.0,0.0
+1633621,1788530400,6865,6876,Ghiroda şi Giarmata Vii,Metalurgistul Cugir,3,3,2.0,1.0
+1633622,1788530400,7483,28329,Progresul Pecica,Poli Timisoara 2,5,2,2.0,1.0
+1633625,1788530400,14596,21680,Universitatea Alba Iulia,Viitorul Arad,2,2,1.0,0.0
+1633624,1788530400,24842,6853,Timişul Şag,Cetate Deva,1,1,1.0,0.0
+1633620,1788616800,24841,6911,CIL Blaj,Unirea Alba Iulia,2,1,1.0,0.0
+1633623,1788616800,26682,19178,Unirea Sântana,Nera Bogodinţi,2,0,0.0,0.0
+1633626,1789135200,6853,7483,Cetate Deva,Progresul Pecica,3,1,1.0,0.0
+1633627,1789135200,6876,24842,Metalurgistul Cugir,Timişul Şag,0,1,0.0,0.0
+1633629,1789135200,28329,14596,Poli Timisoara 2,Universitatea Alba Iulia,3,2,1.0,1.0
+1633630,1789221600,6911,6865,Unirea Alba Iulia,Ghiroda şi Giarmata Vii,0,0,0.0,0.0
+1633628,1789221600,19178,24841,Nera Bogodinţi,CIL Blaj,1,2,0.0,0.0
+1633631,1789221600,21680,26682,Viitorul Arad,Unirea Sântana,1,0,0.0,0.0
+1633636,1789732800,24842,7483,Timişul Şag,Progresul Pecica,3,0,2.0,0.0
+1633633,1789740000,6865,19178,Ghiroda şi Giarmata Vii,Nera Bogodinţi,2,1,1.0,0.0
+1633634,1789740000,6876,6911,Metalurgistul Cugir,Unirea Alba Iulia,2,2,0.0,1.0
+1633637,1789740000,14596,6853,Universitatea Alba Iulia,Cetate Deva,0,0,0.0,0.0
+1633632,1789740000,24841,21680,CIL Blaj,Viitorul Arad,3,1,2.0,0.0
+1633635,1789826400,26682,28329,Unirea Sântana,Poli Timisoara 2,4,1,1.0,1.0
+1633638,1790085600,6853,26682,Cetate Deva,Unirea Sântana,0,3,0.0,2.0
+1633642,1790085600,6911,24842,Unirea Alba Iulia,Timişul Şag,3,0,2.0,0.0
+1633641,1790085600,7483,14596,Progresul Pecica,Universitatea Alba Iulia,6,0,3.0,0.0
+1633640,1790085600,28329,24841,Poli Timisoara 2,CIL Blaj,1,2,0.0,1.0
+1633639,1790172000,19178,6876,Nera Bogodinţi,Metalurgistul Cugir,0,3,0.0,1.0
+1633643,1790172000,21680,6865,Viitorul Arad,Ghiroda şi Giarmata Vii,1,1,1.0,0.0
+1633648,1790344800,24842,14596,Timişul Şag,Universitatea Alba Iulia,1,0,0.0,0.0
+1633645,1790431200,6865,28329,Ghiroda şi Giarmata Vii,Poli Timisoara 2,1,0,0.0,0.0
+1633646,1790431200,6876,21680,Metalurgistul Cugir,Viitorul Arad,1,3,1.0,2.0
+1633649,1790431200,6911,19178,Unirea Alba Iulia,Nera Bogodinţi,10,0,4.0,0.0
+1633644,1790431200,24841,6853,CIL Blaj,Cetate Deva,5,5,2.0,3.0
+1633647,1790431200,26682,7483,Unirea Sântana,Progresul Pecica,4,1,2.0,0.0
+1633654,1790942400,14596,26682,Universitatea Alba Iulia,Unirea Sântana,0,1,0.0,1.0
+1633652,1790942400,28329,6876,Poli Timisoara 2,Metalurgistul Cugir,1,1,1.0,1.0
+1633650,1791028800,6853,6865,Cetate Deva,Ghiroda şi Giarmata Vii,5,1,2.0,0.0
+1633653,1791028800,7483,24841,Progresul Pecica,CIL Blaj,2,1,2.0,1.0
+1633651,1791028800,19178,24842,Nera Bogodinţi,Timişul Şag,0,0,0.0,0.0
+1633655,1791028800,21680,6911,Viitorul Arad,Unirea Alba Iulia,0,4,0.0,3.0
+1633657,1791540000,6865,7483,Ghiroda şi Giarmata Vii,Progresul Pecica,5,0,2.0,0.0
+1633658,1791547200,6876,6853,Metalurgistul Cugir,Cetate Deva,0,2,0.0,0.0
+1633656,1791547200,24841,14596,CIL Blaj,Universitatea Alba Iulia,2,2,2.0,0.0
+1633660,1791547200,24842,26682,Timişul Şag,Unirea Sântana,2,1,2.0,0.0
+1633661,1791633600,6911,28329,Unirea Alba Iulia,Poli Timisoara 2,2,0,0.0,0.0
+1633659,1791633600,19178,21680,Nera Bogodinţi,Viitorul Arad,1,4,1.0,1.0
+1633662,1792152000,6853,6911,Cetate Deva,Unirea Alba Iulia,1,2,0.0,1.0
+1633666,1792152000,14596,6865,Universitatea Alba Iulia,Ghiroda şi Giarmata Vii,0,2,0.0,0.0
+1633663,1792152000,28329,19178,Poli Timisoara 2,Nera Bogodinţi,1,0,1.0,0.0
+1633664,1792238400,7483,6876,Progresul Pecica,Metalurgistul Cugir,1,2,0.0,1.0
+1633667,1792238400,21680,24842,Viitorul Arad,Timişul Şag,1,0,1.0,0.0
+1633665,1792238400,26682,24841,Unirea Sântana,CIL Blaj,0,0,0.0,0.0
+1633668,1792756800,6865,26682,Ghiroda şi Giarmata Vii,Unirea Sântana,3,0,3.0,0.0
+1633669,1792756800,6876,14596,Metalurgistul Cugir,Universitatea Alba Iulia,2,1,0.0,0.0
+1633671,1792756800,24842,24841,Timişul Şag,CIL Blaj,3,0,1.0,0.0
+1633672,1792843200,6911,7483,Unirea Alba Iulia,Progresul Pecica,4,0,2.0,0.0
+1633670,1792843200,19178,6853,Nera Bogodinţi,Cetate Deva,1,2,0.0,2.0
+1633673,1792843200,21680,28329,Viitorul Arad,Poli Timisoara 2,2,1,0.0,0.0
+1633677,1793358000,7483,19178,Progresul Pecica,Nera Bogodinţi,2,1,1.0,0.0
+1633675,1793365200,6853,21680,Cetate Deva,Viitorul Arad,1,4,0.0,1.0
+1633679,1793365200,14596,6911,Universitatea Alba Iulia,Unirea Alba Iulia,0,3,0.0,2.0
+1633676,1793365200,28329,24842,Poli Timisoara 2,Timişul Şag,1,4,1.0,2.0
+1633674,1793451600,24841,6865,CIL Blaj,Ghiroda şi Giarmata Vii,2,2,0.0,1.0
+1633678,1793451600,26682,6876,Unirea Sântana,Metalurgistul Cugir,0,0,0.0,0.0
+1633682,1793962800,7483,21680,Progresul Pecica,Viitorul Arad,2,3,0.0,1.0
+1633681,1793966400,6853,28329,Cetate Deva,Poli Timisoara 2,2,1,1.0,1.0
+1633685,1793966400,14596,19178,Universitatea Alba Iulia,Nera Bogodinţi,3,0,0.0,0.0
+1633684,1793966400,24842,6865,Timişul Şag,Ghiroda şi Giarmata Vii,1,0,0.0,0.0
+1633680,1794052800,24841,6876,CIL Blaj,Metalurgistul Cugir,2,0,2.0,0.0
+1633683,1794052800,26682,6911,Unirea Sântana,Unirea Alba Iulia,0,2,0.0,0.0
+1633689,1794567600,28329,7483,Poli Timisoara 2,Progresul Pecica,1,1,1.0,0.0
+1633686,1794571200,6853,24842,Cetate Deva,Timişul Şag,1,1,0.0,0.0
+1633687,1794571200,6876,6865,Metalurgistul Cugir,Ghiroda şi Giarmata Vii,0,3,0.0,3.0
+1633690,1794657600,6911,24841,Unirea Alba Iulia,CIL Blaj,2,1,0.0,0.0
+1633688,1794657600,19178,26682,Nera Bogodinţi,Unirea Sântana,1,2,0.0,1.0
+1633691,1794657600,21680,14596,Viitorul Arad,Universitatea Alba Iulia,1,2,0.0,2.0

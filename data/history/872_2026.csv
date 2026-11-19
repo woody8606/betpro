@@ -1,0 +1,40 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1631606,1788044400,28298,26395,Cruz Azul Lagunas,Gorilas de Juanacatlan,1,0,1.0,0.0
+1631608,1788048000,22054,17806,Deportivo Ayense,Huracanes Izcalli,2,0,1.0,0.0
+1631610,1788537600,28297,28298,Celaya 2,Cruz Azul Lagunas,1,1,1.0,0.0
+1631611,1788557400,17806,28302,Huracanes Izcalli,Racing de Veracruz 2,0,2,0.0,2.0
+1631612,1788631200,28300,26524,Irapuato II,Atletico Hidalgo,2,1,,
+1631613,1788645600,26395,22054,Gorilas de Juanacatlan,Deportivo Ayense,1,0,0.0,0.0
+1631614,1789250400,28299,28301,Internacional Laguna,Heroes de Zaci 2,0,2,0.0,2.0
+1631616,1789768800,28301,17806,Heroes de Zaci 2,Huracanes Izcalli,0,2,0.0,0.0
+1631615,1789772400,28297,28300,Celaya 2,Irapuato II,2,1,1.0,1.0
+1631617,1789855200,28298,22054,Cruz Azul Lagunas,Deportivo Ayense,2,1,1.0,0.0
+1631618,1789941600,28299,26524,Internacional Laguna,Atletico Hidalgo,3,1,3.0,0.0
+1631619,1789941600,28302,26395,Racing de Veracruz 2,Gorilas de Juanacatlan,2,2,,
+1631605,1790460000,28301,28300,Heroes de Zaci 2,Irapuato II,0,3,0.0,1.0
+1631620,1790976600,17806,26524,Huracanes Izcalli,Atletico Hidalgo,6,1,4.0,0.0
+1631621,1791050400,28300,28298,Irapuato II,Cruz Azul Lagunas,2,1,,
+1631622,1791064800,26395,28301,Gorilas de Juanacatlan,Heroes de Zaci 2,6,2,2.0,1.0
+1631623,1791064800,28299,28297,Internacional Laguna,Celaya 2,2,3,1.0,1.0
+1631624,1791072000,22054,28302,Deportivo Ayense,Racing de Veracruz 2,1,2,1.0,0.0
+1631625,1792166400,28297,17806,Celaya 2,Huracanes Izcalli,1,1,1.0,1.0
+1631626,1792188000,28301,22054,Heroes de Zaci 2,Deportivo Ayense,0,0,0.0,0.0
+1631627,1792260000,28300,28299,Irapuato II,Internacional Laguna,1,1,0.0,0.0
+1631629,1792274400,26395,26524,Gorilas de Juanacatlan,Atletico Hidalgo,7,0,6.0,0.0
+1631628,1792274400,28298,28302,Cruz Azul Lagunas,Racing de Veracruz 2,0,1,0.0,1.0
+1631609,1792963800,28302,28299,Racing de Veracruz 2,Internacional Laguna,10,0,2.0,0.0
+1631631,1793484000,26395,28297,Gorilas de Juanacatlan,Celaya 2,3,1,0.0,0.0
+1631632,1793484000,28299,28298,Internacional Laguna,Cruz Azul Lagunas,1,2,1.0,2.0
+1631633,1793491200,22054,26524,Deportivo Ayense,Atletico Hidalgo,11,0,6.0,0.0
+1631634,1793568600,28302,28301,Racing de Veracruz 2,Heroes de Zaci 2,3,1,2.0,1.0
+1631639,1793980800,26524,28302,Atletico Hidalgo,Racing de Veracruz 2,0,10,0.0,6.0
+1631636,1794074400,28300,26395,Irapuato II,Gorilas de Juanacatlan,0,2,0.0,1.0
+1631635,1794087000,28297,22054,Celaya 2,Deportivo Ayense,2,0,1.0,0.0
+1631638,1794088800,28298,28301,Cruz Azul Lagunas,Heroes de Zaci 2,3,0,3.0,0.0
+1631637,1794088800,28299,17806,Internacional Laguna,Huracanes Izcalli,1,3,0.0,1.0
+1631607,1794412800,26524,28297,Atletico Hidalgo,Celaya 2,0,6,0.0,2.0
+1631640,1794607200,28301,26524,Heroes de Zaci 2,Atletico Hidalgo,3,2,3.0,1.0
+1631641,1794693600,26395,28299,Gorilas de Juanacatlan,Internacional Laguna,5,0,3.0,0.0
+1631642,1794693600,28298,17806,Cruz Azul Lagunas,Huracanes Izcalli,2,1,0.0,0.0
+1631643,1794700800,22054,28300,Deportivo Ayense,Irapuato II,1,2,0.0,2.0
+1631644,1794778200,28302,28297,Racing de Veracruz 2,Celaya 2,4,0,,

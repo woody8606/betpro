@@ -1,0 +1,85 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1421794,1755948600,4200,4201,Albirex Niigata S,Balestier Khalsa,2,2,2,1
+1421795,1756035000,4206,4203,Tampines Rovers,Geylang International,0,0,0,0
+1421796,1756121400,4204,4205,Home United,Hougang United,2,1,1,1
+1467062,1757676600,4203,4200,Geylang International,Albirex Niigata S,0,2,0,1
+1421797,1757763000,10077,4206,Tanjong Pagar,Tampines Rovers,0,3,0,1
+1421798,1757849400,4201,4204,Balestier Khalsa,Home United,0,5,0,1
+1421799,1758281400,4205,4203,Hougang United,Geylang International,0,2,0,2
+1421801,1758454200,4208,4201,Young Lions,Balestier Khalsa,1,2,1,1
+1421802,1758540600,10077,4204,Tanjong Pagar,Home United,0,7,0,5
+1421803,1758799800,10077,4208,Tanjong Pagar,Young Lions,5,1,1,1
+1421804,1759404600,4208,4205,Young Lions,Hougang United,0,2,0,0
+1421805,1760700600,4205,4200,Hougang United,Albirex Niigata S,0,4,0,2
+1421807,1760787000,4203,10077,Geylang International,Tanjong Pagar,2,1,1,0
+1421806,1760787000,4204,4208,Home United,Young Lions,5,1,2,1
+1421808,1760873400,4206,4201,Tampines Rovers,Balestier Khalsa,3,3,1,1
+1421809,1761305400,4201,10077,Balestier Khalsa,Tanjong Pagar,2,1,0,1
+1421810,1761391800,4208,4203,Young Lions,Geylang International,1,3,1,1
+1421811,1761564600,4204,4200,Home United,Albirex Niigata S,3,0,1,0
+1421812,1761564600,4205,4206,Hougang United,Tampines Rovers,1,2,0,0
+1421817,1768563000,4206,4208,Tampines Rovers,Young Lions,7,1,5,1
+1421818,1768649400,4200,10077,Albirex Niigata S,Tanjong Pagar,3,2,1,0
+1421819,1768735800,4201,4205,Balestier Khalsa,Hougang United,2,3,2,1
+1421820,1768735800,4203,4204,Geylang International,Home United,0,3,0,1
+1421821,1769167800,4203,4206,Geylang International,Tampines Rovers,1,3,0,1
+1421822,1769254200,4205,4204,Hougang United,Home United,1,5,1,3
+1421823,1769340600,4201,4200,Balestier Khalsa,Albirex Niigata S,0,4,0,2
+1421824,1769427000,4208,10077,Young Lions,Tanjong Pagar,1,1,1,1
+1421825,1769772600,4205,4208,Hougang United,Young Lions,2,0,1,0
+1421826,1769859000,4206,10077,Tampines Rovers,Tanjong Pagar,2,1,2,0
+1421827,1769945400,4204,4201,Home United,Balestier Khalsa,5,1,4,1
+1421828,1770031800,4200,4203,Albirex Niigata S,Geylang International,2,0,0,0
+1421829,1770377400,10077,4203,Tanjong Pagar,Geylang International,1,3,0,1
+1421830,1770463800,4201,4206,Balestier Khalsa,Tampines Rovers,0,3,0,1
+1421831,1770550200,4208,4204,Young Lions,Home United,0,2,0,2
+1421832,1770636600,4200,4205,Albirex Niigata S,Hougang United,2,1,2,0
+1421833,1770982200,4201,4208,Balestier Khalsa,Young Lions,3,1,1,0
+1421834,1771068600,4206,4200,Tampines Rovers,Albirex Niigata S,2,1,2,0
+1421835,1771155000,4203,4205,Geylang International,Hougang United,1,2,0,0
+1421836,1771155000,4204,10077,Home United,Tanjong Pagar,7,0,3,0
+1421837,1771590600,4201,4203,Balestier Khalsa,Geylang International,5,2,4,2
+1421838,1771677000,4208,4200,Young Lions,Albirex Niigata S,0,2,0,1
+1421839,1771763400,4204,4206,Home United,Tampines Rovers,1,1,1,1
+1421840,1771849800,4205,10077,Hougang United,Tanjong Pagar,3,0,2,0
+1421841,1772109000,4203,4208,Geylang International,Young Lions,1,1,1,1
+1421842,1772195400,4206,4205,Tampines Rovers,Hougang United,3,0,0,0
+1421843,1772281800,4200,4204,Albirex Niigata S,Home United,3,3,2,1
+1421844,1772368200,10077,4201,Tanjong Pagar,Balestier Khalsa,1,4,1,1
+1421845,1772800200,10077,4200,Tanjong Pagar,Albirex Niigata S,0,2,0,2
+1421847,1772886600,4204,4203,Home United,Geylang International,4,0,2,0
+1421846,1772973000,4208,4206,Young Lions,Tampines Rovers,0,5,0,3
+1421848,1773059400,4205,4201,Hougang United,Balestier Khalsa,1,2,1,0
+1421849,1773491400,4208,4205,Young Lions,Hougang United,0,2,0,0
+1421851,1773577800,4201,4204,Balestier Khalsa,Home United,0,3,0,2
+1421850,1773577800,4203,4200,Geylang International,Albirex Niigata S,1,0,0,0
+1421852,1773664200,10077,4206,Tanjong Pagar,Tampines Rovers,0,3,0,1
+1421854,1775302200,4200,4206,Albirex Niigata S,Tampines Rovers,3,2,1,2
+1421853,1775302200,4205,4203,Hougang United,Geylang International,0,1,0,1
+1421855,1775388600,4208,4201,Young Lions,Balestier Khalsa,0,2,0,0
+1477607,1775475000,10077,4204,Tanjong Pagar,Home United,0,4,0,1
+1421857,1775820600,10077,4208,Tanjong Pagar,Young Lions,0,1,0,1
+1421858,1775907000,4206,4203,Tampines Rovers,Geylang International,4,3,2,2
+1421859,1775993400,4204,4205,Home United,Hougang United,4,1,1,1
+1421860,1776079800,4201,4200,Balestier Khalsa,Albirex Niigata S,2,1,1,1
+1421861,1776425400,4206,4201,Tampines Rovers,Balestier Khalsa,2,1,0,0
+1421862,1776511800,4205,4200,Hougang United,Albirex Niigata S,0,4,0,1
+1421863,1776601200,4203,10077,Geylang International,Tanjong Pagar,2,1,1,1
+1421864,1776684600,4204,4208,Home United,Young Lions,2,0,0,0
+1421865,1777030200,4206,4208,Tampines Rovers,Young Lions,8,1,4,1
+1421866,1777116600,4200,10077,Albirex Niigata S,Tanjong Pagar,4,0,3,0
+1421867,1777203000,4203,4204,Geylang International,Home United,0,3,0,1
+1421868,1777289400,4201,4205,Balestier Khalsa,Hougang United,0,3,0,2
+1421800,1777548600,4200,4206,Albirex Niigata S,Tampines Rovers,2,1,1,1
+1421870,1777721400,4203,4201,Geylang International,Balestier Khalsa,2,3,1,2
+1421869,1777807800,4206,4204,Tampines Rovers,Home United,0,0,0,0
+1421871,1777894200,4200,4208,Albirex Niigata S,Young Lions,1,0,0,0
+1421872,1777982400,10077,4205,Tanjong Pagar,Hougang United,1,2,0,1
+1421873,1778326200,4201,10077,Balestier Khalsa,Tanjong Pagar,6,0,1,0
+1421874,1778326200,4208,4203,Young Lions,Geylang International,2,2,1,1
+1421875,1778412600,4204,4200,Home United,Albirex Niigata S,0,2,0,0
+1421876,1778412600,4205,4206,Hougang United,Tampines Rovers,0,1,0,0
+1421813,1778844600,4203,4201,Geylang International,Balestier Khalsa,3,4,2,1
+1421814,1778931000,4200,4208,Albirex Niigata S,Young Lions,3,0,2,0
+1421815,1779017400,4206,4204,Tampines Rovers,Home United,3,2,0,0
+1421816,1779103800,10077,4205,Tanjong Pagar,Hougang United,2,1,0,0

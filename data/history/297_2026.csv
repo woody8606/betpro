@@ -1,0 +1,91 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1602646,1788523200,6610,2786,Uttaradit,Muangthong United,0,0,0,0
+1602647,1788606000,17910,6604,Mahasarakham United,Songkhla,1,1,1,0
+1602648,1788607800,2863,13309,Chiangmai United,Esan Pattaya,0,1,0,0
+1602649,1788609600,6557,10086,Chanthaburi,Khon Kaen United,0,1,0,1
+1602650,1788611400,6578,2773,Nakhon Pathom,Nakhon Ratchasima FC,2,2,1,0
+1602652,1788692400,2775,6573,Police Tero,Muang Loei United,1,0,0,0
+1602651,1788692400,2781,6585,Chainat,Phrae United,3,1,1,0
+1602653,1788694200,2796,2800,Nong Bua Pitchaya,Kasetsart FC,2,0,2,0
+1602654,1788696000,22348,18051,Satun,Kanchanaburi,2,4,2,1
+1602655,1789128000,13309,2775,Esan Pattaya,Police Tero,0,3,0,1
+1602656,1789210800,2773,2863,Nakhon Ratchasima FC,Chiangmai United,1,2,1,2
+1602657,1789212600,10086,17910,Khon Kaen United,Mahasarakham United,3,0,2,0
+1602658,1789214400,6604,22348,Songkhla,Satun,1,3,1,0
+1602659,1789216200,2786,2796,Muangthong United,Nong Bua Pitchaya,2,1,0,1
+1602661,1789297200,6573,2781,Muang Loei United,Chainat,3,0,1,0
+1602660,1789297200,18051,6557,Kanchanaburi,Chanthaburi,0,0,0,0
+1602662,1789299000,2800,6610,Kasetsart FC,Uttaradit,0,2,0,1
+1602663,1789300800,6585,6578,Phrae United,Nakhon Pathom,0,0,0,0
+1602664,1789470000,2863,10086,Chiangmai United,Khon Kaen United,3,1,2,0
+1602666,1789473600,22348,2786,Satun,Muangthong United,3,0,1,0
+1602665,1789477200,2775,6604,Police Tero,Songkhla,0,3,0,0
+1602667,1789556400,2781,13309,Chainat,Esan Pattaya,0,0,0,0
+1602668,1789556400,6610,2796,Uttaradit,Nong Bua Pitchaya,2,2,0,2
+1602669,1789558200,6578,18051,Nakhon Pathom,Kanchanaburi,1,1,0,0
+1602670,1789560000,17910,2773,Mahasarakham United,Nakhon Ratchasima FC,1,1,1,0
+1602671,1789642800,6557,2800,Chanthaburi,Kasetsart FC,2,0,1,0
+1602672,1789646400,6573,6585,Muang Loei United,Phrae United,2,0,0,0
+1602674,1789815600,10086,2775,Khon Kaen United,Police Tero,2,0,1,0
+1602673,1789815600,18051,17910,Kanchanaburi,Mahasarakham United,1,1,1,0
+1602675,1789817400,2786,2863,Muangthong United,Chiangmai United,1,0,1,0
+1602676,1789819200,2773,2781,Nakhon Ratchasima FC,Chainat,1,2,0,1
+1602677,1789821000,2796,22348,Nong Bua Pitchaya,Satun,4,3,2,0
+1602678,1789902000,2800,6578,Kasetsart FC,Nakhon Pathom,0,0,0,0
+1602679,1789902000,6604,6573,Songkhla,Muang Loei United,1,1,1,0
+1602680,1789903800,13309,6585,Esan Pattaya,Phrae United,0,3,0,1
+1602681,1789905600,6610,6557,Uttaradit,Chanthaburi,4,3,2,1
+1602682,1791547200,6585,18051,Phrae United,Kanchanaburi,2,1,1,1
+1602683,1791630000,6578,2786,Nakhon Pathom,Muangthong United,1,0,0,0
+1602684,1791631800,2775,2773,Police Tero,Nakhon Ratchasima FC,1,1,1,0
+1602685,1791633600,6573,13309,Muang Loei United,Esan Pattaya,2,2,0,0
+1602686,1791635400,2863,2800,Chiangmai United,Kasetsart FC,2,0,0,0
+1602687,1791716400,17910,6610,Mahasarakham United,Uttaradit,2,3,0,3
+1602688,1791716400,22348,10086,Satun,Khon Kaen United,1,0,1,0
+1602689,1791718200,2781,6604,Chainat,Songkhla,2,0,1,0
+1602690,1791720000,6557,2796,Chanthaburi,Nong Bua Pitchaya,0,0,0,0
+1602691,1791889200,2786,6585,Muangthong United,Phrae United,0,1,0,1
+1602692,1791891000,18051,2775,Kanchanaburi,Police Tero,1,0,0,0
+1602693,1791892800,2773,6573,Nakhon Ratchasima FC,Muang Loei United,3,2,2,1
+1602694,1791975600,2796,2863,Nong Bua Pitchaya,Chiangmai United,3,1,0,0
+1602695,1791975600,13309,6604,Esan Pattaya,Songkhla,3,2,2,0
+1602696,1791977400,6557,6578,Chanthaburi,Nakhon Pathom,3,0,1,0
+1602697,1791979200,2800,17910,Kasetsart FC,Mahasarakham United,3,1,1,0
+1602698,1792062000,6610,22348,Uttaradit,Satun,1,1,0,1
+1602699,1792065600,10086,2781,Khon Kaen United,Chainat,2,1,1,0
+1602700,1792234800,2863,6604,Chiangmai United,Songkhla,1,1,1,1
+1602701,1792234800,6578,2796,Nakhon Pathom,Nong Bua Pitchaya,4,3,3,2
+1602702,1792236600,6573,18051,Muang Loei United,Kanchanaburi,1,1,0,0
+1602703,1792238400,2775,2800,Police Tero,Kasetsart FC,5,3,2,1
+1602704,1792240200,6585,2773,Phrae United,Nakhon Ratchasima FC,0,1,0,0
+1602705,1792321200,13309,10086,Esan Pattaya,Khon Kaen United,0,2,0,0
+1602706,1792321200,22348,6557,Satun,Chanthaburi,0,0,0,0
+1602707,1792323000,17910,2786,Mahasarakham United,Muangthong United,0,0,0,0
+1602708,1792324800,2781,6610,Chainat,Uttaradit,3,2,1,0
+1602709,1792839600,2800,22348,Kasetsart FC,Satun,1,3,0,2
+1602710,1792841400,6604,6585,Songkhla,Phrae United,1,1,0,1
+1602711,1792843200,2796,17910,Nong Bua Pitchaya,Mahasarakham United,3,0,2,0
+1602712,1792845000,6610,6578,Uttaradit,Nakhon Pathom,2,0,1,0
+1602713,1792926000,6557,2863,Chanthaburi,Chiangmai United,0,0,0,0
+1602714,1792926000,18051,2781,Kanchanaburi,Chainat,6,3,3,1
+1602715,1792927800,2773,13309,Nakhon Ratchasima FC,Esan Pattaya,2,0,0,0
+1602716,1792929600,10086,6573,Khon Kaen United,Muang Loei United,4,2,2,0
+1602717,1793016000,2786,2775,Muangthong United,Police Tero,4,1,1,1
+1602718,1793361600,17910,6557,Mahasarakham United,Chanthaburi,1,0,1,0
+1602719,1793444400,6585,10086,Phrae United,Khon Kaen United,0,3,0,2
+1602720,1793446200,2773,6604,Nakhon Ratchasima FC,Songkhla,4,1,1,0
+1602721,1793448000,2781,2800,Chainat,Kasetsart FC,1,1,0,1
+1602722,1793449800,6573,2786,Muang Loei United,Muangthong United,1,3,0,1
+1602723,1793530800,2775,2796,Police Tero,Nong Bua Pitchaya,0,6,0,2
+1602724,1793530800,22348,6578,Satun,Nakhon Pathom,0,0,0,0
+1602725,1793532600,13309,18051,Esan Pattaya,Kanchanaburi,2,2,0,1
+1602726,1793534400,2863,6610,Chiangmai United,Uttaradit,1,1,1,1
+1602727,1794049200,10086,6604,Khon Kaen United,Songkhla,3,2,3,1
+1602728,1794051000,2786,13309,Muangthong United,Esan Pattaya,1,2,0,0
+1602729,1794051000,6610,2775,Uttaradit,Police Tero,4,0,2,0
+1602730,1794052800,6557,6585,Chanthaburi,Phrae United,0,3,0,2
+1602731,1794054600,18051,2773,Kanchanaburi,Nakhon Ratchasima FC,1,0,1,0
+1602732,1794135600,6578,17910,Nakhon Pathom,Mahasarakham United,6,2,0,2
+1602733,1794135600,22348,2863,Satun,Chiangmai United,1,1,0,1
+1602734,1794137400,2796,2781,Nong Bua Pitchaya,Chainat,2,2,1,1
+1602735,1794139200,2800,6573,Kasetsart FC,Muang Loei United,0,1,0,0
