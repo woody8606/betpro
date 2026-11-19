@@ -86,3 +86,9 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1562113,1794063600,5351,11114,Dungannon Swifts,Limavady United,3,2,0,0
 1562110,1794063600,11112,697,Bangor,Crusaders FC,1,0,1,0
 1562114,1794074400,583,669,Linfield,Coleraine FC,3,0,1,0
+1562116,1794599100,668,583,Ballymena United,Linfield,0,3,0,3
+1562117,1794599100,669,5348,Coleraine FC,Portadown,3,0,2,0
+1562118,1794599100,5350,697,Carrick Rangers,Crusaders FC,1,1,0,1
+1562119,1794599100,5352,11112,Glentoran,Bangor,2,1,1,0
+1562120,1794599100,5354,5351,Larne,Dungannon Swifts,3,0,2,0
+1562121,1794599100,11114,2266,Limavady United,Cliftonville FC,2,1,1,1

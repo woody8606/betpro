@@ -1,0 +1,64 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1358978,1741932000,21326,19321,Qingdao May Wind,Tai'an Tiankuang,1,5,0,1
+1358979,1741937400,23132,23268,Changchun Xidu,Guangxi Hengchen,0,1,0,0
+1358980,1741953600,23137,25775,Guangdong Shudihong,Guizhou Zhucheng,0,4,0,3
+1358981,1742018400,25778,17269,Shanghai Zetian,Wuxi Wugou,0,2,0,1
+1358983,1742020200,23133,19319,Changning Flying Lions,Nantong Haimen Codion,0,3,0,2
+1358982,1742020200,23147,19317,Shanghai Segenda,Hainan Star,1,0,0,0
+1358984,1742022000,25776,25773,Ningbo Youkang,Guangdong Mingtu,0,2,0,0
+1358985,1742022000,25777,19320,Shaanxi Northwest Youth,Shangyu Pterosaur,4,1,2,1
+1358986,1742022000,25780,25779,Wuhan Lianzhen,Shenzhen 2028,0,1,0,0
+1358987,1742023800,17266,17272,Quanzhou Yassin,Yichun Grand Tiger,2,3,2,1
+1358988,1742023800,25774,5660,Guangzhou Dandelion,Hubei Chufeng Heli,3,2,2,1
+1358989,1742038200,23150,21264,Shenzhen Jixiang,Guangxi Lanhang,1,0,0,0
+1358990,1742106600,20674,21328,Xi'an Ronghai,Rizhao Yuqi,0,1,0,0
+1358991,1742108400,25781,5665,Xiamen Chengyi,Jiangxi Liansheng,0,3,0,1
+1358992,1742110200,23134,5647,Chunlei,BIT,0,0,0,0
+1358993,1742110200,23135,23270,Fujian Quanzhou Qinggong,Langfang Glory City,0,0,0,0
+1361634,1744974000,21328,5684,Rizhao Yuqi,Shenyang Urban,0,2,0,1
+1361585,1744975800,25773,23265,Guangdong Mingtu,Shenzhen Juniors,2,2,2,0
+1361587,1744975800,25775,17263,Guizhou Zhucheng,Dongguan United,2,1,0,0
+1361633,1745044200,23135,5688,Fujian Quanzhou Qinggong,Suzhou Dongwu,0,4,0,0
+1361589,1745044200,23147,1445,Shanghai Segenda,Heilongjiang Lava Spring,0,2,0,0
+1361584,1745046000,17269,2626,Wuxi Wugou,Nantong Zhiyun,2,0,0,0
+1361586,1745046000,25777,21262,Shaanxi Northwest Youth,Chongqing Tongliang Long,0,1,0,1
+1361632,1745047800,5665,5679,Jiangxi Liansheng,Qingdao Red Lions,0,1,0,1
+1361588,1745047800,17272,5652,Yichun Grand Tiger,Dalian Huayi,0,3,0,0
+1361485,1745047800,23268,5682,Guangxi Hengchen,Shanghai Jiading,2,1,1,1
+1361591,1745047800,25774,16619,Guangzhou Dandelion,Nanjing City,1,0,0,0
+1361590,1745049600,25779,23286,Shenzhen 2028,Shaanxi Union,0,4,0,2
+1361631,1745062200,23150,17271,Shenzhen Jixiang,Yanbian Longding,0,0,0,0
+1361484,1745132400,19321,17264,Tai'an Tiankuang,Hebei Kungfu,0,2,0,1
+1361592,1745134200,19319,5657,Nantong Haimen Codion,Guangxi Baoyun,0,1,0,0
+1361630,1745134200,23134,23269,Chunlei,Guangzhou E-Power,1,1,0,0
+1372373,1747726200,23286,5695,Shaanxi Union,Wuhan Three Towns,2,1,0,1
+1372374,1747726200,25774,848,Guangzhou Dandelion,Hangzhou Greentown,0,1,0,1
+1372377,1747731600,23268,1439,Guangxi Hengchen,Meizhou Kejia,2,1,1,1
+1372365,1747810800,17271,17265,Yanbian Longding,Qingdao Youth Island,0,2,0,0
+1372364,1747810800,23265,21263,Shenzhen Juniors,Dalian Zhixing,1,5,0,2
+1372371,1747812600,1445,21265,Heilongjiang Lava Spring,Yunnan Yukun,1,2,0,0
+1372362,1747812600,17269,833,Wuxi Wugou,Shanghai Shenhua,0,3,0,2
+1372363,1747818000,23269,5686,Guangzhou E-Power,Sichuan Jiuniu,2,2,2,0
+1372368,1747825200,5652,834,Dalian Huayi,Changchun Yatai,1,1,0,0
+1372375,1747825200,5684,1431,Shenyang Urban,Qingdao Jonoon,0,0,0,0
+1372376,1747827000,5657,5648,Guangxi Baoyun,Chengdu Better City,0,3,0,1
+1372370,1747827000,5679,844,Qingdao Red Lions,Shandong Luneng,0,5,0,2
+1372372,1747827000,5688,836,Suzhou Dongwu,SHANGHAI SIPG,2,6,1,1
+1372369,1747827000,17264,830,Hebei Kungfu,Beijing Guoan,0,5,0,2
+1372366,1747827000,21262,840,Chongqing Tongliang Long,Henan Jianye,1,2,0,2
+1372367,1747828800,25775,837,Guizhou Zhucheng,Tianjin Teda,0,1,0,1
+1376793,1750419300,844,5648,Shandong Luneng,Chengdu Better City,1,3,0,1
+1376795,1750503600,21263,830,Dalian Zhixing,Beijing Guoan,1,1,1,0
+1376797,1750503600,23286,21265,Shaanxi Union,Yunnan Yukun,1,2,0,1
+1376796,1750505400,23269,837,Guangzhou E-Power,Tianjin Teda,2,0,0,0
+1376792,1750505700,1431,23268,Qingdao Jonoon,Guangxi Hengchen,2,1,2,0
+1376790,1750586400,836,833,SHANGHAI SIPG,Shanghai Shenhua,2,3,0,1
+1376794,1750586400,5652,17265,Dalian Huayi,Qingdao Youth Island,0,2,0,0
+1376791,1750591800,840,848,Henan Jianye,Hangzhou Greentown,3,2,0,1
+1383827,1753182000,17265,830,Qingdao Youth Island,Beijing Guoan,1,1,0,0
+1383771,1753185600,21265,23269,Yunnan Yukun,Guangzhou E-Power,3,0,2,0
+1383828,1753268400,833,840,Shanghai Shenhua,Henan Jianye,2,2,1,1
+1383772,1753270500,1431,5648,Qingdao Jonoon,Chengdu Better City,1,2,0,0
+1413439,1755603300,5648,840,Chengdu Better City,Henan Jianye,0,0,0,0
+1413438,1755689700,830,21265,Beijing Guoan,Yunnan Yukun,7,0,3,0
+1446708,1765018800,830,840,Beijing Guoan,Henan Jianye,3,0,2,0

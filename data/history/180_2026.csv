@@ -68,3 +68,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1556893,1794063600,1383,6784,Morton,Stenhousemuir,4,3,2,2
 1556891,1794063600,4249,1387,Arbroath,Ayr Utd,4,1,2,0
 1556894,1794063600,6778,901,Queen's Park,Partick,0,1,0,0
+1556898,1794668400,255,1383,Livingston,Morton,2,0,2,0
+1556899,1794668400,901,903,Partick,Inverness CT,3,2,2,0
+1556896,1794668400,1387,1385,Ayr Utd,Raith Rovers,3,1,2,0
+1556900,1794668400,6784,6778,Stenhousemuir,Queen's Park,2,0,1,0

@@ -1,0 +1,24 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1593680,1792141200,943,939,Sydney,Western Sydney Wanderers,0,0,0,0
+1593681,1792209600,24608,945,Auckland,Melbourne City,3,1,1,1
+1593682,1792216800,15550,940,Macarthur,Perth Glory,2,1,0,0
+1593683,1792226400,941,946,Central Coast Mariners,Newcastle Jets,2,2,1,0
+1593684,1792288800,942,944,Wellington Phoenix,Melbourne Victory,2,1,1,1
+1593686,1792746000,947,940,Brisbane Roar,Perth Glory,2,1,2,0
+1593687,1792814400,946,15550,Newcastle Jets,Macarthur,1,1,1,0
+1593688,1792821600,939,24608,Western Sydney Wanderers,Auckland,5,2,1,1
+1593689,1792831200,944,945,Melbourne Victory,Melbourne City,1,1,1,0
+1593690,1792893600,942,941,Wellington Phoenix,Central Coast Mariners,2,0,0,0
+1593691,1792900800,943,948,Sydney,Adelaide United,2,1,0,1
+1593692,1793350800,947,24608,Brisbane Roar,Auckland,1,1,0,1
+1593693,1793419200,946,942,Newcastle Jets,Wellington Phoenix,0,3,0,1
+1593694,1793426400,945,943,Melbourne City,Sydney,2,1,0,1
+1593695,1793436000,15550,939,Macarthur,Western Sydney Wanderers,0,0,0,0
+1593696,1793505600,944,941,Melbourne Victory,Central Coast Mariners,1,1,0,0
+1593697,1793520000,940,948,Perth Glory,Adelaide United,4,0,3,0
+1593698,1793954400,943,941,Sydney,Central Coast Mariners,4,1,2,0
+1593699,1794024000,24608,942,Auckland,Wellington Phoenix,0,0,0,0
+1593700,1794040800,945,939,Melbourne City,Western Sydney Wanderers,2,1,1,1
+1593701,1794048300,940,946,Perth Glory,Newcastle Jets,2,1,1,0
+1593702,1794110400,15550,947,Macarthur,Brisbane Roar,1,2,0,0
+1593703,1794117600,948,944,Adelaide United,Melbourne Victory,2,2,1,0

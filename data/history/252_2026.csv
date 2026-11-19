@@ -92,7 +92,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1632042,1792785600,1185,1174,Rubio NU,Club Guarani,0,2,0,1
 1632040,1792794600,1179,1183,Libertad Asuncion,Sportivo Luqueno,1,0,0,0
 1632041,1792872000,1175,1187,Nacional Asuncion,Sportivo Trinidense,0,1,0,0
-1632038,1792881000,2140,10476,2 de Mayo,Deportivo Recoleta,1,1,0,0
+1632038,1792880400,2140,10476,2 de Mayo,Deportivo Recoleta,1,1,0,0
 1632039,1792933200,10487,1182,Sportivo Ameliano,Olimpia,2,3,1,1
 1632043,1792967400,2125,1176,Club Sp. San Lorenzo,Cerro Porteno,1,3,0,2
 1632045,1793399400,1174,2140,Club Guarani,2 de Mayo,1,0,0,0
@@ -111,3 +111,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1632058,1794090600,1179,1175,Libertad Asuncion,Nacional Asuncion,3,0,1,0
 1632056,1794168000,1176,10476,Cerro Porteno,Deportivo Recoleta,1,1,0,0
 1632061,1794177000,1187,10487,Sportivo Trinidense,Sportivo Ameliano,3,0,1,0
+1632059,1794254400,2125,1185,Club Sp. San Lorenzo,Rubio NU,2,2,2,1
+1632060,1794263400,1183,2140,Sportivo Luqueno,2 de Mayo,3,0,1,0

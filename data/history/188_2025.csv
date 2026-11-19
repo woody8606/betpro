@@ -1,0 +1,164 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1469558,1760688000,948,943,Adelaide United,Sydney,2,1,0,0
+1469559,1760695500,947,15550,Brisbane Roar,Macarthur,1,0,1,0
+1469560,1760767200,939,945,Western Sydney Wanderers,Melbourne City,1,1,1,1
+1469561,1760776500,944,24608,Melbourne Victory,Auckland,0,0,0,0
+1469562,1760784300,940,942,Perth Glory,Wellington Phoenix,2,2,2,1
+1469563,1760846400,941,946,Central Coast Mariners,Newcastle Jets,3,2,2,1
+1469564,1761294900,946,944,Newcastle Jets,Melbourne Victory,5,2,3,1
+1469565,1761364800,24608,939,Auckland,Western Sydney Wanderers,1,0,1,0
+1469566,1761372000,945,940,Melbourne City,Perth Glory,4,0,2,0
+1469567,1761381300,943,941,Sydney,Central Coast Mariners,2,0,0,0
+1469568,1761444000,942,947,Wellington Phoenix,Brisbane Roar,2,1,0,1
+1469569,1761552000,15550,948,Macarthur,Adelaide United,2,1,1,1
+1469570,1761899700,947,945,Brisbane Roar,Melbourne City,0,0,0,0
+1469571,1761907500,940,944,Perth Glory,Melbourne Victory,0,2,0,1
+1469572,1761969600,24608,948,Auckland,Adelaide United,2,1,1,1
+1469573,1761976800,946,943,Newcastle Jets,Sydney,1,4,1,1
+1469574,1761986100,15550,939,Macarthur,Western Sydney Wanderers,1,1,1,0
+1469575,1762063200,941,942,Central Coast Mariners,Wellington Phoenix,1,1,0,1
+1469576,1762504500,948,939,Adelaide United,Western Sydney Wanderers,2,0,0,0
+1469577,1762512300,940,941,Perth Glory,Central Coast Mariners,0,1,0,0
+1469579,1762581600,942,24608,Wellington Phoenix,Auckland,1,2,1,2
+1469580,1762590900,944,945,Melbourne Victory,Melbourne City,0,2,0,1
+1469581,1762660800,943,15550,Sydney,Macarthur,2,0,0,0
+1469578,1762668000,947,946,Brisbane Roar,Newcastle Jets,3,0,1,0
+1469582,1763714100,948,945,Adelaide United,Melbourne City,4,1,2,1
+1469583,1763784000,942,15550,Wellington Phoenix,Macarthur,0,1,0,0
+1469584,1763791200,939,941,Western Sydney Wanderers,Central Coast Mariners,3,2,3,2
+1469585,1763800500,943,944,Sydney,Melbourne Victory,3,0,0,0
+1482131,1763863200,24608,947,Auckland,Brisbane Roar,1,1,1,1
+1469586,1763877600,946,940,Newcastle Jets,Perth Glory,1,2,1,1
+1469587,1764318900,947,944,Brisbane Roar,Melbourne Victory,1,0,1,0
+1469588,1764388800,942,948,Wellington Phoenix,Adelaide United,2,1,1,0
+1469589,1764396000,941,945,Central Coast Mariners,Melbourne City,0,0,0,0
+1469590,1764405300,939,943,Western Sydney Wanderers,Sydney,1,0,0,0
+1469591,1764468000,24608,946,Auckland,Newcastle Jets,1,2,1,2
+1469592,1764486000,15550,940,Macarthur,Perth Glory,0,2,0,0
+1469593,1764923700,15550,944,Macarthur,Melbourne Victory,0,0,0,0
+1469594,1764931500,940,939,Perth Glory,Western Sydney Wanderers,1,0,1,0
+1469595,1764993600,24608,942,Auckland,Wellington Phoenix,3,1,1,0
+1469596,1765000800,946,945,Newcastle Jets,Melbourne City,0,1,0,1
+1469597,1765010100,941,943,Central Coast Mariners,Sydney,1,2,1,1
+1469598,1765096500,948,947,Adelaide United,Brisbane Roar,0,1,0,0
+1469599,1765528500,941,24608,Central Coast Mariners,Auckland,1,2,1,1
+1469601,1765605600,939,947,Western Sydney Wanderers,Brisbane Roar,0,0,0,0
+1469602,1765614900,944,948,Melbourne Victory,Adelaide United,2,1,1,0
+1469603,1765622700,940,943,Perth Glory,Sydney,0,1,0,1
+1469604,1765677600,942,946,Wellington Phoenix,Newcastle Jets,1,3,0,0
+1469609,1766131200,15550,947,Macarthur,Brisbane Roar,2,1,0,0
+1469605,1766134800,939,24608,Western Sydney Wanderers,Auckland,0,2,0,0
+1469606,1766210400,946,943,Newcastle Jets,Sydney,2,0,0,0
+1469607,1766219700,945,944,Melbourne City,Melbourne Victory,0,1,0,0
+1482132,1766227500,940,948,Perth Glory,Adelaide United,0,1,0,1
+1469608,1766282400,942,941,Wellington Phoenix,Central Coast Mariners,3,1,1,1
+1469600,1766477700,945,15550,Melbourne City,Macarthur,1,1,1,1
+1469610,1766738100,946,15550,Newcastle Jets,Macarthur,4,5,1,2
+1469612,1766824500,948,939,Adelaide United,Western Sydney Wanderers,3,2,1,0
+1469613,1766908800,945,940,Melbourne City,Perth Glory,1,3,0,2
+1469614,1766995200,944,942,Melbourne Victory,Wellington Phoenix,5,1,2,1
+1469615,1767168000,941,947,Central Coast Mariners,Brisbane Roar,1,2,1,1
+1469616,1767240000,24608,946,Auckland,Newcastle Jets,1,3,1,2
+1469617,1767254400,939,15550,Western Sydney Wanderers,Macarthur,0,1,0,1
+1469619,1767342900,944,940,Melbourne Victory,Perth Glory,3,2,1,1
+1469620,1767420000,947,942,Brisbane Roar,Wellington Phoenix,0,3,0,1
+1469618,1767429300,945,943,Melbourne City,Sydney,0,0,0,0
+1469621,1767515700,948,941,Adelaide United,Central Coast Mariners,0,4,0,3
+1469655,1767600000,15550,24608,Macarthur,Auckland,1,1,0,1
+1469672,1767686400,945,947,Melbourne City,Brisbane Roar,1,0,1,0
+1469622,1767947700,947,24608,Brisbane Roar,Auckland,0,2,0,1
+1469623,1768024800,944,939,Melbourne Victory,Western Sydney Wanderers,0,1,0,1
+1469624,1768034100,15550,943,Macarthur,Sydney,0,3,0,1
+1469625,1768041900,940,941,Perth Glory,Central Coast Mariners,3,0,2,0
+1469626,1768096800,942,948,Wellington Phoenix,Adelaide United,2,2,0,2
+1469627,1768111200,945,946,Melbourne City,Newcastle Jets,0,1,0,0
+1469628,1768552500,945,24608,Melbourne City,Auckland,2,1,0,1
+1469629,1768560300,940,947,Perth Glory,Brisbane Roar,1,2,1,1
+1469630,1768629600,939,946,Western Sydney Wanderers,Newcastle Jets,1,2,0,2
+1469632,1768638900,948,944,Adelaide United,Melbourne Victory,2,1,1,0
+1469631,1768705200,941,15550,Central Coast Mariners,Macarthur,1,1,0,0
+1469633,1768716000,943,942,Sydney,Wellington Phoenix,0,2,0,1
+1469634,1769157300,946,942,Newcastle Jets,Wellington Phoenix,4,1,1,0
+1469635,1769227200,24608,941,Auckland,Central Coast Mariners,2,2,1,1
+1469636,1769234400,947,948,Brisbane Roar,Adelaide United,2,3,1,0
+1469637,1769243700,15550,945,Macarthur,Melbourne City,6,2,3,1
+1469638,1769328000,939,940,Western Sydney Wanderers,Perth Glory,1,0,0,0
+1469639,1769409600,944,943,Melbourne Victory,Sydney,4,0,0,0
+1469640,1769752800,942,945,Wellington Phoenix,Melbourne City,2,2,1,0
+1469641,1769763900,948,15550,Adelaide United,Macarthur,1,1,1,0
+1469642,1769839200,946,947,Newcastle Jets,Brisbane Roar,4,1,1,0
+1469643,1769848500,943,939,Sydney,Western Sydney Wanderers,4,1,1,1
+1469644,1769856300,940,24608,Perth Glory,Auckland,2,1,0,1
+1469645,1769925600,941,944,Central Coast Mariners,Melbourne Victory,1,0,1,0
+1469646,1770357600,942,944,Wellington Phoenix,Melbourne Victory,2,3,1,2
+1469647,1770366900,15550,940,Macarthur,Perth Glory,2,2,0,1
+1469648,1770436800,24608,943,Auckland,Sydney,1,0,1,0
+1469649,1770444000,947,941,Brisbane Roar,Central Coast Mariners,1,2,1,1
+1469650,1770453300,939,945,Western Sydney Wanderers,Melbourne City,1,1,0,0
+1469651,1770530400,948,946,Adelaide United,Newcastle Jets,2,3,0,1
+1469652,1770971700,939,942,Western Sydney Wanderers,Wellington Phoenix,2,2,2,0
+1469653,1770979500,940,946,Perth Glory,Newcastle Jets,1,3,0,1
+1469656,1771048800,944,947,Melbourne Victory,Brisbane Roar,1,1,1,0
+1469657,1771058100,943,948,Sydney,Adelaide United,1,2,1,1
+1469611,1771315200,943,24608,Sydney,Auckland,1,1,0,0
+1469658,1771576500,948,940,Adelaide United,Perth Glory,4,0,2,0
+1469659,1771646400,942,24608,Wellington Phoenix,Auckland,0,5,0,4
+1469660,1771653600,943,947,Sydney,Brisbane Roar,1,0,0,0
+1469661,1771662900,945,944,Melbourne City,Melbourne Victory,1,3,1,1
+1469662,1771740000,941,939,Central Coast Mariners,Western Sydney Wanderers,3,2,0,1
+1469663,1771743600,946,15550,Newcastle Jets,Macarthur,1,0,0,0
+1469664,1772181300,944,948,Melbourne Victory,Adelaide United,1,1,1,1
+1469665,1772251200,24608,945,Auckland,Melbourne City,3,0,1,0
+1469666,1772258400,941,946,Central Coast Mariners,Newcastle Jets,0,0,0,0
+1469667,1772262000,947,940,Brisbane Roar,Perth Glory,1,1,1,1
+1469668,1772267700,15550,939,Macarthur,Western Sydney Wanderers,0,4,0,3
+1469669,1772330400,942,943,Wellington Phoenix,Sydney,0,1,0,0
+1469671,1772611200,15550,941,Macarthur,Central Coast Mariners,1,3,0,1
+1469670,1772786100,948,942,Adelaide United,Wellington Phoenix,1,1,0,1
+1469673,1772863200,946,939,Newcastle Jets,Western Sydney Wanderers,2,1,0,1
+1469674,1772872500,943,944,Sydney,Melbourne Victory,2,2,0,1
+1469675,1772935200,24608,940,Auckland,Perth Glory,2,2,1,1
+1469676,1773388800,947,939,Brisbane Roar,Western Sydney Wanderers,2,2,1,2
+1469677,1773453600,942,940,Wellington Phoenix,Perth Glory,2,0,0,0
+1469678,1773460800,941,948,Central Coast Mariners,Adelaide United,1,1,0,0
+1469680,1773468000,946,24608,Newcastle Jets,Auckland,1,2,1,1
+1469681,1773561600,944,15550,Melbourne Victory,Macarthur,4,1,2,1
+1469679,1773734400,943,945,Sydney,Melbourne City,0,1,0,0
+1469682,1773995700,939,948,Western Sydney Wanderers,Adelaide United,2,4,1,2
+1469683,1774058400,24608,15550,Auckland,Macarthur,1,2,0,2
+1469684,1774065600,947,942,Brisbane Roar,Wellington Phoenix,1,2,1,1
+1469685,1774073400,944,941,Melbourne Victory,Central Coast Mariners,4,1,0,1
+1469686,1774152000,943,946,Sydney,Newcastle Jets,1,2,0,1
+1469687,1774166400,940,945,Perth Glory,Melbourne City,1,1,0,1
+1469688,1775118900,15550,946,Macarthur,Newcastle Jets,3,2,2,2
+1469691,1775124000,947,943,Brisbane Roar,Sydney,0,0,0,0
+1469689,1775205300,948,24608,Adelaide United,Auckland,1,1,1,0
+1469690,1775282400,941,940,Central Coast Mariners,Perth Glory,2,2,1,2
+1469692,1775291700,945,939,Melbourne City,Western Sydney Wanderers,3,0,2,0
+1469693,1775365200,944,942,Melbourne Victory,Wellington Phoenix,0,1,0,0
+1469654,1775552400,945,941,Melbourne City,Central Coast Mariners,2,1,1,0
+1469694,1775813700,941,947,Central Coast Mariners,Brisbane Roar,2,2,0,1
+1469695,1775883600,24608,944,Auckland,Melbourne Victory,2,2,1,1
+1469696,1775890800,946,948,Newcastle Jets,Adelaide United,1,1,0,0
+1469697,1775900100,939,943,Western Sydney Wanderers,Sydney,0,2,0,1
+1469698,1775970000,945,942,Melbourne City,Wellington Phoenix,2,0,1,0
+1469699,1775984400,940,15550,Perth Glory,Macarthur,3,1,0,0
+1469700,1776418500,944,946,Melbourne Victory,Newcastle Jets,2,2,2,1
+1469701,1776488400,942,939,Wellington Phoenix,Western Sydney Wanderers,2,1,1,1
+1469702,1776495600,947,945,Brisbane Roar,Melbourne City,2,3,1,0
+1469703,1776504900,943,940,Sydney,Perth Glory,0,0,0,0
+1469704,1776567600,24608,941,Auckland,Central Coast Mariners,0,1,0,1
+1469705,1776576600,948,15550,Adelaide United,Macarthur,3,1,0,1
+1469706,1777023300,15550,942,Macarthur,Wellington Phoenix,4,0,3,0
+1469707,1777100400,946,941,Newcastle Jets,Central Coast Mariners,4,0,3,0
+1469708,1777109700,939,944,Western Sydney Wanderers,Melbourne Victory,0,2,0,0
+1469709,1777117500,940,947,Perth Glory,Brisbane Roar,2,1,1,0
+1469710,1777179600,943,24608,Sydney,Auckland,2,2,0,0
+1469711,1777188600,945,948,Melbourne City,Adelaide United,1,2,1,0
+1542879,1777698000,24608,945,Auckland,Melbourne City,1,1,1,0
+1542880,1777714800,944,943,Melbourne Victory,Sydney,0,1,0,0
+1543790,1778306400,24608,948,Auckland,Adelaide United,1,1,1,0
+1543791,1778319600,943,946,Sydney,Newcastle Jets,1,1,0,0
+1543792,1778837700,948,24608,Adelaide United,Auckland,0,3,0,1
+1543793,1778924400,946,943,Newcastle Jets,Sydney,1,1,0,0
+1545369,1779523800,24608,943,Auckland,Sydney,1,0,0,0
