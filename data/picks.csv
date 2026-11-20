@@ -467,15 +467,15 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-18,16:00,1615822,Spain - Tercera División RFEF - Group 11,PE Sant Jordi - Santanyí,bomba scor,CS_1_0,0.1593,0.1593,,7.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-18,20:00,1549554,Peru - Primera División,Alianza Atletico - FBC Melgar,value,O35,0.3021,0.2634,0.3278,3.4,Betfair,3.0,0.027,3.3,0.0303,pierdut,-1.0
 2026-11-18,17:00,1616434,Spain - Tercera División RFEF - Group 13,Mazarrón FC - Los Garres,bomba scor,CS_0_0,0.1351,0.1351,,10.0,Betfair,3.0,,,,pierdut,-1.0
-2026-11-19,01:30,1650229,Panama - Liga Panameña de Fútbol,Independiente de La Chorrera - Tauro FC,value,O15HT,0.3943,0.4383,0.365,2.75,Betfair,3.0,0.0844,,,,
-2026-11-19,12:30,1647527,Slovenia - Cup,Dob - Bistrica,value,O15HT,0.4204,0.4641,0.3912,2.55,Betfair,3.0,0.0719,,,,
-2026-11-19,12:30,1594905,Egypt - Second League,El Dakhleya - Ismaily SC,value,A15,0.3872,0.4375,0.3537,2.75,Betfair,3.0,0.0647,,,,
-2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,value,O15HT,0.4736,0.5417,0.4282,2.2,Betfair,3.0,0.0419,,,,
-2026-11-19,19:30,1650500,Uruguay - Primera División,Boston River - Deportivo Maldonado,value,1,0.266,0.3283,0.2245,4.0,Betfair,3.0,0.0639,,,,
-2026-11-19,19:45,1574786,France - Ligue 3,Amiens - Caen,value,O35,0.3091,0.3423,0.287,3.3,Betfair,3.0,0.02,,,,
-2026-11-19,20:00,1638286,World - UEFA Champions League Women,Arsenal W - Lyon W,value,O35,0.4065,0.4239,0.3949,2.55,Betfair,3.0,0.0366,,,,
-2026-11-19,12:30,1594907,Egypt - Second League,Pharco - El Entag EL Harby,sigur,O15,0.7329,0.8228,0.673,1.4,Betfair,3.0,0.0261,,,,
-2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,O25,0.674,0.7436,0.6275,1.5,Betfair,3.0,0.0109,,,,
+2026-11-19,01:30,1650229,Panama - Liga Panameña de Fútbol,Independiente de La Chorrera - Tauro FC,value,O15HT,0.3943,0.4383,0.365,2.75,Betfair,3.0,0.0844,2.75,0.0,iesit,1.75
+2026-11-19,12:30,1647527,Slovenia - Cup,Dob - Bistrica,value,O15HT,0.4204,0.4641,0.3912,2.55,Betfair,3.0,0.0719,2.4,0.0625,pierdut,-1.0
+2026-11-19,12:30,1594905,Egypt - Second League,El Dakhleya - Ismaily SC,value,A15,0.3872,0.4375,0.3537,2.75,Betfair,3.0,0.0647,3.25,-0.1538,pierdut,-1.0
+2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,value,O15HT,0.4736,0.5417,0.4282,2.2,Betfair,3.0,0.0419,2.2,0.0,iesit,1.2
+2026-11-19,19:30,1650500,Uruguay - Primera División,Boston River - Deportivo Maldonado,value,1,0.266,0.3283,0.2245,4.0,Betfair,3.0,0.0639,3.9,0.0256,iesit,3.0
+2026-11-19,19:45,1574786,France - Ligue 3,Amiens - Caen,value,O35,0.3091,0.3423,0.287,3.3,Betfair,3.0,0.02,3.3,0.0,pierdut,-1.0
+2026-11-19,20:00,1638286,World - UEFA Champions League Women,Arsenal W - Lyon W,value,O35,0.4065,0.4239,0.3949,2.55,Betfair,3.0,0.0366,1.91,0.3351,pierdut,-1.0
+2026-11-19,12:30,1594907,Egypt - Second League,Pharco - El Entag EL Harby,sigur,O15,0.7329,0.8228,0.673,1.4,Betfair,3.0,0.0261,,,iesit,0.4
+2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,O25,0.674,0.7436,0.6275,1.5,Betfair,3.0,0.0109,,,iesit,0.5
 2026-11-18,22:30,1492451,Brazil - Serie A,Coritiba - Santos,value,1,0.2893,0.3304,0.2619,3.6,Betfair,3.0,0.0415,3.6,0.0,pierdut,-1.0
 2026-11-20,08:30,1640371,Australia - Australian Championship,Sydney United - Sutherland Sharks,value,X,0.2772,0.3112,0.2546,3.75,Betfair,3.0,0.0396,,,,
 2026-11-20,10:00,1556150,Japan - J1 League,Vissel Kobe - Mito Hollyhock,value,O35,0.3319,0.3614,0.3122,3.1,Betfair,3.0,0.0288,,,,
@@ -500,21 +500,21 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-20,17:30,1576233,Germany - 2. Bundesliga,Arminia Bielefeld - 1. FC Magdeburg,sigur,O05HT,0.775,0.8597,0.7185,1.29,Betfair,3.0,-0.0003,,,,
 2026-11-20,19:00,1551893,Netherlands - Eerste Divisie,Jong Utrecht - Emmen,sigur,O25,0.7116,0.7616,0.6783,1.4,Betfair,3.0,-0.0037,,,,
 2026-11-20,19:45,1576012,Wales - Premier League,Airbus UK - Colwyn Bay,sigur,O05HT,0.7671,0.851,0.7111,1.3,Betfair,3.0,-0.0028,,,,
-2026-11-19,12:30,1647524,Slovenia - Cup,Beltinci - Celje,value,O15HT,0.4693,0.5159,0.4382,2.2,Betfair,3.0,0.0324,,,,
-2026-11-19,14:20,1647214,Kuwait - Division 1,Khaitan - Yarmouk,value,O15HT,0.376,0.4327,0.3383,2.75,Betfair,3.0,0.0341,,,,
-2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,value,2,0.4362,0.5055,0.39,2.38,Betfair,3.0,0.0382,,,,
-2026-11-19,16:45,1611455,Algeria - Ligue 1,MC Alger - Olympique Akbou,value,X,0.265,0.2909,0.2477,4.0,Betfair,3.0,0.06,,,,
-2026-11-19,19:00,1611454,Algeria - Ligue 1,JS Kabylie - USM Alger,value,H15,0.3821,0.4188,0.3577,2.75,Betfair,3.0,0.0508,,,,
-2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,value,O25,0.4102,0.4783,0.3648,2.55,Betfair,3.0,0.0459,,,,
-2026-11-19,22:30,1492459,Brazil - Serie A,Vitoria - RB Bragantino,value,1,0.3886,0.4425,0.3527,2.63,Betfair,3.0,0.0221,,,,
-2026-11-19,12:30,1594908,Egypt - Second League,Tersana - Itesalat,sigur,O15,0.6565,0.7857,0.5703,1.67,Betfair,3.0,0.0963,,,,
-2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,GG,0.6522,0.7313,0.5995,1.53,Betfair,3.0,-0.0021,,,,
-2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,sigur,O15,0.6706,0.7301,0.6309,1.47,Betfair,3.0,-0.0142,,,,
-2026-11-19,12:30,1594904,Egypt - Second League,Baladiyyat Al Mehalla - Haras El Hodood,bomba scor,CS_0_0,0.2125,0.2125,,5.5,Betfair,3.0,,,,,
-2026-11-19,17:00,1650232,Sweden - Damallsvenskan,KIF Örebro W - Rosengård W,bomba scor,CS_1_0,0.1367,0.1367,,15.0,Betfair,3.0,,,,,
-2026-11-19,14:30,1645894,Cameroon - Elite One,Aigle Royal - Colombe,bomba scor,CS_0_0,0.133,0.133,,9.0,Betfair,3.0,,,,,
-2026-11-19,22:30,1647624,Venezuela - Copa Venezuela,Deportivo La Guaira - Anzoátegui FC,value,O35,0.3748,0.4358,0.3341,2.75,Betfair,3.0,0.0307,,,,
-2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,bomba scor,CS_0_2,0.1086,0.1086,,10.0,Betfair,3.0,,,,,
+2026-11-19,12:30,1647524,Slovenia - Cup,Beltinci - Celje,value,O15HT,0.4693,0.5159,0.4382,2.2,Betfair,3.0,0.0324,2.1,0.0476,iesit,1.2
+2026-11-19,14:20,1647214,Kuwait - Division 1,Khaitan - Yarmouk,value,O15HT,0.376,0.4327,0.3383,2.75,Betfair,3.0,0.0341,,,anulat,0.0
+2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,value,2,0.4362,0.5055,0.39,2.38,Betfair,3.0,0.0382,2.3,0.0348,iesit,1.38
+2026-11-19,16:45,1611455,Algeria - Ligue 1,MC Alger - Olympique Akbou,value,X,0.265,0.2909,0.2477,4.0,Betfair,3.0,0.06,4.0,0.0,pierdut,-1.0
+2026-11-19,19:00,1611454,Algeria - Ligue 1,JS Kabylie - USM Alger,value,H15,0.3821,0.4188,0.3577,2.75,Betfair,3.0,0.0508,2.75,0.0,iesit,1.75
+2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,value,O25,0.4102,0.4783,0.3648,2.55,Betfair,3.0,0.0459,2.55,0.0,pierdut,-1.0
+2026-11-19,22:30,1492459,Brazil - Serie A,Vitoria - RB Bragantino,value,1,0.3886,0.4425,0.3527,2.63,Betfair,3.0,0.0221,2.5,0.052,iesit,1.63
+2026-11-19,12:30,1594908,Egypt - Second League,Tersana - Itesalat,sigur,O15,0.6565,0.7857,0.5703,1.67,Betfair,3.0,0.0963,,,iesit,0.67
+2026-11-19,17:45,1638327,World - UEFA Champions League Women,Paris FC W - Køge W,sigur,GG,0.6522,0.7313,0.5995,1.53,Betfair,3.0,-0.0021,,,iesit,0.53
+2026-11-19,22:30,1649447,Colombia - Primera B,Ind. Yumbo - Envigado,sigur,O15,0.6706,0.7301,0.6309,1.47,Betfair,3.0,-0.0142,,,iesit,0.47
+2026-11-19,12:30,1594904,Egypt - Second League,Baladiyyat Al Mehalla - Haras El Hodood,bomba scor,CS_0_0,0.2125,0.2125,,5.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-19,17:00,1650232,Sweden - Damallsvenskan,KIF Örebro W - Rosengård W,bomba scor,CS_1_0,0.1367,0.1367,,15.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-19,14:30,1645894,Cameroon - Elite One,Aigle Royal - Colombe,bomba scor,CS_0_0,0.133,0.133,,9.0,Betfair,3.0,,,,iesit,8.0
+2026-11-19,22:30,1647624,Venezuela - Copa Venezuela,Deportivo La Guaira - Anzoátegui FC,value,O35,0.3748,0.4358,0.3341,2.75,Betfair,3.0,0.0307,2.88,-0.0451,pierdut,-1.0
+2026-11-19,15:30,1628039,Iraq - Iraqi League,Gharraf - Al Quwa Al Jawiya,bomba scor,CS_0_2,0.1086,0.1086,,10.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-20,00:45,1647454,Colombia - Primera B,Real Cundinamarca - Quindio,value,1,0.3366,0.4071,0.2897,3.2,Betfair,3.0,0.0772,,,,
 2026-11-20,08:40,1593704,Australia - A-League,Western Sydney Wanderers - Adelaide United,value,A15,0.4072,0.4783,0.3597,2.63,Betfair,3.0,0.0708,,,,
 2026-11-20,11:30,1561738,Poland - II Liga - East,Świt Skolwin - Stal Stalowa Wola,value,O15HT,0.4611,0.5309,0.4145,2.25,Betfair,3.0,0.0374,,,,
@@ -566,3 +566,13 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-21,15:00,1587897,England - National League - North,Bedford Town - South Shields,sigur,O05HT,0.7873,0.8456,0.7484,1.25,Betfair,3.0,-0.0159,,,,
 2026-11-21,15:00,1557820,Scotland - League Two,Clyde - Stirling Albion,sigur,O25,0.7173,0.7802,0.6753,1.4,Betfair,3.0,0.0042,,,,
 2026-11-21,15:00,1588453,England - National League - South,Dorking Wanderers - Ebbsfleet United,sigur,O25,0.6873,0.7328,0.657,1.44,Betfair,3.0,-0.0103,,,,
+2026-11-20,11:15,1628043,Iraq - Iraqi League,Al Zawra'a - Al Talaba,value,O15HT,0.3445,0.3989,0.3082,3.2,Betfair,3.0,0.1024,,,,
+2026-11-20,11:30,1581977,Ukraine - Persha Liga,Yarud Mariupol' - Ahrobiznes Volochysk,value,O15HT,0.3305,0.3814,0.2966,3.3,Betfair,3.0,0.0907,,,,
+2026-11-20,12:00,1602736,Thailand - Thai League 2,Police Tero - Chanthaburi,value,1,0.3024,0.3728,0.2554,3.7,Betfair,3.0,0.1188,,,,
+2026-11-20,12:15,1642068,Lebanon - Premier League,Al Hikma - Shabab Al Sahel,value,O15HT,0.3346,0.382,0.303,3.3,Betfair,3.0,0.1042,,,,
+2026-11-20,16:00,1559008,Slovenia - 2. SNL,Dravinja - Ilirija,sigur,O05HT,0.7612,0.8392,0.7091,1.29,Betfair,3.0,-0.0181,,,,
+2026-11-20,20:15,1648108,San-Marino - Campionato,La Fiorita - Folgore,sigur,O05HT,0.7172,0.8065,0.6576,1.4,Betfair,3.0,0.004,,,,
+2026-11-20,19:00,1611456,Algeria - Ligue 1,MC Oran - JS Saoura,bomba HT/FT,HTFT_X_1,0.2625,0.2625,0.221,4.0,Betfair,3.0,,,,,
+2026-11-20,15:30,1600821,Tanzania - Ligi kuu Bara,Namungo - Mbeya City,bomba scor,CS_1_0,0.1839,0.1839,,6.5,Betfair,3.0,,,,,
+2026-11-20,18:00,1600822,Tanzania - Ligi kuu Bara,Azam - Singida Black Stars,bomba scor,CS_1_0,0.1759,0.1759,,6.5,Betfair,3.0,,,,,
+2026-11-20,19:00,1558563,Montenegro - First League,Mornar - Sutjeska,bomba scor,CS_1_0,0.1607,0.1607,,6.5,Betfair,3.0,,,,,
