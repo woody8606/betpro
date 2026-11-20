@@ -79,3 +79,18 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1591068,1794045600,20295,6526,Mazıdağı Fosfatspor,Karaman FK,2,0,2,0
 1591064,1794045600,21995,21998,Talasgücü Belediyespor,Silifke Belediyespor,3,1,0,0
 1591062,1794045600,27999,6509,Adana Adaletgucu,Ağrı 1970,3,1,1,0
+1591075,1794391200,6341,20295,Kırşehir Belediyespor,Mazıdağı Fosfatspor,2,1,0,0
+1591072,1794391200,6509,3564,Ağrı 1970,Adanaspor,2,0,2,0
+1591073,1794391200,6513,7398,Bitlis Özgüzelderespor,Diyarbekirspor,1,0,1,0
+1591074,1794391200,6526,21995,Karaman FK,Talasgücü Belediyespor,1,5,1,4
+1591076,1794391200,22445,6541,Niğde Belediyesispor,Yeşilyurt Belediyespor,2,2,1,1
+1591079,1794391200,22448,7418,Yozgat Bld Bozokspor,Osmaniyespor,1,1,0,0
+1591071,1794391200,27999,7408,Adana Adaletgucu,Karaköprü Belediyespor,2,2,1,1
+1591077,1794412800,21998,6546,Silifke Belediyespor,Yeni Mersin Idmanyurdu,0,1,0,1
+1591080,1794736800,3564,22448,Adanaspor,Yozgat Bld Bozokspor,4,0,1,0
+1591084,1794736800,6531,6513,Kırıkkale Büyük Anadolu,Bitlis Özgüzelderespor,3,0,1,0
+1591081,1794736800,7398,21998,Diyarbekirspor,Silifke Belediyespor,3,1,2,0
+1591083,1794736800,7408,6509,Karaköprü Belediyespor,Ağrı 1970,4,1,1,0
+1591086,1794736800,20295,22445,Mazıdağı Fosfatspor,Niğde Belediyesispor,2,0,0,0
+1591082,1794736800,21995,6341,Talasgücü Belediyespor,Kırşehir Belediyespor,3,1,1,1
+1591085,1794745800,6541,27999,Yeşilyurt Belediyespor,Adana Adaletgucu,6,2,2,2

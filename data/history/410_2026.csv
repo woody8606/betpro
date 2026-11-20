@@ -1,0 +1,36 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1610628,1788606000,5385,26303,Angkor Tiger,Kompong Dewa,0,0,0,0
+1610629,1788606000,5394,5566,Phnom Penh Crown,NagaWorld,2,2,1,2
+1610631,1788684300,5389,5396,Kirivong Sok Sen Chey,Svay Rieng,0,3,0,3
+1610632,1788692400,5391,5397,National Defense,Visakha,1,6,0,2
+1610630,1788692400,21735,5387,Dangkor Senchey,Boeung Ket,3,3,2,2
+1610635,1789210800,5385,5394,Angkor Tiger,Phnom Penh Crown,2,2,0,1
+1610634,1789210800,5396,5391,Svay Rieng,National Defense,4,0,2,0
+1610633,1789210800,21735,5389,Dangkor Senchey,Kirivong Sok Sen Chey,6,0,3,0
+1610636,1789297200,5566,24520,NagaWorld,Life Sihanoukville,1,0,0,0
+1610637,1789297200,26303,5397,Kompong Dewa,Visakha,0,2,0,1
+1610640,1789815600,5387,5397,Boeung Ket,Visakha,1,2,0,2
+1610639,1789815600,5391,5566,National Defense,NagaWorld,4,5,3,2
+1610642,1789893900,5389,5385,Kirivong Sok Sen Chey,Angkor Tiger,2,1,1,0
+1610641,1789902000,21735,5396,Dangkor Senchey,Svay Rieng,1,1,1,1
+1610638,1789902000,26303,24520,Kompong Dewa,Life Sihanoukville,2,0,1,0
+1610644,1792226700,5389,5397,Kirivong Sok Sen Chey,Visakha,2,3,0,2
+1610647,1792234800,5566,26303,NagaWorld,Kompong Dewa,1,0,1,0
+1610645,1792321200,5385,5391,Angkor Tiger,National Defense,6,0,3,0
+1610643,1792321200,5396,5387,Svay Rieng,Boeung Ket,4,1,3,1
+1610646,1792407600,5394,24520,Phnom Penh Crown,Life Sihanoukville,1,1,0,0
+1610649,1792839600,5391,5394,National Defense,Phnom Penh Crown,1,2,0,0
+1610652,1792839600,5396,5397,Svay Rieng,Visakha,2,2,1,1
+1610648,1792917900,5389,24520,Kirivong Sok Sen Chey,Life Sihanoukville,1,2,1,0
+1610650,1792926000,5387,5566,Boeung Ket,NagaWorld,0,2,0,1
+1610651,1792926000,21735,5385,Dangkor Senchey,Angkor Tiger,0,1,0,0
+1610653,1793444400,5385,5387,Angkor Tiger,Boeung Ket,0,1,0,0
+1610654,1793444400,21735,5397,Dangkor Senchey,Visakha,0,3,0,1
+1610655,1793530800,5391,24520,National Defense,Life Sihanoukville,0,4,0,1
+1610657,1793530800,5394,26303,Phnom Penh Crown,Kompong Dewa,0,1,0,0
+1610656,1793530800,5566,5389,NagaWorld,Kirivong Sok Sen Chey,1,1,1,0
+1610659,1794040200,5389,26303,Kirivong Sok Sen Chey,Kompong Dewa,1,2,1,1
+1610660,1794049200,21735,24520,Dangkor Senchey,Life Sihanoukville,2,2,0,2
+1610662,1794135600,5385,5397,Angkor Tiger,Visakha,3,1,2,1
+1610658,1794135600,5394,5387,Phnom Penh Crown,Boeung Ket,1,2,0,2
+1610661,1794135600,5396,5566,Svay Rieng,NagaWorld,3,1,0,1

@@ -103,4 +103,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1604905,1794142800,17413,12692,Coffrane,Chênois,2,1,1.0,1.0
 1604906,1794144600,16339,12693,Stade Payerne,Lausanne Sport II,0,2,0.0,0.0
 1604907,1794148200,26346,17484,Azzurri Bienne,Prishtina Bern,1,2,0.0,1.0
-1604915,1794596400,16337,6623,Portalban / Gletterens,Echallens,2,1,,
+1604915,1794596400,16337,6623,Portalban / Gletterens,Echallens,2,1,1.0,0.0
+1604908,1794666600,10590,6630,Sion II,Meyrin,2,1,1.0,1.0
+1604911,1794668400,12693,17484,Lausanne Sport II,Prishtina Bern,1,1,0.0,0.0
+1604910,1794672000,6628,26346,Lancy,Azzurri Bienne,2,3,0.0,2.0
+1604909,1794672000,12692,6631,Chênois,Monthey,2,3,2.0,2.0
+1604912,1794673800,12697,12695,Vevey Sports,Naters,0,2,0.0,2.0
+1604913,1794747600,16323,10592,Servette II,La Chaux-de-Fonds,2,0,2.0,0.0
+1604914,1794749400,16339,17413,Stade Payerne,Coffrane,0,0,0.0,0.0

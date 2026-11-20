@@ -1,0 +1,113 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1396634,1760203800,19195,3342,Esperança d'Andorra,Inter Club d'Escaldes,1,2,1.0,1.0
+1396644,1760256000,3353,3346,Ranger's,Carroi,3,0,2.0,0.0
+1396653,1760808600,3353,3345,Ranger's,Atlètic Club d'Escaldes,2,1,0.0,1.0
+1396657,1760864400,3352,3346,Penya Encarnada,Carroi,2,1,0.0,0.0
+1396654,1760872500,591,703,FC Santa Coloma,UE Santa Coloma,1,0,1.0,0.0
+1396655,1760882400,3344,19195,Ordino,Esperança d'Andorra,1,1,1.0,1.0
+1396637,1761123600,3344,703,Ordino,UE Santa Coloma,0,2,0.0,2.0
+1396636,1761136200,591,3352,FC Santa Coloma,Penya Encarnada,1,0,0.0,0.0
+1396661,1761404400,3342,3344,Inter Club d'Escaldes,Ordino,2,1,1.0,0.0
+1396658,1761472800,3345,591,Atlètic Club d'Escaldes,FC Santa Coloma,2,2,1.0,1.0
+1396659,1761480900,3346,19196,Carroi,Pas de la Casa,0,0,0.0,0.0
+1396660,1761490800,19195,3353,Esperança d'Andorra,Ranger's,0,2,0.0,1.0
+1396662,1761501600,703,3352,UE Santa Coloma,Penya Encarnada,1,1,1.0,0.0
+1396633,1761732000,3345,3346,Atlètic Club d'Escaldes,Carroi,3,0,2.0,0.0
+1396639,1761744600,3342,3353,Inter Club d'Escaldes,Ranger's,1,1,1.0,1.0
+1396667,1762021800,3352,3345,Penya Encarnada,Atlètic Club d'Escaldes,0,2,0.0,0.0
+1396664,1762077600,3342,3346,Inter Club d'Escaldes,Carroi,3,1,1.0,0.0
+1396665,1762085700,3344,3353,Ordino,Ranger's,0,2,0.0,2.0
+1396666,1762095600,19196,703,Pas de la Casa,UE Santa Coloma,0,3,0.0,1.0
+1396663,1762106400,591,19195,FC Santa Coloma,Esperança d'Andorra,0,0,0.0,0.0
+1396642,1762349400,703,3345,UE Santa Coloma,Atlètic Club d'Escaldes,2,0,2.0,0.0
+1396641,1762435800,3352,3344,Penya Encarnada,Ordino,3,4,0.0,1.0
+1396671,1762682400,3344,3346,Ordino,Carroi,3,1,1.0,0.0
+1396672,1762690500,703,3342,UE Santa Coloma,Inter Club d'Escaldes,4,1,1.0,0.0
+1396669,1762700400,19195,3352,Esperança d'Andorra,Penya Encarnada,0,1,0.0,1.0
+1396670,1762711200,3353,591,Ranger's,FC Santa Coloma,0,0,0.0,0.0
+1396638,1763287200,3346,19195,Carroi,Esperança d'Andorra,2,1,1.0,0.0
+1396673,1763892000,3346,703,Carroi,UE Santa Coloma,0,5,0.0,3.0
+1396677,1763900100,3352,3353,Penya Encarnada,Ranger's,1,3,1.0,1.0
+1396675,1763910000,3342,3345,Inter Club d'Escaldes,Atlètic Club d'Escaldes,1,0,0.0,0.0
+1396674,1763920800,591,3344,FC Santa Coloma,Ordino,3,1,0.0,1.0
+1396645,1764163800,591,3342,FC Santa Coloma,Inter Club d'Escaldes,1,3,1.0,1.0
+1396643,1764172800,19195,703,Esperança d'Andorra,UE Santa Coloma,0,4,0.0,2.0
+1396646,1764237600,3344,3345,Ordino,Atlètic Club d'Escaldes,0,0,0.0,0.0
+1396679,1764496800,3353,19195,Ranger's,Esperança d'Andorra,3,1,1.0,0.0
+1396682,1764504900,703,3346,UE Santa Coloma,Carroi,0,0,0.0,0.0
+1396681,1764514800,3352,591,Penya Encarnada,FC Santa Coloma,0,6,0.0,1.0
+1396678,1764525600,3345,3344,Atlètic Club d'Escaldes,Ordino,1,0,1.0,0.0
+1396685,1765044000,3342,3346,Inter Club d'Escaldes,Carroi,2,0,1.0,0.0
+1396686,1765101600,3344,3352,Ordino,Penya Encarnada,2,4,0.0,2.0
+1396683,1765109700,19195,3345,Esperança d'Andorra,Atlètic Club d'Escaldes,0,1,0.0,0.0
+1396687,1765119600,703,3353,UE Santa Coloma,Ranger's,2,1,1.0,0.0
+1396652,1765360800,703,3353,UE Santa Coloma,Ranger's,1,0,1.0,0.0
+1396648,1765375200,3345,19195,Atlètic Club d'Escaldes,Esperança d'Andorra,3,0,2.0,0.0
+1396689,1765706400,3353,3342,Ranger's,Inter Club d'Escaldes,0,1,0.0,1.0
+1396692,1765714500,703,19195,UE Santa Coloma,Esperança d'Andorra,7,0,3.0,0.0
+1396690,1765724400,591,3346,FC Santa Coloma,Carroi,7,0,3.0,0.0
+1396688,1765735200,3345,3352,Atlètic Club d'Escaldes,Penya Encarnada,2,0,1.0,0.0
+1396649,1765965600,3346,591,Carroi,FC Santa Coloma,2,1,0.0,1.0
+1396650,1765978200,3342,3352,Inter Club d'Escaldes,Penya Encarnada,4,0,2.0,0.0
+1396694,1766255400,3346,3344,Carroi,Ordino,3,1,0.0,0.0
+1396693,1766311200,3345,703,Atlètic Club d'Escaldes,UE Santa Coloma,1,2,0.0,1.0
+1396696,1766319300,3342,19195,Inter Club d'Escaldes,Esperança d'Andorra,2,0,0.0,0.0
+1396695,1766329200,591,3353,FC Santa Coloma,Ranger's,2,0,1.0,0.0
+1396702,1768674600,3342,703,Inter Club d'Escaldes,UE Santa Coloma,2,1,2.0,0.0
+1396700,1768730400,19195,591,Esperança d'Andorra,FC Santa Coloma,0,2,0.0,2.0
+1396699,1768738500,3346,3352,Carroi,Penya Encarnada,0,0,0.0,0.0
+1396701,1768748400,3353,3344,Ranger's,Ordino,4,0,2.0,0.0
+1396705,1769279400,3353,3352,Ranger's,Penya Encarnada,4,0,0.0,0.0
+1396704,1769335200,19195,3344,Esperança d'Andorra,Ordino,1,2,1.0,1.0
+1396703,1769343300,3345,3342,Atlètic Club d'Escaldes,Inter Club d'Escaldes,0,1,0.0,0.0
+1396706,1769353200,591,703,FC Santa Coloma,UE Santa Coloma,1,2,0.0,1.0
+1396708,1769884200,3346,3345,Carroi,Atlètic Club d'Escaldes,1,4,0.0,1.0
+1396712,1769940000,703,3344,UE Santa Coloma,Ordino,1,0,1.0,0.0
+1396711,1769948100,3352,19195,Penya Encarnada,Esperança d'Andorra,1,0,0.0,0.0
+1396709,1769958000,3342,591,Inter Club d'Escaldes,FC Santa Coloma,1,1,0.0,0.0
+1396717,1770489000,3352,703,Penya Encarnada,UE Santa Coloma,2,1,0.0,0.0
+1396713,1770552900,3345,591,Atlètic Club d'Escaldes,FC Santa Coloma,2,3,1.0,1.0
+1396716,1770562800,3344,3342,Ordino,Inter Club d'Escaldes,0,2,0.0,0.0
+1396714,1770573600,3346,3353,Carroi,Ranger's,0,3,0.0,2.0
+1396718,1771081200,3345,3353,Atlètic Club d'Escaldes,Ranger's,0,2,0.0,2.0
+1396721,1771092000,3352,3342,Penya Encarnada,Inter Club d'Escaldes,0,1,0.0,1.0
+1396719,1771149600,19195,3346,Esperança d'Andorra,Carroi,0,0,0.0,0.0
+1396720,1771157700,3344,591,Ordino,FC Santa Coloma,2,1,0.0,0.0
+1396724,1771754400,591,3345,FC Santa Coloma,Atlètic Club d'Escaldes,3,0,1.0,0.0
+1396726,1771762500,3352,3346,Penya Encarnada,Carroi,0,0,0.0,0.0
+1396727,1771772400,703,3344,UE Santa Coloma,Ordino,2,1,1.0,0.0
+1396723,1771783200,19195,3353,Esperança d'Andorra,Ranger's,1,1,0.0,1.0
+1396728,1772303400,3345,19195,Atlètic Club d'Escaldes,Esperança d'Andorra,2,1,1.0,0.0
+1396730,1772367300,3353,703,Ranger's,UE Santa Coloma,1,2,1.0,0.0
+1396731,1772375400,3342,3352,Inter Club d'Escaldes,Penya Encarnada,2,1,0.0,0.0
+1396729,1772383500,3346,591,Carroi,FC Santa Coloma,0,2,0.0,0.0
+1396735,1772908200,3344,3353,Ordino,Ranger's,1,2,0.0,0.0
+1396734,1772972100,591,3342,FC Santa Coloma,Inter Club d'Escaldes,3,2,0.0,1.0
+1396733,1772982000,19195,3346,Esperança d'Andorra,Carroi,4,1,1.0,0.0
+1396737,1772992800,703,3345,UE Santa Coloma,Atlètic Club d'Escaldes,0,0,0.0,0.0
+1396742,1774117800,3352,591,Penya Encarnada,FC Santa Coloma,0,1,0.0,0.0
+1396738,1774181700,3345,3344,Atlètic Club d'Escaldes,Ordino,0,0,0.0,0.0
+1396739,1774191600,3346,703,Carroi,UE Santa Coloma,0,0,0.0,0.0
+1396741,1774202400,3342,19195,Inter Club d'Escaldes,Esperança d'Andorra,0,2,0.0,0.0
+1396744,1775916000,3353,3345,Ranger's,Atlètic Club d'Escaldes,3,1,1.0,0.0
+1396745,1775928600,3344,3346,Ordino,Carroi,5,0,2.0,0.0
+1396747,1775992500,703,3342,UE Santa Coloma,Inter Club d'Escaldes,1,1,1.0,1.0
+1396743,1776096000,19195,3352,Esperança d'Andorra,Penya Encarnada,0,1,0.0,1.0
+1396752,1776533400,3352,703,Penya Encarnada,UE Santa Coloma,0,2,0.0,1.0
+1396749,1776589200,3346,3353,Carroi,Ranger's,1,2,1.0,0.0
+1396750,1776597300,591,19195,FC Santa Coloma,Esperança d'Andorra,4,0,0.0,0.0
+1396751,1776607200,3342,3344,Inter Club d'Escaldes,Ordino,4,0,2.0,0.0
+1396757,1777125600,703,591,UE Santa Coloma,FC Santa Coloma,0,0,0.0,0.0
+1396754,1777138200,3353,3342,Ranger's,Inter Club d'Escaldes,3,5,2.0,3.0
+1396753,1777194000,3345,3346,Atlètic Club d'Escaldes,Carroi,3,0,1.0,0.0
+1396755,1777212000,3344,3352,Ordino,Penya Encarnada,0,1,0.0,0.0
+1396759,1778403600,591,3344,FC Santa Coloma,Ordino,0,1,0.0,0.0
+1396760,1778403600,3342,3345,Inter Club d'Escaldes,Atlètic Club d'Escaldes,3,1,1.0,1.0
+1396762,1778403600,3352,3353,Penya Encarnada,Ranger's,1,2,0.0,1.0
+1396758,1778403600,19195,703,Esperança d'Andorra,UE Santa Coloma,0,3,0.0,1.0
+1396766,1778940000,3344,19195,Ordino,Esperança d'Andorra,2,2,1.0,0.0
+1396764,1778940000,3346,3342,Carroi,Inter Club d'Escaldes,2,1,1.0,1.0
+1396765,1778957100,3353,591,Ranger's,FC Santa Coloma,2,0,2.0,0.0
+1396763,1779008400,3345,3352,Atlètic Club d'Escaldes,Penya Encarnada,2,0,2.0,0.0
+1546276,1779561000,3354,19195,Sporting Escaldes,Esperança d'Andorra,1,3,,
+1546289,1779906600,19195,3354,Esperança d'Andorra,Sporting Escaldes,2,0,1.0,0.0

@@ -1,0 +1,41 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1623125,1788633000,3346,591,Carroi,FC Santa Coloma,0,3,0,1
+1623126,1788685200,19195,3342,Esperança d'Andorra,Inter Club d'Escaldes,2,2,1,0
+1623127,1788696000,27343,3353,Casa de Portugal,Ranger's,1,1,1,0
+1623128,1788706800,3354,3344,Sporting Escaldes,Ordino,1,2,1,1
+1623129,1788717600,3352,3345,Penya Encarnada,Atlètic Club d'Escaldes,1,1,0,0
+1623130,1789237800,3345,3354,Atlètic Club d'Escaldes,Sporting Escaldes,4,1,1,1
+1623131,1789290000,3344,27343,Ordino,Casa de Portugal,3,2,2,0
+1623132,1789300800,3342,3346,Inter Club d'Escaldes,Carroi,3,0,2,0
+1623133,1789311600,3353,19195,Ranger's,Esperança d'Andorra,2,1,2,1
+1623134,1789322400,591,3352,FC Santa Coloma,Penya Encarnada,4,0,0,0
+1623135,1789842600,3346,3352,Carroi,Penya Encarnada,2,2,1,1
+1623136,1789894800,3354,591,Sporting Escaldes,FC Santa Coloma,1,5,0,2
+1623137,1789905600,19195,3344,Esperança d'Andorra,Ordino,4,0,4,0
+1623138,1789916400,27343,3345,Casa de Portugal,Atlètic Club d'Escaldes,0,3,0,2
+1623139,1789927200,3342,3353,Inter Club d'Escaldes,Ranger's,3,0,1,0
+1623140,1791657000,3344,3342,Ordino,Inter Club d'Escaldes,0,4,0,2
+1623141,1791709200,3353,3346,Ranger's,Carroi,3,0,2,0
+1623142,1791720000,3352,3354,Penya Encarnada,Sporting Escaldes,2,0,2,0
+1623143,1791730800,591,27343,FC Santa Coloma,Casa de Portugal,5,0,2,0
+1623144,1791741600,3345,19195,Atlètic Club d'Escaldes,Esperança d'Andorra,1,1,0,1
+1623145,1792261800,3353,3344,Ranger's,Ordino,0,1,0,0
+1623149,1792314000,3346,3354,Carroi,Sporting Escaldes,0,1,0,0
+1623147,1792324800,19195,591,Esperança d'Andorra,FC Santa Coloma,1,2,0,1
+1623148,1792335600,27343,3352,Casa de Portugal,Penya Encarnada,3,0,2,0
+1623146,1792346400,3342,3345,Inter Club d'Escaldes,Atlètic Club d'Escaldes,4,2,0,1
+1623154,1792866600,3354,27343,Sporting Escaldes,Casa de Portugal,1,1,1,0
+1623151,1792922400,3352,19195,Penya Encarnada,Esperança d'Andorra,0,1,0,1
+1623152,1792933200,3345,3353,Atlètic Club d'Escaldes,Ranger's,1,1,1,0
+1623153,1792944000,3344,3346,Ordino,Carroi,3,2,1,0
+1623150,1792954800,591,3342,FC Santa Coloma,Inter Club d'Escaldes,1,1,1,1
+1623155,1793475000,19195,3354,Esperança d'Andorra,Sporting Escaldes,5,1,1,0
+1623156,1793527200,3344,3345,Ordino,Atlètic Club d'Escaldes,0,2,0,1
+1623157,1793538000,3346,27343,Carroi,Casa de Portugal,0,3,0,2
+1623158,1793548800,3342,3352,Inter Club d'Escaldes,Penya Encarnada,0,0,0,0
+1623159,1793559600,3353,591,Ranger's,FC Santa Coloma,0,2,0,2
+1623160,1794079800,27343,19195,Casa de Portugal,Esperança d'Andorra,2,4,1,2
+1623161,1794132000,3352,3353,Penya Encarnada,Ranger's,1,0,0,0
+1623162,1794142800,591,3344,FC Santa Coloma,Ordino,4,0,2,0
+1623163,1794153600,3346,3345,Carroi,Atlètic Club d'Escaldes,0,2,0,1
+1623164,1794164400,3354,3342,Sporting Escaldes,Inter Club d'Escaldes,1,1,0,0

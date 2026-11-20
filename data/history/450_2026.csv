@@ -94,4 +94,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1616166,1794657600,25036,9797,Playas Sotavento,Lanzarote,2,1,1.0,0.0
 1616161,1794675600,9798,28114,Las Palmas III,Villaverde Norte,2,1,1.0,0.0
 1616160,1794675600,22143,9807,Laguna de Duero,Villa Santa Brígida,3,0,1.0,0.0
-1616162,1794675600,24611,28113,Los Llanos,Anaza,3,0,,
+1616162,1794675600,24611,28113,Los Llanos,Anaza,3,0,1.0,0.0
+1616159,1794744000,9799,26851,Marino,Tenerife C,0,0,0.0,0.0
+1616165,1794744000,9804,27623,UD San Fernando,San Miguel,0,0,0.0,0.0
