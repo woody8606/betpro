@@ -64,3 +64,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1557810,1794063600,6762,6781,Clyde,Spartans,3,2,1,2
 1557811,1794063600,6767,1382,Elgin City,Dumbarton,0,2,0,1
 1557813,1794063600,6785,4669,Stranraer,Stirling Albion,3,0,2,0
+1557814,1794668400,1382,6757,Dumbarton,Annan Athletic,0,5,0,3
+1557816,1794668400,4250,6781,Forfar Athletic,Spartans,2,1,1,0
+1557818,1794668400,4669,6767,Stirling Albion,Elgin City,2,1,0,0
+1557815,1794668400,6766,6762,Edinburgh City,Clyde,2,6,2,2
+1557817,1794668400,6773,6785,Kelty Hearts,Stranraer,0,1,0,1

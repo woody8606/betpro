@@ -182,3 +182,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1597010,1794668400,7735,7696,Needham Market,Banbury United,2,0,2,0
 1597008,1794668400,8656,7727,Leamington,Leiston,2,2,2,1
 1597009,1794668400,8846,7750,Leighton Town,Stratford Town,2,2,0,1
+1596943,1794944700,7727,7750,Leiston,Stratford Town,1,0,0,0
+1596884,1794944700,8656,7644,Leamington,Halesowen Town,0,3,0,1
+1596946,1794944700,9010,8654,Worcester City,Kettering Town,2,1,0,0

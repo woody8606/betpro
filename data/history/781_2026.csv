@@ -142,3 +142,10 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1568860,1794052800,12801,19693,Kalisz,Luzino,1,1,1.0,0.0
 1568863,1794052800,16246,6948,Flota Świnoujście,Polonia Środa,1,0,0.0,0.0
 1568864,1794052800,19723,24328,Victoria Września,Wda Świecie,3,3,2.0,0.0
+1568869,1794654000,19693,16246,Luzino,Flota Świnoujście,1,2,0.0,0.0
+1568866,1794654000,24786,12801,Grom Nowy Staw,Kalisz,0,1,0.0,1.0
+1568872,1794657600,16257,18385,Unia Swarzędz,Gedania Gdansk,4,3,1.0,3.0
+1568867,1794657600,17398,19723,Kluczevia Stargard,Victoria Września,1,1,1.0,1.0
+1568870,1794657600,21657,26180,Noteć Czarnków,Lipno Stęszew,3,0,2.0,0.0
+1568873,1794659400,24328,6934,Wda Świecie,Chemik Bydgoszcz,1,1,0.0,1.0
+1568871,1794668400,6948,24327,Polonia Środa,Kotwica Kórnik,3,1,1.0,0.0

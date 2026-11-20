@@ -1,0 +1,118 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1484472,1761897600,1974,1969,Western Sydney Wanderers W,Perth Glory FC W,1,3,0,1
+1484473,1761966900,1968,1971,Sydney FC W,Melbourne City W,2,2,1,1
+1484474,1761976800,1973,1976,Brisbane Roar FC W,Melbourne Victory W,3,2,1,2
+1484475,1762053300,22292,1972,Central Coast Mariners W,Adelaide United W,3,0,2,0
+1484476,1762059600,1970,1975,Canberra United W,Newcastle Jets FC W,1,2,1,1
+1484477,1762502400,1969,1973,Perth Glory FC W,Brisbane Roar FC W,2,3,1,1
+1484478,1762570800,17905,1970,Wellington Phoenix W,Canberra United W,1,1,1,1
+1484479,1762574400,1971,22292,Melbourne City W,Central Coast Mariners W,4,0,2,0
+1484480,1762578000,1972,1968,Adelaide United W,Sydney FC W,0,0,0,0
+1484481,1762664400,1974,1976,Western Sydney Wanderers W,Melbourne Victory W,1,4,1,2
+1484482,1763107200,1972,1970,Adelaide United W,Canberra United W,2,1,1,1
+1484483,1763178300,1968,1969,Sydney FC W,Perth Glory FC W,2,0,0,0
+1484484,1763186400,1976,22292,Melbourne Victory W,Central Coast Mariners W,1,0,0,0
+1484485,1763262000,17905,1975,Wellington Phoenix W,Newcastle Jets FC W,1,1,1,1
+1484486,1763269200,1973,1974,Brisbane Roar FC W,Western Sydney Wanderers W,0,1,0,0
+1484487,1763784000,1975,1974,Newcastle Jets FC W,Western Sydney Wanderers W,1,0,1,0
+1484488,1763787600,1970,1969,Canberra United W,Perth Glory FC W,3,0,2,0
+1484489,1763866800,17905,1976,Wellington Phoenix W,Melbourne Victory W,1,0,1,0
+1484491,1763874000,1968,22292,Sydney FC W,Central Coast Mariners W,1,0,0,0
+1484494,1764478800,1976,1969,Melbourne Victory W,Perth Glory FC W,3,0,3,0
+1484496,1764921600,1976,1970,Melbourne Victory W,Canberra United W,1,3,1,1
+1484498,1765080000,1971,17905,Melbourne City W,Wellington Phoenix W,1,0,0,0
+1484499,1765086600,1972,1973,Adelaide United W,Brisbane Roar FC W,1,3,0,2
+1484500,1765087200,1974,1968,Western Sydney Wanderers W,Sydney FC W,0,0,0,0
+1484497,1765094400,22292,1975,Central Coast Mariners W,Newcastle Jets FC W,4,1,1,1
+1484493,1765346400,1970,1968,Canberra United W,Sydney FC W,2,0,0,0
+1484502,1765537200,1969,17905,Perth Glory FC W,Wellington Phoenix W,1,0,0,0
+1484495,1765594800,1975,1973,Newcastle Jets FC W,Brisbane Roar FC W,3,0,2,0
+1484503,1765605000,1976,1972,Melbourne Victory W,Adelaide United W,1,0,0,0
+1484504,1765607400,1970,1971,Canberra United W,Melbourne City W,2,1,0,0
+1484505,1765699200,1974,22292,Western Sydney Wanderers W,Central Coast Mariners W,1,2,0,2
+1484506,1766131200,1975,1976,Newcastle Jets FC W,Melbourne Victory W,1,3,0,1
+1484508,1766199600,17905,1968,Wellington Phoenix W,Sydney FC W,7,0,3,0
+1484509,1766210400,1970,22292,Canberra United W,Central Coast Mariners W,1,1,0,0
+1484510,1766307600,1969,1972,Perth Glory FC W,Adelaide United W,1,0,1,0
+1484517,1766467800,1971,1976,Melbourne City W,Melbourne Victory W,2,1,0,1
+1484512,1766814600,1972,1974,Adelaide United W,Western Sydney Wanderers W,5,2,3,0
+1484513,1766815200,22292,1976,Central Coast Mariners W,Melbourne Victory W,3,3,1,0
+1484514,1766818800,1975,1970,Newcastle Jets FC W,Canberra United W,0,1,0,0
+1484515,1766898900,1971,1969,Melbourne City W,Perth Glory FC W,3,1,2,0
+1484518,1767081600,1974,17905,Western Sydney Wanderers W,Wellington Phoenix W,0,3,0,1
+1484519,1767158100,22292,1973,Central Coast Mariners W,Brisbane Roar FC W,3,2,2,2
+1484520,1767420000,1974,1970,Western Sydney Wanderers W,Canberra United W,1,1,0,1
+1484521,1767429900,1973,17905,Brisbane Roar FC W,Wellington Phoenix W,2,2,2,1
+1484522,1767434400,1969,1975,Perth Glory FC W,Newcastle Jets FC W,1,0,1,0
+1484523,1767505800,1972,22292,Adelaide United W,Central Coast Mariners W,1,0,0,0
+1484524,1767506400,1971,1968,Melbourne City W,Sydney FC W,1,0,0,0
+1484525,1767945600,1968,1972,Sydney FC W,Adelaide United W,0,0,0,0
+1484526,1767956400,1969,1974,Perth Glory FC W,Western Sydney Wanderers W,3,1,2,0
+1484527,1768014000,17905,1971,Wellington Phoenix W,Melbourne City W,1,2,0,2
+1484528,1768032000,1975,22292,Newcastle Jets FC W,Central Coast Mariners W,1,2,1,0
+1484529,1768111200,1976,1973,Melbourne Victory W,Brisbane Roar FC W,0,1,0,0
+1484501,1768291200,1968,1975,Sydney FC W,Newcastle Jets FC W,1,2,1,1
+1484530,1768542600,1971,1975,Melbourne City W,Newcastle Jets FC W,1,3,1,1
+1484531,1768550400,1974,1973,Western Sydney Wanderers W,Brisbane Roar FC W,1,1,0,0
+1484532,1768629000,1972,1976,Adelaide United W,Melbourne Victory W,2,1,1,1
+1484533,1768631400,1970,17905,Canberra United W,Wellington Phoenix W,0,2,0,0
+1484534,1768716000,22292,1969,Central Coast Mariners W,Perth Glory FC W,1,1,0,1
+1484507,1768899600,1973,1971,Brisbane Roar FC W,Melbourne City W,1,1,0,1
+1484535,1768982400,1975,1972,Newcastle Jets FC W,Adelaide United W,1,2,1,0
+1484536,1769155200,1973,1970,Brisbane Roar FC W,Canberra United W,3,1,1,1
+1484537,1769234400,22292,1974,Central Coast Mariners W,Western Sydney Wanderers W,1,2,1,1
+1484538,1769245200,1969,1971,Perth Glory FC W,Melbourne City W,0,2,0,1
+1484539,1769310000,17905,1972,Wellington Phoenix W,Adelaide United W,3,1,2,0
+1484540,1769320800,1976,1968,Melbourne Victory W,Sydney FC W,0,0,0,0
+1484541,1769598000,1969,1968,Perth Glory FC W,Sydney FC W,0,0,0,0
+1484543,1769763600,1973,22292,Brisbane Roar FC W,Central Coast Mariners W,2,2,1,1
+1484542,1769837400,1972,1971,Adelaide United W,Melbourne City W,2,1,1,0
+1484544,1769839200,1968,1974,Sydney FC W,Western Sydney Wanderers W,2,3,1,1
+1484545,1769914800,1970,1976,Canberra United W,Melbourne Victory W,3,1,0,0
+1484546,1769925600,1975,17905,Newcastle Jets FC W,Wellington Phoenix W,1,5,0,4
+1484511,1770186600,1971,1974,Melbourne City W,Western Sydney Wanderers W,0,1,0,1
+1484516,1770193800,1968,1973,Sydney FC W,Brisbane Roar FC W,1,3,1,2
+1484547,1770346800,17905,1969,Wellington Phoenix W,Perth Glory FC W,1,0,1,0
+1484549,1770453000,1976,1975,Melbourne Victory W,Newcastle Jets FC W,2,1,0,0
+1484551,1770530400,1968,1970,Sydney FC W,Canberra United W,1,2,1,1
+1484550,1770530400,1971,1973,Melbourne City W,Brisbane Roar FC W,5,2,2,2
+1484548,1770537600,1974,1972,Western Sydney Wanderers W,Adelaide United W,0,1,0,0
+1484552,1770961800,1974,1975,Western Sydney Wanderers W,Newcastle Jets FC W,1,1,1,0
+1484553,1770969600,1973,1968,Brisbane Roar FC W,Sydney FC W,0,4,0,0
+1484554,1771059600,1969,1970,Perth Glory FC W,Canberra United W,1,0,0,0
+1484555,1771124400,17905,22292,Wellington Phoenix W,Central Coast Mariners W,1,2,1,2
+1484556,1771135200,1976,1971,Melbourne Victory W,Melbourne City W,0,0,0,0
+1484558,1771574400,1976,17905,Melbourne Victory W,Wellington Phoenix W,1,1,0,0
+1484557,1771574400,22292,1971,Central Coast Mariners W,Melbourne City W,1,3,0,0
+1484559,1771651800,1970,1974,Canberra United W,Western Sydney Wanderers W,3,0,1,0
+1484560,1771653600,1975,1969,Newcastle Jets FC W,Perth Glory FC W,2,3,1,1
+1484561,1771743600,1973,1972,Brisbane Roar FC W,Adelaide United W,0,2,0,1
+1484562,1773388800,1972,1969,Adelaide United W,Perth Glory FC W,2,1,1,1
+1484563,1773388800,1975,1968,Newcastle Jets FC W,Sydney FC W,3,1,2,1
+1484564,1773464400,17905,1973,Wellington Phoenix W,Brisbane Roar FC W,3,0,2,0
+1484565,1773471600,1976,1974,Melbourne Victory W,Western Sydney Wanderers W,1,0,0,0
+1484566,1773543600,1971,1970,Melbourne City W,Canberra United W,3,1,0,0
+1484490,1773811800,1971,1972,Melbourne City W,Adelaide United W,0,0,0,0
+1484568,1773993600,1968,17905,Sydney FC W,Wellington Phoenix W,1,3,1,1
+1484567,1773997200,1973,1975,Brisbane Roar FC W,Newcastle Jets FC W,4,2,0,0
+1484569,1774072800,1969,22292,Perth Glory FC W,Central Coast Mariners W,0,0,0,0
+1484570,1774148400,1970,1972,Canberra United W,Adelaide United W,3,2,1,1
+1484571,1774155600,1974,1971,Western Sydney Wanderers W,Melbourne City W,1,2,0,2
+1484492,1774425600,22292,17905,Central Coast Mariners W,Wellington Phoenix W,2,1,0,0
+1484572,1774602000,1973,1969,Brisbane Roar FC W,Perth Glory FC W,5,2,2,1
+1484573,1774669500,1972,1975,Adelaide United W,Newcastle Jets FC W,1,3,1,1
+1484574,1774677600,1968,1976,Sydney FC W,Melbourne Victory W,2,1,1,1
+1484575,1774753200,17905,1974,Wellington Phoenix W,Western Sydney Wanderers W,0,1,0,0
+1484576,1774760400,22292,1970,Central Coast Mariners W,Canberra United W,0,0,0,0
+1484577,1775195400,1972,17905,Adelaide United W,Wellington Phoenix W,0,2,0,2
+1484578,1775203200,1969,1976,Perth Glory FC W,Melbourne Victory W,0,1,0,1
+1484580,1775272500,22292,1968,Central Coast Mariners W,Sydney FC W,0,0,0,0
+1484579,1775275200,1970,1973,Canberra United W,Brisbane Roar FC W,1,2,0,1
+1484581,1775368800,1975,1971,Newcastle Jets FC W,Melbourne City W,1,2,0,0
+1539695,1777089600,1970,1976,Canberra United W,Melbourne Victory W,1,3,1,2
+1539694,1777100400,1973,1972,Brisbane Roar FC W,Adelaide United W,3,0,0,0
+1542800,1777705200,1976,1971,Melbourne Victory W,Melbourne City W,0,1,0,1
+1542799,1777791600,1973,17905,Brisbane Roar FC W,Wellington Phoenix W,2,1,1,1
+1542801,1778299200,1971,1976,Melbourne City W,Melbourne Victory W,1,0,1,0
+1542802,1778380200,17905,1973,Wellington Phoenix W,Brisbane Roar FC W,2,0,1,0
+1544697,1778912100,1971,17905,Melbourne City W,Wellington Phoenix W,3,1,2,0

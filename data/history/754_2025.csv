@@ -1,0 +1,241 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1406686,1754067600,9356,12874,Optik Rathenow,Tasmania Berlin,0,1,0,1
+1418151,1754067600,12820,22909,Neustrelitz,Siedenbollentin,0,2,0,2
+1406687,1754071200,22912,12876,Union Klosterfelde,Tennis Borussia,1,3,0,0
+1406688,1754132400,9354,14722,Lichtenberg,Makkabi,2,1,0,0
+1406690,1754136000,16119,13946,Hansa Rostock II,Anker Wismar,1,3,0,0
+1406691,1754222400,9351,18384,BAK '07,Dynamo Schwerin,1,1,0,1
+1406689,1754222400,12759,12858,Eintracht Mahlsdorf,Sparta Lichtenberg,0,2,0,1
+1406692,1754224200,26169,4266,Croatia Berlin,Viktoria Berlin,1,0,1,0
+1406693,1754674200,18384,12820,Dynamo Schwerin,Neustrelitz,3,2,0,1
+1406694,1754740800,22909,12759,Siedenbollentin,Eintracht Mahlsdorf,1,4,0,2
+1406699,1754744400,13946,26169,Anker Wismar,Croatia Berlin,3,0,1,0
+1406696,1754827200,4266,9354,Viktoria Berlin,Lichtenberg,1,3,1,2
+1406698,1754827200,12858,9356,Sparta Lichtenberg,Optik Rathenow,4,0,3,0
+1406695,1754827200,12874,16119,Tasmania Berlin,Hansa Rostock II,0,1,0,0
+1406697,1754827200,12876,9351,Tennis Borussia,BAK '07,4,1,2,1
+1406700,1754827200,14722,22912,Makkabi,Union Klosterfelde,1,0,0,0
+1406708,1755885600,18384,12876,Dynamo Schwerin,Tennis Borussia,1,2,0,1
+1406702,1755946800,9354,13946,Lichtenberg,Anker Wismar,2,1,1,0
+1406704,1755950400,9356,22909,Optik Rathenow,Siedenbollentin,1,3,0,2
+1406707,1756036800,12820,12759,Neustrelitz,Eintracht Mahlsdorf,1,1,1,1
+1406705,1756036800,22912,4266,Union Klosterfelde,Viktoria Berlin,5,0,2,0
+1406703,1756038600,26169,12874,Croatia Berlin,Tasmania Berlin,2,5,1,1
+1406706,1756040400,16119,12858,Hansa Rostock II,Sparta Lichtenberg,4,3,3,1
+1406701,1756042200,9351,14722,BAK '07,Makkabi,1,4,0,1
+1406715,1756486800,12876,12820,Tennis Borussia,Neustrelitz,0,3,0,1
+1406709,1756558800,13946,22912,Anker Wismar,Union Klosterfelde,3,3,3,2
+1406716,1756638000,14722,18384,Makkabi,Dynamo Schwerin,2,1,1,0
+1406713,1756641600,4266,9351,Viktoria Berlin,BAK '07,2,4,0,1
+1406711,1756641600,12759,9356,Eintracht Mahlsdorf,Optik Rathenow,2,2,2,2
+1406710,1756641600,12858,26169,Sparta Lichtenberg,Croatia Berlin,6,3,2,1
+1406714,1756641600,12874,9354,Tasmania Berlin,Lichtenberg,2,1,1,0
+1406712,1756641600,22909,16119,Siedenbollentin,Hansa Rostock II,2,2,1,1
+1406722,1757764800,18384,4266,Dynamo Schwerin,Viktoria Berlin,3,1,1,0
+1406721,1757773800,9351,13946,BAK '07,Anker Wismar,4,3,2,0
+1422521,1757844000,12876,14722,Tennis Borussia,Makkabi,0,3,0,0
+1406720,1757847600,9354,12858,Lichtenberg,Sparta Lichtenberg,0,2,0,1
+1406718,1757851200,12820,9356,Neustrelitz,Optik Rathenow,5,1,1,1
+1406836,1757851200,12874,22912,Tasmania Berlin,Union Klosterfelde,0,0,0,0
+1406723,1757851200,16119,12759,Hansa Rostock II,Eintracht Mahlsdorf,4,0,4,0
+1406719,1757851200,26169,22909,Croatia Berlin,Siedenbollentin,1,1,0,1
+1406728,1758303000,12874,9351,Tasmania Berlin,BAK '07,3,1,2,1
+1406725,1758366000,13946,18384,Anker Wismar,Dynamo Schwerin,2,1,0,0
+1406730,1758369600,22909,9354,Siedenbollentin,Lichtenberg,4,3,1,0
+1406724,1758373200,4266,12876,Viktoria Berlin,Tennis Borussia,3,3,1,1
+1406726,1758452400,14722,12820,Makkabi,Neustrelitz,1,2,0,2
+1406731,1758456000,9356,16119,Optik Rathenow,Hansa Rostock II,2,3,0,0
+1406727,1758456000,12759,26169,Eintracht Mahlsdorf,Croatia Berlin,4,1,1,0
+1406729,1758456000,12858,22912,Sparta Lichtenberg,Union Klosterfelde,1,1,1,0
+1406738,1758906000,9354,12759,Lichtenberg,Eintracht Mahlsdorf,4,3,1,1
+1406736,1758909600,12876,13946,Tennis Borussia,Anker Wismar,2,1,1,0
+1444819,1758974400,22912,22909,Union Klosterfelde,Siedenbollentin,2,2,2,0
+1406733,1759053600,14722,4266,Makkabi,Viktoria Berlin,3,1,1,0
+1406734,1759060800,12820,16119,Neustrelitz,Hansa Rostock II,2,3,0,2
+1406737,1759060800,18384,12874,Dynamo Schwerin,Tasmania Berlin,3,1,2,0
+1406732,1759060800,26169,9356,Croatia Berlin,Optik Rathenow,0,3,0,0
+1406735,1759064400,9351,12858,BAK '07,Sparta Lichtenberg,4,1,3,1
+1406745,1759426200,12874,12876,Tasmania Berlin,Tennis Borussia,2,0,0,0
+1406743,1759489200,4266,12820,Viktoria Berlin,Neustrelitz,1,2,0,1
+1406746,1759492800,9356,9354,Optik Rathenow,Lichtenberg,2,2,1,1
+1406739,1759579200,22909,9351,Siedenbollentin,BAK '07,2,1,1,0
+1406741,1759665600,12759,22912,Eintracht Mahlsdorf,Union Klosterfelde,1,1,1,0
+1406742,1759665600,12858,18384,Sparta Lichtenberg,Dynamo Schwerin,2,3,1,2
+1406740,1759665600,13946,14722,Anker Wismar,Makkabi,3,0,0,0
+1406744,1759665600,16119,26169,Hansa Rostock II,Croatia Berlin,2,1,2,1
+1406794,1760270400,16119,14722,Hansa Rostock II,Makkabi,1,3,0,2
+1406747,1760720400,4266,13946,Viktoria Berlin,Anker Wismar,3,4,1,2
+1406749,1760722200,12876,12858,Tennis Borussia,Sparta Lichtenberg,2,1,0,0
+1406753,1760724000,18384,22909,Dynamo Schwerin,Siedenbollentin,2,2,0,2
+1406752,1760788800,9351,12759,BAK '07,Eintracht Mahlsdorf,0,2,0,1
+1406750,1760875200,9354,16119,Lichtenberg,Hansa Rostock II,4,1,2,1
+1406751,1760875200,12820,26169,Neustrelitz,Croatia Berlin,0,1,0,0
+1406748,1760875200,14722,12874,Makkabi,Tasmania Berlin,3,1,0,0
+1406754,1760875200,22912,9356,Union Klosterfelde,Optik Rathenow,1,2,0,2
+1406759,1761393600,9356,9351,Optik Rathenow,BAK '07,1,2,0,1
+1406756,1761393600,22909,12876,Siedenbollentin,Tennis Borussia,2,0,1,0
+1406757,1761483600,12759,18384,Eintracht Mahlsdorf,Dynamo Schwerin,2,2,0,0
+1406758,1761483600,12858,14722,Sparta Lichtenberg,Makkabi,3,2,0,0
+1406762,1761483600,12874,4266,Tasmania Berlin,Viktoria Berlin,10,3,4,2
+1406761,1761483600,16119,22912,Hansa Rostock II,Union Klosterfelde,2,3,0,0
+1406755,1761483600,26169,9354,Croatia Berlin,Lichtenberg,2,5,1,1
+1406765,1762002000,18384,9356,Dynamo Schwerin,Optik Rathenow,0,1,0,0
+1406768,1762003800,4266,12858,Viktoria Berlin,Sparta Lichtenberg,4,1,0,0
+1406770,1762086600,12820,9354,Neustrelitz,Lichtenberg,0,3,0,2
+1406764,1762086600,12876,12759,Tennis Borussia,Eintracht Mahlsdorf,0,1,0,1
+1406769,1762086600,13946,12874,Anker Wismar,Tasmania Berlin,0,3,0,1
+1406767,1762086600,14722,22909,Makkabi,Siedenbollentin,0,0,0,0
+1406763,1762086600,22912,26169,Union Klosterfelde,Croatia Berlin,3,1,2,0
+1406775,1762538400,9354,22912,Lichtenberg,Union Klosterfelde,2,0,0,0
+1406777,1762605000,9356,12876,Optik Rathenow,Tennis Borussia,1,1,1,1
+1406778,1762605000,22909,4266,Siedenbollentin,Viktoria Berlin,1,1,1,0
+1406771,1762691400,12759,14722,Eintracht Mahlsdorf,Makkabi,4,2,2,1
+1406773,1762691400,12858,13946,Sparta Lichtenberg,Anker Wismar,5,1,2,0
+1406774,1762691400,12874,12820,Tasmania Berlin,Neustrelitz,2,0,0,0
+1406776,1762691400,16119,18384,Hansa Rostock II,Dynamo Schwerin,2,2,0,1
+1406772,1762691400,26169,9351,Croatia Berlin,BAK '07,1,1,1,0
+1406780,1763290800,14722,9356,Makkabi,Optik Rathenow,1,4,0,2
+1406785,1763492400,13946,22909,Anker Wismar,Siedenbollentin,3,0,2,0
+1406782,1763577000,12876,16119,Tennis Borussia,Hansa Rostock II,4,0,1,0
+1406793,1763749800,9356,4266,Optik Rathenow,Viktoria Berlin,2,1,1,0
+1406790,1763814600,12820,12858,Neustrelitz,Sparta Lichtenberg,6,1,2,1
+1406787,1763814600,22909,12874,Siedenbollentin,Tasmania Berlin,2,4,0,1
+1406789,1763901000,12759,13946,Eintracht Mahlsdorf,Anker Wismar,2,1,0,0
+1406791,1763901000,22912,9351,Union Klosterfelde,BAK '07,2,1,1,1
+1406788,1763901000,26169,12876,Croatia Berlin,Tennis Borussia,2,1,1,0
+1406796,1764354600,12874,12759,Tasmania Berlin,Eintracht Mahlsdorf,3,0,2,0
+1406795,1764417600,13946,9356,Anker Wismar,Optik Rathenow,1,1,0,0
+1406798,1764424800,18384,22912,Dynamo Schwerin,Union Klosterfelde,2,0,0,0
+1406802,1764500400,14722,26169,Makkabi,Croatia Berlin,2,1,1,0
+1406800,1764505800,4266,16119,Viktoria Berlin,Hansa Rostock II,4,2,4,0
+1406801,1764505800,12876,9354,Tennis Borussia,Lichtenberg,3,4,1,1
+1406797,1764507600,12858,22909,Sparta Lichtenberg,Siedenbollentin,3,4,2,3
+1406799,1764509400,9351,12820,BAK '07,Neustrelitz,1,2,0,1
+1406803,1764957600,13946,16119,Anker Wismar,Hansa Rostock II,3,2,2,1
+1406806,1764959400,12876,22912,Tennis Borussia,Union Klosterfelde,0,5,0,3
+1406804,1765022400,22909,12820,Siedenbollentin,Neustrelitz,1,2,1,1
+1406809,1765026000,12858,12759,Sparta Lichtenberg,Eintracht Mahlsdorf,2,2,1,0
+1406805,1765026000,18384,9351,Dynamo Schwerin,BAK '07,0,1,0,1
+1406810,1765105200,14722,9354,Makkabi,Lichtenberg,1,3,0,1
+1406807,1765108800,4266,26169,Viktoria Berlin,Croatia Berlin,0,8,0,3
+1406808,1765108800,12874,9356,Tasmania Berlin,Optik Rathenow,4,1,3,1
+1406779,1765562400,4266,12759,Viktoria Berlin,Eintracht Mahlsdorf,1,5,0,1
+1406784,1765566000,12820,22912,Neustrelitz,Union Klosterfelde,5,1,3,0
+1406786,1765627200,9351,9354,BAK '07,Lichtenberg,4,5,1,4
+1406781,1765713600,12874,12858,Tasmania Berlin,Sparta Lichtenberg,5,0,3,0
+1406783,1765713600,18384,26169,Dynamo Schwerin,Croatia Berlin,0,0,0,0
+1406813,1771156800,22912,14722,Union Klosterfelde,Makkabi,3,1,1,0
+1406819,1771761600,4266,22912,Viktoria Berlin,Union Klosterfelde,1,5,0,5
+1406825,1771761600,12759,12820,Eintracht Mahlsdorf,Neustrelitz,2,1,1,0
+1406824,1771761600,12874,26169,Tasmania Berlin,Croatia Berlin,2,0,0,0
+1406826,1771765200,12858,16119,Sparta Lichtenberg,Hansa Rostock II,3,1,1,0
+1406833,1772217000,12820,12876,Neustrelitz,Tennis Borussia,3,2,3,0
+1406827,1772218800,22912,13946,Union Klosterfelde,Anker Wismar,3,1,3,0
+1406830,1772280000,9351,4266,BAK '07,Viktoria Berlin,1,2,0,1
+1406831,1772283600,9356,12759,Optik Rathenow,Eintracht Mahlsdorf,0,0,0,0
+1406829,1772283600,18384,14722,Dynamo Schwerin,Makkabi,0,2,0,1
+1406828,1772366400,9354,12874,Lichtenberg,Tasmania Berlin,1,2,1,2
+1406834,1772366400,16119,22909,Hansa Rostock II,Siedenbollentin,3,1,2,0
+1406832,1772371800,26169,12858,Croatia Berlin,Sparta Lichtenberg,3,5,2,2
+1406760,1772562600,13946,12820,Anker Wismar,Neustrelitz,1,1,0,0
+1406811,1772647200,9354,4266,Lichtenberg,Viktoria Berlin,7,0,4,0
+1406835,1772820000,9356,12820,Optik Rathenow,Neustrelitz,0,2,0,2
+1406717,1772823600,22912,12874,Union Klosterfelde,Tasmania Berlin,2,0,1,0
+1406839,1772884800,4266,18384,Viktoria Berlin,Dynamo Schwerin,1,1,0,1
+1406841,1772884800,13946,9351,Anker Wismar,BAK '07,1,2,1,1
+1406842,1772967600,14722,12876,Makkabi,Tennis Borussia,4,1,3,1
+1406838,1772971200,12759,16119,Eintracht Mahlsdorf,Hansa Rostock II,4,0,2,0
+1406840,1772971200,22909,26169,Siedenbollentin,Croatia Berlin,4,3,2,2
+1406837,1772974800,12858,9354,Sparta Lichtenberg,Lichtenberg,3,3,1,2
+1406815,1773252000,9351,12876,BAK '07,Tennis Borussia,2,1,1,0
+1406843,1773424800,18384,13946,Dynamo Schwerin,Anker Wismar,2,2,1,1
+1406849,1773489600,9351,12874,BAK '07,Tasmania Berlin,0,7,0,3
+1406847,1773489600,9354,22909,Lichtenberg,Siedenbollentin,3,1,3,0
+1406848,1773576000,12820,14722,Neustrelitz,Makkabi,4,0,1,0
+1406850,1773576000,12876,4266,Tennis Borussia,Viktoria Berlin,2,1,1,1
+1406846,1773576000,16119,9356,Hansa Rostock II,Optik Rathenow,2,1,1,0
+1406845,1773576000,22912,12858,Union Klosterfelde,Sparta Lichtenberg,2,1,1,1
+1406844,1773581400,26169,12759,Croatia Berlin,Eintracht Mahlsdorf,1,3,0,2
+1406812,1773856800,9356,12858,Optik Rathenow,Sparta Lichtenberg,2,1,1,1
+1406821,1773856800,14722,9351,Makkabi,BAK '07,2,3,0,2
+1406816,1773856800,16119,12874,Hansa Rostock II,Tasmania Berlin,2,0,1,0
+1406854,1774094400,9356,26169,Optik Rathenow,Croatia Berlin,3,1,1,0
+1406855,1774094400,13946,12876,Anker Wismar,Tennis Borussia,1,0,0,0
+1406852,1774094400,22909,22912,Siedenbollentin,Union Klosterfelde,1,2,1,1
+1406853,1774180800,4266,14722,Viktoria Berlin,Makkabi,2,4,0,1
+1406858,1774180800,12759,9354,Eintracht Mahlsdorf,Lichtenberg,0,4,0,3
+1406851,1774180800,12874,18384,Tasmania Berlin,Dynamo Schwerin,5,0,4,0
+1406856,1774180800,16119,12820,Hansa Rostock II,Neustrelitz,0,0,0,0
+1406857,1774184400,12858,9351,Sparta Lichtenberg,BAK '07,3,1,1,1
+1406792,1774699200,9354,18384,Lichtenberg,Dynamo Schwerin,0,0,0,0
+1406822,1774699200,22909,9356,Siedenbollentin,Optik Rathenow,2,1,1,1
+1406814,1774782000,26169,13946,Croatia Berlin,Anker Wismar,2,1,1,0
+1406766,1774785600,9351,16119,BAK '07,Hansa Rostock II,1,5,0,3
+1406817,1774978200,12759,22909,Eintracht Mahlsdorf,Siedenbollentin,1,3,0,1
+1406818,1775152800,12820,18384,Neustrelitz,Dynamo Schwerin,3,1,1,1
+1406865,1775217600,9354,9356,Lichtenberg,Optik Rathenow,1,0,0,0
+1406861,1775217600,12876,12874,Tennis Borussia,Tasmania Berlin,3,1,3,0
+1406862,1775304000,9351,22909,BAK '07,Siedenbollentin,3,0,0,0
+1406860,1775386800,14722,13946,Makkabi,Anker Wismar,0,2,0,0
+1406859,1775388600,12820,4266,Neustrelitz,Viktoria Berlin,5,0,3,0
+1406863,1775390400,18384,12858,Dynamo Schwerin,Sparta Lichtenberg,3,2,1,1
+1406864,1775390400,26169,16119,Croatia Berlin,Hansa Rostock II,0,2,0,1
+1406823,1775667600,13946,9354,Anker Wismar,Lichtenberg,1,3,0,1
+1406820,1775669400,12876,18384,Tennis Borussia,Dynamo Schwerin,2,2,2,1
+1406872,1775908800,9356,22912,Optik Rathenow,Union Klosterfelde,1,1,0,0
+1406873,1775908800,13946,4266,Anker Wismar,Viktoria Berlin,3,1,1,0
+1406870,1775908800,22909,18384,Siedenbollentin,Dynamo Schwerin,3,1,2,0
+1406871,1775995200,12759,9351,Eintracht Mahlsdorf,BAK '07,2,0,1,0
+1406868,1775995200,12858,12876,Sparta Lichtenberg,Tennis Borussia,5,1,2,0
+1406867,1775995200,12874,14722,Tasmania Berlin,Makkabi,3,0,0,0
+1406874,1775995200,16119,9354,Hansa Rostock II,Lichtenberg,1,0,1,0
+1406869,1775995200,26169,12820,Croatia Berlin,Neustrelitz,2,2,1,1
+1406866,1776274200,22912,12759,Union Klosterfelde,Eintracht Mahlsdorf,1,0,0,0
+1406876,1776447000,12820,13946,Neustrelitz,Anker Wismar,1,0,0,0
+1406880,1776510000,9351,9356,BAK '07,Optik Rathenow,1,2,0,0
+1406875,1776513600,18384,12759,Dynamo Schwerin,Eintracht Mahlsdorf,0,1,0,0
+1406877,1776600000,4266,12874,Viktoria Berlin,Tasmania Berlin,0,3,0,1
+1406879,1776600000,9354,26169,Lichtenberg,Croatia Berlin,3,1,1,0
+1406881,1776600000,14722,12858,Makkabi,Sparta Lichtenberg,1,0,1,0
+1406878,1776600000,22912,16119,Union Klosterfelde,Hansa Rostock II,1,3,0,1
+1406882,1776605400,12876,22909,Tennis Borussia,Siedenbollentin,1,1,1,1
+1406888,1777051800,9356,18384,Optik Rathenow,Dynamo Schwerin,0,0,0,0
+1406886,1777051800,12874,13946,Tasmania Berlin,Anker Wismar,5,3,3,1
+1406887,1777118400,22909,14722,Siedenbollentin,Makkabi,1,1,0,0
+1406885,1777204800,9354,12820,Lichtenberg,Neustrelitz,2,1,0,0
+1406884,1777204800,12759,12876,Eintracht Mahlsdorf,Tennis Borussia,1,1,1,1
+1406883,1777204800,12858,4266,Sparta Lichtenberg,Viktoria Berlin,7,3,6,2
+1406889,1777204800,16119,9351,Hansa Rostock II,BAK '07,2,0,0,0
+1406890,1777206600,26169,22912,Croatia Berlin,Union Klosterfelde,0,4,0,0
+1406894,1777633200,22912,9354,Union Klosterfelde,Lichtenberg,3,2,2,2
+1406898,1777636800,12876,9356,Tennis Borussia,Optik Rathenow,1,1,0,0
+1406895,1777636800,18384,16119,Dynamo Schwerin,Hansa Rostock II,0,1,0,1
+1406897,1777723200,4266,22909,Viktoria Berlin,Siedenbollentin,2,5,1,2
+1406896,1777806000,14722,12759,Makkabi,Eintracht Mahlsdorf,3,1,1,1
+1406893,1777809600,9351,26169,BAK '07,Croatia Berlin,1,0,0,0
+1406892,1777809600,12820,12874,Neustrelitz,Tasmania Berlin,2,0,1,0
+1406891,1777809600,13946,12858,Anker Wismar,Sparta Lichtenberg,2,1,2,0
+1406905,1778258700,22909,13946,Siedenbollentin,Anker Wismar,4,3,3,2
+1406900,1778263200,22912,12820,Union Klosterfelde,Neustrelitz,1,1,1,1
+1406902,1778324400,9354,9351,Lichtenberg,BAK '07,4,4,2,1
+1406904,1778328000,9356,14722,Optik Rathenow,Makkabi,4,2,2,1
+1406899,1778414400,12759,4266,Eintracht Mahlsdorf,Viktoria Berlin,2,1,1,0
+1406906,1778414400,12858,12874,Sparta Lichtenberg,Tasmania Berlin,2,3,1,2
+1406901,1778414400,16119,12876,Hansa Rostock II,Tennis Borussia,4,0,2,0
+1406903,1778414400,26169,18384,Croatia Berlin,Dynamo Schwerin,0,5,0,3
+1406909,1778860800,4266,9356,Viktoria Berlin,Optik Rathenow,1,1,1,0
+1406911,1778866200,12876,26169,Tennis Borussia,Croatia Berlin,3,1,2,0
+1406910,1778929200,13946,12759,Anker Wismar,Eintracht Mahlsdorf,2,0,0,0
+1406914,1778932800,18384,9354,Dynamo Schwerin,Lichtenberg,0,1,0,0
+1406913,1779015600,9351,22912,BAK '07,Union Klosterfelde,3,0,1,0
+1406908,1779019200,12858,12820,Sparta Lichtenberg,Neustrelitz,4,2,2,0
+1406912,1779019200,12874,22909,Tasmania Berlin,Siedenbollentin,3,0,0,0
+1406907,1779019200,14722,16119,Makkabi,Hansa Rostock II,1,4,0,2
+1406919,1780142400,9354,12876,Lichtenberg,Tennis Borussia,0,1,0,0
+1406920,1780142400,9356,13946,Optik Rathenow,Anker Wismar,1,1,0,1
+1406918,1780142400,12759,12874,Eintracht Mahlsdorf,Tasmania Berlin,0,5,0,4
+1406915,1780142400,12820,9351,Neustrelitz,BAK '07,2,1,0,0
+1406922,1780142400,16119,4266,Hansa Rostock II,Viktoria Berlin,6,1,2,1
+1406921,1780142400,22909,12858,Siedenbollentin,Sparta Lichtenberg,4,3,2,2
+1406916,1780142400,22912,18384,Union Klosterfelde,Dynamo Schwerin,3,2,2,1
+1406917,1780142400,26169,14722,Croatia Berlin,Makkabi,0,7,0,1

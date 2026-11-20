@@ -1,0 +1,384 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1324515,1739595600,280,305,Jubilo Iwata,Mito Hollyhock,3,2,0,0
+1324519,1739595600,295,286,Sagan Tosu,Vegalta Sendai,0,1,0,0
+1324514,1739595600,308,309,Ventforet Kofu,Renofa Yamaguchi,1,0,0,0
+1324513,1739595600,313,312,Omiya Ardija,Montedio Yamagata,2,1,0,0
+1324516,1739595600,4317,299,Fujieda MYFC,Tokushima Vortis,0,2,0,0
+1324512,1739595600,7127,301,Iwaki,JEF United Chiba,0,2,0,1
+1324520,1739613600,285,314,V-varen Nagasaki,Roasso Kumamoto,3,2,0,1
+1324517,1739677800,318,4322,Ehime FC,Kataller Toyama,0,1,0,0
+1324518,1739679000,10075,4315,Imabari,Blaublitz Akita,0,1,0,1
+1324521,1739682000,298,279,Oita Trinita,Consadole Sapporo,2,0,0,0
+1324525,1740200400,280,295,Jubilo Iwata,Sagan Tosu,1,0,0,0
+1324524,1740200400,301,4322,JEF United Chiba,Kataller Toyama,2,0,1,0
+1324523,1740200400,313,308,Omiya Ardija,Ventforet Kofu,1,0,1,0
+1324526,1740283200,309,285,Renofa Yamaguchi,V-varen Nagasaki,2,2,1,0
+1324530,1740283200,314,279,Roasso Kumamoto,Consadole Sapporo,3,0,1,0
+1324527,1740286500,299,286,Tokushima Vortis,Vegalta Sendai,1,0,0,0
+1324531,1740286800,298,7127,Oita Trinita,Iwaki,0,0,0,0
+1324522,1740286800,305,312,Mito Hollyhock,Montedio Yamagata,1,0,1,0
+1324529,1740286800,10075,4317,Imabari,Fujieda MYFC,0,0,0,0
+1324528,1740290400,318,4315,Ehime FC,Blaublitz Akita,1,2,0,1
+1324532,1740801600,286,298,Vegalta Sendai,Oita Trinita,2,0,2,0
+1324540,1740805200,285,280,V-varen Nagasaki,Jubilo Iwata,1,0,0,0
+1324539,1740805200,295,10075,Sagan Tosu,Imabari,1,4,0,3
+1324535,1740805200,301,312,JEF United Chiba,Montedio Yamagata,3,2,2,2
+1324537,1740805200,4317,4315,Fujieda MYFC,Blaublitz Akita,2,1,1,1
+1324541,1740888000,314,313,Roasso Kumamoto,Omiya Ardija,0,4,0,0
+1324534,1740891600,305,318,Mito Hollyhock,Ehime FC,1,1,0,1
+1324538,1740891600,309,279,Renofa Yamaguchi,Consadole Sapporo,2,0,1,0
+1324536,1740891600,4322,308,Kataller Toyama,Ventforet Kofu,2,0,1,0
+1324533,1740891600,7127,299,Iwaki,Tokushima Vortis,1,1,1,0
+1324543,1741406400,286,285,Vegalta Sendai,V-varen Nagasaki,1,1,1,1
+1324546,1741410000,313,309,Omiya Ardija,Renofa Yamaguchi,2,1,0,0
+1324550,1741425000,318,10075,Ehime FC,Imabari,2,3,1,0
+1324542,1741493100,279,301,Consadole Sapporo,JEF United Chiba,1,3,1,2
+1324551,1741496400,298,305,Oita Trinita,Mito Hollyhock,0,0,0,0
+1324549,1741496400,299,314,Tokushima Vortis,Roasso Kumamoto,0,0,0,0
+1324547,1741496400,308,4317,Ventforet Kofu,Fujieda MYFC,3,3,2,2
+1324544,1741496400,312,4315,Montedio Yamagata,Blaublitz Akita,4,2,2,1
+1324548,1741496400,4322,280,Kataller Toyama,Jubilo Iwata,3,1,1,0
+1324545,1741496400,7127,295,Iwaki,Sagan Tosu,1,1,0,1
+1324552,1742011200,4315,279,Blaublitz Akita,Consadole Sapporo,1,3,0,2
+1324555,1742014800,280,308,Jubilo Iwata,Ventforet Kofu,2,1,1,0
+1324559,1742014800,295,313,Sagan Tosu,Omiya Ardija,1,0,1,0
+1324556,1742014800,4317,7127,Fujieda MYFC,Iwaki,2,0,2,0
+1324560,1742022180,285,299,V-varen Nagasaki,Tokushima Vortis,1,0,0,0
+1324561,1742097600,314,312,Roasso Kumamoto,Montedio Yamagata,1,3,0,1
+1324554,1742101380,301,318,JEF United Chiba,Ehime FC,5,1,1,1
+1324553,1742101380,305,286,Mito Hollyhock,Vegalta Sendai,2,2,0,0
+1324557,1742101380,309,298,Renofa Yamaguchi,Oita Trinita,1,1,1,0
+1324558,1742101380,10075,4322,Imabari,Kataller Toyama,0,0,0,0
+1324562,1742702400,286,280,Vegalta Sendai,Jubilo Iwata,2,3,0,2
+1324567,1742703300,309,314,Renofa Yamaguchi,Roasso Kumamoto,0,1,0,1
+1324570,1742706000,285,4315,V-varen Nagasaki,Blaublitz Akita,5,1,1,0
+1324569,1742706000,295,4322,Sagan Tosu,Kataller Toyama,1,0,1,0
+1324571,1742706000,298,4317,Oita Trinita,Fujieda MYFC,1,1,0,0
+1324566,1742706000,308,301,Ventforet Kofu,JEF United Chiba,1,2,1,0
+1324563,1742706000,312,299,Montedio Yamagata,Tokushima Vortis,0,0,0,0
+1324565,1742706000,313,305,Omiya Ardija,Mito Hollyhock,2,0,0,0
+1324568,1742706000,318,279,Ehime FC,Consadole Sapporo,1,2,1,1
+1324564,1742706000,7127,10075,Iwaki,Imabari,0,1,0,0
+1324572,1743224400,279,308,Consadole Sapporo,Ventforet Kofu,0,1,0,1
+1324581,1743307200,314,295,Roasso Kumamoto,Sagan Tosu,3,1,2,0
+1324574,1743310800,305,7127,Mito Hollyhock,Iwaki,4,1,2,1
+1324573,1743310800,4315,309,Blaublitz Akita,Renofa Yamaguchi,1,0,0,0
+1324577,1743310800,4317,285,Fujieda MYFC,V-varen Nagasaki,3,2,2,0
+1324575,1743310800,4322,286,Kataller Toyama,Vegalta Sendai,0,1,0,1
+1324580,1743310800,10075,312,Imabari,Montedio Yamagata,2,2,0,2
+1324576,1743314400,280,301,Jubilo Iwata,JEF United Chiba,1,0,1,0
+1324579,1743314400,318,298,Ehime FC,Oita Trinita,0,1,0,1
+1324578,1743318180,299,313,Tokushima Vortis,Omiya Ardija,1,0,0,0
+1324583,1743825600,286,4315,Vegalta Sendai,Blaublitz Akita,1,0,1,0
+1324587,1743827400,308,7127,Ventforet Kofu,Iwaki,1,0,0,0
+1324582,1743829200,279,299,Consadole Sapporo,Tokushima Vortis,1,0,0,0
+1324590,1743829200,295,4317,Sagan Tosu,Fujieda MYFC,1,0,0,0
+1324586,1743829200,301,305,JEF United Chiba,Mito Hollyhock,2,1,1,0
+1324588,1743829200,309,318,Renofa Yamaguchi,Ehime FC,1,1,1,0
+1324584,1743829200,312,280,Montedio Yamagata,Jubilo Iwata,0,0,0,0
+1324585,1743829200,313,298,Omiya Ardija,Oita Trinita,2,2,1,1
+1324591,1743912000,314,4322,Roasso Kumamoto,Kataller Toyama,0,0,0,0
+1324589,1743913800,10075,285,Imabari,V-varen Nagasaki,4,1,1,1
+1324592,1744430400,286,10075,Vegalta Sendai,Imabari,0,0,0,0
+1324595,1744434000,305,279,Mito Hollyhock,Consadole Sapporo,3,1,2,1
+1324594,1744434000,7127,312,Iwaki,Montedio Yamagata,0,1,0,1
+1324600,1744520400,285,295,V-varen Nagasaki,Sagan Tosu,0,2,0,1
+1324601,1744520400,298,299,Oita Trinita,Tokushima Vortis,1,1,0,1
+1324593,1744520400,4315,313,Blaublitz Akita,Omiya Ardija,1,2,0,1
+1324598,1744520400,4317,301,Fujieda MYFC,JEF United Chiba,2,3,2,3
+1324596,1744520400,4322,309,Kataller Toyama,Renofa Yamaguchi,2,2,1,0
+1324597,1744524000,280,314,Jubilo Iwata,Roasso Kumamoto,1,1,0,1
+1324599,1744527780,318,308,Ehime FC,Ventforet Kofu,0,0,0,0
+1324610,1745038980,295,309,Sagan Tosu,Renofa Yamaguchi,2,2,1,0
+1324606,1745038980,308,285,Ventforet Kofu,V-varen Nagasaki,1,1,1,1
+1324604,1745038980,312,318,Montedio Yamagata,Ehime FC,2,3,1,1
+1324611,1745121600,314,286,Roasso Kumamoto,Vegalta Sendai,0,1,0,1
+1324602,1745125200,279,4317,Consadole Sapporo,Fujieda MYFC,2,1,1,1
+1324608,1745125200,299,305,Tokushima Vortis,Mito Hollyhock,0,1,0,0
+1324605,1745125200,301,298,JEF United Chiba,Oita Trinita,1,0,0,0
+1324603,1745125200,4315,280,Blaublitz Akita,Jubilo Iwata,2,1,0,0
+1324607,1745125200,4322,7127,Kataller Toyama,Iwaki,1,2,1,1
+1324609,1745125200,10075,313,Imabari,Omiya Ardija,0,0,0,0
+1324616,1745575200,280,298,Jubilo Iwata,Oita Trinita,0,3,0,1
+1324621,1745575200,285,7127,V-varen Nagasaki,Iwaki,3,4,1,1
+1324612,1745575200,286,318,Vegalta Sendai,Ehime FC,1,1,0,1
+1324620,1745575200,295,312,Sagan Tosu,Montedio Yamagata,2,1,2,0
+1324615,1745575200,301,4315,JEF United Chiba,Blaublitz Akita,3,1,2,0
+1324613,1745575200,305,308,Mito Hollyhock,Ventforet Kofu,0,0,0,0
+1324614,1745575200,313,279,Omiya Ardija,Consadole Sapporo,1,0,0,0
+1324617,1745575200,4317,314,Fujieda MYFC,Roasso Kumamoto,0,2,0,1
+1324619,1745643600,299,4322,Tokushima Vortis,Kataller Toyama,1,0,0,0
+1324618,1745643600,309,10075,Renofa Yamaguchi,Imabari,1,2,1,0
+1324622,1745902800,279,285,Consadole Sapporo,V-varen Nagasaki,2,2,0,1
+1324627,1745902800,4322,312,Kataller Toyama,Montedio Yamagata,0,0,0,0
+1324624,1745902800,7127,313,Iwaki,Omiya Ardija,2,1,0,0
+1324631,1745902980,298,295,Oita Trinita,Sagan Tosu,1,0,1,0
+1324625,1745902980,305,10075,Mito Hollyhock,Imabari,0,0,0,0
+1324626,1745902980,308,286,Ventforet Kofu,Vegalta Sendai,1,2,0,1
+1324630,1745902980,314,301,Roasso Kumamoto,JEF United Chiba,0,0,0,0
+1324623,1745902980,4315,299,Blaublitz Akita,Tokushima Vortis,0,2,0,2
+1324628,1745906400,280,309,Jubilo Iwata,Renofa Yamaguchi,0,1,0,0
+1324629,1745906400,318,4317,Ehime FC,Fujieda MYFC,2,4,0,4
+1324632,1746244800,286,309,Vegalta Sendai,Renofa Yamaguchi,3,1,2,1
+1324634,1746244800,7127,4315,Iwaki,Blaublitz Akita,1,1,0,0
+1324636,1746246600,308,299,Ventforet Kofu,Tokushima Vortis,0,2,0,0
+1324639,1746248400,295,301,Sagan Tosu,JEF United Chiba,1,1,1,1
+1324641,1746248400,298,314,Oita Trinita,Roasso Kumamoto,1,0,1,0
+1324633,1746248400,312,279,Montedio Yamagata,Consadole Sapporo,0,1,0,0
+1324635,1746248400,313,4322,Omiya Ardija,Kataller Toyama,2,2,1,1
+1324637,1746248400,4317,305,Fujieda MYFC,Mito Hollyhock,0,2,0,1
+1324638,1746248400,10075,280,Imabari,Jubilo Iwata,3,3,0,2
+1324640,1746255600,285,318,V-varen Nagasaki,Ehime FC,1,1,1,0
+1324643,1746504000,286,4317,Vegalta Sendai,Fujieda MYFC,2,1,1,0
+1324647,1746507300,4322,285,Kataller Toyama,V-varen Nagasaki,1,2,1,0
+1324642,1746507600,279,280,Consadole Sapporo,Jubilo Iwata,2,4,0,3
+1324648,1746507600,309,305,Renofa Yamaguchi,Mito Hollyhock,1,2,0,2
+1324645,1746507600,312,298,Montedio Yamagata,Oita Trinita,3,0,1,0
+1324651,1746511200,314,10075,Roasso Kumamoto,Imabari,0,1,0,1
+1324650,1746511200,318,7127,Ehime FC,Iwaki,1,1,1,0
+1324644,1746511200,4315,308,Blaublitz Akita,Ventforet Kofu,0,1,0,0
+1324649,1746514200,299,295,Tokushima Vortis,Sagan Tosu,0,1,0,1
+1324646,1746514800,301,313,JEF United Chiba,Omiya Ardija,1,2,1,1
+1324654,1746853200,313,286,Omiya Ardija,Vegalta Sendai,3,0,2,0
+1324656,1746936000,280,4317,Jubilo Iwata,Fujieda MYFC,1,0,0,0
+1324652,1746936000,7127,279,Iwaki,Consadole Sapporo,1,1,0,1
+1324660,1746939600,285,312,V-varen Nagasaki,Montedio Yamagata,1,1,0,1
+1324659,1746939600,295,308,Sagan Tosu,Ventforet Kofu,0,0,0,0
+1324657,1746939600,299,309,Tokushima Vortis,Renofa Yamaguchi,2,0,2,0
+1324653,1746939600,305,4315,Mito Hollyhock,Blaublitz Akita,2,1,1,0
+1324658,1746939600,10075,301,Imabari,JEF United Chiba,0,1,0,0
+1324655,1746939900,4322,298,Kataller Toyama,Oita Trinita,1,1,1,0
+1324661,1746943200,314,318,Roasso Kumamoto,Ehime FC,2,2,1,2
+1324666,1747456200,308,10075,Ventforet Kofu,Imabari,1,0,0,0
+1324662,1747458000,279,4322,Consadole Sapporo,Kataller Toyama,2,1,0,1
+1324667,1747458000,280,7127,Jubilo Iwata,Iwaki,2,0,1,0
+1324665,1747458000,301,286,JEF United Chiba,Vegalta Sendai,0,0,0,0
+1324664,1747458000,305,314,Mito Hollyhock,Roasso Kumamoto,2,1,1,1
+1324663,1747458000,4315,295,Blaublitz Akita,Sagan Tosu,1,2,1,1
+1324668,1747458000,4317,313,Fujieda MYFC,Omiya Ardija,0,1,0,0
+1324671,1747544400,298,285,Oita Trinita,V-varen Nagasaki,1,2,1,1
+1324669,1747544400,309,312,Renofa Yamaguchi,Montedio Yamagata,1,0,1,0
+1324670,1747558800,318,299,Ehime FC,Tokushima Vortis,0,2,0,1
+1324673,1748145600,7127,286,Iwaki,Vegalta Sendai,1,2,1,1
+1324677,1748149200,285,301,V-varen Nagasaki,JEF United Chiba,1,0,0,0
+1324676,1748149200,295,279,Sagan Tosu,Consadole Sapporo,2,1,2,0
+1324675,1748149200,299,280,Tokushima Vortis,Jubilo Iwata,1,1,1,1
+1324674,1748149200,309,4317,Renofa Yamaguchi,Fujieda MYFC,0,0,0,0
+1324672,1748149200,312,308,Montedio Yamagata,Ventforet Kofu,0,4,0,0
+1324678,1748156400,314,4315,Roasso Kumamoto,Blaublitz Akita,1,2,1,0
+1324682,1748667600,286,279,Vegalta Sendai,Consadole Sapporo,1,1,1,0
+1324690,1748667600,295,318,Sagan Tosu,Ehime FC,2,2,2,0
+1324687,1748667600,301,309,JEF United Chiba,Renofa Yamaguchi,0,0,0,0
+1324685,1748667600,305,285,Mito Hollyhock,V-varen Nagasaki,3,0,3,0
+1324686,1748667600,313,280,Omiya Ardija,Jubilo Iwata,2,2,1,1
+1324683,1748667600,4315,4322,Blaublitz Akita,Kataller Toyama,2,2,0,2
+1324688,1748667600,4317,312,Fujieda MYFC,Montedio Yamagata,2,1,1,1
+1324689,1748682600,10075,299,Imabari,Tokushima Vortis,0,1,0,1
+1324691,1748685600,298,308,Oita Trinita,Ventforet Kofu,2,1,0,1
+1324684,1748754000,7127,314,Iwaki,Roasso Kumamoto,5,1,1,0
+1324681,1749286800,10075,298,Imabari,Oita Trinita,1,1,0,1
+1324679,1749358980,313,318,Omiya Ardija,Ehime FC,1,1,0,0
+1324680,1749358980,4322,305,Kataller Toyama,Mito Hollyhock,0,1,0,1
+1324694,1749891600,305,295,Mito Hollyhock,Sagan Tosu,1,0,0,0
+1324692,1749963600,279,10075,Consadole Sapporo,Imabari,2,2,0,1
+1324698,1749963600,309,7127,Renofa Yamaguchi,Iwaki,2,2,1,1
+1324696,1749963600,4322,4317,Kataller Toyama,Fujieda MYFC,0,1,0,0
+1324693,1749970800,312,286,Montedio Yamagata,Vegalta Sendai,3,4,2,2
+1324697,1749974400,280,318,Jubilo Iwata,Ehime FC,4,0,0,0
+1324700,1749974400,285,313,V-varen Nagasaki,Omiya Ardija,3,3,1,2
+1324701,1749978000,298,4315,Oita Trinita,Blaublitz Akita,1,2,1,0
+1324695,1749979800,308,314,Ventforet Kofu,Roasso Kumamoto,1,1,1,0
+1324699,1749981600,299,301,Tokushima Vortis,JEF United Chiba,3,3,2,2
+1324704,1750489200,7127,4322,Iwaki,Kataller Toyama,3,1,1,0
+1324709,1750496400,318,309,Ehime FC,Renofa Yamaguchi,2,0,0,0
+1324710,1750496400,10075,305,Imabari,Mito Hollyhock,1,2,0,0
+1324708,1750500000,299,298,Tokushima Vortis,Oita Trinita,2,0,1,0
+1324706,1750500000,301,280,JEF United Chiba,Jubilo Iwata,0,1,0,1
+1324705,1750500000,313,295,Omiya Ardija,Sagan Tosu,0,0,0,0
+1324707,1750500000,4317,279,Fujieda MYFC,Consadole Sapporo,1,3,0,1
+1324711,1750566900,314,285,Roasso Kumamoto,V-varen Nagasaki,1,3,0,2
+1324703,1750568400,4315,312,Blaublitz Akita,Montedio Yamagata,2,3,1,1
+1324702,1750582800,286,308,Vegalta Sendai,Ventforet Kofu,0,0,0,0
+1324712,1751086800,279,314,Consadole Sapporo,Roasso Kumamoto,3,2,0,1
+1324714,1751101200,305,299,Mito Hollyhock,Tokushima Vortis,1,1,0,0
+1324716,1751101200,4322,301,Kataller Toyama,JEF United Chiba,1,0,0,0
+1324715,1751103000,308,318,Ventforet Kofu,Ehime FC,0,0,0,0
+1324720,1751104800,295,7127,Sagan Tosu,Iwaki,1,0,1,0
+1324721,1751104800,298,313,Oita Trinita,Omiya Ardija,0,0,0,0
+1324719,1751104800,309,4315,Renofa Yamaguchi,Blaublitz Akita,1,1,0,1
+1324713,1751104800,312,285,Montedio Yamagata,V-varen Nagasaki,1,2,1,1
+1324718,1751104800,4317,10075,Fujieda MYFC,Imabari,0,0,0,0
+1324717,1751106600,280,286,Jubilo Iwata,Vegalta Sendai,0,1,0,0
+1324722,1751691600,279,309,Consadole Sapporo,Renofa Yamaguchi,1,0,1,0
+1324730,1751706000,285,298,V-varen Nagasaki,Oita Trinita,1,0,0,0
+1324724,1751706000,4315,305,Blaublitz Akita,Mito Hollyhock,0,2,0,1
+1324723,1751709600,286,4322,Vegalta Sendai,Kataller Toyama,0,1,0,1
+1324727,1751709600,299,4317,Tokushima Vortis,Fujieda MYFC,0,2,0,1
+1324726,1751709600,301,295,JEF United Chiba,Sagan Tosu,0,2,0,1
+1324725,1751709600,313,7127,Omiya Ardija,Iwaki,1,2,1,0
+1324729,1751709600,10075,308,Imabari,Ventforet Kofu,2,4,2,0
+1324731,1751792400,314,280,Roasso Kumamoto,Jubilo Iwata,2,0,0,0
+1324728,1751796000,318,312,Ehime FC,Montedio Yamagata,1,3,0,1
+1324735,1752310800,305,4322,Mito Hollyhock,Kataller Toyama,3,0,0,0
+1324732,1752310800,4315,314,Blaublitz Akita,Roasso Kumamoto,3,2,3,1
+1324734,1752310800,7127,285,Iwaki,V-varen Nagasaki,1,1,0,0
+1324740,1752311100,10075,318,Imabari,Ehime FC,1,0,0,0
+1324736,1752312600,308,313,Ventforet Kofu,Omiya Ardija,1,0,0,0
+1324741,1752314400,295,298,Sagan Tosu,Oita Trinita,2,1,1,1
+1324739,1752314400,309,299,Renofa Yamaguchi,Tokushima Vortis,0,0,0,0
+1324733,1752314400,312,301,Montedio Yamagata,JEF United Chiba,0,1,0,0
+1324738,1752314400,4317,286,Fujieda MYFC,Vegalta Sendai,1,1,1,0
+1324737,1752316200,280,279,Jubilo Iwata,Consadole Sapporo,5,1,3,1
+1324742,1754110800,279,295,Consadole Sapporo,Sagan Tosu,1,0,0,0
+1324749,1754125200,285,286,V-varen Nagasaki,Vegalta Sendai,0,0,0,0
+1324745,1754125200,4322,313,Kataller Toyama,Omiya Ardija,0,2,0,1
+1324744,1754127000,308,312,Ventforet Kofu,Montedio Yamagata,1,3,0,2
+1324751,1754128800,298,10075,Oita Trinita,Imabari,0,1,0,1
+1324748,1754128800,299,318,Tokushima Vortis,Ehime FC,1,0,0,0
+1324743,1754128800,301,7127,JEF United Chiba,Iwaki,2,2,0,1
+1324747,1754128800,4317,309,Fujieda MYFC,Renofa Yamaguchi,2,2,1,2
+1324746,1754130600,280,4315,Jubilo Iwata,Blaublitz Akita,1,4,1,2
+1324750,1754215200,314,305,Roasso Kumamoto,Mito Hollyhock,2,1,0,1
+1324760,1754730000,285,279,V-varen Nagasaki,Consadole Sapporo,2,1,0,1
+1324753,1754730000,4315,4317,Blaublitz Akita,Fujieda MYFC,0,0,0,0
+1324761,1754733600,298,4322,Oita Trinita,Kataller Toyama,2,2,2,1
+1324756,1754733600,313,301,Omiya Ardija,JEF United Chiba,0,1,0,0
+1324759,1754733600,10075,314,Imabari,Roasso Kumamoto,3,2,2,0
+1324755,1754816400,7127,280,Iwaki,Jubilo Iwata,3,1,2,0
+1324752,1754820000,286,299,Vegalta Sendai,Tokushima Vortis,0,2,0,1
+1324754,1754820000,312,305,Montedio Yamagata,Mito Hollyhock,1,2,0,2
+1324758,1754820000,318,295,Ehime FC,Sagan Tosu,0,1,0,1
+1324757,1754906400,309,308,Renofa Yamaguchi,Ventforet Kofu,0,1,0,1
+1324762,1755320400,279,4315,Consadole Sapporo,Blaublitz Akita,0,2,0,1
+1324764,1755334800,305,280,Mito Hollyhock,Jubilo Iwata,1,3,0,2
+1324767,1755334800,4322,10075,Kataller Toyama,Imabari,1,2,0,2
+1324765,1755338400,301,299,JEF United Chiba,Tokushima Vortis,1,0,0,0
+1324768,1755338400,309,286,Renofa Yamaguchi,Vegalta Sendai,2,2,1,1
+1324763,1755338400,312,7127,Montedio Yamagata,Iwaki,1,0,0,0
+1324771,1755338400,314,4317,Roasso Kumamoto,Fujieda MYFC,2,1,2,0
+1324766,1755423000,308,298,Ventforet Kofu,Oita Trinita,2,0,0,0
+1324770,1755424800,295,285,Sagan Tosu,V-varen Nagasaki,1,2,1,1
+1324769,1755424800,318,313,Ehime FC,Omiya Ardija,0,3,0,1
+1324773,1755939600,4315,10075,Blaublitz Akita,Imabari,1,2,1,1
+1324774,1755939600,7127,298,Iwaki,Oita Trinita,4,0,2,0
+1324776,1755941400,308,279,Ventforet Kofu,Consadole Sapporo,1,2,1,2
+1324780,1755943200,295,305,Sagan Tosu,Mito Hollyhock,2,2,0,1
+1324779,1755943200,299,312,Tokushima Vortis,Montedio Yamagata,1,0,1,0
+1324775,1755943200,313,314,Omiya Ardija,Roasso Kumamoto,1,0,0,0
+1324778,1755943200,4317,318,Fujieda MYFC,Ehime FC,4,1,1,1
+1324777,1755945000,280,4322,Jubilo Iwata,Kataller Toyama,2,0,2,0
+1324781,1756026000,285,309,V-varen Nagasaki,Renofa Yamaguchi,1,0,0,0
+1324772,1756029600,286,301,Vegalta Sendai,JEF United Chiba,1,0,1,0
+1324782,1756530000,279,313,Consadole Sapporo,Omiya Ardija,1,0,1,0
+1324784,1756544400,305,309,Mito Hollyhock,Renofa Yamaguchi,2,2,1,0
+1324786,1756546200,4322,314,Kataller Toyama,Roasso Kumamoto,0,1,0,1
+1324787,1756548000,299,4315,Tokushima Vortis,Blaublitz Akita,1,1,1,1
+1324785,1756548000,301,308,JEF United Chiba,Ventforet Kofu,2,1,1,1
+1324783,1756548000,312,295,Montedio Yamagata,Sagan Tosu,3,2,3,1
+1324789,1756548000,10075,7127,Imabari,Iwaki,0,2,0,1
+1324790,1756630800,285,4317,V-varen Nagasaki,Fujieda MYFC,2,1,1,1
+1324791,1756634400,298,280,Oita Trinita,Jubilo Iwata,0,0,0,0
+1324788,1756634400,318,286,Ehime FC,Vegalta Sendai,1,1,1,0
+1324792,1757739600,279,7127,Consadole Sapporo,Iwaki,1,5,1,1
+1324793,1757754000,286,305,Vegalta Sendai,Mito Hollyhock,1,1,0,1
+1324799,1757754000,4317,298,Fujieda MYFC,Oita Trinita,1,1,1,1
+1324797,1757755800,308,295,Ventforet Kofu,Sagan Tosu,2,3,1,0
+1324798,1757757600,280,10075,Jubilo Iwata,Imabari,1,0,0,0
+1324796,1757757600,313,285,Omiya Ardija,V-varen Nagasaki,1,2,1,2
+1324800,1757844000,309,301,Renofa Yamaguchi,JEF United Chiba,2,1,1,0
+1324795,1757844000,312,4322,Montedio Yamagata,Kataller Toyama,3,0,2,0
+1324794,1757844000,4315,318,Blaublitz Akita,Ehime FC,3,2,3,1
+1324801,1757930400,314,299,Roasso Kumamoto,Tokushima Vortis,2,1,2,0
+1324806,1758344100,4317,280,Fujieda MYFC,Jubilo Iwata,2,1,1,1
+1324810,1758358800,285,4322,V-varen Nagasaki,Kataller Toyama,1,1,0,1
+1324802,1758358800,286,312,Vegalta Sendai,Montedio Yamagata,3,1,0,1
+1324803,1758358800,7127,305,Iwaki,Mito Hollyhock,0,0,0,0
+1324805,1758360600,308,4315,Ventforet Kofu,Blaublitz Akita,1,1,0,0
+1324809,1758362400,295,314,Sagan Tosu,Roasso Kumamoto,4,2,1,1
+1324811,1758362400,298,309,Oita Trinita,Renofa Yamaguchi,1,0,1,0
+1324807,1758362400,299,279,Tokushima Vortis,Consadole Sapporo,1,2,0,0
+1324804,1758362400,313,10075,Omiya Ardija,Imabari,2,3,2,1
+1324808,1758362400,318,301,Ehime FC,JEF United Chiba,0,1,0,1
+1324812,1758949200,279,286,Consadole Sapporo,Vegalta Sendai,0,3,0,2
+1324817,1758963600,301,314,JEF United Chiba,Roasso Kumamoto,2,2,1,1
+1324814,1758963600,312,309,Montedio Yamagata,Renofa Yamaguchi,2,1,0,1
+1324815,1758963600,7127,308,Iwaki,Ventforet Kofu,2,3,1,0
+1324819,1758967200,280,313,Jubilo Iwata,Omiya Ardija,3,4,2,1
+1324821,1758967200,298,318,Oita Trinita,Ehime FC,0,3,0,1
+1324820,1758967200,10075,295,Imabari,Sagan Tosu,1,1,1,0
+1324813,1759032000,4315,285,Blaublitz Akita,V-varen Nagasaki,0,0,0,0
+1324816,1759035600,305,4317,Mito Hollyhock,Fujieda MYFC,2,0,1,0
+1324818,1759039200,4322,299,Kataller Toyama,Tokushima Vortis,1,3,0,2
+1324822,1759554000,279,312,Consadole Sapporo,Montedio Yamagata,1,2,0,0
+1324825,1759554000,301,285,JEF United Chiba,V-varen Nagasaki,0,2,0,1
+1324827,1759554000,4317,4322,Fujieda MYFC,Kataller Toyama,0,1,0,0
+1324823,1759557600,286,313,Vegalta Sendai,Omiya Ardija,1,2,0,1
+1324826,1759561200,308,280,Ventforet Kofu,Jubilo Iwata,0,1,0,1
+1324829,1759640400,299,10075,Tokushima Vortis,Imabari,1,0,0,0
+1324828,1759640400,309,295,Renofa Yamaguchi,Sagan Tosu,1,2,0,1
+1324824,1759640400,4315,298,Blaublitz Akita,Oita Trinita,0,0,0,0
+1324831,1759644000,314,7127,Roasso Kumamoto,Iwaki,0,2,0,2
+1324830,1759647600,318,305,Ehime FC,Mito Hollyhock,1,3,1,0
+1324839,1760763600,295,4315,Sagan Tosu,Blaublitz Akita,1,0,1,0
+1324835,1760763600,313,4317,Omiya Ardija,Fujieda MYFC,1,0,1,0
+1324833,1760763600,7127,318,Iwaki,Ehime FC,2,1,1,0
+1324837,1760774400,280,299,Jubilo Iwata,Tokushima Vortis,0,4,0,4
+1324840,1760774400,285,308,V-varen Nagasaki,Ventforet Kofu,4,0,2,0
+1324836,1760846100,4322,279,Kataller Toyama,Consadole Sapporo,0,2,0,1
+1324838,1760846400,10075,309,Imabari,Renofa Yamaguchi,1,1,0,0
+1324841,1760850000,298,286,Oita Trinita,Vegalta Sendai,0,0,0,0
+1324832,1760850000,312,314,Montedio Yamagata,Roasso Kumamoto,1,1,0,0
+1324834,1760857200,305,301,Mito Hollyhock,JEF United Chiba,0,1,0,0
+1324846,1761368400,4317,308,Fujieda MYFC,Ventforet Kofu,1,1,0,1
+1324850,1761379200,285,10075,V-varen Nagasaki,Imabari,1,1,1,0
+1324842,1761451200,279,305,Consadole Sapporo,Mito Hollyhock,0,1,0,1
+1324845,1761451200,312,313,Montedio Yamagata,Omiya Ardija,2,2,1,0
+1324848,1761451500,299,7127,Tokushima Vortis,Iwaki,0,1,0,0
+1324843,1761454800,286,295,Vegalta Sendai,Sagan Tosu,3,2,0,1
+1324847,1761454800,309,4322,Renofa Yamaguchi,Kataller Toyama,1,0,0,0
+1324851,1761454800,314,298,Roasso Kumamoto,Oita Trinita,0,1,0,0
+1324844,1761454800,4315,301,Blaublitz Akita,JEF United Chiba,0,0,0,0
+1324849,1761462000,318,280,Ehime FC,Jubilo Iwata,1,3,0,1
+1324857,1762059600,280,285,Jubilo Iwata,V-varen Nagasaki,1,0,1,0
+1324859,1762059600,295,299,Sagan Tosu,Tokushima Vortis,0,0,0,0
+1324854,1762059600,301,279,JEF United Chiba,Consadole Sapporo,5,2,1,1
+1324855,1762059600,308,305,Ventforet Kofu,Mito Hollyhock,0,1,0,1
+1324853,1762059600,313,4315,Omiya Ardija,Blaublitz Akita,5,0,2,0
+1324860,1762059600,314,309,Roasso Kumamoto,Renofa Yamaguchi,0,1,0,0
+1324856,1762059600,4322,318,Kataller Toyama,Ehime FC,1,1,0,1
+1324852,1762059600,7127,4317,Iwaki,Fujieda MYFC,3,1,1,0
+1324858,1762059600,10075,286,Imabari,Vegalta Sendai,3,2,3,1
+1324861,1762061400,298,312,Oita Trinita,Montedio Yamagata,1,2,0,2
+1324862,1762578000,279,298,Consadole Sapporo,Oita Trinita,3,1,2,0
+1324871,1762579800,318,285,Ehime FC,V-varen Nagasaki,0,4,0,1
+1324863,1762660980,286,314,Vegalta Sendai,Roasso Kumamoto,2,0,0,0
+1324868,1762660980,4322,295,Kataller Toyama,Sagan Tosu,3,1,1,0
+1324870,1762664580,299,308,Tokushima Vortis,Ventforet Kofu,4,1,2,0
+1324867,1762664580,301,4317,JEF United Chiba,Fujieda MYFC,1,1,1,1
+1324866,1762664580,305,313,Mito Hollyhock,Omiya Ardija,0,2,0,0
+1324869,1762664580,309,280,Renofa Yamaguchi,Jubilo Iwata,1,2,1,0
+1324865,1762664580,312,10075,Montedio Yamagata,Imabari,2,1,1,0
+1324864,1762664580,4315,7127,Blaublitz Akita,Iwaki,2,0,1,0
+1324881,1763870400,298,301,Oita Trinita,JEF United Chiba,0,1,0,1
+1324880,1763870700,285,305,V-varen Nagasaki,Mito Hollyhock,2,1,1,1
+1324876,1763874000,280,312,Jubilo Iwata,Montedio Yamagata,2,2,0,1
+1324875,1763874000,308,4322,Ventforet Kofu,Kataller Toyama,0,1,0,0
+1324874,1763874000,313,299,Omiya Ardija,Tokushima Vortis,1,2,1,2
+1324872,1763874000,4315,286,Blaublitz Akita,Vegalta Sendai,0,0,0,0
+1324877,1763874000,4317,295,Fujieda MYFC,Sagan Tosu,0,0,0,0
+1324873,1763874000,7127,309,Iwaki,Renofa Yamaguchi,0,0,0,0
+1324879,1763874000,10075,279,Imabari,Consadole Sapporo,1,1,0,0
+1324878,1763881200,318,314,Ehime FC,Roasso Kumamoto,1,1,1,1
+1324882,1764392400,279,318,Consadole Sapporo,Ehime FC,3,0,1,0
+1324883,1764392400,286,7127,Vegalta Sendai,Iwaki,0,1,0,0
+1324890,1764392400,295,280,Sagan Tosu,Jubilo Iwata,1,2,0,0
+1324889,1764392400,299,285,Tokushima Vortis,V-varen Nagasaki,1,1,1,0
+1324886,1764392400,301,10075,JEF United Chiba,Imabari,5,0,2,0
+1324885,1764392400,305,298,Mito Hollyhock,Oita Trinita,2,0,0,0
+1324888,1764392400,309,313,Renofa Yamaguchi,Omiya Ardija,3,2,1,1
+1324884,1764392400,312,4317,Montedio Yamagata,Fujieda MYFC,2,1,1,0
+1324891,1764392400,314,308,Roasso Kumamoto,Ventforet Kofu,0,0,0,0
+1324887,1764392400,4322,4315,Kataller Toyama,Blaublitz Akita,4,1,0,0
+1488576,1765080000,301,313,JEF United Chiba,Omiya Ardija,4,3,0,2
+1488577,1765080600,299,280,Tokushima Vortis,Jubilo Iwata,1,1,0,1
+1489427,1765598700,301,299,JEF United Chiba,Tokushima Vortis,1,0,0,0

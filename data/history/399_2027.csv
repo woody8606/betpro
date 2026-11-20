@@ -98,19 +98,19 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1628570,1792940400,5508,5183,Warri Wolves,Kano Pillars,0,0,0.0,0.0
 1628577,1793368800,5189,26400,Niger Tornadoes,Barau FC,0,0,0.0,0.0
 1628571,1793458800,20809,24512,Doma United,Ikorodu City,2,2,1.0,1.0
-1628576,1793545200,5185,5173,Kwara United,Bendel Insurance,1,2,,
-1628573,1793545200,28168,28169,Inter Lagos,Ranchers Bees,1,1,1.0,0.0
+1628580,1793545200,5504,5171,Shooting Stars,Abia Warriors,4,1,3.0,0.0
 1628574,1793545200,5183,5188,Kano Pillars,Nasarawa United,2,0,1.0,0.0
+1628573,1793545200,28168,28169,Inter Lagos,Ranchers Bees,1,1,1.0,0.0
 1628575,1793545200,5184,22585,Katsina United,Sporting Lagos,2,1,2.0,0.0
 1628572,1793545200,5177,26401,Enyimba,Kun Khalifat FC,1,0,1.0,0.0
-1628579,1793545200,5192,5176,Rivers United,Enugu Rangers,1,1,1.0,0.0
 1628578,1793545200,5190,5508,Plateau United,Warri Wolves,1,1,0.0,1.0
-1628580,1793545200,5504,5171,Shooting Stars,Abia Warriors,4,1,3.0,0.0
+1628576,1793545200,5185,5173,Kwara United,Bendel Insurance,1,2,,
+1628579,1793545200,5192,5176,Rivers United,Enugu Rangers,1,1,1.0,0.0
 1628558,1793804400,5176,5173,Enugu Rangers,Bendel Insurance,1,0,0.0,0.0
 1628586,1793977200,26401,5183,Kun Khalifat FC,Kano Pillars,1,1,0.0,0.0
-1628582,1794150000,5171,20809,Abia Warriors,Doma United,2,2,1.0,1.0
-1628584,1794150000,5173,5189,Bendel Insurance,Niger Tornadoes,2,1,1.0,1.0
 1628583,1794150000,26400,5504,Barau FC,Shooting Stars,1,0,1.0,0.0
+1628584,1794150000,5173,5189,Bendel Insurance,Niger Tornadoes,2,1,1.0,1.0
+1628582,1794150000,5171,20809,Abia Warriors,Doma United,2,2,1.0,1.0
 1628590,1794150000,5508,5184,Warri Wolves,Katsina United,1,1,0.0,1.0
 1628587,1794150000,5188,5190,Nasarawa United,Plateau United,3,1,0.0,1.0
 1628588,1794150000,28169,5177,Ranchers Bees,Enyimba,1,0,1.0,0.0
@@ -119,10 +119,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1628599,1794589200,5504,5173,Shooting Stars,Bendel Insurance,2,1,0.0,0.0
 1628591,1794664800,20809,26400,Doma United,Barau FC,0,0,0.0,0.0
 1628594,1794668400,5183,28169,Kano Pillars,Ranchers Bees,1,0,0.0,0.0
-1628593,1794754800,28168,5171,Inter Lagos,Abia Warriors,2,1,2.0,0.0
-1628592,1794754800,5177,24512,Enyimba,Ikorodu City,0,1,0.0,0.0
 1628596,1794754800,5185,5192,Kwara United,Rivers United,1,1,0.0,0.0
+1628592,1794754800,5177,24512,Enyimba,Ikorodu City,0,1,0.0,0.0
 1628595,1794754800,5184,5188,Katsina United,Nasarawa United,2,1,2.0,0.0
-1628597,1794754800,5189,5176,Niger Tornadoes,Enugu Rangers,1,1,1.0,0.0
+1628593,1794754800,28168,5171,Inter Lagos,Abia Warriors,2,1,2.0,0.0
 1628600,1794754800,5508,22585,Warri Wolves,Sporting Lagos,2,1,1.0,0.0
+1628597,1794754800,5189,5176,Niger Tornadoes,Enugu Rangers,1,1,1.0,0.0
 1628598,1794927600,5190,26401,Plateau United,Kun Khalifat FC,3,0,2.0,0.0
+1628569,1795014000,28169,20809,Ranchers Bees,Doma United,2,1,0.0,0.0
