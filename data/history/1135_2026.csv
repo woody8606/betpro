@@ -25,3 +25,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1647102,1794333600,22819,22820,Carmópolis,Olímpico SE,2,2,1.0,1.0
 1647101,1794333600,24806,24818,Caninde,Socorrense,2,1,1.0,0.0
 1647103,1794420000,15605,24813,Maruinense,Independente Simão Dias,1,1,1.0,0.0
+1649966,1794679200,15605,24806,Maruinense,Caninde,2,0,0.0,0.0
+1649965,1794679200,22819,10001,Carmópolis,Frei Paulistano,1,1,1.0,0.0

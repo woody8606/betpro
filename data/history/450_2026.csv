@@ -13,7 +13,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1616095,1789815600,28114,9797,Villaverde Norte,Lanzarote,1,1,1.0,0.0
 1616089,1789833600,9798,17605,Las Palmas III,Unión Sur Yaiza,4,2,2.0,1.0
 1616092,1789833600,22148,20275,San Bartolomé,Estrella,4,2,2.0,1.0
-1616090,1789833600,24611,22143,Los Llanos,Laguna de Duero,2,1,0.0,0.0
+1616090,1789833600,24611,22143,Los Llanos,Laguna de Duero,2,1,2.0,0.0
 1616094,1789833600,27623,9807,San Miguel,Villa Santa Brígida,3,1,0.0,1.0
 1616087,1789833600,28113,5269,Anaza,Mensajero,1,0,0.0,0.0
 1616093,1789902000,9804,25036,UD San Fernando,Playas Sotavento,5,0,1.0,0.0
@@ -97,3 +97,4 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1616162,1794675600,24611,28113,Los Llanos,Anaza,3,0,1.0,0.0
 1616159,1794744000,9799,26851,Marino,Tenerife C,0,0,0.0,0.0
 1616165,1794744000,9804,27623,UD San Fernando,San Miguel,0,0,0.0,0.0
+1616168,1795208400,28113,9799,Anaza,Marino,3,2,1.0,1.0

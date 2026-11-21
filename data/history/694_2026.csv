@@ -42,3 +42,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1642752,1794142800,15368,28461,AE Neapolis,Chersonissos,1,1,1,0
 1642754,1794142800,20677,958,Tympaki,Platanias,0,0,0,0
 1642758,1794661200,6299,12421,Atsalenios,Rethymniakos,3,0,2,0
+1642763,1794747600,2096,12417,Kissamikos,Agios Nikolaos,3,1,1,0
+1642761,1794747600,2105,15368,Ergotelis,AE Neapolis,1,0,1,0
+1642760,1794747600,5038,20677,Episkopi,Tympaki,2,0,1,0
+1642762,1794747600,12418,958,Giouchtas,Platanias,2,2,0,1
+1642759,1794747600,28461,12419,Chersonissos,Panakrotiriakos,1,1,0,1

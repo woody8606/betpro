@@ -139,3 +139,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1556140,1794114000,289,287,Vissel Kobe,Urawa,2,2,1,0,1.72,1.86
 1556134,1794117600,293,291,Gamba Osaka,Cerezo Osaka,2,3,0,1,1.41,1.16
 1556132,1794124800,301,305,JEF United Chiba,Mito Hollyhock,1,0,0,0,2.24,0.85
+1556143,1795168800,290,283,Kashima,Shimizu S-pulse,1,1,0,0,0.98,0.69
+1556144,1795168800,281,301,Kashiwa Reysol,JEF United Chiba,0,1,0,0,1.43,0.51
+1556150,1795168800,289,305,Vissel Kobe,Mito Hollyhock,1,2,0,1,1.63,0.71
