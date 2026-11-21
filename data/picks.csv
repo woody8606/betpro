@@ -720,3 +720,4 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-22,03:00,1551044,Mexico - Liga MX,Tigres UANL - Club America,sigur,O05HT,0.7674,0.8336,0.7233,1.29,Betfair,3.0,-0.01,,,,
 2026-11-22,10:00,1591402,Turkey - 2. Lig,Sebat Gençlikspor - Güzide Gebzespor,sigur,O05HT,0.7735,0.8459,0.7253,1.29,Betfair,3.0,-0.0022,,,,
 2026-11-22,11:00,1569181,Poland - III Liga - Group 1,ŁKS Łódź II - Wigry Suwałki,sigur,O05HT,0.8,0.8797,0.7469,1.25,Betfair,3.0,0.0,,,,
+2026-11-22,20:00,1650165,Jamaica - Premier League,Chapelton - Cavalier,value,A15,0.4834,0.5532,0.4368,2.2,Betfair,3.0,0.0634,,,,
