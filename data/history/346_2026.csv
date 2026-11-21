@@ -111,3 +111,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1559831,1794129300,8618,7307,Slavia Praha II,Kladno,1,3,1,1
 1559830,1794144600,8621,3725,Baník Ostrava II,Prostějov,1,2,1,1
 1559828,1794661200,7291,3727,Hanácká,Třinec,0,1,0,0
+1559837,1795190400,3726,8618,Táborsko,Slavia Praha II,3,1,1,0
+1559833,1795194000,3716,8621,Karviná,Baník Ostrava II,1,3,1,1
+1559835,1795194000,3718,3735,Příbram,Ústí nad Labem,1,0,0,0

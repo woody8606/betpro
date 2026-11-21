@@ -143,3 +143,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1587538,1794142800,9371,13935,Köln II,Sportfreunde Siegen,2,2,1,1
 1587535,1794142800,24430,1629,Bochum II,SG Wattenscheid 09,3,2,0,1
 1587510,1794488400,12827,24430,Paderborn II,Bochum II,2,1,2,1
+1587549,1795195800,1629,9371,SG Wattenscheid 09,Köln II,1,1,0,0
+1587545,1795199400,9367,1323,Borussia Dortmund II,Sportfreunde Lotte,2,0,2,0
+1587551,1795199400,12897,24430,Wiedenbrück,Bochum II,1,1,0,0

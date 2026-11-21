@@ -499,7 +499,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1646742,1792867500,18764,3975,Argentino Monte Maíz,Kimberley Mar del Plata,0,0,0,0
 1646741,1792951200,1949,1935,Cipolletti,San Martin Formosa,0,2,0,1
 1646747,1792951200,1950,1962,Sportivo Las Parejas,Alvarado,0,1,0,1
-1646743,1792954800,467,25758,Boca Unidos,Gimnasia Chivilcoy,0,0,0,0
 1646748,1792954800,1938,789,Villa Mitre,Douglas Haig,1,0,0,0
 1646744,1792954800,3945,443,Gimnasia Concepción,Olimpo Bahia Blanca,0,0,0,0
 1646746,1792954800,23255,21043,Sarmiento de La Banda,Atenas,3,0,1,0
@@ -513,6 +512,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1648323,1794078000,789,25758,Douglas Haig,Gimnasia Chivilcoy,1,0,1,0
 1648324,1794168000,1961,1949,Juventud Antoniana,Cipolletti,0,1,0,0
 1648326,1794171600,23255,1962,Sarmiento de La Banda,Alvarado,1,0,0,0
+1648325,1794508200,3975,443,Kimberley Mar del Plata,Olimpo Bahia Blanca,1,1,1,0
 1648329,1794765600,1949,1961,Cipolletti,Juventud Antoniana,3,0,1,0
 1648327,1794769200,1962,23255,Alvarado,Sarmiento de La Banda,0,0,0,0
 1648328,1794772800,25758,789,Gimnasia Chivilcoy,Douglas Haig,2,2,1,0
+1648330,1794957300,443,3975,Olimpo Bahia Blanca,Kimberley Mar del Plata,1,1,1,0

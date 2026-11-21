@@ -62,3 +62,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1644280,1794055800,26612,9135,Ittifaq,Al Arabi,0,3,0,0
 1644282,1794141900,9136,2880,Al Bataeh,Al Fujairah SC,1,2,0,0
 1644283,1794141900,9139,27995,Al Urooba,Palm City,2,0,0,0
+1644285,1795178700,9135,13265,Al Arabi,Al Jazira Al Hamra,4,1,3,0
+1644286,1795178700,9137,9138,Al Hamriyah,Al Thaid,0,1,0,0
+1644284,1795178700,27995,17713,Palm City,Dubai City,2,1,2,0

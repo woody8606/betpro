@@ -90,9 +90,10 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1614931,1794153600,17538,9725,Palencia CF,Bembibre,2,0,2,0
 1614938,1794667500,9732,22144,La Virgen del Camino,Villaralbo,2,0,2,0
 1614940,1794667500,9733,9737,Mirandés II,Salamanca II,1,1,1,0
-1614939,1794668400,17502,17538,Atlético Mansillés,Palencia CF,2,0,0,0
+1614939,1794668400,17502,17538,Atlético Mansillés,Palencia CF,2,0,1,0
 1614942,1794668400,20449,9738,Turégano,UD Santa Marta,0,1,0,0
 1614943,1794668400,26546,9722,Unionistas II,Arandina,1,0,0,0
 1614937,1794670200,9388,15354,Guijuelo,Colegios Diocesanos,4,1,2,1
 1614941,1794672000,9728,9727,Cristo Atlético,Burgos Promesas,1,1,1,1
 1614936,1794740400,28106,9721,Calasanz de Soria,Almazán,0,1,0,0
+1614884,1795021200,17502,9388,Atlético Mansillés,Guijuelo,2,1,1,1

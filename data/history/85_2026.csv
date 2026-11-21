@@ -143,3 +143,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1586931,1794142800,1315,9355,FSV Zwickau,Lokomotive Leipzig,1,2,0,2
 1586928,1794142800,9353,21525,Hertha BSC II,Magdeburg II,4,4,2,1
 1586930,1794142800,14754,190,RSV Eintracht,Erzgebirge Aue,1,2,1,1
+1586935,1795197600,1329,9349,FC Rot-Weiß Erfurt,Altglienicke,3,0,0,0
+1586937,1795197600,9355,14754,Lokomotive Leipzig,RSV Eintracht,3,0,1,0
+1586939,1795197600,21525,1315,Magdeburg II,FSV Zwickau,3,3,2,0
