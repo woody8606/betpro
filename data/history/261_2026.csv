@@ -1,0 +1,97 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1589439,1785600000,11906,2042,Wiltz,Etzella Ettelbruck,1,1,0,1
+1589442,1785603600,658,2034,Progres Niederkorn,AS Jeunesse Esch,2,1,0,1
+1589443,1785679200,2030,2035,Racing FC Union Luxembourg,UN Kaerjeng 97,5,1,4,1
+1589444,1785679200,2033,11907,US Rumelange,Swift Hesperange,1,0,1,0
+1589441,1785679200,2037,684,US Mondorf-les-bains,FC Differdange 03,3,2,2,1
+1589446,1785679200,15900,2040,Résidence Walferdange,US Hostert,3,2,1,2
+1589445,1785866400,2036,2038,UNA Strassen,Victoria Rosport,4,0,4,0
+1589440,1785866400,15847,578,Atert Bissen,F91 Dudelange,2,0,1,0
+1589448,1786284000,578,2036,F91 Dudelange,UNA Strassen,0,2,0,1
+1589447,1786284000,684,2033,FC Differdange 03,US Rumelange,2,0,0,0
+1589452,1786284000,2035,2040,UN Kaerjeng 97,US Hostert,4,2,2,1
+1589453,1786284000,2038,2037,Victoria Rosport,US Mondorf-les-bains,2,3,1,2
+1589449,1786284000,2042,2030,Etzella Ettelbruck,Racing FC Union Luxembourg,0,1,0,0
+1589454,1786284000,15900,658,Résidence Walferdange,Progres Niederkorn,0,1,0,1
+1589450,1786291200,11907,11906,Swift Hesperange,Wiltz,2,7,0,6
+1589451,1786294800,2034,15847,AS Jeunesse Esch,Atert Bissen,0,2,0,1
+1589462,1786813200,11906,684,Wiltz,FC Differdange 03,1,2,1,1
+1589460,1786888800,2033,2038,US Rumelange,Victoria Rosport,3,2,1,0
+1589457,1786888800,2035,15900,UN Kaerjeng 97,Résidence Walferdange,1,2,0,1
+1589461,1786888800,2036,2034,UNA Strassen,AS Jeunesse Esch,1,0,0,0
+1589458,1786888800,2037,578,US Mondorf-les-bains,F91 Dudelange,1,0,1,0
+1589456,1786888800,2040,2042,US Hostert,Etzella Ettelbruck,5,1,3,0
+1589455,1786888800,15847,658,Atert Bissen,Progres Niederkorn,0,4,0,1
+1589459,1786896000,2030,11907,Racing FC Union Luxembourg,Swift Hesperange,5,0,0,0
+1589468,1787418000,658,2036,Progres Niederkorn,UNA Strassen,0,1,0,0
+1589464,1787493600,578,2033,F91 Dudelange,US Rumelange,3,2,1,1
+1589463,1787493600,684,2030,FC Differdange 03,Racing FC Union Luxembourg,3,0,1,0
+1589467,1787493600,2034,2037,AS Jeunesse Esch,US Mondorf-les-bains,1,3,0,2
+1589469,1787493600,2038,11906,Victoria Rosport,Wiltz,4,0,1,0
+1589465,1787493600,2042,2035,Etzella Ettelbruck,UN Kaerjeng 97,0,1,0,0
+1589466,1787493600,11907,2040,Swift Hesperange,US Hostert,0,2,0,0
+1589470,1787493600,15900,15847,Résidence Walferdange,Atert Bissen,1,2,1,2
+1589475,1788098400,2030,2038,Racing FC Union Luxembourg,Victoria Rosport,2,2,2,1
+1589476,1788098400,2033,2034,US Rumelange,AS Jeunesse Esch,2,5,1,3
+1589473,1788098400,2035,11907,UN Kaerjeng 97,Swift Hesperange,6,0,3,0
+1589474,1788098400,2037,658,US Mondorf-les-bains,Progres Niederkorn,2,1,0,0
+1589472,1788098400,2040,684,US Hostert,FC Differdange 03,0,2,0,2
+1589471,1788098400,2042,15900,Etzella Ettelbruck,Résidence Walferdange,0,5,0,2
+1589478,1788098400,11906,578,Wiltz,F91 Dudelange,1,2,0,1
+1589477,1788105600,2036,15847,UNA Strassen,Atert Bissen,2,1,1,0
+1589485,1788624000,2038,2040,Victoria Rosport,US Hostert,0,2,0,2
+1589481,1788703200,578,2030,F91 Dudelange,Racing FC Union Luxembourg,1,3,0,0
+1589484,1788703200,658,2033,Progres Niederkorn,US Rumelange,3,0,1,0
+1589480,1788703200,684,2035,FC Differdange 03,UN Kaerjeng 97,4,1,2,0
+1589482,1788703200,11907,2042,Swift Hesperange,Etzella Ettelbruck,0,3,0,1
+1589479,1788703200,15847,2037,Atert Bissen,US Mondorf-les-bains,1,2,0,1
+1589486,1788703200,15900,2036,Résidence Walferdange,UNA Strassen,0,3,0,3
+1589483,1788714000,2034,11906,AS Jeunesse Esch,Wiltz,5,1,1,0
+1589490,1789149600,2035,2038,UN Kaerjeng 97,Victoria Rosport,5,0,4,0
+1589492,1789221600,2030,2034,Racing FC Union Luxembourg,AS Jeunesse Esch,5,1,3,0
+1589489,1789225200,2040,578,US Hostert,F91 Dudelange,0,0,0,0
+1589487,1789228800,684,2042,FC Differdange 03,Etzella Ettelbruck,1,0,1,0
+1589494,1789228800,11906,658,Wiltz,Progres Niederkorn,1,2,0,1
+1589493,1789308000,2033,15847,US Rumelange,Atert Bissen,0,6,0,4
+1589491,1789308000,2037,2036,US Mondorf-les-bains,UNA Strassen,1,2,0,1
+1589488,1789308000,11907,15900,Swift Hesperange,Résidence Walferdange,0,3,0,2
+1589497,1789581600,578,2035,F91 Dudelange,UN Kaerjeng 97,2,4,1,2
+1589499,1789581600,658,2030,Progres Niederkorn,Racing FC Union Luxembourg,0,0,0,0
+1589496,1789581600,684,11907,FC Differdange 03,Swift Hesperange,3,0,2,0
+1589500,1789581600,2036,2033,UNA Strassen,US Rumelange,2,0,1,0
+1589501,1789581600,2038,2042,Victoria Rosport,Etzella Ettelbruck,1,1,0,1
+1589498,1789581600,2040,2034,US Hostert,AS Jeunesse Esch,1,1,1,0
+1589495,1789581600,15847,11906,Atert Bissen,Wiltz,4,2,3,0
+1589502,1789581600,15900,2037,Résidence Walferdange,US Mondorf-les-bains,2,1,1,1
+1589503,1791727200,684,15900,FC Differdange 03,Résidence Walferdange,6,0,2,0
+1589508,1791727200,2030,15847,Racing FC Union Luxembourg,Atert Bissen,2,2,0,1
+1589509,1791727200,2033,2037,US Rumelange,US Mondorf-les-bains,1,2,1,1
+1589507,1791727200,2035,2034,UN Kaerjeng 97,AS Jeunesse Esch,4,1,1,0
+1589506,1791727200,2040,658,US Hostert,Progres Niederkorn,0,2,0,2
+1589504,1791727200,2042,578,Etzella Ettelbruck,F91 Dudelange,1,3,1,1
+1589510,1791727200,11906,2036,Wiltz,UNA Strassen,0,2,0,0
+1589505,1791727200,11907,2038,Swift Hesperange,Victoria Rosport,0,3,0,2
+1589515,1792251000,658,2035,Progres Niederkorn,UN Kaerjeng 97,1,2,0,1
+1589512,1792332000,578,11907,F91 Dudelange,Swift Hesperange,5,0,2,0
+1589513,1792332000,2034,2042,AS Jeunesse Esch,Etzella Ettelbruck,1,0,1,0
+1589516,1792332000,2036,2030,UNA Strassen,Racing FC Union Luxembourg,1,1,1,1
+1589514,1792332000,2037,11906,US Mondorf-les-bains,Wiltz,4,1,3,1
+1589517,1792332000,2038,684,Victoria Rosport,FC Differdange 03,3,5,1,2
+1589511,1792332000,15847,2040,Atert Bissen,US Hostert,5,1,2,0
+1589518,1792332000,15900,2033,Résidence Walferdange,US Rumelange,3,3,2,2
+1589520,1792857600,2042,658,Etzella Ettelbruck,Progres Niederkorn,2,0,0,0
+1589519,1792940400,684,578,FC Differdange 03,F91 Dudelange,2,1,1,0
+1589524,1792940400,2030,2037,Racing FC Union Luxembourg,US Mondorf-les-bains,6,0,0,0
+1589523,1792940400,2035,15847,UN Kaerjeng 97,Atert Bissen,1,2,0,2
+1589525,1792940400,2038,15900,Victoria Rosport,Résidence Walferdange,4,1,3,1
+1589522,1792940400,2040,2036,US Hostert,UNA Strassen,0,2,0,1
+1589526,1792940400,11906,2033,Wiltz,US Rumelange,3,3,2,2
+1589521,1792940400,11907,2034,Swift Hesperange,AS Jeunesse Esch,0,3,0,1
+1589528,1793458800,578,2038,F91 Dudelange,Victoria Rosport,3,0,2,0
+1589529,1793458800,2034,684,AS Jeunesse Esch,FC Differdange 03,0,3,0,2
+1589531,1793466000,658,11907,Progres Niederkorn,Swift Hesperange,3,0,1,0
+1589532,1793466000,2033,2030,US Rumelange,Racing FC Union Luxembourg,2,1,1,0
+1589533,1793466000,2036,2035,UNA Strassen,UN Kaerjeng 97,2,1,1,1
+1589530,1793466000,2037,2040,US Mondorf-les-bains,US Hostert,2,1,1,1
+1589527,1793466000,15847,2042,Atert Bissen,Etzella Ettelbruck,5,1,1,1
+1589534,1793466000,15900,11906,Résidence Walferdange,Wiltz,1,1,1,1

@@ -1,0 +1,49 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1622615,1787392800,22191,19903,Gloria Bistrița-Năsăud W,Csikszereda MC W,2,4,2,4
+1622614,1787400000,22192,28170,Farul Constanţa W,FC Rapid Bucuresti W,7,1,1,0
+1622617,1787472000,15970,17659,Vasas Femina W,SSU Poli Timişoara W,0,14,0,9
+1622616,1787479200,28171,10899,Univ. Craiova W,Olimpia Cluj W,2,6,0,3
+1623482,1788076800,19903,28171,Csikszereda MC W,Univ. Craiova W,11,1,4,1
+1623483,1788076800,22192,15970,Farul Constanţa W,Vasas Femina W,22,1,10,1
+1623481,1788076800,28170,10899,FC Rapid Bucuresti W,Olimpia Cluj W,1,6,0,1
+1623484,1788084000,17659,22191,SSU Poli Timişoara W,Gloria Bistrița-Năsăud W,0,1,0,1
+1623485,1788595200,28171,17659,Univ. Craiova W,SSU Poli Timişoara W,1,6,0,5
+1623487,1788602400,10899,19903,Olimpia Cluj W,Csikszereda MC W,3,2,1,1
+1623488,1788609600,22191,22192,Gloria Bistrița-Năsăud W,Farul Constanţa W,1,0,0,0
+1623486,1788692400,15970,28170,Vasas Femina W,FC Rapid Bucuresti W,0,8,0,3
+1623490,1789286400,15970,22191,Vasas Femina W,Gloria Bistrița-Năsăud W,0,15,0,8
+1623489,1789286400,22192,28171,Farul Constanţa W,Univ. Craiova W,12,0,3,0
+1623492,1789300800,28170,19903,FC Rapid Bucuresti W,Csikszereda MC W,2,4,2,2
+1623491,1789466400,17659,10899,SSU Poli Timişoara W,Olimpia Cluj W,1,0,0,0
+1623495,1789812000,10899,22192,Olimpia Cluj W,Farul Constanţa W,1,8,0,3
+1623493,1789815600,19903,17659,Csikszereda MC W,SSU Poli Timişoara W,3,0,2,0
+1623494,1789891200,22191,28170,Gloria Bistrița-Năsăud W,FC Rapid Bucuresti W,5,2,1,0
+1623496,1789905600,28171,15970,Univ. Craiova W,Vasas Femina W,1,0,1,0
+1623497,1790416800,28170,17659,FC Rapid Bucuresti W,SSU Poli Timişoara W,1,9,0,4
+1623498,1790496000,22191,28171,Gloria Bistrița-Năsăud W,Univ. Craiova W,13,1,6,1
+1623500,1790503200,22192,19903,Farul Constanţa W,Csikszereda MC W,2,3,0,0
+1623499,1790510400,15970,10899,Vasas Femina W,Olimpia Cluj W,0,2,0,0
+1623501,1791014400,19903,15970,Csikszereda MC W,Vasas Femina W,3,0,2,0
+1623502,1791021600,17659,22192,SSU Poli Timişoara W,Farul Constanţa W,1,2,0,1
+1623503,1791028800,10899,22191,Olimpia Cluj W,Gloria Bistrița-Năsăud W,1,2,1,2
+1623504,1791108000,28171,28170,Univ. Craiova W,FC Rapid Bucuresti W,0,4,0,1
+1623508,1792497600,17659,15970,SSU Poli Timişoara W,Vasas Femina W,4,1,3,0
+1623507,1792569600,10899,28171,Olimpia Cluj W,Univ. Craiova W,3,0,2,0
+1623505,1792576800,19903,22191,Csikszereda MC W,Gloria Bistrița-Năsăud W,2,1,1,1
+1623506,1792584000,28170,22192,FC Rapid Bucuresti W,Farul Constanţa W,1,3,0,2
+1623512,1792918800,15970,22192,Vasas Femina W,Farul Constanţa W,0,12,0,5
+1623511,1792918800,28171,19903,Univ. Craiova W,Csikszereda MC W,0,2,0,1
+1623509,1792922400,22191,17659,Gloria Bistrița-Năsăud W,SSU Poli Timişoara W,1,0,1,0
+1623510,1792933200,10899,28170,Olimpia Cluj W,FC Rapid Bucuresti W,1,3,1,2
+1623513,1793449800,19903,10899,Csikszereda MC W,Olimpia Cluj W,5,0,3,0
+1623516,1793523600,17659,28171,SSU Poli Timişoara W,Univ. Craiova W,5,0,3,0
+1623514,1793530800,22192,22191,Farul Constanţa W,Gloria Bistrița-Năsăud W,2,1,1,1
+1623515,1793538000,28170,15970,FC Rapid Bucuresti W,Vasas Femina W,1,0,0,0
+1623517,1794049200,19903,28170,Csikszereda MC W,FC Rapid Bucuresti W,1,3,0,0
+1623518,1794128400,22191,15970,Gloria Bistrița-Năsăud W,Vasas Femina W,8,1,3,0
+1623520,1794128400,28171,22192,Univ. Craiova W,Farul Constanţa W,0,7,0,4
+1623519,1794135600,10899,17659,Olimpia Cluj W,SSU Poli Timişoara W,0,3,0,0
+1623521,1794654000,22192,10899,Farul Constanţa W,Olimpia Cluj W,7,1,4,1
+1623524,1794733200,15970,28171,Vasas Femina W,Univ. Craiova W,1,1,1,0
+1623522,1794733200,28170,22191,FC Rapid Bucuresti W,Gloria Bistrița-Năsăud W,0,5,0,2
+1623523,1794740400,17659,19903,SSU Poli Timişoara W,Csikszereda MC W,1,0,0,0

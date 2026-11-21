@@ -1,0 +1,43 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1620168,1790514000,950,12387,PAS Giannina,Anagennisi Artas,0,0,0.0,0.0
+1620166,1790514000,28156,24858,Doxa Mascholouriou,Naousa,1,0,1.0,0.0
+1620169,1790514000,28157,15479,Makedonikos Siatista,Eordaikos,0,0,0.0,0.0
+1620170,1790514000,28158,20398,Vatolakkos,Kastoria,0,1,0.0,0.0
+1620167,1790514000,28417,15255,Alexandros Florinas,Thyella Katsikas,4,1,1.0,1.0
+1620175,1791118800,961,28158,Veria,Vatolakkos,4,0,1.0,0.0
+1620171,1791118800,12387,24858,Anagennisi Artas,Naousa,3,1,1.0,0.0
+1620174,1791118800,15255,950,Thyella Katsikas,PAS Giannina,1,1,0.0,1.0
+1620172,1791118800,15479,28156,Eordaikos,Doxa Mascholouriou,2,0,1.0,0.0
+1620173,1791118800,20398,28157,Kastoria,Makedonikos Siatista,0,1,0.0,1.0
+1620176,1791637200,12387,15479,Anagennisi Artas,Eordaikos,2,1,1.0,0.0
+1620179,1791637200,24858,15255,Naousa,Thyella Katsikas,1,0,1.0,0.0
+1620177,1791637200,28156,20398,Doxa Mascholouriou,Kastoria,2,1,2.0,0.0
+1620180,1791637200,28158,28157,Vatolakkos,Makedonikos Siatista,0,3,0.0,3.0
+1620178,1791637200,28417,961,Alexandros Florinas,Veria,0,1,0.0,1.0
+1620185,1792328400,961,950,Veria,PAS Giannina,3,2,2.0,1.0
+1620184,1792328400,15255,15479,Thyella Katsikas,Eordaikos,0,1,0.0,1.0
+1620182,1792328400,20398,12387,Kastoria,Anagennisi Artas,0,0,0.0,0.0
+1620183,1792328400,28157,28156,Makedonikos Siatista,Doxa Mascholouriou,1,0,0.0,0.0
+1620181,1792328400,28417,28158,Alexandros Florinas,Vatolakkos,5,1,3.0,1.0
+1620187,1792933200,950,28417,PAS Giannina,Alexandros Florinas,2,1,1.0,0.0
+1620186,1792933200,12387,28157,Anagennisi Artas,Makedonikos Siatista,2,3,0.0,2.0
+1620189,1792933200,15255,20398,Thyella Katsikas,Kastoria,1,1,0.0,1.0
+1620188,1792933200,24858,961,Naousa,Veria,1,2,1.0,1.0
+1620190,1792933200,28158,28156,Vatolakkos,Doxa Mascholouriou,0,0,0.0,0.0
+1620193,1793451600,950,28158,PAS Giannina,Vatolakkos,4,0,3.0,0.0
+1620195,1793451600,961,15479,Veria,Eordaikos,2,1,1.0,1.0
+1620194,1793451600,28157,15255,Makedonikos Siatista,Thyella Katsikas,2,1,1.0,0.0
+1620192,1793451600,28417,24858,Alexandros Florinas,Naousa,1,1,1.0,1.0
+1620191,1793538000,28156,12387,Doxa Mascholouriou,Anagennisi Artas,1,0,0.0,0.0
+1620199,1794142800,15255,28156,Thyella Katsikas,Doxa Mascholouriou,2,2,1.0,1.0
+1620196,1794142800,15479,28417,Eordaikos,Alexandros Florinas,3,2,3.0,0.0
+1620197,1794142800,20398,961,Kastoria,Veria,1,3,0.0,2.0
+1620198,1794142800,24858,950,Naousa,PAS Giannina,0,1,0.0,0.0
+1620200,1794142800,28158,12387,Vatolakkos,Anagennisi Artas,0,3,0.0,1.0
+1620203,1794747600,950,15479,PAS Giannina,Eordaikos,2,0,2.0,0.0
+1620201,1794747600,12387,15255,Anagennisi Artas,Thyella Katsikas,1,1,0.0,1.0
+1620205,1794747600,24858,28158,Naousa,Vatolakkos,4,0,2.0,0.0
+1620204,1794747600,28157,961,Makedonikos Siatista,Veria,3,1,1.0,0.0
+1620202,1794747600,28417,20398,Alexandros Florinas,Kastoria,0,1,0.0,1.0
+1620210,1795266000,961,28156,Veria,Doxa Mascholouriou,0,0,0.0,0.0
+1620208,1795266000,28157,28417,Makedonikos Siatista,Alexandros Florinas,3,2,,

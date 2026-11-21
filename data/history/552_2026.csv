@@ -98,3 +98,16 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1590459,1794398400,3609,24957,Beykoz Anadolu,Yalova Yeşilovaspor,1,5,0,4
 1590461,1794398400,26465,7422,Galata,Silivrispor,1,2,0,2
 1590462,1794398400,26467,19299,İnkılapspor,Amasyaspor 1968,2,1,0,0
+1590471,1794736800,7404,7399,Fatsa Belediyespor,Düzcespor,0,1,0,0
+1590473,1794736800,13369,7420,Karadeniz Ereğli BSK,Pazarspor,2,4,0,3
+1590474,1794736800,17261,3609,Orduspor 1967,Beykoz Anadolu,3,1,2,0
+1590468,1794736800,19299,3611,Amasyaspor 1968,Zonguldak Kömürspor,1,1,0,0
+1590470,1794736800,19301,21994,Kartal Bulvarspor,Küçükçekmece Sinopspor,2,2,0,1
+1590472,1794744000,7405,21035,Gölcükspor,Tokat Bld Plevnespor,3,2,1,1
+1590475,1794744000,7422,26467,Silivrispor,İnkılapspor,3,1,2,0
+1590469,1794744000,24603,20294,Beykoz İshaklıspor,Karabük İdman Yurdu,0,1,0,0
+1590476,1794744000,24957,26465,Yalova Yeşilovaspor,Galata,1,0,0,0
+1590482,1795255200,21994,13369,Küçükçekmece Sinopspor,Karadeniz Ereğli BSK,4,1,3,0
+1590477,1795255200,24603,7405,Beykoz İshaklıspor,Gölcükspor,2,3,1,3
+1590480,1795255200,26467,24957,İnkılapspor,Yalova Yeşilovaspor,1,0,1,0
+1590481,1795264200,20294,3609,Karabük İdman Yurdu,Beykoz Anadolu,3,1,2,1
