@@ -118,3 +118,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1631812,1794700800,28305,24949,Halcones Negros,Acatlan,4,2,0.0,1.0
 1631814,1794780000,22051,26526,Acambaro,Héroes de Zaci,5,1,4.0,1.0
 1631779,1795039200,15919,15924,Atlético Saltillo,Cañoneros Marina,2,0,1.0,0.0
+1631816,1795197600,26526,28303,Héroes de Zaci,Delfines Coatzacoalcos,0,1,,
+1631815,1795219200,22055,26393,FC Santiago,Dragones de Oaxaca,1,1,1.0,0.0
+1631817,1795222800,24949,28304,Acatlan,Guerreros del Pacifico,0,5,0.0,2.0
