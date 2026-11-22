@@ -22,25 +22,21 @@ def test_app():
     assert not at.exception, at.exception
     print("titlu:", [t.value for t in at.title])
     print("tabele:", len(at.dataframe))
-    ms = at.multiselect(key="sel")
-    ms.select(ms.options[0]).select(ms.options[5]).run()
+    at.checkbox(key="mari").uncheck().run()      # datele de test nu sunt din ligi "cunoscute"
     assert not at.exception, at.exception
-    print("metrici:", [(m.label, m.value) for m in at.metric])
-    at.multiselect(key="sel").set_value([]).run()
-    at.checkbox[0].uncheck().run()          # datele de test nu sunt din ligi "cunoscute"
-    at.button[0].click().run()
+    at.button(key="propune").click().run()
     assert not at.exception, at.exception
-    first = list(at.multiselect(key="sel").value)
-    print("propus:", first)
-    if first:
-        gone = first[0]
-        at.multiselect(key="sel").unselect(gone).run()
-        at.button[0].click().run()
-        assert not at.exception, at.exception
-        second = list(at.multiselect(key="sel").value)
-        print("dupa ce am scos", gone, "->", second)
-        gone_name = gone.split(" | ")[0]
-        assert not any(x.split(" | ")[0] == gone_name for x in second), "meciul scos a revenit"
+    first = list(at.session_state["bilet"])
+    print("propus:", first, "metrici:", [(m.label, m.value) for m in at.sidebar.metric])
+    assert first, "nu a propus nimic"
+    gone = first[0]
+    at.session_state["bilet"] = first[1:]
+    at.run()
+    at.button(key="propune").click().run()
+    assert not at.exception, at.exception
+    second = list(at.session_state["bilet"])
+    print("dupa ce am scos", gone, "->", second)
+    assert not any(x.split(":")[0] == gone.split(":")[0] for x in second), "meciul scos a revenit"
     print("OK")
 
 

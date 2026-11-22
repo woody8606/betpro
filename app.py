@@ -328,56 +328,73 @@ with tab_live:
 # ---------------------------------------------------------------- BILETUL MEU
 with tab_bilet:
     st.subheader("Fa-ti biletul, botul il verifica")
-    ora_min = st.select_slider("Meciuri de la ora", options=[f"{h:02d}:00" for h in range(0, 24)], value="00:00")
-    pool = [m for m in matches if m["kickoff"] >= ora_min]
+    st.caption("Bifeaza ✔ in tabel. Biletul se aduna in bara din stanga (pe telefon: sageata > din stanga sus) "
+               "si ramai in tabel. ✅ = cota Betfair peste cota corecta, ➖ = corect, ❌ = sub.")
+    st.session_state.setdefault("bilet", [])
 
+    PIETE = {"Over 1.5": "O15", "Over 2.5": "O25", "Over 3.5": "O35", "GG": "GG", "Gazde peste 1.5": "H15",
+             "Oaspeti peste 1.5": "A15", "Over 0.5 pauza": "O05HT", "Over 1.5 pauza": "O15HT", "1": "1", "X": "X", "2": "2"}
+    f1, f2, f3 = st.columns([2, 1, 1])
+    alese = f1.multiselect("Piete", list(PIETE), default=["Over 1.5", "Over 2.5", "GG", "Gazde peste 1.5", "Oaspeti peste 1.5"],
+                           key="piete")
+    ora_min = f2.selectbox("De la ora", [f"{h:02d}:00" for h in range(0, 24)], index=0, key="ora_min")
+    doar_verzi = f3.checkbox("Doar ✅", value=True, key="verzi")
+    g1, g2 = st.columns([2, 1])
+    cauta = g1.text_input("Cauta echipa sau liga", "", key="cauta").strip().lower()
+    mari = g2.checkbox("Doar ligi cunoscute", value=True, key="mari",
+                       help="Fara tineret, amatori, rezerve: meciuri pe care uneori nu le gasesti in aplicatia Betfair.")
+
+    pool = [m for m in matches if m["kickoff"] >= ora_min and (not mari or picks.is_known(m))]
     opts = {}
     for m in sorted(pool, key=lambda m: (m["kickoff"], m["name"])):
-        for mk in BUILD_MARKETS + [k for k in m["p"] if k.startswith("HTFT_")]:
+        for mk in [PIETE[x] for x in alese] or BUILD_MARKETS:
             bl = picks.blend(m, mk)
             o = m["odds"]["best"].get(mk)
             if not bl or not o:
                 continue
-            e = bl[0] * o[0] - 1
-            mark = "✅" if e >= 0.03 else ("➖" if e >= 0 else "❌")
-            key = f"{m['kickoff']} {m['name']} | {label(mk)} @ {o[0]:.2f} ({bl[0]:.0%}) {mark}"
-            opts[key] = (m, mk, bl[0], o[0])
+            opts[f"{m['fid']}:{mk}"] = (m, mk, bl[0], o[0])
+    # ce e deja pe bilet ramane cunoscut chiar daca filtrele se schimba
+    for k in st.session_state["bilet"]:
+        if k not in opts:
+            fid, mk = k.split(":")
+            m = next((x for x in matches if str(x["fid"]) == fid), None)
+            if m and m["odds"]["best"].get(mk) and picks.blend(m, mk):
+                opts[k] = (m, mk, picks.blend(m, mk)[0], m["odds"]["best"][mk][0])
 
-    with st.expander("🤖 Propune-mi un bilet"):
+    # ---- propune (meciurile scoase de tine nu mai revin)
+    try:
+        scoase = {int(x) for x in st.query_params.get("xb", "").split(",") if x.strip().isdigit()}
+    except Exception:
+        scoase = set()
+    prop = st.session_state.get("propus", [])
+    acum = set(st.session_state["bilet"])
+    noi = {int(k.split(":")[0]) for k in prop if k not in acum}
+    if noi - scoase:
+        scoase |= noi
+        try:
+            st.query_params["xb"] = ",".join(map(str, sorted(scoase)))
+        except Exception:
+            pass
+        st.session_state["propus"] = [k for k in prop if k in acum]
+    with st.expander("🤖 Propune-mi un bilet", expanded=False):
         c1, c2 = st.columns(2)
         tinta = c1.number_input("Cota dorita", 1.5, 200.0, 10.0, 0.5)
         maxl = c2.number_input("Maxim meciuri", 1, 12, 6)
-        mari = st.checkbox("Doar ligi cunoscute (fara tineret, amatori, rezerve)", value=True,
-                           help="Unele meciuri mici apar in API la Betfair, dar nu le vezi in aplicatia ta Betfair.")
-        # meciurile pe care le-ai scos din biletul propus nu mai revin (tinute minte azi, si dupa refresh)
-        try:
-            scoase = {int(x) for x in st.query_params.get("xb", "").split(",") if x.strip().isdigit()}
-        except Exception:
-            scoase = set()
-        prop = st.session_state.get("propus", [])
-        acum = set(st.session_state.get("sel", []))
-        noi = {opts[k][0]["fid"] for k in prop if k in opts and k not in acum}
-        if noi - scoase:
-            scoase |= noi
-            try:
-                st.query_params["xb"] = ",".join(map(str, sorted(scoase)))
-            except Exception:
-                pass
-            st.session_state["propus"] = [k for k in prop if k in acum]
-        if st.button("Propune", width="stretch"):
+        if st.button("Propune", width="stretch", key="propune"):
             baza = [m for m in pool if m["fid"] not in scoase]
-            t = picks.build_ticket([m for m in baza if picks.is_known(m)] if mari else baza, float(tinta), int(maxl))
+            t = picks.build_ticket(baza, float(tinta), int(maxl))
             if not t:
                 st.warning("Nu gasesc un bilet bun la cota asta. Incearca alta cota sau mai multe meciuri.")
             else:
-                st.session_state["sel"] = [k for k, v in opts.items()
-                                           for c in t["legs"] if v[0]["fid"] == c["match"]["fid"] and v[1] == c["mk"]]
-                st.session_state["propus"] = list(st.session_state["sel"])
+                st.session_state["bilet"] = [f"{c['match']['fid']}:{c['mk']}" for c in t["legs"]]
+                for k, c in zip(st.session_state["bilet"], t["legs"]):
+                    opts.setdefault(k, (c["match"], c["mk"], c["p"], c["odds"]))
+                st.session_state["propus"] = list(st.session_state["bilet"])
                 st.rerun()
         if scoase:
             c1, c2 = st.columns([3, 1])
             c1.caption(f"🚫 {len(scoase)} meciuri scoase de tine nu mai sunt propuse.")
-            if c2.button("Reseteaza", width="stretch"):
+            if c2.button("Reseteaza", width="stretch", key="reset_scoase"):
                 try:
                     del st.query_params["xb"]
                 except Exception:
@@ -385,43 +402,67 @@ with tab_bilet:
                 st.session_state["propus"] = []
                 st.rerun()
 
-    sel = st.multiselect("Alege pariurile (scrie numele echipei ca sa cauti)", list(opts), key="sel",
-                         help="✅ = value, ➖ = corect, ❌ = cota Betfair e sub cota corecta")
-    if sel:
-        rows = []
-        for k in sel:
-            m, mk, p, o = opts[k]
-            rows.append({"Ora": m["kickoff"], "Meci": m["name"], "Pariu": label(mk), "Sansa %": round(100 * p),
-                         "Cota corecta": round(1 / p, 2), "Cota ta": o, "_fid": m["fid"]})
-        df = pd.DataFrame(rows)
-        st.caption("Poti schimba coloana 'Cota ta' daca la tine e alta cota.")
-        ed = st.data_editor(df.drop(columns="_fid"), hide_index=True, width="stretch",
-                            disabled=["Ora", "Meci", "Pariu", "Sansa %", "Cota corecta"],
-                            column_config={"Cota ta": st.column_config.NumberColumn(min_value=1.01, step=0.01, format="%.2f")})
-        ps = [opts[k][2] for k in sel]
-        os_ = list(ed["Cota ta"].astype(float))
-        p_tot = math.prod(ps)
-        o_tot = math.prod(os_)
-        edge = p_tot * o_tot - 1
-        c1, c2, c3 = st.columns(3)
-        c1.metric("Cota bilet", f"{o_tot:.2f}")
-        c2.metric("Iese o data din", f"{1 / p_tot:.0f}")
-        c3.metric("Avantaj", f"{edge:+.0%}")
-        miza = st.number_input("Miza (£)", 0.1, 1000.0, 2.0, 0.5)
-        st.write(f"Castig daca iese: **£{miza * o_tot:,.2f}** · cota corecta a biletului: **{1 / p_tot:.2f}**")
+    # ---- grila mare cu bife
+    rows = []
+    sel = set(st.session_state["bilet"])
+    for k, (m, mk, p, o) in opts.items():
+        e = p * o - 1
+        mark = "✅" if e >= 0.03 else ("➖" if e >= 0 else "❌")
+        txt = (m["name"] + " " + m["league"]).lower()
+        if k not in sel and ((doar_verzi and mark != "✅") or (cauta and cauta not in txt) or m["kickoff"] < ora_min):
+            continue
+        rows.append({"✔": k in sel, "Ora": m["kickoff"], "Meci": m["name"], "Pariu": label(mk), "Cota": o,
+                     "Sansa %": round(100 * p), "Cota corecta": round(1 / p, 2), "": mark, "Liga": m["league"], "_k": k})
+    if rows:
+        gdf = pd.DataFrame(rows).sort_values(["✔", "Ora", "Meci"], ascending=[False, True, True]).reset_index(drop=True)
+        ed = st.data_editor(gdf, hide_index=True, width="stretch", height=650,
+                            disabled=[c for c in gdf.columns if c != "✔"],
+                            column_config={"_k": None, "✔": st.column_config.CheckboxColumn("✔", width="small"),
+                                           "Cota": st.column_config.NumberColumn(format="%.2f"),
+                                           "Cota corecta": st.column_config.NumberColumn(format="%.2f")})
+        nou = [k for k in ed.loc[ed["✔"], "_k"]]
+        if set(nou) != sel:
+            st.session_state["bilet"] = nou
+            st.rerun()
+    else:
+        st.info("Niciun pariu cu filtrele astea. Scoate 'Doar ✅' sau alege alte piete.")
 
-        dup = df["_fid"].duplicated(keep=False)
-        if dup.any():
-            st.error("Ai acelasi meci de doua ori: " + ", ".join(sorted(set(df.loc[dup, "Meci"]))) +
-                     ". Casele de obicei nu accepta asta pe un bilet normal.")
-        slabe = [f"{r['Meci']} ({r['Pariu']}: {r['Cota ta']:.2f} < {r['Cota corecta']:.2f})"
-                 for _, r in ed.iterrows() if r["Cota ta"] < r["Cota corecta"]]
-        if slabe:
-            st.warning("Picioare fara value (cota sub cota corecta) - le-as schimba: " + "; ".join(slabe))
-        if len(sel) > 8:
-            st.warning(f"{len(sel)} meciuri e mult. Fiecare meci in plus scade mult sansa; 4-6 e mai sanatos.")
-        if not slabe and not dup.any() and edge > 0:
-            st.success("Biletul are avantaj. Baga miza mica.")
+    # ---- biletul, in bara laterala (nu te scoate din grila)
+    with st.sidebar:
+        st.header("🎟️ Biletul meu")
+        bilet = [k for k in st.session_state["bilet"] if k in opts]
+        if not bilet:
+            st.caption("Bifeaza meciuri in tabel sau apasa 'Propune'.")
+        else:
+            ps, os_, fids, slabe = [], [], [], []
+            for k in bilet:
+                m, mk, p, o = opts[k]
+                cota = st.number_input(f"{m['kickoff']} {m['name']} · {label(mk)}", 1.01, 1000.0, float(o), 0.01,
+                                       key=f"cota_{k}", help=f"Sansa {p:.0%}, cota corecta {1 / p:.2f}. Schimb-o daca la tine e alta.")
+                ps.append(p)
+                os_.append(cota)
+                fids.append(m["fid"])
+                if cota < 1 / p:
+                    slabe.append(f"{m['name']} ({label(mk)})")
+            p_tot, o_tot = math.prod(ps), math.prod(os_)
+            st.metric("Cota bilet", f"{o_tot:.2f}")
+            c1, c2 = st.columns(2)
+            c1.metric("Iese o data din", f"{1 / p_tot:.0f}")
+            c2.metric("Avantaj", f"{p_tot * o_tot - 1:+.0%}")
+            miza = st.number_input("Miza (£)", 0.1, 1000.0, 2.0, 0.5, key="miza")
+            st.write(f"Castig daca iese: **£{miza * o_tot:,.2f}** · cota corecta: **{1 / p_tot:.2f}**")
+            if len(set(fids)) < len(fids):
+                st.error("Ai acelasi meci de doua ori pe bilet.")
+            if slabe:
+                st.warning("Fara value (cota sub cota corecta): " + "; ".join(slabe))
+            if len(bilet) > 8:
+                st.warning(f"{len(bilet)} meciuri e mult; 4-6 e mai sanatos.")
+            if not slabe and len(set(fids)) == len(fids) and p_tot * o_tot > 1:
+                st.success("Biletul are avantaj. Baga miza mica.")
+            if st.button("🗑️ Goleste biletul", width="stretch", key="goleste"):
+                st.session_state["bilet"] = []
+                st.session_state["propus"] = []
+                st.rerun()
 
 # ---------------------------------------------------------------- JURNAL
 with tab_jurnal:
