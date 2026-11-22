@@ -63,3 +63,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1548558,1794070800,1016,561,Istra 1961,HNK Rijeka,3,1,2,1,2.43,0.93
 1548560,1794146400,616,608,NK Osijek,HNK Hajduk Split,0,1,0,0,0.63,1.14
 1548561,1794157200,1483,620,NK Varazdin,Dinamo Zagreb,1,3,1,1,0.86,2.15
+1548563,1795269600,1017,608,NK Lokomotiva Zagreb,HNK Hajduk Split,1,2,1,2,1.29,1.66
+1548565,1795280400,1019,1483,Rudes,NK Varazdin,0,2,0,1,0.68,1.06

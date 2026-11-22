@@ -62,3 +62,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1603601,1794146400,2269,3402,Anorthosis,Omonia Nicosia,0,2,0,2,-1.0,-1.0
 1603602,1794157200,2247,3408,Apoel Nicosia,Aris,3,1,2,1,-1.0,-1.0
 1603605,1794157200,3403,14126,Pafos,Omonia 29is Maiou,4,2,3,0,-1.0,-1.0
+1603612,1795269600,3416,3403,Omonia Aradippou,Pafos,1,2,1,2,-1.0,-1.0
+1603611,1795273200,3402,2247,Omonia Nicosia,Apoel Nicosia,1,1,1,0,-1.0,-1.0
+1603607,1795280400,3408,3401,Aris,Nea Salamis,3,1,0,1,-1.0,-1.0
