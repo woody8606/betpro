@@ -24,7 +24,7 @@ def _read(p, cols):
     return pd.DataFrame(columns=cols)
 
 
-def save_today(date: str, value, sure, tix, bombs):
+def save_today(date: str, value, sure, tix, bombs, top=()):
     df = _read(PICKS, PCOLS)
     rows = []
 
@@ -35,6 +35,8 @@ def save_today(date: str, value, sure, tix, bombs):
                          p_ref=None if c.get("p_ref") is None else round(c["p_ref"], 4),
                          odds=c.get("odds"), book=c.get("book", ""), book_id=c.get("book_id"),
                          edge=None if c.get("edge") is None else round(c["edge"], 4)))
+    for c in top:
+        add(c, "top")
     for c in value:
         add(c, "value")
     for c in sure:

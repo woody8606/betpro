@@ -157,7 +157,7 @@ def evening(day: str):
     matches, n_leagues = analyse(api, day, log)
     value, _ = picks.value_picks(matches)
     sure = picks.sure_picks(matches)
-    journal.save_today(day, value, sure, [], {"HTFT": [], "CS": []})
+    journal.save_today(day, value, sure, [], {"HTFT": [], "CS": []}, picks.top_picks(matches))
     print("\n".join(log))
     print(f"seara pentru {day}: value {len(value)}, sigure {len(sure)}, cereri API {api.calls}")
     return 0
@@ -190,13 +190,14 @@ def main():
     sure = picks.sure_picks(matches)
     tix = picks.tickets(matches)
     bombs = picks.bombs(matches)
-    journal.save_today(today, value, sure, tix, bombs)
+    top = picks.top_picks(matches)
+    journal.save_today(today, value, sure, tix, bombs, top)
     st = journal.stats()
     yp, yt = journal.yesterday(today)
     log.append(f"cereri API: {api.calls}, ramase azi: {api.remaining}")
 
     html = report.build(today, n_leagues, len(matches), value, suspect, sure, tix, bombs, st, yp, yt, "; ".join(log),
-                        big=picks.big_matches(matches))
+                        big=picks.big_matches(matches), top=top)
     (config.REPORTS / f"{today}.html").write_text(html, encoding="utf-8")
     (config.REPORTS / "latest.html").write_text(html, encoding="utf-8")
     print("\n".join(log))

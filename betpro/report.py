@@ -50,7 +50,7 @@ def note(t):
     return f"<p style='font-style:italic;color:#555;margin:2px 0 8px'>{e(t)}</p>"
 
 
-def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, yt, log, big=None):
+def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, yt, log, big=None, top=None):
     o = [f"<div style='{CSS}'>", f"<h1 style='font-size:22px;margin:0'>BET PRO - {e(date)}</h1>",
          note(f"Am analizat {n_matches} meciuri din {n_leagues} ligi. Sansele sunt amestecate 40/60 cu sansa corecta "
               "a caselor (Pinnacle sau media caselor). Nicio selectie nu e sigura.")]
@@ -60,6 +60,23 @@ def build(date, n_leagues, n_matches, value, suspect, sure, tix, bombs, st, yp, 
         o.append("<p style='background:#e8f0ff;border-left:4px solid #1f388c;padding:8px 10px;font-weight:700'>"
                  "&#9917; Memento: joi 26 noiembrie, Brighton - Universitatea Craiova (Conference League). "
                  "Pronosticul tau: 0-0 sau 1-0 la pauza, 1-1 la final. Cere-i lui Claude cota corecta a botului.</p>")
+
+    # TOP ale zilei
+    o.append("<div style='border:2px solid #1f388c;border-radius:8px;padding:6px 12px;margin:12px 0'>")
+    o.append(h2("⭐ TOP ale zilei - 3-5 pariuri simple, cote peste 2"))
+    t = st.get("top")
+    if t:
+        o.append(f"<p style='font-weight:700'>TOP pana acum: {t['won']} din {t['n']} iesite, profit {t['profit']:+.1f} unitati.</p>")
+    if top:
+        o.append(note("Alese de bot din toate meciurile: cea mai mare sansa la cota 2.00-3.30, verificate cu Pinnacle, "
+                      "fara meciuri cu multi absenti. Joaca-le simplu, aceeasi miza pe fiecare. Cu 3 din 5 iesite esti pe plus."))
+        o.append(table(["Ora", "Meci", "Liga", "Pariu", "Sansa", "Cota corecta", "Cota Betfair", "Lipsesc"],
+                       [[e(c["match"]["kickoff"]), f"<b>{e(c['match']['name'])}</b>", e(c["match"]["league"]),
+                         f"<b>{e(label(c['mk']))}</b>", pct(c["p"]), odd(1 / c["p"]), f"<b>{odd(c['odds'])}</b>",
+                         lipsesc(c["match"])] for c in top], [GREEN] * len(top)))
+    else:
+        o.append("<p>Azi botul nu gaseste 3 pariuri destul de bune peste cota 2. Mai bine pauza.</p>")
+    o.append("</div>")
 
     # rezultate de pana acum
     v = st.get("value")

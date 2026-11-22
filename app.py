@@ -65,6 +65,16 @@ tab_azi, tab_live, tab_bilet, tab_jurnal = st.tabs(["📋 Azi", "🔴 LIVE", "�
 
 # ---------------------------------------------------------------- AZI
 with tab_azi:
+    st.subheader("⭐ TOP ale zilei")
+    st.caption("3-5 pariuri simple la cota peste 2, cu sansa cea mai mare, verificate cu Pinnacle. Aceeasi miza pe fiecare.")
+    top = picks.top_picks(matches)
+    if top:
+        st.dataframe(pd.DataFrame([{
+            "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
+            "Cota corecta": round(1 / c["p"], 2), "Cota Betfair": c["odds"], "Lipsesc": lips(c["match"]),
+            "Liga": c["match"]["league"]} for c in top]), hide_index=True, width="stretch")
+    else:
+        st.info("Acum nu sunt 3 pariuri destul de bune peste cota 2.")
     value, suspect = picks.value_picks(matches)
     st.subheader("Value")
     st.caption("Cota Betfair e peste cota corecta. Avantaj = sansa x cota - 1. Un pariu pe meci, miza mica si egala.")
@@ -392,7 +402,7 @@ with tab_jurnal:
         st.info("Jurnalul porneste de azi. Rezultatele apar a doua zi dimineata.")
     else:
         done = pk[pk["result"].isin(["iesit", "pierdut"])]
-        for kind, nume in (("value", "Value"), ("sigur", "Sigure"), ("bomba HT/FT", "Bombe HT/FT"),
+        for kind, nume in (("top", "TOP ale zilei"), ("value", "Value"), ("sigur", "Sigure"), ("bomba HT/FT", "Bombe HT/FT"),
                            ("bomba scor", "Bombe scor corect")):
             s = done[done["kind"] == kind]
             if s.empty:

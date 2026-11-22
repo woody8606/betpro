@@ -62,6 +62,38 @@ def value_picks(matches: list):
     return main, suspect[:10]
 
 
+def top_picks(matches: list, n: int = 5):
+    """TOP ale zilei: 3-5 pariuri simple la cota 2.00-3.30, cu sansa cea mai mare si verificate cu Pinnacle.
+    Un singur pariu pe meci, fara meciuri cu multi absenti."""
+    out = []
+    for m in matches:
+        o_all = (m.get("odds") or {}).get("best", {})
+        if not o_all:
+            continue
+        inj = m.get("inj") or {}
+        if len(inj.get("h") or []) + len(inj.get("a") or []) > 3:
+            continue
+        best = None
+        for mk in VALUE_MARKETS:
+            b = blend(m, mk)
+            o = o_all.get(mk)
+            if not b or not o or b[2] is None or b[3] != "Pinnacle":
+                continue
+            p, pb, pr = b[0], b[1], b[2]
+            if not (config.TOP_MIN_ODDS <= o[0] <= config.TOP_MAX_ODDS) or p < config.TOP_MIN_P or p * o[0] < 1.0:
+                continue
+            if abs(pb - pr) > config.MAX_GAP:          # botul si piata trebuie sa fie de acord
+                continue
+            c = dict(match=m, mk=mk, p=p, p_bot=pb, p_ref=pr, odds=o[0], book=o[1], book_id=o[2], edge=p * o[0] - 1)
+            if best is None or c["p"] > best["p"]:
+                best = c
+        if best:
+            out.append(best)
+    out.sort(key=lambda c: (-c["p"], -c["edge"]))
+    top = out[:n]
+    return sorted(top, key=lambda c: (c["match"]["kickoff"], c["match"]["name"])) if len(top) >= 3 else []
+
+
 def sure_picks(matches: list, n: int = 10):
     """Sigure JUCABILE: sansa mare, cota Betfair de minim 1.25 si macar cat cota corecta."""
     out = []
