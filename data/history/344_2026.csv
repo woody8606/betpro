@@ -199,3 +199,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1645539,1794172500,3702,3711,Bolívar,The Strongest,1,0,1,0
 1645540,1794180600,3701,3707,Blooming,Oriente Petrolero,0,1,0,0
 1645541,1794270600,3637,17762,Aurora,Universitario de Vinto,1,1,0,0
+1645542,1795287600,15708,3706,Real Tomayapo,Nacional Potosí,1,5,0,2
+1645543,1795295700,17743,3637,ABB,Aurora,1,2,1,1
+1645544,1795303800,3707,15702,Oriente Petrolero,Independiente Petrolero,2,2,1,1

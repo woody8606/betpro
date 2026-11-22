@@ -40,4 +40,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1620204,1794747600,28157,961,Makedonikos Siatista,Veria,3,1,1.0,0.0
 1620202,1794747600,28417,20398,Alexandros Florinas,Kastoria,0,1,0.0,1.0
 1620210,1795266000,961,28156,Veria,Doxa Mascholouriou,0,0,0.0,0.0
+1620206,1795266000,15479,24858,Eordaikos,Naousa,1,0,,
 1620208,1795266000,28157,28417,Makedonikos Siatista,Alexandros Florinas,3,2,,
+1620209,1795266000,28158,15255,Vatolakkos,Thyella Katsikas,0,2,,

@@ -63,3 +63,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1640881,1794729600,17719,15996,Sekhukhune United U23,Stellenbosch U23,1,2,0.0,1.0
 1640882,1794740400,15994,15991,Durban City U23,Golden Arrows U23,1,1,0.0,1.0
 1641030,1794747600,28444,15992,Milford FC U23,Kaizer Chiefs U23,1,2,0.0,2.0
+1640883,1795248000,15990,20296,Chippa United U23,Richards Bay U23,2,3,1.0,1.0
+1640886,1795248000,15993,15991,Mamelodi Sundowns U23,Golden Arrows U23,2,0,2.0,0.0
+1640885,1795248000,15999,26576,TS Galaxy U23,Siwelele U23,2,1,0.0,0.0
+1641031,1795248000,28443,17719,Kruger United U23,Sekhukhune United U23,1,4,0.0,2.0
+1640884,1795255200,15995,15994,Orlando Pirates U23,Durban City U23,2,1,1.0,1.0

@@ -125,3 +125,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1553221,1794165300,347,345,Lech Poznan,Zaglebie Lubin,2,2,0,1,2.88,0.9
 1553229,1795194000,349,346,Piast Gliwice,Korona Kielce,2,0,1,0,2.34,0.87
 1553230,1795203000,348,337,Pogon Szczecin,Slask Wroclaw,1,2,0,0,2.31,1.5
+1553227,1795268700,350,336,Cracovia Krakow,Jagiellonia,3,1,2,0,1.97,2.16
+1553235,1795278600,345,340,Zaglebie Lubin,Gornik Zabrze,2,0,1,0,1.5,1.79
+1553231,1795288500,4248,338,Radomiak Radom,Wisla Krakow,0,0,0,0,0.47,2.04

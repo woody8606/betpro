@@ -103,3 +103,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1553909,1794139200,2657,2633,Radnik Surdulica,OFK Beograd,2,1,1,0,1.24,0.95
 1553908,1794153600,573,2637,FK Partizan,Macva,1,2,1,2,1.03,1.53
 1553910,1794160800,702,598,Vojvodina,FK Crvena Zvezda,0,1,0,0,0.63,1.94
+1553919,1795262400,2254,2642,Radnicki NIS,Zemun,1,0,1,0,1.52,0.67
+1553913,1795266000,598,2657,FK Crvena Zvezda,Radnik Surdulica,2,0,0,0,2.6,0.61
+1553916,1795269600,699,12360,Mladost Lucani,Železničar Pančevo,0,4,0,3,0.1,1.23
+1553917,1795276800,2633,2643,OFK Beograd,Novi Pazar,0,2,0,2,0.32,1.54

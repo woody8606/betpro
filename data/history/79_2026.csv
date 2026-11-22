@@ -100,3 +100,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1576226,1794141000,180,166,1. FC Heidenheim,Hannover 96,2,2,1,0,1.18,1.42
 1576235,1795195800,181,180,SV Darmstadt 98,1. FC Heidenheim,3,1,2,1,1.27,1.56
 1576233,1795195800,188,179,Arminia Bielefeld,1. FC Magdeburg,1,2,0,2,1.55,0.94
+1576241,1795262400,161,191,VfL Wolfsburg,Holstein Kiel,3,0,0,0,2.91,1.45
+1576236,1795262400,166,178,Hannover 96,SpVgg Greuther Fürth,2,1,0,1,0.77,1.17
+1576239,1795262400,171,744,1. FC Nürnberg,Eintracht Braunschweig,1,2,1,0,2.09,2.06
+1576240,1795289400,186,176,FC St. Pauli,VfL Bochum,2,0,1,0,2.53,1.21

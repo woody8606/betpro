@@ -97,3 +97,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1551137,1794139200,4660,1430,Spartak Varna,Arda Kardzhali,3,2,1,2,1.66,1.54
 1551133,1794150000,646,853,Levski Sofia,CSKA Sofia,0,3,0,2,0.5,3.12
 1551149,1795190400,856,858,Septemvri Sofia,Lokomotiv Plovdiv,0,0,0,0,0.62,0.8
+1551150,1795265100,854,1430,Slavia Sofia,Arda Kardzhali,1,1,0,0,1.9999999999999998,1.14
+1551151,1795274100,4660,851,Spartak Varna,Cherno More Varna,0,0,0,0,0.84,1.92

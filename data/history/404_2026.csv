@@ -65,3 +65,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1639925,1794146400,22179,5307,San Marino Academy,San Giovanni,0,0,0,0
 1648108,1795205700,2249,672,La Fiorita,Folgore,3,1,1,1
 1648109,1795205700,2260,5302,Tre Fiori,Juvenes / Dogana,2,1,2,0
+1648110,1795269600,5298,5300,Cosmos,Faetano,4,1,0,0
+1648111,1795269600,5299,5301,Domagnano,Fiorentino,1,2,0,1
+1648112,1795269600,5307,5308,San Giovanni,Virtus,0,3,0,1

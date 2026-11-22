@@ -127,3 +127,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1594437,1794744000,5081,5102,Csepel,III. Kerületi TUE,3,2,1,0
 1594441,1794744000,5101,11729,Hódmezővásárhely,Gyulai Termál,0,2,0,0
 1594442,1794744000,24505,2416,Sándorfalva,Szolnoki MAV FC,1,1,0,1
+1594445,1795262400,2416,2406,Szolnoki MAV FC,Bekescsaba 1912,1,0,1,0
+1594444,1795262400,5102,5101,III. Kerületi TUE,Hódmezővásárhely,2,1,2,1
+1594450,1795262400,7561,21857,Szegedi VSE,Szeged-Csanád II,2,1,2,0
+1594449,1795262400,11729,5070,Gyulai Termál,BKV Előre,4,0,1,0

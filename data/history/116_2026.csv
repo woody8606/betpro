@@ -223,3 +223,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1526029,1794132000,751,3383,Slavia Mozyr,Baranovichi,2,0,1,0
 1526028,1794139200,387,384,Neman,FC Dnepr Mogilev,2,1,1,1
 1526026,1794146400,380,386,FC Minsk,Dinamo Brest,2,2,1,0
+1526034,1795258800,384,382,FC Dnepr Mogilev,FC Vitebsk,2,0,1,0
+1526036,1795258800,389,388,FC Gomel,Bate Borisov,3,1,0,1
+1526032,1795258800,3383,3384,Baranovichi,Belshina,0,1,0,0
+1526035,1795275000,386,750,Dinamo Brest,Naftan,4,1,2,0

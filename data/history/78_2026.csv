@@ -81,3 +81,9 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1575216,1794155400,160,182,SC Freiburg,Union Berlin,2,0,0,0,2.62,0.36
 1575215,1794162600,167,174,1899 Hoffenheim,FC Schalke 04,2,1,2,0,1.94,2.61
 1575221,1795203000,157,192,Bayern München,1. FC Köln,1,1,1,1,1.12,2.01
+1575226,1795271400,163,165,Borussia Mönchengladbach,Borussia Dortmund,0,1,0,0,0.52,1.65
+1575222,1795271400,168,185,Bayer Leverkusen,SC Paderborn 07,4,0,1,0,4.05,0.63
+1575223,1795271400,169,167,Eintracht Frankfurt,1899 Hoffenheim,1,0,1,0,2.41,2.3
+1575225,1795271400,182,173,Union Berlin,RB Leipzig,1,5,1,1,1.06,6.26
+1575229,1795271400,1660,160,SV Elversberg,SC Freiburg,0,1,0,0,1.05,0.85
+1575228,1795282200,174,172,FC Schalke 04,VfB Stuttgart,0,0,0,0,1.91,2.52

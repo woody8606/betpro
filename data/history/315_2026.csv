@@ -63,3 +63,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1635100,1794139200,8504,21736,Sloga Doboj,BSK Banja Luka,1,3,1,0
 1635098,1794146400,3364,3359,Borac Banja Luka,Radnik Bijeljina,4,1,2,0
 1635102,1794155400,588,679,Zrinjski,FK Sarajevo,0,0,0,0
+1635103,1795262400,21736,588,BSK Banja Luka,Zrinjski,1,2,1,1
+1635107,1795273200,654,3364,Zeljeznicar Sarajevo,Borac Banja Luka,0,4,0,1
+1635106,1795273200,3359,3381,Radnik Bijeljina,Velež,1,1,0,0

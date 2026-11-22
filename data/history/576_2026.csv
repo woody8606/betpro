@@ -1,0 +1,34 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1619919,1791637200,2104,5030,Doxa Dramas,Apollon Paralimniou,2,1,1.0,1.0
+1619921,1791637200,5036,28140,Doxa Neo Sidirochori,Eleftheroupolis,2,2,1.0,1.0
+1619918,1791637200,6294,959,Aetos Orfani,Xanthi FC,0,1,0.0,0.0
+1619920,1791637200,28141,24868,MAS Ardas Kastanion,Pontion Nea Amisos,3,2,1.0,1.0
+1619922,1791637200,28142,5049,Thrakis,Kavala,0,1,0.0,0.0
+1619927,1792328400,959,28141,Xanthi FC,MAS Ardas Kastanion,3,0,2.0,0.0
+1619923,1792328400,5030,5049,Apollon Paralimniou,Kavala,1,3,0.0,2.0
+1619926,1792328400,5036,6294,Doxa Neo Sidirochori,Aetos Orfani,3,3,2.0,2.0
+1619925,1792328400,24868,28142,Pontion Nea Amisos,Thrakis,2,1,1.0,0.0
+1619924,1792328400,28140,2104,Eleftheroupolis,Doxa Dramas,0,4,0.0,1.0
+1619930,1792933200,2104,5036,Doxa Dramas,Doxa Neo Sidirochori,3,2,2.0,1.0
+1619929,1792933200,5030,24868,Apollon Paralimniou,Pontion Nea Amisos,1,0,0.0,0.0
+1619931,1792933200,5049,28140,Kavala,Eleftheroupolis,0,1,0.0,0.0
+1619928,1792933200,6294,28141,Aetos Orfani,MAS Ardas Kastanion,4,1,1.0,1.0
+1619932,1792933200,28142,959,Thrakis,Xanthi FC,1,1,1.0,0.0
+1619937,1793451600,959,5030,Xanthi FC,Apollon Paralimniou,5,1,4.0,0.0
+1619936,1793451600,5036,5049,Doxa Neo Sidirochori,Kavala,0,0,0.0,0.0
+1619934,1793451600,28140,24868,Eleftheroupolis,Pontion Nea Amisos,3,0,2.0,0.0
+1619935,1793451600,28141,28142,MAS Ardas Kastanion,Thrakis,0,1,0.0,0.0
+1619933,1793538000,2104,6294,Doxa Dramas,Aetos Orfani,5,1,0.0,0.0
+1619942,1794142800,959,28140,Xanthi FC,Eleftheroupolis,1,0,0.0,0.0
+1619939,1794142800,5030,28141,Apollon Paralimniou,MAS Ardas Kastanion,1,3,0.0,0.0
+1619940,1794142800,5049,2104,Kavala,Doxa Dramas,0,3,0.0,0.0
+1619938,1794142800,6294,28142,Aetos Orfani,Thrakis,4,2,1.0,1.0
+1619941,1794142800,24868,5036,Pontion Nea Amisos,Doxa Neo Sidirochori,1,0,1.0,0.0
+1619943,1794747600,2104,24868,Doxa Dramas,Pontion Nea Amisos,5,0,2.0,0.0
+1619946,1794747600,5036,959,Doxa Neo Sidirochori,Xanthi FC,0,3,0.0,3.0
+1619944,1794747600,5049,6294,Kavala,Aetos Orfani,3,2,1.0,0.0
+1619945,1794747600,28141,28140,MAS Ardas Kastanion,Eleftheroupolis,1,2,0.0,0.0
+1619947,1794747600,28142,5030,Thrakis,Apollon Paralimniou,0,0,0.0,0.0
+1619952,1795266000,959,2104,Xanthi FC,Doxa Dramas,0,2,0.0,1.0
+1619948,1795266000,5030,6294,Apollon Paralimniou,Aetos Orfani,1,0,1.0,0.0
+1619950,1795266000,28141,5036,MAS Ardas Kastanion,Doxa Neo Sidirochori,2,0,,

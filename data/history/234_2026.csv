@@ -83,3 +83,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1642313,1794171600,1057,21858,Platense FC,Génesis,2,4,0,2
 1642314,1794179700,28005,1058,Atletico Independiente,Real Espana,1,1,0,1
 1642315,1794187800,1050,11685,CD Marathon,Atlético Choloma,2,0,2,0
+1642319,1795294800,21858,28005,Génesis,Atletico Independiente,2,1,0,0
+1642317,1795302900,28541,1059,Estrella Roja,Lobos Upnfm,1,0,1,0
+1642318,1795311000,1058,1050,Real Espana,CD Marathon,1,2,1,2

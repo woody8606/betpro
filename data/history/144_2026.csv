@@ -99,3 +99,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1558676,1794159000,1393,742,Union St. Gilloise,Genk,1,0,0,0,1.33,0.54
 1558678,1794161700,735,600,St. Truiden,Zulte Waregem,4,1,2,1,2.05,1.24
 1558682,1795203900,741,261,Cercle Brugge,KVC Westerlo,1,0,0,0,2.24,1.08
+1558683,1795273200,736,735,Charleroi,St. Truiden,2,2,1,1,0.75,1.74
+1558684,1795281300,742,5902,Genk,RAAL La Louvière,3,0,3,0,2.52,0.5
+1558686,1795290300,266,569,KV Mechelen,Club Brugge KV,1,5,0,2,1.12,2.42
+1558688,1795290300,600,740,Zulte Waregem,Antwerp,2,2,0,2,3.75,1.12

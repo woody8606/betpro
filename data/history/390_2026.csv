@@ -32,3 +32,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1642066,1794140100,4577,4569,Tadamon Sour,Al Ansar,3,4,1,3
 1642067,1794148200,4567,4570,Al Ahed,Al Nejmeh,0,2,0,1
 1642068,1795176900,11879,4576,Al Hikma,Shabab Al Sahel,1,1,1,0
+1642071,1795263300,4568,4567,Al Akhaa Al Ahli,Al Ahed,0,1,0,1
+1642069,1795263300,4570,4575,Al Nejmeh,Shabab Al Ghazieh,1,0,0,0
+1642070,1795289400,4573,4569,Safa,Al Ansar,1,1,1,0
