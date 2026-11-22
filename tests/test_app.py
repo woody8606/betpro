@@ -27,6 +27,7 @@ def test_app():
     assert not at.exception, at.exception
     print("metrici:", [(m.label, m.value) for m in at.metric])
     at.multiselect(key="sel").set_value([]).run()
+    at.checkbox[0].uncheck().run()          # datele de test nu sunt din ligi "cunoscute"
     at.button[0].click().run()
     assert not at.exception, at.exception
     first = list(at.multiselect(key="sel").value)
