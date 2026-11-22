@@ -177,6 +177,51 @@ def fixtures_by_ids(key, ids):
     return out
 
 
+@st.cache_data(ttl=3600, show_spinner=False)
+def h2h(key, fid, last=8):
+    """Meciul de azi -> echipele, apoi ultimele meciuri directe cu statistici si evenimente."""
+    hdr = {"x-apisports-key": key}
+    fx = requests.get("https://v3.football.api-sports.io/fixtures", params={"id": fid}, headers=hdr, timeout=30).json()
+    fx = (fx.get("response") or [None])[0]
+    if not fx:
+        return None, []
+    th, ta = fx["teams"]["home"]["id"], fx["teams"]["away"]["id"]
+    res = requests.get("https://v3.football.api-sports.io/fixtures/headtohead",
+                       params={"h2h": f"{th}-{ta}", "last": last, "status": "FT-AET-PEN"}, headers=hdr, timeout=30).json()
+    ids = [str(x["fixture"]["id"]) for x in res.get("response") or []]
+    full = []
+    if ids:
+        full = requests.get("https://v3.football.api-sports.io/fixtures", params={"ids": "-".join(ids)},
+                            headers=hdr, timeout=30).json().get("response") or []
+    return fx, sorted(full, key=lambda x: -x["fixture"]["timestamp"])
+
+
+def h2h_rows(full):
+    rows, goals = [], []
+    for f in full:
+        g, ht = f.get("goals") or {}, (f.get("score") or {}).get("halftime") or {}
+        st_ = {}
+        for tm in f.get("statistics") or []:
+            side = "h" if tm["team"]["id"] == f["teams"]["home"]["id"] else "a"
+            for it in tm.get("statistics") or []:
+                st_[(side, it["type"])] = it.get("value")
+        ev = f.get("events") or []
+        pen = sum(1 for e in ev if e.get("type") == "Goal" and "Penalty" in (e.get("detail") or ""))
+        red = sum(1 for e in ev if e.get("type") == "Card" and "Red" in (e.get("detail") or ""))
+        sc = [f"{e['time']['elapsed']}' {e['player']['name']}" + (" (pen)" if "Penalty" in (e.get("detail") or "") else "")
+              + (" (autogol)" if "Own" in (e.get("detail") or "") else "")
+              for e in ev if e.get("type") == "Goal" and "Missed" not in (e.get("detail") or "")]
+        v = lambda side, t: st_.get((side, t)) if st_.get((side, t)) is not None else "-"
+        rows.append({"Data": f["fixture"]["date"][:10], "Meci": f"{f['teams']['home']['name']} - {f['teams']['away']['name']}",
+                     "Scor": f"{g.get('home')}-{g.get('away')}", "Pauza": f"{ht.get('home')}-{ht.get('away')}",
+                     "Cornere": f"{v('h', 'Corner Kicks')}-{v('a', 'Corner Kicks')}",
+                     "Galbene": f"{v('h', 'Yellow Cards')}-{v('a', 'Yellow Cards')}", "Rosii": red, "Penalty": pen,
+                     "Suturi pe poarta": f"{v('h', 'Shots on Goal')}-{v('a', 'Shots on Goal')}",
+                     "Competitie": f["league"]["name"]})
+        goals.append(sc)
+    return rows, goals
+
+
 with tab_live:
     @st.fragment(run_every="60s")
     def live_panel():
@@ -426,6 +471,39 @@ with tab_bilet:
             st.rerun()
     else:
         st.info("Niciun pariu cu filtrele astea. Scoate 'Doar ✅' sau alege alte piete.")
+
+    # ---- meciurile directe (H2H)
+    with st.expander("🔍 Meciurile directe dintre doua echipe (scoruri, goluri, cornere, cartonase, suturi)"):
+        alege = {f"{m['kickoff']} {m['name']}": m["fid"] for m in sorted(pool, key=lambda m: (m["kickoff"], m["name"]))}
+        if not alege:
+            st.caption("Niciun meci cu filtrele de mai sus.")
+        else:
+            nm = st.selectbox("Meciul", list(alege), key="h2h_meci")
+            key = api_key()
+            if not key:
+                st.warning("Lipseste cheia API in Streamlit (Settings > Secrets).")
+            elif st.button("Arata meciurile directe", key="h2h_btn"):
+                with st.spinner("Caut meciurile directe..."):
+                    try:
+                        fx, full = h2h(key, alege[nm])
+                    except Exception as ex:
+                        fx, full = None, []
+                        st.error(f"Nu am putut lua datele: {ex}")
+                if fx and not full:
+                    st.info("Echipele nu s-au mai intalnit (sau API-ul nu are meciurile).")
+                if full:
+                    rows, goals = h2h_rows(full)
+                    hdf = pd.DataFrame(rows)
+                    tot = [sum(map(int, r["Scor"].split("-"))) for r in rows if "None" not in r["Scor"]]
+                    gg = sum(1 for r in rows if "None" not in r["Scor"] and all(int(x) > 0 for x in r["Scor"].split("-")))
+                    st.write(f"**Ultimele {len(rows)} meciuri directe:** medie {sum(tot) / max(len(tot), 1):.1f} goluri pe meci · "
+                             f"Over 2.5 in {sum(t > 2 for t in tot)} din {len(tot)} · GG in {gg} din {len(tot)}")
+                    st.dataframe(hdf, hide_index=True, width="stretch")
+                    st.markdown("**Cine a marcat si in ce minut:**")
+                    for r, gl in zip(rows, goals):
+                        st.write(f"- {r['Data']} · {r['Meci']} **{r['Scor']}**: " + (", ".join(gl) if gl else "fara goluri"))
+                    st.caption("Atentie: meciurile directe sunt putine si vechi (alti jucatori, alti antrenori). "
+                               "Ia-le ca informatie, nu ca regula.")
 
     # ---- biletul, in bara laterala (nu te scoate din grila)
     with st.sidebar:
