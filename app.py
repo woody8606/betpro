@@ -349,13 +349,40 @@ with tab_bilet:
         maxl = c2.number_input("Maxim meciuri", 1, 12, 6)
         mari = st.checkbox("Doar ligi cunoscute (fara tineret, amatori, rezerve)", value=True,
                            help="Unele meciuri mici apar in API la Betfair, dar nu le vezi in aplicatia ta Betfair.")
+        # meciurile pe care le-ai scos din biletul propus nu mai revin (tinute minte azi, si dupa refresh)
+        try:
+            scoase = {int(x) for x in st.query_params.get("xb", "").split(",") if x.strip().isdigit()}
+        except Exception:
+            scoase = set()
+        prop = st.session_state.get("propus", [])
+        acum = set(st.session_state.get("sel", []))
+        noi = {opts[k][0]["fid"] for k in prop if k in opts and k not in acum}
+        if noi - scoase:
+            scoase |= noi
+            try:
+                st.query_params["xb"] = ",".join(map(str, sorted(scoase)))
+            except Exception:
+                pass
+            st.session_state["propus"] = [k for k in prop if k in acum]
         if st.button("Propune", width="stretch"):
-            t = picks.build_ticket([m for m in pool if picks.is_known(m)] if mari else pool, float(tinta), int(maxl))
+            baza = [m for m in pool if m["fid"] not in scoase]
+            t = picks.build_ticket([m for m in baza if picks.is_known(m)] if mari else baza, float(tinta), int(maxl))
             if not t:
                 st.warning("Nu gasesc un bilet bun la cota asta. Incearca alta cota sau mai multe meciuri.")
             else:
                 st.session_state["sel"] = [k for k, v in opts.items()
                                            for c in t["legs"] if v[0]["fid"] == c["match"]["fid"] and v[1] == c["mk"]]
+                st.session_state["propus"] = list(st.session_state["sel"])
+                st.rerun()
+        if scoase:
+            c1, c2 = st.columns([3, 1])
+            c1.caption(f"🚫 {len(scoase)} meciuri scoase de tine nu mai sunt propuse.")
+            if c2.button("Reseteaza", width="stretch"):
+                try:
+                    del st.query_params["xb"]
+                except Exception:
+                    pass
+                st.session_state["propus"] = []
                 st.rerun()
 
     sel = st.multiselect("Alege pariurile (scrie numele echipei ca sa cauti)", list(opts), key="sel",

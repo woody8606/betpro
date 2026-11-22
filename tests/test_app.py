@@ -26,9 +26,20 @@ def test_app():
     ms.select(ms.options[0]).select(ms.options[5]).run()
     assert not at.exception, at.exception
     print("metrici:", [(m.label, m.value) for m in at.metric])
+    at.multiselect(key="sel").set_value([]).run()
     at.button[0].click().run()
     assert not at.exception, at.exception
-    print("propus:", at.multiselect(key="sel").value)
+    first = list(at.multiselect(key="sel").value)
+    print("propus:", first)
+    if first:
+        gone = first[0]
+        at.multiselect(key="sel").unselect(gone).run()
+        at.button[0].click().run()
+        assert not at.exception, at.exception
+        second = list(at.multiselect(key="sel").value)
+        print("dupa ce am scos", gone, "->", second)
+        gone_name = gone.split(" | ")[0]
+        assert not any(x.split(" | ")[0] == gone_name for x in second), "meciul scos a revenit"
     print("OK")
 
 
