@@ -4,8 +4,12 @@ def nd(u):
     r=requests.get(u,headers=H,timeout=30); print("==",u,r.status_code,len(r.text))
     m=re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',r.text,re.S)
     return json.loads(m.group(1)) if m else None
-d=nd("https://www.sportinglife.com/racing/tips-centre")
+d=nd("https://www.sportinglife.com/racing/news/x/235577")
 pp=d["props"]["pageProps"]; print(list(pp.keys()))
-s=json.dumps(pp)[:3000]; print(s)
-d=nd("https://www.sportinglife.com/tips/tipping-records")
-pp=d["props"]["pageProps"] if d else {}; print(list(pp.keys())); print(json.dumps(pp)[:2500])
+a=pp.get("article") or pp
+s=json.dumps(a)
+for w in re.findall(r'\{"keys": \[[^\]]*\], "widget_type": "Racerunner"\}', s)[:5]: print("RR",w[:1500])
+i=s.find("Racerunner"); print(s[max(0,i-2500):i+300])
+# results page structure for one race with winner
+d=nd("https://www.sportinglife.com/racing/results/2026-11-21")
+m=d["props"]["pageProps"]["meetings"][0]["races"][0]; print(json.dumps(m)[:2500])
