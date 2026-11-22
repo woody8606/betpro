@@ -10,6 +10,22 @@ BIG_WORDS = ["premier league", "la liga", "serie a", "bundesliga", "ligue 1", "l
              "championship", "champions league", "europa league", "conference league", "nations league",
              "qualification", "super lig", "jupiler", "superliga", "premiership"]
 TICKET_MARKETS = ["O15", "O25", "GG", "H15", "A15"]
+KNOWN_COUNTRIES = {"england", "spain", "italy", "germany", "france", "netherlands", "portugal", "belgium", "scotland",
+                   "turkey", "romania", "greece", "austria", "switzerland", "denmark", "sweden", "norway", "poland",
+                   "czech-republic", "usa", "brazil", "argentina", "world", "europe", "croatia", "serbia", "ukraine",
+                   "japan", "mexico", "saudi-arabia", "wales", "ireland", "republic-of-ireland", "cyprus", "hungary"}
+SMALL_WORDS = ["u17", "u18", "u19", "u20", "u21", "u23", "youth", "reserve", "amateur", "regional", "women", " w ",
+               "primavera", "liga revela", "premier league 2", "professional development", "national league -",
+               "non league", "4. liga", "5. liga", "serie d", "regionalliga", "oberliga", "tercera", "segunda federa",
+               "segunda división rfef", "3. lig", "ii liga", "iii liga"]
+
+
+def is_known(m: dict) -> bool:
+    """Liga cunoscuta (tara mare, fara tineret / amatori / rezerve) - pe acestea Betfair le are aproape sigur."""
+    lg = m["league"].lower()
+    country = lg.split(" - ")[0].strip().replace(" ", "-")
+    name = " " + lg + " " + m["name"].lower() + " "
+    return country in KNOWN_COUNTRIES and not any(w in name for w in SMALL_WORDS)
 
 
 def blend(match: dict, mk: str):

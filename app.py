@@ -61,7 +61,7 @@ matches = [m for m in all_matches if not m.get("started")]   # Azi / Biletul meu
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")
 
-tab_azi, tab_live, tab_bilet, tab_jurnal = st.tabs(["📋 Azi", "🔴 LIVE", "🎟️ Biletul meu", "📒 Jurnal"])
+tab_azi, tab_live, tab_bilet, tab_jurnal, tab_lotto = st.tabs(["📋 Azi", "🔴 LIVE", "🎟️ Biletul meu", "📒 Jurnal", "🎱 Lotto"])
 
 # ---------------------------------------------------------------- AZI
 with tab_azi:
@@ -347,8 +347,10 @@ with tab_bilet:
         c1, c2 = st.columns(2)
         tinta = c1.number_input("Cota dorita", 1.5, 200.0, 10.0, 0.5)
         maxl = c2.number_input("Maxim meciuri", 1, 12, 6)
+        mari = st.checkbox("Doar ligi cunoscute (fara tineret, amatori, rezerve)", value=True,
+                           help="Unele meciuri mici apar in API la Betfair, dar nu le vezi in aplicatia ta Betfair.")
         if st.button("Propune", width="stretch"):
-            t = picks.build_ticket(pool, float(tinta), int(maxl))
+            t = picks.build_ticket([m for m in pool if picks.is_known(m)] if mari else pool, float(tinta), int(maxl))
             if not t:
                 st.warning("Nu gasesc un bilet bun la cota asta. Incearca alta cota sau mai multe meciuri.")
             else:
@@ -427,3 +429,27 @@ with tab_jurnal:
         tk2["Meciuri"] = tk2["legs"].map(lambda s: " + ".join(f"{l['match']} ({label(l['market'])})" for l in json.loads(s)))
         st.dataframe(tk2.rename(columns={"date": "Data", "target": "Tinta", "odds": "Cota", "result": "Rezultat"})
                      [["Data", "Tinta", "Cota", "Meciuri", "Rezultat"]], hide_index=True, width="stretch")
+
+
+# ---------------------------------------------------------------- LOTTO NEW YORK
+with tab_lotto:
+    st.subheader("🎱 New York Lotto (Betfred, 7 bile)")
+    p = DATA / "lotto" / "next.json"
+    if not p.exists():
+        st.info("Inca nu sunt numere. Se fac joia si duminica dimineata.")
+    else:
+        lj = json.loads(p.read_text())
+        st.caption(f"Ultima extragere ({lj['last_draw']}): {' - '.join(map(str, lj['last_nums']))} + bonus {lj['last_bonus']} · "
+                   f"actualizat {lj['updated']}. Pariezi pana la 00:01, extragerea e la 01:15 (noaptea de miercuri/joi si sambata/duminica).")
+        st.markdown("**Pachetul tau: 2 numere x £1 · 3 numere x 50p · 4 numere x 50p = £2 (7 Ball Draw)**")
+        rows = []
+        for strat, four in lj["next"].items():
+            rows.append({"Strategie": strat, "2 numere (£1)": f"{four[0]} - {four[1]}",
+                         "3 numere (50p)": " - ".join(map(str, four[:3])), "4 numere (50p)": " - ".join(map(str, four))})
+        st.dataframe(pd.DataFrame(rows), hide_index=True, width="stretch")
+        st.markdown(f"**Cum ar fi iesit din {lj['test_from']} pana azi** ({lj['backtest']['calde']['extrageri']} extrageri, £2 pe extragere):")
+        st.dataframe(pd.DataFrame([{"Strategie": k, "Pus £": v["pus"], "Primit £": v["primit"], "Profit £": v["profit"],
+                                    "Prinse 2": v["h2"], "Prinse 3": v["h3"], "Prinse 4": v["h4"]}
+                                   for k, v in lj["backtest"].items()]), hide_index=True, width="stretch")
+        st.caption("Atentie: bilele n-au memorie. O strategie iese 'pe plus' in trecut de obicei dintr-un singur castig mare norocos. "
+                   "Platile Betfred sunt sub cotele corecte, deci pe termen lung casa castiga. Joaca doar bani de distractie.")
