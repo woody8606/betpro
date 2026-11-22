@@ -30,7 +30,9 @@ def load(tour: str) -> pd.DataFrame:
         if not f.exists():
             url = f"http://www.tennis-data.co.uk/{y}{'w' if tour == 'WTA' else ''}/{y}.xls{'x' if y >= 2013 else ''}"
             try:
-                r = requests.get(url, timeout=60)
+                r = requests.get(url, timeout=60, headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
+                    "Referer": "http://www.tennis-data.co.uk/alldata.php"})
                 r.raise_for_status()
                 pd.read_excel(io.BytesIO(r.content)).to_csv(f, index=False)
             except Exception as ex:
