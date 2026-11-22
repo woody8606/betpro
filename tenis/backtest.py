@@ -18,7 +18,7 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "reports" / "tenis_backtest.html"
 CACHE = ROOT / "data" / "tenis"
-YEARS = list(range(2015, 2026))
+YEARS = list(range(2010, 2027))
 TEST_FROM = 2021
 
 
@@ -43,6 +43,9 @@ def load(tour: str) -> pd.DataFrame:
         frames.append(d)
     df = pd.concat(frames, ignore_index=True)
     df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+    for c in ("PSW", "PSL", "B365W", "B365L", "MaxW", "MaxL", "AvgW", "AvgL", "BFEW", "BFEL"):
+        if c in df:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
     df = df[df["Comment"].astype(str).str.startswith("Completed")].dropna(subset=["Date", "Winner", "Loser"])
     df["tour"] = tour
     return df.sort_values("Date").reset_index(drop=True)
