@@ -71,3 +71,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1640743,1794225600,2736,15541,Saipa,Havadar,0,0,0,0
 1640745,1794230100,2702,24800,Pars Jonoubi JAM,Naft Bandar Abbas,4,1,2,0
 1640744,1794230100,28321,20801,Novin Ahvaz,Ario Eslamshahr,0,0,0,0
+1647888,1794828600,2706,16468,Mes Rafsanjan,Shahin Bandar Ameri,1,0,0,0
+1647885,1794828600,20801,2736,Ario Eslamshahr,Saipa,0,1,0,1
+1647886,1794828600,20802,22236,Be'sat Kermanshah,Mes Soongoun,0,1,0,0
+1647889,1794831300,10399,7502,Naft Gachsaran,Niroye Zamini,1,0,1,0
+1647890,1794834000,2702,28321,Pars Jonoubi JAM,Novin Ahvaz,0,0,0,0
+1647891,1794835800,2707,22890,Naft Masjed Soleyman,Shenavarsazi Qeshm,3,2,2,0
+1647892,1794836700,24800,25364,Naft Bandar Abbas,Fard Alborz,1,1,1,0
+1647887,1794915000,15541,2718,Havadar,Mes Kerman,0,0,0,0

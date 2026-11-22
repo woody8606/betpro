@@ -291,3 +291,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1650501,1795116600,2348,2369,Penarol,Cerro Largo,3,0,2,0
 1650500,1795116600,2361,2370,Boston River,Deportivo Maldonado,1,0,1,0
 1650502,1795116600,2363,2365,Progreso,Atletico Torque,1,1,1,1
+1650504,1795203000,2358,2360,Liverpool Montevideo,Wanderers,0,2,0,2
+1650505,1795203000,2359,2368,Racing Montevideo,Central Espanol,1,0,0,0
+1650503,1795203000,2362,2356,Cerro,Club Nacional,2,0,1,0

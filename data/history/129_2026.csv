@@ -650,7 +650,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1648400,1794679200,1948,1936,Atlanta,CA Estudiantes,1,1,0,0
 1648406,1794682800,454,16612,Temperley,Ciudad de Bolívar,1,2,1,1
 1648401,1794690000,448,1963,Colon Santa Fe,Midland,1,0,1,0
+1648402,1794693600,1929,1954,Deportivo Madryn,Deportivo Maipu,3,1,1,0
 1648405,1794697200,479,8375,Gimnasia Jujuy,Almirante Brown,2,0,0,0
 1648403,1794765600,469,8377,Deportivo Moron,Colegiales,1,1,1,1
 1648407,1794772800,439,1965,Godoy Cruz,Tristan Suarez,3,1,2,1
 1648404,1794785400,470,1928,Ferro Carril Oeste,Gimnasia Y Tiro,0,1,0,1
+1650241,1795291200,16612,1948,Ciudad de Bolívar,Atlanta,0,1,0,1
+1650242,1795293000,448,469,Colon Santa Fe,Deportivo Moron,0,0,0,0
+1651069,1795307400,479,1929,Gimnasia Jujuy,Deportivo Madryn,1,0,0,0
