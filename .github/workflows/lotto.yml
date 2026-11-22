@@ -1,6 +1,8 @@
 name: Lotto New York
 
 on:
+  schedule:
+    - cron: "23 9 * * 4,0"   # joi si duminica dimineata, dupa extragerea de la New York
   workflow_dispatch:
     inputs:
       script:
@@ -19,7 +21,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests pandas numpy
-      - run: python ${{ github.event.inputs.script }}
+      - run: python ${{ github.event.inputs.script || 'lotto/nylotto.py' }}
       - run: |
           git config user.name "BET PRO bot"
           git config user.email "actions@users.noreply.github.com"
