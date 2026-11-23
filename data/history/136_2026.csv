@@ -117,3 +117,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1601606,1795269600,1581,527,Carrarese,Virtus Entella,1,0,1,0,2.03,0.4
 1601607,1795277700,1687,522,Catanzaro,Palermo,3,1,1,1,1.39,1.32
 1601608,1795285800,511,801,Empoli,Pisa,0,1,0,1,0.82,0.98
+1601605,1795356000,528,1693,Avellino,Mantova,4,1,2,1,2.26,1.39
+1601603,1795364100,876,870,Arezzo,Padova,1,1,1,0,0.84,0.67

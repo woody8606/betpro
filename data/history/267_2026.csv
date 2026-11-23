@@ -1,0 +1,120 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1512123,1769810400,2327,2332,Antofagasta,Cobreloa,2,1,0,0
+1512124,1769893200,2342,2317,D. Puerto Montt,Deportes Temuco,1,1,1,0
+1512126,1769900400,2343,2322,Deportes Copiapo,San Luis,1,0,0,0
+1512125,1769900400,2346,2336,Deportes Santa Cruz,Magallanes,4,1,1,0
+1512127,1769902200,2319,2345,Deportes Iquique,San Marcos de Arica,4,0,1,0
+1512129,1769979600,2340,2333,Union San Felipe,Santiago Wanderers,2,1,1,1
+1512128,1769979600,5644,2321,Recoleta,Union Espanola,0,1,0,1
+1512130,1769988600,2316,2344,Curico Unido,Rangers de Talca,0,1,0,1
+1512132,1770411600,2336,2346,Magallanes,Deportes Santa Cruz,1,2,0,0
+1512131,1770498000,2317,2342,Deportes Temuco,D. Puerto Montt,2,1,0,0
+1512133,1770501600,2333,2340,Santiago Wanderers,Union San Felipe,3,1,2,0
+1512134,1770505200,2322,2343,San Luis,Deportes Copiapo,1,1,0,0
+1512135,1770507000,2345,2319,San Marcos de Arica,Deportes Iquique,0,0,0,0
+1512137,1770584400,2321,5644,Union Espanola,Recoleta,1,2,0,1
+1512136,1770584400,2344,2316,Rangers de Talca,Curico Unido,1,2,0,0
+1512138,1770588000,2332,2327,Cobreloa,Antofagasta,0,0,0,0
+1544438,1781910000,2329,2346,A. Italiano,Deportes Santa Cruz,0,1,0,0
+1544439,1781913600,2345,16730,San Marcos de Arica,Deportes Limache,1,3,1,1
+1544440,1781973000,2318,2336,Palestino,Magallanes,4,1,2,0
+1544447,1781973000,2330,2319,Coquimbo Unido,Deportes Iquique,3,0,1,0
+1544441,1781982000,2332,2331,Cobreloa,Cobresal,2,0,0,0
+1544442,1781982000,2343,2994,Deportes Copiapo,U. Catolica,0,3,0,1
+1544443,1781991000,5644,2315,Recoleta,Colo Colo,0,3,0,2
+1544445,1781992800,2325,2322,Everton de Vina,San Luis,2,2,2,0
+1544446,1781992800,2344,2324,Rangers de Talca,Universidad de Concepcion,2,1,0,0
+1544448,1782059400,2327,2341,Antofagasta,D. La Serena,4,2,2,1
+1544449,1782059400,2328,2342,Huachipato,D. Puerto Montt,0,2,0,0
+1544450,1782068400,2317,5635,Deportes Temuco,Concepción,1,1,1,1
+1544451,1782068400,2326,2340,Union La Calera,Union San Felipe,0,2,0,1
+1544444,1782072000,2316,2337,Curico Unido,Nublense,1,0,0,0
+1544452,1782077400,2323,2333,Universidad de Chile,Santiago Wanderers,4,1,2,0
+1544453,1782086400,2320,2321,O'Higgins,Union Espanola,1,1,0,1
+1544422,1782241200,2330,16730,Coquimbo Unido,Deportes Limache,1,1,0,1
+1544424,1782261000,2318,2329,Palestino,A. Italiano,1,2,0,1
+1544423,1782261000,2325,2994,Everton de Vina,U. Catolica,1,3,0,3
+1544425,1782331200,2341,2331,D. La Serena,Cobresal,0,0,0,0
+1544427,1782343800,2326,2323,Union La Calera,Universidad de Chile,3,3,2,1
+1544426,1782343800,5635,2328,Concepción,Huachipato,3,2,1,0
+1544428,1782430200,2315,2320,Colo Colo,O'Higgins,3,2,2,0
+1544429,1782430200,2337,2324,Nublense,Universidad de Concepcion,4,2,1,1
+1544454,1782514800,2325,2343,Everton de Vina,Deportes Copiapo,3,0,0,0
+1544457,1782594000,2345,2330,San Marcos de Arica,Coquimbo Unido,0,1,0,0
+1544455,1782594000,2346,2318,Deportes Santa Cruz,Palestino,0,0,0,0
+1544456,1782594000,16730,2319,Deportes Limache,Deportes Iquique,1,4,0,2
+1544458,1782595800,2329,2336,A. Italiano,Magallanes,2,1,2,0
+1544459,1782604800,2994,2322,U. Catolica,San Luis,4,2,2,1
+1544460,1782664200,2331,2327,Cobresal,Antofagasta,0,1,0,1
+1544461,1782664200,2341,2332,D. La Serena,Cobreloa,2,1,2,0
+1544463,1782673200,2326,2333,Union La Calera,Santiago Wanderers,4,0,1,0
+1544462,1782673200,2328,2317,Huachipato,Deportes Temuco,2,0,1,0
+1544464,1782676800,2316,2324,Curico Unido,Universidad de Concepcion,2,2,2,2
+1544465,1782680400,2320,5644,O'Higgins,Recoleta,1,1,0,0
+1544466,1782680400,2344,2337,Rangers de Talca,Nublense,0,1,0,1
+1544467,1782682200,2323,2340,Universidad de Chile,Union San Felipe,2,0,1,0
+1544468,1782691200,2342,5635,D. Puerto Montt,Concepción,2,0,0,0
+1544469,1782775800,2321,2315,Union Espanola,Colo Colo,0,3,0,1
+1544430,1782856800,2329,2318,A. Italiano,Palestino,3,2,1,1
+1544431,1782865800,2994,2325,U. Catolica,Everton de Vina,2,1,1,1
+1544434,1782932400,2324,2337,Universidad de Concepcion,Nublense,0,1,0,0
+1544432,1782943200,2331,2341,Cobresal,D. La Serena,0,1,0,0
+1544433,1782943200,16730,2330,Deportes Limache,Coquimbo Unido,1,1,0,1
+1544435,1782952200,2323,2326,Universidad de Chile,Union La Calera,0,1,0,0
+1544436,1783029600,2328,5635,Huachipato,Concepción,1,2,1,0
+1544437,1783038600,2320,2315,O'Higgins,Colo Colo,4,1,2,0
+1544471,1783191600,2336,2318,Magallanes,Palestino,1,2,1,2
+1544470,1783191600,2340,2326,Union San Felipe,Union La Calera,1,1,0,0
+1544472,1783195200,2322,2325,San Luis,Everton de Vina,2,2,1,0
+1544473,1783202400,2319,2330,Deportes Iquique,Coquimbo Unido,1,1,0,0
+1544474,1783211400,2994,2343,U. Catolica,Deportes Copiapo,2,1,0,1
+1544475,1783269000,2333,2323,Santiago Wanderers,Universidad de Chile,2,3,1,2
+1544478,1783269000,2341,2327,D. La Serena,Antofagasta,2,4,1,2
+1544480,1783278000,2324,2344,Universidad de Concepcion,Rangers de Talca,2,0,1,0
+1544476,1783278000,2331,2332,Cobresal,Cobreloa,2,2,2,1
+1544479,1783278000,2337,2316,Nublense,Curico Unido,2,2,0,0
+1544477,1783278000,2342,2328,D. Puerto Montt,Huachipato,2,1,0,0
+1544481,1783281600,2346,2329,Deportes Santa Cruz,A. Italiano,2,1,0,1
+1544482,1783287000,2321,2320,Union Espanola,O'Higgins,1,2,1,2
+1544483,1783296000,16730,2345,Deportes Limache,San Marcos de Arica,4,1,1,1
+1544484,1783380600,2315,5644,Colo Colo,Recoleta,2,2,1,1
+1544485,1783380600,5635,2317,Concepción,Deportes Temuco,2,0,1,0
+1567337,1783796400,2318,2346,Palestino,Deportes Santa Cruz,3,2,1,0
+1567336,1783796400,2336,2329,Magallanes,A. Italiano,0,1,0,0
+1567339,1783805400,2322,2994,San Luis,U. Catolica,4,0,1,0
+1567338,1783805400,2343,2325,Deportes Copiapo,Everton de Vina,0,1,0,0
+1567340,1783873800,2327,2331,Antofagasta,Cobresal,1,0,1,0
+1567341,1783873800,2332,2341,Cobreloa,D. La Serena,1,0,0,0
+1567343,1783891800,2317,2328,Deportes Temuco,Huachipato,0,1,0,0
+1567342,1783891800,5635,2342,Concepción,D. Puerto Montt,2,0,0,0
+1567345,1785886200,2324,2316,Universidad de Concepcion,Curico Unido,1,3,0,2
+1567344,1785886200,2337,2344,Nublense,Rangers de Talca,1,0,0,0
+1567349,1785967200,2333,2326,Santiago Wanderers,Union La Calera,0,4,0,3
+1567346,1785967200,2340,2323,Union San Felipe,Universidad de Chile,0,1,0,1
+1567348,1785976200,2319,16730,Deportes Iquique,Deportes Limache,3,1,0,0
+1567347,1785976200,2330,2345,Coquimbo Unido,San Marcos de Arica,1,0,1,0
+1567350,1787790600,2315,2321,Colo Colo,Union Espanola,3,0,2,0
+1567351,1787790600,5644,2320,Recoleta,O'Higgins,1,3,1,1
+1638380,1790110800,2342,2337,D. Puerto Montt,Nublense,2,0,0,0
+1638381,1790119800,2329,2315,A. Italiano,Colo Colo,0,0,0,0
+1638382,1790119800,2332,2330,Cobreloa,Coquimbo Unido,1,2,0,0
+1638383,1790197200,2316,5635,Curico Unido,Concepción,0,4,0,3
+1638384,1790206200,2319,2327,Deportes Iquique,Antofagasta,1,1,1,0
+1638385,1790206200,2326,2994,Union La Calera,U. Catolica,1,1,0,0
+1638386,1790283600,2320,2346,O'Higgins,Deportes Santa Cruz,2,1,1,0
+1638388,1790377200,2315,2329,Colo Colo,A. Italiano,1,0,1,0
+1638390,1790454600,2337,2342,Nublense,D. Puerto Montt,2,1,1,1
+1638389,1790463600,2994,2326,U. Catolica,Union La Calera,0,0,0,0
+1638391,1790523000,2327,2319,Antofagasta,Deportes Iquique,4,1,1,1
+1642245,1790531100,2325,2323,Everton de Vina,Universidad de Chile,0,1,0,0
+1638392,1790532000,5635,2316,Concepción,Curico Unido,2,0,0,0
+1638393,1790541000,2323,2325,Universidad de Chile,Everton de Vina,1,1,1,0
+1638394,1790550000,2346,2320,Deportes Santa Cruz,O'Higgins,1,3,0,1
+1642246,1790715600,2342,2315,D. Puerto Montt,Colo Colo,0,1,0,0
+1643184,1790809200,5635,2320,Concepción,O'Higgins,0,1,0,0
+1643185,1791138600,2320,5635,O'Higgins,Concepción,2,0,0,0
+1643186,1791410400,2327,2323,Antofagasta,Universidad de Chile,2,0,0,0
+1638395,1791410400,2330,2332,Coquimbo Unido,Cobreloa,2,1,0,1
+1642247,1793656800,2315,2342,Colo Colo,D. Puerto Montt,3,0,1,0
+1645380,1793829600,2326,2330,Union La Calera,Coquimbo Unido,0,2,0,1
+1643187,1793916000,2323,2327,Universidad de Chile,Antofagasta,4,0,1,0
