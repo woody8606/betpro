@@ -285,3 +285,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1649446,1794775800,1129,1465,Envigado,Union Magdalena,2,3,2,2
 1647452,1794783900,1145,22099,Tigres FC,Real Cundinamarca,0,2,0,1
 1647451,1794791400,1461,1459,Quindio,Real Cartagena,0,1,0,0
+1649448,1795127400,1465,1460,Union Magdalena,Popayan,1,2,0,0
+1649447,1795127400,27411,1129,Ind. Yumbo,Envigado,1,1,1,0
+1647453,1795135500,1459,1145,Real Cartagena,Tigres FC,5,0,3,0
+1647454,1795135500,22099,1461,Real Cundinamarca,Quindio,0,2,0,2
