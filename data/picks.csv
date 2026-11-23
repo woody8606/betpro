@@ -491,7 +491,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-20,19:00,1551892,Netherlands - Eerste Divisie,Heracles - Jong PSV U21,value,A15,0.2757,0.3165,0.2485,4.0,Betfair,3.0,0.1028,4.5,-0.1111,pierdut,-1.0
 2026-11-20,19:00,1551893,Netherlands - Eerste Divisie,Jong Utrecht - Emmen,value,H15,0.517,0.5844,0.4721,2.1,Betfair,3.0,0.0858,1.67,0.2575,pierdut,-1.0
 2026-11-20,19:00,1552537,France - Ligue 2,RED Star FC 93 - PAU,value,O25,0.5692,0.6396,0.5222,1.87,Betfair,3.0,0.0643,2.0,-0.065,iesit,0.87
-2026-11-20,19:00,1552539,France - Ligue 2,Sochaux - Dunkerque,value,O15HT,0.3724,0.4155,0.3437,2.75,Betfair,3.0,0.0242,,,,
+2026-11-20,19:00,1552539,France - Ligue 2,Sochaux - Dunkerque,value,O15HT,0.3724,0.4155,0.3437,2.75,Betfair,3.0,0.0242,2.75,0.0,iesit,1.75
 2026-11-20,19:30,1570025,Spain - Segunda División,FC Andorra - Leganes,value,1,0.5517,0.6204,0.5059,1.85,Betfair,3.0,0.0206,1.8,0.0278,pierdut,-1.0
 2026-11-20,19:30,1650504,Uruguay - Primera División,Liverpool Montevideo - Wanderers,value,1,0.5053,0.5699,0.4622,2.1,Betfair,3.0,0.0611,2.0,0.05,pierdut,-1.0
 2026-11-20,19:45,1552827,France - Ligue 1,Estac Troyes - Le Havre,value,2,0.3129,0.367,0.2769,3.4,Betfair,3.0,0.0639,3.3,0.0303,pierdut,-1.0
@@ -909,3 +909,4 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-24,19:45,1585358,England - National League,Forest Green - Southend,sigur,O25,0.7159,0.791,0.6659,1.4,Betfair,3.0,0.0023,,,,
 2026-11-24,19:45,1563280,England - Championship,Portsmouth - West Ham,sigur,O05HT,0.7377,0.7869,0.7048,1.33,Betfair,3.0,-0.0189,,,,
 2026-11-24,20:00,1635713,World - UEFA Champions League,RB Leipzig - Lens,sigur,O25,0.774,0.8486,0.7244,1.29,Betfair,3.0,-0.0015,,,,
+2026-11-23,23:00,1492463,Brazil - Serie A,Botafogo - Sao Paulo,bomba HT/FT,HTFT_1_1,0.2691,0.2691,0.233,3.75,Betfair,3.0,,,,,
