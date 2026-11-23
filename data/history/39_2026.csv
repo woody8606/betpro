@@ -106,3 +106,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1557467,1795273200,66,746,Aston Villa,Sunderland,0,0,0,0,1.11,0.31
 1557471,1795273200,1346,52,Coventry,Crystal Palace,3,2,2,2,2.14,1.8
 1557475,1795282200,34,42,Newcastle,Arsenal,2,2,0,1,1.75,1.5
+1557472,1795356000,64,51,Hull City,Brighton,2,0,0,0,1.89,2.26
+1557473,1795365000,40,33,Liverpool,Manchester United,4,0,2,0,4.39,0.68

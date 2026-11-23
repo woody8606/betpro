@@ -128,3 +128,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1553227,1795268700,350,336,Cracovia Krakow,Jagiellonia,3,1,2,0,1.97,2.16
 1553235,1795278600,345,340,Zaglebie Lubin,Gornik Zabrze,2,0,1,0,1.5,1.79
 1553231,1795288500,4248,338,Radomiak Radom,Wisla Krakow,0,0,0,0,0.47,2.04
+1553232,1795346100,3491,6962,Raków Częstochowa,Widzew Łódź,3,1,1,0,3.3,0.93
+1553228,1795355100,3484,347,GKS Katowice,Lech Poznan,0,1,0,0,1.08,1.79
+1553234,1795365000,341,339,Wisla Plock,Legia Warszawa,0,1,0,1,0.57,3.06

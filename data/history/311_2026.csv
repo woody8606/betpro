@@ -59,3 +59,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1628382,1794054600,3330,3333,Iliria Fushë-Krujë,Oriku,1,0,1.0,0.0
 1628385,1794054600,3334,3323,Pogradeci,Besëlidhja Lezhë,1,0,0.0,0.0
 1628383,1794141000,3331,3317,Korabi Peshkopi,Flamurtari,0,0,0.0,0.0
+1628387,1795350600,3324,3334,Burreli,Pogradeci,0,1,0.0,1.0
+1628391,1795350600,3333,577,Oriku,FK Kukesi,1,0,1.0,0.0
+1628390,1795350600,3839,3331,Sopoti Librazhd,Korabi Peshkopi,0,2,0.0,1.0

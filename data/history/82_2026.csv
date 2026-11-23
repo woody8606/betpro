@@ -72,3 +72,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1593183,1795195800,24133,1859,Union Berlin W,Bayer Leverkusen W,0,3,0,2
 1593178,1795258800,14014,20498,Eintracht Frankfurt W,Hamburger SV W,2,0,0,0
 1593180,1795266000,1871,1870,FC Koln W,Werder Bremen W,2,2,1,0
+1593179,1795352400,1867,24130,SC Freiburg W,Stuttgart W,2,0,0,0
+1593182,1795359600,20501,1863,RB Leipzig W,VfL Wolfsburg W,1,2,0,0
+1593181,1795368600,21564,20487,Mainz 05 W,Nürnberg W,1,0,1,0

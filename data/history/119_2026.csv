@@ -84,3 +84,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1549056,1794150000,401,398,Randers FC,FC Nordsjaelland,1,6,0,1,0.36,3.09
 1549054,1794157200,397,396,FC Midtjylland,Sonderjyske,2,2,1,1,2.87,1.08
 1549058,1795197600,406,625,Aarhus,Lyngby,2,1,2,1,2.17,1.34
+1549060,1795352400,404,2073,AC Horsens,Silkeborg,3,1,1,0,2.63,0.43
+1549063,1795352400,2070,401,Viborg,Randers FC,0,0,0,0,1.99,0.54
+1549062,1795359600,396,405,Sonderjyske,Odense,1,2,0,0,2.35,1.63
+1549061,1795366800,398,400,FC Nordsjaelland,FC Copenhagen,5,0,1,0,1.9,0.51

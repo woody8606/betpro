@@ -102,3 +102,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1584469,1795266000,645,3603,Galatasaray,Samsunspor,2,1,1,0,1.65,0.96
 1584466,1795266000,3579,1007,Amed,Rizespor,0,2,0,1,0.58,0.94
 1584472,1795276800,7411,611,Kocaelispor,Fenerbahçe,2,2,0,0,1.48,0.65
+1584468,1795343400,1009,994,Erzurumspor FK,Göztepe,0,1,0,0,0.96,1.97
+1584473,1795352400,607,549,Konyaspor,Beşiktaş,2,4,1,2,0.58,1.51
+1584471,1795352400,1004,996,Kasımpaşa,Alanyaspor,2,1,1,1,1.98,1.27
+1584474,1795363200,998,3588,Trabzonspor,Eyüpspor,1,0,1,0,2.27,1.08

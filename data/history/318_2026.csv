@@ -65,3 +65,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1603612,1795269600,3416,3403,Omonia Aradippou,Pafos,1,2,1,2,-1.0,-1.0
 1603611,1795273200,3402,2247,Omonia Nicosia,Apoel Nicosia,1,1,1,0,-1.0,-1.0
 1603607,1795280400,3408,3401,Aris,Nea Salamis,3,1,0,1,-1.0,-1.0
+1603610,1795352400,3415,614,Olympiakos,AEK Larnaca,0,1,0,1,-1.0,-1.0
+1603608,1795359600,3413,3396,Karmiotissa,AEL,1,2,1,0,-1.0,-1.0
+1603606,1795366800,602,14126,Apollon Limassol,Omonia 29is Maiou,1,0,1,0,-1.0,-1.0
