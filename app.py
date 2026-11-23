@@ -576,6 +576,28 @@ with tab_jurnal:
         st.dataframe(tk2.rename(columns={"date": "Data", "target": "Tinta", "odds": "Cota", "result": "Rezultat"})
                      [["Data", "Tinta", "Cota", "Meciuri", "Rezultat"]], hide_index=True, width="stretch")
 
+    # ---- biletele jucate de Urs (scrise de mana in data/bilete_urs.csv)
+    bu = load_csv("bilete_urs.csv")
+    if not bu.empty:
+        st.subheader("🎟️ Biletele lui Urs (bani reali)")
+        st.caption("'Urs' = ales de Urs, 'Urs (din lista botului)' = Urs a ales din lista botului si a facut liniile mai sigure, "
+                   "'Bot exact' = jucat exact cum a dat botul.")
+        for c in ("miza", "incasat", "ar_fi_platit"):
+            bu[c] = pd.to_numeric(bu[c], errors="coerce")
+        rows = []
+        for src, g in bu.groupby("sursa", sort=False):
+            known = g.dropna(subset=["incasat"])
+            rows.append({"Cine a ales": src, "Bilete": len(g),
+                         "Iesite / cash out": int(g["rezultat"].isin(["castigat", "cash out"]).sum()),
+                         "Pus £": round(known["miza"].sum(), 2), "Incasat £": round(known["incasat"].sum(), 2),
+                         "Profit £": round(known["incasat"].sum() - known["miza"].sum(), 2),
+                         "Fara cash out ar fi fost £": round(known["ar_fi_platit"].sum() - known["miza"].sum(), 2)})
+        st.dataframe(pd.DataFrame(rows), hide_index=True, width="stretch")
+        st.dataframe(bu.sort_values("data", ascending=False).rename(columns={
+            "data": "Data", "sursa": "Cine", "bilet": "Bilet", "meciuri": "Meciuri", "cota": "Cota", "miza": "Miza £",
+            "rezultat": "Rezultat", "incasat": "Incasat £", "ar_fi_platit": "Ar fi platit £", "nota": "Nota"}),
+            hide_index=True, width="stretch")
+
 
 # ---------------------------------------------------------------- LOTTO NEW YORK
 with tab_lotto:
