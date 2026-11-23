@@ -1,6 +1,9 @@
 name: Analiza un meci
 
 on:
+  push:
+    paths:
+      - "cereri/analiza.txt"
   workflow_dispatch:
     inputs:
       gazde:
@@ -27,11 +30,17 @@ jobs:
       - run: pip install requests numpy pandas
       - env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: python analiza_meci.py "${{ github.event.inputs.gazde }}" "${{ github.event.inputs.oaspeti }}" "${{ github.event.inputs.data }}"
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            mapfile -t A < cereri/analiza.txt
+            python analiza_meci.py "${A[0]}" "${A[1]}" "${A[2]}"
+          else
+            python analiza_meci.py "${{ github.event.inputs.gazde }}" "${{ github.event.inputs.oaspeti }}" "${{ github.event.inputs.data }}"
+          fi
       - run: |
           git config user.name "BET PRO bot"
           git config user.email "actions@users.noreply.github.com"
           git add reports data/teams || true
-          git diff --cached --quiet || git commit -m "Analiza ${{ github.event.inputs.gazde }} - ${{ github.event.inputs.oaspeti }}"
+          git diff --cached --quiet || git commit -m "Analiza meci"
           git pull --rebase --autostash || true
           git push
