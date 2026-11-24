@@ -728,7 +728,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-22,13:30,1625673,Italy - Serie D - Girone E,Tau Altopascio - Gavorrano,value,H15,0.4358,0.4682,0.4142,2.5,Betfair,3.0,0.0896,2.5,0.0,pierdut,-1.0
 2026-11-22,14:00,1593361,Greece - Super League 1,Levadiakos - Atromitos,value,O15,0.7004,0.7628,0.6588,1.47,Betfair,3.0,0.0296,1.44,0.0208,iesit,0.47
 2026-11-22,14:00,1625979,Italy - Serie D - Girone H,Nocerina - Virtus Francavilla,value,A15,0.4075,0.4722,0.3643,2.63,Betfair,3.0,0.0716,2.63,0.0,pierdut,-1.0
-2026-11-22,14:45,1613111,Spain - Tercera División RFEF - Group 2,Colunga - Llanes,value,O15HT,0.3873,0.4204,0.3652,2.75,Betfair,3.0,0.0651,,,,
+2026-11-22,14:45,1613111,Spain - Tercera División RFEF - Group 2,Colunga - Llanes,value,O15HT,0.3873,0.4204,0.3652,2.75,Betfair,3.0,0.0651,2.75,0.0,iesit,1.75
 2026-11-22,15:00,1593364,Greece - Super League 1,Panetolikos - Volos NFC,value,O35,0.2676,0.3099,0.2395,4.1,Betfair,3.0,0.0973,4.2,-0.0238,pierdut,-1.0
 2026-11-22,17:30,1570028,Spain - Segunda División,Celta de Vigo II - Valladolid,value,O35,0.3692,0.4275,0.3303,2.88,Betfair,3.0,0.0632,2.75,0.0473,pierdut,-1.0
 2026-11-22,10:00,1591396,Turkey - 2. Lig,68 Aksaray Belediyespor - Isparta 32 Spor,sigur,O05HT,0.7641,0.8035,0.7377,1.29,Betfair,3.0,-0.0144,,,pierdut,-1.0
@@ -802,34 +802,34 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-22,19:00,1650220,Brazil - Paulista - U20,Corinthians U20 - Palmeiras U20,bomba scor,CS_0_0,0.1128,0.1128,0.1304,9.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-22,19:00,1645545,Bolivia - Primera División,Real Potosí - Bolívar,bomba scor,CS_1_0,0.1087,0.1087,,12.0,Betfair,3.0,,,,iesit,11.0
 2026-11-22,21:00,1559709,Guatemala - Liga Nacional,Cobán Imperial - Deportivo San Pedro,bomba scor,CS_0_0,0.1055,0.1055,,9.5,Betfair,3.0,,,,pierdut,-1.0
-2026-11-23,13:45,1629975,World - AFC Champions League Elite,Neftchi - Al-Hilal Saudi FC,top,O35,0.4655,0.5148,0.4326,2.2,Betfair,3.0,0.0241,,,,
-2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,top,O25,0.4851,0.5429,0.4465,2.15,Betfair,3.0,0.0429,,,,
-2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,top,O25,0.5132,0.5823,0.4672,2.0,Betfair,3.0,0.0264,,,,
-2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,top,H15,0.4907,0.5477,0.4526,2.1,Betfair,3.0,0.0304,,,,
-2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,top,1,0.4563,0.4766,0.4428,2.2,Betfair,3.0,0.0039,,,,
-2026-11-23,01:00,1650841,Nicaragua - Primera Division,Diriangén - Managua,value,2,0.3829,0.4518,0.337,2.7,Betfair,3.0,0.0339,,,,
-2026-11-23,01:00,1649568,Argentina - Liga Profesional Argentina,Instituto Cordoba - Huracan,value,O25,0.3783,0.4377,0.3387,2.88,Betfair,3.0,0.0896,,,,
-2026-11-23,01:10,1559712,Guatemala - Liga Nacional,Marquense - Aurora,value,O15HT,0.3554,0.386,0.3349,2.88,Betfair,3.0,0.0234,,,,
-2026-11-23,13:45,1629975,World - AFC Champions League Elite,Neftchi - Al-Hilal Saudi FC,value,O35,0.4655,0.5148,0.4326,2.2,Betfair,3.0,0.0241,,,,
-2026-11-23,15:00,1593359,Greece - Super League 1,Asteras Tripolis - Aris Thessalonikis,value,H15,0.3209,0.3755,0.2845,3.2,Betfair,3.0,0.0269,,,,
-2026-11-23,16:00,1569442,Italy - Campionato Primavera - 1,Torino U20 - Bologna U20,value,O35,0.4233,0.4833,0.3832,2.45,Betfair,3.0,0.037,,,,
-2026-11-23,16:00,1629978,World - AFC Champions League Elite,Tractor Sazi - Al-Wasl FC,value,1,0.2945,0.3475,0.2592,3.5,Betfair,3.0,0.0308,,,,
-2026-11-23,17:00,1558279,Poland - I Liga,Podbeskidzie - Nieciecza,value,1,0.3736,0.4393,0.3297,2.75,Betfair,3.0,0.0273,,,,
-2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,value,O25,0.4851,0.5429,0.4465,2.15,Betfair,3.0,0.0429,,,,
-2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,value,O25,0.5132,0.5823,0.4672,2.0,Betfair,3.0,0.0264,,,,
-2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,value,H15,0.4907,0.5477,0.4526,2.1,Betfair,3.0,0.0304,,,,
-2026-11-23,19:00,1551885,Netherlands - Eerste Divisie,Jong Ajax - Jong AZ,value,2,0.3794,0.4459,0.3351,2.8,Betfair,3.0,0.0624,,,,
-2026-11-23,19:45,1552539,France - Ligue 2,Sochaux - Dunkerque,value,O35,0.3471,0.4079,0.3065,3.25,Betfair,3.0,0.1279,,,,
-2026-11-23,20:00,1557469,England - Premier League,Brentford - Everton,value,1,0.4526,0.504,0.4183,2.3,Betfair,3.0,0.0409,,,,
-2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,value,O25,0.4477,0.5126,0.4045,2.38,Betfair,3.0,0.0656,,,,
-2026-11-23,21:00,1632062,Paraguay - Division Profesional - Clausura,2 de Mayo - Club Sp. San Lorenzo,value,X,0.2735,0.317,0.2446,3.8,Betfair,3.0,0.0394,,,,
-2026-11-23,23:00,1492463,Brazil - Serie A,Botafogo - Sao Paulo,value,1,0.4622,0.5185,0.4247,2.25,Betfair,3.0,0.04,,,,
-2026-11-23,15:00,1642133,Oman - Professional League,Bahla - Smail,sigur,O15,0.7602,0.8242,0.7175,1.3,Betfair,3.0,-0.0118,,,,
-2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,sigur,GG,0.6535,0.7205,0.6088,1.53,Betfair,3.0,-0.0001,,,,
-2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,sigur,O15,0.7295,0.7777,0.6973,1.36,Betfair,3.0,-0.0079,,,,
-2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,sigur,O15,0.7476,0.8045,0.7096,1.33,Betfair,3.0,-0.0058,,,,
-2026-11-23,19:45,1552539,France - Ligue 2,Sochaux - Dunkerque,sigur,O15,0.7851,0.8348,0.752,1.25,Betfair,3.0,-0.0186,,,,
-2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,sigur,O15,0.7028,0.7559,0.6674,1.4,Betfair,3.0,-0.016,,,,
+2026-11-23,13:45,1629975,World - AFC Champions League Elite,Neftchi - Al-Hilal Saudi FC,top,O35,0.4655,0.5148,0.4326,2.2,Betfair,3.0,0.0241,,,iesit,1.2
+2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,top,O25,0.4851,0.5429,0.4465,2.15,Betfair,3.0,0.0429,,,pierdut,-1.0
+2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,top,O25,0.5132,0.5823,0.4672,2.0,Betfair,3.0,0.0264,,,iesit,1.0
+2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,top,H15,0.4907,0.5477,0.4526,2.1,Betfair,3.0,0.0304,,,iesit,1.1
+2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,top,1,0.4563,0.4766,0.4428,2.2,Betfair,3.0,0.0039,,,pierdut,-1.0
+2026-11-23,01:00,1650841,Nicaragua - Primera Division,Diriangén - Managua,value,2,0.3829,0.4518,0.337,2.7,Betfair,3.0,0.0339,2.5,0.08,iesit,1.7
+2026-11-23,01:00,1649568,Argentina - Liga Profesional Argentina,Instituto Cordoba - Huracan,value,O25,0.3783,0.4377,0.3387,2.88,Betfair,3.0,0.0896,2.6,0.1077,iesit,1.88
+2026-11-23,01:10,1559712,Guatemala - Liga Nacional,Marquense - Aurora,value,O15HT,0.3554,0.386,0.3349,2.88,Betfair,3.0,0.0234,2.88,0.0,iesit,1.88
+2026-11-23,13:45,1629975,World - AFC Champions League Elite,Neftchi - Al-Hilal Saudi FC,value,O35,0.4655,0.5148,0.4326,2.2,Betfair,3.0,0.0241,2.1,0.0476,iesit,1.2
+2026-11-23,15:00,1593359,Greece - Super League 1,Asteras Tripolis - Aris Thessalonikis,value,H15,0.3209,0.3755,0.2845,3.2,Betfair,3.0,0.0269,3.5,-0.0857,pierdut,-1.0
+2026-11-23,16:00,1569442,Italy - Campionato Primavera - 1,Torino U20 - Bologna U20,value,O35,0.4233,0.4833,0.3832,2.45,Betfair,3.0,0.037,3.1,-0.2097,iesit,1.45
+2026-11-23,16:00,1629978,World - AFC Champions League Elite,Tractor Sazi - Al-Wasl FC,value,1,0.2945,0.3475,0.2592,3.5,Betfair,3.0,0.0308,,,pierdut,-1.0
+2026-11-23,17:00,1558279,Poland - I Liga,Podbeskidzie - Nieciecza,value,1,0.3736,0.4393,0.3297,2.75,Betfair,3.0,0.0273,2.88,-0.0451,pierdut,-1.0
+2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,value,O25,0.4851,0.5429,0.4465,2.15,Betfair,3.0,0.0429,2.25,-0.0444,pierdut,-1.0
+2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,value,O25,0.5132,0.5823,0.4672,2.0,Betfair,3.0,0.0264,1.95,0.0256,iesit,1.0
+2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,value,H15,0.4907,0.5477,0.4526,2.1,Betfair,3.0,0.0304,1.91,0.0995,iesit,1.1
+2026-11-23,19:00,1551885,Netherlands - Eerste Divisie,Jong Ajax - Jong AZ,value,2,0.3794,0.4459,0.3351,2.8,Betfair,3.0,0.0624,2.8,0.0,pierdut,-1.0
+2026-11-23,19:45,1552539,France - Ligue 2,Sochaux - Dunkerque,value,O35,0.3471,0.4079,0.3065,3.25,Betfair,3.0,0.1279,3.0,0.0833,iesit,2.25
+2026-11-23,20:00,1557469,England - Premier League,Brentford - Everton,value,1,0.4526,0.504,0.4183,2.3,Betfair,3.0,0.0409,2.3,0.0,iesit,1.3
+2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,value,O25,0.4477,0.5126,0.4045,2.38,Betfair,3.0,0.0656,2.25,0.0578,iesit,1.38
+2026-11-23,21:00,1632062,Paraguay - Division Profesional - Clausura,2 de Mayo - Club Sp. San Lorenzo,value,X,0.2735,0.317,0.2446,3.8,Betfair,3.0,0.0394,3.8,0.0,iesit,2.8
+2026-11-23,23:00,1492463,Brazil - Serie A,Botafogo - Sao Paulo,value,1,0.4622,0.5185,0.4247,2.25,Betfair,3.0,0.04,2.25,0.0,pierdut,-1.0
+2026-11-23,15:00,1642133,Oman - Professional League,Bahla - Smail,sigur,O15,0.7602,0.8242,0.7175,1.3,Betfair,3.0,-0.0118,,,iesit,0.3
+2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,sigur,GG,0.6535,0.7205,0.6088,1.53,Betfair,3.0,-0.0001,,,iesit,0.53
+2026-11-23,18:00,1612280,Egypt - Premier League,Al Ahly - Pyramids FC,sigur,O15,0.7295,0.7777,0.6973,1.36,Betfair,3.0,-0.0079,,,iesit,0.36
+2026-11-23,18:00,1565309,Romania - Liga I,Sepsi OSK Sfantu Gheorghe - Rapid,sigur,O15,0.7476,0.8045,0.7096,1.33,Betfair,3.0,-0.0058,,,iesit,0.33
+2026-11-23,19:45,1552539,France - Ligue 2,Sochaux - Dunkerque,sigur,O15,0.7851,0.8348,0.752,1.25,Betfair,3.0,-0.0186,,,iesit,0.25
+2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,sigur,O15,0.7028,0.7559,0.6674,1.4,Betfair,3.0,-0.016,,,iesit,0.4
 2026-11-24,16:00,1629987,World - AFC Champions League Elite,Shabab Al Ahli Dubai - Al-Qadisiyah FC,top,A15,0.4853,0.5502,0.4421,2.1,Betfair,3.0,0.0192,,,,
 2026-11-24,19:00,1588819,England - EFL Trophy,Salford City - Sunderland U21,top,O15HT,0.5066,0.5224,0.496,2.0,Betfair,3.0,0.0131,,,,
 2026-11-24,19:45,1585359,England - National League,AFC Hornchurch - Sutton Utd,top,1,0.4008,0.4641,0.3585,2.63,Betfair,3.0,0.054,,,,
@@ -856,36 +856,36 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-24,19:45,1563276,England - Championship,Cardiff - Preston,sigur,GG,0.6559,0.7023,0.625,1.5,Betfair,3.0,-0.0161,,,,
 2026-11-24,19:45,1585358,England - National League,Forest Green - Southend,sigur,GG,0.7228,0.7674,0.693,1.4,Betfair,3.0,0.0119,,,,
 2026-11-24,20:00,1635713,World - UEFA Champions League,RB Leipzig - Lens,sigur,GG,0.6879,0.7581,0.6411,1.47,Betfair,3.0,0.0112,,,,
-2026-11-23,12:00,1551492,Macedonia - First League,Shkendija - Sileks,top,O25,0.481,0.5409,0.4412,2.1,Betfair,3.0,0.0102,,,,
-2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,top,O15HT,0.523,0.5736,0.4893,2.0,Betfair,3.0,0.046,,,,
-2026-11-23,13:00,1619196,England - Professional Development League,Barnsley U21 - Bolton Wanderers Res.,value,A15,0.6149,0.6305,0.6046,1.67,Betfair,3.0,0.0269,,,,
-2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,value,1,0.2692,0.3137,0.2396,3.8,Betfair,3.0,0.023,,,,
-2026-11-23,16:45,1611419,Algeria - Ligue 1,Ben Aknoun - USM Alger,value,1,0.3057,0.3712,0.2621,3.5,Betfair,3.0,0.0701,,,,
-2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,value,O15HT,0.523,0.5736,0.4893,2.0,Betfair,3.0,0.046,,,,
-2026-11-23,13:30,1649976,Tunisia - Ligue 2,EM Mahdia - CS Chebba,sigur,O05HT,0.6881,0.7962,0.616,1.5,Betfair,3.0,0.0321,,,,
-2026-11-23,13:30,1649980,Tunisia - Ligue 2,US Tataouine - Mégrine,sigur,O15,0.7149,0.775,0.6748,1.4,Betfair,3.0,0.0008,,,,
-2026-11-23,16:00,1569442,Italy - Campionato Primavera - 1,Torino U20 - Bologna U20,sigur,O05HT,0.7708,0.8469,0.72,1.29,Betfair,3.0,-0.0057,,,,
-2026-11-23,16:45,1611419,Algeria - Ligue 1,Ben Aknoun - USM Alger,sigur,O15,0.6762,0.7729,0.6117,1.53,Betfair,3.0,0.0345,,,,
-2026-11-23,22:05,1650169,Jamaica - Premier League,Tru-Juice - Dunbeholden,sigur,1,0.6848,0.7761,0.624,1.44,Betfair,3.0,-0.0138,,,,
-2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,bomba HT/FT,HTFT_1_1,0.3262,0.3262,0.285,3.1,Betfair,3.0,,,,,
-2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,bomba HT/FT,HTFT_1_1,0.2694,0.2694,0.2346,3.75,Betfair,3.0,,,,,
-2026-11-23,19:30,1608753,Italy - Serie C - Girone B,Grosseto - Guidonia Montecelio 1937,bomba HT/FT,HTFT_1_1,0.2562,0.2562,0.2214,4.0,Betfair,3.0,,,,,
-2026-11-23,14:30,1604064,Saudi-Arabia - Division 1,Al Jeel - Al Saqer,bomba scor,CS_0_1,0.1892,0.1892,,6.5,Betfair,3.0,,,,,
-2026-11-23,22:05,1650169,Jamaica - Premier League,Tru-Juice - Dunbeholden,bomba scor,CS_2_0,0.1804,0.1804,,6.0,Betfair,3.0,,,,,
-2026-11-23,14:00,1569434,Italy - Campionato Primavera - 1,Albinoleffe U20 - Genoa U20,bomba scor,CS_0_1,0.1626,0.1626,,7.0,Betfair,3.0,,,,,
-2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,top,O15HT,0.4704,0.5281,0.4319,2.2,Betfair,3.0,0.0348,,,,
-2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,top,1,0.4803,0.5119,0.4592,2.1,Betfair,3.0,0.0086,,,,
-2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,top,O15HT,0.4122,0.4593,0.3808,2.55,Betfair,3.0,0.0512,,,,
-2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,value,O15HT,0.4704,0.5281,0.4319,2.2,Betfair,3.0,0.0348,,,,
-2026-11-23,18:00,1494343,Sweden - Allsvenskan,Orgryte IS - Kalmar FF,value,1,0.3058,0.3516,0.2752,3.5,Betfair,3.0,0.0702,,,,
-2026-11-23,19:00,1627128,England - Premier League Cup,AFC Bournemouth U21 - Leicester City U21,value,2,0.3342,0.4001,0.2903,3.1,Betfair,3.0,0.036,,,,
-2026-11-23,19:30,1570029,Spain - Segunda División,AD Ceuta FC - Almeria,value,H15,0.357,0.4175,0.3166,2.88,Betfair,3.0,0.0281,,,,
-2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,value,O15HT,0.4122,0.4593,0.3808,2.55,Betfair,3.0,0.0512,,,,
-2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,sigur,O25,0.6664,0.737,0.6194,1.5,Betfair,3.0,-0.0004,,,,
-2026-11-23,17:00,1548566,Croatia - HNL,NK Slaven Belupo - NK Osijek,sigur,O05HT,0.7608,0.8214,0.7204,1.29,Betfair,3.0,-0.0186,,,,
-2026-11-23,18:30,1571896,Hungary - NB II,Diosgyori VTK - Karcag SE,bomba scor,CS_1_1,0.1116,0.1116,,9.5,Betfair,3.0,,,,,
-2026-11-23,18:30,1650568,Argentina - Primera C,Sportivo Barracas - Berazategui,bomba scor,CS_2_0,0.0943,0.0943,,11.0,Betfair,3.0,,,,,
-2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,top,A15,0.4011,0.4307,0.3813,2.5,Betfair,3.0,0.0027,,,,
+2026-11-23,12:00,1551492,Macedonia - First League,Shkendija - Sileks,top,O25,0.481,0.5409,0.4412,2.1,Betfair,3.0,0.0102,,,pierdut,-1.0
+2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,top,O15HT,0.523,0.5736,0.4893,2.0,Betfair,3.0,0.046,,,pierdut,-1.0
+2026-11-23,13:00,1619196,England - Professional Development League,Barnsley U21 - Bolton Wanderers Res.,value,A15,0.6149,0.6305,0.6046,1.67,Betfair,3.0,0.0269,,,anulat,0.0
+2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,value,1,0.2692,0.3137,0.2396,3.8,Betfair,3.0,0.023,4.5,-0.1556,iesit,2.8
+2026-11-23,16:45,1611419,Algeria - Ligue 1,Ben Aknoun - USM Alger,value,1,0.3057,0.3712,0.2621,3.5,Betfair,3.0,0.0701,3.8,-0.0789,pierdut,-1.0
+2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,value,O15HT,0.523,0.5736,0.4893,2.0,Betfair,3.0,0.046,1.83,0.0929,pierdut,-1.0
+2026-11-23,13:30,1649976,Tunisia - Ligue 2,EM Mahdia - CS Chebba,sigur,O05HT,0.6881,0.7962,0.616,1.5,Betfair,3.0,0.0321,,,pierdut,-1.0
+2026-11-23,13:30,1649980,Tunisia - Ligue 2,US Tataouine - Mégrine,sigur,O15,0.7149,0.775,0.6748,1.4,Betfair,3.0,0.0008,,,iesit,0.4
+2026-11-23,16:00,1569442,Italy - Campionato Primavera - 1,Torino U20 - Bologna U20,sigur,O05HT,0.7708,0.8469,0.72,1.29,Betfair,3.0,-0.0057,,,iesit,0.29
+2026-11-23,16:45,1611419,Algeria - Ligue 1,Ben Aknoun - USM Alger,sigur,O15,0.6762,0.7729,0.6117,1.53,Betfair,3.0,0.0345,,,pierdut,-1.0
+2026-11-23,22:05,1650169,Jamaica - Premier League,Tru-Juice - Dunbeholden,sigur,1,0.6848,0.7761,0.624,1.44,Betfair,3.0,-0.0138,,,anulat,0.0
+2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,bomba HT/FT,HTFT_1_1,0.3262,0.3262,0.285,3.1,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,18:15,1629980,World - AFC Champions League Elite,Al Quwa Al Jawiya - Al-Gharafa,bomba HT/FT,HTFT_1_1,0.2694,0.2694,0.2346,3.75,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,19:30,1608753,Italy - Serie C - Girone B,Grosseto - Guidonia Montecelio 1937,bomba HT/FT,HTFT_1_1,0.2562,0.2562,0.2214,4.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,14:30,1604064,Saudi-Arabia - Division 1,Al Jeel - Al Saqer,bomba scor,CS_0_1,0.1892,0.1892,,6.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,22:05,1650169,Jamaica - Premier League,Tru-Juice - Dunbeholden,bomba scor,CS_2_0,0.1804,0.1804,,6.0,Betfair,3.0,,,,anulat,0.0
+2026-11-23,14:00,1569434,Italy - Campionato Primavera - 1,Albinoleffe U20 - Genoa U20,bomba scor,CS_0_1,0.1626,0.1626,,7.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,top,O15HT,0.4704,0.5281,0.4319,2.2,Betfair,3.0,0.0348,,,pierdut,-1.0
+2026-11-23,20:00,1649567,Argentina - Liga Profesional Argentina,Gimnasia L.P. - Newells Old Boys,top,1,0.4803,0.5119,0.4592,2.1,Betfair,3.0,0.0086,,,pierdut,-1.0
+2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,top,O15HT,0.4122,0.4593,0.3808,2.55,Betfair,3.0,0.0512,,,pierdut,-1.0
+2026-11-23,17:00,1584467,Turkey - Süper Lig,Başakşehir - Çorum FK,value,O15HT,0.4704,0.5281,0.4319,2.2,Betfair,3.0,0.0348,2.2,0.0,pierdut,-1.0
+2026-11-23,18:00,1494343,Sweden - Allsvenskan,Orgryte IS - Kalmar FF,value,1,0.3058,0.3516,0.2752,3.5,Betfair,3.0,0.0702,3.3,0.0606,iesit,2.5
+2026-11-23,19:00,1627128,England - Premier League Cup,AFC Bournemouth U21 - Leicester City U21,value,2,0.3342,0.4001,0.2903,3.1,Betfair,3.0,0.036,3.1,0.0,pierdut,-1.0
+2026-11-23,19:30,1570029,Spain - Segunda División,AD Ceuta FC - Almeria,value,H15,0.357,0.4175,0.3166,2.88,Betfair,3.0,0.0281,2.88,0.0,iesit,1.88
+2026-11-23,20:00,1570457,Spain - La Liga,Levante - Elche,value,O15HT,0.4122,0.4593,0.3808,2.55,Betfair,3.0,0.0512,2.4,0.0625,pierdut,-1.0
+2026-11-23,16:00,1629977,World - AFC Champions League Elite,Al Shamal - Al-Ahli Jeddah,sigur,O25,0.6664,0.737,0.6194,1.5,Betfair,3.0,-0.0004,,,iesit,0.5
+2026-11-23,17:00,1548566,Croatia - HNL,NK Slaven Belupo - NK Osijek,sigur,O05HT,0.7608,0.8214,0.7204,1.29,Betfair,3.0,-0.0186,,,iesit,0.29
+2026-11-23,18:30,1571896,Hungary - NB II,Diosgyori VTK - Karcag SE,bomba scor,CS_1_1,0.1116,0.1116,,9.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,18:30,1650568,Argentina - Primera C,Sportivo Barracas - Berazategui,bomba scor,CS_2_0,0.0943,0.0943,,11.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-23,19:00,1645548,Bolivia - Primera División,Real Oruro - Guabirá,top,A15,0.4011,0.4307,0.3813,2.5,Betfair,3.0,0.0027,,,iesit,1.5
 2026-11-24,19:00,1601618,Italy - Serie B,Vicenza Virtus - Carrarese,top,O25,0.5059,0.5555,0.4729,2.05,Betfair,3.0,0.0372,,,,
 2026-11-24,19:45,1649156,Scotland - Challenge Cup,Clydebank - Queen's Park,top,O15HT,0.4564,0.4975,0.429,2.25,Betfair,3.0,0.0268,,,,
 2026-11-24,19:45,1563773,England - League Two,Port Vale - Northampton,top,1,0.481,0.5337,0.4459,2.1,Betfair,3.0,0.0101,,,,
@@ -909,7 +909,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-24,19:45,1585358,England - National League,Forest Green - Southend,sigur,O25,0.7159,0.791,0.6659,1.4,Betfair,3.0,0.0023,,,,
 2026-11-24,19:45,1563280,England - Championship,Portsmouth - West Ham,sigur,O05HT,0.7377,0.7869,0.7048,1.33,Betfair,3.0,-0.0189,,,,
 2026-11-24,20:00,1635713,World - UEFA Champions League,RB Leipzig - Lens,sigur,O25,0.774,0.8486,0.7244,1.29,Betfair,3.0,-0.0015,,,,
-2026-11-23,23:00,1492463,Brazil - Serie A,Botafogo - Sao Paulo,bomba HT/FT,HTFT_1_1,0.2691,0.2691,0.233,3.75,Betfair,3.0,,,,,
+2026-11-23,23:00,1492463,Brazil - Serie A,Botafogo - Sao Paulo,bomba HT/FT,HTFT_1_1,0.2691,0.2691,0.233,3.75,Betfair,3.0,,,,pierdut,-1.0
 2026-11-25,09:30,1606776,Japan - J2 League,Vanraure Hachinohe - Albirex Niigata,top,2,0.4071,0.4578,0.3733,2.5,Betfair,3.0,0.0176,,,,
 2026-11-25,10:00,1629989,World - AFC Champions League Elite,Gamba Osaka - Port FC,top,O35,0.5084,0.5506,0.4803,2.0,Betfair,3.0,0.0169,,,,
 2026-11-25,10:00,1556157,Japan - J1 League,V-varen Nagasaki - Kawasaki Frontale,top,H15,0.4064,0.4648,0.3674,2.5,Betfair,3.0,0.0159,,,,
@@ -924,3 +924,22 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-25,19:00,1601622,Italy - Serie B,Pisa - Modena,sigur,O05HT,0.7642,0.8572,0.7022,1.3,Betfair,3.0,-0.0065,,,,
 2026-11-25,20:00,1635703,World - UEFA Champions League,Paris Saint Germain - AS Roma,sigur,GG,0.6733,0.7411,0.6281,1.47,Betfair,3.0,-0.0102,,,,
 2026-11-25,20:00,1635735,World - UEFA Champions League,Sporting CP - Manchester United,sigur,O25,0.6657,0.7378,0.6176,1.53,Betfair,3.0,0.0185,,,,
+2026-11-24,12:15,1629985,World - AFC Champions League Elite,Ratchaburi - Johor Darul Takzim FC,top,O15HT,0.504,0.5724,0.4583,2.1,Betfair,3.0,0.0583,,,,
+2026-11-24,19:00,1627132,England - Premier League Cup,Huddersfield Town U21 - Swansea City U21,top,O35,0.5329,0.5245,0.5385,2.0,Betfair,3.0,0.0658,,,,
+2026-11-24,19:45,1647222,Northern-Ireland - League Cup,Carrick Rangers - Glenavon FC,top,H15,0.4901,0.5591,0.4441,2.1,Betfair,3.0,0.0292,,,,
+2026-11-24,12:15,1629985,World - AFC Champions League Elite,Ratchaburi - Johor Darul Takzim FC,value,O15HT,0.504,0.5724,0.4583,2.1,Betfair,3.0,0.0583,,,,
+2026-11-24,14:00,1642200,India - Indian Super League,NorthEast United - SC Delhi,value,A15,0.3959,0.4536,0.3575,2.63,Betfair,3.0,0.0413,,,,
+2026-11-24,19:00,1627132,England - Premier League Cup,Huddersfield Town U21 - Swansea City U21,value,O35,0.5329,0.5245,0.5385,2.0,Betfair,3.0,0.0658,,,,
+2026-11-24,19:00,1627134,England - Premier League Cup,Queens Park Rangers U21 - Southampton U21,value,O35,0.5784,0.6482,0.5319,1.91,Betfair,3.0,0.1048,,,,
+2026-11-24,19:45,1647222,Northern-Ireland - League Cup,Carrick Rangers - Glenavon FC,value,H15,0.4901,0.5591,0.4441,2.1,Betfair,3.0,0.0292,,,,
+2026-11-24,19:45,1596048,England - Non League Premier - Isthmian,Cray Wanderers - Wingate & Finchley,value,O15HT,0.41,0.4445,0.387,2.55,Betfair,3.0,0.0455,,,,
+2026-11-24,19:45,1596513,England - Non League Premier - Northern,Leek Town - Gainsborough Trinity,value,1,0.3375,0.3492,0.3297,3.3,Betfair,3.0,0.1137,,,,
+2026-11-24,12:15,1629985,World - AFC Champions League Elite,Ratchaburi - Johor Darul Takzim FC,sigur,A15,0.7415,0.8251,0.6858,1.36,Betfair,3.0,0.0085,,,,
+2026-11-24,13:45,1630405,World - AFC Champions League Two,East Bengal II - Al Hussein,sigur,O15,0.8114,0.9079,0.7471,1.25,Betfair,3.0,0.0143,,,,
+2026-11-24,17:45,1635667,World - UEFA Champions League,Galatasaray - Aston Villa,sigur,GG,0.7132,0.7724,0.6738,1.44,Betfair,3.0,0.027,,,,
+2026-11-24,19:45,1596513,England - Non League Premier - Northern,Leek Town - Gainsborough Trinity,sigur,O05HT,0.7811,0.8728,0.72,1.29,Betfair,3.0,0.0076,,,,
+2026-11-24,19:45,1596944,England - Non League Premier - Southern Central,Peterborough Sports - Alvechurch,sigur,O05HT,0.7938,0.8871,0.7316,1.25,Betfair,3.0,-0.0078,,,,
+2026-11-24,19:45,1585359,England - National League,AFC Hornchurch - Sutton Utd,bomba HT/FT,HTFT_1_1,0.2544,0.2544,0.2074,4.2,Betfair,3.0,,,,,
+2026-11-24,19:45,1649160,Scotland - Challenge Cup,Livingston - Peterhead,bomba scor,CS_1_0,0.1781,0.1781,,9.0,Betfair,3.0,,,,,
+2026-11-24,11:00,1602745,Thailand - Thai League 2,Chanthaburi - Esan Pattaya,bomba scor,CS_0_0,0.1572,0.1572,,10.0,Betfair,3.0,,,,,
+2026-11-24,13:00,1648831,Montenegro - Cup,Jedinstvo - Sutjeska,bomba scor,CS_1_0,0.1496,0.1496,,11.0,Betfair,3.0,,,,,
