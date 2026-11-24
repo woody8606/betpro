@@ -1,0 +1,68 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1395044,1754404200,6942,342,Hutnik Kraków,Zaglebie Sosnowiec,3,0,2,0
+1395047,1754409600,3489,6951,Podbeskidzie,Resovia Rzeszów,2,1,0,0
+1395048,1754409600,12835,6963,Polonia Bytom,Zagłębie Lubin II,7,1,3,0
+1395050,1754415480,6958,6954,Stal Stalowa Wola,SKRA Częstochowa,3,1,0,0
+1395046,1754488800,17115,4247,Wieczysta Kraków,Olimpia Grudziądz,0,0,0,0
+1395051,1754490600,3496,6945,Warta Poznań,Olimpia Elbląg,1,0,0,0
+1395045,1754494200,12801,3486,Kalisz,Jastrzębie,0,2,0,1
+1395049,1754494200,12902,17397,Świt Skolwin,ŁKS Łódź II,1,1,0,0
+1395042,1754496000,3482,6950,Chojniczanka Chojnice,Rekord Bielsko-Biała,2,1,2,0
+1472243,1758630600,26668,6958,Goczałkowice Zdrój B,Stal Stalowa Wola,1,1,1,1
+1440451,1758632400,12815,12902,Miedź Legnica II,Świt Skolwin,1,3,0,0
+1440452,1758639600,3496,12835,Warta Poznań,Polonia Bytom,0,1,0,1
+1440459,1758641400,6957,346,Stal Rzeszów,Korona Kielce,0,1,0,0
+1440465,1758643200,3493,3490,Stal Mielec,Puszcza Niepołomice,1,2,1,1
+1444808,1758646800,6939,16239,Gryf Słupsk,Polonia Warszawa,0,0,0,0
+1444800,1758646800,6948,4247,Polonia Środa,Olimpia Grudziądz,1,3,1,2
+1444801,1758652200,3484,341,GKS Katowice,Wisla Plock,2,2,1,0
+1440457,1758709800,6944,340,Legia Warszawa II,Gornik Zabrze,0,3,0,2
+1440461,1758719700,14750,343,Pogoń Grod. Mazowiecki,Lechia Gdansk,0,1,0,0
+1444807,1758720600,6955,6942,Siarka Tarnobrzeg,Hutnik Kraków,0,1,0,0
+1444805,1758720600,16267,349,Korona Kielce II,Piast Gliwice,0,1,0,0
+1440456,1758720600,26386,3482,Beskid,Chojniczanka Chojnice,0,3,0,2
+1444802,1758720600,26405,6964,Małapanew,Znicz Pruszków,1,1,0,0
+1440458,1758724200,16246,3486,Flota Świnoujście,Jastrzębie,1,1,0,0
+1440466,1758727800,6941,350,Górnik Łęczna,Cracovia Krakow,1,5,0,3
+1444806,1758729600,13843,3495,Zawisza Bydgoszcz,Tychy 71,2,0,0,0
+1440462,1758729600,16243,3489,Wikielec,Podbeskidzie,2,1,1,0
+1440464,1758729600,21656,3488,Łomża,Odra Opole,0,2,0,2
+1440454,1758731400,335,6947,Miedz Legnica,Pogoń Siedlce,2,0,1,0
+1444799,1758740400,3487,6962,Nieciecza,Widzew Łódź,2,2,0,1
+1440460,1758801600,16264,6953,Avia Świdnik,Ruch Chorzów,3,1,0,1
+1440455,1758803400,21455,338,Odra Bytom Odrzański,Wisla Krakow,0,1,0,0
+1440463,1758814200,4248,345,Radomiak Radom,Zaglebie Lubin,0,0,0,0
+1444804,1758819600,3498,3483,ŁKS Łódź,Chrobry Głogów,3,3,3,1
+1444803,1758825000,344,14562,Arka Gdynia,Motor Lublin,0,0,0,0
+1440453,1759248000,16238,337,Lechia T. Mazowiecki,Slask Wroclaw,1,2,1,2
+1479376,1761648300,26668,12835,Goczałkowice Zdrój B,Polonia Bytom,0,7,0,4
+1479383,1761658200,4247,337,Olimpia Grudziądz,Slask Wroclaw,0,1,0,0
+1479381,1761669000,3498,3484,ŁKS Łódź,GKS Katowice,1,2,0,1
+1479384,1761670800,6964,346,Znicz Pruszków,Korona Kielce,0,3,0,1
+1479388,1761670800,13843,16243,Zawisza Bydgoszcz,Wikielec,3,0,0,0
+1479375,1761671700,3482,12902,Chojniczanka Chojnice,Świt Skolwin,3,1,1,1
+1479382,1761679800,3488,349,Odra Opole,Piast Gliwice,0,2,0,1
+1479374,1761735600,16264,16246,Avia Świdnik,Flota Świnoujście,3,0,3,0
+1479378,1761739200,6942,338,Hutnik Kraków,Wisla Krakow,0,1,0,0
+1479387,1761755400,6962,345,Widzew Łódź,Zaglebie Lubin,0,0,0,0
+1479385,1761761700,3490,343,Puszcza Niepołomice,Lechia Gdansk,1,1,0,0
+1479386,1761766200,3491,350,Raków Częstochowa,Cracovia Krakow,3,0,2,0
+1479377,1761822000,6939,347,Gryf Słupsk,Lech Poznan,1,2,0,2
+1479380,1761832800,335,336,Miedz Legnica,Jagiellonia,2,3,1,1
+1479373,1761843600,344,340,Arka Gdynia,Gornik Zabrze,1,2,1,1
+1479379,1761854400,339,348,Legia Warszawa,Pogon Szczecin,1,1,0,0
+1485514,1764693000,343,340,Lechia Gdansk,Gornik Zabrze,1,3,1,2
+1485516,1764703800,348,6962,Pogon Szczecin,Widzew Łódź,0,1,0,1
+1485511,1764759600,16264,12835,Avia Świdnik,Polonia Bytom,4,2,1,1
+1485517,1764779400,337,3491,Slask Wroclaw,Raków Częstochowa,1,2,0,1
+1485515,1764790200,349,347,Piast Gliwice,Lech Poznan,0,2,0,1
+1485512,1764853200,3482,346,Chojniczanka Chojnice,Korona Kielce,1,1,0,0
+1485513,1764864000,3484,336,GKS Katowice,Jagiellonia,3,1,1,0
+1485518,1764877500,13843,338,Zawisza Bydgoszcz,Wisla Krakow,4,1,1,1
+1491188,1772567100,3484,6962,GKS Katowice,Widzew Łódź,1,1,1,0
+1491190,1772641800,13843,3482,Zawisza Bydgoszcz,Chojniczanka Chojnice,1,1,1,0
+1491189,1772652600,347,340,Lech Poznan,Gornik Zabrze,0,1,0,1
+1491187,1772713800,16264,3491,Avia Świdnik,Raków Częstochowa,1,1,0,1
+1530590,1775664000,13843,340,Zawisza Bydgoszcz,Gornik Zabrze,0,1,0,1
+1530589,1775752200,3491,3484,Raków Częstochowa,GKS Katowice,3,3,0,2
+1540152,1777730400,340,3491,Gornik Zabrze,Raków Częstochowa,2,0,1,0

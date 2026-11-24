@@ -1,0 +1,54 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1547830,1785938400,3489,6942,Podbeskidzie,Hutnik Kraków,2,0,0,0
+1547660,1785938400,6964,17397,Znicz Pruszków,ŁKS Łódź II,3,1,2,1
+1547834,1785938400,12900,6958,Śląsk Wrocław II,Stal Stalowa Wola,3,2,1,1
+1547831,1785940200,12834,3482,Podhale Nowy Targ,Chojniczanka Chojnice,2,0,0,0
+1547829,1785942000,4247,12902,Olimpia Grudziądz,Świt Skolwin,3,3,0,2
+1547836,1785943800,3496,6951,Warta Poznań,Resovia Rzeszów,0,1,0,1
+1547832,1785945600,3492,6950,Sandecja Nowy Sącz,Rekord Bielsko-Biała,3,0,1,0
+1547828,1785945600,6941,12801,Górnik Łęczna,Kalisz,2,0,1,0
+1547835,1785949200,3495,342,Tychy 71,Zaglebie Sosnowiec,1,0,1,0
+1547833,1785951900,6961,16255,Unia Skierniewice,Sokół Kleczew,1,1,0,1
+1612611,1788265800,16267,4248,Korona Kielce II,Radomiak Radom,0,1,0,1
+1612619,1788269400,12834,14750,Podhale Nowy Targ,Pogoń Grod. Mazowiecki,3,1,1,1
+1612607,1788271200,6934,349,Chemik Bydgoszcz,Piast Gliwice,0,3,0,1
+1612623,1788271200,6955,345,Siarka Tarnobrzeg,Zaglebie Lubin,3,2,1,0
+1612610,1788271200,17398,6947,Kluczevia Stargard,Pogoń Siedlce,2,2,1,0
+1612618,1788271200,23046,3490,Wisła Płock II,Puszcza Niepołomice,0,2,0,0
+1612616,1788276600,3488,338,Odra Opole,Wisla Krakow,2,1,0,1
+1612625,1788282000,6948,3492,Polonia Środa,Sandecja Nowy Sącz,3,2,2,1
+1612626,1788282000,6957,3489,Stal Rzeszów,Podbeskidzie,3,0,0,0
+1612609,1788282000,12806,343,Kluczbork,Lechia Gdansk,1,2,0,0
+1612627,1788284820,3497,3487,Wigry Suwałki,Nieciecza,1,5,0,3
+1612615,1788287400,14562,339,Motor Lublin,Legia Warszawa,3,0,2,0
+1612614,1788352200,19693,341,Luzino,Wisla Plock,2,3,0,2
+1612620,1788357600,9132,16239,Górnik Polkowice,Polonia Warszawa,0,1,0,0
+1612608,1788357600,12776,4247,Górnik Zabrze II,Olimpia Grudziądz,3,4,1,2
+1612605,1788357600,26386,12900,Beskid,Śląsk Wrocław II,1,3,1,1
+1612612,1788361200,6941,3493,Górnik Łęczna,Stal Mielec,2,2,1,0
+1612621,1788363000,6964,350,Znicz Pruszków,Cracovia Krakow,1,1,0,0
+1612631,1788364800,14143,6953,Lechia Zielona Góra,Ruch Chorzów,0,2,0,2
+1612613,1788368400,335,3483,Miedz Legnica,Chrobry Głogów,0,1,0,1
+1612617,1788368400,12857,16255,Sokół Ostróda,Sokół Kleczew,1,2,1,1
+1612622,1788368700,6951,344,Resovia Rzeszów,Arka Gdynia,0,4,0,1
+1612629,1788373800,6962,346,Widzew Łódź,Korona Kielce,0,1,0,0
+1612606,1788438600,16264,17115,Avia Świdnik,Wieczysta Kraków,3,1,1,1
+1612628,1788449400,3495,3498,Tychy 71,ŁKS Łódź,1,0,0,0
+1612624,1788460200,337,348,Slask Wroclaw,Pogon Szczecin,2,1,1,0
+1612630,1789477200,26178,12835,Widzew II,Polonia Bytom,1,2,0,1
+1640567,1793100600,4247,3487,Olimpia Grudziądz,Nieciecza,0,1,0,0
+1640564,1793100600,6941,3484,Górnik Łęczna,GKS Katowice,1,0,1,0
+1640565,1793118600,14562,3491,Motor Lublin,Raków Częstochowa,1,1,0,0
+1640568,1793129400,349,340,Piast Gliwice,Gornik Zabrze,0,0,0,0
+1640572,1793187000,6955,347,Siarka Tarnobrzeg,Lech Poznan,1,0,0,0
+1640562,1793187000,16255,12834,Sokół Kleczew,Podhale Nowy Targ,2,1,2,0
+1640571,1793205000,3490,341,Puszcza Niepołomice,Wisla Plock,1,1,0,1
+1640570,1793205000,6964,6953,Znicz Pruszków,Ruch Chorzów,0,1,0,0
+1640574,1793208600,3495,6947,Tychy 71,Pogoń Siedlce,2,2,2,0
+1640573,1793210400,6948,12900,Polonia Środa,Śląsk Wrocław II,3,1,2,1
+1640563,1793215800,343,336,Lechia Gdansk,Jagiellonia,0,6,0,2
+1640560,1793273400,16264,4248,Avia Świdnik,Radomiak Radom,1,1,0,1
+1640561,1793291400,3483,12835,Chrobry Głogów,Polonia Bytom,2,0,2,0
+1640569,1793291400,16239,346,Polonia Warszawa,Korona Kielce,2,1,1,0
+1640559,1793296800,344,6957,Arka Gdynia,Stal Rzeszów,1,2,1,0
+1640566,1793302200,3488,337,Odra Opole,Slask Wroclaw,1,1,0,0
