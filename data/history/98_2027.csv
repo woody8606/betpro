@@ -139,6 +139,13 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1556140,1794114000,289,287,Vissel Kobe,Urawa,2,2,1,0,1.72,1.86
 1556134,1794117600,293,291,Gamba Osaka,Cerezo Osaka,2,3,0,1,1.41,1.16
 1556132,1794124800,301,305,JEF United Chiba,Mito Hollyhock,1,0,0,0,2.24,0.85
-1556143,1795168800,290,283,Kashima,Shimizu S-pulse,1,1,0,0,0.98,0.69
 1556144,1795168800,281,301,Kashiwa Reysol,JEF United Chiba,0,1,0,0,1.43,0.51
+1556143,1795168800,290,283,Kashima,Shimizu S-pulse,1,1,0,0,0.98,0.69
 1556150,1795168800,289,305,Vissel Kobe,Mito Hollyhock,1,2,0,1,1.63,0.71
+1556146,1795237200,302,287,Kyoto Sanga,Urawa,2,1,0,1,1.16,1.37
+1556149,1795237200,306,288,Tokyo Verdy,Nagoya Grampus,0,0,0,0,0.35,0.97
+1556147,1795237200,303,285,Machida Zelvia,V-varen Nagasaki,0,0,0,0,1.35,0.74
+1556148,1795237200,282,296,Sanfrecce Hiroshima,Yokohama F. Marinos,2,2,1,0,1.86,1.17
+1556141,1795240800,291,292,Cerezo Osaka,FC Tokyo,0,3,0,1,0.13,1.71
+1556145,1795240800,294,316,Kawasaki Frontale,Avispa Fukuoka,1,0,0,0,1.9,0.78
+1556142,1795244400,293,310,Gamba Osaka,Fagiano Okayama,0,1,0,0,0.97,0.68
