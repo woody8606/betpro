@@ -988,3 +988,4 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-25,16:00,1649069,World - UEFA Youth League,Hradec Králové U19 - Kairat U19,sigur,H15,0.7037,0.828,0.6209,1.5,Betfair,3.0,0.0556,,,,
 2026-11-25,19:00,1649070,World - UEFA Youth League,Rangers U19 - AZ U19,sigur,O25,0.6756,0.7538,0.6234,1.5,Betfair,3.0,0.0134,,,,
 2026-11-25,19:45,1563283,England - Championship,Bolton - West Brom,sigur,O05HT,0.7373,0.7719,0.7143,1.33,Betfair,3.0,-0.0193,,,,
+2026-11-24,23:30,1651652,Venezuela - Copa Venezuela,UCV - Anzoátegui FC,value,O35,0.3118,0.2939,0.3237,3.3,Betfair,3.0,0.029,,,,
