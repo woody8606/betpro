@@ -962,3 +962,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-24,19:45,1563769,England - League Two,Crawley Town - Barnet,value,O35,0.3695,0.4085,0.3436,2.88,Betfair,3.0,0.0643,,,,
 2026-11-24,19:45,1587918,England - National League - North,Merthyr Town - Bedford Town,value,2,0.2558,0.3021,0.2249,4.0,Betfair,3.0,0.0231,,,,
 2026-11-24,19:45,1563773,England - League Two,Port Vale - Northampton,value,O15HT,0.2991,0.3219,0.2839,3.8,Betfair,3.0,0.1365,,,,
+2026-11-24,19:45,1587914,England - National League - North,Hednesford Town - Oxford City,top,O15HT,0.4091,0.4668,0.3706,2.63,Betfair,3.0,0.076,,,,
+2026-11-24,19:45,1588470,England - National League - South,Slough Town - Farnborough,top,O15HT,0.4781,0.475,0.4802,2.1,Betfair,3.0,0.0041,,,,
+2026-11-24,19:00,1588868,England - EFL Trophy,Oxford United - Tottenham Hotspur U21,value,1,0.7007,0.656,0.7306,1.55,Betfair,3.0,0.0861,,,,
+2026-11-24,19:00,1588868,England - EFL Trophy,Oxford United - Tottenham Hotspur U21,sigur,1,0.7007,0.656,0.7306,1.55,Betfair,3.0,0.0861,,,,
