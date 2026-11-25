@@ -1,0 +1,174 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1621587,1788444000,6195,6163,Maccabi Kiryat Malachi,Hapoel Mahane Yehuda,1,1,0,0
+1621591,1788444000,6201,6142,Nordia Jerusalem,Dimona,0,2,0,2
+1628896,1788445800,6208,22856,Shimshon Tel Aviv,Ironi Beit Shemesh,2,0,2,0
+1621585,1788450300,6200,6146,Maccabi Yavne,Hapoel Azor,3,0,1,0
+1621586,1788457500,6184,6153,Maccabi Ashdod,Hapoel Herzliya,1,2,1,2
+1621593,1788459300,7609,6167,Tzeirey Tira,Hapoel Sderot,1,4,1,3
+1621588,1788517800,4498,4500,Hapoel Marmorek,Hapoel Hadera,1,0,1,0
+1621590,1788520500,24788,17996,Kfar Saba 1928,FC Jerusalem,1,2,0,2
+1621589,1788520800,6171,4490,Holon Yermiyahu,Hapoel Ramat HaSharon,0,0,0,0
+1621317,1788521100,4502,20110,Ironi Nesher,Tzeirey Tamra,6,1,2,0
+1621891,1788522300,6155,20101,Hapoel Ihud Bnei Jatt,Hapoel Ironi Karmiel,1,3,1,1
+1621319,1788526800,6198,6210,Maccabi Nujeidat Ahmed,Tira,0,1,0,0
+1621316,1788629400,4492,4487,Hapoel Umm al-Fahm,Hapoel Nazareth Illit,2,2,1,1
+1621318,1788632100,6197,6175,Maccabi Neve Sha'anan,Ironi Baka El Garbiya,0,0,0,0
+1621320,1788632100,20291,6164,Maccabi K. Ata Bialik,Hapoel Migdal HaEmek,2,2,2,1
+1621313,1788699600,22334,6134,Hapoel Ironi Arraba,Beitar Nahariya,0,1,0,0
+1621314,1788715800,6149,20706,Hapoel Bnei Musmus,Tzeirei Umm al-Fahm,0,0,0,0
+1621324,1788953400,20291,6198,Maccabi K. Ata Bialik,Maccabi Nujeidat Ahmed,3,1,0,0
+1621595,1788962400,6146,7609,Hapoel Azor,Tzeirey Tira,2,0,2,0
+1621326,1788963000,4487,6169,Hapoel Nazareth Illit,Hapoel Tirat HaCarmel,1,0,0,0
+1621601,1788963300,4490,6163,Hapoel Ramat HaSharon,Hapoel Mahane Yehuda,1,1,0,0
+1621602,1788963600,6142,6200,Dimona,Maccabi Yavne,1,0,1,0
+1621596,1788969600,4500,6208,Hapoel Hadera,Shimshon Tel Aviv,2,2,1,2
+1621598,1788969600,6167,6195,Hapoel Sderot,Maccabi Kiryat Malachi,1,2,0,1
+1621327,1788971400,20110,4492,Tzeirey Tamra,Hapoel Umm al-Fahm,1,2,1,1
+1621599,1788972000,6171,4498,Holon Yermiyahu,Hapoel Marmorek,1,0,1,0
+1628897,1788972300,22856,24788,Ironi Beit Shemesh,Kfar Saba 1928,1,4,0,2
+1621600,1788973200,17996,6184,FC Jerusalem,Maccabi Ashdod,1,1,0,1
+1621597,1788974100,6153,6201,Hapoel Herzliya,Nordia Jerusalem,3,1,0,1
+1621323,1788975000,6175,4502,Ironi Baka El Garbiya,Ironi Nesher,0,2,0,2
+1621321,1789048800,20101,6149,Hapoel Ironi Karmiel,Hapoel Bnei Musmus,3,0,2,0
+1621892,1789059600,6134,6155,Beitar Nahariya,Hapoel Ihud Bnei Jatt,2,0,2,0
+1621325,1789059600,6210,22334,Tira,Hapoel Ironi Arraba,4,0,3,0
+1621328,1789059600,20706,6197,Tzeirei Umm al-Fahm,Maccabi Neve Sha'anan,1,1,0,1
+1621610,1789657200,6208,6171,Shimshon Tel Aviv,Holon Yermiyahu,3,1,2,0
+1621607,1789662600,24788,4500,Kfar Saba 1928,Hapoel Hadera,0,1,0,0
+1621611,1789666200,7609,6142,Tzeirey Tira,Dimona,0,1,0,0
+1621603,1789668000,6163,6167,Hapoel Mahane Yehuda,Hapoel Sderot,0,1,0,0
+1621606,1789721400,4498,4490,Hapoel Marmorek,Hapoel Ramat HaSharon,0,1,0,1
+1621334,1789721400,4502,20706,Ironi Nesher,Tzeirei Umm al-Fahm,5,1,2,0
+1621609,1789721700,6201,17996,Nordia Jerusalem,FC Jerusalem,1,3,1,1
+1621332,1789723800,20110,6169,Tzeirey Tamra,Hapoel Tirat HaCarmel,1,4,0,1
+1628898,1789727400,6184,22856,Maccabi Ashdod,Ironi Beit Shemesh,2,2,1,1
+1621608,1789727700,6200,6153,Maccabi Yavne,Hapoel Herzliya,0,0,0,0
+1621605,1789729200,6195,6146,Maccabi Kiryat Malachi,Hapoel Azor,3,0,0,0
+1621331,1789730700,6149,6134,Hapoel Bnei Musmus,Beitar Nahariya,1,2,1,0
+1621336,1789732800,6198,6164,Maccabi Nujeidat Ahmed,Hapoel Migdal HaEmek,2,4,2,1
+1621893,1789734600,6155,6210,Hapoel Ihud Bnei Jatt,Tira,1,1,0,1
+1621333,1789840800,4492,6175,Hapoel Umm al-Fahm,Ironi Baka El Garbiya,3,3,1,1
+1621335,1789841700,6197,20101,Maccabi Neve Sha'anan,Hapoel Ironi Karmiel,1,1,0,0
+1621329,1789841700,22334,20291,Hapoel Ironi Arraba,Maccabi K. Ata Bialik,0,4,0,1
+1621343,1790166600,20110,6330,Tzeirey Tamra,Hapoel Beit Shean,1,0,1,0
+1621613,1790172000,6146,6163,Hapoel Azor,Hapoel Mahane Yehuda,2,0,1,0
+1621337,1790175600,20101,4502,Hapoel Ironi Karmiel,Ironi Nesher,1,1,0,1
+1621616,1790179200,4498,6208,Hapoel Marmorek,Shimshon Tel Aviv,1,2,0,1
+1628899,1790179200,22856,6201,Ironi Beit Shemesh,Nordia Jerusalem,1,0,1,0
+1621342,1790182800,6134,6197,Beitar Nahariya,Maccabi Neve Sha'anan,3,0,1,0
+1621620,1790183400,6142,6195,Dimona,Maccabi Kiryat Malachi,1,5,0,1
+1621619,1790183700,4490,6167,Hapoel Ramat HaSharon,Hapoel Sderot,1,0,0,0
+1621615,1790183700,6153,7609,Hapoel Herzliya,Tzeirey Tira,1,0,0,0
+1621341,1790184000,6210,6149,Tira,Hapoel Bnei Musmus,1,1,1,0
+1621339,1790185500,6175,6169,Ironi Baka El Garbiya,Hapoel Tirat HaCarmel,3,1,0,0
+1621894,1790250300,20291,6155,Maccabi K. Ata Bialik,Hapoel Ihud Bnei Jatt,5,3,3,0
+1621340,1790256600,6198,22334,Maccabi Nujeidat Ahmed,Hapoel Ironi Arraba,4,1,2,1
+1621618,1790265600,17996,6200,FC Jerusalem,Maccabi Yavne,1,1,1,0
+1621338,1790267400,6164,4487,Hapoel Migdal HaEmek,Hapoel Nazareth Illit,2,3,1,2
+1621617,1790268300,6171,24788,Holon Yermiyahu,Kfar Saba 1928,1,0,0,0
+1621614,1790270100,4500,6184,Hapoel Hadera,Maccabi Ashdod,1,1,1,0
+1621351,1790769600,6197,6210,Maccabi Neve Sha'anan,Tira,2,3,1,2
+1621628,1790771400,6208,4490,Shimshon Tel Aviv,Hapoel Ramat HaSharon,1,2,0,0
+1621345,1790771400,22334,6164,Hapoel Ironi Arraba,Hapoel Migdal HaEmek,1,1,1,0
+1621626,1790773200,6195,6153,Maccabi Kiryat Malachi,Hapoel Herzliya,0,0,0,0
+1621350,1790778600,4502,6134,Ironi Nesher,Beitar Nahariya,4,1,3,0
+1621347,1790778600,6149,20291,Hapoel Bnei Musmus,Maccabi K. Ata Bialik,1,0,0,0
+1621627,1790787000,6201,4500,Nordia Jerusalem,Hapoel Hadera,0,4,0,0
+1621352,1790787300,4487,20110,Hapoel Nazareth Illit,Tzeirey Tamra,2,3,1,1
+1621621,1790787600,6163,6142,Hapoel Mahane Yehuda,Dimona,2,3,0,2
+1621625,1790787600,6184,6171,Maccabi Ashdod,Holon Yermiyahu,2,0,1,0
+1621346,1790789400,6330,6175,Hapoel Beit Shean,Ironi Baka El Garbiya,2,1,0,0
+1621629,1790791200,7609,17996,Tzeirey Tira,FC Jerusalem,0,2,0,1
+1621895,1790861400,6155,6198,Hapoel Ihud Bnei Jatt,Maccabi Nujeidat Ahmed,2,0,1,0
+1628900,1790868600,6200,22856,Maccabi Yavne,Ironi Beit Shemesh,5,1,3,0
+1621622,1790870400,6167,6146,Hapoel Sderot,Hapoel Azor,0,0,0,0
+1621349,1790872200,4492,20101,Hapoel Umm al-Fahm,Hapoel Ironi Karmiel,0,0,0,0
+1621348,1790872200,20706,6169,Tzeirei Umm al-Fahm,Hapoel Tirat HaCarmel,0,0,0,0
+1621623,1790872200,24788,4498,Kfar Saba 1928,Hapoel Marmorek,2,2,2,1
+1621633,1791471600,4490,6146,Hapoel Ramat HaSharon,Hapoel Azor,1,1,1,0
+1621353,1791471600,20101,6169,Hapoel Ironi Karmiel,Hapoel Tirat HaCarmel,1,0,0,0
+1621631,1791475200,4498,6184,Hapoel Marmorek,Maccabi Ashdod,1,1,1,1
+1621354,1791477000,6164,20110,Hapoel Migdal HaEmek,Tzeirey Tamra,1,0,1,0
+1621636,1791477600,6171,6201,Holon Yermiyahu,Nordia Jerusalem,5,0,1,0
+1621358,1791478800,6210,4502,Tira,Ironi Nesher,2,1,0,1
+1621630,1791479700,6153,6163,Hapoel Herzliya,Hapoel Mahane Yehuda,0,0,0,0
+1621355,1791480600,6175,4487,Ironi Baka El Garbiya,Hapoel Nazareth Illit,1,2,0,1
+1621632,1791536400,17996,6195,FC Jerusalem,Maccabi Kiryat Malachi,0,1,0,1
+1621359,1791540000,6134,4492,Beitar Nahariya,Hapoel Umm al-Fahm,1,1,0,1
+1628901,1791540000,22856,7609,Ironi Beit Shemesh,Tzeirey Tira,3,1,0,1
+1621635,1791541800,4500,6200,Hapoel Hadera,Maccabi Yavne,0,0,0,0
+1621638,1791541800,6208,24788,Shimshon Tel Aviv,Kfar Saba 1928,3,0,3,0
+1621637,1791542100,6142,6167,Dimona,Hapoel Sderot,4,1,2,1
+1621357,1791542400,20291,6197,Maccabi K. Ata Bialik,Maccabi Neve Sha'anan,1,2,0,1
+1621896,1791545400,22334,6155,Hapoel Ironi Arraba,Hapoel Ihud Bnei Jatt,0,0,0,0
+1621356,1791547200,6198,6149,Maccabi Nujeidat Ahmed,Hapoel Bnei Musmus,0,0,0,0
+1621315,1791828900,6169,6330,Hapoel Tirat HaCarmel,Hapoel Beit Shean,0,4,0,3
+1621365,1792144800,4502,20291,Ironi Nesher,Maccabi K. Ata Bialik,4,0,1,0
+1621330,1792148400,6330,4487,Hapoel Beit Shean,Hapoel Nazareth Illit,1,1,1,1
+1621364,1792335300,4492,6210,Hapoel Umm al-Fahm,Tira,0,1,0,1
+1628902,1792335900,6195,22856,Maccabi Kiryat Malachi,Ironi Beit Shemesh,3,3,3,0
+1621644,1792345500,6184,6208,Maccabi Ashdod,Shimshon Tel Aviv,0,1,0,1
+1621366,1792411200,6197,6198,Maccabi Neve Sha'anan,Maccabi Nujeidat Ahmed,1,2,0,0
+1621368,1792414800,20110,6175,Tzeirey Tamra,Ironi Baka El Garbiya,1,3,0,1
+1621897,1792415700,6155,6164,Hapoel Ihud Bnei Jatt,Hapoel Migdal HaEmek,1,1,0,0
+1621362,1792420200,6149,22334,Hapoel Bnei Musmus,Hapoel Ironi Arraba,1,2,0,1
+1621646,1792423800,6201,4498,Nordia Jerusalem,Hapoel Marmorek,1,4,0,1
+1621643,1792424700,6200,6171,Maccabi Yavne,Holon Yermiyahu,1,3,1,1
+1621641,1792425600,6167,6153,Hapoel Sderot,Hapoel Herzliya,2,2,0,1
+1621642,1792425600,24788,4490,Kfar Saba 1928,Hapoel Ramat HaSharon,0,1,0,0
+1621640,1792427400,6163,17996,Hapoel Mahane Yehuda,FC Jerusalem,4,2,3,0
+1621361,1792427400,6330,20101,Hapoel Beit Shean,Hapoel Ironi Karmiel,1,1,0,0
+1621647,1792429200,7609,4500,Tzeirey Tira,Hapoel Hadera,0,1,0,0
+1621363,1792433700,6169,6134,Hapoel Tirat HaCarmel,Beitar Nahariya,0,4,0,1
+1621374,1792688400,6210,6169,Tira,Hapoel Tirat HaCarmel,2,0,2,0
+1621650,1792689300,6153,6146,Hapoel Herzliya,Hapoel Azor,1,5,1,2
+1621371,1792744200,6164,6175,Hapoel Migdal HaEmek,Ironi Baka El Garbiya,2,1,1,1
+1621373,1792744200,20291,4492,Maccabi K. Ata Bialik,Hapoel Umm al-Fahm,1,3,1,2
+1621654,1792746000,17996,6167,FC Jerusalem,Hapoel Sderot,0,5,0,2
+1621649,1792747800,4500,6195,Hapoel Hadera,Maccabi Kiryat Malachi,1,0,0,0
+1621375,1792749600,6134,6330,Beitar Nahariya,Hapoel Beit Shean,0,2,0,1
+1628903,1792749600,22856,6163,Ironi Beit Shemesh,Hapoel Mahane Yehuda,5,0,2,0
+1621370,1792751100,20101,4487,Hapoel Ironi Karmiel,Hapoel Nazareth Illit,3,3,3,3
+1621655,1792751400,4490,6142,Hapoel Ramat HaSharon,Dimona,0,2,0,0
+1621369,1792751400,22334,6197,Hapoel Ironi Arraba,Maccabi Neve Sha'anan,1,5,0,2
+1621656,1792751700,6208,6201,Shimshon Tel Aviv,Nordia Jerusalem,3,0,0,0
+1621653,1792753200,6171,7609,Holon Yermiyahu,Tzeirey Tira,3,0,0,0
+1621372,1792753200,6198,4502,Maccabi Nujeidat Ahmed,Ironi Nesher,1,2,0,1
+1621898,1792755900,6155,6149,Hapoel Ihud Bnei Jatt,Hapoel Bnei Musmus,4,2,4,0
+1621651,1792863900,24788,6184,Kfar Saba 1928,Maccabi Ashdod,1,3,0,0
+1621652,1792947600,4498,6200,Hapoel Marmorek,Maccabi Yavne,1,1,1,0
+1621322,1793034000,6164,6330,Hapoel Migdal HaEmek,Hapoel Beit Shean,2,1,1,1
+1621899,1793294100,6197,6155,Maccabi Neve Sha'anan,Hapoel Ihud Bnei Jatt,3,0,3,0
+1621665,1793296800,7609,4498,Tzeirey Tira,Hapoel Marmorek,0,1,0,0
+1621379,1793301300,6169,20291,Hapoel Tirat HaCarmel,Maccabi K. Ata Bialik,1,0,0,0
+1628904,1793354400,6167,22856,Hapoel Sderot,Ironi Beit Shemesh,1,0,0,0
+1621377,1793355900,6330,6210,Hapoel Beit Shean,Tira,0,0,0,0
+1621664,1793356200,6142,6153,Dimona,Hapoel Herzliya,7,0,4,0
+1621658,1793356500,6163,4500,Hapoel Mahane Yehuda,Hapoel Hadera,3,2,1,2
+1621378,1793359800,6149,6164,Hapoel Bnei Musmus,Hapoel Migdal HaEmek,1,4,0,3
+1621382,1793545200,4502,22334,Ironi Nesher,Hapoel Ironi Arraba,5,0,2,0
+1621384,1793624400,20110,20101,Tzeirey Tamra,Hapoel Ironi Karmiel,1,2,0,1
+1621657,1793633400,6146,17996,Hapoel Azor,FC Jerusalem,3,1,1,0
+1621383,1793635200,4487,6134,Hapoel Nazareth Illit,Beitar Nahariya,2,0,0,0
+1621663,1793637000,6201,24788,Nordia Jerusalem,Kfar Saba 1928,1,0,0,0
+1621662,1793637900,6200,6208,Maccabi Yavne,Shimshon Tel Aviv,2,0,1,0
+1621660,1793639700,6195,6171,Maccabi Kiryat Malachi,Holon Yermiyahu,1,1,1,1
+1621380,1793640600,4492,6198,Hapoel Umm al-Fahm,Maccabi Nujeidat Ahmed,3,0,2,0
+1621659,1793645400,6184,4490,Maccabi Ashdod,Hapoel Ramat HaSharon,1,1,1,1
+1621390,1793883600,20291,6330,Maccabi K. Ata Bialik,Hapoel Beit Shean,0,0,0,0
+1621671,1793890800,17996,6142,FC Jerusalem,Dimona,3,0,2,0
+1621392,1793899800,6134,20110,Beitar Nahariya,Tzeirey Tamra,1,0,1,0
+1621387,1793953800,20101,6175,Hapoel Ironi Karmiel,Ironi Baka El Garbiya,7,2,3,0
+1621386,1793955600,6149,6197,Hapoel Bnei Musmus,Maccabi Neve Sha'anan,2,1,0,0
+1621670,1793959200,4500,6167,Hapoel Hadera,Hapoel Sderot,1,2,0,1
+1621669,1793961000,6184,6201,Maccabi Ashdod,Nordia Jerusalem,4,0,2,0
+1628905,1793961000,22856,6146,Ironi Beit Shemesh,Hapoel Azor,1,0,0,0
+1621668,1793961300,6171,6163,Holon Yermiyahu,Hapoel Mahane Yehuda,1,0,0,0
+1621391,1793961600,6210,4487,Tira,Hapoel Nazareth Illit,1,1,1,0
+1621389,1793962800,6198,6169,Maccabi Nujeidat Ahmed,Hapoel Tirat HaCarmel,4,0,1,0
+1621674,1793962800,6208,7609,Shimshon Tel Aviv,Tzeirey Tira,1,0,0,0
+1621900,1793963700,6155,4502,Hapoel Ihud Bnei Jatt,Ironi Nesher,1,3,0,2
+1621672,1793963700,24788,6200,Kfar Saba 1928,Maccabi Yavne,0,2,0,1
+1621673,1793964600,4490,6153,Hapoel Ramat HaSharon,Hapoel Herzliya,2,2,2,1
+1621667,1794074400,4498,6195,Hapoel Marmorek,Maccabi Kiryat Malachi,2,2,1,2
+1621385,1794141000,22334,4492,Hapoel Ironi Arraba,Hapoel Umm al-Fahm,1,8,1,5

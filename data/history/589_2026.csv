@@ -19,3 +19,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1639387,1793527200,28419,9427,Kaohsiung,Taipower,3,0,1,0
 1639388,1793529000,12543,12542,Tainan City,Taichung Futuro,3,0,0,0
 1639385,1793530800,8028,26332,Hang Yuen,Taichung Rock FC,2,0,1,0
+1639389,1795330800,12542,8028,Taichung Futuro,Hang Yuen,0,2,0,2
+1639391,1795332600,9427,12543,Taipower,Tainan City,1,2,1,0
+1639390,1795332600,26332,8048,Taichung Rock FC,Tatung,1,4,0,3
+1639392,1795345200,28419,18841,Kaohsiung,AC Taipei,2,1,1,1
+1639380,1795602600,12543,26332,Tainan City,Taichung Rock FC,4,0,2,0
