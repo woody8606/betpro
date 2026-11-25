@@ -4,7 +4,10 @@ import math
 from . import config
 from .model import label
 
-VALUE_MARKETS = ["O05HT", "O15HT", "O25HT", "O15", "O25", "O35", "GG", "H15", "A15", "1", "X", "2"]
+# 25 nov: din jurnal (400+ pariuri) pierd constant la value: peste 1.5 la pauza, peste 3.5, victorie oaspeti si oaspeti peste 1.5
+VALUE_MARKETS = ["O05HT", "O25HT", "O15", "O25", "GG", "H15", "1", "X"]
+# la TOP merg bine gazde si oaspeti peste 1.5; peste 1.5 la pauza pierde
+TOP_MARKETS = ["O05HT", "O25HT", "O15", "O25", "O35", "GG", "H15", "A15", "1", "X", "2"]
 SURE_MARKETS = ["O15", "O25", "GG", "H15", "A15", "O05HT", "O15HT", "1", "2"]
 BIG_WORDS = ["premier league", "la liga", "serie a", "bundesliga", "ligue 1", "liga i", "eredivisie", "primeira liga",
              "championship", "champions league", "europa league", "conference league", "nations league",
@@ -66,7 +69,7 @@ def value_picks(matches: list):
                 cands.append(dict(match=m, mk=mk, p=p, p_bot=pb, p_ref=pr, src=src, odds=o, book=book,
                                   book_id=book_id, edge=edge, kelly=edge / (o - 1), far=far))
         ok = [c for c in cands if c["edge"] <= config.EDGE_MAX and not c["far"]
-              and c["p"] >= config.VALUE_MIN_P and c["odds"] <= config.VALUE_MAX_ODDS]
+              and c["p"] >= config.VALUE_MIN_P and config.VALUE_MIN_ODDS <= c["odds"] <= config.VALUE_MAX_ODDS]
         bad = [c for c in cands if c["edge"] > config.EDGE_MAX or c["far"]]
         if ok:
             main.append(max(ok, key=lambda c: c["kelly"]))   # Kelly: prefera cote mai mici la acelasi avantaj
@@ -90,7 +93,7 @@ def top_picks(matches: list, n: int = 5):
         if len(inj.get("h") or []) + len(inj.get("a") or []) > 3:
             continue
         best = None
-        for mk in VALUE_MARKETS:
+        for mk in TOP_MARKETS:
             b = blend(m, mk)
             o = o_all.get(mk)
             if not b or not o or b[2] is None or b[3] != "Pinnacle":
@@ -110,7 +113,7 @@ def top_picks(matches: list, n: int = 5):
     return sorted(top, key=lambda c: (c["match"]["kickoff"], c["match"]["name"])) if len(top) >= 3 else []
 
 
-def sure_picks(matches: list, n: int = 10):
+def sure_picks(matches: list, n: int = 8):
     """Sigure JUCABILE: sansa mare, cota Betfair de minim 1.25 si macar cat cota corecta."""
     out = []
     for m in matches:
