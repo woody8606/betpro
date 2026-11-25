@@ -1,0 +1,123 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1483780,1757786400,25263,26926,Señor de Quinuapata,Real Sociedad FBC,2,0,,
+1483781,1757786400,26927,18076,Real Independiente Áncash,Miguel Grau UDH,1,3,,
+1483782,1757787300,26928,26866,Dinamo de Solabaya,Machete,0,0,,
+1483783,1757790900,26929,26949,Deportivo Barrio 12,Deportivo Múnich Sol Naciente,3,1,,
+1483784,1757793600,26870,26959,San Martin Tours,Instituto Apurímac FC,0,0,,
+1483786,1757793600,26935,22464,CD Señor Justo Juez,Calidad Porteña,1,0,,
+1483785,1757793600,26936,22458,CDC Hacienda San Agustín,Altiplano y del Pacífico,1,0,,
+1483788,1757794800,26944,26933,Juventud Ccontacc,Unión Social Pacopata,2,0,,
+1483789,1757795400,26931,26863,Amazonas FC,Cachorro,3,2,,
+1483793,1757880000,26864,22481,Huancarama,La Masía Nace,7,1,,
+1483797,1757880000,26930,26952,AD Municipal Palcazú,Deportivo Tumi,5,1,,
+1483795,1757880000,26940,26867,Municipal de Chacos,Minas,1,0,,
+1483791,1757880000,26941,26865,Municipal Hijos de Piscobamba,Juventud Huracan,0,0,,
+1483794,1757880000,26945,22457,Asociación Deportiva CNB,Alianza Pisco,1,2,,
+1483796,1757880000,26946,2576,Atlético Nacional de Pucallpa,Atletico Torino,1,0,,
+1483790,1757880000,26951,26862,Illanes 48 Llallahua,Amigos de la PNP,1,0,,
+1483792,1757880000,26955,25269,FC Tambo,Viargoca,3,2,,
+1483799,1757880900,26947,26861,Atlético Sumar Motors,ANBA Peru,2,1,,
+1483798,1757880900,26956,26868,FD Galaxy,Patibamba,0,1,,
+1483751,1757881800,12258,18078,Las Palmas,Nihue Rao,3,0,,
+1483801,1757881800,22473,26934,Diablos Rojos Huancav.,Unión Juventud Pomacocha,2,1,,
+1483757,1757881800,26872,26954,Tahuishco,FC Jibaja Che,4,0,,
+1483800,1757881800,26937,22460,Sport Puerto Aéreo,Atlético Chanchamayo,4,2,,
+1483755,1757881800,26939,18064,Real Puerto Chimbote FC,Colegio Comercio,4,0,,
+1483754,1757881800,26943,20309,Alianza Tres Unidos,Bagua Grande,1,1,,
+1483753,1757881800,26948,22470,Defensor Balsapuerto,Deportiva Arteaga,3,2,,
+1483752,1757881800,26953,26871,Estudiantes FC de Chancay,Universidad Tumbes,3,2,,
+1483756,1757881800,26958,26873,Independiente Zorritos,Sport River,1,5,,
+1483805,1757882700,25243,26960,Deportivo El Inca,Amigos Siempre Amigos FC,1,0,,
+1483758,1757882700,26950,26957,Juventud Bellavista FBC,Grandez FC,2,1,,
+1483759,1757883600,26932,26938,América de Tepo,Sport Ayash Huamanin,3,1,,
+1483762,1758391200,18076,26927,Miguel Grau UDH,Real Independiente Áncash,2,1,,
+1483760,1758391200,26861,26947,ANBA Peru,Atlético Sumar Motors,3,0,,
+1483761,1758391200,26957,26950,Grandez FC,Juventud Bellavista FBC,1,3,,
+1483763,1758397500,25269,26955,Viargoca,FC Tambo,3,0,,
+1483765,1758400200,26952,26930,Deportivo Tumi,AD Municipal Palcazú,6,0,,
+1483768,1758477600,22481,26864,La Masía Nace,Huancarama,2,7,,
+1483766,1758477600,26862,26951,Amigos de la PNP,Illanes 48 Llallahua,1,0,,
+1483767,1758477600,26949,26929,Deportivo Múnich Sol Naciente,Deportivo Barrio 12,1,0,,
+1483769,1758479400,22470,26948,Deportiva Arteaga,Defensor Balsapuerto,2,0,,
+1483770,1758481200,22464,26935,Calidad Porteña,CD Señor Justo Juez,3,1,,
+1483779,1758484800,18064,26939,Colegio Comercio,Real Puerto Chimbote FC,5,1,,
+1483777,1758484800,18078,12258,Nihue Rao,Las Palmas,2,2,,
+1483776,1758484800,22458,26936,Altiplano y del Pacífico,CDC Hacienda San Agustín,1,1,,
+1483723,1758484800,26863,26931,Cachorro,Amazonas FC,2,0,,
+1483772,1758484800,26865,26941,Juventud Huracan,Municipal Hijos de Piscobamba,3,1,,
+1483774,1758484800,26866,26928,Machete,Dinamo de Solabaya,3,1,,
+1483778,1758484800,26867,26940,Minas,Municipal de Chacos,3,0,,
+1483773,1758484800,26868,26956,Patibamba,FD Galaxy,4,0,,
+1483775,1758484800,26959,26870,Instituto Apurímac FC,San Martin Tours,1,2,,
+1483725,1758485700,22460,26937,Atlético Chanchamayo,Sport Puerto Aéreo,3,0,,
+1483724,1758485700,26926,25263,Real Sociedad FBC,Señor de Quinuapata,1,1,,
+1483726,1758485700,26934,22473,Unión Juventud Pomacocha,Diablos Rojos Huancav.,1,1,,
+1483729,1758486600,2576,26946,Atletico Torino,Atlético Nacional de Pucallpa,2,1,,
+1483730,1758486600,20309,26943,Bagua Grande,Alianza Tres Unidos,2,0,,
+1483727,1758486600,26871,26953,Universidad Tumbes,Estudiantes FC de Chancay,3,0,,
+1483728,1758486600,26938,26932,Sport Ayash Huamanin,América de Tepo,0,3,,
+1483731,1758486600,26954,26872,FC Jibaja Che,Tahuishco,3,0,,
+1483803,1758486600,26960,25243,Amigos Siempre Amigos FC,Deportivo El Inca,2,1,,
+1483732,1758488400,22457,26945,Alianza Pisco,Asociación Deportiva CNB,6,0,,
+1483733,1758573900,26873,26958,Sport River,Independiente Zorritos,1,0,,
+1483734,1758999600,26862,25263,Amigos de la PNP,Señor de Quinuapata,6,0,,
+1483735,1759003200,26870,22464,San Martin Tours,Calidad Porteña,3,1,,
+1483736,1759005000,22473,22457,Diablos Rojos Huancav.,Alianza Pisco,2,0,,
+1483737,1759082400,18076,26869,Miguel Grau UDH,Real Huarcos,0,0,,
+1483738,1759089600,25269,26865,Viargoca,Juventud Huracan,1,1,,
+1483740,1759089600,26861,22460,ANBA Peru,Atlético Chanchamayo,4,2,,
+1483739,1759089600,26933,26868,Unión Social Pacopata,Patibamba,1,0,,
+1483741,1759090500,26864,26929,Huancarama,Deportivo Barrio 12,4,0,,
+1483743,1759091400,12258,26871,Las Palmas,Universidad Tumbes,4,3,,
+1483744,1759091400,20309,2576,Bagua Grande,Atletico Torino,0,0,,
+1483745,1759091400,22470,26872,Deportiva Arteaga,Tahuishco,5,2,,
+1483742,1759091400,26866,26936,Machete,CDC Hacienda San Agustín,4,2,,
+1483804,1759091400,26960,26939,Amigos Siempre Amigos FC,Real Puerto Chimbote FC,2,0,,
+1483746,1759092300,26950,26873,Juventud Bellavista FBC,Sport River,0,1,,
+1483747,1759093200,26863,26952,Cachorro,Deportivo Tumi,0,0,,
+1483748,1759168800,26932,26867,América de Tepo,Minas,2,0,,
+1483749,1759600800,25263,26862,Señor de Quinuapata,Amigos de la PNP,1,1,,
+1483750,1759600800,26867,26932,Minas,América de Tepo,2,0,,
+1483710,1759602000,26929,26864,Deportivo Barrio 12,Huancarama,0,4,,
+1483711,1759609800,22464,26870,Calidad Porteña,San Martin Tours,0,1,,
+1483712,1759680000,26952,26863,Deportivo Tumi,Cachorro,0,1,,
+1483713,1759687200,22460,26861,Atlético Chanchamayo,ANBA Peru,0,2,,
+1483714,1759689000,2576,20309,Atletico Torino,Bagua Grande,2,1,,
+1483715,1759694400,26865,25269,Juventud Huracan,Viargoca,4,1,,
+1483716,1759694400,26868,26933,Patibamba,Unión Social Pacopata,1,0,,
+1483717,1759694400,26869,18076,Real Huarcos,Miguel Grau UDH,0,0,,
+1483718,1759694400,26872,22470,Tahuishco,Deportiva Arteaga,4,1,,
+1483802,1759694400,26939,26960,Real Puerto Chimbote FC,Amigos Siempre Amigos FC,2,2,,
+1483719,1759696200,26871,12258,Universidad Tumbes,Las Palmas,3,0,,
+1483720,1759697100,26873,26950,Sport River,Juventud Bellavista FBC,4,1,,
+1483721,1759698000,26936,26866,CDC Hacienda San Agustín,Machete,3,2,,
+1483722,1759705200,22457,22473,Alianza Pisco,Diablos Rojos Huancav.,1,1,,
+1481520,1760292000,2576,26872,Atletico Torino,Tahuishco,0,0,0.0,0.0
+1481519,1760292000,26867,26871,Minas,Universidad Tumbes,4,0,1.0,0.0
+1481521,1760299200,26865,26862,Juventud Huracan,Amigos de la PNP,2,0,1.0,0.0
+1481522,1760300100,26864,26870,Huancarama,San Martin Tours,4,0,0.0,0.0
+1481525,1760301000,26861,22473,ANBA Peru,Diablos Rojos Huancav.,3,0,2.0,0.0
+1481524,1760301000,26866,26868,Machete,Patibamba,3,2,2.0,1.0
+1481523,1760301000,26869,26863,Real Huarcos,Cachorro,4,2,1.0,0.0
+1481526,1760301900,26873,26960,Sport River,Amigos Siempre Amigos,1,0,0.0,0.0
+1481534,1760896800,26862,26865,Amigos de la PNP,Juventud Huracan,1,1,0.0,0.0
+1481528,1760904000,26863,26869,Cachorro,Real Huarcos,2,0,0.0,0.0
+1481530,1760904000,26868,26866,Patibamba,Machete,2,2,,
+1481531,1760904000,26870,26864,San Martin Tours,Huancarama,4,1,2.0,0.0
+1481532,1760904000,26872,2576,Tahuishco,Atletico Torino,1,0,0.0,0.0
+1481527,1760904000,26960,26873,Amigos Siempre Amigos,Sport River,0,0,0.0,0.0
+1481529,1760905800,22473,26861,Diablos Rojos Huancav.,ANBA Peru,0,2,0.0,1.0
+1481533,1760905800,26871,26867,Universidad Tumbes,Minas,3,0,2.0,0.0
+1483706,1761505200,26872,26867,Tahuishco,Minas,2,0,,
+1483709,1761508800,26861,26864,ANBA Peru,Huancarama,4,1,2.0,1.0
+1483707,1761508800,26863,26960,Cachorro,Amigos Siempre Amigos,0,2,0.0,0.0
+1483708,1761508800,26868,26865,Patibamba,Juventud Huracan,0,0,0.0,0.0
+1485102,1762106400,26867,26872,Minas,Tahuishco,4,0,,
+1485105,1762113600,26864,26861,Huancarama,ANBA Peru,0,0,0.0,0.0
+1485104,1762113600,26865,26868,Juventud Huracan,Patibamba,2,0,,
+1485103,1762113600,26960,26863,Amigos Siempre Amigos FC,Cachorro,3,0,3.0,0.0
+1485330,1762704000,26960,26867,Amigos Siempre Amigos FC,Minas,1,1,0.0,0.0
+1485329,1762718400,26861,26865,ANBA Peru,Juventud Huracan,2,2,2.0,0.0
+1486284,1763321400,26867,26861,Minas,ANBA Peru,0,0,0.0,0.0
+1486780,1763928000,20324,26861,Estudiantil CNI,ANBA Peru,2,1,2.0,0.0
+1486779,1764532800,26861,20324,ANBA Peru,Estudiantil CNI,2,1,2.0,0.0

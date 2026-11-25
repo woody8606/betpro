@@ -1,0 +1,21 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1648782,1794164400,28667,28666,Cruz de Chalpon,Cajabamba,0,0,0.0,0.0
+1648785,1794166200,28673,28671,Sport Huaja,Leones de Anccaca,2,0,2.0,0.0
+1648783,1794169800,25243,22487,Deportivo El Inca,Sociedad de Tiro 28,1,3,0.0,0.0
+1648788,1794169800,25269,28668,Viargoca,Deportivo Bancos,4,1,2.0,1.0
+1648787,1794169800,26866,28674,Machete,Vinicunca,6,1,4.0,0.0
+1648786,1794169800,28665,28672,CESA,Minas Pamputa,1,1,0.0,0.0
+1649515,1794171600,20326,1137,Juventud Palmeiras,Atletico Nacional,2,2,0.0,2.0
+1648789,1794178800,28669,28664,Domingo Dianderas,Bella Esperanza,1,1,0.0,1.0
+1648792,1794686400,28668,25269,Deportivo Bancos,Viargoca,2,0,1.0,0.0
+1648797,1794686400,28674,26866,Vinicunca,Machete,0,2,0.0,1.0
+1648795,1794769200,28672,28665,Minas Pamputa,CESA,3,0,1.0,0.0
+1648796,1794771900,22487,25243,Sociedad de Tiro 28,Deportivo El Inca,1,0,1.0,0.0
+1649516,1794772800,1137,20326,Atletico Nacional,Juventud Palmeiras,2,1,1.0,1.0
+1648790,1794772800,28664,28669,Bella Esperanza,Domingo Dianderas,2,0,1.0,0.0
+1648794,1794772800,28671,28673,Leones de Anccaca,Sport Huaja,4,1,3.0,0.0
+1648791,1794774600,28666,28667,Cajabamba,Cruz de Chalpon,4,1,2.0,0.0
+1650256,1795194000,28672,1137,Minas Pamputa,Atletico Nacional,2,0,0.0,0.0
+1650254,1795204800,28666,28664,Cajabamba,Bella Esperanza,0,0,0.0,0.0
+1650257,1795366800,25269,28671,Viargoca,Leones de Anccaca,2,0,,
+1650255,1795377600,26866,22487,Machete,Sociedad de Tiro 28,1,2,,
