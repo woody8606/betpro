@@ -1,8 +1,10 @@
 """BET PRO - aplicatia (Streamlit). Pornire locala: streamlit run app.py"""
+import datetime as dt
 import json
 import math
 import os
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import streamlit as st
@@ -57,7 +59,19 @@ if not data:
     st.stop()
 # doar meciurile pe care Betfair le are (au cote Betfair in API)
 all_matches = [m for m in data["matches"] if (m.get("odds") or {}).get("best")]
-matches = [m for m in all_matches if not m.get("started")]   # Azi / Biletul meu: doar ce n-a inceput
+_now = dt.datetime.now(ZoneInfo("Europe/London"))
+
+
+def _began(m):
+    """A inceput deja? (dupa ora de start, nu doar dupa ce marcheaza botul la actualizare)"""
+    if m.get("started"):
+        return True
+    if data.get("date") != _now.strftime("%Y-%m-%d"):
+        return data.get("date", "") < _now.strftime("%Y-%m-%d")
+    return str(m.get("kickoff", "99:99")) <= _now.strftime("%H:%M")
+
+
+matches = [m for m in all_matches if not _began(m)]   # Azi / Biletul meu: doar ce n-a inceput
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")
 
