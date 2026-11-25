@@ -671,6 +671,54 @@ with tab_scor:
                 else:
                     st.caption("🟢 Cotele sunt peste cele corecte: pe termen lung ar trebui sa iasa pe plus. Tot mize mici!")
 
+        # ---- varianta 16 bilete: 2 grupe de scoruri pe fiecare din cele 4 meciuri, toate combinatiile de cate 4
+        st.divider()
+        st.markdown("### 🧮 16 bilete: 2 scoruri pe fiecare meci")
+        st.caption("La fiecare din cele 4 meciuri alegi 2 grupe de scoruri. Se fac toate cele 16 bilete de cate 4 meciuri "
+                   "(2 x 2 x 2 x 2). Daca la fiecare meci iese una din cele 2 grupe, exact un bilet e castigator. "
+                   "Pe Betfair le pui ca 16 bilete separate (acumulatoare de 4).")
+        if len(chosen) != 4:
+            st.info("Alege mai sus exact 4 meciuri.")
+        else:
+            pairs = []
+            for nm in chosen:
+                r = names[nm]
+                opts = [f"{lbl} · corecta {1 / p:.2f}" for _, lbl, p in r["groups"]]
+                st.markdown(f"**{nm}**")
+                ca, cb, cc, cd = st.columns([3, 1, 3, 1])
+                ga = ca.selectbox("Scorul 1", range(len(opts)), index=0, format_func=lambda i, o=opts: o[i],
+                                  key=f"x16_ga_{r['fid']}")
+                oa = cb.number_input("Cota", min_value=0.0, value=0.0, step=0.25, key=f"x16_oa_{r['fid']}")
+                gb = cc.selectbox("Scorul 2", range(len(opts)), index=1, format_func=lambda i, o=opts: o[i],
+                                  key=f"x16_gb_{r['fid']}")
+                ob = cd.number_input("Cota ", min_value=0.0, value=0.0, step=0.25, key=f"x16_ob_{r['fid']}")
+                pairs.append([(r["groups"][ga][1], r["groups"][ga][2], oa), (r["groups"][gb][1], r["groups"][gb][2], ob)])
+            if any(ga_ == gb_ for ga_, gb_ in [(p_[0][0], p_[1][0]) for p_ in pairs]):
+                st.warning("La un meci ai ales de doua ori acelasi scor.")
+            elif any(o <= 1 for pr in pairs for _, _, o in pr):
+                st.info("Scrie toate cele 8 cote Betfair ca sa vezi biletele.")
+            else:
+                st16 = st.number_input("Miza pe bilet (£)", min_value=0.05, value=0.50, step=0.05, key="x16_stake")
+                import itertools as _it
+                tix = []
+                for combo in _it.product(*pairs):
+                    odds = math.prod(c[2] for c in combo)
+                    prob = math.prod(c[1] for c in combo)
+                    tix.append({"Bilet": " | ".join(c[0] for c in combo), "Cota": round(odds, 2),
+                                "Castig £": round(odds * st16, 2), "Sansa %": round(100 * prob, 2)})
+                tix.sort(key=lambda t: t["Cota"])
+                tot = 16 * st16
+                p_any = math.prod(pr[0][1] + pr[1][1] for pr in pairs)
+                ev = sum(t["Castig £"] * t["Sansa %"] / 100 for t in tix)
+                m1, m2, m3, m4 = st.columns(4)
+                m1.metric("Pui in total", f"£{tot:.2f}", f"16 x £{st16:.2f}")
+                m2.metric("Sansa sa iasa un bilet", f"{p_any:.1%}")
+                m3.metric("Castig minim / maxim", f"£{tix[0]['Castig £']:.0f} / £{tix[-1]['Castig £']:.0f}")
+                m4.metric("Castig mediu pe termen lung", f"£{ev - tot:+.2f}")
+                st.dataframe(pd.DataFrame(tix), hide_index=True, width="stretch", height=600)
+                st.caption("Biletul cu cota cea mai mica e cel mai probabil. Daca si cel mai mic castig e sub "
+                           f"£{tot:.2f}, chiar si cand iese un bilet poti fi pe minus.")
+
 
 # ---------------------------------------------------------------- LOTTO NEW YORK
 with tab_lotto:
