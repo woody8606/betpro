@@ -12,6 +12,25 @@ from . import picks
 
 MAXG = 10
 
+# doar ligile mari alese de Urs (25 nov)
+TOP_LEAGUES = {
+    "world - uefa champions league", "world - uefa europa league", "world - uefa europa conference league",
+    "world - uefa conference league", "world - uefa nations league", "world - world cup",
+    "world - world cup - qualification europe", "world - euro championship", "world - euro championship - qualification",
+        "england - premier league", "spain - la liga", "france - ligue 1", "italy - serie a", "germany - bundesliga",
+    "austria - bundesliga", "romania - liga i", "scotland - premiership", "portugal - primeira liga",
+    "denmark - superliga", "norway - eliteserien", "poland - ekstraklasa", "turkey - super lig",
+}
+
+
+def _norm(x):
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", x.lower()) if not unicodedata.combining(c)).strip()
+
+
+def is_top(m):
+    return _norm(m["league"]) in TOP_LEAGUES
+
 # grupele exact ca pe Betfair
 GROUPS = [
     ("H_10", "Gazdele 1-0, 2-0 sau 3-0", lambda h, a: a == 0 and 1 <= h <= 3),
@@ -83,7 +102,7 @@ def candidates(matches):
     """Pentru fiecare meci din ligi cunoscute: toate grupele cu sansa si cota corecta, cea mai probabila prima."""
     rows = []
     for m in matches:
-        if not picks.is_known(m):
+        if not is_top(m):
             continue
         lams = fit_lams(m)
         if not lams:

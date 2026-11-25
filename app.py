@@ -623,13 +623,14 @@ def scor_candidates(updated, fids):
 
 with tab_scor:
     st.subheader("🎯 Yankee pe scoruri combinate")
-    st.caption("Piata Betfair 'Correct Score Combinations' (ex. 'gazdele 2-1, 3-1 sau 4-1'). Doar ligi cunoscute, fara tineret si "
-               "femei, doar meciuri care n-au inceput. Botul calculeaza sansa fiecarei grupe si cota corecta; tu scrii cota Betfair.")
+    st.caption("Piata Betfair 'Correct Score Combinations' (ex. 'gazdele 2-1, 3-1 sau 4-1'). Doar ligile mari: cupele europene, Premier League, "
+               "La Liga, Serie A, Bundesliga (DE si AT), Ligue 1, Liga 1, Scotia, Portugalia, Danemarca, Norvegia, Polonia, Turcia, "
+               "nationale (Euro, Mondial, Nations League). Doar meciuri care n-au inceput. Botul calculeaza sansa fiecarei grupe si cota corecta; tu scrii cota Betfair.")
     st.warning("Atentie: la piata asta Betfair pune marja mare (~20%, fata de ~5% la 1X2). Joaca o grupa doar cand cota Betfair "
                "e PESTE cota corecta (verde). Yankee = 11 pariuri: 6 duble, 4 triple, 1 de 4. Cu 1 sau 0 iesite pierzi tot.")
     sc = scor_candidates(data["updated"], tuple(m["fid"] for m in matches))
     if not sc:
-        st.info("Azi nu mai sunt meciuri din ligi cunoscute care n-au inceput.")
+        st.info("Azi nu mai sunt meciuri din ligile mari care n-au inceput.")
     else:
         st.dataframe(pd.DataFrame([{"Ora": r["kickoff"], "Meci": r["name"], "Liga": r["league"],
                                     "Cea mai probabila": r["groups"][0][1], "Sansa %": round(100 * r["groups"][0][2]),
