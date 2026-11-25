@@ -11,7 +11,7 @@ import streamlit as st
 
 import requests
 
-from betpro import live, picks
+from betpro import live, picks, scoruri
 from betpro.model import label
 
 ROOT = Path(__file__).resolve().parent
@@ -75,7 +75,7 @@ matches = [m for m in all_matches if not _began(m)]   # Azi / Biletul meu: doar 
 st.caption(f"{data['date']} · actualizat la {data['updated']} · {len(matches)} meciuri din {data['leagues']} ligi · "
            "cote Betfair · nicio selectie nu e sigura")
 
-tab_azi, tab_live, tab_bilet, tab_jurnal, tab_lotto = st.tabs(["📋 Azi", "🔴 LIVE", "🎟️ Biletul meu", "📒 Jurnal", "🎱 Lotto"])
+tab_azi, tab_live, tab_bilet, tab_scor, tab_jurnal, tab_lotto = st.tabs(["📋 Azi", "🔴 LIVE", "🎟️ Biletul meu", "🎯 Scoruri Yankee", "📒 Jurnal", "🎱 Lotto"])
 
 # ---------------------------------------------------------------- AZI
 with tab_azi:
@@ -611,6 +611,64 @@ with tab_jurnal:
             "data": "Data", "sursa": "Cine", "bilet": "Bilet", "meciuri": "Meciuri", "cota": "Cota", "miza": "Miza £",
             "rezultat": "Rezultat", "incasat": "Incasat £", "ar_fi_platit": "Ar fi platit £", "nota": "Nota"}),
             hide_index=True, width="stretch")
+
+
+# ---------------------------------------------------------------- YANKEE PE SCORURI COMBINATE
+@st.cache_data(ttl=600, show_spinner="Calculez scorurile...")
+def scor_candidates(updated, fids):
+    ms = [m for m in matches if m["fid"] in set(fids)]
+    return [dict(fid=r["match"]["fid"], kickoff=r["match"]["kickoff"], name=r["match"]["name"], league=r["match"]["league"],
+                 lams=r["lams"], groups=r["groups"]) for r in scoruri.candidates(ms)]
+
+
+with tab_scor:
+    st.subheader("🎯 Yankee pe scoruri combinate")
+    st.caption("Piata Betfair 'Correct Score Combinations' (ex. 'gazdele 2-1, 3-1 sau 4-1'). Doar ligi cunoscute, fara tineret si "
+               "femei, doar meciuri care n-au inceput. Botul calculeaza sansa fiecarei grupe si cota corecta; tu scrii cota Betfair.")
+    st.warning("Atentie: la piata asta Betfair pune marja mare (~20%, fata de ~5% la 1X2). Joaca o grupa doar cand cota Betfair "
+               "e PESTE cota corecta (verde). Yankee = 11 pariuri: 6 duble, 4 triple, 1 de 4. Cu 1 sau 0 iesite pierzi tot.")
+    sc = scor_candidates(data["updated"], tuple(m["fid"] for m in matches))
+    if not sc:
+        st.info("Azi nu mai sunt meciuri din ligi cunoscute care n-au inceput.")
+    else:
+        st.dataframe(pd.DataFrame([{"Ora": r["kickoff"], "Meci": r["name"], "Liga": r["league"],
+                                    "Cea mai probabila": r["groups"][0][1], "Sansa %": round(100 * r["groups"][0][2]),
+                                    "Cota corecta": round(1 / r["groups"][0][2], 2),
+                                    "A doua": f"{r['groups'][1][1]} ({1 / r['groups'][1][2]:.2f})"} for r in sc[:15]]),
+                     hide_index=True, width="stretch", height=420)
+        names = {f"{r['kickoff']} {r['name']}": r for r in sc}
+        chosen = st.multiselect("Alege 4 meciuri pentru Yankee", list(names), default=list(names)[:4], max_selections=4,
+                                key="scor_sel")
+        sel = []
+        for nm in chosen:
+            r = names[nm]
+            c1, c2, c3 = st.columns([3, 1, 1])
+            opts = [f"{lbl} · cota corecta {1 / p:.2f}" for _, lbl, p in r["groups"]]
+            gi = c1.selectbox(nm, range(len(opts)), format_func=lambda i, o=opts: o[i], key=f"scor_g_{r['fid']}")
+            p = r["groups"][gi][2]
+            o = c2.number_input("Cota Betfair", min_value=0.0, value=0.0, step=0.25, key=f"scor_o_{r['fid']}")
+            if o > 1:
+                ok = p * o >= 1
+                c3.markdown(f"{'🟢' if ok else '🔴'} **{p * o - 1:+.0%}**<br><small>avantaj</small>", unsafe_allow_html=True)
+            sel.append((p, o))
+        if len(sel) == 4:
+            if any(o <= 1 for _, o in sel):
+                st.info("Scrie cotele Betfair la toate 4 ca sa vezi cat poti castiga.")
+            else:
+                stake = st.number_input("Miza pe linie (£)", min_value=0.05, value=0.25, step=0.05, key="scor_stake")
+                y = scoruri.yankee(sel)
+                tot = y["lines"] * stake
+                m1, m2, m3 = st.columns(3)
+                m1.metric("Pui in total", f"£{tot:.2f}", f"11 x £{stake:.2f}")
+                m2.metric("Sansa sa iesi pe plus", f"{y['p_profit']:.0%}")
+                m3.metric("Castig mediu pe termen lung", f"£{(y['ev'] - y['lines']) * stake:+.2f}")
+                st.dataframe(pd.DataFrame([{"Cate ies": k, "Sansa %": round(100 * v[0], 1), "Primesti £": round(v[1] * stake, 2),
+                                            "Profit £": round(v[1] * stake - tot, 2)} for k, v in sorted(y["by_wins"].items())]),
+                             hide_index=True, width="stretch")
+                if y["ev"] < y["lines"]:
+                    st.caption("🔴 Cu cotele astea, pe termen lung pierzi (cotele sunt sub cele corecte). Joaca doar de distractie.")
+                else:
+                    st.caption("🟢 Cotele sunt peste cele corecte: pe termen lung ar trebui sa iasa pe plus. Tot mize mici!")
 
 
 # ---------------------------------------------------------------- LOTTO NEW YORK
