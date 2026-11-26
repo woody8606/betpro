@@ -1,100 +1,100 @@
 {
- "updated": "2026-11-22",
- "last_draw": "2026-11-21",
+ "updated": "2026-11-26",
+ "last_draw": "2026-11-25",
  "last_nums": [
-  19,
+  22,
+  26,
   29,
-  44,
-  48,
-  49,
-  59
+  30,
+  55,
+  57
  ],
- "last_bonus": 47,
+ "last_bonus": 25,
  "next": {
   "calde": [
    56,
-   6,
    53,
+   6,
    28
   ],
   "reci": [
-   39,
-   5,
+   33,
    20,
-   25
+   39,
+   5
   ],
   "intarziate": [
    43,
    10,
-   16,
-   37
+   37,
+   16
   ],
   "mixt": [
    56,
-   6,
-   39,
-   5
+   53,
+   33,
+   20
   ],
   "la intamplare": [
-   6,
-   39,
-   42,
-   36
+   55,
+   46,
+   11,
+   45
   ]
  },
  "backtest": {
   "calde": {
-   "extrageri": 1240,
-   "pus": 2480.0,
+   "extrageri": 1241,
+   "pus": 2482.0,
    "primit": 1809.0,
-   "profit": -671.0,
+   "profit": -673.0,
    "rtp": 72.9,
    "h2": 14.0,
    "h3": 0.93,
    "h4": 0.1
   },
   "reci": {
-   "extrageri": 1240,
-   "pus": 2480.0,
+   "extrageri": 1241,
+   "pus": 2482.0,
    "primit": 4001.0,
-   "profit": 1521.0,
-   "rtp": 161.3,
+   "profit": 1519.0,
+   "rtp": 161.2,
    "h2": 18.3,
    "h3": 2.53,
    "h4": 0.367
   },
   "intarziate": {
-   "extrageri": 1240,
-   "pus": 2480.0,
+   "extrageri": 1241,
+   "pus": 2482.0,
    "primit": 2457.0,
-   "profit": -23.0,
-   "rtp": 99.1,
+   "profit": -25.0,
+   "rtp": 99.0,
    "h2": 18.3,
    "h3": 3.37,
    "h4": 0.0
   },
   "mixt": {
-   "extrageri": 1240,
-   "pus": 2480.0,
+   "extrageri": 1241,
+   "pus": 2482.0,
    "primit": 1204.0,
-   "profit": -1276.0,
+   "profit": -1278.0,
    "rtp": 48.5,
    "h2": 14.0,
    "h3": 0.63,
    "h4": 0.0
   },
   "la intamplare": {
-   "extrageri": 1240,
-   "pus": 2480.0,
+   "extrageri": 1241,
+   "pus": 2482.0,
    "primit": 2174.0,
-   "profit": -306.0,
-   "rtp": 87.7,
+   "profit": -308.0,
+   "rtp": 87.6,
    "h2": 14.7,
    "h3": 1.37,
    "h4": 0.133
   }
  },
  "test_from": "2015-01-03",
- "test_to": "2026-11-21",
- "draws": 2629
+ "test_to": "2026-11-25",
+ "draws": 2630
 }
