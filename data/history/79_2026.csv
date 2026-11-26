@@ -104,3 +104,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1576236,1795262400,166,178,Hannover 96,SpVgg Greuther Fürth,2,1,0,1,0.77,1.17
 1576239,1795262400,171,744,1. FC Nürnberg,Eintracht Braunschweig,1,2,1,0,2.09,2.06
 1576240,1795289400,186,176,FC St. Pauli,VfL Bochum,2,0,1,0,2.53,1.21
+1576237,1795350600,745,183,1. FC Kaiserslautern,Dynamo Dresden,2,2,1,2,2.42,1.19
+1576238,1795350600,785,1324,Karlsruher SC,VfL Osnabrück,0,0,0,0,2.1,0.87
+1576234,1795350600,1320,159,Energie Cottbus,Hertha BSC,0,4,0,1,1.06,2.4

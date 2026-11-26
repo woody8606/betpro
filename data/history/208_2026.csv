@@ -64,3 +64,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1555077,1793992500,2177,2179,FC Aarau,FC WIL 1900,0,3,0,1
 1555080,1794070800,2180,6654,FC Winterthur,Étoile Carouge,2,2,2,1
 1555081,1794151800,6653,1015,Yverdon Sport,Neuchatel Xamax FC,0,0,0,0
+1555085,1795199400,1015,6654,Neuchatel Xamax FC,Étoile Carouge,1,0,0,0
+1555083,1795199400,2185,2177,Rapperswil,FC Aarau,2,1,1,0
+1555082,1795199400,4269,2186,Stade Lausanne-Ouchy,SC Kriens,3,1,1,1
+1555084,1795199400,6646,2179,Stade Nyonnais,FC WIL 1900,0,1,0,0
+1555086,1795202100,6653,2180,Yverdon Sport,FC Winterthur,2,0,1,0

@@ -23,3 +23,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1593702,1794110400,15550,947,Macarthur,Brisbane Roar,1,2,0,0
 1593703,1794117600,948,944,Adelaide United,Melbourne Victory,2,2,1,0
 1593704,1795164000,939,948,Western Sydney Wanderers,Adelaide United,4,2,0,1
+1593705,1795233600,24608,944,Auckland,Melbourne Victory,1,1,0,1
+1593706,1795240800,941,940,Central Coast Mariners,Perth Glory,0,0,0,0
+1593707,1795250400,947,943,Brisbane Roar,Sydney,0,0,0,0
+1593708,1795312800,942,15550,Wellington Phoenix,Macarthur,1,2,0,2

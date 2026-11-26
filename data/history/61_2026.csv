@@ -95,3 +95,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1552823,1795290300,91,108,Monaco,Auxerre,1,1,0,1,2.44,0.3
 1552826,1795290300,95,106,Strasbourg,Stade Brestois 29,0,1,0,1,1.95,1.48
 1552819,1795290300,116,96,Lens,Toulouse,1,1,0,1,2.4,0.84
+1552825,1795356000,114,77,Paris FC,Angers,4,0,0,0,3.54,0.4
+1552821,1795364100,97,94,Lorient,Rennes,1,1,1,1,1.49,1.27
+1552822,1795376700,81,1298,Marseille,Le Mans,2,3,2,0,1.49,4.07

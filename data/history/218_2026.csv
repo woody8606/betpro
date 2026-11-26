@@ -74,3 +74,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1561969,1795276800,1026,1072,Lask Linz,TSV Hartberg,2,1,2,1,2.26,0.86
 1561970,1795276800,1398,1399,WSG Wattens,Austria Lustenau,0,1,0,1,0.7,0.61
 1561968,1795285800,4256,781,Grazer AK,Rapid Vienna,0,3,0,1,0.69,3.54
+1561966,1795354200,618,637,SCR Altach,Sturm Graz,1,0,0,0,2.23,1.21
+1561971,1795354200,1025,1028,Wolfsberger AC,Ried,1,2,0,0,1.03,2.39
+1561967,1795363200,601,571,Austria Vienna,Red Bull Salzburg,1,0,0,0,0.76,1.21
