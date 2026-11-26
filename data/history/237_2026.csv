@@ -121,3 +121,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1646176,1793896200,6834,2014,Volga Ulyanovsk,Chertanovo Moscow,5,1,1.0,1.0
 1563676,1795528800,6786,555,Akron,CSKA Moscow,0,1,0.0,0.0
 1563682,1795537800,596,1079,Zenit,Krylia Sovetov,1,0,1.0,0.0
+1563675,1795618800,1085,621,Akhmat,FC Krasnodar,0,3,0.0,1.0
+1563677,1795618800,6813,2006,Dinamo Makhachkala,Baltika,3,0,1.0,0.0
+1563679,1795627800,597,779,Lokomotiv,FC Rostov,0,2,0.0,2.0
+1563681,1795627800,1083,6822,Rubin,Rodina Moskva,1,1,0.0,1.0
