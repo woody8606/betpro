@@ -1,0 +1,128 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1452503,1754746200,24533,22022,Dundee North End,Culter,2,2,1,2
+1419535,1756490400,26224,19794,St Cadoc's,Pollok,0,1,0,1
+1419522,1756558800,19795,15601,Rutherglen Glencairn,Newtongrange Star,2,4,2,0
+1419528,1756560600,6736,7440,Dundonald Bluebell,Edinburgh University,3,2,1,0
+1419521,1756560600,6743,6749,Jeanfield Swifts,Preston Athletic,1,1,0,1
+1419523,1756560600,6752,22020,Tynecastle,Carluke Rovers,0,3,0,0
+1452504,1756560600,24533,6753,Dundee North End,Whitehill Welfare,1,0,1,0
+1419533,1756562400,6728,15599,Auchinleck Talbot,Haddington Athletic,4,0,2,0
+1419532,1756562400,6730,17770,Blackburn United,Darvel,1,3,1,1
+1419526,1756562400,6739,6747,Glasgow University,Newton Stewart,3,1,0,0
+1419518,1756562400,6740,6734,Golspie Sutherland,Coldstream,0,3,0,2
+1419524,1756562400,6741,6751,Hawick Royal Albert,Threave Rovers,1,4,1,2
+1419515,1756562400,6742,19796,Hill Of Beath Hawthorn,St Andrews United,4,2,2,1
+1419520,1756562400,6748,19793,Penicuik Athletic,Kilwinning Rangers,2,4,1,0
+1419530,1756562400,6750,6732,St. Cuthbert Wanderers,Burntisland Shipyard,0,2,0,0
+1419517,1756562400,7453,15600,Vale of Leithen,Musselburgh Athletic,1,6,0,3
+1419527,1756562400,17771,17768,Dunbar United,Cumnock Juniors,2,4,1,0
+1419514,1756562400,17773,6746,Sauchie Juniors,Lothian Hutchison,2,0,1,0
+1419534,1756562400,19788,6737,Benburb,Easthouses Lily,2,0,0,0
+1419529,1756562400,19789,6738,Bonnyton Thistle,Girvan,1,1,1,1
+1452505,1756562400,19792,15598,Invergordon,Dunipace,1,1,0,1
+1419519,1756562400,19798,7437,Tayport,Dalbeattie Star,4,1,1,1
+1419525,1756562400,22024,17769,Glenafton Athletic,Dalkeith Thistle,3,0,3,0
+1419536,1756562400,26225,6745,Tweedmouth,Lochee United,1,3,0,0
+1419516,1756579500,21531,22021,Bo'ness Athletic,Creetown,7,0,3,0
+1419531,1757167200,6754,6733,Wigtown & Bladnoch,Camelon Juniors,0,10,0,4
+1467619,1758912300,6728,17768,Auchinleck Talbot,Cumnock Juniors,2,1,1,0
+1467640,1758912300,7436,6739,Cumbernauld Colts,Glasgow University,4,0,2,0
+1467633,1758978000,15597,6729,Bo'ness United,Banks O' Dee,0,3,0,1
+1467648,1758979800,26605,6751, Johnstone Burgh,Threave Rovers,4,0,1,0
+1467638,1758981600,4667,19788,Cowdenbeath,Benburb,1,2,0,1
+1467627,1758981600,6733,6756,Camelon Juniors,Albion Rovers,2,1,1,1
+1467630,1758981600,6734,19798,Coldstream,Tayport,2,3,1,2
+1467636,1758981600,6743,17025,Jeanfield Swifts,Clydebank,0,4,0,1
+1467632,1758981600,6744,7443,Linlithgow Rose,Gala Fairydean Rovers,2,1,1,0
+1467629,1758981600,6745,1390,Lochee United,Brechin,1,3,0,2
+1467641,1758981600,6759,7448,Berwick Rangers,Nairn County,0,2,0,1
+1467643,1758981600,6760,6769,Brora Rangers,Fraserburgh,0,1,0,1
+1467631,1758981600,7431,6731,Bonnyrigg Rose Athletic,Broxburn Athletic,2,1,1,0
+1467626,1758981600,7434,6736,Civil Service Strollers,Dundonald Bluebell,2,2,0,1
+1467637,1758981600,7435,19793,Clachnacuddin,Kilwinning Rangers,2,1,0,0
+1467624,1758981600,7441,7433,Forres Mechanics,Caledonian Braves,0,2,0,0
+1467642,1758981600,7445,17773,Inverurie Loco Works,Sauchie Juniors,0,2,0,0
+1467639,1758981600,7447,6768,Lossiemouth,Formartine United,1,2,0,1
+1467634,1758981600,7451,24533,Strathspey Thistle,Dundee North End,1,2,0,1
+1467644,1758981600,7452,6742,Turriff United,Hill Of Beath Hawthorn,2,1,2,0
+1467646,1758981600,7454,7449,Wick Academy,Rothes,5,0,4,0
+1467625,1758981600,7521,7432,Huntly,Buckie Thistle,1,3,0,1
+1467628,1758981600,15600,19789,Musselburgh Athletic,Bonnyton Thistle,2,0,0,0
+1467622,1758981600,15601,7439,Newtongrange Star,East Stirlingshire,1,3,0,1
+1467620,1758981600,15602,19794,Tranent Juniors,Pollok,3,0,2,0
+1467635,1758981600,17770,7438,Darvel,Deveronvale,1,3,0,2
+1467645,1758981600,22020,7444,Carluke Rovers,Gretna 2008,0,4,0,0
+1467621,1758981600,22024,19792,Glenafton Athletic,Invergordon,3,2,3,0
+1467623,1758996000,21531,7446,Bo'ness Athletic,Keith,2,1,2,0
+1467647,1759171500,7450,6732,Stirling University,Burntisland Shipyard,6,2,2,2
+1477944,1761330600,21531,6744,Bo'ness Athletic,Linlithgow Rose,0,2,0,2
+1477953,1761331500,6768,7432,Formartine United,Buckie Thistle,0,2,0,1
+1477951,1761400800,1382,19798,Dumbarton,Tayport,2,0,1,0
+1477945,1761400800,1390,6736,Brechin,Dundonald Bluebell,3,1,0,0
+1477942,1761400800,6728,7444,Auchinleck Talbot,Gretna 2008,3,1,2,0
+1477943,1761400800,6729,6769,Banks O' Dee,Fraserburgh,4,0,4,0
+1478004,1761400800,6733,26605,Camelon Juniors, Johnstone Burgh,1,0,0,0
+1477948,1761400800,6762,6757,Clyde,Annan Athletic,2,3,0,2
+1478061,1761400800,6766,7450,Edinburgh City,Stirling University,1,0,1,0
+1477952,1761400800,6767,7438,Elgin City,Deveronvale,2,1,0,0
+1477956,1761400800,6781,6765,Spartans,East Kilbride,2,1,0,1
+1477957,1761400800,6785,22024,Stranraer,Glenafton Athletic,4,0,2,0
+1477946,1761400800,7433,4669,Caledonian Braves,Stirling Albion,3,3,1,1
+1477947,1761400800,7435,17773,Clachnacuddin,Sauchie Juniors,2,0,0,0
+1477950,1761400800,7436,7431,Cumbernauld Colts,Bonnyrigg Rose Athletic,0,2,0,1
+1477955,1761400800,7448,7452,Nairn County,Turriff United,1,2,0,2
+1477959,1761400800,7454,19788,Wick Academy,Benburb,0,0,0,0
+1477954,1761400800,15600,4250,Musselburgh Athletic,Forfar Athletic,1,2,1,0
+1477958,1761400800,15602,24533,Tranent Juniors,Dundee North End,3,0,1,0
+1477949,1761400800,17025,7439,Clydebank,East Stirlingshire,3,1,1,1
+1484094,1764359100,6744,6778,Linlithgow Rose,Queen's Park,1,3,1,1
+1484098,1764428400,258,6763,ST Johnstone,Cove Rangers,1,1,1,0
+1484088,1764428400,1382,6728,Dumbarton,Auchinleck Talbot,0,4,0,1
+1484096,1764428400,1385,1391,Raith Rovers,Alloa Athletic,1,0,1,0
+1484083,1764428400,1387,7452,Ayr Utd,Turriff United,3,0,2,0
+1484089,1764428400,1388,1384,Dunfermline,Queen of the South,2,1,2,1
+1484092,1764428400,4250,901,Forfar Athletic,Partick,0,2,0,1
+1484081,1764428400,4668,248,Airdrie United,Hamilton Academical,4,0,0,0
+1484084,1764428400,6729,902,Banks O' Dee,Ross County,0,2,0,1
+1484087,1764428400,6733,6766,Camelon Juniors,Edinburgh City,2,1,0,0
+1484082,1764428400,6757,7432,Annan Athletic,Buckie Thistle,4,0,1,0
+1484090,1764428400,6764,4249,East Fife,Arbroath,0,2,0,2
+1484091,1764428400,6767,4669,Elgin City,Stirling Albion,2,2,1,0
+1484093,1764428400,6773,1390,Kelty Hearts,Brechin,2,0,1,0
+1484095,1764428400,6777,1383,Peterhead,Morton,2,2,1,0
+1484097,1764428400,6784,7435,Stenhousemuir,Clachnacuddin,4,1,4,0
+1484099,1764428400,6785,17025,Stranraer,Clydebank,1,1,1,0
+1484086,1764428400,7431,6781,Bonnyrigg Rose Athletic,Spartans,1,2,1,2
+1484085,1764428400,19788,4251,Benburb,Montrose,0,3,0,2
+1484100,1765395900,15602,903,Tranent Juniors,Inverness CT,1,2,1,2
+1488593,1768592700,257,6757,Rangers,Annan Athletic,5,0,2,0
+1488586,1768653000,1388,249,Dunfermline,Hibernian,1,0,0,0
+1488589,1768662000,250,253,Kilmarnock,Dundee,1,2,1,0
+1488590,1768662000,255,251,Livingston,ST Mirren,1,1,1,1
+1488591,1768662000,256,902,Motherwell,Ross County,1,0,0,0
+1488592,1768662000,901,4251,Partick,Montrose,3,1,1,0
+1488584,1768662000,1386,1387,Dundee Utd,Ayr Utd,2,0,0,0
+1488582,1768662000,4668,4249,Airdrie United,Arbroath,2,2,1,0
+1488585,1768662000,6733,6767,Camelon Juniors,Elgin City,1,3,1,1
+1488588,1768662000,6773,6763,Kelty Hearts,Cove Rangers,1,1,0,1
+1491358,1768662000,6781,903,Spartans,Inverness CT,0,0,0,0
+1488594,1768662000,6784,1383,Stenhousemuir,Morton,4,0,2,0
+1488587,1768680000,254,1389,Heart Of Midlothian,Falkirk,1,1,0,0
+1488581,1768746600,252,1385,Aberdeen,Raith Rovers,1,0,1,0
+1488583,1768757400,6728,247,Auchinleck Talbot,Celtic,0,2,0,1
+1488595,1768938300,6785,6778,Stranraer,Queen's Park,1,1,0,1
+1509663,1770407100,4668,251,Airdrie United,ST Mirren,1,1,0,1
+1509666,1770476400,1388,6773,Dunfermline,Kelty Hearts,2,0,0,0
+1509667,1770476400,6767,901,Elgin City,Partick,2,3,1,2
+1509664,1770485400,247,253,Celtic,Dundee,1,1,0,0
+1515685,1770559200,257,6778,Rangers,Queen's Park,8,0,5,0
+1509668,1770579000,6784,1389,Stenhousemuir,Falkirk,0,0,0,0
+1509665,1771357500,1386,6781,Dundee Utd,Spartans,2,1,1,0
+1509662,1771443900,252,256,Aberdeen,Motherwell,2,0,1,0
+1524424,1772826300,1389,1386,Falkirk,Dundee Utd,2,1,2,1
+1525612,1772911800,1388,252,Dunfermline,Aberdeen,3,0,2,0
+1521024,1772974800,257,247,Rangers,Celtic,0,0,0,0
+1521025,1772998200,251,901,ST Mirren,Partick,2,1,2,0
+1530943,1776511800,1388,1389,Dunfermline,Falkirk,0,0,0,0
+1530942,1776603600,247,251,Celtic,ST Mirren,2,2,2,0
+1541860,1779544800,247,1388,Celtic,Dunfermline,3,1,2,0

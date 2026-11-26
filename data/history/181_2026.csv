@@ -1,0 +1,51 @@
+fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
+1639494,1790965800,17768,6728,Cumnock Juniors,Auchinleck Talbot,2,0,0.0,0.0
+1639512,1791028800,6751,19792,Threave Rovers,Invergordon,3,2,1.0,0.0
+1639489,1791036000,1390,7432,Brechin,Buckie Thistle,2,2,2.0,1.0
+1639493,1791036000,4667,6759,Cowdenbeath,Berwick Rangers,4,0,1.0,0.0
+1639500,1791036000,6742,6739,Hill Of Beath Hawthorn,Glasgow University,2,0,1.0,0.0
+1639501,1791036000,6744,17025,Linlithgow Rose,Clydebank,0,1,0.0,0.0
+1639502,1791036000,6745,7445,Lochee United,Inverurie Loco Works,3,2,1.0,0.0
+1639505,1791036000,6747,26605,Newton Stewart, Johnstone Burgh,1,3,,
+1639506,1791036000,6748,19793,Penicuik Athletic,Kilwinning Rangers,3,1,2.0,1.0
+1639490,1791036000,7433,6769,Caledonian Braves,Fraserburgh,4,0,1.0,0.0
+1639491,1791036000,7434,6768,Civil Service Strollers,Formartine United,0,2,0.0,1.0
+1639492,1791036000,7435,7431,Clachnacuddin,Bonnyrigg Rose Athletic,2,0,0.0,0.0
+1639495,1791036000,7438,27926,Deveronvale,Troon FC,2,3,0.0,2.0
+1639497,1791036000,7441,7450,Forres Mechanics,Stirling University,0,1,0.0,1.0
+1639498,1791036000,7443,27924,Gala Fairydean Rovers,Largs Thistle,0,1,0.0,1.0
+1639514,1791036000,7446,28422,Keith,Stonehaven,2,1,1.0,1.0
+1639504,1791036000,7448,7444,Nairn County,Gretna 2008,0,1,0.0,1.0
+1639509,1791036000,7449,6760,Rothes,Brora Rangers,0,9,0.0,1.0
+1639510,1791036000,7451,7437,Strathspey Thistle,Dalbeattie Star,3,2,2.0,1.0
+1639487,1791036000,15597,17772,Bo'ness United,Irvine Meadow,2,2,2.0,0.0
+1639496,1791036000,15598,6749,Dunipace,Preston Athletic,5,2,3.0,1.0
+1639499,1791036000,15599,7436,Haddington Athletic,Cumbernauld Colts,0,2,0.0,0.0
+1639503,1791036000,15600,7447,Musselburgh Athletic,Lossiemouth,2,1,2.0,1.0
+1639513,1791036000,15602,7452,Tranent Juniors,Turriff United,1,1,0.0,0.0
+1639488,1791036000,19789,7439,Bonnyton Thistle,East Stirlingshire,2,0,1.0,0.0
+1639507,1791036000,19794,6756,Pollok,Albion Rovers,4,1,2.0,0.0
+1639511,1791036000,19798,7454,Tayport,Wick Academy,3,0,2.0,0.0
+1639486,1791036000,21900,7521,Beith,Huntly,0,3,0.0,0.0
+1639508,1791036000,27925,6731,Renfrew,Broxburn Athletic,3,2,1.0,1.0
+1639515,1791036000,28421,6729,Kirkintilloch Rob Roy,Banks O' Dee,1,1,0.0,1.0
+1644186,1792850400,1382,7446,Dumbarton,Keith,1,0,0.0,0.0
+1644182,1792850400,1390,7451,Brechin,Strathspey Thistle,2,2,1.0,2.0
+1644193,1792850400,6745,6781,Lochee United,Spartans,1,2,1.0,2.0
+1644183,1792850400,6760,4667,Brora Rangers,Cowdenbeath,1,1,0.0,0.0
+1644187,1792850400,6766,6773,Edinburgh City,Kelty Hearts,4,1,2.0,0.0
+1644197,1792850400,6785,19798,Stranraer,Tayport,3,1,0.0,1.0
+1644188,1792850400,7444,17768,Gretna 2008,Cumnock Juniors,0,3,0.0,2.0
+1644196,1792850400,7450,6767,Stirling University,Elgin City,1,2,0.0,1.0
+1644190,1792850400,7521,6757,Huntly,Annan Athletic,2,2,0.0,1.0
+1644180,1792850400,15597,4250,Bo'ness United,Forfar Athletic,2,1,0.0,1.0
+1644192,1792850400,15598,27924,Dunipace,Largs Thistle,1,5,0.0,2.0
+1644184,1792850400,17025,15602,Clydebank,Tranent Juniors,2,1,1.0,0.0
+1644181,1792850400,19789,7435,Bonnyton Thistle,Clachnacuddin,0,3,0.0,1.0
+1644195,1792850400,27925,4669,Renfrew,Stirling Albion,2,1,1.0,0.0
+1644199,1792850400,27926,7433,Troon FC,Caledonian Braves,3,3,1.0,2.0
+1644194,1793130300,6748,6762,Penicuik Athletic,Clyde,1,1,0.0,1.0
+1644189,1793458800,6742,15600,Hill Of Beath Hawthorn,Musselburgh Athletic,1,3,0.0,2.0
+1644198,1793458800,6751,19794,Threave Rovers,Pollok,6,1,2.0,0.0
+1644185,1793458800,7436,6729,Cumbernauld Colts,Banks O' Dee,3,1,1.0,1.0
+1644191,1793458800,26605,6768, Johnstone Burgh,Formartine United,1,0,0.0,0.0
