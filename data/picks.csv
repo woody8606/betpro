@@ -1032,3 +1032,4 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-27,13:00,1555213,Israel - Liga Leumit,Hapoel Kfar Shalem - Hapoel Kfar Saba,top,O35,0.5038,0.5649,0.463,2.1,Betfair,3.0,0.0579,,,,
 2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,top,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,,,,
 2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,value,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,,,,
+2026-11-26,21:00,1610594,Chile - Segunda División,Colina - General Velásquez,bomba scor,CS_1_1,0.1276,0.1276,,8.0,Betfair,3.0,,,,,
