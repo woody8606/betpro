@@ -1024,3 +1024,5 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-26,12:30,1594913,Egypt - Second League,AL Nasr SC - Tersana,bomba scor,CS_0_0,0.1853,0.1853,,6.0,Betfair,3.0,,,,,
 2026-11-26,12:30,1594916,Egypt - Second League,El Entag EL Harby - Kahraba Ismailia,bomba scor,CS_1_0,0.1609,0.1609,,7.5,Betfair,3.0,,,,,
 2026-11-26,22:00,1651515,Nicaragua - Primera Division,Jalapa - San Marcos,bomba scor,CS_1_0,0.1448,0.1448,,7.5,Betfair,3.0,,,,,
+2026-11-26,17:45,1636393,World - UEFA Europa Conference League,Brann - Aarhus,value,1,0.5073,0.5693,0.4659,2.05,Betfair,3.0,0.0399,,,,
+2026-11-26,21:00,1610594,Chile - Segunda División,Colina - General Velásquez,bomba scor,CS_0_1,0.0923,0.0923,,12.0,Betfair,3.0,,,,,
