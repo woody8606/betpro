@@ -30,3 +30,17 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1620413,1793538000,28162,28161,Kifissos,Katsantonis Agrafon,3,1,3,0
 1620415,1793538000,28163,20048,Tamynaikos Aliveriou,Asteras Stavros,1,3,0,1
 1620418,1794128400,28161,28160,Katsantonis Agrafon,Diagoras Agias,1,3,0,2
+1620419,1794142800,6312,26585,Nea Artaki,A. Schimatari,1,0,1,0
+1620417,1794142800,13912,26589,Fokikos,Karystos,0,1,0,0
+1620416,1794142800,20048,956,Asteras Stavros,Lamia,1,4,0,2
+1620420,1794142800,24880,28163,Thiva,Tamynaikos Aliveriou,0,0,0,0
+1620422,1794736800,26589,28161,Karystos,Katsantonis Agrafon,2,0,1,0
+1620424,1794747600,956,24880,Lamia,Thiva,0,0,0,0
+1620425,1794747600,6312,13912,Nea Artaki,Fokikos,4,0,2,0
+1620421,1794747600,26585,20048,A. Schimatari,Asteras Stavros,4,2,4,0
+1620423,1794747600,28162,28163,Kifissos,Tamynaikos Aliveriou,1,2,1,1
+1620430,1795266000,24880,26585,Thiva,A. Schimatari,0,1,0,0
+1620429,1795343400,28163,28160,Tamynaikos Aliveriou,Diagoras Agias,0,0,0,0
+1620427,1795352400,13912,28161,Fokikos,Katsantonis Agrafon,4,0,3,0
+1620426,1795352400,20048,6312,Asteras Stavros,Nea Artaki,0,1,0,0
+1620428,1795352400,28162,956,Kifissos,Lamia,1,2,0,1
