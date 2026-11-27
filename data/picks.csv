@@ -1061,3 +1061,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-27,15:30,1648530,Burkina-Faso - Ligue 1,USFA - CFFEB,bomba scor,CS_0_0,0.2548,0.2548,,5.5,Betfair,3.0,,,,,
 2026-11-27,16:30,1643383,Jordan - League,Al Wihdat - Doqarah,bomba scor,CS_1_0,0.1774,0.1774,,6.0,Betfair,3.0,,,,,
 2026-11-27,08:30,1635018,Vietnam - V.League 2,Bóng đá Huế - Long An,bomba scor,CS_1_0,0.1487,0.1487,,7.5,Betfair,3.0,,,,,
+2026-11-27,17:00,1603613,Cyprus - 1. Division,AEK Larnaca - Apollon Limassol,top,H15,0.4253,0.4867,0.3844,2.38,Betfair,3.0,0.0123,,,,
+2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,top,1,0.4511,0.523,0.4032,2.3,Betfair,3.0,0.0375,,,,
+2026-11-27,19:45,1580808,Wales - FAW Championship,Caerphilly Athletic - Baglan Dragons,bomba scor,CS_1_0,0.1486,0.1486,,7.5,Betfair,3.0,,,,,
+2026-11-27,16:00,1631828,Mexico - Liga Premier Serie A,Correcaminos UAT II - FC Santiago,bomba scor,CS_1_0,0.124,0.124,,12.0,Betfair,3.0,,,,,
