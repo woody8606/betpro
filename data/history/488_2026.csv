@@ -319,7 +319,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1595729,1794661200,13962,14028,Fortuna Köln U19,Darmstadt 98 U19,3,2,1,0
 1595823,1795253400,13954,10256,Nürnberg U19,Greuther Fürth U19,1,3,1,2
 1595811,1795254300,10252,24539,Eintracht Frankf U19,Erzgebirge Aue U19,6,1,1,0
-1595809,1795255200,10253,13961,Energie Cottbus U19,Eintracht Braunsch U19,1,2,0,1
+1595809,1795255200,10253,13961,Energie Cottbus U19,Eintracht Braunsch U19,1,2,1,0
 1595810,1795255200,10254,10266,Fortuna Düsseldorf U19,MSV Duisburg U19,1,2,0,1
 1595820,1795255200,10267,10260,Magdeburg U19,Holstein Kiel U19,2,1,1,0
 1595832,1795255200,13955,7967,Osnabrück U19,Schalke 04 U19,0,1,0,1
@@ -344,3 +344,4 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1595808,1795341600,10250,13951,Chemnitzer FC U19,Carl Zeiss Jena U19,1,2,0,1
 1595806,1795341600,19441,10277,BAK 07 U19,Werder Bremen U19,0,3,0,0
 1595815,1795348800,10257,15741,Hamburger SV U19,Hansa Rostock U19,6,3,3,0
+1595732,1795622400,10270,10258,Preußen Münster U19,Hannover 96 U19,3,3,1,2

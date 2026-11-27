@@ -87,3 +87,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1551602,1795271400,3549,656,Ružomberok,Slovan Bratislava,0,1,0,1,-1.0,-1.0
 1551604,1795271400,3554,10533,Žilina,Dukla Banská Bystrica,2,0,0,0,-1.0,-1.0
 1551601,1795280400,3552,1120,Zemplín Michalovce,Spartak Trnava,0,1,0,0,-1.0,-1.0
+1551600,1795357800,10534,10542,FK Košice,Skalica,1,1,1,0,2.76,1.6
+1551599,1795366800,2257,10535,Dunajska Streda,Komárno,3,0,2,0,4.59,1.39

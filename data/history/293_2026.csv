@@ -259,3 +259,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1510500,1795237200,2765,2751,Suwon Bluewings,Gyeongnam FC,3,1,1,0
 1510502,1795246200,2757,9171,Seongnam FC,Yongin City,5,0,1,0
 1510501,1795246200,7078,2756,Gimpo Citizen,Suwon City FC,0,1,0,1
+1510503,1795323600,2747,7076,Daegu FC,Gimhae City,3,0,1,0
+1510504,1795323600,2760,2758,Jeonnam Dragons,Ansan Greeners,1,2,1,0
+1510506,1795332600,2749,2753,Seoul E-Land FC,Asan Mugunghwa,1,1,0,0
+1510505,1795332600,7098,7060,Paju Citizen,Cheonan City,1,2,0,0

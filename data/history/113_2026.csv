@@ -230,3 +230,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1494340,1795352400,367,372,BK Hacken,IF Elfsborg,2,1,1,1,0.9,0.99
 1494344,1795352400,370,364,Sirius,Djurgardens IF,1,0,1,0,1.89,1.87
 1494338,1795361400,371,766,IF Brommapojkarna,Halmstad,0,3,0,3,1.2,1.67
+1494341,1795456800,363,366,Hammarby FF,IFK Goteborg,3,1,1,0,1.97,0.85
+1494343,1795456800,2166,374,Orgryte IS,Kalmar FF,3,2,2,1,1.13,1.89

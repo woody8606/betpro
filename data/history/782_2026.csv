@@ -155,7 +155,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1604166,1795174200,27306,9132,Rakow II,Górnik Polkowice,0,2,0.0,0.0
 1568571,1795258800,12815,17401,Miedź Legnica II,Carina Gubin,2,1,1.0,0.0
 1568568,1795258800,22910,6963,Sparta Katowice,Zagłębie Lubin II,2,0,1.0,0.0
-1568573,1795262400,12901,6960,Ślęza Wrocław,Stilon Gorzów,2,1,1.0,0.0
+1568573,1795262400,12901,6960,Ślęza Wrocław,Stilon Gorzów,2,1,0.0,1.0
 1568569,1795262400,16259,6956,Goczałkowice Zdrój,Stal Brzeg,1,1,1.0,1.0
 1568572,1795273200,14145,21455,Polonia Nysa,Odra Bytom Odrzański,1,1,0.0,1.0
 1568576,1795276800,342,17402,Zaglebie Sosnowiec,Karkonosze Jelenia Góra,2,1,0.0,0.0

@@ -116,3 +116,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1561443,1795263300,6786,1993,Akron,Fakel,0,2,0,2,1.06,0.85
 1561450,1795271400,1083,596,Rubin,Zenit,3,1,2,0,1.73,1.0
 1561444,1795279500,555,1085,CSKA Moscow,Akhmat,1,2,0,0,1.36,1.77
+1561446,1795345200,1088,621,Dynamo,FC Krasnodar,1,1,1,1,0.31,1.7
+1561445,1795354200,6813,558,Dinamo Makhachkala,Spartak Moscow,1,1,0,1,2.66,0.35
+1561449,1795363200,6822,597,Rodina Moskva,Lokomotiv,0,1,0,1,1.78,0.58
