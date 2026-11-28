@@ -117,5 +117,11 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1582930,1794751200,20403,5964,RUS Binche,Union Namur,2,0,0.0,0.0
 1582932,1794751200,24386,5836,AS Eupen II,Jette,3,0,2.0,0.0
 1582935,1795285800,5832,5806,Huy,Ganshoren,3,2,0.0,0.0
+1582937,1795285800,5893,24386,Ostiches,AS Eupen II,1,2,1.0,1.0
 1582940,1795285800,22256,5793,Stade Verviers,Entité Manageoise,2,0,2.0,0.0
-1582939,1795287600,5913,5737,Richelle United,Acren-Lessines,3,2,0.0,1.0
+1582938,1795287600,5764,8461,Braine,La Calamine,0,0,0.0,0.0
+1582939,1795287600,5913,5737,Richelle United,Acren-Lessines,3,2,1.0,0.0
+1582943,1795354200,5942,5747,Stockay-Warfusée,Aywaille,2,2,1.0,1.0
+1582936,1795354200,5964,24556,Union Namur,Stade Mouscronnois,0,0,0.0,0.0
+1582942,1795356000,5770,5917,Crossing Schaerbeek,SG-Tertre-Hautrage,4,2,1.0,1.0
+1582941,1795356000,5836,20403,Jette,RUS Binche,1,0,0.0,0.0
