@@ -1,0 +1,2759 @@
+{
+ "1492461": {
+  "status": "ok",
+  "h": {
+   "team": "Atletico-MG",
+   "changes": 3,
+   "out": [
+    "Everson",
+    "Fred",
+    "K. Pascini"
+   ],
+   "xi": [
+    "Everson",
+    "Natanael",
+    "L. Duarte",
+    "Ruan Tressoldi",
+    "R. Lodi",
+    "T. Perez",
+    "K. Castano",
+    "Cuello",
+    "M. Cisse",
+    "Bernard",
+    "T. Borbas"
+   ]
+  },
+  "a": {
+   "team": "Corinthians",
+   "changes": 1,
+   "out": [
+    "Matheuzinho"
+   ],
+   "xi": [
+    "Hugo Souza",
+    "Matheuzinho",
+    "Joao Pedro",
+    "Gustavo Henrique",
+    "F. Angileri",
+    "Breno Bidon",
+    "Raniele",
+    "Kaio Cesar",
+    "Vitinho",
+    "Matheus Bidu",
+    "M. Depay"
+   ]
+  },
+  "name": "Atletico-MG - Corinthians"
+ },
+ "1553905": {
+  "status": "ok",
+  "h": {
+   "team": "Radnicki NIS",
+   "changes": 3,
+   "out": [
+    "D. Krajisnik",
+    "R. Milosavljevic",
+    "G. Ariyibi"
+   ],
+   "xi": [
+    "I. Kostic",
+    "S. Velickovic",
+    "N. Zecevic",
+    "U. Vitas",
+    "A. Vidovic",
+    "I. Abass",
+    "F. Kanoute",
+    "D. Krajisnik",
+    "G. Ariyibi",
+    "R. Milosavljevic",
+    "D. Jovanovic"
+   ]
+  },
+  "a": {
+   "team": "Železničar Pančevo",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "J. Miladinovic",
+    "U. Tegeltija",
+    "M. Milikic",
+    "N. Vidojevic",
+    "N. Djuricic",
+    "M. Amadou Sabo",
+    "S. Plavsic",
+    "N. Jovanovic",
+    "D. Tosic",
+    "M. Pantovic",
+    "K. Karikari"
+   ]
+  },
+  "name": "Radnicki NIS - Železničar Pančevo"
+ },
+ "1555823": {
+  "status": "ok",
+  "h": {
+   "team": "Kamatamare Sanuki",
+   "changes": 3,
+   "out": [
+    "S. Woo",
+    "K. Makiyama",
+    "A. Ueno"
+   ],
+   "xi": [
+    "K. Aoki",
+    "R. Namimoto",
+    "S. Woo",
+    "S. Miyazaki",
+    "M. Kokubun",
+    "S. Kawakami",
+    "K. Makiyama",
+    "A. Ueno",
+    "S. Arita",
+    "Y. Morikawa",
+    "Y. Goto"
+   ]
+  },
+  "a": {
+   "team": "Gainare Tottori",
+   "changes": 7,
+   "out": [
+    "R. Momoi",
+    "S. Nikaido",
+    "H. Oshima",
+    "M. Moon",
+    "I. Fujita",
+    "T. Kawamura",
+    "K. Hoshi"
+   ],
+   "xi": [
+    "R. Momoi",
+    "M. Kaneura",
+    "S. Nikaido",
+    "H. Oshima",
+    "Y. Tasei",
+    "R. Arai",
+    "A. Tojo",
+    "Y. Shimizu",
+    "S. Hashimoto",
+    "I. Yoshida",
+    "D. Shinoda"
+   ]
+  },
+  "name": "Kamatamare Sanuki - Gainare Tottori"
+ },
+ "1555825": {
+  "status": "ok",
+  "h": {
+   "team": "Nara Club",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "M. Vito",
+    "K. Ikoma",
+    "H. Sato",
+    "T. Ishii",
+    "A. Yoshida",
+    "S. Masuda",
+    "R. Morita",
+    "R. Sato",
+    "S. Kawanishi",
+    "S. Kawasaki",
+    "R. Ando"
+   ]
+  },
+  "a": {
+   "team": "Matsumoto Yamaga",
+   "changes": 2,
+   "out": [
+    "G. Matsumura",
+    "R. Sato"
+   ],
+   "xi": [
+    "R. Koma",
+    "H. Noda",
+    "K. Kaneko",
+    "T. Miyabe",
+    "G. Matsumura",
+    "K. Saso",
+    "R. Sato",
+    "R. Yasunaga",
+    "D. Higuchi",
+    "S. Tanaka",
+    "Y. Taguchi"
+   ]
+  },
+  "name": "Nara Club - Matsumoto Yamaga"
+ },
+ "1556152": {
+  "status": "ok",
+  "h": {
+   "team": "JEF United Chiba",
+   "changes": 2,
+   "out": [
+    "J. Suarez",
+    "Dudu"
+   ],
+   "xi": [
+    "J. Suarez",
+    "T. Mae",
+    "D. Suzuki",
+    "B. Nduka",
+    "M. Hidaka",
+    "D. Ishikawa",
+    "Y. Kobayashi",
+    "T. Yasui",
+    "T. Tsukui",
+    "Erison",
+    "K. Yamura"
+   ]
+  },
+  "a": {
+   "team": "Nagoya Grampus",
+   "changes": 2,
+   "out": [
+    "T. Hara",
+    "T. Morishima"
+   ],
+   "xi": [
+    "D. Schmidt",
+    "T. Hara",
+    "H. Fujii",
+    "Y. Nogami",
+    "H. Koda",
+    "S. Inagaki",
+    "T. Takamine",
+    "K. Nakayama",
+    "R. Izumi",
+    "Y. Kimura",
+    "K. Nagai"
+   ]
+  },
+  "name": "JEF United Chiba - Nagoya Grampus"
+ },
+ "1556156": {
+  "status": "ok",
+  "h": {
+   "team": "Urawa",
+   "changes": 3,
+   "out": [
+    "T. Kaneko",
+    "H. Ueki",
+    "H. Komori"
+   ],
+   "xi": [
+    "S. Nishikawa",
+    "K. Hayashi",
+    "Danilo Boza",
+    "K. Nemoto",
+    "Y. Naganuma",
+    "T. Seko",
+    "Samuel Gustafson",
+    "T. Kaneko",
+    "R. Watanabe",
+    "Matheus Sávio",
+    "A. Onaiwu"
+   ]
+  },
+  "a": {
+   "team": "Cerezo Osaka",
+   "changes": 4,
+   "out": [
+    "H. Okuda",
+    "R. Inoue",
+    "Javi Hernández",
+    "S. Sakuragawa"
+   ],
+   "xi": [
+    "K. Abe",
+    "H. Okuda",
+    "Dion-Johan Cools",
+    "R. Inoue",
+    "A. Ohata",
+    "Y. Komi",
+    "J. Irvine",
+    "S. Tanaka",
+    "Y. Yokoyama",
+    "S. Sakuragawa",
+    "Thiago Andrade"
+   ]
+  },
+  "name": "Urawa - Cerezo Osaka"
+ },
+ "1556157": {
+  "status": "ok",
+  "h": {
+   "team": "V-varen Nagasaki",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "M. Goto",
+    "H. Onaga",
+    "K. Doi",
+    "Y. Egawa",
+    "N. Campbell",
+    "H. Yamaguchi",
+    "Harumu Nabeshima",
+    "S. Yoneda",
+    "Matheus Jesus",
+    "Y. Iwasaki",
+    "Thiago Santana"
+   ]
+  },
+  "a": {
+   "team": "Kawasaki Frontale",
+   "changes": 1,
+   "out": [
+    "Derik Lacerda"
+   ],
+   "xi": [
+    "S. Brodersen",
+    "R. Yamahara",
+    "F. Uremović",
+    "H. Taniguchi",
+    "S. Miura",
+    "K. Tachibanada",
+    "Y. Yamamoto",
+    "T. Ito",
+    "Y. Wakizaka",
+    "Marcinho",
+    "Derik Lacerda"
+   ]
+  },
+  "name": "V-varen Nagasaki - Kawasaki Frontale"
+ },
+ "1563283": {
+  "status": "ok",
+  "h": {
+   "team": "Bolton",
+   "changes": 2,
+   "out": [
+    "G. Bazunu",
+    "L. Brunt"
+   ],
+   "xi": [
+    "G. Bazunu",
+    "Luca Stephenson",
+    "L. Brunt",
+    "A. Famewo",
+    "M. Conway",
+    "X. Simons",
+    "J. Sheehan",
+    "Gaizka Larrazabal",
+    "A. Ito",
+    "S. Iling-Junior",
+    "T. Bair"
+   ]
+  },
+  "a": {
+   "team": "West Brom",
+   "changes": 2,
+   "out": [
+    "R. Nzingoula",
+    "I. Price"
+   ],
+   "xi": [
+    "M. O’Leary",
+    "B. Pereira",
+    "C. Mepham",
+    "G. Campbell",
+    "C. Styles",
+    "K. Tunde",
+    "R. Nzingoula",
+    "J. Molumby",
+    "Harry Whitwell",
+    "A. Heggebø",
+    "F. Myhre"
+   ]
+  },
+  "name": "Bolton - West Brom"
+ },
+ "1585362": {
+  "status": "ok",
+  "h": {
+   "team": "Boreham Wood",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "T. Curd",
+    "T. Golden",
+    "C. O'Connell",
+    "C. Bush",
+    "O. Bainbridge",
+    "T. White",
+    "R. Booty",
+    "B. Whitfield",
+    "Z. Brunt",
+    "T. Allarakhia",
+    "M. Rush"
+   ]
+  },
+  "a": {
+   "team": "Aldershot Town",
+   "changes": 2,
+   "out": [
+    "N. Hayes",
+    "O. Harfield"
+   ],
+   "xi": [
+    "N. Hayes",
+    "J. Matton",
+    "M. Stickland",
+    "O. Harfield",
+    "J. Borgnis",
+    "B. Peart",
+    "T. Sackey",
+    "H. Sandah",
+    "B. Tuma",
+    "A. Lewis",
+    "D. Cummings"
+   ]
+  },
+  "name": "Boreham Wood - Aldershot Town"
+ },
+ "1598747": {
+  "status": "neanuntate",
+  "name": "Moreirense U23 - Penafiel U23"
+ },
+ "1601620": {
+  "status": "ok",
+  "h": {
+   "team": "Padova",
+   "changes": 5,
+   "out": [
+    "A. Sorrentino",
+    "G. Giunti",
+    "M. Pompetti",
+    "A. Capelli",
+    "F. Di Mariano"
+   ],
+   "xi": [
+    "A. Sorrentino",
+    "L. Carissoni",
+    "E. Silletti",
+    "C. Pastina",
+    "L. Zanimacchia",
+    "P. Fusi",
+    "M. Pompetti",
+    "G. Giunti",
+    "K. Varas",
+    "A. Seghetti",
+    "L. Moro"
+   ]
+  },
+  "a": {
+   "team": "Sampdoria",
+   "changes": 2,
+   "out": [
+    "Andrey Krastev",
+    "F. Delli Carri"
+   ],
+   "xi": [
+    "Andrey Krastev",
+    "K. Mbabu",
+    "L. Ravanelli",
+    "F. Delli Carri",
+    "B. Meijer",
+    "L. Henderson",
+    "A. Makoumbou",
+    "O. Abildgaard",
+    "T. Begić",
+    "G. Tutino",
+    "L. Mezzotero"
+   ]
+  },
+  "name": "Padova - Sampdoria"
+ },
+ "1601622": {
+  "status": "ok",
+  "h": {
+   "team": "Pisa",
+   "changes": 1,
+   "out": [
+    "A. Primasso"
+   ],
+   "xi": [
+    "S. Scuffet",
+    "M. Léris",
+    "A. Primasso",
+    "R. Bozhinov",
+    "S. Angori",
+    "İ. Vural",
+    "O. Correia",
+    "T. Marras",
+    "S. Moreo",
+    "M. Tramoni",
+    "F. Pittarello"
+   ]
+  },
+  "a": {
+   "team": "Modena",
+   "changes": 1,
+   "out": [
+    "F. Folino"
+   ],
+   "xi": [
+    "L. Chichizola",
+    "F. Folino",
+    "S. Nador",
+    "B. Nieling",
+    "A. Imputato",
+    "S. Santoro",
+    "G. Brugman",
+    "A. Bianco",
+    "Paulo Azzi",
+    "A. Belotti",
+    "G. Ambrosino"
+   ]
+  },
+  "name": "Pisa - Modena"
+ },
+ "1604069": {
+  "status": "ok",
+  "h": {
+   "team": "Al Jandal",
+   "changes": 4,
+   "out": [
+    "A. Al Shammari",
+    "C. Loufilou",
+    "H. Fadiga",
+    "Fabinho"
+   ],
+   "xi": [
+    "A. Al Shammari",
+    "b. S. Al Fallatah Y.",
+    "M. Haddad",
+    "J. Al Dosari",
+    "M. Al Shammari",
+    "A. Majrashi",
+    "C. Loufilou",
+    "H. Fadiga",
+    "N. Al Sehimai",
+    "J. Silva",
+    "Fabinho"
+   ]
+  },
+  "a": {
+   "team": "Al Anwar",
+   "changes": 3,
+   "out": [
+    "M. Al Harthi",
+    "A. Bahusayn",
+    "R. Al Salem"
+   ],
+   "xi": [
+    "K. Shrahili",
+    "M. Al Ghamdi",
+    "C. Derradji",
+    "F. I. Al Munaif",
+    "R. Al Mutairi",
+    "K. Gabriel",
+    "S. Grzan",
+    "K. Kaabi",
+    "A. Bahusayn",
+    "I. K. Eissa",
+    "R. Bensayah"
+   ]
+  },
+  "name": "Al Anwar - Al Jandal"
+ },
+ "1604070": {
+  "status": "ok",
+  "h": {
+   "team": "Al Bukayriyah",
+   "changes": 3,
+   "out": [
+    "R. Sharahili",
+    "S. Al Muwallad",
+    "A. M. Al Bishi"
+   ],
+   "xi": [
+    "M. Jawhar",
+    "A. Hawsawi",
+    "F. Pinero",
+    "M. Abuyabes",
+    "R. Sharahili",
+    "M. Al Mahmoudi",
+    "A. Al Barakah",
+    "M. Al Harbi",
+    "B. Kuwas",
+    "N. Kaabi",
+    "S. Al Muwallad"
+   ]
+  },
+  "a": {
+   "team": "Al Wehda Club",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "A. Al Shammari",
+    "Y. Khurmi",
+    "B. Whaeshi",
+    "H. Al Shuwaish",
+    "A. Al Salem",
+    "D. Halilovic",
+    "A. Al Jaweed",
+    "Morato",
+    "Muralha",
+    "D. Gonzalez",
+    "P. Olayinka"
+   ]
+  },
+  "name": "Al Bukayriyah - Al Wehda Club"
+ },
+ "1606776": {
+  "status": "ok",
+  "h": {
+   "team": "Vanraure Hachinohe",
+   "changes": 1,
+   "out": [
+    "F. Unoki"
+   ],
+   "xi": [
+    "Y. Taniguchi",
+    "W. Hiramatsu",
+    "K. Sasaki",
+    "H. Yukie",
+    "F. Unoki",
+    "S. Takayoshi",
+    "Y. Igari",
+    "S. Otoizumi",
+    "A. Sato",
+    "K. Nagata",
+    "R. Takao"
+   ]
+  },
+  "a": {
+   "team": "Albirex Niigata",
+   "changes": 1,
+   "out": [
+    "K. Shimabuku"
+   ],
+   "xi": [
+    "N. Baumann",
+    "M. Sekiguchi",
+    "J. Geria",
+    "F. Hayakawa",
+    "T. Kato",
+    "E. Shirai",
+    "Y. Hoshi",
+    "T. Osawa",
+    "K. Kasai",
+    "K. Shimabuku",
+    "K. Kuwayama"
+   ]
+  },
+  "name": "Vanraure Hachinohe - Albirex Niigata"
+ },
+ "1606777": {
+  "status": "ok",
+  "h": {
+   "team": "Imabari",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "G. Ito",
+    "Gabriel Gomes",
+    "T. Tsuchiya",
+    "K. Kushibiki",
+    "R. Umeki",
+    "Y. Kajiura",
+    "T. Kondo",
+    "Y. Maruyama",
+    "J. Kato",
+    "K. Mori",
+    "K. Mochii"
+   ]
+  },
+  "a": {
+   "team": "Tegevajaro Miyazaki",
+   "changes": 3,
+   "out": [
+    "S. Tanaka",
+    "R. Yamauchi",
+    "K. Okumura"
+   ],
+   "xi": [
+    "S. Mogi",
+    "T. Abe",
+    "Y. Shimokawa",
+    "R. Yamauchi",
+    "Y. Matsumoto",
+    "Y. Iesaka",
+    "K. Kuroki",
+    "R. Inoue",
+    "K. Murakoshi",
+    "K. Matsumoto",
+    "K. Okumura"
+   ]
+  },
+  "name": "Imabari - Tegevajaro Miyazaki"
+ },
+ "1606778": {
+  "status": "ok",
+  "h": {
+   "team": "Montedio Yamagata",
+   "changes": 2,
+   "out": [
+    "T. Terayama",
+    "K. Mori"
+   ],
+   "xi": [
+    "R. Sato",
+    "T. Yamada",
+    "R. Morioka",
+    "Lee Dong-Hee",
+    "H. Sugii",
+    "K. Yanagimachi",
+    "T. Terayama",
+    "R. Nakamura",
+    "R. Kawana",
+    "S. Doi",
+    "J. Takahashi"
+   ]
+  },
+  "a": {
+   "team": "Jubilo Iwata",
+   "changes": 1,
+   "out": [
+    "Yuri Lara"
+   ],
+   "xi": [
+    "A. Niekawa",
+    "D. Kaneko",
+    "Danilo Cardoso",
+    "K. Matsubara",
+    "R. Uehara",
+    "I. Kawasaki",
+    "K. Fujiwara",
+    "M. Ohara",
+    "H. Tameda",
+    "Matheus Peixoto",
+    "L. Nozawa"
+   ]
+  },
+  "name": "Montedio Yamagata - Jubilo Iwata"
+ },
+ "1606782": {
+  "status": "ok",
+  "h": {
+   "team": "Omiya Ardija",
+   "changes": 4,
+   "out": [
+    "T. Glover",
+    "K. Sekiguchi",
+    "Gabriel",
+    "T. Izumi"
+   ],
+   "xi": [
+    "T. Glover",
+    "M. Edward",
+    "R. Nishio",
+    "Y. Ozaki",
+    "H. Kato",
+    "N. T. Higakure",
+    "G. Kato",
+    "S. Mueanta",
+    "O. Yamamoto",
+    "T. Izumi",
+    "Carlinhos Junior"
+   ]
+  },
+  "a": {
+   "team": "Tokushima Vortis",
+   "changes": 3,
+   "out": [
+    "N. Yamada",
+    "K. Yanagisawa",
+    "S. Kodama"
+   ],
+   "xi": [
+    "K. C. Kitamura",
+    "K. Yamakoshi",
+    "N. Yamada",
+    "Kaique",
+    "K. Yanagisawa",
+    "N. Kanuma",
+    "S. Kodama",
+    "J. Miyazaki",
+    "Lucas Barcelos",
+    "D. Watari",
+    "Thonny Anderson"
+   ]
+  },
+  "name": "Omiya Ardija - Tokushima Vortis"
+ },
+ "1608741": {
+  "status": "neanuntate",
+  "name": "Atalanta II - Pineto"
+ },
+ "1612286": {
+  "status": "ok",
+  "h": {
+   "team": "El Geish",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "Omar Radwan",
+    "Z. Mohamed",
+    "Momen Mahmoud",
+    "Mohamed Fathallah",
+    "Amro Tarek",
+    "Yehia Mostafa",
+    "Mostafa Khawaga",
+    "Mohamed Atef",
+    "Islam Mohareb",
+    "Karim Tarek",
+    "I. Ouro-Agoro"
+   ]
+  },
+  "a": {
+   "team": "Future FC",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "Mostafa Makhlouf",
+    "Adem Redjem",
+    "Tarek Taha",
+    "Ahmed Youssef",
+    "M. Halawani",
+    "Abdel Rahman Rizk",
+    "K. A. Kaboria",
+    "Ghanam Mohamed",
+    "Walid Mostafa",
+    "Mohamed Mossad",
+    "Mahmoud Mamdouh"
+   ]
+  },
+  "name": "El Geish - Future FC"
+ },
+ "1612287": {
+  "status": "ok",
+  "h": {
+   "team": "Enppi",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "Abdel Rahman Samir",
+    "M. Sharkia",
+    "Ahmed Khalil Kalousha",
+    "Seif Elkhashab",
+    "Marwan Dawoud",
+    "Omar El Azab",
+    "Zeyad Kamal",
+    "Emad Mayhoub",
+    "Hossam Gahnem",
+    "Hamed Abdallah",
+    "Mohamed El Nahass"
+   ]
+  },
+  "a": {
+   "team": "Ceramica Cleopatra",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "Mohamed Bassam",
+    "Abdallah Magdy",
+    "Ahmed Ramadan",
+    "J. Arthur",
+    "Hussein Al Sayed",
+    "Amr Al Sulaya",
+    "Amr Kalawa",
+    "Mohamed Reda",
+    "P. Gwargis",
+    "S. Ougola",
+    "Marwan Osman"
+   ]
+  },
+  "name": "Enppi - Ceramica Cleopatra"
+ },
+ "1629989": {
+  "status": "ok",
+  "h": {
+   "team": "Gamba Osaka",
+   "changes": 6,
+   "out": [
+    "J. Ichimori",
+    "S. Fujiwara",
+    "S. Nakatani",
+    "S. Abe",
+    "T. Usami",
+    "R. Meshino"
+   ],
+   "xi": [
+    "J. Ichimori",
+    "S. Fujiwara",
+    "S. Nakatani",
+    "S. Sasaki",
+    "S. Nakano",
+    "T. Suzuki",
+    "Juanpe",
+    "R. Yamashita",
+    "T. Ogashiwa",
+    "R. Meshino",
+    "Y. Toshida"
+   ]
+  },
+  "a": {
+   "team": "Port FC",
+   "changes": 4,
+   "out": [
+    "Marcel Scalese",
+    "C. Otton",
+    "P. Chamrasamee",
+    "Jude Jacob Soonsup-Bell"
+   ],
+   "xi": [
+    "M. Falkesgaard",
+    "S. Bureerat",
+    "E. Sviatchenko",
+    "Marcel Scalese",
+    "C. Otton",
+    "N. Shimura",
+    "S. Boonlha",
+    "S. Ratree",
+    "P. Chamrasamee",
+    "Bruno",
+    "T. Poeiphimai"
+   ]
+  },
+  "name": "Gamba Osaka - Port FC"
+ },
+ "1635703": {
+  "status": "ok",
+  "h": {
+   "team": "Paris Saint Germain",
+   "changes": 3,
+   "out": [
+    "A. Hakimi",
+    "M. Akliouche",
+    "Senny Mayulu"
+   ],
+   "xi": [
+    "M. Safonov",
+    "A. Hakimi",
+    "I. Zabarnyi",
+    "W. Pacho",
+    "Nuno Mendes",
+    "João Neves",
+    "Vitinha",
+    "Fabián Ruiz",
+    "M. Akliouche",
+    "Ferran Torres",
+    "Senny Mayulu"
+   ]
+  },
+  "a": {
+   "team": "AS Roma",
+   "changes": 6,
+   "out": [
+    "M. Svilar",
+    "G. Mancini",
+    "Hermoso",
+    "E. Lulli",
+    "Rodrigo Mora",
+    "D. Malen"
+   ],
+   "xi": [
+    "M. Svilar",
+    "G. Mancini",
+    "E. Ndicka",
+    "Hermoso",
+    "N. Molina",
+    "M. de Roon",
+    "M. Koné",
+    "Wesley",
+    "N. Pisilli",
+    "M. Soulé",
+    "S. Castro"
+   ]
+  },
+  "name": "Paris Saint Germain - AS Roma"
+ },
+ "1635728": {
+  "status": "ok",
+  "h": {
+   "team": "Slavia Praha",
+   "changes": 2,
+   "out": [
+    "O. Kubiak",
+    "M. Chytil"
+   ],
+   "xi": [
+    "J. Markovič",
+    "T. Holeš",
+    "D. Zima",
+    "A. N&apos;Guessan",
+    "T. Vlček",
+    "M. Sadílek",
+    "W. Nowak",
+    "D. Jurásek",
+    "E. Ayaosi",
+    "M. E. Suleiman",
+    "M. Chytil"
+   ]
+  },
+  "a": {
+   "team": "Villarreal",
+   "changes": 6,
+   "out": [
+    "P. Gulácsi",
+    "Pau Navarro",
+    "Carlos Romero",
+    "Santi Comesaña",
+    "G. Mikautadze",
+    "Alberto Moleiro"
+   ],
+   "xi": [
+    "Luíz Júnior",
+    "S. Mouriño",
+    "Logan Costa",
+    "Renato Veiga",
+    "Sergi Cardona",
+    "T. Buchanan",
+    "C. Macia",
+    "P. Gueye",
+    "Alberto Moleiro",
+    "Ayoze Pérez",
+    "T. Oluwaseyi"
+   ]
+  },
+  "name": "Slavia Praha - Villarreal"
+ },
+ "1635735": {
+  "status": "ok",
+  "h": {
+   "team": "Sporting CP",
+   "changes": 9,
+   "out": [
+    "R. Silva",
+    "S. Blopa",
+    "I. Ba",
+    "G. Vagiannidis",
+    "Pedro Lima",
+    "S. Altimira",
+    "N. Irankunda",
+    "J. Simoes",
+    "Luis Guilherme"
+   ],
+   "xi": [
+    "Kaique",
+    "Iván Fresneda",
+    "Eduardo Quaresma",
+    "Gonçalo Inácio",
+    "Sergi Altimira",
+    "Geny Catamo",
+    "S. Andersen",
+    "I. Doumbia",
+    "M. Araújo",
+    "Luis Guilherme",
+    "L. Suárez"
+   ]
+  },
+  "a": {
+   "team": "Manchester United",
+   "changes": 4,
+   "out": [
+    "S. Lammens",
+    "L. Yoro",
+    "M. de Ligt",
+    "Matheus Cunha"
+   ],
+   "xi": [
+    "S. Lammens",
+    "N. Mazraoui",
+    "L. Yoro",
+    "H. Maguire",
+    "Lisandro Martínez",
+    "K. Mainoo",
+    "Y. Tielemans",
+    "A. Diallo",
+    "Bruno Fernandes",
+    "B. Mbeumo",
+    "J. Zirkzee"
+   ]
+  },
+  "name": "Sporting CP - Manchester United"
+ },
+ "1637394": {
+  "status": "ok",
+  "h": {
+   "team": "Shakhtar Donetsk U19",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "R. Bahlay",
+    "D. Strilchuk",
+    "Y. Mylokost",
+    "Y. Kostyuk",
+    "N. Kaliuzhnyi",
+    "O. Balakay",
+    "V. Tyutyunov",
+    "O. Chornenkyi",
+    "D. Petruk",
+    "M. Tverdokhlib",
+    "Ryan Roberto"
+   ]
+  },
+  "a": {
+   "team": "Fenerbahce U19",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "K. Sapaz",
+    "E. Sancakli",
+    "G. Ozdemir",
+    "O. Tiryakigil",
+    "Y. Korkmaz",
+    "A. E. Fettahoglu",
+    "E. Yilmaz",
+    "B. Yolacan",
+    "E. Sayar",
+    "C. Balta",
+    "A. Ekici"
+   ]
+  },
+  "name": "Shakhtar Donetsk U19 - Fenerbahce U19"
+ },
+ "1648207": {
+  "status": "ok",
+  "h": {
+   "team": "Polonia Środa",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "M. Garstkiewicz",
+    "P. Skrobosinski",
+    "K. Gorecki",
+    "M. Pienczak",
+    "S. Kubiak",
+    "F. Karmanski",
+    "M. Ciapa",
+    "M. Mackowiak",
+    "J. Wilczynski",
+    "P. Mikita",
+    "P. Ratajczak"
+   ]
+  },
+  "a": {
+   "team": "Sokół Kleczew",
+   "changes": 2,
+   "out": [
+    "F. Adamski",
+    "K. Spiewak"
+   ],
+   "xi": [
+    "A. Wojcik",
+    "M. Zimmer",
+    "E. Marcinkowski",
+    "K. Szymocha",
+    "J. Andrzejewski",
+    "J. Antczak",
+    "M. Piotrowski",
+    "D. Dudzinski",
+    "F. Adamski",
+    "K. Spiewak",
+    "B. Juszczyk"
+   ]
+  },
+  "name": "Polonia Środa - Sokół Kleczew"
+ },
+ "1649067": {
+  "status": "ok",
+  "h": {
+   "team": "HJK U19",
+   "changes": 1,
+   "out": [
+    "R. Barrett"
+   ],
+   "xi": [
+    "M. Haapanen",
+    "A. Le Goff-Conan",
+    "I. Nyback",
+    "J. Kari",
+    "N. Siren",
+    "R. Barrett",
+    "A. Nylund",
+    "L. Palmula",
+    "A. Zaitra",
+    "A. Haikala",
+    "N. Kroupkin"
+   ]
+  },
+  "a": {
+   "team": "Stabæk U19",
+   "changes": 2,
+   "out": [
+    "E. Varvin-Kvamme",
+    "C. Bachke"
+   ],
+   "xi": [
+    "Hamza Sobhieh",
+    "H. Hytterod",
+    "M. Hansen",
+    "F. Naustvik",
+    "J. Loberg",
+    "E. Varvin-Kvamme",
+    "L. Myklebust",
+    "A. Lie",
+    "A. Aamodt",
+    "R. Ferrington",
+    "O. Oppedal"
+   ]
+  },
+  "name": "HJK U19 - Stabæk U19"
+ },
+ "1649069": {
+  "status": "ok",
+  "h": {
+   "team": "Kairat U19",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "B. Aldashev",
+    "A. Kalikulov",
+    "R. Kenesbekov",
+    "A. Bazarbaev",
+    "D. Tashpulatov",
+    "K. Malayev",
+    "Y. Kerimkhan",
+    "A. Toleukhan",
+    "T. Ismagulov",
+    "M. Abish",
+    "D. Orynbassar"
+   ]
+  },
+  "a": {
+   "team": "Hradec Králové U19",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "Y. Gusak",
+    "M. Syrovatka",
+    "P. Turek",
+    "A. Hronek",
+    "T. Podebradsky",
+    "V. Matuska",
+    "S. Mares",
+    "S. Ponikelsky",
+    "J. Voboril",
+    "M. Halama",
+    "L. Vanek"
+   ]
+  },
+  "name": "Hradec Králové U19 - Kairat U19"
+ },
+ "1649070": {
+  "status": "ok",
+  "h": {
+   "team": "AZ U19",
+   "changes": 3,
+   "out": [
+    "N. Homan",
+    "E. Adjedj",
+    "G. Groot"
+   ],
+   "xi": [
+    "N. Homan",
+    "T. Elffers",
+    "A. Ouaziz",
+    "C. Carrilho",
+    "E. Adjedj",
+    "J. Sijbrands",
+    "T. de Wit",
+    "L. Aken",
+    "H. de Wit",
+    "G. Groot",
+    "C. Hellings"
+   ]
+  },
+  "a": {
+   "team": "Rangers U19",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "R. McGuire",
+    "A. Kerr",
+    "C. Ngwenya",
+    "J. Reid",
+    "A. Scally",
+    "K. Glasgow",
+    "C. Young",
+    "A. McCallion",
+    "L. Stewart",
+    "L. Rankin",
+    "M. Cameron"
+   ]
+  },
+  "name": "Rangers U19 - AZ U19"
+ },
+ "1649153": {
+  "status": "neanuntate",
+  "name": "São Paulo U20 - Atlético Mineiro U20"
+ },
+ "1649497": {
+  "status": "ok",
+  "h": {
+   "team": "San Jose Earthquakes",
+   "changes": 3,
+   "out": [
+    "B. Kikanovic",
+    "R. Vieira",
+    "T. Werner"
+   ],
+   "xi": [
+    "E. Edwards",
+    "B. Kikanovic",
+    "D. Munie",
+    "R. Roberts",
+    "Vítor Costa",
+    "R. Vieira",
+    "Beau Leroux",
+    "E. Löwen",
+    "N. Tsakiris",
+    "T. Werner",
+    "P. Judd"
+   ]
+  },
+  "a": {
+   "team": "Houston Dynamo",
+   "changes": 3,
+   "out": [
+    "Felipe Andrade",
+    "A. Bouzat",
+    "Guilherme"
+   ],
+   "xi": [
+    "J. Bond",
+    "D. Holmes",
+    "Lucas Halter",
+    "A. Resch",
+    "F. Negri",
+    "Artur",
+    "A. Ibrahim",
+    "H. Herrera",
+    "M. Bogusz",
+    "Guilherme",
+    "L. Foster"
+   ]
+  },
+  "name": "San Jose Earthquakes - Houston Dynamo"
+ },
+ "1650137": {
+  "status": "neanuntate",
+  "name": "Pro Patria - Sanremese"
+ },
+ "1651512": {
+  "status": "neanuntate",
+  "name": "UNAN Managua - H&H Export"
+ },
+ "_cache": {
+  "1062:2026-11-25": {
+   "ids": [
+    905,
+    6031,
+    9978,
+    10122,
+    18761,
+    152857,
+    197450,
+    289592,
+    515668,
+    609544,
+    615196
+   ],
+   "players": [
+    "Everson",
+    "Natanael",
+    "Vitão",
+    "Ruan Tressoldi",
+    "Renan Lodi",
+    "Mamady Cisse",
+    "K. Castaño",
+    "T. Cuello",
+    "Fred",
+    "K. Pascini",
+    "Bernard"
+   ]
+  },
+  "131:2026-11-25": {
+   "ids": [
+    667,
+    2426,
+    5987,
+    9742,
+    9992,
+    10161,
+    10177,
+    123759,
+    363693,
+    380435,
+    415085
+   ],
+   "players": [
+    "Hugo Souza",
+    "Matheuzinho",
+    "Joao Pedro",
+    "Gustavo Henrique",
+    "F. Angileri",
+    "Breno Bidon",
+    "A. Carrillo",
+    "Kaio Cesar",
+    "Vitinho",
+    "Matheus Bidu",
+    "M. Depay"
+   ]
+  },
+  "2254:2026-11-25": {
+   "ids": [
+    15992,
+    26816,
+    44920,
+    45446,
+    45817,
+    45887,
+    45989,
+    79081,
+    200189,
+    428767,
+    443712
+   ],
+   "players": [
+    "I. Kostic",
+    "S. Velickovic",
+    "U. Vitas",
+    "M. Mijailovic",
+    "A. Vidovic",
+    "D. Krajisnik",
+    "R. Milosavljevic",
+    "I. Ivanovic",
+    "L. Izderic",
+    "G. Ariyibi",
+    "D. Jovanovic"
+   ]
+  },
+  "12360:2026-11-25": {
+   "ids": [
+    66022,
+    154742,
+    162151,
+    202115,
+    293728,
+    348033,
+    383708,
+    388875,
+    398191,
+    429561,
+    585865
+   ],
+   "players": [
+    "J. Miladinovic",
+    "U. Tegeltija",
+    "M. Milikic",
+    "N. Vidojevic",
+    "N. Djuricic",
+    "M. Amadou Sabo",
+    "S. Plavsic",
+    "N. Jovanovic",
+    "D. Tosic",
+    "M. Pantovic",
+    "K. Karikari"
+   ]
+  },
+  "317:2026-11-25": {
+   "ids": [
+    32936,
+    33919,
+    325288,
+    353596,
+    406336,
+    406356,
+    411125,
+    457984,
+    510528,
+    615584,
+    639419
+   ],
+   "players": [
+    "K. Aoki",
+    "R. Namimoto",
+    "S. Woo",
+    "S. Miyazaki",
+    "J. Ishikura",
+    "S. Sago",
+    "S. Arita",
+    "K. Makiyama",
+    "A. Ueno",
+    "Y. Goto",
+    "Y. Murakami"
+   ]
+  },
+  "4319:2026-11-25": {
+   "ids": [
+    206959,
+    289853,
+    339304,
+    405872,
+    406361,
+    537995,
+    546138,
+    615244,
+    640935,
+    640941,
+    641106
+   ],
+   "players": [
+    "R. Momoi",
+    "M. Lorenz",
+    "S. Nikaido",
+    "H. Oshima",
+    "T. Kiuchi",
+    "M. Moon",
+    "I. Fujita",
+    "D. Shinoda",
+    "T. Kawamura",
+    "H. Konishi",
+    "K. Hoshi"
+   ]
+  },
+  "7135:2026-11-25": {
+   "ids": [
+    33968,
+    47503,
+    109397,
+    199876,
+    226305,
+    307939,
+    403470,
+    432435,
+    510527,
+    511017,
+    537726
+   ],
+   "players": [
+    "M. Vito",
+    "K. Ikoma",
+    "H. Sato",
+    "T. Ishii",
+    "A. Yoshida",
+    "S. Masuda",
+    "R. Morita",
+    "R. Sato",
+    "S. Kawanishi",
+    "S. Kawasaki",
+    "R. Ando"
+   ]
+  },
+  "304:2026-11-25": {
+   "ids": [
+    33299,
+    33498,
+    33834,
+    206926,
+    206968,
+    288987,
+    307209,
+    369141,
+    405550,
+    425834,
+    494683
+   ],
+   "players": [
+    "R. Koma",
+    "T. Shirai",
+    "K. Minoda",
+    "H. Noda",
+    "G. Matsumura",
+    "K. Saso",
+    "R. Sato",
+    "R. Yasunaga",
+    "D. Higuchi",
+    "S. Tanaka",
+    "Y. Taguchi"
+   ]
+  },
+  "301:2026-11-25": {
+   "ids": [
+    8853,
+    33103,
+    33251,
+    33424,
+    33651,
+    33979,
+    33991,
+    54359,
+    199300,
+    352446,
+    555884
+   ],
+   "players": [
+    "J. Suarez",
+    "T. Mae",
+    "D. Suzuki",
+    "B. Nduka",
+    "M. Hidaka",
+    "D. Ishikawa",
+    "T. Yasui",
+    "Dudu",
+    "T. Tsukui",
+    "Leonardo Rocha",
+    "K. Yamura"
+   ]
+  },
+  "288:2026-11-25": {
+   "ids": [
+    2589,
+    32868,
+    32872,
+    32882,
+    32894,
+    32994,
+    33043,
+    33048,
+    33397,
+    33827,
+    319007
+   ],
+   "players": [
+    "D. Schmidt",
+    "T. Hara",
+    "H. Fujii",
+    "S. Inagaki",
+    "T. Takamine",
+    "R. Izumi",
+    "T. Uchida",
+    "T. Morishima",
+    "K. Nakayama",
+    "K. Nagai",
+    "Y. Kimura"
+   ]
+  },
+  "287:2026-11-25": {
+   "ids": [
+    10474,
+    32985,
+    33093,
+    33643,
+    41961,
+    153321,
+    288918,
+    351537,
+    403473,
+    441588,
+    626225
+   ],
+   "players": [
+    "S. Nishikawa",
+    "Danilo Boza",
+    "Y. Miyamoto",
+    "K. Nemoto",
+    "K. Hayashi",
+    "T. Seko",
+    "T. Kaneko",
+    "H. Ueki",
+    "R. Watanabe",
+    "Matheus Sávio",
+    "H. Komori"
+   ]
+  },
+  "291:2026-11-25": {
+   "ids": [
+    65,
+    2588,
+    2749,
+    33684,
+    46849,
+    109274,
+    109332,
+    182008,
+    199882,
+    403458,
+    417626
+   ],
+   "players": [
+    "Kosuke Nakamura",
+    "H. Okuda",
+    "Dion-Johan Cools",
+    "R. Inoue",
+    "Javi Hernández",
+    "R. Sakata",
+    "J. Irvine",
+    "S. Tanaka",
+    "Y. Yokoyama",
+    "S. Sakuragawa",
+    "S. Uejo"
+   ]
+  },
+  "285:2026-11-25": {
+   "ids": [
+    2606,
+    9396,
+    32621,
+    32998,
+    33533,
+    33755,
+    33771,
+    33775,
+    41218,
+    364593,
+    627971
+   ],
+   "players": [
+    "M. Goto",
+    "H. Onaga",
+    "K. Doi",
+    "Y. Egawa",
+    "S. Yoneda",
+    "Harumu Nabeshima",
+    "H. Yamaguchi",
+    "Y. Iwasaki",
+    "Matheus Jesus",
+    "Thiago Santana",
+    "N. Campbell"
+   ]
+  },
+  "294:2026-11-25": {
+   "ids": [
+    10425,
+    24878,
+    24918,
+    32967,
+    145501,
+    199156,
+    268141,
+    289882,
+    353589,
+    356370,
+    381623
+   ],
+   "players": [
+    "S. Brodersen",
+    "R. Yamahara",
+    "Pedro Romano",
+    "H. Taniguchi",
+    "S. Miura",
+    "K. Tachibanada",
+    "Y. Yamamoto",
+    "T. Ito",
+    "Y. Wakizaka",
+    "Marcinho",
+    "Derik Lacerda"
+   ]
+  },
+  "68:2026-11-25": {
+   "ids": [
+    17878,
+    19064,
+    38575,
+    82034,
+    105971,
+    128365,
+    138929,
+    152952,
+    162173,
+    283023,
+    284367
+   ],
+   "players": [
+    "G. Bazunu",
+    "Luca Stephenson",
+    "L. Brunt",
+    "A. Famewo",
+    "M. Conway",
+    "X. Simons",
+    "J. Sheehan",
+    "Gaizka Larrazabal",
+    "Ruben Rodrigues",
+    "S. Iling-Junior",
+    "S. Dalby"
+   ]
+  },
+  "60:2026-11-25": {
+   "ids": [
+    18866,
+    18974,
+    19258,
+    19806,
+    39066,
+    102508,
+    274275,
+    284267,
+    330982,
+    387120,
+    579287
+   ],
+   "players": [
+    "M. O’Leary",
+    "B. Pereira",
+    "C. Mepham",
+    "G. Campbell",
+    "C. Styles",
+    "K. Tunde",
+    "J. Molumby",
+    "R. Nzingoula",
+    "I. Price",
+    "F. Myhre",
+    "J. Morgan"
+   ]
+  },
+  "1830:2026-11-25": {
+   "ids": [
+    17927,
+    18251,
+    18286,
+    18623,
+    19544,
+    82082,
+    154845,
+    277715,
+    284381,
+    291019,
+    298061
+   ],
+   "players": [
+    "T. Curd",
+    "T. Golden",
+    "C. O'Connell",
+    "C. Bush",
+    "O. Bainbridge",
+    "T. White",
+    "R. Booty",
+    "B. Whitfield",
+    "Z. Brunt",
+    "T. Allarakhia",
+    "M. Rush"
+   ]
+  },
+  "1818:2026-11-25": {
+   "ids": [
+    18054,
+    275051,
+    284506,
+    284513,
+    309506,
+    334045,
+    432397,
+    454937,
+    481257,
+    615641,
+    680859
+   ],
+   "players": [
+    "N. Hayes",
+    "J. Robinson",
+    "J. Matton",
+    "M. Stickland",
+    "O. Harfield",
+    "B. Tuma",
+    "J. Borgnis",
+    "T. Sackey",
+    "H. Sandah",
+    "T. Abrahams",
+    "A. Lewis"
+   ]
+  },
+  "870:2026-11-25": {
+   "ids": [
+    31376,
+    32118,
+    64023,
+    129553,
+    162982,
+    180764,
+    182467,
+    324092,
+    378799,
+    392493,
+    476271
+   ],
+   "players": [
+    "A. Sorrentino",
+    "L. Carissoni",
+    "E. Silletti",
+    "C. Pastina",
+    "M. Cocchi",
+    "G. Giunti",
+    "M. Pompetti",
+    "A. Capelli",
+    "E. Zuelli",
+    "F. Di Mariano",
+    "G. Artistico"
+   ]
+  },
+  "498:2026-11-25": {
+   "ids": [
+    331,
+    946,
+    15605,
+    15719,
+    30932,
+    31348,
+    31421,
+    56996,
+    201466,
+    510405,
+    629024
+   ],
+   "players": [
+    "Andrey Krastev",
+    "K. Mbabu",
+    "F. Delli Carri",
+    "L. Ravanelli",
+    "S. Gartenmann",
+    "L. Henderson",
+    "O. Abildgaard",
+    "L. Mezzotero",
+    "L. Insigne",
+    "T. Begić",
+    "G. Tutino"
+   ]
+  },
+  "801:2026-11-25": {
+   "ids": [
+    20959,
+    30753,
+    31560,
+    31604,
+    50054,
+    266331,
+    302069,
+    333161,
+    364600,
+    436271,
+    475090
+   ],
+   "players": [
+    "S. Scuffet",
+    "M. Léris",
+    "A. Caracciolo",
+    "A. Primasso",
+    "S. Angori",
+    "T. Marras",
+    "İ. Vural",
+    "O. Correia",
+    "M. Tramoni",
+    "S. Moreo",
+    "F. Pittarello"
+   ]
+  },
+  "899:2026-11-25": {
+   "ids": [
+    30509,
+    30644,
+    31489,
+    31557,
+    47246,
+    56207,
+    302432,
+    341912,
+    378836,
+    385788,
+    403851
+   ],
+   "players": [
+    "L. Chichizola",
+    "F. Folino",
+    "D. Adorni",
+    "B. Nieling",
+    "A. Imputato",
+    "S. Santoro",
+    "G. Brugman",
+    "A. Bianco",
+    "Paulo Azzi",
+    "A. Belotti",
+    "G. Ambrosino"
+   ]
+  },
+  "10507:2026-11-25": {
+   "ids": [
+    8931,
+    23348,
+    156188,
+    431622,
+    553464,
+    576162,
+    586627,
+    607520,
+    676292,
+    676293,
+    683003
+   ],
+   "players": [
+    "A. Al Shammari",
+    "A. Al Ruwaili",
+    "T. Peyre",
+    "M. Haddad",
+    "M. Al Shammari",
+    "C. Loufilou",
+    "A. Majrashi",
+    "O. Al Rashed",
+    "M. Nakhli",
+    "H. Fadiga",
+    "Fabinho"
+   ]
+  },
+  "10503:2026-11-25": {
+   "ids": [
+    80118,
+    129819,
+    135053,
+    182452,
+    310391,
+    314148,
+    533614,
+    554431,
+    607503,
+    607531,
+    607565
+   ],
+   "players": [
+    "N. Al Dous",
+    "S. Grzan",
+    "C. Derradji",
+    "F. I. Al Munaif",
+    "M. Al Ghamdi",
+    "K. Gabriel",
+    "R. Bensayah",
+    "M. Al Harthi",
+    "A. Bahusayn",
+    "I. K. Eissa",
+    "R. Al Salem"
+   ]
+  },
+  "2966:2026-11-25": {
+   "ids": [
+    5323,
+    44658,
+    104706,
+    350589,
+    383679,
+    492321,
+    576163,
+    576171,
+    576212,
+    576255,
+    674665
+   ],
+   "players": [
+    "M. Jawhar",
+    "H. Ahmed",
+    "F. Pinero",
+    "M. Abuyabes",
+    "R. Sharahili",
+    "I. Al Sunaytan",
+    "A. Al Barakah",
+    "M. Al Mahmoudi",
+    "N. Kaabi",
+    "S. Al Muwallad",
+    "A. M. Al Bishi"
+   ]
+  },
+  "2937:2026-11-25": {
+   "ids": [
+    1249,
+    9471,
+    14509,
+    44192,
+    44533,
+    49471,
+    134763,
+    326640,
+    433092,
+    576175,
+    576300
+   ],
+   "players": [
+    "A. Al Shammari",
+    "Y. Khurmi",
+    "B. Whaeshi",
+    "H. Al Shuwaish",
+    "A. Al Salem",
+    "D. Halilovic",
+    "A. Al Jaweed",
+    "Morato",
+    "Muralha",
+    "D. Gonzalez",
+    "P. Olayinka"
+   ]
+  },
+  "4326:2026-11-25": {
+   "ids": [
+    33618,
+    206980,
+    317152,
+    354260,
+    370133,
+    370142,
+    390080,
+    409791,
+    420713,
+    555906,
+    637809
+   ],
+   "players": [
+    "Y. Taniguchi",
+    "W. Hiramatsu",
+    "K. Sasaki",
+    "Y. Sawada",
+    "F. Unoki",
+    "S. Takayoshi",
+    "Y. Igari",
+    "S. Otoizumi",
+    "A. Sato",
+    "K. Nagata",
+    "R. Takao"
+   ]
+  },
+  "311:2026-11-25": {
+   "ids": [
+    32916,
+    33436,
+    33626,
+    33847,
+    201068,
+    288915,
+    308849,
+    370122,
+    406340,
+    410012,
+    466966
+   ],
+   "players": [
+    "S. Uchiyama",
+    "M. Sekiguchi",
+    "J. Geria",
+    "F. Hayakawa",
+    "T. Kato",
+    "E. Shirai",
+    "Y. Hoshi",
+    "T. Osawa",
+    "K. Kasai",
+    "K. Shimabuku",
+    "K. Kuwayama"
+   ]
+  },
+  "10075:2026-11-25": {
+   "ids": [
+    32884,
+    33229,
+    33528,
+    107841,
+    206935,
+    280996,
+    282283,
+    311873,
+    350846,
+    422371,
+    639422
+   ],
+   "players": [
+    "G. Ito",
+    "Gabriel Gomes",
+    "K. Kushibiki",
+    "Y. Maruyama",
+    "T. Kondo",
+    "T. Tsuchiya",
+    "Y. Kajiura",
+    "R. Umeki",
+    "J. Kato",
+    "K. Mochii",
+    "K. Mori"
+   ]
+  },
+  "10409:2026-11-25": {
+   "ids": [
+    33156,
+    33904,
+    199151,
+    199914,
+    265296,
+    304932,
+    307912,
+    353595,
+    476158,
+    506849,
+    537862
+   ],
+   "players": [
+    "S. Mogi",
+    "Y. Matsumoto",
+    "K. Kuroki",
+    "S. Tanaka",
+    "Y. Shimokawa",
+    "Y. Iesaka",
+    "R. Yamauchi",
+    "M. Ano",
+    "K. Okumura",
+    "K. Murakoshi",
+    "K. Hashimoto"
+   ]
+  },
+  "312:2026-11-25": {
+   "ids": [
+    33452,
+    33601,
+    109453,
+    135482,
+    182293,
+    201065,
+    289884,
+    301575,
+    304921,
+    351086,
+    628020
+   ],
+   "players": [
+    "R. Sato",
+    "T. Yamada",
+    "R. Morioka",
+    "Lee Dong-Hee",
+    "H. Sugii",
+    "K. Yanagimachi",
+    "T. Terayama",
+    "R. Nakamura",
+    "R. Yokoyama",
+    "K. Mori",
+    "J. Takahashi"
+   ]
+  },
+  "280:2026-11-25": {
+   "ids": [
+    9476,
+    10030,
+    33283,
+    33335,
+    33860,
+    91859,
+    141184,
+    206953,
+    238554,
+    317387,
+    340991
+   ],
+   "players": [
+    "A. Niekawa",
+    "Yuri Lara",
+    "Danilo Cardoso",
+    "K. Matsubara",
+    "R. Uehara",
+    "I. Kawasaki",
+    "K. Fujiwara",
+    "M. Ohara",
+    "H. Tameda",
+    "Matheus Peixoto",
+    "L. Nozawa"
+   ]
+  },
+  "313:2026-11-25": {
+   "ids": [
+    8655,
+    10051,
+    33119,
+    48236,
+    199886,
+    342131,
+    351541,
+    369709,
+    403463,
+    416925,
+    664146
+   ],
+   "players": [
+    "T. Glover",
+    "K. Sekiguchi",
+    "Gabriel",
+    "Y. Ozaki",
+    "H. Kato",
+    "M. Edward",
+    "G. Kato",
+    "Y. Toyokawa",
+    "O. Yamamoto",
+    "T. Izumi",
+    "K. Sugimoto"
+   ]
+  },
+  "299:2026-11-25": {
+   "ids": [
+    32896,
+    33058,
+    33219,
+    33303,
+    33482,
+    33527,
+    33583,
+    33965,
+    206969,
+    304920,
+    370139
+   ],
+   "players": [
+    "K. C. Kitamura",
+    "K. Yamakoshi",
+    "N. Yamada",
+    "K. Yanagisawa",
+    "J. Miyazaki",
+    "N. Kanuma",
+    "S. Kodama",
+    "T. Yamaguchi",
+    "T. Shigehiro",
+    "T. Sugimoto",
+    "D. Watari"
+   ]
+  },
+  "1039:2026-11-25": null,
+  "16431:2026-11-25": null,
+  "1037:2026-11-25": null,
+  "14651:2026-11-25": null,
+  "293:2026-11-25": {
+   "ids": [
+    2592,
+    2605,
+    32886,
+    33242,
+    33320,
+    33719,
+    48077,
+    73856,
+    109334,
+    199795,
+    319012
+   ],
+   "players": [
+    "J. Ichimori",
+    "S. Fujiwara",
+    "G. Miura",
+    "S. Nakatani",
+    "R. Hatsuse",
+    "R. Mito",
+    "S. Abe",
+    "T. Usami",
+    "R. Yamashita",
+    "D. Hümmet",
+    "R. Meshino"
+   ]
+  },
+  "2789:2026-11-25": {
+   "ids": [
+    13477,
+    15796,
+    33879,
+    48881,
+    48889,
+    48983,
+    49002,
+    49125,
+    77910,
+    284407,
+    380764
+   ],
+   "players": [
+    "M. Falkesgaard",
+    "N. Selanon",
+    "E. Sviatchenko",
+    "Marcel Scalese",
+    "C. Otton",
+    "Bruno",
+    "N. Shimura",
+    "P. Chamrasamee",
+    "B. Phala",
+    "Jude Jacob Soonsup-Bell",
+    "W. Kanitsribumphen"
+   ]
+  },
+  "85:2026-11-25": {
+   "ids": [
+    9,
+    33,
+    328,
+    2068,
+    161671,
+    263482,
+    274300,
+    335051,
+    336657,
+    343027,
+    409216
+   ],
+   "players": [
+    "M. Safonov",
+    "A. Hakimi",
+    "I. Zabarnyi",
+    "L. Hernández",
+    "Nuno Mendes",
+    "W. Zaïre-Emery",
+    "João Neves",
+    "Fabián Ruiz",
+    "M. Akliouche",
+    "Senny Mayulu",
+    "D. Doué"
+   ]
+  },
+  "497:2026-11-25": {
+   "ids": [
+    6,
+    249,
+    556,
+    778,
+    875,
+    2669,
+    6503,
+    22147,
+    30425,
+    404097,
+    598615
+   ],
+   "players": [
+    "M. Svilar",
+    "G. Mancini",
+    "L. Balerdi",
+    "Hermoso",
+    "E. Lulli",
+    "B. Cristante",
+    "M. Koné",
+    "N. Molina",
+    "P. Dybala",
+    "Rodrigo Mora",
+    "D. Malen"
+   ]
+  },
+  "560:2026-11-25": {
+   "ids": [
+    241,
+    1236,
+    2252,
+    66275,
+    128768,
+    128772,
+    128793,
+    276551,
+    365840,
+    400679,
+    524412
+   ],
+   "players": [
+    "J. Markovič",
+    "T. Holeš",
+    "D. Zima",
+    "A. N&apos;Guessan",
+    "T. Vlček",
+    "D. Moses",
+    "M. Sadílek",
+    "D. Jurásek",
+    "E. Ayaosi",
+    "O. Kubiak",
+    "M. Chytil"
+   ]
+  },
+  "533:2026-11-25": {
+   "ids": [
+    1139,
+    20696,
+    47541,
+    51016,
+    180496,
+    182519,
+    184420,
+    336671,
+    351587,
+    355994,
+    435552
+   ],
+   "players": [
+    "P. Gulácsi",
+    "A. Freeman",
+    "Pau Navarro",
+    "Renato Veiga",
+    "Carlos Romero",
+    "T. Buchanan",
+    "Santi Comesaña",
+    "P. Gueye",
+    "T. Oluwaseyi",
+    "G. Mikautadze",
+    "Alberto Moleiro"
+   ]
+  },
+  "228:2026-11-25": {
+   "ids": [
+    46672,
+    135839,
+    279802,
+    286084,
+    338014,
+    386820,
+    400509,
+    404574,
+    446827,
+    449626,
+    490740
+   ],
+   "players": [
+    "R. Silva",
+    "S. Blopa",
+    "I. Ba",
+    "E. Felicissimo",
+    "G. Vagiannidis",
+    "Pedro Lima",
+    "S. Altimira",
+    "R. Nel",
+    "N. Irankunda",
+    "J. Simoes",
+    "Luis Guilherme"
+   ]
+  },
+  "33:2026-11-25": {
+   "ids": [
+    532,
+    886,
+    1165,
+    1485,
+    2467,
+    2926,
+    20589,
+    162511,
+    284322,
+    342970,
+    382452
+   ],
+   "players": [
+    "S. Lammens",
+    "L. Yoro",
+    "M. de Ligt",
+    "Lisandro Martínez",
+    "Diogo Dalot",
+    "K. Mainoo",
+    "Y. Tielemans",
+    "P. Dorgu",
+    "Bruno Fernandes",
+    "B. Mbeumo",
+    "Matheus Cunha"
+   ]
+  },
+  "7929:2026-11-25": null,
+  "28245:2026-11-25": null,
+  "6948:2026-11-25": null,
+  "16255:2026-11-25": {
+   "ids": [
+    148539,
+    163176,
+    282241,
+    325184,
+    365806,
+    384734,
+    410637,
+    475990,
+    536464,
+    547681,
+    547742
+   ],
+   "players": [
+    "A. Wojcik",
+    "M. Ksiazek",
+    "K. Szymocha",
+    "E. Marcinkowski",
+    "M. Zimmer",
+    "B. Juszczyk",
+    "I. Lawrynowicz",
+    "M. Piotrowski",
+    "J. Antczak",
+    "F. Adamski",
+    "K. Spiewak"
+   ]
+  },
+  "7952:2026-11-25": {
+   "ids": [
+    443782,
+    443785,
+    470343,
+    491160,
+    500010,
+    505350,
+    505356,
+    549389,
+    554033,
+    560691,
+    565764
+   ],
+   "players": [
+    "M. Haapanen",
+    "V. Konttas",
+    "I. Nyback",
+    "J. Kari",
+    "N. Siren",
+    "R. Barrett",
+    "A. Nylund",
+    "L. Palmula",
+    "A. Zaitra",
+    "A. Haikala",
+    "N. Kroupkin"
+   ]
+  },
+  "16563:2026-11-25": {
+   "ids": [
+    486583,
+    570204,
+    577199,
+    577233,
+    577279,
+    639817,
+    647532,
+    684507,
+    689797,
+    690879,
+    690880
+   ],
+   "players": [
+    "Hamza Sobhieh",
+    "H. Hytterod",
+    "F. Naustvik",
+    "P. Hanche-Olsen",
+    "J. Loberg",
+    "E. Varvin-Kvamme",
+    "L. Myklebust",
+    "A. Lie",
+    "C. Bachke",
+    "R. Ferrington",
+    "O. Oppedal"
+   ]
+  },
+  "7984:2026-11-25": {
+   "ids": [
+    445473,
+    445526,
+    490790,
+    490791,
+    494717,
+    494719,
+    494741,
+    529982,
+    667304,
+    682195,
+    683626
+   ],
+   "players": [
+    "B. Aldashev",
+    "R. Kenesbekov",
+    "K. Malayev",
+    "A. Bazarbaev",
+    "A. Kalikulov",
+    "M. Abish",
+    "Y. Kerimkhan",
+    "T. Ismagulov",
+    "D. Tashpulatov",
+    "A. Toleukhan",
+    "D. Orynbassar"
+   ]
+  },
+  "14831:2026-11-25": null,
+  "16384:2026-11-25": {
+   "ids": [
+    462228,
+    496879,
+    551142,
+    551186,
+    610510,
+    610513,
+    610693,
+    610770,
+    625527,
+    638528,
+    685165
+   ],
+   "players": [
+    "N. Homan",
+    "A. Natali",
+    "K. van Ouytsel",
+    "E. Adjedj",
+    "S. van Elst",
+    "A. Ouaziz",
+    "H. de Wit",
+    "J. Sijbrands",
+    "L. Aken",
+    "C. Hellings",
+    "G. Groot"
+   ]
+  },
+  "7925:2026-11-25": {
+   "ids": [
+    496683,
+    497658,
+    562806,
+    619561,
+    620763,
+    648888,
+    661802,
+    689785,
+    690719,
+    690808,
+    690809
+   ],
+   "players": [
+    "R. McGuire",
+    "A. Kerr",
+    "C. Ngwenya",
+    "J. Reid",
+    "A. Scally",
+    "C. Young",
+    "A. McCallion",
+    "L. Rankin",
+    "K. Glasgow",
+    "M. Cameron",
+    "L. Stewart"
+   ]
+  },
+  "1596:2026-11-25": {
+   "ids": [
+    1166,
+    18933,
+    25614,
+    30459,
+    212261,
+    243804,
+    312909,
+    351591,
+    408781,
+    458450,
+    506316
+   ],
+   "players": [
+    "A. Gunn",
+    "B. Kikanovic",
+    "D. Munie",
+    "R. Roberts",
+    "J. Ricketts",
+    "R. Vieira",
+    "E. Löwen",
+    "O. Bouda",
+    "N. Tsakiris",
+    "T. Werner",
+    "P. Judd"
+   ]
+  },
+  "1600:2026-11-25": {
+   "ids": [
+    5385,
+    6053,
+    9588,
+    10120,
+    19125,
+    19142,
+    50836,
+    98936,
+    203075,
+    306581,
+    637811
+   ],
+   "players": [
+    "J. Bond",
+    "Felipe Andrade",
+    "Lucas Halter",
+    "A. Resch",
+    "F. Negri",
+    "Artur",
+    "L. Ennali",
+    "M. Bogusz",
+    "A. Bouzat",
+    "Guilherme",
+    "L. Foster"
+   ]
+  }
+ }
+}

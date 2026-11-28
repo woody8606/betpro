@@ -1,0 +1,765 @@
+{
+ "1550216": {
+  "status": "ok",
+  "h": {
+   "team": "Venezia",
+   "changes": 1,
+   "out": [
+    "M. Moreno"
+   ],
+   "xi": [
+    "F. Stanković",
+    "R. Halhal",
+    "M. Moreno",
+    "Juan Jesus",
+    "A. Hainaut",
+    "Kike Pérez",
+    "S. Sohm",
+    "G. Busio",
+    "R. Haps",
+    "J. Yeboah",
+    "A. Adams"
+   ]
+  },
+  "a": {
+   "team": "Bologna",
+   "changes": 3,
+   "out": [
+    "M. Darmian",
+    "A. Theate",
+    "N. Zortea"
+   ],
+   "xi": [
+    "Ł. Skorupski",
+    "M. Vitík",
+    "N. Casale",
+    "A. Theate",
+    "N. Zortea",
+    "L. Ferguson",
+    "T. Pobega",
+    "R. Alhassane",
+    "F. Bernardeschi",
+    "J. Odgaard",
+    "S. Mbangula"
+   ]
+  },
+  "name": "Venezia - Bologna"
+ },
+ "1555213": {
+  "status": "neanuntate",
+  "name": "Hapoel Kfar Shalem - Hapoel Kfar Saba"
+ },
+ "1585845": {
+  "status": "ok",
+  "h": {
+   "team": "Sarıyer",
+   "changes": 4,
+   "out": [
+    "C. Karayel",
+    "E. Korkmazoğlu",
+    "M. Thiam",
+    "F. Gedik"
+   ],
+   "xi": [
+    "I. Šehić",
+    "Ü. Ergün",
+    "K. Arslan",
+    "C. Osmanpaşa",
+    "J. Attamah",
+    "E. Korkmazoğlu",
+    "T. Ergül",
+    "H. Yeşilyurt",
+    "A. Biyogo Poko",
+    "E. Eze",
+    "E. Karaca"
+   ]
+  },
+  "a": {
+   "team": "İstanbulspor",
+   "changes": 2,
+   "out": [],
+   "xi": [
+    "A. Tutar",
+    "E. Mendy",
+    "M. Ologo",
+    "Umut İslamoğlu",
+    "Y. Özer",
+    "I. Dayakli",
+    "D. Aydın",
+    "M. Fall",
+    "I. Iliev",
+    "Alieu Cham",
+    "M. Sol"
+   ]
+  },
+  "name": "Sarıyer - İstanbulspor"
+ },
+ "1585847": {
+  "status": "ok",
+  "h": {
+   "team": "Ümraniyespor",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "C. Topaloğlu",
+    "O. Yıldırım",
+    "M. Kartal",
+    "T. Glumac",
+    "E. Gedik",
+    "Álex Blanco",
+    "S. Göksu",
+    "A. Đokanović",
+    "Berat Yılmaz",
+    "S. Hostikka",
+    "C. Soukou"
+   ]
+  },
+  "a": {
+   "team": "Manisa F.K.",
+   "changes": 2,
+   "out": [
+    "Y. Benrahou",
+    "C. Sylla"
+   ],
+   "xi": [
+    "V. Karakuş",
+    "K. Yurdakul",
+    "C. Hérelle",
+    "Y. Güreler",
+    "Y. Talum",
+    "B. Touré",
+    "Y. Benrahou",
+    "A. Çankaya",
+    "J. Anziani",
+    "A. Vargas",
+    "C. Sylla"
+   ]
+  },
+  "name": "Ümraniyespor - Manisa F.K."
+ },
+ "1597969": {
+  "status": "ok",
+  "h": {
+   "team": "Al-Sailiya",
+   "changes": 1,
+   "out": [],
+   "xi": [
+    "B. Burke",
+    "Moataz Bostami",
+    "K. van der Kaap",
+    "M. Nani",
+    "Mouz Gadelseed Abdalla",
+    "Abdulrahman Mohamed",
+    "Andri Syahputra",
+    "M. Taabouni",
+    "Y. Belhanda",
+    "A. El Ghazi",
+    "Joselu"
+   ]
+  },
+  "a": {
+   "team": "Al-Gharafa",
+   "changes": 0,
+   "out": [],
+   "xi": [
+    "A. Kone",
+    "Abdulrahman Faiz Al Rashidi",
+    "M. Holgate",
+    "Mostafa Essam",
+    "Dame Traoré",
+    "Ayoub Al Oui",
+    "Jamal Hamed",
+    "A. Hassan",
+    "Jamil Friarkh",
+    "Saifeldeen Hassan Fadlalla",
+    "Yousef Saaed Ahmed"
+   ]
+  },
+  "name": "Al-Sailiya - Al-Gharafa"
+ },
+ "1603487": {
+  "status": "neanuntate",
+  "name": "Geylang International - Tanjong Pagar"
+ },
+ "1603613": {
+  "status": "ok",
+  "h": {
+   "team": "AEK Larnaca",
+   "changes": 2,
+   "out": [
+    "Ledes Gustavo",
+    "N. Andereggen"
+   ],
+   "xi": [
+    "Alberto Paleari",
+    "Jorge Miramón",
+    "Hrvoje Miličević",
+    "Mike Van der Hoorn",
+    "Kostas Pileas",
+    "Amor Layouni",
+    "Gus Ledes",
+    "Ivan Chavdarov Pankov",
+    "Giorgos Naoum",
+    "Riad Bajić",
+    "Nicolas Andereggen"
+   ]
+  },
+  "a": {
+   "team": "Apollon Limassol",
+   "changes": 1,
+   "out": [
+    "G. Rodrigues"
+   ],
+   "xi": [
+    "Philipp Kühn",
+    "Leonidas Konomis",
+    "Connor Goldson",
+    "Josef Kvida",
+    "Bruno Gaspar",
+    "Gaetan Weissbeck",
+    "Ivan Ljubić",
+    "Dani Escriche",
+    "Giorgos Malekkidis",
+    "Joel Asoro",
+    "Alen Ožbolt"
+   ]
+  },
+  "name": "AEK Larnaca - Apollon Limassol"
+ },
+ "1627777": {
+  "status": "neanuntate",
+  "name": "Gomora United FC - Midlands Wanderers"
+ },
+ "1639839": {
+  "status": "ok",
+  "h": {
+   "team": "Delfin SC",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "B. Heras",
+    "B. Hernández",
+    "A. Bedoya",
+    "A. Cisneros",
+    "E. Zúñiga",
+    "G. Heredia",
+    "J. Morocho",
+    "Jefferson Stalin Arce Mina",
+    "Danny Gabriel Luna Morán",
+    "T. Ozaeta",
+    "F. Ayunta"
+   ]
+  },
+  "a": {
+   "team": "Orense SC",
+   "changes": null,
+   "out": [],
+   "xi": [
+    "R. Silva",
+    "C. Barrio",
+    "M. Quiñonez",
+    "A. Lorenzo",
+    "Sixto Romario Mina Arroyo",
+    "B. Caicedo",
+    "Á. Mena",
+    "G. Rostagno",
+    "N. Molina",
+    "Agustin Herrera",
+    "Michael Alessandro Bermúdez Reyes"
+   ]
+  },
+  "name": "Delfin SC - Orense SC"
+ },
+ "1645551": {
+  "status": "ok",
+  "h": {
+   "team": "Independiente Petrolero",
+   "changes": 2,
+   "out": [
+    "J. Gutiérrez",
+    "S. Torres"
+   ],
+   "xi": [
+    "J. Gutiérrez",
+    "Juan David Morales Ruiz",
+    "Roni Santos",
+    "L. Crescencio",
+    "G. Mendoza",
+    "L. Sanchez",
+    "Cristian Jhamil Urdininea Zambrana",
+    "Ferreirinha",
+    "R. Cardozo",
+    "A. Mercado",
+    "Gean"
+   ]
+  },
+  "a": {
+   "team": "Real Oruro",
+   "changes": 2,
+   "out": [
+    "L. Corulo",
+    "J. P. Gomez"
+   ],
+   "xi": [
+    "A. Arancibia",
+    "Y. Calle",
+    "L. Corulo",
+    "D. Castellón",
+    "R. Méndez",
+    "S. Garcia",
+    "A. Rivera",
+    "J. P. Gomez",
+    "J. Montenegro",
+    "A. Quiñonez",
+    "Adán Alexis Félix Bravo"
+   ]
+  },
+  "name": "Independiente Petrolero - Real Oruro"
+ },
+ "1650265": {
+  "status": "neanuntate",
+  "name": "Cannes - Le Puy Foot"
+ },
+ "1651502": {
+  "status": "ok",
+  "h": {
+   "team": "Leon",
+   "changes": 3,
+   "out": [
+    "L. Valadez",
+    "D. Arcila",
+    "D. Cambindo"
+   ],
+   "xi": [
+    "Oscar García",
+    "Iván Moreno",
+    "Jhohan Romaña",
+    "Juan Guevara",
+    "Sebastián Vegas",
+    "Luis Valadez",
+    "Rodrigo Echeverría",
+    "Fernando Beltrán",
+    "Daniel Arcila",
+    "Ismael Díaz",
+    "Diber Cambindo"
+   ]
+  },
+  "a": {
+   "team": "Cruz Azul",
+   "changes": 3,
+   "out": [
+    "G. Piovi",
+    "E. Lira",
+    "J. Paradela"
+   ],
+   "xi": [
+    "Andrés Gudiño",
+    "Jeremy Márquez",
+    "Willer Ditta",
+    "Jesús Orozco",
+    "Omar Campos",
+    "Gonzalo Piovi",
+    "Erik Lira",
+    "José Paradela",
+    "Carlos Rodríguez",
+    "Agustín Palavecino",
+    "Nicolás Ibáñez"
+   ]
+  },
+  "name": "Leon - Cruz Azul"
+ },
+ "_cache": {
+  "517:2026-11-27": {
+   "ids": [
+    774,
+    1014,
+    26438,
+    37144,
+    51266,
+    57446,
+    107153,
+    162445,
+    275394,
+    326183,
+    421807
+   ],
+   "players": [
+    "F. Stanković",
+    "R. Halhal",
+    "M. Moreno",
+    "Juan Jesus",
+    "A. Hainaut",
+    "Kike Pérez",
+    "S. Sohm",
+    "G. Busio",
+    "R. Haps",
+    "A. Adams",
+    "L. Lauberbach"
+   ]
+  },
+  "500:2026-11-27": {
+   "ids": [
+    873,
+    887,
+    2998,
+    30438,
+    30488,
+    30542,
+    31099,
+    31273,
+    44814,
+    128461,
+    204043
+   ],
+   "players": [
+    "Ł. Skorupski",
+    "M. Darmian",
+    "N. Casale",
+    "A. Theate",
+    "N. Zortea",
+    "L. Ferguson",
+    "T. Pobega",
+    "F. Bernardeschi",
+    "R. Orsolini",
+    "N. Cambiaghi",
+    "J. Odgaard"
+   ]
+  },
+  "3605:2026-11-27": {
+   "ids": [
+    2137,
+    19807,
+    49881,
+    49941,
+    50141,
+    50192,
+    134500,
+    162001,
+    292592,
+    296652,
+    550980
+   ],
+   "players": [
+    "I. Šehić",
+    "C. Karayel",
+    "K. Arslan",
+    "C. Osmanpaşa",
+    "E. Korkmazoğlu",
+    "H. Yeşilyurt",
+    "E. Karaca",
+    "B. Alici",
+    "T. Ergül",
+    "M. Thiam",
+    "F. Gedik"
+   ]
+  },
+  "3578:2026-11-27": {
+   "ids": [
+    8642,
+    61883,
+    62133,
+    62774,
+    80749,
+    128928,
+    128929,
+    335591,
+    427698,
+    640117
+   ],
+   "players": [
+    "A. Tutar",
+    "E. Mendy",
+    "M. Ologo",
+    "Umut İslamoğlu",
+    "E. Uzunhan",
+    "I. Dayakli",
+    "K. Sönmez",
+    "I. Iliev",
+    "D. Aydın",
+    "M. Fall",
+    "M. Sol"
+   ]
+  },
+  "3577:2026-11-27": {
+   "ids": [
+    25595,
+    40577,
+    47367,
+    50022,
+    62029,
+    62212,
+    63118,
+    107633,
+    119112,
+    368175,
+    469749
+   ],
+   "players": [
+    "C. Topaloğlu",
+    "O. Yıldırım",
+    "M. Kartal",
+    "T. Glumac",
+    "E. Gedik",
+    "Álex Blanco",
+    "S. Göksu",
+    "A. Đokanović",
+    "S. Hostikka",
+    "C. Soukou",
+    "Berat Yılmaz"
+   ]
+  },
+  "3597:2026-11-27": {
+   "ids": [
+    1267,
+    20977,
+    22164,
+    50105,
+    61877,
+    61908,
+    135872,
+    151964,
+    265603,
+    480401,
+    551002
+   ],
+   "players": [
+    "V. Karakuş",
+    "K. Yurdakul",
+    "C. Hérelle",
+    "Y. Güreler",
+    "O. Kaynak",
+    "Osman Kahraman",
+    "A. Çankaya",
+    "J. Anziani",
+    "Y. Talum",
+    "Y. Benrahou",
+    "C. Sylla"
+   ]
+  },
+  "2898:2026-11-27": {
+   "ids": [
+    445,
+    6571,
+    18907,
+    19195,
+    36904,
+    42314,
+    108552,
+    127801,
+    182424,
+    354701
+   ],
+   "players": [
+    "B. Burke",
+    "Moataz Bostami",
+    "K. van der Kaap",
+    "M. Nani",
+    "Mouz Gadelseed Abdalla",
+    "Y. Belhanda",
+    "Abdulrahman Mohamed",
+    "M. Taabouni",
+    "Andri Syahputra",
+    "A. El Ghazi",
+    "Joselu"
+   ]
+  },
+  "2903:2026-11-27": {
+   "ids": [
+    19150,
+    42145,
+    42306,
+    96784,
+    308915,
+    313213,
+    335845,
+    343983,
+    377930,
+    377931,
+    384486
+   ],
+   "players": [
+    "A. Kone",
+    "Abdulrahman Faiz Al Rashidi",
+    "M. Holgate",
+    "Dame Traoré",
+    "Saifeldeen Hassan Fadlalla",
+    "Ayoub Al Oui",
+    "Mostafa Essam",
+    "Jamal Hamed",
+    "Jamil Friarkh",
+    "Yousef Saaed Ahmed",
+    "A. Hassan"
+   ]
+  },
+  "614:2026-11-27": {
+   "ids": [
+    1016,
+    9084,
+    15553,
+    19322,
+    30642,
+    39078,
+    45840,
+    47138,
+    48011,
+    91448,
+    561380
+   ],
+   "players": [
+    "A. Paleari",
+    "G. Ekpolo",
+    "H. Milicevic",
+    "M. van der Hoorn",
+    "K. Pileas",
+    "A. Layouni",
+    "Ledes Gustavo",
+    "I. Pankov",
+    "N. Andereggen",
+    "R. Bajic",
+    "D. Ivanovic"
+   ]
+  },
+  "602:2026-11-27": {
+   "ids": [
+    1475,
+    1740,
+    7590,
+    11282,
+    15008,
+    19323,
+    22944,
+    26318,
+    37365,
+    44612,
+    47179
+   ],
+   "players": [
+    "P. Kuhn",
+    "B. Gaspar",
+    "C. Goldson",
+    "J. Kvida",
+    "G. Malekkidis",
+    "I. Ljubic",
+    "J. Asoro",
+    "D. Escriche",
+    "G. Weissbeck",
+    "G. Rodrigues",
+    "A. Ozbolt"
+   ]
+  },
+  "1149:2026-11-27": null,
+  "1992:2026-11-27": null,
+  "15702:2026-11-27": {
+   "ids": [
+    2394,
+    9792,
+    65847,
+    65988,
+    307048,
+    349542,
+    353018,
+    414461,
+    452340,
+    631785,
+    635810
+   ],
+   "players": [
+    "J. Gutiérrez",
+    "S. Torres",
+    "Roni Santos",
+    "L. Crescencio",
+    "G. Mendoza",
+    "L. Sanchez",
+    "Cristian Jhamil Urdininea Zambrana",
+    "Ferreirinha",
+    "Willie",
+    "A. Mercado",
+    "Gean"
+   ]
+  },
+  "20252:2026-11-27": {
+   "ids": [
+    58677,
+    63963,
+    65955,
+    65956,
+    75847,
+    106353,
+    334297,
+    517384,
+    575843,
+    605963,
+    653420
+   ],
+   "players": [
+    "A. Arancibia",
+    "Y. Calle",
+    "L. Corulo",
+    "Yhon Jairo Villegas Soleto",
+    "R. Méndez",
+    "J. P. Gomez",
+    "A. Rivera",
+    "F. Gatti",
+    "Adán Alexis Félix Bravo",
+    "S. Garcia",
+    "A. Quiñonez"
+   ]
+  },
+  "2289:2026-11-27": {
+   "ids": [
+    2556,
+    11828,
+    35595,
+    59565,
+    127420,
+    135157,
+    314199,
+    355147,
+    474585,
+    579408,
+    607844
+   ],
+   "players": [
+    "O. Garcia",
+    "I. Moreno",
+    "J. Romana",
+    "P. Bellon",
+    "S. Vegas",
+    "L. Valadez",
+    "R. Echeverria",
+    "J. Lara",
+    "F. Beltran Cruz",
+    "D. Arcila",
+    "D. Cambindo"
+   ]
+  },
+  "2295:2026-11-27": {
+   "ids": [
+    2888,
+    6433,
+    6441,
+    12406,
+    13402,
+    13571,
+    35908,
+    51616,
+    92636,
+    266345,
+    297268
+   ],
+   "players": [
+    "A. Gudino",
+    "A. Mozo",
+    "W. Ditta",
+    "G. Piovi",
+    "O. Campos",
+    "A. Palavecino",
+    "E. Lira",
+    "J. Paradela",
+    "C. Rodriguez",
+    "C. Rotondi",
+    "G. Fernandez"
+   ]
+  }
+ }
+}
