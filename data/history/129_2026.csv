@@ -659,3 +659,6 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1650242,1795293000,448,469,Colon Santa Fe,Deportivo Moron,0,0,0,0
 1651069,1795307400,479,1929,Gimnasia Jujuy,Deportivo Madryn,1,0,0,0
 1650243,1795392000,1928,1965,Gimnasia Y Tiro,Tristan Suarez,0,0,0,0
+1650244,1795816800,1948,16612,Atlanta,Ciudad de Bolívar,0,1,0,1
+1650245,1795824000,469,448,Deportivo Moron,Colon Santa Fe,0,1,0,0
+1650246,1795824000,1965,1928,Tristan Suarez,Gimnasia Y Tiro,1,1,0,0
