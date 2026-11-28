@@ -1020,18 +1020,18 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-26,20:00,1636420,World - UEFA Europa Conference League,HNK Hajduk Split - St. Truiden,top,H15,0.5121,0.5734,0.4712,2.0,Betfair,3.0,0.0242,,,pierdut,-1.0
 2026-11-26,00:00,1639789,Ecuador - Liga Pro,Barcelona SC - Independiente del Valle,value,O25,0.5045,0.5756,0.4571,2.05,Betfair,3.0,0.0343,2.05,0.0,pierdut,-1.0
 2026-11-26,17:45,1636307,World - UEFA Europa League,Olympiakos Piraeus - AC Milan,value,H15,0.4331,0.4992,0.389,2.5,Betfair,3.0,0.0827,2.5,0.0,iesit,1.5
-2026-11-27,19:45,1550216,Italy - Serie A,Venezia - Bologna,value,O25,0.5114,0.5745,0.4692,2.0,Betfair,3.0,0.0227,,,,
+2026-11-27,19:45,1550216,Italy - Serie A,Venezia - Bologna,value,O25,0.5114,0.5745,0.4692,2.0,Betfair,3.0,0.0227,2.0,0.0,pierdut,-1.0
 2026-11-26,12:30,1594913,Egypt - Second League,AL Nasr SC - Tersana,bomba scor,CS_0_0,0.1853,0.1853,,6.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-26,12:30,1594916,Egypt - Second League,El Entag EL Harby - Kahraba Ismailia,bomba scor,CS_1_0,0.1609,0.1609,,7.5,Betfair,3.0,,,,pierdut,-1.0
 2026-11-26,22:00,1651515,Nicaragua - Primera Division,Jalapa - San Marcos,bomba scor,CS_1_0,0.1448,0.1448,,7.5,Betfair,3.0,,,,pierdut,-1.0
 2026-11-26,17:45,1636393,World - UEFA Europa Conference League,Brann - Aarhus,value,1,0.5073,0.5693,0.4659,2.05,Betfair,3.0,0.0399,2.0,0.025,pierdut,-1.0
 2026-11-26,21:00,1610594,Chile - Segunda División,Colina - General Velásquez,bomba scor,CS_0_1,0.0923,0.0923,,12.0,Betfair,3.0,,,,pierdut,-1.0
-2026-11-27,03:10,1651502,Mexico - Liga MX,Leon - Cruz Azul,top,A15,0.5028,0.5613,0.4637,2.0,Betfair,3.0,0.0055,,,,
-2026-11-27,11:30,1603487,Singapore - Premier League,Geylang International - Tanjong Pagar,top,O35,0.5113,0.5521,0.4841,2.0,Betfair,3.0,0.0226,,,,
-2026-11-27,13:00,1597969,Qatar - Stars League,Al-Sailiya - Al-Gharafa,top,O35,0.4937,0.5451,0.4595,2.05,Betfair,3.0,0.0122,,,,
-2026-11-27,13:00,1555213,Israel - Liga Leumit,Hapoel Kfar Shalem - Hapoel Kfar Saba,top,O35,0.5038,0.5649,0.463,2.1,Betfair,3.0,0.0579,,,,
-2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,top,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,,,,
-2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,value,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,,,,
+2026-11-27,03:10,1651502,Mexico - Liga MX,Leon - Cruz Azul,top,A15,0.5028,0.5613,0.4637,2.0,Betfair,3.0,0.0055,,,iesit,1.0
+2026-11-27,11:30,1603487,Singapore - Premier League,Geylang International - Tanjong Pagar,top,O35,0.5113,0.5521,0.4841,2.0,Betfair,3.0,0.0226,,,iesit,1.0
+2026-11-27,13:00,1597969,Qatar - Stars League,Al-Sailiya - Al-Gharafa,top,O35,0.4937,0.5451,0.4595,2.05,Betfair,3.0,0.0122,,,pierdut,-1.0
+2026-11-27,13:00,1555213,Israel - Liga Leumit,Hapoel Kfar Shalem - Hapoel Kfar Saba,top,O35,0.5038,0.5649,0.463,2.1,Betfair,3.0,0.0579,,,pierdut,-1.0
+2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,top,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,,,iesit,1.1
+2026-11-27,17:00,1585847,Turkey - 1. Lig,Ümraniyespor - Manisa F.K.,value,H15,0.5002,0.5636,0.4579,2.1,Betfair,3.0,0.0503,2.1,0.0,iesit,1.1
 2026-11-26,21:00,1610594,Chile - Segunda División,Colina - General Velásquez,bomba scor,CS_1_1,0.1276,0.1276,,8.0,Betfair,3.0,,,,pierdut,-1.0
 2026-11-28,12:00,1551385,Denmark - 1. Division,Hillerød - Vendsyssel FF,top,H15,0.4958,0.5567,0.4553,2.1,Betfair,3.0,0.0412,,,,
 2026-11-28,14:20,1603082,Saudi-Arabia - Pro League,Al-Ettifaq - Al-Hilal Saudi FC,top,O35,0.5121,0.56,0.4801,2.0,Betfair,3.0,0.0241,,,,
@@ -1051,21 +1051,21 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-28,15:30,1555551,Israel - Ligat Ha'al,Hapoel Ramat Gan - Ironi Kiryat Shmona,value,O25,0.558,0.6075,0.5251,1.87,Betfair,3.0,0.0435,,,,
 2026-11-28,15:30,1570854,Spain - Primera División RFEF - Group 1,Unionistas de Salamanca - Deportivo La Coruña II,value,O25,0.5698,0.6189,0.537,1.87,Betfair,3.0,0.0655,,,,
 2026-11-28,17:00,1555436,Switzerland - Super League,FC Vaduz - FC Zurich,value,1,0.4562,0.5256,0.41,2.25,Betfair,3.0,0.0266,,,,
-2026-11-27,17:00,1585845,Turkey - 1. Lig,Sarıyer - İstanbulspor,top,H15,0.501,0.5537,0.466,2.0,Betfair,3.0,0.0021,,,,
-2026-11-27,23:00,1645551,Bolivia - Primera División,Independiente Petrolero - Real Oruro,top,O35,0.4978,0.55,0.463,2.1,Betfair,3.0,0.0453,,,,
-2026-11-27,13:30,1627777,South-Africa - 1st Division,Gomora United FC - Midlands Wanderers,value,O25,0.436,0.5078,0.3882,2.4,Betfair,3.0,0.0465,,,,
-2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,value,1,0.4511,0.523,0.4032,2.3,Betfair,3.0,0.0375,,,,
-2026-11-27,17:00,1603613,Cyprus - 1. Division,AEK Larnaca - Apollon Limassol,bomba HT/FT,HTFT_1_1,0.267,0.267,0.2196,3.75,Betfair,3.0,,,,,
-2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,bomba HT/FT,HTFT_1_1,0.2582,0.2582,0.2146,4.0,Betfair,3.0,,,,,
-2026-11-27,12:30,1594918,Egypt - Second League,Haras El Hodood - Pharco,bomba HT/FT,HTFT_1_1,0.2514,0.2514,0.2101,4.2,Betfair,3.0,,,,,
-2026-11-27,15:30,1648530,Burkina-Faso - Ligue 1,USFA - CFFEB,bomba scor,CS_0_0,0.2548,0.2548,,5.5,Betfair,3.0,,,,,
-2026-11-27,16:30,1643383,Jordan - League,Al Wihdat - Doqarah,bomba scor,CS_1_0,0.1774,0.1774,,6.0,Betfair,3.0,,,,,
-2026-11-27,08:30,1635018,Vietnam - V.League 2,Bóng đá Huế - Long An,bomba scor,CS_1_0,0.1487,0.1487,,7.5,Betfair,3.0,,,,,
-2026-11-27,17:00,1603613,Cyprus - 1. Division,AEK Larnaca - Apollon Limassol,top,H15,0.4253,0.4867,0.3844,2.38,Betfair,3.0,0.0123,,,,
-2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,top,1,0.4511,0.523,0.4032,2.3,Betfair,3.0,0.0375,,,,
-2026-11-27,19:45,1580808,Wales - FAW Championship,Caerphilly Athletic - Baglan Dragons,bomba scor,CS_1_0,0.1486,0.1486,,7.5,Betfair,3.0,,,,,
-2026-11-27,16:00,1631828,Mexico - Liga Premier Serie A,Correcaminos UAT II - FC Santiago,bomba scor,CS_1_0,0.124,0.124,,12.0,Betfair,3.0,,,,,
-2026-11-27,19:00,1639839,Ecuador - Liga Pro,Delfin SC - Orense SC,top,H15,0.4004,0.4597,0.3608,2.63,Betfair,3.0,0.0529,,,,
+2026-11-27,17:00,1585845,Turkey - 1. Lig,Sarıyer - İstanbulspor,top,H15,0.501,0.5537,0.466,2.0,Betfair,3.0,0.0021,,,pierdut,-1.0
+2026-11-27,23:00,1645551,Bolivia - Primera División,Independiente Petrolero - Real Oruro,top,O35,0.4978,0.55,0.463,2.1,Betfair,3.0,0.0453,,,iesit,1.1
+2026-11-27,13:30,1627777,South-Africa - 1st Division,Gomora United FC - Midlands Wanderers,value,O25,0.436,0.5078,0.3882,2.4,Betfair,3.0,0.0465,2.4,0.0,pierdut,-1.0
+2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,value,1,0.4511,0.523,0.4032,2.3,Betfair,3.0,0.0375,2.3,0.0,pierdut,-1.0
+2026-11-27,17:00,1603613,Cyprus - 1. Division,AEK Larnaca - Apollon Limassol,bomba HT/FT,HTFT_1_1,0.267,0.267,0.2196,3.75,Betfair,3.0,,,,iesit,2.75
+2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,bomba HT/FT,HTFT_1_1,0.2582,0.2582,0.2146,4.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,12:30,1594918,Egypt - Second League,Haras El Hodood - Pharco,bomba HT/FT,HTFT_1_1,0.2514,0.2514,0.2101,4.2,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,15:30,1648530,Burkina-Faso - Ligue 1,USFA - CFFEB,bomba scor,CS_0_0,0.2548,0.2548,,5.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,16:30,1643383,Jordan - League,Al Wihdat - Doqarah,bomba scor,CS_1_0,0.1774,0.1774,,6.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,08:30,1635018,Vietnam - V.League 2,Bóng đá Huế - Long An,bomba scor,CS_1_0,0.1487,0.1487,,7.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,17:00,1603613,Cyprus - 1. Division,AEK Larnaca - Apollon Limassol,top,H15,0.4253,0.4867,0.3844,2.38,Betfair,3.0,0.0123,,,iesit,1.38
+2026-11-27,18:00,1650265,France - Coupe de France,Cannes - Le Puy Foot,top,1,0.4511,0.523,0.4032,2.3,Betfair,3.0,0.0375,,,pierdut,-1.0
+2026-11-27,19:45,1580808,Wales - FAW Championship,Caerphilly Athletic - Baglan Dragons,bomba scor,CS_1_0,0.1486,0.1486,,7.5,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,16:00,1631828,Mexico - Liga Premier Serie A,Correcaminos UAT II - FC Santiago,bomba scor,CS_1_0,0.124,0.124,,12.0,Betfair,3.0,,,,pierdut,-1.0
+2026-11-27,19:00,1639839,Ecuador - Liga Pro,Delfin SC - Orense SC,top,H15,0.4004,0.4597,0.3608,2.63,Betfair,3.0,0.0529,,,pierdut,-1.0
 2026-11-28,18:00,1555554,Israel - Ligat Ha'al,Maccabi Netanya - Hapoel Beer Sheva,top,2,0.4901,0.5556,0.4465,2.05,Betfair,3.0,0.0047,,,,
 2026-11-28,06:00,1556169,Japan - J1 League,Vissel Kobe - JEF United Chiba,value,O25,0.5542,0.6123,0.5155,1.87,Betfair,3.0,0.0364,,,,
 2026-11-28,09:00,1610575,Romania - Liga II,ASA Targu Mures - CSM Satu Mare,value,O25,0.5672,0.6383,0.5198,1.8,Betfair,3.0,0.0209,,,,
@@ -1086,3 +1086,10 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-29,16:30,1608761,Italy - Serie C - Girone B,Atalanta II - Forli,value,H15,0.5175,0.5875,0.4709,2.1,Betfair,3.0,0.0868,,,,
 2026-11-29,16:30,1558051,Slovenia - 1. SNL,Koper - Celje,value,1,0.4163,0.4875,0.3688,2.55,Betfair,3.0,0.0615,,,,
 2026-11-29,21:00,1639841,Ecuador - Liga Pro,Mushuc Runa SC - Tecnico Universitario,value,1,0.4257,0.4741,0.3935,2.4,Betfair,3.0,0.0218,,,,
+2026-11-28,13:00,1647677,World - CAF Champions League,Young Africans - MC Alger,top,H15,0.4644,0.5115,0.4331,2.25,Betfair,3.0,0.045,,,,
+2026-11-28,17:30,1603081,Saudi-Arabia - Pro League,Al-Ahli Jeddah - Al Taawon,top,O35,0.4595,0.5103,0.4256,2.2,Betfair,3.0,0.0109,,,,
+2026-11-28,18:00,1650296,France - Coupe de France,Saint Etienne - Villefranche,top,O35,0.4623,0.5323,0.4156,2.3,Betfair,3.0,0.0633,,,,
+2026-11-28,13:00,1647677,World - CAF Champions League,Young Africans - MC Alger,value,H15,0.4644,0.5115,0.4331,2.25,Betfair,3.0,0.045,,,,
+2026-11-28,15:00,1563882,England - League Two,Rotherham - Oldham,value,H15,0.4535,0.5246,0.4061,2.4,Betfair,3.0,0.0884,,,,
+2026-11-28,21:00,1559715,Guatemala - Liga Nacional,Aurora - Cobán Imperial,bomba scor,CS_1_0,0.1455,0.1455,,7.5,Betfair,3.0,,,,,
+2026-11-28,11:00,1551495,Macedonia - First League,Aresimi - Vardar Skopje,bomba scor,CS_0_0,0.0968,0.0968,,11.0,Betfair,3.0,,,,,
