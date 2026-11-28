@@ -1109,3 +1109,7 @@ date,kickoff,fid,league,match,kind,market,p,p_bot,p_ref,odds,book,book_id,edge,c
 2026-11-29,09:15,1559846,Czech-Republic - FNL,Slavia Praha II - Arsenal Česká Lípa,top,O35,0.4679,0.5066,0.4421,2.15,Betfair,3.0,0.006,,,,
 2026-11-29,13:00,1597973,Qatar - Stars League,Al Shamal - Al-Rayyan SC,top,H15,0.465,0.5338,0.419,2.25,Betfair,3.0,0.0461,,,,
 2026-11-29,05:00,1510507,South-Korea - K League 2,Asan Mugunghwa - Busan I Park,value,H15,0.4889,0.5402,0.4548,2.1,Betfair,3.0,0.0268,,,,
+2026-11-28,19:30,1555433,Switzerland - Super League,Servette FC - Lausanne,top,1,0.5021,0.5431,0.4748,2.0,Betfair,3.0,0.0042,,,,
+2026-11-28,19:30,1576250,Germany - 2. Bundesliga,VfL Osnabrück - Hannover 96,top,H15,0.4014,0.4465,0.3714,2.5,Betfair,3.0,0.0036,,,,
+2026-11-28,23:00,1651632,Argentina - Liga Profesional Argentina,Velez Sarsfield - Independiente,top,O25,0.4544,0.5211,0.41,2.38,Betfair,3.0,0.0816,,,,
+2026-11-28,23:30,1505572,Chile - Primera División,Colo Colo - D. La Serena,top,O35,0.4223,0.4573,0.399,2.38,Betfair,3.0,0.0051,,,,
