@@ -40,6 +40,17 @@ def load_csv(name):
     return pd.read_csv(p) if p.exists() else pd.DataFrame()
 
 
+@st.cache_data(ttl=120)
+def load_lineups(day):
+    p = DATA / "lineups" / f"{day}.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
+def echipe(m):
+    from betpro import lineups as _lu
+    return _lu.flag(load_lineups(data.get("date", "")).get(str(m["fid"])))
+
+
 def lips(m):
     inj = m.get("inj") or {}
     h, a = inj.get("h") or [], inj.get("a") or []
@@ -80,13 +91,15 @@ tab_azi, tab_live, tab_bilet, tab_scor, tab_jurnal, tab_lotto = st.tabs(["📋 A
 # ---------------------------------------------------------------- AZI
 with tab_azi:
     st.subheader("⭐ TOP ale zilei")
-    st.caption("3-5 pariuri simple la cota peste 2, cu sansa cea mai mare, verificate cu Pinnacle. Aceeasi miza pe fiecare.")
+    st.caption("3-5 pariuri simple la cota peste 2, cu sansa cea mai mare, verificate cu Pinnacle. Aceeasi miza pe fiecare. "
+               "Echipe de start: ⏳ = inca neanuntate (apar cu ~1 ora inainte), ✅ = fara rotatie mare, "
+               "⚠️ = o echipa are 5+ schimbari fata de meciul trecut.")
     top = picks.top_picks(matches)
     if top:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]), "Sansa %": pct(c["p"]),
-            "Cota corecta": round(1 / c["p"], 2), "Cota Betfair": c["odds"], "Lipsesc": lips(c["match"]),
-            "Liga": c["match"]["league"]} for c in top]), hide_index=True, width="stretch")
+            "Cota corecta": round(1 / c["p"], 2), "Cota Betfair": c["odds"], "Echipe de start": echipe(c["match"]),
+            "Lipsesc": lips(c["match"]), "Liga": c["match"]["league"]} for c in top]), hide_index=True, width="stretch")
     else:
         st.info("Acum nu sunt 3 pariuri destul de bune peste cota 2.")
     value, suspect = picks.value_picks(matches)
@@ -96,7 +109,8 @@ with tab_azi:
         st.dataframe(pd.DataFrame([{
             "Ora": c["match"]["kickoff"], "Meci": c["match"]["name"], "Pariu": label(c["mk"]),
             "Cota": c["odds"], "Sansa %": pct(c["p"]), "Avantaj %": round(100 * c["edge"], 1),
-            "Lipsesc (gazde/oaspeti)": lips(c["match"]), "Liga": c["match"]["league"]} for c in value]),
+            "Echipe de start": echipe(c["match"]), "Lipsesc (gazde/oaspeti)": lips(c["match"]),
+            "Liga": c["match"]["league"]} for c in value]),
             hide_index=True, width="stretch")
     else:
         st.info("Azi nu e niciun value realist.")
