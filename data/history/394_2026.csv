@@ -75,3 +75,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1630264,1795266000,568,691,Sheriff Tiraspol,Milsami Orhei,1,0,0,0
 1630265,1795345200,5379,2271,Sireți,Petrocub,0,1,0,1
 1630266,1795352400,14008,5375,CSF Bălți,Dacia-Buiucani,2,5,1,2
+1630267,1795863600,691,5379,Milsami Orhei,Sireți,4,0,3,0
+1630268,1795870800,5375,4633,Dacia-Buiucani,Zimbru,1,1,1,0

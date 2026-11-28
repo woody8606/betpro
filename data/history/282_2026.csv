@@ -175,3 +175,5 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1645825,1793477700,22469,27639,Deportiva Agropecuaria,Sport Huancayo 2,5,1,1,0
 1648332,1794688200,22469,2551,Deportiva Agropecuaria,Carlos A. Mannucci,0,0,0,0
 1648333,1794757500,2549,2552,U. San Martin,Union Comercio,1,1,1,0
+1648335,1795377600,2552,2549,Union Comercio,U. San Martin,0,1,0,1
+1648334,1795393800,2551,22469,Carlos A. Mannucci,Deportiva Agropecuaria,0,1,0,1

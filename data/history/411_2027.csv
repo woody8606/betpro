@@ -37,5 +37,8 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1645880,1795010400,5401,5410,Cotonsport,Stade Renard,1,0,0.0,0.0
 1645894,1795098600,5556,5400,Aigle Royal,Colombe,0,0,0.0,0.0
 1645883,1795356000,5409,25430,PWD Bamenda,Union Abong-Mbang,3,1,0.0,0.0
-1645885,1795357800,16524,5414,Dynamo de Douala,Unisport Bafang,1,2,1.0,0.0
 1645884,1795357800,5560,5564,Canon,Panthère,0,4,0.0,1.0
+1645885,1795357800,16524,5414,Dynamo de Douala,Unisport Bafang,1,2,1.0,0.0
+1645886,1795617000,20800,5556,Victoria United,Aigle Royal,3,1,1.0,1.0
+1645887,1795876200,20799,5409,Aigle Royal de Moungo,PWD Bamenda,1,1,0.0,0.0
+1645889,1795885200,5414,28568,Unisport Bafang,Gazelle,2,1,0.0,1.0

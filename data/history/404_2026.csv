@@ -71,3 +71,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1648113,1795356000,5303,22179,Libertas,San Marino Academy,1,2,1,0
 1648114,1795356000,5305,5297,Murata,Cailungo,0,3,0,1
 1648115,1795356000,5306,700,Pennarossa,Tre Penne,3,6,3,3
+1648118,1795874400,672,5301,Folgore,Fiorentino,3,0,2,0
+1648116,1795874400,5298,5307,Cosmos,San Giovanni,1,0,0,0
+1648117,1795874400,5300,5306,Faetano,Pennarossa,6,5,2,4
+1648119,1795874400,5302,5305,Juvenes / Dogana,Murata,1,2,1,2
