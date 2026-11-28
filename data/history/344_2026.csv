@@ -175,14 +175,14 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1619333,1792350000,3706,3702,Nacional Potosí,Bolívar,0,1,0,0
 1619334,1792358100,3711,3700,The Strongest,Always Ready,2,1,0,0
 1619335,1792366200,3704,3707,Guabirá,Oriente Petrolero,1,1,0,1
-1645518,1792868400,22266,3701,Gualberto Villarroel SJ,Blooming,2,1,0,0
+1645518,1792873200,22266,3701,Gualberto Villarroel SJ,Blooming,2,1,0,0
 1645519,1792876500,17760,3708,San Antonio Bulo Bulo,Real Potosí,2,1,1,1
 1645520,1792884600,15702,17743,Independiente Petrolero,ABB,4,2,3,1
 1645521,1792954800,3700,20252,Always Ready,Real Oruro,5,1,1,1
 1645522,1792962900,3637,15708,Aurora,Real Tomayapo,1,0,1,0
 1645523,1792971000,3707,3711,Oriente Petrolero,The Strongest,2,1,1,0
 1645524,1793052000,3706,3704,Nacional Potosí,Guabirá,3,0,0,0
-1645525,1793059200,3702,17762,Bolívar,Universitario de Vinto,2,1,0,1
+1645525,1793059200,3702,17762,Bolívar,Universitario de Vinto,2,1,1,0
 1645526,1793397600,3708,15702,Real Potosí,Independiente Petrolero,1,1,0,0
 1645527,1793404800,3707,3637,Oriente Petrolero,Aurora,1,1,1,0
 1645528,1793473200,20252,3706,Real Oruro,Nacional Potosí,1,1,0,0
@@ -207,3 +207,4 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1645547,1795390200,17760,3700,San Antonio Bulo Bulo,Always Ready,0,3,0,1
 1645548,1795460400,20252,3704,Real Oruro,Guabirá,0,3,0,1
 1645549,1795468500,17762,22266,Universitario de Vinto,Gualberto Villarroel SJ,3,0,0,0
+1645551,1795820400,15702,20252,Independiente Petrolero,Real Oruro,4,1,1,1

@@ -465,3 +465,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag
 1648799,1794681000,2427,8388,Deportivo Armenio,Sportivo Italiano,1,0,0,0
 1648798,1794690000,8008,459,Comunicaciones,Arsenal Sarandi,2,3,1,3
 1648800,1794693600,2422,1927,Real Pilar,Talleres Remedios,2,1,0,1
+1648802,1795284000,459,8008,Arsenal Sarandi,Comunicaciones,3,2,0,1
+1648805,1795284000,1927,2422,Talleres Remedios,Real Pilar,1,0,0,0
+1648803,1795284000,3943,481,Deportivo Camioneros,Villa Dalmine,4,0,2,0
+1648804,1795284000,8388,2427,Sportivo Italiano,Deportivo Armenio,0,0,0,0

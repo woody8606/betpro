@@ -152,3 +152,7 @@ fid,ts,home_id,away_id,home,away,hg,ag,hhg,hag,hxg,axg
 1551044,1795316400,2279,2287,Tigres UANL,Club America,1,0,0,0,0.82,0.42
 1551045,1795388820,2278,2295,Guadalajara Chivas,Cruz Azul,1,0,1,0,1.01,1.66
 1551046,1795396200,2290,2288,Club Queretaro,Necaxa,2,2,1,1,0.84,1.57
+1651505,1795654800,2281,2283,Toluca,Atlas,2,0,1,0,2.03,0.8
+1651503,1795662600,2282,2287,Monterrey,Club America,0,0,0,0,0.51,1.37
+1651504,1795741200,2292,2278,CF Pachuca,Guadalajara Chivas,2,1,0,1,0.75,0.43
+1651502,1795749000,2289,2295,Leon,Cruz Azul,0,4,0,2,1.2,1.45
